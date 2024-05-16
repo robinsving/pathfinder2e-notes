@@ -1,0 +1,214 @@
+Level 1/Acidic Burst.md
+Level 1/Agitate.md
+Level 1/Ant Haul.md
+Level 1/Anticipate Peril.md
+Level 1/Burning Hands.md
+Level 1/Charm.md
+Level 1/Chilling Spray.md
+Level 1/Color Spray.md
+Level 1/Déjà Vu.md
+Level 1/Endure.md
+Level 1/Fear.md
+Level 1/Feather Fall.md
+Level 1/Fleet Step.md
+Level 1/Floating Disk.md
+Level 1/Goblin Pox.md
+Level 1/Grim Tendrils.md
+Level 1/Gust of Wind.md
+Level 1/Hydraulic Push.md
+Level 1/Ill Omen.md
+Level 1/Illusory Disguise.md
+Level 1/Illusory Object.md
+Level 1/Jump.md
+Level 1/Liberating Command.md
+Level 1/Longstrider.md
+Level 1/Mage Armor.md
+Level 1/Magic Fang.md
+Level 1/Magic Missile.md
+Level 1/Message Rune.md
+Level 1/Mindlink.md
+Level 1/Negate Aroma.md
+Level 1/Object Reading.md
+Level 1/Pass Without Trace.md
+Level 1/Penumbral Shroud.md
+Level 1/Pest Form.md
+Level 1/Phantom Pain.md
+Level 1/Share Lore.md
+Level 1/Shattering Gem.md
+Level 1/Shillelagh.md
+Level 1/Shockwave.md
+Level 1/Sleep.md
+Level 1/Soothe.md
+Level 1/Summon Animal.md
+Level 1/Summon Construct.md
+Level 1/Summon Fey.md
+Level 1/Summon Plant or Fungus.md
+Level 1/Temporary Tool.md
+Level 1/Tether.md
+Level 1/True Strike.md
+Level 1/Unseen Servant.md
+Level 2/Animal Form.md
+Level 2/Animus Mine.md
+Level 2/Barkskin.md
+Level 2/Blistering Invective.md
+Level 2/Blur.md
+Level 2/Comprehend Language.md
+Level 2/Enlarge.md
+Level 2/Entangle.md
+Level 2/Expeditious Excavation.md
+Level 2/False Life.md
+Level 2/Feast of Ashes.md
+Level 2/Feral Shades.md
+Level 2/Flaming Sphere.md
+Level 2/Fungal Hyphae.md
+Level 2/Glitterdust.md
+Level 2/Hideous Laughter.md
+Level 2/Humanoid Form.md
+Level 2/Invisibility.md
+Level 2/Knock.md
+Level 2/Magic Mouth.md
+Level 2/Mirror Image.md
+Level 2/Misdirection.md
+Level 2/Paranoia.md
+Level 2/Penumbral Disguise.md
+Level 2/Phantom Steed.md
+Level 2/Shape Wood.md
+Level 2/Shatter.md
+Level 2/Slough Skin.md
+Level 2/Speak with Animals.md
+Level 2/Spectral Hand.md
+Level 2/Summon Elemental.md
+Level 2/Touch of Idiocy.md
+Level 2/Tree Shape.md
+Level 2/Vomit Swarm.md
+Level 2/Web.md
+Level 3/Animal Vision.md
+Level 3/Aqueous Orb.md
+Level 3/Cozy Cabin.md
+Level 3/Cup of Dust.md
+Level 3/Earthbind.md
+Level 3/Enthrall.md
+Level 3/Feet to Fins.md
+Level 3/Fireball.md
+Level 3/Ghostly Weapon.md
+Level 3/Gravity Well.md
+Level 3/Haste.md
+Level 3/Hypercognition.md
+Level 3/Insect Form.md
+Level 3/Invisibility Sphere.md
+Level 3/Levitate.md
+Level 3/Lightning Bolt.md
+Level 3/Mad Monkeys.md
+Level 3/Meld into Stone.md
+Level 3/Nondetection.md
+Level 3/Paralyze.md
+Level 3/Secret Page.md
+Level 3/Shifting Sand.md
+Level 3/Slow.md
+Level 3/Stinking Cloud.md
+Level 3/Threefold Aspect.md
+Level 3/Wall of Thorns.md
+Level 3/Wall of Wind.md
+Level 4/Aerial Form.md
+Level 4/Blink.md
+Level 4/Clairvoyance.md
+Level 4/Confusion.md
+Level 4/Creation.md
+Level 4/Dimension Door.md
+Level 4/Dinosaur Form.md
+Level 4/Fire Shield.md
+Level 4/Fly.md
+Level 4/Gaseous Form.md
+Level 4/Glibness.md
+Level 4/Hydraulic Torrent.md
+Level 4/Modify Memory.md
+Level 4/Nightmare.md
+Level 4/Phantasmal Killer.md
+Level 4/Private Sanctum.md
+Level 4/Reflective Scales.md
+Level 4/Resilient Sphere.md
+Level 4/Shape Stone.md
+Level 4/Solid Fog.md
+Level 4/Speak with Plants.md
+Level 4/Stoneskin.md
+Level 4/Suggestion.md
+Level 4/Veil.md
+Level 4/Wall of Fire.md
+Level 4/Weapon Storm.md
+Level 5/Acid Storm.md
+Level 5/Black Tentacles.md
+Level 5/Blister.md
+Level 5/Chromatic Wall.md
+Level 5/Cloak of Colors.md
+Level 5/Cloudkill.md
+Level 5/Cone of Cold.md
+Level 5/Control Water.md
+Level 5/Crushing Despair.md
+Level 5/Dreaming Potential.md
+Level 5/Drop Dead.md
+Level 5/Hallucination.md
+Level 5/Illusory Scene.md
+Level 5/Mariner's Curse.md
+Level 5/Mind Probe.md
+Level 5/Moon Frenzy.md
+Level 5/Passwall.md
+Level 5/Plant Form.md
+Level 5/Prying Eye.md
+Level 5/Secret Chest.md
+Level 5/Shadow Siphon.md
+Level 5/Shadow Walk.md
+Level 5/Strange Geometry.md
+Level 5/Subconscious Suggestion.md
+Level 5/Summon Dragon.md
+Level 5/Summon Entity.md
+Level 5/Synaptic Pulse.md
+Level 5/Synesthesia.md
+Level 5/Tree Stride.md
+Level 5/Wall of Stone.md
+Level 6/Baleful Polymorph.md
+Level 6/Blanket of Stars.md
+Level 6/Chain Lightning.md
+Level 6/Collective Transposition.md
+Level 6/Disintegrate.md
+Level 6/Dominate.md
+Level 6/Dragon Form.md
+Level 6/Feeblemind.md
+Level 6/Flesh to Stone.md
+Level 6/Mislead.md
+Level 6/Phantasmal Calamity.md
+Level 6/Purple Worm Sting.md
+Level 6/Scrying.md
+Level 6/Tangling Creepers.md
+Level 6/Teleport.md
+Level 6/Wall of Force.md
+Level 7/Contingency.md
+Level 7/Duplicate Foe.md
+Level 7/Fiery Body.md
+Level 7/Magnificent Mansion.md
+Level 7/Mask of Terror.md
+Level 7/Possession.md
+Level 7/Project Image.md
+Level 7/Retrocognition.md
+Level 7/Reverse Gravity.md
+Level 7/Spell Turning.md
+Level 7/Time Beacon.md
+Level 7/True Target.md
+Level 7/Unfettered Pack.md
+Level 7/Volcanic Eruption.md
+Level 7/Warp Mind.md
+Level 8/Dream Council.md
+Level 8/Earthquake.md
+Level 8/Maze.md
+Level 8/Prismatic Wall.md
+Level 8/Scintillating Pattern.md
+Level 8/Uncontrollable Dance.md
+Level 8/Unrelenting Observation.md
+Level 8/Wind Walk.md
+Level 9/Disjunction.md
+Level 9/Nature's Enmity.md
+Level 9/Power Word Kill.md
+Level 9/Resplendent Mansion.md
+Level 9/Shapechange.md
+Level 9/Storm of Vengeance.md
+Level 9/Unfathomable Song.md
+Level 9/Weird.md

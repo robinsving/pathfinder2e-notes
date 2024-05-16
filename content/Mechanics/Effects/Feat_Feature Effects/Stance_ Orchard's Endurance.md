@@ -1,0 +1,17 @@
+---
+title: "Stance: Orchard's Endurance"
+noteType: ":luggage:"
+aliases: "Stance: Orchard's Endurance"
+foundryId: Compendium.pf2e.feat-effects.Item.YNoBbHUu7enOSKyv
+tags:
+  - Item
+---
+
+# Stance: Orchard's Endurance
+![[icons-environment-wilderness-tree-oak.webp|150 lp right]]
+
+Patches of bark appear on the skin of you and your nearby allies. You and your allies in your kinetic aura gain resistance 5 to bludgeoning and piercing damage. In addition, you and your affected allies roll flat checks to recover from persistent damage twice and take the higher result; this is a fortune effect.
+
+* * *
+
+**Level (+4)** The resistance increases by 2.

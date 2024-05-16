@@ -1,0 +1,17 @@
+---
+title: "Stance: Mountain Stance"
+noteType: ":luggage:"
+aliases: "Stance: Mountain Stance"
+foundryId: Compendium.pf2e.feat-effects.Item.gYpy9XBPScIlY93p
+tags:
+  - Item
+---
+
+# Stance: Mountain Stance
+![[icons-commodities-treasure-statue-bust-stone-grey.webp|150 lp right]]
+
+Granted by [[Mountain Stance]]
+
+You enter the stance of an implacable mountain—a technique first discovered by dwarven monks—allowing you to strike with the weight of an avalanche. The only Strikes you can make are falling stone unarmed attacks. These deal 1d8 bludgeoning damage; are in the brawling group; and have the forceful, nonlethal, and unarmed traits.
+
+While in Mountain Stance, you gain a +4 item bonus to AC and a +2 circumstance bonus to any defenses against being Shoved or Tripped. However, you have a Dexterity modifier cap to your AC of +0, meaning you don't add your Dexterity to your AC, and your Speeds are all reduced by 5 feet. The item bonus to AC from Mountain Stance is cumulative with armor potency runes on your explorer's clothing, mage armor, and bracers of armor.

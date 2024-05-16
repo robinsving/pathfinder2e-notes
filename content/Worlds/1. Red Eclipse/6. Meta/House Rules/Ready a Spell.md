@@ -1,0 +1,1 @@
+Om man gör [[Mechanics/Rules/Actions/Ready|Ready]] under två rundor i rad så kan man kasta en 2-action spell istället för bara en single action
