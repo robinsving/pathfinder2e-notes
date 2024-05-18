@@ -1,2 +1,0 @@
-Man kan kasta **spells** under vattnet om man använder all sin luft, och därefter börjar drunkna.
-Man kan kasta **multipla spells** om man första rundan förbereder en Reaction på att kasta en spell *precis innan* ens nästa tur startar, och sedan kastar en andra spell som direkt aktivitet under sin andra runda.
