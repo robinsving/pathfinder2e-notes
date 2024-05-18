@@ -1,3 +1,4 @@
 #!/bin/bash
-
-npx quartz build -d /mnt/d/Cloud/Documents/Robin/Spel/Pathfinder/Obsidian
+#–-exclude '__Meta'
+rsync -r /mnt/d/Cloud/Documents/Robin/Spel/Pathfinder/Obsidian/ content
+npx quartz sync
