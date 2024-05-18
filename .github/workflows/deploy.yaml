@@ -18,7 +18,7 @@ jobs:
         uses: konstfish/quartz-build-action@v1
         with:
           source: robinsving/pathfinder2e-notes/content
-          page_title: "Red Missionaries"
+          page_title: "The Crimson World"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
   deploy:
