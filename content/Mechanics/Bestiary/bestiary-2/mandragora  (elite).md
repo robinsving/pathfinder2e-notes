@@ -1,0 +1,73 @@
+---
+obsidianUIMode: preview
+noteType: pf2eMonster
+aliases:
+  - Mandragora
+  - Elite Mandragora
+tags:
+  - pf2e/creature/type/plant
+  - pf2e/creature/level/4
+statblock: inline
+name: Mandragora (elite)
+level: 4
+draft: true
+---
+
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Pathfinder 2e Layout
+source: "B2"
+name: "Mandragora (elite)"
+level: "Creature 5"
+alignment: "CE"
+size: "Small"
+trait_03: "Plant"
+modifier: 11
+perception:
+  - name: "Perception"
+    desc: "Perception +13; __blood scent__, __low-light vision__;"
+languages: "Chthonian, Common; "
+skills:
+  - name: "Skills"
+    desc: "__Acrobatics__: +12 (1d20+10); __Athletics__: +12 (1d20+10); __Stealth__: +14 (1d20+12), (Stealth: +20 (1d20+22) in vegetation); "
+abilityMods: [2, 5, 3, -1, 2, 0]
+
+abilities_top:
+  - name: "Blood Scent"
+    desc: "  A mandragora can smell creatures with blood as an imprecise sense at a range of 30 feet, and it can smell demons, fey, and sorcerers with blood as a precise sense at a range of 30 feet."
+abilities_mid:
+  - name: "Vulnerability to Supernatural Darkness"
+    desc: "  Whenever a mandragora begins its turn in an area of magical darkness, it is [[slowed|slowed 1]] on that turn."
+abilities_bot:
+  - name: "Blood Drain"
+    desc: "⬻ __Requirements__ The mandragora has a creature [[grabbed]]  __Effect__  The mandragora drains blood from the creature it has [[grabbed]], dealing 2d6 (2d6) damage. If the creature is a demon, fey, or sorcerer, the mandragora gains temporary Hit Points equal to the damage dealt. A creature that has its blood [[drained]] by a mandragora is [[drained|drained 1]] until it receives healing of any kind or amount."
+  - name: "Mandragora Venom"
+    desc: " ([[poison]]);  __Saving Throw__ DC 23 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage and [[stupefied|stupefied 1]] (1 round) __Stage 2__ 1d6 (1d6) poison damage, [[confused]], and [[stupefied|stupefied 1]] (1 round) __Stage 3__ 2d6 (2d6) poison damage, [[confused]], and [[stupefied|stupefied 1]] (1 round)"
+  - name: "Piercing Shriek"
+    desc: "⬻ ([[auditory]], [[evocation]], [[mental]], [[primal]]);  Frequency once per day; The mandragora emits an unsettling shriek. Each non-mandragora creature within 30 feet must attempt a DC 27 Will save.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[sickened|sickened 1]].\n__Failure__ The creature is [[sickened|sickened 2]].\n__Critical Failure__ The creature is [[sickened|sickened 2]] and [[slowed|slowed 1]]. As long as the creature remains [[sickened]], this [[slowed|slowed 1]] condition value can't be reduced below 1."
+
+speed: 30 feet, burrow 10 feet, climb 30 feet
+
+ac: 23
+armorclass:
+  - name: AC
+    desc: "23; __Fort__: +13 (1d20+13); __Ref__: +15 (1d20+15); __Will__: +10 (1d20+10);"
+hp: 75
+health:
+  - name: HP
+    desc: "75;  __Weaknesses__ fire 5; __Resistances__ bludgeoning 5, electricity 5"
+attacks:
+  - name: Melee
+    desc: "⬻ jaws +16 ([[finesse]]); __Damage__ 2d8+6 (2d8+6) piercing plus Grab"
+  - name: Melee
+    desc: "⬻ thorny vine +16 ([[agile]], [[finesse]], [[reach|reach 10 feet]]); __Damage__ 2d4+6 (2d4+6) slashing plus mandragora venom"
+
+sourcebook: "_Bestiary 2_, page 170."
+```
+
+```encounter-table
+name: Mandragora
+creatures:
+  - 1: Mandragora (elite)
+```

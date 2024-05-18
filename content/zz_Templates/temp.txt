@@ -1,0 +1,48 @@
+
+&#x3D;     ->  =
+&#x27;     ->  '
+&amp; -> &
+@UUID\[[^{]*feats-srd[^{]*\{([^}]*)\}
+@UUID\[[^{]*actionspf2e[^{]*\{([^}]*)\}           -> $1
+@UUID\[[^{]*spell-effects[^{]*\{([^}]*)\}         -> $1
+@UUID\[[^{]*pathfinder-bestiary[^{]*\{([^}]*)\}   -> $1
+@UUID\[[^{]*equipment-srd[^{]*\{([^}]*)\}         -> $1
+@UUID\[[^{]*conditionitems[^{]*\{([^}]*)\s(\d)\}  -> [[$1]] $2
+@UUID\[[^{]*conditionitems[^{]*\{([^}]*)\}        -> [[$1]]
+@UUID\[[^{]*spells-srd[^{]*\{([^}]*)\}            -> [[$1]]
+
+@Localize\[PF2E.PersistentDamage.(\D*)(\d+d\d+).success\] -> $2 persistent $1 damage
+@Check\[type:flat\|dc:(\d*)\] -> DC $1 Flat check
+
+^([A-Z0-9•])                 -> $1
+
+\[\[\/r ([\dd]*)\[persistent,(\w*)\]\]\] -> $1 persistent $2
+\[\[\/r \((\d)\[splash\]\)\[(\w*)\]\]\] -> $1 $2
+\[\[\/r\s(\d+d?\d+)\[(\w+)\]\]\] -> $1 $2
+
+\n\n(\w) -> \n$1
+\n\n\s\s-\s?(\w) -> \n  - $1
+Heightened (\([^)]*\)) -> &NewLine;**Heightened $1**
+\s\s(Critical Success|Success|Failure|Critical Failure) ->   &NewLine;**$1**
+
+,\s?$ -> (none)
+•\s? ->   - 
+^\*\*Spell Effect:[^*]*\*\*$ -> (none)
+@Template\[type:(\w+)\|distance:(\d+)\] -> $2-foot $1   OBS. Check this!
+^(\s\s\*\*) -> \n$1
+  ([\w-]+)\n\n   ->   &NewLine;**$1**
+
+@Check[type:will|name:Tempest of Shades Depart|traits:necromancy,emotion,fear,mental]
+@Check\[type:athletics\|dc:(\d+)\|traits:action:(\w+)\] -> DC $1 $2
+
+Typos:
+Swimto
+CriticalSuccess
+
+
+Fel:
+Stage
+
+Filer med fel i:
+Temporal Ward
+Time Jump

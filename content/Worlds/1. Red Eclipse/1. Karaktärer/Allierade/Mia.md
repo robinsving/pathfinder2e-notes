@@ -1,0 +1,1 @@
+Ensam överlevare av [[Widows of the Setting Sun]]. Håller numera hand om vårt skepp.
