@@ -1,5 +1,6 @@
 ---
 name: Ray of Frost
+draft: true
 alias: Ray of Frost
 tags:
   - pf2e/spell

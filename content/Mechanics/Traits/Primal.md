@@ -1,5 +1,9 @@
+---
+title: Primal
+tags: pf2e/trait
+draft: true
+---
 # Primal
-#pf2e/trait 
 *Source* Core Rulebook pg. 635 3.0
 
 This magic comes from the primal tradition, connecting to the natural world and instinct. Anything with this trait is magical.

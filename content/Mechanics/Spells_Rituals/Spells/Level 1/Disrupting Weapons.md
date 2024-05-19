@@ -1,5 +1,6 @@
 ---
 name: Disrupting Weapons
+draft: true
 alias: Disrupting Weapons
 tags:
   - pf2e/spell

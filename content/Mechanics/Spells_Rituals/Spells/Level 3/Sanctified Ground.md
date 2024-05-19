@@ -1,5 +1,6 @@
 ---
 name: Sanctified Ground
+draft: true
 alias: Sanctified Ground
 tags:
   - pf2e/spell

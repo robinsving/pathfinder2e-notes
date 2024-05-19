@@ -1,5 +1,6 @@
 ---
 name: Lucky Number
+draft: true
 alias: Lucky Number
 tags:
   - pf2e/spell

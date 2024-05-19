@@ -1,5 +1,6 @@
 ---
 name: Déjà Vu
+draft: true
 alias: Déjà Vu
 tags:
   - pf2e/spell

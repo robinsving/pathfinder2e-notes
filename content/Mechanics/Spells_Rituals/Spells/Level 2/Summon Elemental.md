@@ -1,5 +1,6 @@
 ---
 name: Summon Elemental
+draft: true
 alias: Summon Elemental
 tags:
   - pf2e/spell

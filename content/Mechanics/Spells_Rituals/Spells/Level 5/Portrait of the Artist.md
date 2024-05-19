@@ -1,5 +1,6 @@
 ---
 name: Portrait of the Artist
+draft: true
 alias: Portrait of the Artist
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Quench
+draft: true
 alias: Quench
 tags:
   - pf2e/spell

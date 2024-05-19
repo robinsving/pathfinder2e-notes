@@ -1,5 +1,6 @@
 ---
 name: Behold the Weave
+draft: true
 alias: Behold the Weave
 tags:
   - pf2e/spell

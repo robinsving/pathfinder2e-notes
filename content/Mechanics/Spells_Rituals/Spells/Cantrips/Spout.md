@@ -1,5 +1,6 @@
 ---
 name: Spout
+draft: true
 alias: Spout
 tags:
   - pf2e/spell

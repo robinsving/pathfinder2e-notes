@@ -1,5 +1,6 @@
 ---
 name: Undetectable Alignment
+draft: true
 alias: Undetectable Alignment
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Magic Weapon
+draft: true
 alias: Magic Weapon
 tags:
   - pf2e/spell

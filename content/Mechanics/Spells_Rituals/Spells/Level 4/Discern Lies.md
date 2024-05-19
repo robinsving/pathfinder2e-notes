@@ -1,5 +1,6 @@
 ---
 name: Discern Lies
+draft: true
 alias: Discern Lies
 tags:
   - pf2e/spell

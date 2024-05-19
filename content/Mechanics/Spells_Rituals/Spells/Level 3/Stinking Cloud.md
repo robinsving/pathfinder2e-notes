@@ -1,5 +1,6 @@
 ---
 name: Stinking Cloud
+draft: true
 alias: Stinking Cloud
 tags:
   - pf2e/spell

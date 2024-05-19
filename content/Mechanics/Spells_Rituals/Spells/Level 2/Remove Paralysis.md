@@ -1,5 +1,6 @@
 ---
 name: Remove Paralysis
+draft: true
 alias: Remove Paralysis
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Draw Ire
+draft: true
 alias: Draw Ire
 tags:
   - pf2e/spell

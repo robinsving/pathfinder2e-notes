@@ -1,5 +1,6 @@
 ---
 name: Levitate
+draft: true
 alias: Levitate
 tags:
   - pf2e/spell

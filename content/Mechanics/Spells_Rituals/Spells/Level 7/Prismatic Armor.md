@@ -1,5 +1,6 @@
 ---
 name: Prismatic Armor
+draft: true
 alias: Prismatic Armor
 tags:
   - pf2e/spell

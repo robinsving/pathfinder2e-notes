@@ -1,5 +1,6 @@
 ---
 name: Wall of Shadow
+draft: true
 alias: Wall of Shadow
 tags:
   - pf2e/spell

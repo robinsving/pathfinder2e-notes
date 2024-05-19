@@ -1,5 +1,6 @@
 ---
 name: Ectoplasmic Expulsion
+draft: true
 alias: Ectoplasmic Expulsion
 tags:
   - pf2e/spell

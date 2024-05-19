@@ -1,5 +1,6 @@
 ---
 name: Day's Weight
+draft: true
 alias: Day's Weight
 tags:
   - pf2e/spell

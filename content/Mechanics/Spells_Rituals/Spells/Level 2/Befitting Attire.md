@@ -1,5 +1,6 @@
 ---
 name: Befitting Attire
+draft: true
 alias: Befitting Attire
 tags:
   - pf2e/spell

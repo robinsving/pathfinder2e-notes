@@ -1,5 +1,6 @@
 ---
 name: Flame Strike
+draft: true
 alias: Flame Strike
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Protector Tree
+draft: true
 alias: Protector Tree
 tags:
   - pf2e/spell

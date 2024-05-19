@@ -1,5 +1,9 @@
+---
+title: Animal
+tags: pf2e/trait
+draft: true
+---
 # Animal
-#pf2e/trait 
 *Source* Core Rulebook pg. 628 3.0
 
 An animal is a creature with a relatively low intelligence. It typically doesn’t have an Intelligence ability modifier over –4, can’t speak languages, and can’t be trained in Intelligence-based skills.

@@ -1,4 +1,8 @@
-#pf2e/actions/single_action 
+---
+tags: pf2e/actions/single_action 
+draft: true
+---
+
 # Sneak
 [Move](../../Traits/Move.md) | [Secret](../../Traits/Secret.md)
 

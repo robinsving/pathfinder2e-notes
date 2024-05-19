@@ -1,5 +1,6 @@
 ---
 name: Agitate
+draft: true
 alias: Agitate
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Blackfinger's Blades
+draft: true
 alias: Blackfinger's Blades
 tags:
   - pf2e/spell

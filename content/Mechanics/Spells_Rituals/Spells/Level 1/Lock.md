@@ -1,5 +1,6 @@
 ---
 name: Lock
+draft: true
 alias: Lock
 tags:
   - pf2e/spell

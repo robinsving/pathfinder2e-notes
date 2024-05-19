@@ -1,5 +1,6 @@
 ---
 name: Spell Immunity
+draft: true
 alias: Spell Immunity
 tags:
   - pf2e/spell

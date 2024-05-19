@@ -1,5 +1,6 @@
 ---
 name: Unseen Servant
+draft: true
 alias: Unseen Servant
 tags:
   - pf2e/spell

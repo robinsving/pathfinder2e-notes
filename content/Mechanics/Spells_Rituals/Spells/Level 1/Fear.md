@@ -1,5 +1,6 @@
 ---
 name: Fear
+draft: true
 alias: Fear
 tags:
   - pf2e/spell

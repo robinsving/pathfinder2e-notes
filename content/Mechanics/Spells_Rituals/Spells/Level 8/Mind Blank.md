@@ -1,5 +1,6 @@
 ---
 name: Mind Blank
+draft: true
 alias: Mind Blank
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Cup of Dust
+draft: true
 alias: Cup of Dust
 tags:
   - pf2e/spell

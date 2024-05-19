@@ -1,5 +1,6 @@
 ---
 name: Mantle of the Frozen Heart
+draft: true
 alias: Mantle of the Frozen Heart
 tags:
   - pf2e/spell

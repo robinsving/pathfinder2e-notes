@@ -1,5 +1,6 @@
 ---
 name: Silence
+draft: true
 alias: Silence
 tags:
   - pf2e/spell

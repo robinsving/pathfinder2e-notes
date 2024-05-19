@@ -1,5 +1,6 @@
 ---
 name: Animal Allies
+draft: true
 alias: Animal Allies
 tags:
   - pf2e/spell

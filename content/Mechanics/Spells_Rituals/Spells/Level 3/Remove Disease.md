@@ -1,5 +1,6 @@
 ---
 name: Remove Disease
+draft: true
 alias: Remove Disease
 tags:
   - pf2e/spell

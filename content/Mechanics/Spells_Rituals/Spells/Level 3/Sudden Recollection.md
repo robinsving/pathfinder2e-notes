@@ -1,5 +1,6 @@
 ---
 name: Sudden Recollection
+draft: true
 alias: Sudden Recollection
 tags:
   - pf2e/spell

@@ -1,5 +1,9 @@
+---
+title: Water
+tags: pf2e/trait
+draft: true
+---
 # Water
-#pf2e/trait 
 *Source* Core Rulebook pg. 638 
 
 Effects with the water trait either manipulate or conjure water. Those that manipulate water have no effect in an area without water. Creatures with this trait consist primarily of water or have a magical connection to the element. Planes with this trait are mostly liquid, perhaps with pockets of breathable air.

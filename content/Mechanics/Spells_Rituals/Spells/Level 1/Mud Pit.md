@@ -1,5 +1,6 @@
 ---
 name: Mud Pit
+draft: true
 alias: Mud Pit
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Expeditious Excavation
+draft: true
 alias: Expeditious Excavation
 tags:
   - pf2e/spell

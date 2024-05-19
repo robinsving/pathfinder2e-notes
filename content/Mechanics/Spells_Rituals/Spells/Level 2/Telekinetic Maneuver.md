@@ -1,5 +1,6 @@
 ---
 name: Telekinetic Maneuver
+draft: true
 alias: Telekinetic Maneuver
 tags:
   - pf2e/spell

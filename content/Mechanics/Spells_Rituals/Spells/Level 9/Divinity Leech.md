@@ -1,5 +1,6 @@
 ---
 name: Divinity Leech
+draft: true
 alias: Divinity Leech
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Anathematic Reprisal
+draft: true
 alias: Anathematic Reprisal
 tags:
   - pf2e/spell

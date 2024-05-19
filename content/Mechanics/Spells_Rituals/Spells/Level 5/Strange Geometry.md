@@ -1,5 +1,6 @@
 ---
 name: Strange Geometry
+draft: true
 alias: Strange Geometry
 tags:
   - pf2e/spell

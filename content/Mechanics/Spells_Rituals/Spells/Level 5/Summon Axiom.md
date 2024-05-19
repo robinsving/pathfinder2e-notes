@@ -1,5 +1,6 @@
 ---
 name: Summon Axiom
+draft: true
 alias: Summon Axiom
 tags:
   - pf2e/spell

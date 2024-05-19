@@ -1,5 +1,6 @@
 ---
 name: Heroism
+draft: true
 alias: Heroism
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Fungal Hyphae
+draft: true
 alias: Fungal Hyphae
 tags:
   - pf2e/spell

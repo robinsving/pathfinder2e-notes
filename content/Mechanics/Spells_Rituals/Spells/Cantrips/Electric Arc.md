@@ -1,5 +1,6 @@
 ---
 name: Electric Arc
+draft: true
 alias: Electric Arc
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Stoneskin
+draft: true
 alias: Stoneskin
 tags:
   - pf2e/spell

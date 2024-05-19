@@ -1,5 +1,6 @@
 ---
 name: Boneshaker
+draft: true
 alias: Boneshaker
 tags:
   - pf2e/spell

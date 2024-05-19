@@ -1,5 +1,6 @@
 ---
 name: Protection
+draft: true
 alias: Protection
 tags:
   - pf2e/spell

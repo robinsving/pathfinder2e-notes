@@ -1,5 +1,6 @@
 ---
 name: Mind Reading
+draft: true
 alias: Mind Reading
 tags:
   - pf2e/spell

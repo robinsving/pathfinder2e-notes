@@ -1,5 +1,6 @@
 ---
 name: Jump
+draft: true
 alias: Jump
 tags:
   - pf2e/spell

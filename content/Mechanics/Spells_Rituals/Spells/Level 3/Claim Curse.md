@@ -1,5 +1,6 @@
 ---
 name: Claim Curse
+draft: true
 alias: Claim Curse
 tags:
   - pf2e/spell

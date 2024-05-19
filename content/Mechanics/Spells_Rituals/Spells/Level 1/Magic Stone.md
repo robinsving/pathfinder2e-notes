@@ -1,5 +1,6 @@
 ---
 name: Magic Stone
+draft: true
 alias: Magic Stone
 tags:
   - pf2e/spell

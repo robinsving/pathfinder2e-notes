@@ -1,5 +1,6 @@
 ---
 name: Synesthesia
+draft: true
 alias: Synesthesia
 tags:
   - pf2e/spell

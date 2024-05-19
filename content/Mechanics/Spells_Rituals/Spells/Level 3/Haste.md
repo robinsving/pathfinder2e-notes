@@ -1,5 +1,6 @@
 ---
 name: Haste
+draft: true
 alias: Haste
 tags:
   - pf2e/spell

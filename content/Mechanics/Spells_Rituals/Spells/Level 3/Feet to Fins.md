@@ -1,5 +1,6 @@
 ---
 name: Feet to Fins
+draft: true
 alias: Feet to Fins
 tags:
   - pf2e/spell

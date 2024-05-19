@@ -1,5 +1,6 @@
 ---
 name: Devil Form
+draft: true
 alias: Devil Form
 tags:
   - pf2e/spell

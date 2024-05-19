@@ -1,5 +1,6 @@
 ---
 name: Horizon Thunder Sphere
+draft: true
 alias: Horizon Thunder Sphere
 tags:
   - pf2e/spell

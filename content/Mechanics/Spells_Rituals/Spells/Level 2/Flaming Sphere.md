@@ -1,5 +1,6 @@
 ---
 name: Flaming Sphere
+draft: true
 alias: Flaming Sphere
 tags:
   - pf2e/spell

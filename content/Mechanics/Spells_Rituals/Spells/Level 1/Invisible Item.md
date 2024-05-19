@@ -1,5 +1,6 @@
 ---
 name: Invisible Item
+draft: true
 alias: Invisible Item
 tags:
   - pf2e/spell

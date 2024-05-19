@@ -1,5 +1,6 @@
 ---
 name: Geyser
+draft: true
 alias: Geyser
 tags:
   - pf2e/spell

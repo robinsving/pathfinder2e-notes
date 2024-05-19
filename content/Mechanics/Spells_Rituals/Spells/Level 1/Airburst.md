@@ -1,5 +1,6 @@
 ---
 name: Airburst
+draft: true
 alias: Airburst
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Favorable Review
+draft: true
 alias: Favorable Review
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Revival
+draft: true
 alias: Revival
 tags:
   - pf2e/spell

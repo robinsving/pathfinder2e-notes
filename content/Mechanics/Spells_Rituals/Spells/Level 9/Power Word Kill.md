@@ -1,5 +1,6 @@
 ---
 name: Power Word Kill
+draft: true
 alias: Power Word Kill
 tags:
   - pf2e/spell

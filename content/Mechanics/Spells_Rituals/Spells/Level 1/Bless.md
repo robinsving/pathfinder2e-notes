@@ -1,5 +1,6 @@
 ---
 name: Bless
+draft: true
 aliases:
   - Bless
 tags:

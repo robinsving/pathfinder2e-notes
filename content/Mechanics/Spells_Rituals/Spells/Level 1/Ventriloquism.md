@@ -1,5 +1,6 @@
 ---
 name: Ventriloquism
+draft: true
 alias: Ventriloquism
 tags:
   - pf2e/spell

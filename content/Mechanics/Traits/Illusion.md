@@ -1,5 +1,9 @@
+---
+title: Illusion
+tags: pf2e/trait
+draft: true
+---
 # Illusion
-#pf2e/trait 
 *Source* Core Rulebook pg. 633 3.0
 
 Effects and magic items with this trait are associated with the illusion school of magic, typically involving false sensory stimuli.

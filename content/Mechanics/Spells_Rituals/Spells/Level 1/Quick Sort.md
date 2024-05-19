@@ -1,5 +1,6 @@
 ---
 name: Quick Sort
+draft: true
 alias: Quick Sort
 tags:
   - pf2e/spell

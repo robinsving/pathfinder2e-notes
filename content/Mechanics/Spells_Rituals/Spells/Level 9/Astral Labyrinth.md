@@ -1,5 +1,6 @@
 ---
 name: Astral Labyrinth
+draft: true
 alias: Astral Labyrinth
 tags:
   - pf2e/spell

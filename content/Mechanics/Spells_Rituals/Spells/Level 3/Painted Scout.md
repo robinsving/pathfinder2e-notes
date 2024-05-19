@@ -1,5 +1,6 @@
 ---
 name: Painted Scout
+draft: true
 alias: Painted Scout
 tags:
   - pf2e/spell

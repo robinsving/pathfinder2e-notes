@@ -1,5 +1,6 @@
 ---
 name: Shifting Sand
+draft: true
 alias: Shifting Sand
 tags:
   - pf2e/spell

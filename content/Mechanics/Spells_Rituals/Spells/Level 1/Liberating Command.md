@@ -1,5 +1,6 @@
 ---
 name: Liberating Command
+draft: true
 alias: Liberating Command
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Dancing Lights
+draft: true
 alias: Dancing Lights
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Mage Hand
+draft: true
 alias: Mage Hand
 tags:
   - pf2e/spell

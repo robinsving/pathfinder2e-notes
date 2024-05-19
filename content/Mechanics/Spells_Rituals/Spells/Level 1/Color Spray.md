@@ -1,5 +1,6 @@
 ---
 name: Color Spray
+draft: true
 alias: Color Spray
 tags:
   - pf2e/spell

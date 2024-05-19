@@ -1,5 +1,9 @@
+---
+title: Daemon
+tags: pf2e/trait
+draft: true
+---
 # Daemon
-#pf2e/trait 
 *Source* Bestiary pg. 346
 
 A family of fiends spawned on the desolate plane of Abaddon, most daemons are neutral evil. They typically have darkvision and weakness to good damage.

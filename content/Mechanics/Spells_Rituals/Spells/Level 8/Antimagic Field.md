@@ -1,5 +1,6 @@
 ---
 name: Antimagic Field
+draft: true
 alias: Antimagic Field
 tags:
   - pf2e/spell

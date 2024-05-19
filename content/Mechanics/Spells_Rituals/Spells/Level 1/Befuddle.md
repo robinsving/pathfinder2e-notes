@@ -1,5 +1,6 @@
 ---
 name: Befuddle
+draft: true
 alias: Befuddle
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Safe Passage
+draft: true
 alias: Safe Passage
 tags:
   - pf2e/spell

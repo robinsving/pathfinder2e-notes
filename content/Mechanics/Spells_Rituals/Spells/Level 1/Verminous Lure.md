@@ -1,5 +1,6 @@
 ---
 name: Verminous Lure
+draft: true
 alias: Verminous Lure
 tags:
   - pf2e/spell

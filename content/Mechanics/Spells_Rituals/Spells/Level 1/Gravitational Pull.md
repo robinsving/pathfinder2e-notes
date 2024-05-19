@@ -1,5 +1,6 @@
 ---
 name: Gravitational Pull
+draft: true
 alias: Gravitational Pull
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Dream Council
+draft: true
 alias: Dream Council
 tags:
   - pf2e/spell

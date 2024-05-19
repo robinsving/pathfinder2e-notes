@@ -1,5 +1,6 @@
 ---
 name: Catch Your Name
+draft: true
 alias: Catch Your Name
 tags:
   - pf2e/spell

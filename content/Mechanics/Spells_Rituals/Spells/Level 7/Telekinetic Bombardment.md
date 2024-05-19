@@ -1,5 +1,6 @@
 ---
 name: Telekinetic Bombardment
+draft: true
 alias: Telekinetic Bombardment
 tags:
   - pf2e/spell

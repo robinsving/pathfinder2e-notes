@@ -1,5 +1,6 @@
 ---
 name: Dominate
+draft: true
 alias: Dominate
 tags:
   - pf2e/spell

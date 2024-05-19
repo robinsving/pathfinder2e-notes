@@ -1,5 +1,6 @@
 ---
 name: Bone Spray
+draft: true
 alias: Bone Spray
 tags:
   - pf2e/spell

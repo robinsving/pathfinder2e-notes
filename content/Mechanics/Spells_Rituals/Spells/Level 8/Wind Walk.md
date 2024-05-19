@@ -1,5 +1,6 @@
 ---
 name: Wind Walk
+draft: true
 alias: Wind Walk
 tags:
   - pf2e/spell

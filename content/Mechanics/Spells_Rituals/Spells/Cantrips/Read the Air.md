@@ -1,5 +1,6 @@
 ---
 name: Read the Air
+draft: true
 alias: Read the Air
 tags:
   - pf2e/spell

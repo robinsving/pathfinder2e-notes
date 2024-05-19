@@ -1,5 +1,6 @@
 ---
 name: Forced Mercy
+draft: true
 alias: Forced Mercy
 tags:
   - pf2e/spell

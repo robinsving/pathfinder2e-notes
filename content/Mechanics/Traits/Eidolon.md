@@ -1,5 +1,9 @@
+---
+title: Eidolon
+tags: pf2e/trait
+draft: true
+---
 # Eidolon
-#pf2e/trait 
 *Source* Secrets of Magic pg. 253 1.1
 
 A creature with this trait is a summoner's eidolon. An action or spell with this trait can be performed by an eidolon only. An item with this trait can be used or worn by an eidolon only, and an eidolon can't use items that don't have this trait. (An eidolon can have up to two items invested.)

@@ -1,5 +1,6 @@
 ---
 name: Air Bubble
+draft: true
 alias: Air Bubble
 tags:
   - pf2e/spell

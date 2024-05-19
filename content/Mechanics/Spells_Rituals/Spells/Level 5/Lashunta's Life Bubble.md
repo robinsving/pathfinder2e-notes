@@ -1,5 +1,6 @@
 ---
 name: Lashunta's Life Bubble
+draft: true
 alias: Lashunta's Life Bubble
 tags:
   - pf2e/spell

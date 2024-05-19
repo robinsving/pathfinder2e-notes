@@ -1,5 +1,6 @@
 ---
 name: Blood Duplicate
+draft: true
 alias: Blood Duplicate
 tags:
   - pf2e/spell

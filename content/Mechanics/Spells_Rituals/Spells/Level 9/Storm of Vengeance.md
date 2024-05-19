@@ -1,5 +1,6 @@
 ---
 name: Storm of Vengeance
+draft: true
 alias: Storm of Vengeance
 tags:
   - pf2e/spell

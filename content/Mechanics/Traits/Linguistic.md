@@ -1,5 +1,9 @@
+---
+title: Linguistic
+tags: pf2e/trait
+draft: true
+---
 # Linguistic
-#pf2e/trait 
 *Source* Core Rulebook pg. 633 3.0
 
 An effect with this trait depends on language comprehension. A linguistic effect that targets a creature works only if the target understands the language you are using.

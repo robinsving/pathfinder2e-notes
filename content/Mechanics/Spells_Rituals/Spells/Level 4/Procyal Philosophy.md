@@ -1,5 +1,6 @@
 ---
 name: Procyal Philosophy
+draft: true
 alias: Procyal Philosophy
 tags:
   - pf2e/spell

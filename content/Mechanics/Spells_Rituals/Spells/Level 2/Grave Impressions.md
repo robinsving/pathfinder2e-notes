@@ -1,5 +1,6 @@
 ---
 name: Grave Impressions
+draft: true
 alias: Grave Impressions
 tags:
   - pf2e/spell

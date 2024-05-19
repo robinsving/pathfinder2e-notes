@@ -1,5 +1,6 @@
 ---
 name: Aromatic Lure
+draft: true
 alias: Aromatic Lure
 tags:
   - pf2e/spell

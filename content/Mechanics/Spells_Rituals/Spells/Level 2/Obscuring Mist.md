@@ -1,5 +1,6 @@
 ---
 name: Obscuring Mist
+draft: true
 alias: Obscuring Mist
 tags:
   - pf2e/spell

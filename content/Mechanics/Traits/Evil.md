@@ -1,5 +1,9 @@
+---
+title: Evil
+tags: pf2e/trait
+draft: true
+---
 # Evil
-#pf2e/trait 
 *Source* Core Rulebook pg. 631 3.0
 
 Evil effects often manipulate energy from evil-aligned Outer Planes and are antithetical to good divine servants or divine servants of good deities. A creature with this trait is evil in alignment.

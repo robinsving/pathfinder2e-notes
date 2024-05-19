@@ -1,5 +1,6 @@
 ---
 name: False Life
+draft: true
 alias: False Life
 tags:
   - pf2e/spell

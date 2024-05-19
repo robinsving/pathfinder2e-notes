@@ -1,5 +1,6 @@
 ---
 name: Magnetic Attraction
+draft: true
 alias: Magnetic Attraction
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Vibrant Pattern
+draft: true
 alias: Vibrant Pattern
 tags:
   - pf2e/spell

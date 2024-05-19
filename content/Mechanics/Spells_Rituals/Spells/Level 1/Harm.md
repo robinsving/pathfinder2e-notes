@@ -1,5 +1,6 @@
 ---
 name: Harm
+draft: true
 alias: Harm
 tags:
   - pf2e/spell

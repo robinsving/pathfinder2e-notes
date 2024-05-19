@@ -1,5 +1,6 @@
 ---
 name: Goblin Pox
+draft: true
 alias: Goblin Pox
 tags:
   - pf2e/spell

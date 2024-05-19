@@ -1,5 +1,6 @@
 ---
 name: Primal Phenomenon
+draft: true
 alias: Primal Phenomenon
 tags:
   - pf2e/spell

@@ -1,5 +1,9 @@
+---
+title: Evolution
+tags: pf2e/trait
+draft: true
+---
 # Evolution
-#pf2e/trait 
 *Source* Secrets of Magic pg. 57 1.1
 
 Feats with this trait affect your eidolon instead of you, typically by granting it additional physical capabilities.

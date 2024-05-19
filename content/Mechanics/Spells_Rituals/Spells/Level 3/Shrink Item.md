@@ -1,5 +1,6 @@
 ---
 name: Shrink Item
+draft: true
 alias: Shrink Item
 tags:
   - pf2e/spell

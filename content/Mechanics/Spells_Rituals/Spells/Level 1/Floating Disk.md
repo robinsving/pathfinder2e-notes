@@ -1,5 +1,6 @@
 ---
 name: Floating Disk
+draft: true
 alias: Floating Disk
 tags:
   - pf2e/spell

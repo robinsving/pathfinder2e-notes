@@ -1,5 +1,6 @@
 ---
 name: Dimensional Lock
+draft: true
 alias: Dimensional Lock
 tags:
   - pf2e/spell

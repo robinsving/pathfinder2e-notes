@@ -1,5 +1,6 @@
 ---
 name: Passwall
+draft: true
 alias: Passwall
 tags:
   - pf2e/spell

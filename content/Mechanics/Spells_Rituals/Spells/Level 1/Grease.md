@@ -1,5 +1,6 @@
 ---
 name: Grease
+draft: true
 alias: Grease
 tags:
   - pf2e/spell

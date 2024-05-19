@@ -1,5 +1,6 @@
 ---
 name: Purifying Icicle
+draft: true
 alias: Purifying Icicle
 tags:
   - pf2e/spell

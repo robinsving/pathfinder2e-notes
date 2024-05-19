@@ -1,5 +1,6 @@
 ---
 name: Empathic Link
+draft: true
 alias: Empathic Link
 tags:
   - pf2e/spell

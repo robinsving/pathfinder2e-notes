@@ -1,5 +1,6 @@
 ---
 name: Dimensional Anchor
+draft: true
 alias: Dimensional Anchor
 tags:
   - pf2e/spell

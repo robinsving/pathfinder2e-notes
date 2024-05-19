@@ -1,5 +1,6 @@
 ---
 name: Tanglefoot
+draft: true
 alias: Tanglefoot
 tags:
   - pf2e/spell

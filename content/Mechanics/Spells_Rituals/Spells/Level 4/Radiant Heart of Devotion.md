@@ -1,5 +1,6 @@
 ---
 name: Radiant Heart of Devotion
+draft: true
 alias: Radiant Heart of Devotion
 tags:
   - pf2e/spell

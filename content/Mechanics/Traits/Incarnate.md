@@ -1,5 +1,9 @@
+---
+title: Incarnate
+tags: pf2e/trait
+draft: true
+---
 # Incarnate
-#pf2e/trait 
 *Source* Secrets of Magic pg. 132 1.1
 
 A spell with the incarnate trait is similar in theme to spells that summon creatures, but it doesn't conjure a minion with the summoned trait. Instead, when summoned, the incarnate creature takes its Arrive action when you finish Casting the Spell.

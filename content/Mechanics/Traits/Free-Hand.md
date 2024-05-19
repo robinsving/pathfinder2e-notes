@@ -1,5 +1,9 @@
+---
+title: Free-Hand
+tags: pf2e/trait
+draft: true
+---
 # Free-Hand
-#pf2e/trait 
 *Source* Core Rulebook pg. 282 3.0
 
 This weapon doesn't take up your hand, usually because it is built into your armor. A free-hand weapon can't be [Disarmed](../Rules/Actions/Disarm.md). You can use the hand covered by your free-hand weapon to wield other items, perform [Manipulate](Manipulate.md) actions, and so on. You can't attack with a free-hand weapon if you're wielding anything in that hand or otherwise using that hand. 

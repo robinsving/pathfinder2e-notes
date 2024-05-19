@@ -1,5 +1,9 @@
+---
+title: Ooze
+tags: pf2e/trait
+draft: true
+---
 # Ooze
-#pf2e/trait 
 *Source* Core Rulebook pg. 634 3.0
 
 Oozes are creatures with simple anatomies. They tend to have low mental ability scores and immunity to mental effects and precision damage.

@@ -1,5 +1,9 @@
+---
+title: Magical
+tags: pf2e/trait
+draft: true
+---
 # Magical
-#pf2e/trait 
 *Source* Core Rulebook pg. 633 3.0
 
 Something with the magical trait is imbued with magical energies not tied to a specific tradition of magic. A magical item radiates a magic aura infused with its dominant school of magic.

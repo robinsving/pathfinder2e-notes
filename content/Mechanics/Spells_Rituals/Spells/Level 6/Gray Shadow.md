@@ -1,5 +1,6 @@
 ---
 name: Gray Shadow
+draft: true
 alias: Gray Shadow
 tags:
   - pf2e/spell

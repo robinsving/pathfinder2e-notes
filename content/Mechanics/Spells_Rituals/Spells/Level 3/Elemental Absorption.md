@@ -1,5 +1,6 @@
 ---
 name: Elemental Absorption
+draft: true
 alias: Elemental Absorption
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Stabilize
+draft: true
 alias: Stabilize
 tags:
   - pf2e/spell

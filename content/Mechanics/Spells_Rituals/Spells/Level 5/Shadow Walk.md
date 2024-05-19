@@ -1,5 +1,6 @@
 ---
 name: Shadow Walk
+draft: true
 alias: Shadow Walk
 tags:
   - pf2e/spell

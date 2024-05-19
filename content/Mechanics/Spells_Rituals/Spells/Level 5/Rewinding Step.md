@@ -1,5 +1,6 @@
 ---
 name: Rewinding Step
+draft: true
 alias: Rewinding Step
 tags:
   - pf2e/spell

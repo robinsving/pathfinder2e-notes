@@ -1,5 +1,6 @@
 ---
 name: Summon Plant or Fungus
+draft: true
 alias: Summon Plant or Fungus
 tags:
   - pf2e/spell

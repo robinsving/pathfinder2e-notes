@@ -1,5 +1,6 @@
 ---
 name: Summon Archmage
+draft: true
 alias: Summon Archmage
 tags:
   - pf2e/spell

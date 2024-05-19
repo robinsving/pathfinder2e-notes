@@ -1,5 +1,6 @@
 ---
 name: Uncontrollable Dance
+draft: true
 alias: Uncontrollable Dance
 tags:
   - pf2e/spell

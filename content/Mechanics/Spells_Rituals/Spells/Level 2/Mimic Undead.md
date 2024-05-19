@@ -1,5 +1,6 @@
 ---
 name: Mimic Undead
+draft: true
 alias: Mimic Undead
 tags:
   - pf2e/spell

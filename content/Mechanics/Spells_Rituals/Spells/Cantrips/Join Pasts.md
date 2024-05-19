@@ -1,5 +1,6 @@
 ---
 name: Join Pasts
+draft: true
 alias: Join Pasts
 tags:
   - pf2e/spell

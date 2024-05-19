@@ -1,5 +1,6 @@
 ---
 name: Ghost Sound
+draft: true
 alias: Ghost Sound
 tags:
   - pf2e/spell

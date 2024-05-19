@@ -1,6 +1,10 @@
 
+---
+title: Light
+tags: pf2e/trait
+draft: true
+---
 # Light
-#pf2e/trait 
 *Source* Core Rulebook pg. 633 
 
 Light effects overcome non-magical darkness in the area, and can [counteract](../Rules/Counteracting.md) magical [Darkness](1%20TTRPG/PF2e%20Wiki/Traits/Darkness). You must usually target darkness magic with your light magic directly to counteract the darkness, but some light spells automatically attempt to counteract darkness.

@@ -1,5 +1,6 @@
 ---
 name: Whirlwind
+draft: true
 alias: Whirlwind
 tags:
   - pf2e/spell

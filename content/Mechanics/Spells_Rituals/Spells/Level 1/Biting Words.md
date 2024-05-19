@@ -1,5 +1,6 @@
 ---
 name: Biting Words
+draft: true
 alias: Biting Words
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Exchange Image
+draft: true
 alias: Exchange Image
 tags:
   - pf2e/spell

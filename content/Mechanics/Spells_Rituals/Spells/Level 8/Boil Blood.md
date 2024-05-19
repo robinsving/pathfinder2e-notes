@@ -1,5 +1,6 @@
 ---
 name: Boil Blood
+draft: true
 alias: Boil Blood
 tags:
   - pf2e/spell

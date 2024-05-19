@@ -1,5 +1,6 @@
 ---
 name: Item Facade
+draft: true
 alias: Item Facade
 tags:
   - pf2e/spell

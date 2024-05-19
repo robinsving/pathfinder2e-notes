@@ -1,5 +1,6 @@
 ---
 name: Pummeling Rubble
+draft: true
 alias: Pummeling Rubble
 tags:
   - pf2e/spell

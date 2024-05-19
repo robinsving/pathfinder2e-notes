@@ -1,5 +1,6 @@
 ---
 name: Internal Insurrection
+draft: true
 alias: Internal Insurrection
 tags:
   - pf2e/spell

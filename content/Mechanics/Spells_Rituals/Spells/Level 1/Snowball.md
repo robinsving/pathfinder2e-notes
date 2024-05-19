@@ -1,5 +1,6 @@
 ---
 name: Snowball
+draft: true
 alias: Snowball
 tags:
   - pf2e/spell

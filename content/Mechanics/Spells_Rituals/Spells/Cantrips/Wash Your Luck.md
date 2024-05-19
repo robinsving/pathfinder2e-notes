@@ -1,5 +1,6 @@
 ---
 name: Wash Your Luck
+draft: true
 alias: Wash Your Luck
 tags:
   - pf2e/spell

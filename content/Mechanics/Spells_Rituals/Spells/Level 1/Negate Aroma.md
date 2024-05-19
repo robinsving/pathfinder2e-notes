@@ -1,5 +1,6 @@
 ---
 name: Negate Aroma
+draft: true
 alias: Negate Aroma
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Force Cage
+draft: true
 alias: Force Cage
 tags:
   - pf2e/spell

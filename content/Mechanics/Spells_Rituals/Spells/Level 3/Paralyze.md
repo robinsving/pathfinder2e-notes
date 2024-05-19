@@ -1,5 +1,6 @@
 ---
 name: Paralyze
+draft: true
 alias: Paralyze
 tags:
   - pf2e/spell

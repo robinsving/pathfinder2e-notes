@@ -1,5 +1,6 @@
 ---
 name: Moth's Supper
+draft: true
 alias: Moth's Supper
 tags:
   - pf2e/spell

@@ -1,5 +1,9 @@
+---
+title: Nonlethal
+tags: pf2e/trait
+draft: true
+---
 # Nonlethal
-#pf2e/trait 
 *Source* Core Rulebook pg. 283 3.0
 
 An effect with this trait is not inherently deadly. Damage from a nonlethal effect knocks a creature out rather than killing it. You can use a nonlethal weapon to make a lethal attack with a –2 circumstance penalty.

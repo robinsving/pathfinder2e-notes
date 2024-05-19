@@ -1,5 +1,6 @@
 ---
 name: Disappearance
+draft: true
 alias: Disappearance
 tags:
   - pf2e/spell

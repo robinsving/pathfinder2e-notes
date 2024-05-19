@@ -1,5 +1,6 @@
 ---
 name: Reaper's Lantern
+draft: true
 alias: Reaper's Lantern
 tags:
   - pf2e/spell

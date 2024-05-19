@@ -1,5 +1,6 @@
 ---
 name: Hypercognition
+draft: true
 alias: Hypercognition
 tags:
   - pf2e/spell

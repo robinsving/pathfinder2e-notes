@@ -1,5 +1,6 @@
 ---
 name: Weapon of Judgment
+draft: true
 alias: Weapon of Judgment
 tags:
   - pf2e/spell

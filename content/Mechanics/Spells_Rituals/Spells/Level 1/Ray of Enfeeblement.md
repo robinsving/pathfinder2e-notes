@@ -1,5 +1,6 @@
 ---
 name: Ray of Enfeeblement
+draft: true
 alias: Ray of Enfeeblement
 tags:
   - pf2e/spell

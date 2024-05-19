@@ -1,5 +1,6 @@
 ---
 name: Animate Dead
+draft: true
 alias: Animate Dead
 tags:
   - pf2e/spell

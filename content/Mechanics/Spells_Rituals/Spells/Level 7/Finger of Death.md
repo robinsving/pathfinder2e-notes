@@ -1,5 +1,6 @@
 ---
 name: Finger of Death
+draft: true
 alias: Finger of Death
 tags:
   - pf2e/spell

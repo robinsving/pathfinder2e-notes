@@ -1,5 +1,6 @@
 ---
 name: Continual Flame
+draft: true
 alias: Continual Flame
 tags:
   - pf2e/spell

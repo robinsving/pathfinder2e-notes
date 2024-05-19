@@ -1,5 +1,6 @@
 ---
 name: Inner Radiance Torrent
+draft: true
 alias: Inner Radiance Torrent
 tags:
   - pf2e/spell

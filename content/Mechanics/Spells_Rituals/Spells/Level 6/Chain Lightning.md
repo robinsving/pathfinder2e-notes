@@ -1,5 +1,6 @@
 ---
 name: Chain Lightning
+draft: true
 alias: Chain Lightning
 tags:
   - pf2e/spell

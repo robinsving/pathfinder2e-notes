@@ -1,5 +1,6 @@
 ---
 name: Grisly Growths
+draft: true
 alias: Grisly Growths
 tags:
   - pf2e/spell

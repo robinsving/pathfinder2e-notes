@@ -1,5 +1,6 @@
 ---
 name: Etheric Shards
+draft: true
 alias: Etheric Shards
 tags:
   - pf2e/spell

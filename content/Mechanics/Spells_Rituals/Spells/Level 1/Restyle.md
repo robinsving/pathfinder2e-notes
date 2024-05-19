@@ -1,5 +1,6 @@
 ---
 name: Restyle
+draft: true
 alias: Restyle
 tags:
   - pf2e/spell

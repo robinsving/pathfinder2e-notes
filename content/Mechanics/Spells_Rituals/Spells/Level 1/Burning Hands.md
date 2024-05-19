@@ -1,5 +1,6 @@
 ---
 name: Burning Hands
+draft: true
 alias: Burning Hands
 tags:
   - pf2e/spell

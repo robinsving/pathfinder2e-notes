@@ -1,5 +1,6 @@
 ---
 name: Secret Chest
+draft: true
 alias: Secret Chest
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Swallow Light
+draft: true
 alias: Swallow Light
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Sudden Blight
+draft: true
 alias: Sudden Blight
 tags:
   - pf2e/spell

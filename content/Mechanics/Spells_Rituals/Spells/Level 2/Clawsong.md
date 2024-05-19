@@ -1,5 +1,6 @@
 ---
 name: Clawsong
+draft: true
 alias: Clawsong
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Rip the Spirit
+draft: true
 alias: Rip the Spirit
 tags:
   - pf2e/spell

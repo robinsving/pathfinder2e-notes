@@ -1,5 +1,6 @@
 ---
 name: Gaseous Form
+draft: true
 alias: Gaseous Form
 tags:
   - pf2e/spell

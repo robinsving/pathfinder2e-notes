@@ -1,5 +1,9 @@
+---
+title: Celestial
+tags: pf2e/trait
+draft: true
+---
 # Celestial
-#pf2e/trait 
 *Source* Core Rulebook pg. 629 3.0
 
 Creatures that hail from or have a strong connection to the good-aligned planes are called celestials. Celestials can survive the basic environmental effects of planes in the Outer Sphere.

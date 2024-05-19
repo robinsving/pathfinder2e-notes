@@ -1,5 +1,9 @@
+---
+title: Mental
+tags: pf2e/trait
+draft: true
+---
 # Mental
-#pf2e/trait 
 *Source* Core Rulebook pg. 634 3.0
 
 A mental effect can alter the target's mind. It has no effect on an object or a mindless creature.

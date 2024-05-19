@@ -1,5 +1,6 @@
 ---
 name: Air Walk
+draft: true
 alias: Air Walk
 tags:
   - pf2e/spell

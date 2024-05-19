@@ -1,5 +1,6 @@
 ---
 name: Zone of Truth
+draft: true
 alias: Zone of Truth
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Ghoulish Cravings
+draft: true
 alias: Ghoulish Cravings
 tags:
   - pf2e/spell

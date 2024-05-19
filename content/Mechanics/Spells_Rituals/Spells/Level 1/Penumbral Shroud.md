@@ -1,5 +1,6 @@
 ---
 name: Penumbral Shroud
+draft: true
 alias: Penumbral Shroud
 tags:
   - pf2e/spell

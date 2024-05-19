@@ -1,5 +1,6 @@
 ---
 name: Mirror Image
+draft: true
 alias: Mirror Image
 tags:
   - pf2e/spell

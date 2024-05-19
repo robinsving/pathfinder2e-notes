@@ -1,5 +1,6 @@
 ---
 name: Speak with Animals
+draft: true
 alias: Speak with Animals
 tags:
   - pf2e/spell

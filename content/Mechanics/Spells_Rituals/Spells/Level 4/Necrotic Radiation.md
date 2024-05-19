@@ -1,5 +1,6 @@
 ---
 name: Necrotic Radiation
+draft: true
 alias: Necrotic Radiation
 tags:
   - pf2e/spell

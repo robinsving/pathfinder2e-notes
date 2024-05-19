@@ -1,5 +1,6 @@
 ---
 name: Shadow Spy
+draft: true
 alias: Shadow Spy
 tags:
   - pf2e/spell

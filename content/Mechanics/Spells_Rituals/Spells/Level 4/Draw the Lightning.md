@@ -1,5 +1,6 @@
 ---
 name: Draw the Lightning
+draft: true
 alias: Draw the Lightning
 tags:
   - pf2e/spell

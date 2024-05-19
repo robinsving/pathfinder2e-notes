@@ -1,5 +1,9 @@
+---
+title: Good
+tags: pf2e/trait
+draft: true
+---
 # Good
-#pf2e/trait 
 *Source* Core Rulebook pg. 632 3.0
 
 Good effects often manipulate energy from good-aligned Outer Planes and are antithetical to evil divine servants or divine servants of evil deities. A creature with this trait is good in alignment.

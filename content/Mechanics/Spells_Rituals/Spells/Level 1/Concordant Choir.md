@@ -1,5 +1,6 @@
 ---
 name: Concordant Choir
+draft: true
 alias: Concordant Choir
 tags:
   - pf2e/spell

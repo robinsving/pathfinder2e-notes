@@ -1,5 +1,6 @@
 ---
 name: Bralani Referendum
+draft: true
 alias: Bralani Referendum
 tags:
   - pf2e/spell

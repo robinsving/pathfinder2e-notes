@@ -1,5 +1,6 @@
 ---
 name: Moonburst
+draft: true
 alias: Moonburst
 tags:
   - pf2e/spell

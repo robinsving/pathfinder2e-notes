@@ -1,5 +1,9 @@
+---
+title: Shadow
+tags: pf2e/trait
+draft: true
+---
 # Shadow
-#pf2e/trait 
 *Source* Core Rulebook pg. 636 3.0
 
 Magic with this trait involves shadows or the energy of the Shadow Plane. Creatures with this trait are natives of the Shadow Plane. They can survive the basic environmental effects of the Shadow Plane.

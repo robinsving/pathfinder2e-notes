@@ -1,5 +1,6 @@
 ---
 name: Sage's Curse
+draft: true
 alias: Sage's Curse
 tags:
   - pf2e/spell

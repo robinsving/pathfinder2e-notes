@@ -1,5 +1,9 @@
+---
+title: Composition
+tags: pf2e/trait
+draft: true
+---
 # Composition
-#pf2e/trait 
 *Source* Core Rulebook pg. 629 3.0
 
 To cast a composition cantrip or focus spell, you usually use a type of Performance. If the spell includes a verbal component, you must use an [Auditory](Auditory.md) performance, and if it includes a somatic component, you must use a visual one. The spell gains all the traits of the performance you used.

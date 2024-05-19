@@ -1,5 +1,6 @@
 ---
 name: Avatar
+draft: true
 alias: Avatar
 tags:
   - pf2e/spell

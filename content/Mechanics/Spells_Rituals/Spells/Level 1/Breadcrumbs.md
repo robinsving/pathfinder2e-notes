@@ -1,5 +1,6 @@
 ---
 name: Breadcrumbs
+draft: true
 alias: Breadcrumbs
 tags:
   - pf2e/spell

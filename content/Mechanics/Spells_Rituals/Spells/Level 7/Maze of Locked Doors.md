@@ -1,5 +1,6 @@
 ---
 name: Maze of Locked Doors
+draft: true
 alias: Maze of Locked Doors
 tags:
   - pf2e/spell

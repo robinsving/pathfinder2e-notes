@@ -1,5 +1,6 @@
 ---
 name: Detect Alignment
+draft: true
 alias: Detect Alignment
 tags:
   - pf2e/spell

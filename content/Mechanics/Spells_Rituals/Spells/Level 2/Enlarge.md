@@ -1,5 +1,6 @@
 ---
 name: Enlarge
+draft: true
 alias: Enlarge
 tags:
   - pf2e/spell

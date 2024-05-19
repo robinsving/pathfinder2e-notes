@@ -1,5 +1,6 @@
 ---
 name: Moon Frenzy
+draft: true
 alias: Moon Frenzy
 tags:
   - pf2e/spell

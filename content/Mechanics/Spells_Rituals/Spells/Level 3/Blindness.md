@@ -1,5 +1,6 @@
 ---
 name: Blindness
+draft: true
 alias: Blindness
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Thicket of Knives
+draft: true
 alias: Thicket of Knives
 tags:
   - pf2e/spell

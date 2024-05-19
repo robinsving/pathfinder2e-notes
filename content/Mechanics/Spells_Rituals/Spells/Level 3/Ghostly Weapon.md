@@ -1,5 +1,6 @@
 ---
 name: Ghostly Weapon
+draft: true
 alias: Ghostly Weapon
 tags:
   - pf2e/spell

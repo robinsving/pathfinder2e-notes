@@ -1,5 +1,6 @@
 ---
 name: Mantle of the Magma Heart
+draft: true
 alias: Mantle of the Magma Heart
 tags:
   - pf2e/spell

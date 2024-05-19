@@ -1,5 +1,6 @@
 ---
 name: Summon Healing Servitor
+draft: true
 alias: Summon Healing Servitor
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Umbral Mindtheft
+draft: true
 alias: Umbral Mindtheft
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Worm's Repast
+draft: true
 alias: Worm's Repast
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: True Strike
+draft: true
 alias: True Strike
 tags:
   - pf2e/spell

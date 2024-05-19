@@ -1,5 +1,6 @@
 ---
 name: Phantom Pain
+draft: true
 alias: Phantom Pain
 tags:
   - pf2e/spell

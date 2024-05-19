@@ -1,5 +1,9 @@
+---
+title: Arcane
+tags: pf2e/trait
+draft: true
+---
 # Arcane
-#pf2e/trait 
 *Source* Core Rulebook pg. 628 
 
 This magic comes from the arcane tradition, which is built on logic and rationality. Anything with this trait is [Magical](Magical.md).

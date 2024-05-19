@@ -1,5 +1,6 @@
 ---
 name: Crusade
+draft: true
 alias: Crusade
 tags:
   - pf2e/spell

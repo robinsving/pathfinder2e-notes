@@ -1,5 +1,6 @@
 ---
 name: Hag's Fruit
+draft: true
 alias: Hag's Fruit
 tags:
   - pf2e/spell

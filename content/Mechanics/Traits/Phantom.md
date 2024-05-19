@@ -1,5 +1,9 @@
+---
+title: Phantom
+tags: pf2e/trait
+draft: true
+---
 # Phantom
-#pf2e/trait 
 *Source* Bestiary 3 pg. 309
 
 A phantom is soul that has diverged from the River of Souls on the Ethereal Plane before being judged. They typically retain memories of their life before death, but are not undead.

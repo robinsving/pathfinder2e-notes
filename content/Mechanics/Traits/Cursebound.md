@@ -1,5 +1,9 @@
+---
+title: Cursebound
+tags: pf2e/trait
+draft: true
+---
 # Cursebound
-#pf2e/trait 
 *Source* Advanced Player's Guide pg. 267 2.0
 
 Spells with this trait increase the severity of your oracular curse when cast. Usually only revelation spells have this trait. You can't cast a cursebound spell if you don't have an oracular curse.

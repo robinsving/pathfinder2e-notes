@@ -1,5 +1,6 @@
 ---
 name: Curse Of Lost Time
+draft: true
 alias: Curse Of Lost Time
 tags:
   - pf2e/spell

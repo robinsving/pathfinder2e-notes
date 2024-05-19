@@ -1,5 +1,6 @@
 ---
 name: Illusory Creature
+draft: true
 alias: Illusory Creature
 tags:
   - pf2e/spell

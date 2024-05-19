@@ -1,5 +1,6 @@
 ---
 name: Elysian Whimsy
+draft: true
 alias: Elysian Whimsy
 tags:
   - pf2e/spell

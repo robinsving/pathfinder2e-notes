@@ -1,5 +1,6 @@
 ---
 name: Rally Point
+draft: true
 alias: Rally Point
 tags:
   - pf2e/spell

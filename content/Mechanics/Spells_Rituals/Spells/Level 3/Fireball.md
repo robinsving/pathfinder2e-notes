@@ -1,5 +1,6 @@
 ---
 name: Fireball
+draft: true
 alias: Fireball
 tags:
   - pf2e/spell

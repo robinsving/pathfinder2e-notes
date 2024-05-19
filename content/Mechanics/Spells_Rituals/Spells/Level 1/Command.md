@@ -1,5 +1,6 @@
 ---
 name: Command
+draft: true
 alias: Command
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Fleet Step
+draft: true
 alias: Fleet Step
 tags:
   - pf2e/spell

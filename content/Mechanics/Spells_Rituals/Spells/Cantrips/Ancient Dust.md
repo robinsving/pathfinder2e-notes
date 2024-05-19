@@ -1,5 +1,6 @@
 ---
 name: Ancient Dust
+draft: true
 alias: Ancient Dust
 tags:
   - pf2e/spell

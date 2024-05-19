@@ -1,5 +1,6 @@
 ---
 name: Synchronize
+draft: true
 alias: Synchronize
 tags:
   - pf2e/spell

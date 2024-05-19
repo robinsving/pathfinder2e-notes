@@ -1,5 +1,9 @@
+---
+title: Move
+tags: pf2e/trait
+draft: true
+---
 # Move
-#pf2e/trait 
 *Source* Core Rulebook pg. 634 3.0
 
 An action with this trait involves moving from one space to another.

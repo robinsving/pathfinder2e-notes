@@ -1,5 +1,6 @@
 ---
 name: Momentary Recovery
+draft: true
 alias: Momentary Recovery
 tags:
   - pf2e/spell

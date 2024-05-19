@@ -1,5 +1,6 @@
 ---
 name: Curse of the Spirit Orchestra
+draft: true
 alias: Curse of the Spirit Orchestra
 tags:
   - pf2e/spell

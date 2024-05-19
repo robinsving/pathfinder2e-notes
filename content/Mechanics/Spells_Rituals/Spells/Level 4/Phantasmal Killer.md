@@ -1,5 +1,6 @@
 ---
 name: Phantasmal Killer
+draft: true
 alias: Phantasmal Killer
 tags:
   - pf2e/spell

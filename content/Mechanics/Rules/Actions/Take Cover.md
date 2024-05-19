@@ -1,4 +1,8 @@
-#pf2e/actions/single_action 
+---
+tags: pf2e/actions/single_action 
+draft: true
+---
+
 # Take Cover
 
 **Requirements.** You are benefiting from cover, are near a feature that allows you to take cover, or are **prone**.

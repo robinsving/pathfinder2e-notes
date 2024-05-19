@@ -1,5 +1,6 @@
 ---
 name: Mage Armor
+draft: true
 alias: Mage Armor
 tags:
   - pf2e/spell

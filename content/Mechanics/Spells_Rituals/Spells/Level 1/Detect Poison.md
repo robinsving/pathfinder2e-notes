@@ -1,5 +1,6 @@
 ---
 name: Detect Poison
+draft: true
 alias: Detect Poison
 tags:
   - pf2e/spell

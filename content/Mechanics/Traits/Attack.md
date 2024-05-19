@@ -1,5 +1,9 @@
+---
+title: Attack
+tags: pf2e/trait
+draft: true
+---
 # Attack
-#pf2e/trait 
 *Source* Core Rulebook pg. 629
 
 ---

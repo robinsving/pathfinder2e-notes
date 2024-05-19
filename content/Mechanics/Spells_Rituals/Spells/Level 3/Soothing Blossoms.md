@@ -1,5 +1,6 @@
 ---
 name: Soothing Blossoms
+draft: true
 alias: Soothing Blossoms
 tags:
   - pf2e/spell

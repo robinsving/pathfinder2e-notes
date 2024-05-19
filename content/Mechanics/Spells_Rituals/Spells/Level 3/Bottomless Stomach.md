@@ -1,5 +1,6 @@
 ---
 name: Bottomless Stomach
+draft: true
 alias: Bottomless Stomach
 tags:
   - pf2e/spell

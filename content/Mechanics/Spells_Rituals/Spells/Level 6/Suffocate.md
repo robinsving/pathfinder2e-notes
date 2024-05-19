@@ -1,5 +1,6 @@
 ---
 name: Suffocate
+draft: true
 alias: Suffocate
 tags:
   - pf2e/spell

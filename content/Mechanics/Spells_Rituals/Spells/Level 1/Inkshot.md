@@ -1,5 +1,6 @@
 ---
 name: Inkshot
+draft: true
 alias: Inkshot
 tags:
   - pf2e/spell

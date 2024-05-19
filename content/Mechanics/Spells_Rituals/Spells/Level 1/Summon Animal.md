@@ -1,5 +1,6 @@
 ---
 name: Summon Animal
+draft: true
 alias: Summon Animal
 tags:
   - pf2e/spell

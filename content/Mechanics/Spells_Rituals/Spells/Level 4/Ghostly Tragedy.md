@@ -1,5 +1,6 @@
 ---
 name: Ghostly Tragedy
+draft: true
 alias: Ghostly Tragedy
 tags:
   - pf2e/spell

@@ -1,4 +1,8 @@
-#pf2e/actions/single_action 
+---
+tags: pf2e/actions/single_action 
+draft: true
+---
+
 # Conceal an Object
 ==[Manipulate](../../Traits/Manipulate.md)== | ==[Secret](../../Traits/Secret.md)==
 

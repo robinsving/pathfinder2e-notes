@@ -1,5 +1,9 @@
+---
+title: Witch
+tags: pf2e/trait
+draft: true
+---
 # Witch
-#pf2e/trait 
 *Source* Advanced Player's Guide pg. 271 2.0
 This trait indicates abilities from the witch class.
 

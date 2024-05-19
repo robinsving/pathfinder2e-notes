@@ -1,5 +1,6 @@
 ---
 name: Unfettered Pack
+draft: true
 alias: Unfettered Pack
 tags:
   - pf2e/spell

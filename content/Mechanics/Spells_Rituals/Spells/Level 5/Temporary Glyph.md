@@ -1,5 +1,6 @@
 ---
 name: Temporary Glyph
+draft: true
 alias: Temporary Glyph
 tags:
   - pf2e/spell

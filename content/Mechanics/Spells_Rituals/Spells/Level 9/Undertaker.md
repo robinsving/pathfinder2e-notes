@@ -1,5 +1,6 @@
 ---
 name: Undertaker
+draft: true
 alias: Undertaker
 tags:
   - pf2e/spell

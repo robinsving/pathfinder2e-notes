@@ -1,5 +1,6 @@
 ---
 name: Dreaming Potential
+draft: true
 alias: Dreaming Potential
 tags:
   - pf2e/spell

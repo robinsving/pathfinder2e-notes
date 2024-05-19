@@ -1,5 +1,6 @@
 ---
 name: Vampiric Maiden
+draft: true
 alias: Vampiric Maiden
 tags:
   - pf2e/spell

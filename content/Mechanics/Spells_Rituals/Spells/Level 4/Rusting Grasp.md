@@ -1,5 +1,6 @@
 ---
 name: Rusting Grasp
+draft: true
 alias: Rusting Grasp
 tags:
   - pf2e/spell

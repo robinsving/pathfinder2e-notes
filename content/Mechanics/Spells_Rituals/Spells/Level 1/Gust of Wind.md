@@ -1,5 +1,6 @@
 ---
 name: Gust of Wind
+draft: true
 alias: Gust of Wind
 tags:
   - pf2e/spell

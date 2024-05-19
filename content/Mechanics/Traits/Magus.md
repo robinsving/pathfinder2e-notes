@@ -1,5 +1,9 @@
+---
+title: Magus
+tags: pf2e/trait
+draft: true
+---
 # Magus
-#pf2e/trait 
 *Source* Secrets of Magic pg. 253 1.1
 This indicates abilities from the magus class.
 

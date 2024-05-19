@@ -1,5 +1,6 @@
 ---
 name: Soft Landing
+draft: true
 alias: Soft Landing
 tags:
   - pf2e/spell

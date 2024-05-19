@@ -1,5 +1,6 @@
 ---
 name: Canticle of Everlasting Grief
+draft: true
 alias: Canticle of Everlasting Grief
 tags:
   - pf2e/spell

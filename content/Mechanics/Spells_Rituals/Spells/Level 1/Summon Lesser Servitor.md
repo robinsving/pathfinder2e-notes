@@ -1,5 +1,6 @@
 ---
 name: Summon Lesser Servitor
+draft: true
 alias: Summon Lesser Servitor
 tags:
   - pf2e/spell

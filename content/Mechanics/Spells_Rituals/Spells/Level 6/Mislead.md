@@ -1,5 +1,6 @@
 ---
 name: Mislead
+draft: true
 alias: Mislead
 tags:
   - pf2e/spell

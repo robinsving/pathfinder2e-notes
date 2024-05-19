@@ -1,5 +1,6 @@
 ---
 name: Chromatic Ray
+draft: true
 alias: Chromatic Ray
 tags:
   - pf2e/spell

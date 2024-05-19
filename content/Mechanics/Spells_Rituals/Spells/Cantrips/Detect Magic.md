@@ -1,5 +1,6 @@
 ---
 name: Detect Magic
+draft: true
 alias: Detect Magic
 tags:
   - pf2e/spell

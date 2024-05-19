@@ -1,5 +1,6 @@
 ---
 name: Mindlink
+draft: true
 alias: Mindlink
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Approximate
+draft: true
 alias: Approximate
 tags:
   - pf2e/spell

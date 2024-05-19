@@ -1,5 +1,6 @@
 ---
 name: Crashing Wave
+draft: true
 alias: Crashing Wave
 tags:
   - pf2e/spell

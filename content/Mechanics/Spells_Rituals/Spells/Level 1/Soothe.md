@@ -1,5 +1,6 @@
 ---
 name: Soothe
+draft: true
 alias: Soothe
 tags:
   - pf2e/spell

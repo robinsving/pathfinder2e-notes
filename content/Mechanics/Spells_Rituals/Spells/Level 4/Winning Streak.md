@@ -1,5 +1,6 @@
 ---
 name: Winning Streak
+draft: true
 alias: Winning Streak
 tags:
   - pf2e/spell

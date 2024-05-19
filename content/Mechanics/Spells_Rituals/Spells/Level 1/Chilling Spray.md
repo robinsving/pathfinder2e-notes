@@ -1,5 +1,6 @@
 ---
 name: Chilling Spray
+draft: true
 alias: Chilling Spray
 tags:
   - pf2e/spell

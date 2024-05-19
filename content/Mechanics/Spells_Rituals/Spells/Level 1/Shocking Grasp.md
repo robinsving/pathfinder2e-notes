@@ -1,5 +1,6 @@
 ---
 name: Shocking Grasp
+draft: true
 alias: Shocking Grasp
 tags:
   - pf2e/spell

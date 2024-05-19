@@ -1,5 +1,6 @@
 ---
 name: Divine Inspiration
+draft: true
 alias: Divine Inspiration
 tags:
   - pf2e/spell

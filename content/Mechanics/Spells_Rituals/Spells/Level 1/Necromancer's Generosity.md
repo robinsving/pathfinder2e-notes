@@ -1,5 +1,6 @@
 ---
 name: Necromancer's Generosity
+draft: true
 alias: Necromancer's Generosity
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Movanic Glimmer
+draft: true
 alias: Movanic Glimmer
 tags:
   - pf2e/spell

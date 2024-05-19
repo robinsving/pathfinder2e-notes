@@ -1,5 +1,6 @@
 ---
 name: Charm
+draft: true
 alias: Charm
 tags:
   - pf2e/spell

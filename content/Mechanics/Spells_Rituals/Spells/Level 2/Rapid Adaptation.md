@@ -1,5 +1,6 @@
 ---
 name: Rapid Adaptation
+draft: true
 alias: Rapid Adaptation
 tags:
   - pf2e/spell

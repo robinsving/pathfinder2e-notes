@@ -1,5 +1,6 @@
 ---
 name: Message
+draft: true
 alias: Message
 tags:
   - pf2e/spell

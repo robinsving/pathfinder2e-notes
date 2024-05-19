@@ -1,5 +1,6 @@
 ---
 name: Raise Dead
+draft: true
 alias: Raise Dead
 tags:
   - pf2e/spell

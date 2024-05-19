@@ -1,5 +1,6 @@
 ---
 name: Meteor Swarm
+draft: true
 alias: Meteor Swarm
 tags:
   - pf2e/spell

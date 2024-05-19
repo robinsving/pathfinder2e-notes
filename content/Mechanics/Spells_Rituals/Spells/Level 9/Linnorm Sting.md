@@ -1,5 +1,6 @@
 ---
 name: Linnorm Sting
+draft: true
 alias: Linnorm Sting
 tags:
   - pf2e/spell

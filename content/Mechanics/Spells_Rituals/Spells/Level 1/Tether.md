@@ -1,5 +1,6 @@
 ---
 name: Tether
+draft: true
 alias: Tether
 tags:
   - pf2e/spell

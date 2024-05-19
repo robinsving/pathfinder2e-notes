@@ -1,5 +1,6 @@
 ---
 name: Spiritual Attunement
+draft: true
 alias: Spiritual Attunement
 tags:
   - pf2e/spell

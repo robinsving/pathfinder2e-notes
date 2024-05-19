@@ -1,5 +1,6 @@
 ---
 name: Wyvern Sting
+draft: true
 alias: Wyvern Sting
 tags:
   - pf2e/spell

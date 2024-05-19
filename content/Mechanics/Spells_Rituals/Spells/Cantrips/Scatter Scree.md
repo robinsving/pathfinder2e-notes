@@ -1,5 +1,6 @@
 ---
 name: Scatter Scree
+draft: true
 alias: Scatter Scree
 tags:
   - pf2e/spell

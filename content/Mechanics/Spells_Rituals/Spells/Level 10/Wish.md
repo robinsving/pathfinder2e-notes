@@ -1,5 +1,6 @@
 ---
 name: Wish
+draft: true
 alias: Wish
 tags:
   - pf2e/spell

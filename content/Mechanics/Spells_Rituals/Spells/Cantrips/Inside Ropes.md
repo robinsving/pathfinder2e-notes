@@ -1,5 +1,6 @@
 ---
 name: Inside Ropes
+draft: true
 alias: Inside Ropes
 tags:
   - pf2e/spell

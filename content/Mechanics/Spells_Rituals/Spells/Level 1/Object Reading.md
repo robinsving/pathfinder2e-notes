@@ -1,5 +1,6 @@
 ---
 name: Object Reading
+draft: true
 alias: Object Reading
 tags:
   - pf2e/spell

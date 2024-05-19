@@ -1,5 +1,6 @@
 ---
 name: Spectral Hand
+draft: true
 alias: Spectral Hand
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Cloudkill
+draft: true
 alias: Cloudkill
 tags:
   - pf2e/spell

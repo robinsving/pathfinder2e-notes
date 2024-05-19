@@ -1,5 +1,6 @@
 ---
 name: Aberrant Form
+draft: true
 alias: Aberrant Form
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Temporal Ward
+draft: true
 alias: Temporal Ward
 tags:
   - pf2e/spell

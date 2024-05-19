@@ -1,5 +1,6 @@
 ---
 name: Weapon Storm
+draft: true
 alias: Weapon Storm
 tags:
   - pf2e/spell

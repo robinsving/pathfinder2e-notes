@@ -1,5 +1,9 @@
+---
+title: Hex
+tags: pf2e/trait
+draft: true
+---
 # Hex
-#pf2e/trait 
 *Source* Advanced Player's Guide pg. 268 2.0
 
 A hex is a short-term effect generated on the fly from your patron's magic, requiring your familiar to draw from your patron. As such, you can cast only one spell with the hex trait each turn; attempts to cast a second hex spell on the same turn fail, and the spellcasting actions are lost.

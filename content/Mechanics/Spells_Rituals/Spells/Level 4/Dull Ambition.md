@@ -1,5 +1,6 @@
 ---
 name: Dull Ambition
+draft: true
 alias: Dull Ambition
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Countless Eyes
+draft: true
 alias: Countless Eyes
 tags:
   - pf2e/spell

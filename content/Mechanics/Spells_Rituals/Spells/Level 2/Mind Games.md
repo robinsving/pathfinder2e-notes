@@ -1,5 +1,6 @@
 ---
 name: Mind Games
+draft: true
 alias: Mind Games
 tags:
   - pf2e/spell

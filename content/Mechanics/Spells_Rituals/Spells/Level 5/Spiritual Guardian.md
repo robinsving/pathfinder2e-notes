@@ -1,5 +1,6 @@
 ---
 name: Spiritual Guardian
+draft: true
 alias: Spiritual Guardian
 tags:
   - pf2e/spell

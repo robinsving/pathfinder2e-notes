@@ -1,5 +1,6 @@
 ---
 name: Phantasmal Protagonist
+draft: true
 alias: Phantasmal Protagonist
 tags:
   - pf2e/spell

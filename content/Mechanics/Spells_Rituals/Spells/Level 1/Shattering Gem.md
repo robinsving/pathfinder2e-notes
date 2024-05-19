@@ -1,5 +1,6 @@
 ---
 name: Shattering Gem
+draft: true
 alias: Shattering Gem
 tags:
   - pf2e/spell

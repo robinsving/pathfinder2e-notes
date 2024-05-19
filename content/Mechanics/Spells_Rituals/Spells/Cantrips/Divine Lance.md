@@ -1,5 +1,6 @@
 ---
 name: Divine Lance
+draft: true
 alias: Divine Lance
 tags:
   - pf2e/spell

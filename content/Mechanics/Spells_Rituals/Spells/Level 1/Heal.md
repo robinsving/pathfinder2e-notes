@@ -1,5 +1,6 @@
 ---
 name: Heal
+draft: true
 alias: Heal
 tags:
   - pf2e/spell

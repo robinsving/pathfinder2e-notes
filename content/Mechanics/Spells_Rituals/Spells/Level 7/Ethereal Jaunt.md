@@ -1,5 +1,6 @@
 ---
 name: Ethereal Jaunt
+draft: true
 alias: Ethereal Jaunt
 tags:
   - pf2e/spell

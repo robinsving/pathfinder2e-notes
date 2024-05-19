@@ -1,5 +1,6 @@
 ---
 name: Wall of Ice
+draft: true
 alias: Wall of Ice
 tags:
   - pf2e/spell

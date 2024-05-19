@@ -1,5 +1,6 @@
 ---
 name: Acid Splash
+draft: true
 alias: Acid Splash
 tags:
   - pf2e/spell

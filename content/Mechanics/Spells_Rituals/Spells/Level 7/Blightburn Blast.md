@@ -1,5 +1,6 @@
 ---
 name: Blightburn Blast
+draft: true
 alias: Blightburn Blast
 tags:
   - pf2e/spell

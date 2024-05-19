@@ -1,5 +1,6 @@
 ---
 name: Elemental Gift
+draft: true
 alias: Elemental Gift
 tags:
   - pf2e/spell

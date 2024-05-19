@@ -1,5 +1,6 @@
 ---
 name: Pass Without Trace
+draft: true
 alias: Pass Without Trace
 tags:
   - pf2e/spell

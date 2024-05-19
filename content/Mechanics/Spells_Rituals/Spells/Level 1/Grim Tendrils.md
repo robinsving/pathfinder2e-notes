@@ -1,5 +1,6 @@
 ---
 name: Grim Tendrils
+draft: true
 alias: Grim Tendrils
 tags:
   - pf2e/spell

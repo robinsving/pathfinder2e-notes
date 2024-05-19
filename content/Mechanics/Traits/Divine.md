@@ -1,6 +1,10 @@
 
+---
+title: Divine
+tags: pf2e/trait
+draft: true
+---
 # Divine
-#pf2e/trait 
 *Source* Core Rulebook pg. 631 
 
 This magic comes from the divine tradition, drawing power from deities or similar sources. Anything with this trait is [Magical](Magical.md).

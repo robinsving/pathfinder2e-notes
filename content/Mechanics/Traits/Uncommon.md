@@ -1,5 +1,9 @@
+---
+title: Uncommon
+tags: pf2e/trait
+draft: true
+---
 # Uncommon
-#pf2e/trait 
 *Source* Core Rulebook pg. 637 
 
 Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone.

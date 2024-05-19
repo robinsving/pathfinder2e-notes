@@ -1,5 +1,6 @@
 ---
 name: Spiritual Torrent
+draft: true
 alias: Spiritual Torrent
 tags:
   - pf2e/spell

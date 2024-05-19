@@ -1,5 +1,6 @@
 ---
 name: Nudge the Odds
+draft: true
 alias: Nudge the Odds
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Disjunction
+draft: true
 alias: Disjunction
 tags:
   - pf2e/spell

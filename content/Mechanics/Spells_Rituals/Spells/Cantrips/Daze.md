@@ -1,5 +1,6 @@
 ---
 name: Daze
+draft: true
 alias: Daze
 tags:
   - pf2e/spell

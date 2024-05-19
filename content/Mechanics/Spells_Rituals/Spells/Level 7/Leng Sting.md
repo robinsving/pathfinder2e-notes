@@ -1,5 +1,6 @@
 ---
 name: Leng Sting
+draft: true
 alias: Leng Sting
 tags:
   - pf2e/spell

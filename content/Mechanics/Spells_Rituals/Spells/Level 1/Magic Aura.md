@@ -1,5 +1,6 @@
 ---
 name: Magic Aura
+draft: true
 alias: Magic Aura
 tags:
   - pf2e/spell

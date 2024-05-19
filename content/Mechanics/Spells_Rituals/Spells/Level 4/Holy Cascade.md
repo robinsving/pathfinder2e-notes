@@ -1,5 +1,6 @@
 ---
 name: Holy Cascade
+draft: true
 alias: Holy Cascade
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Spirit Blast
+draft: true
 alias: Spirit Blast
 tags:
   - pf2e/spell

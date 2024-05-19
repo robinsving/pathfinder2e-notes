@@ -1,5 +1,6 @@
 ---
 name: Imp Sting
+draft: true
 alias: Imp Sting
 tags:
   - pf2e/spell

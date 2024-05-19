@@ -1,5 +1,6 @@
 ---
 name: Sigil
+draft: true
 alias: Sigil
 tags:
   - pf2e/spell

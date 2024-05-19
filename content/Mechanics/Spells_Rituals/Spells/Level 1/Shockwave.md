@@ -1,5 +1,6 @@
 ---
 name: Shockwave
+draft: true
 alias: Shockwave
 tags:
   - pf2e/spell

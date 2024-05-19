@@ -1,5 +1,6 @@
 ---
 name: Magic Fang
+draft: true
 alias: Magic Fang
 tags:
   - pf2e/spell

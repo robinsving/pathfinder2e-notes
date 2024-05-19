@@ -1,5 +1,6 @@
 ---
 name: Suggestion
+draft: true
 alias: Suggestion
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Outcast's Curse
+draft: true
 alias: Outcast's Curse
 tags:
   - pf2e/spell

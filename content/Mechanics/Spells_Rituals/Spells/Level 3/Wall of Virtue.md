@@ -1,5 +1,6 @@
 ---
 name: Wall of Virtue
+draft: true
 alias: Wall of Virtue
 tags:
   - pf2e/spell

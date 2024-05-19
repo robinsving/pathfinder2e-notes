@@ -1,5 +1,6 @@
 ---
 name: Shadow Siphon
+draft: true
 alias: Shadow Siphon
 tags:
   - pf2e/spell

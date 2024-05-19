@@ -1,5 +1,6 @@
 ---
 name: Schadenfreude
+draft: true
 alias: Schadenfreude
 tags:
   - pf2e/spell

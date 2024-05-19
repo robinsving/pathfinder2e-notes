@@ -1,5 +1,6 @@
 ---
 name: Telekinetic Projectile
+draft: true
 alias: Telekinetic Projectile
 tags:
   - pf2e/spell

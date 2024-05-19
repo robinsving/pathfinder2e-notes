@@ -1,5 +1,6 @@
 ---
 name: Vision of Beauty
+draft: true
 alias: Vision of Beauty
 tags:
   - pf2e/spell

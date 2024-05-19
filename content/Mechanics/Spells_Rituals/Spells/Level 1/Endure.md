@@ -1,5 +1,6 @@
 ---
 name: Endure
+draft: true
 alias: Endure
 tags:
   - pf2e/spell

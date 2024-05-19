@@ -1,5 +1,6 @@
 ---
 name: Bane
+draft: true
 alias: Bane
 tags:
   - pf2e/spell

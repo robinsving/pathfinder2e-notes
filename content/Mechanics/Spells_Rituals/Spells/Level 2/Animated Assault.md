@@ -1,5 +1,6 @@
 ---
 name: Animated Assault
+draft: true
 alias: Animated Assault
 tags:
   - pf2e/spell

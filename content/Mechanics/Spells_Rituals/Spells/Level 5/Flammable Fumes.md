@@ -1,5 +1,6 @@
 ---
 name: Flammable Fumes
+draft: true
 alias: Flammable Fumes
 tags:
   - pf2e/spell

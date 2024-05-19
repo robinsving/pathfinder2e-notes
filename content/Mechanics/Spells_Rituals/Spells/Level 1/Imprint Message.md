@@ -1,5 +1,6 @@
 ---
 name: Imprint Message
+draft: true
 alias: Imprint Message
 tags:
   - pf2e/spell

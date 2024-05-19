@@ -1,5 +1,6 @@
 ---
 name: Cloak of Colors
+draft: true
 alias: Cloak of Colors
 tags:
   - pf2e/spell

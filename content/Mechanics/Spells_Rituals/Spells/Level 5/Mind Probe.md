@@ -1,5 +1,6 @@
 ---
 name: Mind Probe
+draft: true
 alias: Mind Probe
 tags:
   - pf2e/spell

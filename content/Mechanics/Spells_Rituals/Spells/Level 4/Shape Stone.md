@@ -1,5 +1,6 @@
 ---
 name: Shape Stone
+draft: true
 alias: Shape Stone
 tags:
   - pf2e/spell

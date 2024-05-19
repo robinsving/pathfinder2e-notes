@@ -1,5 +1,6 @@
 ---
 name: Dividing Trench
+draft: true
 alias: Dividing Trench
 tags:
   - pf2e/spell

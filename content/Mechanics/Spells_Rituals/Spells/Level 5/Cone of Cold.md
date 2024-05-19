@@ -1,5 +1,6 @@
 ---
 name: Cone of Cold
+draft: true
 alias: Cone of Cold
 tags:
   - pf2e/spell

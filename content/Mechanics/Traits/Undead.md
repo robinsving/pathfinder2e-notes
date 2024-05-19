@@ -1,5 +1,9 @@
+---
+title: Undead
+tags: pf2e/trait
+draft: true
+---
 # Undead
-#pf2e/trait 
 *Source* Core Rulebook pg. 637 
 
 Once living, these creatures were infused after death with negative energy and soul-corrupting evil magic. When reduced to 0 Hit Points, an undead creature is destroyed. 

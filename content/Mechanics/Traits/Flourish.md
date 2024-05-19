@@ -1,5 +1,9 @@
+---
+title: Flourish
+tags: pf2e/trait
+draft: true
+---
 # Flourish
-#pf2e/trait 
 *Source* Core Rulebook pg. 632 3.0
 
 Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.

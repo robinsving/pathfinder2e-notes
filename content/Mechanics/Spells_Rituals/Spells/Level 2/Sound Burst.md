@@ -1,5 +1,6 @@
 ---
 name: Sound Burst
+draft: true
 alias: Sound Burst
 tags:
   - pf2e/spell

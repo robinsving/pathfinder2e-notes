@@ -1,5 +1,6 @@
 ---
 name: Divine Vessel
+draft: true
 alias: Divine Vessel
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Phantasmal Calamity
+draft: true
 alias: Phantasmal Calamity
 tags:
   - pf2e/spell

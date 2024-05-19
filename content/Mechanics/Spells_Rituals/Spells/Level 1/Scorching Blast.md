@@ -1,5 +1,6 @@
 ---
 name: Scorching Blast
+draft: true
 alias: Scorching Blast
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Gritty Wheeze
+draft: true
 alias: Gritty Wheeze
 tags:
   - pf2e/spell

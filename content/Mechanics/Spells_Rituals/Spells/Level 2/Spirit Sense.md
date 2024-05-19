@@ -1,5 +1,6 @@
 ---
 name: Spirit Sense
+draft: true
 alias: Spirit Sense
 tags:
   - pf2e/spell

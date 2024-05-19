@@ -1,5 +1,6 @@
 ---
 name: Comprehend Language
+draft: true
 alias: Comprehend Language
 tags:
   - pf2e/spell

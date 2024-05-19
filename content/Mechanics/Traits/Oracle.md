@@ -1,5 +1,9 @@
+---
+title: Oracle
+tags: pf2e/trait
+draft: true
+---
 # Oracle
-#pf2e/trait 
 *Source* Advanced Player's Guide pg. 269 2.0
 
 This trait indicates abilities from the oracle class.

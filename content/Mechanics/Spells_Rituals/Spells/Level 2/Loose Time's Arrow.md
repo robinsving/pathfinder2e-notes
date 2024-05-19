@@ -1,5 +1,6 @@
 ---
 name: Loose Time's Arrow
+draft: true
 alias: Loose Time's Arrow
 tags:
   - pf2e/spell

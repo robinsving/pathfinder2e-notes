@@ -1,5 +1,6 @@
 ---
 name: Regenerate
+draft: true
 alias: Regenerate
 tags:
   - pf2e/spell

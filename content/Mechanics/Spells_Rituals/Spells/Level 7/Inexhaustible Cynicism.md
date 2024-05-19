@@ -1,5 +1,6 @@
 ---
 name: Inexhaustible Cynicism
+draft: true
 alias: Inexhaustible Cynicism
 tags:
   - pf2e/spell

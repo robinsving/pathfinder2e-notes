@@ -1,5 +1,6 @@
 ---
 name: Blistering Invective
+draft: true
 alias: Blistering Invective
 tags:
   - pf2e/spell

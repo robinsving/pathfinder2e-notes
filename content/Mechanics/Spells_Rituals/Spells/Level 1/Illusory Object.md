@@ -1,5 +1,6 @@
 ---
 name: Illusory Object
+draft: true
 alias: Illusory Object
 tags:
   - pf2e/spell

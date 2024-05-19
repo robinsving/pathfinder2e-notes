@@ -1,4 +1,8 @@
-#pf2e/actions/single_action 
+---
+tags: pf2e/actions/single_action 
+draft: true
+---
+
 # Stride
 ==[Move](../../Traits/Move.md)==
 

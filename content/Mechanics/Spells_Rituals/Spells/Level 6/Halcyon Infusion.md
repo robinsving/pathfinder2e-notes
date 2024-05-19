@@ -1,5 +1,6 @@
 ---
 name: Halcyon Infusion
+draft: true
 alias: Halcyon Infusion
 tags:
   - pf2e/spell

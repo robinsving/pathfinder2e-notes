@@ -1,5 +1,6 @@
 ---
 name: Divine Wrath
+draft: true
 alias: Divine Wrath
 tags:
   - pf2e/spell

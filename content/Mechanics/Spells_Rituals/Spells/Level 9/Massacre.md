@@ -1,5 +1,6 @@
 ---
 name: Massacre
+draft: true
 alias: Massacre
 tags:
   - pf2e/spell

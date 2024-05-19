@@ -1,5 +1,6 @@
 ---
 name: Flowing Strike
+draft: true
 alias: Flowing Strike
 tags:
   - pf2e/spell

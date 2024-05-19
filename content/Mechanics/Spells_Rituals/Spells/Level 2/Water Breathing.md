@@ -1,5 +1,6 @@
 ---
 name: Water Breathing
+draft: true
 alias: Water Breathing
 tags:
   - pf2e/spell

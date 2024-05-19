@@ -1,5 +1,6 @@
 ---
 name: Noxious Vapors
+draft: true
 alias: Noxious Vapors
 tags:
   - pf2e/spell

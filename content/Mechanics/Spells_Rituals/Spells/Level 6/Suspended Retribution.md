@@ -1,5 +1,6 @@
 ---
 name: Suspended Retribution
+draft: true
 alias: Suspended Retribution
 tags:
   - pf2e/spell

@@ -1,5 +1,9 @@
+---
+title: Propulsive
+tags: pf2e/trait
+draft: true
+---
 # Propulsive
-#pf2e/trait 
 *Source* Core Rulebook pg. 283 3.0
 
 You add half your Strength modifier (if positive) to damage rolls with a propulsive ranged weapon. If you have a negative Strength modifier, you add your full Strength modifier instead.

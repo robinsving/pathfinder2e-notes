@@ -1,5 +1,6 @@
 ---
 name: Blade Barrier
+draft: true
 alias: Blade Barrier
 tags:
   - pf2e/spell

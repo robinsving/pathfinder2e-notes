@@ -1,5 +1,9 @@
+---
+title: Evocation
+tags: pf2e/trait
+draft: true
+---
 # Evocation
-#pf2e/trait 
 *Source* Core Rulebook pg. 631 3.0
 
 Effects and magic items with this trait are associated with the evocation school of magic, typically involving energy and elemental forces.

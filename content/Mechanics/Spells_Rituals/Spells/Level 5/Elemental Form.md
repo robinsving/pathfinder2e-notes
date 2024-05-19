@@ -1,5 +1,6 @@
 ---
 name: Elemental Form
+draft: true
 alias: Elemental Form
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Girzanje's March
+draft: true
 alias: Girzanje's March
 tags:
   - pf2e/spell

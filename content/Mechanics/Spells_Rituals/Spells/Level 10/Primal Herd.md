@@ -1,5 +1,6 @@
 ---
 name: Primal Herd
+draft: true
 alias: Primal Herd
 tags:
   - pf2e/spell

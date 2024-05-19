@@ -1,5 +1,6 @@
 ---
 name: Gate
+draft: true
 alias: Gate
 tags:
   - pf2e/spell

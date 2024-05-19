@@ -1,5 +1,6 @@
 ---
 name: Blazing Blade
+draft: true
 alias: Blazing Blade
 tags:
   - pf2e/spell

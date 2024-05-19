@@ -1,5 +1,6 @@
 ---
 name: Impart Empathy
+draft: true
 alias: Impart Empathy
 tags:
   - pf2e/spell

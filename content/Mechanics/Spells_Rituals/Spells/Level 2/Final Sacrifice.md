@@ -1,5 +1,6 @@
 ---
 name: Final Sacrifice
+draft: true
 alias: Final Sacrifice
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Gentle Repose
+draft: true
 alias: Gentle Repose
 tags:
   - pf2e/spell

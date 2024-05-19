@@ -1,5 +1,9 @@
+---
+title: Teleportation
+tags: pf2e/trait
+draft: true
+---
 # Teleportation
-#pf2e/trait 
 *Source* Core Rulebook pg. 637
 
 Teleportation effects allow you to instantaneously move from one point in space to another. Teleportation does not usually trigger reactions based on movement.

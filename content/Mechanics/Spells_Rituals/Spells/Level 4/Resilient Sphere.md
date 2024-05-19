@@ -1,5 +1,6 @@
 ---
 name: Resilient Sphere
+draft: true
 alias: Resilient Sphere
 tags:
   - pf2e/spell

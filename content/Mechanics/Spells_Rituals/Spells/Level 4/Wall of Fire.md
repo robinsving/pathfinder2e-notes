@@ -1,5 +1,6 @@
 ---
 name: Wall of Fire
+draft: true
 alias: Wall of Fire
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Animate Rope
+draft: true
 alias: Animate Rope
 tags:
   - pf2e/spell

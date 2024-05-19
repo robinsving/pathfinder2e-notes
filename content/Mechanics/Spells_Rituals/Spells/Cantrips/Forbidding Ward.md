@@ -1,5 +1,6 @@
 ---
 name: Forbidding Ward
+draft: true
 alias: Forbidding Ward
 tags:
   - pf2e/spell

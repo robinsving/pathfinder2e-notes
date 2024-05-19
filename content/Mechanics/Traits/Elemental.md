@@ -1,5 +1,9 @@
+---
+title: Elemental
+tags: pf2e/trait
+draft: true
+---
 # Elemental
-#pf2e/trait 
 *Source* Core Rulebook pg. 631 3.0
 
 Elementals are creatures directly tied to an element and native to the Elemental Planes. Elementals don’t need to breathe.

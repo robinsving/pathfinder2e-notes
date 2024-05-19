@@ -1,5 +1,9 @@
+---
+title: Extradimensional
+tags: pf2e/trait
+draft: true
+---
 # Extradimensional
-#pf2e/trait 
 *Source* Core Rulebook pg. 631 3.0
 
 This effect or item creates an extradimensional space. An extradimensional effect placed inside another extradimensional space ceases to function until it is removed.

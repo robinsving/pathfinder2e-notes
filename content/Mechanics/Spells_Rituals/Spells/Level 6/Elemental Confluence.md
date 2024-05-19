@@ -1,5 +1,6 @@
 ---
 name: Elemental Confluence
+draft: true
 alias: Elemental Confluence
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Web of Eyes
+draft: true
 alias: Web of Eyes
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Spider Sting
+draft: true
 alias: Spider Sting
 tags:
   - pf2e/spell

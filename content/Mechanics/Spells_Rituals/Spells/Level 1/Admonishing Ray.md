@@ -1,5 +1,6 @@
 ---
 name: Admonishing Ray
+draft: true
 alias: Admonishing Ray
 tags:
   - pf2e/spell

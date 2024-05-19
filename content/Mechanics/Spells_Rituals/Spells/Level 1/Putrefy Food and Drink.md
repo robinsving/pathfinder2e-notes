@@ -1,5 +1,6 @@
 ---
 name: Putrefy Food and Drink
+draft: true
 alias: Putrefy Food and Drink
 tags:
   - pf2e/spell

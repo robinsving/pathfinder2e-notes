@@ -1,5 +1,6 @@
 ---
 name: Fire Seeds
+draft: true
 alias: Fire Seeds
 tags:
   - pf2e/spell

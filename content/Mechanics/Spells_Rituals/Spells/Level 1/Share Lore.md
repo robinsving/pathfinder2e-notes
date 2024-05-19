@@ -1,5 +1,6 @@
 ---
 name: Share Lore
+draft: true
 alias: Share Lore
 tags:
   - pf2e/spell

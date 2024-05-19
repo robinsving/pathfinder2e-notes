@@ -1,5 +1,6 @@
 ---
 name: True Target
+draft: true
 alias: True Target
 tags:
   - pf2e/spell

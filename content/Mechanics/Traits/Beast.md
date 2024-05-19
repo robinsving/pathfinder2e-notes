@@ -1,5 +1,9 @@
+---
+title: Beast
+tags: pf2e/trait
+draft: true
+---
 # Beast
-#pf2e/trait 
 *Source* Core Rulebook pg. 629 3.0
 A creature similar to an animal but with an Intelligence modifier of –3 or higher is usually a beast. Unlike an animal, a beast might be able to speak and reason.
 

@@ -1,5 +1,6 @@
 ---
 name: Scouring Sand
+draft: true
 alias: Scouring Sand
 tags:
   - pf2e/spell

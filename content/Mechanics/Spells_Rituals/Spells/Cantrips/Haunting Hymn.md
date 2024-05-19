@@ -1,5 +1,6 @@
 ---
 name: Haunting Hymn
+draft: true
 alias: Haunting Hymn
 tags:
   - pf2e/spell

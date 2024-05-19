@@ -1,5 +1,6 @@
 ---
 name: Tree Stride
+draft: true
 alias: Tree Stride
 tags:
   - pf2e/spell

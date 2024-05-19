@@ -1,5 +1,6 @@
 ---
 name: Weird
+draft: true
 alias: Weird
 tags:
   - pf2e/spell

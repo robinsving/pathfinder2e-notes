@@ -1,5 +1,6 @@
 ---
 name: Lightning Bolt
+draft: true
 alias: Lightning Bolt
 tags:
   - pf2e/spell

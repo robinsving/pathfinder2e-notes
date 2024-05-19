@@ -1,5 +1,6 @@
 ---
 name: Illusory Disguise
+draft: true
 alias: Illusory Disguise
 tags:
   - pf2e/spell

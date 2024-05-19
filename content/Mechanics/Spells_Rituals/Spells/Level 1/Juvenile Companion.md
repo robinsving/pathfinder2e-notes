@@ -1,5 +1,6 @@
 ---
 name: Juvenile Companion
+draft: true
 alias: Juvenile Companion
 tags:
   - pf2e/spell

@@ -1,5 +1,9 @@
+---
+title: Aberration
+tags: pf2e/trait
+draft: true
+---
 # Aberration
-#pf2e/trait 
 *Source* Core Rulebook pg. 628 3.0
 
 Aberrations are creatures from beyond the planes or corruptions of the natural order.

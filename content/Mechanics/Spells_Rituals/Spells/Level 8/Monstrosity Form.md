@@ -1,5 +1,6 @@
 ---
 name: Monstrosity Form
+draft: true
 alias: Monstrosity Form
 tags:
   - pf2e/spell

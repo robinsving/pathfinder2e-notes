@@ -1,5 +1,6 @@
 ---
 name: Acidic Burst
+draft: true
 alias: Acidic Burst
 tags:
   - pf2e/spell

@@ -1,5 +1,9 @@
+---
+title: Dragon
+tags: pf2e/trait
+draft: true
+---
 # Dragon
-#pf2e/trait 
 *Source* Core Rulebook pg. 631 3.0
 
 Dragons are reptilian creatures, often winged or with the power of flight. Most are able to use a breath weapon and are immune to [sleep](1%20TTRPG/PF2e%20Wiki/Traits/Sleep) and [paralysis](../Conditions/Paralyzed.md).

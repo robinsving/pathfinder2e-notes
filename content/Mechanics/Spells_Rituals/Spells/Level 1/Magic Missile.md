@@ -1,5 +1,6 @@
 ---
 name: Magic Missile
+draft: true
 alias: Magic Missile
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Radiant Field
+draft: true
 alias: Radiant Field
 tags:
   - pf2e/spell

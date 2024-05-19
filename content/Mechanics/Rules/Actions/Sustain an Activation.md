@@ -1,4 +1,8 @@
-#pf2e/actions/single_action 
+---
+tags: pf2e/actions/single_action 
+draft: true
+---
+
 # Sustain an Activation
 **Requirements.** You have at least one magic item activation that you can sustain and you are not fatigued
 

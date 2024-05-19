@@ -1,5 +1,9 @@
+---
+title: Druid
+tags: pf2e/trait
+draft: true
+---
 # Druid
-#pf2e/trait 
 *Source* Core Rulebook pg. 631 3.0
 
 This indicates abilities from the druid class.

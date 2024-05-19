@@ -1,5 +1,6 @@
 ---
 name: Mariner's Curse
+draft: true
 alias: Mariner's Curse
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Shadow Raid
+draft: true
 alias: Shadow Raid
 tags:
   - pf2e/spell

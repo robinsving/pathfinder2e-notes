@@ -1,5 +1,6 @@
 ---
 name: Call The Blood
+draft: true
 alias: Call The Blood
 tags:
   - pf2e/spell

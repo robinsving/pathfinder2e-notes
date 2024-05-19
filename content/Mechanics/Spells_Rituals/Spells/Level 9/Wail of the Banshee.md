@@ -1,5 +1,6 @@
 ---
 name: Wail of the Banshee
+draft: true
 alias: Wail of the Banshee
 tags:
   - pf2e/spell

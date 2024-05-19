@@ -1,5 +1,6 @@
 ---
 name: Undermine Reality
+draft: true
 alias: Undermine Reality
 tags:
   - pf2e/spell

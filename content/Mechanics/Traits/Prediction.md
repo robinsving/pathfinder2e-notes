@@ -1,5 +1,9 @@
+---
+title: Prediction
+tags: pf2e/trait
+draft: true
+---
 # Prediction
-#pf2e/trait 
 *Source* Core Rulebook pg. 635 3.0
 
 Effects with this trait determine what is likely to happen in the near future. Most predictions are divinations.

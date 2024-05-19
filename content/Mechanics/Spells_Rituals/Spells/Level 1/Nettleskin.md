@@ -1,5 +1,6 @@
 ---
 name: Nettleskin
+draft: true
 alias: Nettleskin
 tags:
   - pf2e/spell

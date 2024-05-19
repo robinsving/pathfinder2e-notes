@@ -1,5 +1,6 @@
 ---
 name: Spike Stones
+draft: true
 alias: Spike Stones
 tags:
   - pf2e/spell

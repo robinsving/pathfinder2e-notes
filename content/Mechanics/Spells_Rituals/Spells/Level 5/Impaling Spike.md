@@ -1,5 +1,6 @@
 ---
 name: Impaling Spike
+draft: true
 alias: Impaling Spike
 tags:
   - pf2e/spell

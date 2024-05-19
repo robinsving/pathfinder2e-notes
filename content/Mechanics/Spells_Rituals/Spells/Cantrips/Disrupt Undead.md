@@ -1,5 +1,6 @@
 ---
 name: Disrupt Undead
+draft: true
 alias: Disrupt Undead
 tags:
   - pf2e/spell

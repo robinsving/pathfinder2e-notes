@@ -1,5 +1,6 @@
 ---
 name: Stagnate Time
+draft: true
 alias: Stagnate Time
 tags:
   - pf2e/spell

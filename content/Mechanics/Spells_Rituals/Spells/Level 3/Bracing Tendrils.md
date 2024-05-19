@@ -1,5 +1,6 @@
 ---
 name: Bracing Tendrils
+draft: true
 alias: Bracing Tendrils
 tags:
   - pf2e/spell

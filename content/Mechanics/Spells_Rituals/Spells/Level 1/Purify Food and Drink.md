@@ -1,5 +1,6 @@
 ---
 name: Purify Food and Drink
+draft: true
 alias: Purify Food and Drink
 tags:
   - pf2e/spell

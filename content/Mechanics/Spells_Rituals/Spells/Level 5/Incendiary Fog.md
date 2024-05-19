@@ -1,5 +1,6 @@
 ---
 name: Incendiary Fog
+draft: true
 alias: Incendiary Fog
 tags:
   - pf2e/spell

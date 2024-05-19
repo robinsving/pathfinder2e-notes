@@ -1,5 +1,6 @@
 ---
 name: Mending
+draft: true
 alias: Mending
 tags:
   - pf2e/spell

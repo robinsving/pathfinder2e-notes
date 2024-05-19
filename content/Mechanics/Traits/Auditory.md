@@ -1,5 +1,9 @@
+---
+title: Auditory
+tags: pf2e/trait
+draft: true
+---
 # Auditory
-#pf2e/trait 
 *Source* Core Rulebook pg. 629
 
 Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds.

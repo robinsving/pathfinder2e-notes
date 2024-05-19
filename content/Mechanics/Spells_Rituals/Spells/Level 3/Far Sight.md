@@ -1,5 +1,6 @@
 ---
 name: Far Sight
+draft: true
 alias: Far Sight
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Remove Fear
+draft: true
 alias: Remove Fear
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Thoughtful Gift
+draft: true
 alias: Thoughtful Gift
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Forceful Hand
+draft: true
 alias: Forceful Hand
 tags:
   - pf2e/spell

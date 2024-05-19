@@ -1,5 +1,6 @@
 ---
 name: Slough Skin
+draft: true
 alias: Slough Skin
 tags:
   - pf2e/spell

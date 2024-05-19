@@ -1,5 +1,6 @@
 ---
 name: Tongues
+draft: true
 alias: Tongues
 tags:
   - pf2e/spell

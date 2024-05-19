@@ -1,5 +1,6 @@
 ---
 name: Telepathic Bond
+draft: true
 alias: Telepathic Bond
 tags:
   - pf2e/spell

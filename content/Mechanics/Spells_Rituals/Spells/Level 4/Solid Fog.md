@@ -1,5 +1,6 @@
 ---
 name: Solid Fog
+draft: true
 alias: Solid Fog
 tags:
   - pf2e/spell

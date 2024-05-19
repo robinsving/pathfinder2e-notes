@@ -1,5 +1,6 @@
 ---
 name: Dismantle
+draft: true
 alias: Dismantle
 tags:
   - pf2e/spell

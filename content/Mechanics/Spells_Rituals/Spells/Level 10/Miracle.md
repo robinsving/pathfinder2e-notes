@@ -1,5 +1,6 @@
 ---
 name: Miracle
+draft: true
 alias: Miracle
 tags:
   - pf2e/spell

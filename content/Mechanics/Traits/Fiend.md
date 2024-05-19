@@ -1,5 +1,9 @@
+---
+title: Fiend
+tags: pf2e/trait
+draft: true
+---
 # Fiend
-#pf2e/trait 
 *Source* Core Rulebook pg. 631 3.0
 
 Creatures that hail from or have a strong connection to the evil-aligned planes are called fiends. Fiends can survive the basic environmental effects of planes in the Outer Sphere.

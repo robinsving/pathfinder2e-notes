@@ -1,5 +1,6 @@
 ---
 name: Summon Kaiju
+draft: true
 alias: Summon Kaiju
 tags:
   - pf2e/spell

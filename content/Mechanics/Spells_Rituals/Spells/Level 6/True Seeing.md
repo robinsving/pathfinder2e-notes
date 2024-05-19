@@ -1,5 +1,6 @@
 ---
 name: True Seeing
+draft: true
 alias: True Seeing
 tags:
   - pf2e/spell

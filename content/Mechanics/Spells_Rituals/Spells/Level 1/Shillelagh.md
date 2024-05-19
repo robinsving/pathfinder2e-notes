@@ -1,5 +1,6 @@
 ---
 name: Shillelagh
+draft: true
 alias: Shillelagh
 tags:
   - pf2e/spell

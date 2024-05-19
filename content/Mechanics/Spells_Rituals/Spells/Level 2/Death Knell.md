@@ -1,5 +1,6 @@
 ---
 name: Death Knell
+draft: true
 alias: Death Knell
 tags:
   - pf2e/spell

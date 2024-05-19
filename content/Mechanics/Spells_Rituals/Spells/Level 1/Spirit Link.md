@@ -1,5 +1,6 @@
 ---
 name: Spirit Link
+draft: true
 alias: Spirit Link
 tags:
   - pf2e/spell

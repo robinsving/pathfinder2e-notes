@@ -1,5 +1,6 @@
 ---
 name: Augury
+draft: true
 alias: Augury
 tags:
   - pf2e/spell

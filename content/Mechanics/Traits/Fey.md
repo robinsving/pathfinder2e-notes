@@ -1,5 +1,9 @@
+---
+title: Fey
+tags: pf2e/trait
+draft: true
+---
 # Fey
-#pf2e/trait 
 *Source* Core Rulebook pg. 631 3.0
 
 Creatures of the First World are called the fey.

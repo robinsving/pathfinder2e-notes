@@ -1,5 +1,6 @@
 ---
 name: Synchronize Steps
+draft: true
 alias: Synchronize Steps
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Penumbral Disguise
+draft: true
 alias: Penumbral Disguise
 tags:
   - pf2e/spell

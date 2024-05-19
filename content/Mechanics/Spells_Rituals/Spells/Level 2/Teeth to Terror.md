@@ -1,5 +1,6 @@
 ---
 name: Teeth to Terror
+draft: true
 alias: Teeth to Terror
 tags:
   - pf2e/spell

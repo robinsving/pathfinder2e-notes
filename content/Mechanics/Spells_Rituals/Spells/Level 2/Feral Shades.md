@@ -1,5 +1,6 @@
 ---
 name: Feral Shades
+draft: true
 alias: Feral Shades
 tags:
   - pf2e/spell

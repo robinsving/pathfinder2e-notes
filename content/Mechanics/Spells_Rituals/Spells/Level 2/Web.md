@@ -1,5 +1,6 @@
 ---
 name: Web
+draft: true
 alias: Web
 tags:
   - pf2e/spell

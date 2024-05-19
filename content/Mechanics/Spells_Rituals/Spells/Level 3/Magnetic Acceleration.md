@@ -1,5 +1,6 @@
 ---
 name: Magnetic Acceleration
+draft: true
 alias: Magnetic Acceleration
 tags:
   - pf2e/spell

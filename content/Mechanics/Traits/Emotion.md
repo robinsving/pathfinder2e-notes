@@ -1,5 +1,9 @@
+---
+title: Emotion
+tags: pf2e/trait
+draft: true
+---
 # Emotion
-#pf2e/trait 
 *Source* Core Rulebook pg. 631
 
 This effect alters a creature's emotions. Effects with this trait always have the [Mental](Mental.md) trait as well. Creatures with special training or that have mechanical or artificial intelligence are immune to emotion effects.

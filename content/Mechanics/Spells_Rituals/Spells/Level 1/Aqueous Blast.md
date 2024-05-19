@@ -1,5 +1,6 @@
 ---
 name: Aqueous Blast
+draft: true
 alias: Aqueous Blast
 tags:
   - pf2e/spell

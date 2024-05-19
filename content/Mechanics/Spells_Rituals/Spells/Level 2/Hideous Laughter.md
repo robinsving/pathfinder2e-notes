@@ -1,5 +1,6 @@
 ---
 name: Hideous Laughter
+draft: true
 alias: Hideous Laughter
 tags:
   - pf2e/spell

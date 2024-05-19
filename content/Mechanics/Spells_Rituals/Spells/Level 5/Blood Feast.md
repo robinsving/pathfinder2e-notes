@@ -1,5 +1,6 @@
 ---
 name: Blood Feast
+draft: true
 alias: Blood Feast
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Pocket Library
+draft: true
 alias: Pocket Library
 tags:
   - pf2e/spell

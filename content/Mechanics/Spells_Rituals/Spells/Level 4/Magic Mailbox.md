@@ -1,5 +1,6 @@
 ---
 name: Magic Mailbox
+draft: true
 alias: Magic Mailbox
 tags:
   - pf2e/spell

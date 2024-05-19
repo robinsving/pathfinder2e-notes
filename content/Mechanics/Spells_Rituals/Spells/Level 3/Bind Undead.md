@@ -1,5 +1,6 @@
 ---
 name: Bind Undead
+draft: true
 alias: Bind Undead
 tags:
   - pf2e/spell

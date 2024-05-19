@@ -1,5 +1,6 @@
 ---
 name: Warrior's Regret
+draft: true
 alias: Warrior's Regret
 tags:
   - pf2e/spell

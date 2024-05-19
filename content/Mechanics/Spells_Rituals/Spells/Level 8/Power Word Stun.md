@@ -1,5 +1,6 @@
 ---
 name: Power Word Stun
+draft: true
 alias: Power Word Stun
 tags:
   - pf2e/spell

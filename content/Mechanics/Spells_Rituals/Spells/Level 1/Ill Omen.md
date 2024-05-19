@@ -1,5 +1,6 @@
 ---
 name: Ill Omen
+draft: true
 alias: Ill Omen
 tags:
   - pf2e/spell

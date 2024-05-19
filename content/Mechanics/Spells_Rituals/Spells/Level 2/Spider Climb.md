@@ -1,5 +1,6 @@
 ---
 name: Spider Climb
+draft: true
 alias: Spider Climb
 tags:
   - pf2e/spell

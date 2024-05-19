@@ -1,5 +1,6 @@
 ---
 name: Web of Influence
+draft: true
 alias: Web of Influence
 tags:
   - pf2e/spell

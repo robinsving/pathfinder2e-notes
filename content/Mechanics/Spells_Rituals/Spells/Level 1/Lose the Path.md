@@ -1,5 +1,6 @@
 ---
 name: Lose the Path
+draft: true
 alias: Lose the Path
 tags:
   - pf2e/spell

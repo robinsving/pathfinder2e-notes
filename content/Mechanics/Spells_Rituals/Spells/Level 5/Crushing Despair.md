@@ -1,5 +1,6 @@
 ---
 name: Crushing Despair
+draft: true
 alias: Crushing Despair
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Animal Vision
+draft: true
 alias: Animal Vision
 tags:
   - pf2e/spell

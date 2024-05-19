@@ -1,5 +1,6 @@
 ---
 name: Sanctuary
+draft: true
 alias: Sanctuary
 tags:
   - pf2e/spell

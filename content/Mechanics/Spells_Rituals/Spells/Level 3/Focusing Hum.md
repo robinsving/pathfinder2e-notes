@@ -1,5 +1,6 @@
 ---
 name: Focusing Hum
+draft: true
 alias: Focusing Hum
 tags:
   - pf2e/spell

@@ -1,8 +1,12 @@
 ---
 alias: vitality
 ---
+---
+title: Positive
+tags: pf2e/trait
+draft: true
+---
 # Positive
-#pf2e/trait 
 *Source* Core Rulebook pg. 635 3.0
 
 Effects with this trait heal living creatures with positive energy, deal positive energy damage to undead, or manipulate positive energy. Planes with this trait are awash with life energy of such intensity that it can harm living creatures. Creatures with this trait are natives of the Positive Energy Plane. They can survive the basic environmental effects of the Positive Energy Plane.

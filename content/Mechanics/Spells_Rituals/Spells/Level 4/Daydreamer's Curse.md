@@ -1,5 +1,6 @@
 ---
 name: Daydreamer's Curse
+draft: true
 alias: Daydreamer's Curse
 tags:
   - pf2e/spell

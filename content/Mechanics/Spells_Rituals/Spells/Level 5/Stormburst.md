@@ -1,5 +1,6 @@
 ---
 name: Stormburst
+draft: true
 alias: Stormburst
 tags:
   - pf2e/spell

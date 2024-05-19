@@ -1,5 +1,6 @@
 ---
 name: Breath of Drought
+draft: true
 alias: Breath of Drought
 tags:
   - pf2e/spell

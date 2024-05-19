@@ -1,5 +1,6 @@
 ---
 name: Friendfetch
+draft: true
 alias: Friendfetch
 tags:
   - pf2e/spell

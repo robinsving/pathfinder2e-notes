@@ -1,5 +1,6 @@
 ---
 name: Abyssal Plague
+draft: true
 alias: Abyssal Plague
 tags:
   - pf2e/spell

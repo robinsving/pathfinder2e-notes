@@ -1,5 +1,6 @@
 ---
 name: Pet Cache
+draft: true
 alias: Pet Cache
 tags:
   - pf2e/spell

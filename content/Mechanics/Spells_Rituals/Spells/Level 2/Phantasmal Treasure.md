@@ -1,5 +1,6 @@
 ---
 name: Phantasmal Treasure
+draft: true
 alias: Phantasmal Treasure
 tags:
   - pf2e/spell

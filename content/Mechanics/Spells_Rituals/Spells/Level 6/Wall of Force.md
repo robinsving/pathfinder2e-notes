@@ -1,5 +1,6 @@
 ---
 name: Wall of Force
+draft: true
 alias: Wall of Force
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Ravening Maw
+draft: true
 alias: Ravening Maw
 tags:
   - pf2e/spell

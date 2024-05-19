@@ -1,5 +1,6 @@
 ---
 name: Echoing Weapon
+draft: true
 alias: Echoing Weapon
 tags:
   - pf2e/spell

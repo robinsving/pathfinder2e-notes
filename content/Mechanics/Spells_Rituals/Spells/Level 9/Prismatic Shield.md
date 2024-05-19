@@ -1,5 +1,6 @@
 ---
 name: Prismatic Shield
+draft: true
 alias: Prismatic Shield
 tags:
   - pf2e/spell

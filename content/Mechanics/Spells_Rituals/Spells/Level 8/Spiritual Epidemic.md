@@ -1,5 +1,6 @@
 ---
 name: Spiritual Epidemic
+draft: true
 alias: Spiritual Epidemic
 tags:
   - pf2e/spell

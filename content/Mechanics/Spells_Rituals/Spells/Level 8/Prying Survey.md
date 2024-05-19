@@ -1,5 +1,6 @@
 ---
 name: Prying Survey
+draft: true
 alias: Prying Survey
 tags:
   - pf2e/spell

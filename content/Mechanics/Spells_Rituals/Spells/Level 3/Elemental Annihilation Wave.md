@@ -1,5 +1,6 @@
 ---
 name: Elemental Annihilation Wave
+draft: true
 alias: Elemental Annihilation Wave
 tags:
   - pf2e/spell

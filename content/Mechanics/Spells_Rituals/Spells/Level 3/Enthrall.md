@@ -1,5 +1,6 @@
 ---
 name: Enthrall
+draft: true
 alias: Enthrall
 tags:
   - pf2e/spell

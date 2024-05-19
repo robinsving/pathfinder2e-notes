@@ -1,5 +1,6 @@
 ---
 name: Pillar of Water
+draft: true
 alias: Pillar of Water
 tags:
   - pf2e/spell

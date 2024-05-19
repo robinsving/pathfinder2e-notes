@@ -1,5 +1,6 @@
 ---
 name: Longstrider
+draft: true
 alias: Longstrider
 tags:
   - pf2e/spell

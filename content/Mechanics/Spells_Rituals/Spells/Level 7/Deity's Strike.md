@@ -1,5 +1,6 @@
 ---
 name: Deity's Strike
+draft: true
 alias: Deity's Strike
 tags:
   - pf2e/spell

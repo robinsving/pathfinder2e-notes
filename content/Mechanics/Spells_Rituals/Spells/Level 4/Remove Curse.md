@@ -1,5 +1,6 @@
 ---
 name: Remove Curse
+draft: true
 alias: Remove Curse
 tags:
   - pf2e/spell

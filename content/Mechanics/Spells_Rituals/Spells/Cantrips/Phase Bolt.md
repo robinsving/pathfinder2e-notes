@@ -1,5 +1,6 @@
 ---
 name: Phase Bolt
+draft: true
 alias: Phase Bolt
 tags:
   - pf2e/spell

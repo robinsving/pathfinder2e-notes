@@ -1,5 +1,6 @@
 ---
 name: Entangle
+draft: true
 alias: Entangle
 tags:
   - pf2e/spell

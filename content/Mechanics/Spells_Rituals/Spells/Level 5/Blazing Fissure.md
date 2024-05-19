@@ -1,5 +1,6 @@
 ---
 name: Blazing Fissure
+draft: true
 alias: Blazing Fissure
 tags:
   - pf2e/spell

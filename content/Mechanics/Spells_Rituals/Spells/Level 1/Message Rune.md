@@ -1,5 +1,6 @@
 ---
 name: Message Rune
+draft: true
 alias: Message Rune
 tags:
   - pf2e/spell

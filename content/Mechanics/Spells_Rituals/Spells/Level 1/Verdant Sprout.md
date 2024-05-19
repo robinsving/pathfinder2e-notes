@@ -1,5 +1,6 @@
 ---
 name: Verdant Sprout
+draft: true
 alias: Verdant Sprout
 tags:
   - pf2e/spell

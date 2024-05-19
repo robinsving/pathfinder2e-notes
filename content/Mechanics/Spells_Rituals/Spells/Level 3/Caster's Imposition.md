@@ -1,5 +1,6 @@
 ---
 name: Caster's Imposition
+draft: true
 alias: Caster's Imposition
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Alarm
+draft: true
 alias: Alarm
 tags:
   - pf2e/spell

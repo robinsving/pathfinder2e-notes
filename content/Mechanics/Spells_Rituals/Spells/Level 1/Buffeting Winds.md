@@ -1,5 +1,6 @@
 ---
 name: Buffeting Winds
+draft: true
 alias: Buffeting Winds
 tags:
   - pf2e/spell

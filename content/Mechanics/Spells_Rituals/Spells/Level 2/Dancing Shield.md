@@ -1,5 +1,6 @@
 ---
 name: Dancing Shield
+draft: true
 alias: Dancing Shield
 tags:
   - pf2e/spell

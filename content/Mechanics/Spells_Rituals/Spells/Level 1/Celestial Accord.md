@@ -1,5 +1,6 @@
 ---
 name: Celestial Accord
+draft: true
 alias: Celestial Accord
 tags:
   - pf2e/spell

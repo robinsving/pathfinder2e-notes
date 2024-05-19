@@ -1,5 +1,6 @@
 ---
 name: Flense
+draft: true
 alias: Flense
 tags:
   - pf2e/spell

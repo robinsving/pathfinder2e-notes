@@ -1,5 +1,6 @@
 ---
 name: Seashell of Stolen Sound
+draft: true
 alias: Seashell of Stolen Sound
 tags:
   - pf2e/spell

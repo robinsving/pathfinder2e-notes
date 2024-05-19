@@ -1,5 +1,6 @@
 ---
 name: Aqueous Orb
+draft: true
 alias: Aqueous Orb
 tags:
   - pf2e/spell

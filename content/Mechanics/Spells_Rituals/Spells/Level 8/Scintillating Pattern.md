@@ -1,5 +1,6 @@
 ---
 name: Scintillating Pattern
+draft: true
 alias: Scintillating Pattern
 tags:
   - pf2e/spell

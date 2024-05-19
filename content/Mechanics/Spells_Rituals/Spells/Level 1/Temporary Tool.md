@@ -1,5 +1,6 @@
 ---
 name: Temporary Tool
+draft: true
 alias: Temporary Tool
 tags:
   - pf2e/spell

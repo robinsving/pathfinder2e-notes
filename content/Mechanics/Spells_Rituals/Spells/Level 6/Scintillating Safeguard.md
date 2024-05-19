@@ -1,5 +1,6 @@
 ---
 name: Scintillating Safeguard
+draft: true
 alias: Scintillating Safeguard
 tags:
   - pf2e/spell

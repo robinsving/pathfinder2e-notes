@@ -1,5 +1,9 @@
+---
+title: Necromancy
+tags: pf2e/trait
+draft: true
+---
 # Necromancy
-#pf2e/trait 
 *Source* Core Rulebook pg. 634 3.0
 
 Effects and magic items with this trait are associated with the necromancy school of magic, typically involving forces of life and death.

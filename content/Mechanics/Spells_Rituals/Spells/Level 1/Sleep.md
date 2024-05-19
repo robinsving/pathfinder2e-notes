@@ -1,5 +1,6 @@
 ---
 name: Sleep
+draft: true
 alias: Sleep
 tags:
   - pf2e/spell

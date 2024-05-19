@@ -1,5 +1,6 @@
 ---
 name: Flame Wisp
+draft: true
 alias: Flame Wisp
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Implosion
+draft: true
 alias: Implosion
 tags:
   - pf2e/spell

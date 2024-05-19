@@ -1,5 +1,6 @@
 ---
 name: Proliferating Eyes
+draft: true
 alias: Proliferating Eyes
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Crisis of Faith
+draft: true
 alias: Crisis of Faith
 tags:
   - pf2e/spell

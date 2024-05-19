@@ -1,5 +1,6 @@
 ---
 name: Mad Monkeys
+draft: true
 alias: Mad Monkeys
 tags:
   - pf2e/spell

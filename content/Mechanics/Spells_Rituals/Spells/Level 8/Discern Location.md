@@ -1,5 +1,6 @@
 ---
 name: Discern Location
+draft: true
 alias: Discern Location
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Circle of Protection
+draft: true
 alias: Circle of Protection
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Anticipate Peril
+draft: true
 alias: Anticipate Peril
 tags:
   - pf2e/spell

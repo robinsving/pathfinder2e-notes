@@ -1,5 +1,6 @@
 ---
 name: Collective Transposition
+draft: true
 alias: Collective Transposition
 tags:
   - pf2e/spell

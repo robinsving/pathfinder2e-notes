@@ -1,5 +1,6 @@
 ---
 name: Glimmer of Charm
+draft: true
 alias: Glimmer of Charm
 tags:
   - pf2e/spell

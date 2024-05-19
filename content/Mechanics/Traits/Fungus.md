@@ -1,5 +1,9 @@
+---
+title: Fungus
+tags: pf2e/trait
+draft: true
+---
 # Fungus
-#pf2e/trait 
 *Source* Core Rulebook pg. 632 3.0
 
 Fungal creatures have the fungus trait. They are distinct from normal fungi.

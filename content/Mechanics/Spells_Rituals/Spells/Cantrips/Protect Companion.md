@@ -1,5 +1,6 @@
 ---
 name: Protect Companion
+draft: true
 alias: Protect Companion
 tags:
   - pf2e/spell

@@ -1,5 +1,6 @@
 ---
 name: Hallucination
+draft: true
 alias: Hallucination
 tags:
   - pf2e/spell
