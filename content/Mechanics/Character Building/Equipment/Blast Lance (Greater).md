@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blast Lance (Greater)
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-blast-lance.webp|150]]
 
 This weapon is a long +1 striking [[Lance]] with a muzzle built into the pointed tip, allowing the user to fire the chamber after a successful melee attack. A barrel running down the length of the lance allows you to load firearm ammunition into the base of the weapon more easily than it might seem from the design. It takes 2 actions to reload a blast lance.
 

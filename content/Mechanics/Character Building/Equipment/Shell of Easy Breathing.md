@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shell of Easy Breathing
-![[icons-commodities-biological-shell-gold.webp|150]]
 
 This large salt-encrusted seashell is more than 2 feet across, with images of deep sea creatures carved around its edge.
 

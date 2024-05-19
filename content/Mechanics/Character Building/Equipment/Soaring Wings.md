@@ -8,7 +8,6 @@ tags:
 ---
 
 # Soaring Wings
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-creatures-abilities-wings-birdlike-blue.webp|150]]
 
 Wings, normally tattooed on the upper back, enable you to fly when activated. The visual manifestation is typically a slight glow or ripple in the ink, but some artists make it so the tattoo creates a glowing aura or lines of light in the shape of wings.
 

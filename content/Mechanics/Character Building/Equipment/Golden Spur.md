@@ -8,7 +8,6 @@ tags:
 ---
 
 # Golden Spur
-![[systems-pf2e-icons-equipment-consumables-talismans-golden-spur.webp|150]]
 
 **Activate** 1 command
 

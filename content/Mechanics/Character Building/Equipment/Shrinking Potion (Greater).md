@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shrinking Potion (Greater)
-![[systems-pf2e-icons-equipment-consumables-potions-shrinking-potion-greater.webp|150]]
 
 **Activate** A (manipulate)
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Orb of Dragonkind
-![[systems-pf2e-icons-equipment-artifacts-orb-of-gold-dragonkind.webp|150]]
 
 Each of the legendary _orbs of dragonkind_ contains the essence and personality of a powerful dragon, with each of the 10 most famous orbs preserving a different type of metallic or chromatic dragon's spirit. It is believed that orbs for other types of true dragons exist, though that theory is yet to be confirmed.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Spiritual Warfare (4th-Level Spell)
-![[systems-pf2e-icons-equipment-wands-specialty-wands-wand-of-spiritual-warfare.webp|150]]
 
 This wand juts from an ornate hilt like a short, wooden dagger blade.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Time
-![[Mechanics/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-spells-haste.webp|150]]
 
 Whether by accident, fate, or purposeful meddling, you exist slightly outside of time. While initially unmoored by moments, the countless march of milliseconds builds up to drift you further and further out of sync with your natural timeline, often in contradictory directions. You might view this as a blessing, perhaps as a sign you're somehow beyond mortality or you can't be contained within reality's limitations, or you might view it as a cruel curse that causes your own life to slip by adrift even as you gain power over time. Many oracles of time are without faith and either come to rely upon their own instincts to survive or else turn to strange rituals and forbidden magic in an attempt to break free of time's grasp. Those oracles who worship deities most often worship Pharasma, goddess of fate who sees all possible futures for all who ever lived, or Alseta, goddess of transitions and the passage through time.
 

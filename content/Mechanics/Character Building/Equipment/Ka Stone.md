@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ka Stone
-![[systems-pf2e-icons-equipment-tattoos-blessed-tattoo.webp|150]]
 
 Obtained with [[Ka Stone Ritual]]
 

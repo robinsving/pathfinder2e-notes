@@ -8,7 +8,6 @@ tags:
 ---
 
 # Memory Palace
-![[systems-pf2e-icons-equipment-held-items-memory-palace.webp|150]]
 
 A _memory palace_ is an elaborate magical structure that safely stores memories for easy access. It appears to be a miniature Taldan villa small enough to fit in the palm of a human hand.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cooperative Waffles
-![[icons-consumables-grains-waffle-golden-yellow.webp|150]]
 
 **Activate** 10 minutes (Interact)
 

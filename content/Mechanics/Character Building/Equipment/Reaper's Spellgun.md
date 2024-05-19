@@ -8,7 +8,6 @@ tags:
 ---
 
 # Reaper's Spellgun
-![[systems-pf2e-icons-equipment-consumables-spellguns-reapers-spellgun.webp|150]]
 
 **Activate** 2 Interact, Strike
 

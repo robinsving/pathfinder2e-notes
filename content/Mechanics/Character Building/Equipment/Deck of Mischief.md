@@ -8,7 +8,6 @@ tags:
 ---
 
 # Deck of Mischief
-![[systems-pf2e-icons-equipment-held-items-deck-of-mischief.webp|150]]
 
 This deck of 54 cards appears nearly identical to standard playing cards. Comprised of four thematic suits of 13 cards each, as well as two wildcards, the deck of mischief is a favorite of scoundrels who prefer not to leave their games to chance-or to at least nudge the odds in their favor. If you know how to activate the deck, you can illusorily transform the ace and face cards into other cards in the deck.
 

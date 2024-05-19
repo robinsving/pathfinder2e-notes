@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cloak of Thirsty Fronds
-![[icons-equipment-back-cloak-collared-feathers-green.webp|150]]
 
 This cloak appears to be woven from a thousand living leaves, hungry for flesh and eager to defend the cloak's wearer.
 

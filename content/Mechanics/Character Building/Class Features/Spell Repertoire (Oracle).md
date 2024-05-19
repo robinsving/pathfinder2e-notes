@@ -9,7 +9,6 @@ tags:
 ---
 
 # Spell Repertoire (Oracle)
-![[icons-sundries-books-book-symbol-spiral-silver-blue.webp|150]]
 
 The collection of spells you can cast is called your spell repertoire. At 1st level, you learn two 1st-level spells of your choice and five cantrips of your choice. You choose these from the common spells from the divine spell list, or from other divine spells to which you have access. You can cast any spell in your spell repertoire by using a spell slot of an appropriate spell level.
 

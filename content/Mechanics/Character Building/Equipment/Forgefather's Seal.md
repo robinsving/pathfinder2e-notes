@@ -8,7 +8,6 @@ tags:
 ---
 
 # Forgefather's Seal
-![[systems-pf2e-icons-equipment-artifacts-forgefathers-seal.webp|150]]
 
 This rune was created by Torag, god of the forge, protection, and strategy, and shared with his greatest artisans and warriors. Torag designed a small number of these seals as gifts to allied good deities; each one is nearly identical but has a different spell effect when using the reaction activation; for instance, Sarenrae's seal casts _sunburst_ instead of _earthquake_.
 

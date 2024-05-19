@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spell Reservoir
-![[systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
 
 A _spell reservoir_ rune creates a pool of eldritch energy within the etched weapon. A spellcaster can spend 1 minute to cast a spell of 3rd rank or lower into the weapon. The spell must require 2 actions or fewer to cast and must be able to target a creature other than the caster. The spell has no immediate effect—it is instead stored for later.
 

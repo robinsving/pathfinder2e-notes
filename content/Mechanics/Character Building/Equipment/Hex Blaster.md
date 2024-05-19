@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hex Blaster
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-hex-blaster.webp|150]]
 
 This _+2 striking fearsome arquebus_ is composed of warped and twisted wood engraved with eerie runes. When the weapon fires, the blast sometimes sounds like the cackling of a diabolical witch.
 

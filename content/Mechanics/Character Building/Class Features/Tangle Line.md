@@ -9,7 +9,6 @@ tags:
 ---
 
 # Tangle Line
-![[systems-pf2e-icons-features-classes-tangle-line.webp|150]]
 
 **Thrown Only**
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vestige Lenses
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-vestige-lenses.webp|150]]
 
 These simple lenses are alchemically treated to detect the faint smoke trail from a piece of specially formulated sandalwood incense.
 

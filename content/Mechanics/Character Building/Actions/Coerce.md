@@ -9,7 +9,6 @@ tags:
 ---
 
 # Coerce
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 With threats either veiled or overt, you attempt to bully a creature into doing what you want. You must spend at least 1 minute of conversation with a creature you can see and that can either see or sense you. At the end of the conversation, attempt an Intimidation check against the target's Will DC, modified by any circumstances the GM determines.
 

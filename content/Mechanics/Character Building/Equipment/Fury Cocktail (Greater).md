@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fury Cocktail (Greater)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-fury-cocktail.webp|150]]
 
 **Activate** 1 Interact
 

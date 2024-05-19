@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ugly Cute's Gift
-![[systems-pf2e-icons-equipment-weapons-spiked-gauntlet.webp|150]]
 
 This spiky, stony fragment shed from Ugly Cute's carapace fits quite comfortably over the hand. Though a little bulkier than the typical gauntlet, it still functions as a _+1 spiked gauntlet_.
 

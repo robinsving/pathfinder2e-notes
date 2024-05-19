@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hat of Disagreeable Disguise
-![[icons-equipment-head-hat-belted-grey.webp|150]]
 
 This elegant hat appears to be and functions as a _[[Masquerade Scarf|Hat of Disguise]]_. When you invest the hat, it fuses to you.
 

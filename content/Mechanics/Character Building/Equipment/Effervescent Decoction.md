@@ -8,7 +8,6 @@ tags:
 ---
 
 # Effervescent Decoction
-![[systems-pf2e-icons-equipment-consumables-potions-effervescent-decoction.webp|150]]
 
 **Activate** 1 Interact
 

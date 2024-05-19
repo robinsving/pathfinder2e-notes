@@ -9,7 +9,6 @@ tags:
 ---
 
 # Anathema (Cleric)
-![[icons-magic-symbols-cross-circle-blue.webp|150]]
 
 Acts fundamentally opposed to your deity's alignment or ideals are anathema to your faith. Learning or casting spells, committing acts, and using items that are anathema to your deity remove you from your deity's good graces.
 

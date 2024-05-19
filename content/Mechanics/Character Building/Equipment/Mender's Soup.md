@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mender's Soup
-![[icons-consumables-food-bowl-stew-tofu-potato-red.webp|150]]
 
 **Activate** 10 minutes (Interact)
 

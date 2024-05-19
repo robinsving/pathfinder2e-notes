@@ -9,7 +9,6 @@ tags:
 ---
 
 # Identify Magic
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 Once you discover that an item, location, or ongoing effect is magical, you can spend 10 minutes to try to identify the particulars of its magic. If your attempt is interrupted, you must start over. The GM sets the DC for your check. Cursed or esoteric subjects usually have higher DCs or might even be impossible to identify using this activity alone. Heightening a spell doesn't increase the DC to identify it.
 

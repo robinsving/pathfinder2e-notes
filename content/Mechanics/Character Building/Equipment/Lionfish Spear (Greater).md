@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lionfish Spear (Greater)
-![[systems-pf2e-icons-equipment-weapons-spear.webp|150]]
 
 Colorful stripes and trailing ribbons give this _+2 greater striking underwater wounding spear_ an appearance like a poisonous lionfish. While holding the spear, you gain a +2 item bonus to Athletic checks to [[Swim]].
 

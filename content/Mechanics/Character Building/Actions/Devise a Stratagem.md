@@ -9,7 +9,6 @@ tags:
 ---
 
 # Devise a Stratagem
-![[systems-pf2e-icons-features-classes-devise-a-stratagem.webp|150]]
 
 **Frequency** once per round
 

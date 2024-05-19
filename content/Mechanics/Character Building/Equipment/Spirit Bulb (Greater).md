@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spirit Bulb (Greater)
-![[icons-consumables-plants-sprout-glowing-roots-green.webp|150]]
 
 **Activate** D (concentrate, manipulate)
 

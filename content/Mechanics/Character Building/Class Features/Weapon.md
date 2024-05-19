@@ -9,7 +9,6 @@ tags:
 ---
 
 # Weapon
-![[systems-pf2e-icons-features-classes-weapon.webp|150]]
 
 Weapon implements are the most direct and confrontational, representing battle, struggle, and potentially violence. You can choose only a one-handed weapon as an implement, which allows you to channel energies into your weapon as well as hold your other implements once you gain them. Weapon implements are associated with the harrow suit of hammers and the astrological signs of the rider and the swordswoman.
 

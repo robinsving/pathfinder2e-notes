@@ -8,4 +8,3 @@ tags:
 ---
 
 # Gold rapier with amethysts
-![[systems-pf2e-icons-equipment-treasure-art-objects-greater-art-object-gold-rapier-with-amethysts.webp|150]]

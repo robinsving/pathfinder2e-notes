@@ -8,7 +8,6 @@ tags:
 ---
 
 # Silkspinner's Shield
-![[systems-pf2e-icons-equipment-shields-specific-shields-silkspinners-shield.webp|150]]
 
 This oddly fuzzy buckler resembles the abdomen of a spider. Its defensive side is covered in fine hairs, and two small spinnerets protrude from the bottom of its rim. The spinnerets serve as _+2 greater striking shield spikes_.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Gyronna
-![[systems-pf2e-icons-deity-Gyronna.webp|150]]
 
 The goddess **Gyronna** is also known as the Angry Hag, and for good reason.
 

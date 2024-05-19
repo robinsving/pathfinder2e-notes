@@ -8,7 +8,6 @@ tags:
 ---
 
 # Containment Contraption
-![[systems-pf2e-icons-equipment-armor-specific-magic-armor-containment-contraption.webp|150]]
 
 This heavy, mechanized brass suit is studded with pistons, gears, dials, and gauges and topped with a front-facing thick glass porthole. The suit is a suit of _+1 full plate_. While worn, it completely encloses you, providing protection against inhaled toxins—you gain a +1 circumstance bonus to all saving throws made against such effects. The suit isn't airtight, however, and doesn't protect against drowning if you're immersed in water or suffocation if you're placed in a vacuum—at least, not until you activate it.
 

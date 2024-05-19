@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Fey Flames
-![[systems-pf2e-icons-equipment-wands-specialty-wands-wand-of-fey-flames.webp|150]]
 
 This red maple wand carved into a tongue of flame feels warm in your hand.
 

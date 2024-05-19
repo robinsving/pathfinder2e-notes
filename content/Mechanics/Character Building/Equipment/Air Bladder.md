@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Air Bladder
-![[systems-pf2e-icons-equipment-adventuring-gear-air-bladder.webp|150]]
 
 **Bulk** L (1 if inflated)
 

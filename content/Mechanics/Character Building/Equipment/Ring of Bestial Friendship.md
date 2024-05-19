@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ring of Bestial Friendship
-![[icons-equipment-finger-ring-ball-leaves-green.webp|150]]
 
 The ring is made from a lock of green hair woven around several small gemstones.
 

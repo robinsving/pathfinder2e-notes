@@ -8,7 +8,6 @@ tags:
 ---
 
 # Crown of Witchcraft (Greater)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-crown-of-the-fire-eater.webp|150]]
 
 An elegant accoutrement for a witch who has come into the higher echelons of power, a _crown of witchcraft_ typically looks like a garland of flowering twigs, a jeweled circlet, or a tall hat of fine fabric. You gain a +2 item bonus to Intimidation checks, and if you're a witch, you gain a +3 item bonus to your patron skill.
 

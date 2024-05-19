@@ -8,7 +8,6 @@ tags:
 ---
 
 # Orc Warmask
-![[icons-equipment-head-mask-horned-brown.webp|150]]
 
 Granted by [[Orc Warmask]]
 

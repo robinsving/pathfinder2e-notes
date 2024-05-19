@@ -8,4 +8,3 @@ tags:
 ---
 
 # Tent (Four-Person)
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-environment-settlement-tent.webp|150]]

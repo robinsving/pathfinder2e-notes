@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gloaming Shard
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-gloaming-shard.webp|150]]
 
 The blade of this _+2 striking returning dagger_ shines the color of twilight, with a triangular lattice design on the hilt. A thin string of darkness connects your shadow to that of the blade, even once it leaves your hand.
 

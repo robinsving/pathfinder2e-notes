@@ -9,7 +9,6 @@ tags:
 ---
 
 # Masterful Hunter (Outwit)
-![[icons-creatures-invertebrates-spider-web-black.webp|150]]
 
 ## Masterful Hunter UpgradeLevel 17
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Whip of Compliance
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-whip-of-compliance.webp|150]]
 
 The handle of this braided leather +1 striking whip is made from the hairs of a variety of rare and mythical animals. When used against an animal, the _whip of compliance_ can potentially force the target to follow your commands.
 

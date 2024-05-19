@@ -8,7 +8,6 @@ tags:
 ---
 
 # Drought Powder
-![[systems-pf2e-icons-equipment-consumables-talismans-alchemists-damper.webp|150]]
 
 **Activate**1 (manipulate)
 

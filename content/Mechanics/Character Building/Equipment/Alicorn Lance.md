@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Alicorn Lance
-![[systems-pf2e-icons-equipment-weapons-lance.webp|150]]
 
 This white _+1 striking lance_ is made from the horn of a unicorn, willingly granted at the end of its lifetime. In addition to its normal damage, it deals 1 spirit damage on successful attacks. You can make the lance glow like a torch or suppress its light by using an action, which has the concentrate trait.
 

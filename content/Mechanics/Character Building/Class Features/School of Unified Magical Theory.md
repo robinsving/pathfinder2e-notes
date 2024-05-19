@@ -9,7 +9,6 @@ tags:
 ---
 
 # School of Unified Magical Theory
-![[icons-sundries-books-book-rounded-teal.webp|150]]
 
 You eschew the idea that magic can be neatly expressed by the teachings of any single school or college, instead directing your self-study to pick up the best of every school of magic. In doing so, you'll find the truths that lie at the intersection of each school, coming closer to the ideal nature of arcane magic. One day, you'll uncover that single elegant theory detailing all magic (perhaps a theory bearing your name?), but until then, your studies continue.
 

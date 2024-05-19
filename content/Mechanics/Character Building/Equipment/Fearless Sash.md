@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fearless Sash
-![[icons-equipment-waist-sash-cloth-pink-gold.webp|150]]
 
 A feeling of security radiates out from this sash made of fine yellow fabric. You gain a +1 status bonus to saves against fear.
 

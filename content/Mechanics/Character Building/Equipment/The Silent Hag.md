@@ -8,7 +8,6 @@ tags:
 ---
 
 # The Silent Hag
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-sundries-gaming-playing-cards-grey.webp|150]]
 
 **Suit** Star (Wis)
 

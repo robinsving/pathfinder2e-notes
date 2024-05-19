@@ -8,7 +8,6 @@ tags:
 ---
 
 # Necrobinding Serum
-![[icons-consumables-potions-bottle-conical-corked-labeled-skull-poison-green.webp|150]]
 
 **Activate** 2 Interact
 

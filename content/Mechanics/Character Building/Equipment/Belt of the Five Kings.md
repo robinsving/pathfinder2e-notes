@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Belt of the Five Kings
-![[icons-equipment-waist-belt-buckle-round-steel-purple.webp|150]]
 
 Made from interlocking plates of silver and gold, this heavy belt bears stylized miniature images of five kingly dwarves. You gain a +1 circumstance bonus to Diplomacy checks to [[Make an Impression]] with dwarves or make a [[Request]] from dwarves. You also gain a +1 circumstance bonus to Intimidation checks against giants and orcs.
 

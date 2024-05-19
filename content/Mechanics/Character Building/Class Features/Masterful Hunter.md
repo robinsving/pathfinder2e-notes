@@ -9,7 +9,6 @@ tags:
 ---
 
 # Masterful Hunter
-![[systems-pf2e-icons-features-classes-masterful-hunter.webp|150]]
 
 You have honed your abilities as a hunter to incredible levels. Your proficiency rank for your ranger class DC increases to master. If you have warden spells, your proficiency rank for spell attacks and spell DCs increases to master. When using a ranged weapon that you have master proficiency in, you can ignore the penalty if attacking your hunted prey within the weapon's second and third range increments.
 

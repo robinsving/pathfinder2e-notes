@@ -9,7 +9,6 @@ tags:
 ---
 
 # Lantern
-![[systems-pf2e-icons-features-classes-lantern.webp|150]]
 
 Lantern implements shine the light of revelation to part shadows and expose truth. You might use a common glass lantern, torch, paper lantern, or other similar light source. Lantern implements are associated with the harrow suit of stars and the astrological signs of the lantern bearer and the archer.
 

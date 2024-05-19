@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stormfeather
-![[systems-pf2e-icons-equipment-consumables-talismans-stormfeather.webp|150]]
 
 **Usage** affixed to armor
 

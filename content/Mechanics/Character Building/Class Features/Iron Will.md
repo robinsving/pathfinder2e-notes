@@ -9,7 +9,6 @@ tags:
 ---
 
 # Iron Will
-![[systems-pf2e-icons-features-classes-iron-will.webp|150]]
 
 **Alchemist** Your mental defenses are an iron fortress. Your proficiency rank for Will saves increases to expert.
 

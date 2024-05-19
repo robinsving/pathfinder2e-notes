@@ -8,4 +8,3 @@ tags:
 ---
 
 # Silk ceremonial armor
-![[systems-pf2e-icons-equipment-treasure-art-objects-lesser-art-object-silk-ceremonial-armor.webp|150]]

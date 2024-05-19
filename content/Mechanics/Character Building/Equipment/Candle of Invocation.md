@@ -8,7 +8,6 @@ tags:
 ---
 
 # Candle of Invocation
-![[systems-pf2e-icons-equipment-consumables-other-consumables-candle-of-invocation.webp|150]]
 
 **Activate** 1 Interact
 

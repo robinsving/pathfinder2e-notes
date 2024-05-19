@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ring of Sneering Charity
-![[systems-pf2e-icons-equipment-cursed-items-ring-of-sneering-charity.webp|150]]
 
 This gold ring seems to offer good fortune to the wearer when they are charitable to those in need, but its curse was created to tear societies apart by inflaming class resentments and discrediting good works of true charity.
 

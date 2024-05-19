@@ -8,7 +8,6 @@ tags:
 ---
 
 # Marvelous Medicines
-![[systems-pf2e-icons-equipment-held-items-marvelous-medicines.webp|150]]
 
 This healer's toolkit contains a seemingly endless supply of bandages, herbs, and healing items of impeccable quality, granting you a +2 item bonus to Medicine checks.
 

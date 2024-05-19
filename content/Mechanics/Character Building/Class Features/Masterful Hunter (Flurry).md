@@ -9,7 +9,6 @@ tags:
 ---
 
 # Masterful Hunter (Flurry)
-![[icons-skills-melee-strike-polearm-light-orange.webp|150]]
 
 ## Masterful Hunter UpgradeLevel 17
 

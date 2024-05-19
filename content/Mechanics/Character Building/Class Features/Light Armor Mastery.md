@@ -9,6 +9,5 @@ tags:
 ---
 
 # Light Armor Mastery
-![[icons-equipment-chest-breastplate-rivited-red.webp|150]]
 
 Your skill with light armor improves, increasing your ability to dodge blows. Your proficiency ranks for light armor and unarmored defense increase to master.

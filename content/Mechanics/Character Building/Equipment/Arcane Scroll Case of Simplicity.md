@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Arcane Scroll Case of Simplicity
-![[icons-sundries-scrolls-scroll-bound-grey-tan.webp|150]]
 
 The four different types of _scroll cases of simplicity_ often bear adornments appropriate to their magical tradition, such as angelic wings or otherworldly lettering. On the inside, intricate runic diagrams spiral out to surround the scroll stored within. A scroll placed within the case can be converted into energy to cast consistently useful spells depending on its type. You must be able to cast spells of a given tradition to use a _scroll case of simplicity_ of a corresponding type.
 

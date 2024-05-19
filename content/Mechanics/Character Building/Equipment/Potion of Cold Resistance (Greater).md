@@ -8,7 +8,6 @@ tags:
 ---
 
 # Potion of Cold Resistance (Greater)
-![[systems-pf2e-icons-equipment-consumables-potions-potion-of-cold-resistance.webp|150]]
 
 **Activate** A (manipulate)
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Troll Deviant Classification
-![[Mechanics/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-spells-monstrosity-form.webp|150]]
 
 Especially common when a deviant ability is born of scientific experimentation, the troll classification connotes improved physical abilities. While often thought of as biological mutation, clockwork implants and personal magical enhancements are equally likely mechanisms.
 

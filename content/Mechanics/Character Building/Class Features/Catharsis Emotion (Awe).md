@@ -9,7 +9,6 @@ tags:
 ---
 
 # Catharsis Emotion (Awe)
-![[Mechanics/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-spells-ectoplasmic-expulsion.webp|150]]
 
 Your powerful sense of wonderment can be infectious and distracting.
 

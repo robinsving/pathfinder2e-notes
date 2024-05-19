@@ -9,6 +9,5 @@ tags:
 ---
 
 # Graceful Mastery
-![[systems-pf2e-icons-features-classes-graceful-mastery.webp|150]]
 
 You move with perpetual grace in battle, eluding and turning aside blows. Your proficiency rank for unarmored defense increases to master.

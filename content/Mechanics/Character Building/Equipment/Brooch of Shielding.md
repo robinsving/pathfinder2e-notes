@@ -8,7 +8,6 @@ tags:
 ---
 
 # Brooch of Shielding
-![[icons-equipment-neck-amulet-round-engraved-gold.webp|150]]
 
 This piece of silver or gold jewelry is adorned with miniature images of kite shields and can be used to fasten a cloak or cape.
 

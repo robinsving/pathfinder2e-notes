@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Alchemist Goggles
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-alchemist-goggles.webp|150]]
 
 These brass goggles are engraved with flame patterns and have thick, heavy lenses.
 

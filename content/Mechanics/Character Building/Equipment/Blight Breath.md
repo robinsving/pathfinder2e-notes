@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blight Breath
-![[systems-pf2e-icons-equipment-consumables-oils-oil-of-mending.webp|150]]
 
 **Activate** 1 (manipulate)
 

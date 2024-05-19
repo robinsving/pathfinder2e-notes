@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Alghollthu Lash
-![[Mechanics/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-weapons-whip.webp|150]]
 
 This fleshy _+1 striking whip_ is obviously crafted from the tentacle of some fearsome beast, likely an alghollthu, and constantly drips slime.
 

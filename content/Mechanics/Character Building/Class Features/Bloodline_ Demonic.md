@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bloodline: Demonic
-![[icons-commodities-treasure-statuette-gargoyle-green-gold.webp|150]]
 
 Demons debase all they touch. One of your ancestors fell victim to their corruption, and you are burdened by that sin.
 

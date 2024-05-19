@@ -8,7 +8,6 @@ tags:
 ---
 
 # Djezet Dose
-![[systems-pf2e-icons-equipment-consumables-potions-djezet-dose.webp|150]]
 
 **Activate** A Interact
 

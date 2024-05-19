@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bomb Snare
-![[systems-pf2e-icons-equipment-snares-bomb-snare.webp|150]]
 
 You create a snare that catalyzes three 3rd-level moderate alchemical bombs of the same type to explode when a creature enters the snare's square. The target and all creatures in adjacent squares must attempt a DC 26 reflex, as the snare deals damage equal to three times the direct hit damage from one of the component bombs (for example, 6d6 electricity damage from bottled lightning) with no splash damage or other effects.
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Animate Dreamer
-![[icons-weapons-guns-gun-blunderbuss-bronze.webp|150]]
 
 **Perception** +26; precise vision 60 feet, imprecise hearing 30 feet
 

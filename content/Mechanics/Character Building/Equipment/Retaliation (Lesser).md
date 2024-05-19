@@ -8,7 +8,6 @@ tags:
 ---
 
 # Retaliation (Lesser)
-![[icons-commodities-treasure-token-runed-os-grey.webp|150]]
 
 Shields with a retaliation rune use the impact of weapons to generate blasts of explosive force that counterattack foes.
 

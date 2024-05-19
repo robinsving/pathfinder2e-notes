@@ -8,4 +8,3 @@ tags:
 ---
 
 # Brass statuette of a bull
-![[systems-pf2e-icons-equipment-treasure-art-objects-minor-art-object-brass-statuette-of-a-bull.webp|150]]

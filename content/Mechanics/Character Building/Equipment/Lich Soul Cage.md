@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lich Soul Cage
-![[systems-pf2e-icons-equipment-held-items-lich-phylactery.webp|150]]
 
 This item is crafted by a spellcaster who wishes to become a lich. When a lich is destroyed, its soul flees to the _soul cage_. The phylactery then rebuilds the lich's undead body over the course of `dice: 1d10` days. Afterward, the lich manifests next to the _soul cage_, fully healed and in a new body (therefore, it lacks any equipment it had on its old body). A lich's _soul cage_ must be destroyed to prevent a lich from returning.
 

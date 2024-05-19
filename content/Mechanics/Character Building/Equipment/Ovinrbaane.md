@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ovinrbaane
-![[icons-skills-melee-blade-tip-chipped-blood-red.webp|150]]
 
 **Perception** +27; precise vision 60 feet, imprecise hearing 60 feet
 

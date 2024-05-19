@@ -8,7 +8,6 @@ tags:
 ---
 
 # Piereta
-![[systems-pf2e-icons-equipment-intelligent-items-piereta.webp|150]]
 
 **Perception** +27; precise vision 30 feet, imprecise hearing 30 feet
 

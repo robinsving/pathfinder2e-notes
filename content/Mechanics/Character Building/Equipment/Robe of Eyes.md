@@ -8,7 +8,6 @@ tags:
 ---
 
 # Robe of Eyes
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-robe-of-eyes.webp|150]]
 
 This garment appears to be an ordinary robe until donned, at which point numerous strange and alien eyes of varied shapes and colors open and blink across its fabric. While wearing the robe, you gain a +3 item bonus to Perception checks, and you constantly benefit from the effects of a 2nd-level _[[See the Unseen]]_ spell.
 

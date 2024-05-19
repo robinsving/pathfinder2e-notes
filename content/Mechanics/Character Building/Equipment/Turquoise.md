@@ -8,4 +8,3 @@ tags:
 ---
 
 # Turquoise
-![[systems-pf2e-icons-equipment-treasure-gems-lesser-semiprecious-stones-turquoise.webp|150]]

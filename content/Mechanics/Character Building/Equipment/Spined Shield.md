@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spined Shield
-![[icons-equipment-shield-kite-decorative-steel-claws.webp|150]]
 
 Five jagged spines project from the surface of this steel shield (Hardness 6, HP 24, BT 12). The spines are +1 striking shield spikes.
 

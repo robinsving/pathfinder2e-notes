@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Aeon Stone (Pearly White Spindle)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-aeon-stone-pearly-white-spindle.webp|150]]
 
 When you invest this aeon stone, it slowly starts healing your wounds, restoring 1 HP every minute.
 

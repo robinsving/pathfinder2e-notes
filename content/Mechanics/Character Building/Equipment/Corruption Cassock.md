@@ -8,7 +8,6 @@ tags:
 ---
 
 # Corruption Cassock
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-cassock-of-devotion.webp|150]]
 
 **Perception** +20; precise vision 30 feet, imprecise hearing 30 feet, constant detect alignment
 

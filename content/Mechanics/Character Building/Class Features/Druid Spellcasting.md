@@ -11,7 +11,6 @@ tags:
 ---
 
 # Druid Spellcasting
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-magic-symbols-elements-air-earth-fire-water.webp|150]]
 
 The power of the wild world flows through you. You are a spellcaster and can cast spells of the primal tradition using the [[Cast a Spell]] activity. As a druid, your spellcasting incantations might be pleas to the environment around you or the invocation of ancient vows; your hands might sway like willows or curl into clawlike shapes as your gestures direct your magic. At 1st level, you can prepare two 1st-rank spells and five cantrips each morning from the common spells on the primal spell list, or from other primal spells to which you gain access and learn via Learn a Spell. Prepared spells remain available to you until you cast them or until you prepare your spells again. The number of spells you can prepare each day is called your spell slots.
 

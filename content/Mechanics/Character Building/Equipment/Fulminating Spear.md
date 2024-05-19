@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fulminating Spear
-![[icons-weapons-polearms-spear-flared-bronze-teal.webp|150]]
 
 This _+1 striking returning spear_ is warm to the touch. The head of the spear is crafted from gold with ivory inlay and has a ruby set into the shaft. You can make the spear glow like a torch or suppress its light by using an action, which has the concentrate trait.
 

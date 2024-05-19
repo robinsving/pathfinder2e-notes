@@ -8,7 +8,6 @@ tags:
 ---
 
 # Doubling Rings (Greater)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-doubling-rings.webp|150]]
 
 This item consists of two magically linked rings: an intricate, gleaming golden ring with a square-cut ruby, and a thick, plain iron ring. When you wield a melee weapon in the hand wearing the golden ring, the weapon's fundamental runes are replicated onto any melee weapon you wield in the hand wearing the iron ring. (The fundamental runes are _weapon potency_ and _striking_, which add an item bonus to attack rolls and extra weapon damage dice, respectively.) Any fundamental runes on the weapon in the hand wearing the iron ring are suppressed.
 

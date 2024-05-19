@@ -8,7 +8,6 @@ tags:
 ---
 
 # Glittering Scarab
-![[icons-commodities-currency-coin-inset-insect-gold.webp|150]]
 
 **Access** Member of the Esoteric Order of the Palatine Eye
 

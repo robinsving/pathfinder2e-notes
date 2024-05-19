@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bottled Lightning (Moderate)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-bombs-bottled-lightning.webp|150]]
 
 **Activate** A Strike
 

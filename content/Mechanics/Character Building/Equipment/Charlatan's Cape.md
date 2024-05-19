@@ -8,7 +8,6 @@ tags:
 ---
 
 # Charlatan's Cape
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-cape-of-the-mountebank.webp|150]]
 
 This bright red-and-gold cape is often interlaced with glittery threads and serves as a distraction. While wearing the cape, you gain a +2 item bonus to Deception checks.
 

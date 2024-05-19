@@ -9,7 +9,6 @@ tags:
 ---
 
 # Fury Instinct
-![[icons-magic-unholy-silhouette-evil-horned-giant.webp|150]]
 
 Your rage comes from a deep and purely personal well within you. You use your rage as you choose.
 

@@ -11,7 +11,6 @@ tags:
 ---
 
 # Fortitude Expertise
-![[icons-magic-life-cross-explosion-burst-green.webp|150]]
 
 **Bard** Your physique has grown hardy in your adventures. Your proficiency rank for Fortitude saves increases to expert.
 

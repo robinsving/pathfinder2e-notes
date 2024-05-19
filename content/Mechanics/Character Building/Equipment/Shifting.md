@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shifting
-![[systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
 
 With a moment of manipulation, you can shift this weapon into a different weapon with a similar form.
 

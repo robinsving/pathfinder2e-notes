@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Black Powder (Keg)
-![[icons-containers-barrels-barrel-oak-steel-brown.webp|150]]
 
 **Activate** 1 Interact
 

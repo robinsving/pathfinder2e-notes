@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dweomerweave Robe
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-dweomerweave-robe.webp|150]]
 
 This robe is made from dweomerweave, a magical fabric created by spinning minor illusions into the threads of ether spider silk. Dweomerweave is naturally hazy and translucent. It can take on the illusory appearances of other fabrics and garments, and dweomerweave robes are coveted by adventurers who want to travel light without compromising on fashion.
 

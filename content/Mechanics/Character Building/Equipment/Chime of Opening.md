@@ -8,7 +8,6 @@ tags:
 ---
 
 # Chime of Opening
-![[systems-pf2e-icons-equipment-held-items-chime-of-opening.webp|150]]
 
 This hollow mithral tube is about a foot long and bears engravings reminiscent of open locks and broken chains. The chime can be activated 10 times before it cracks and becomes useless.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tiger Menuki
-![[systems-pf2e-icons-equipment-consumables-talismans-tiger-menuki.webp|150]]
 
 **Activate** F (concentrate)
 

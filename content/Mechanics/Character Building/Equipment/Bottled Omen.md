@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bottled Omen
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-comprehension-elixir.webp|150]]
 
 **Activate** 1 Interact
 

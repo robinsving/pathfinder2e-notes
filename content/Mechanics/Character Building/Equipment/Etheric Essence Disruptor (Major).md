@@ -8,7 +8,6 @@ tags:
 ---
 
 # Etheric Essence Disruptor (Major)
-![[systems-pf2e-icons-equipment-held-items-etheric-essence-disruptor.webp|150]]
 
 **Active**d Interact
 

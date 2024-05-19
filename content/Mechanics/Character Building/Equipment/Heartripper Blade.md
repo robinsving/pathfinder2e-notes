@@ -8,7 +8,6 @@ tags:
 ---
 
 # Heartripper Blade
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-gloom-blade.webp|150]]
 
 This wicked-looking curved weapon is a _+1 striking dagger_ that draws power from defeating foes, either to bolster itself or its wielder. A _heartripper blade_ is well suited for use in any ritual that involves divination, and incorporating it into any ritual with the divination trait grants the wielder a +1 item bonus on any check made to resolve the effects of the ritual's casting.
 

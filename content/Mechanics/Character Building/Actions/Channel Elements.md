@@ -9,7 +9,6 @@ tags:
 ---
 
 # Channel Elements
-![[Mechanics/Character Building/Actions/zz_asset-files/icons-magic-water-vortex-water-whirlpool.webp|150]]
 
 **Requirements** Your kinetic gate isn't active.
 

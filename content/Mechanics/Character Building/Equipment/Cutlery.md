@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cutlery
-![[systems-pf2e-icons-equipment-consumables-ammunition-cutlery.webp|150]]
 
 Ammunition for the [[Spoon Gun]]
 

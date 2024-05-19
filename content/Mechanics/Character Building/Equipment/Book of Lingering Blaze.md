@@ -8,7 +8,6 @@ tags:
 ---
 
 # Book of Lingering Blaze
-![[icons-sundries-books-book-symbol-fire-gold-orange.webp|150]]
 
 The common saying, "Where there is progress in the field of magic, there is always someone who uses it to set things on fire," is engraved in gold on the cover of this red spellbook.
 

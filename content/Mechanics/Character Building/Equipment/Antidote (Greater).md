@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Antidote (Greater)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-antidote.webp|150]]
 
 **Activate** A (manipulate)
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Ancestral Geometry
-![[systems-pf2e-icons-equipment-tattoos-ancestral-geometry.webp|150]]
 
 Geometric precision and perfect angles signify that an artist with exemplary knowledge of dwarven tattooing traditions created this body art. Your family's ancestral stories, recited throughout the tattooing process, bind your blood even tighter to theirs. During your daily preparations, you manifest a visitation by an ancestor—possibly via a dream, a vision, or a magical trinket left by your bedroll. Roll `dice: 2d20` and record the highest result. Then roll `dice: 1d6` and note a type of saving throw: 1–2 Fortitude, 3–4 Reflex, and 5–6 Will.
 

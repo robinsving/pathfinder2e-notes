@@ -8,7 +8,6 @@ tags:
 ---
 
 # Smoking Sword
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-smoking-sword.webp|150]]
 
 Smoke constantly belches from this +1 magic longsword. Any hit with this sword deals 1 extra fire damage. You can use a special action while holding the sword to command the blade's edges to light on fire.
 

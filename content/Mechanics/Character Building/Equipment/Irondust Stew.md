@@ -8,7 +8,6 @@ tags:
 ---
 
 # Irondust Stew
-![[icons-consumables-food-bowl-stew-brown.webp|150]]
 
 **Activate** 1 Interact
 

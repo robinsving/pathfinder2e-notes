@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hellknight Half Plate
-![[systems-pf2e-icons-equipment-armor-hellknight-plate.webp|150]]
 
 Hellknights wear a variety of armors decorated with designs specific to the order. Hellknight half plate is the armor of choice for Hellknight signifiers.
 

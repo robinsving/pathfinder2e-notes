@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tidal Fishhook
-![[systems-pf2e-icons-equipment-weapons-combat-grapnel.webp|150]]
 
 This _+2 greater striking returning_ [[Combat Grapnel]] takes the form of a fishhook made of scavenged bones and stone with a cord of braided water. Attacks with a tidal fishhook don't take any of the normal penalties for fighting underwater. A broken (but not destroyed) tidal fishhook can be fully repaired by submerging it in an ocean for 1 minute.
 

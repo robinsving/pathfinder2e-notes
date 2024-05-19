@@ -8,7 +8,6 @@ tags:
 ---
 
 # War Blood Mutagen (Moderate)
-![[icons-consumables-potions-potion-flask-corked-shiny-red.webp|150]]
 
 Upon drinking this mutagen, you can feel your blood surge through your body and hear a low-pitched humming in your ears. These sensations subside as the flesh and muscles of your arm loosen and stretch, the fibers of your very being reaching out to combine with the base of one melee weapon you're holding.
 

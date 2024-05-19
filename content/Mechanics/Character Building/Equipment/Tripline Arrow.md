@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tripline Arrow
-![[systems-pf2e-icons-equipment-consumables-ammunition-viper-arrow.webp|150]]
 
 **Ammunition** arrow
 

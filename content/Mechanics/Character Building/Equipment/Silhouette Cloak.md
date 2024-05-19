@@ -8,7 +8,6 @@ tags:
 ---
 
 # Silhouette Cloak
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-siluette-cloak.webp|150]]
 
 In bright light, this dark cloak shimmers with patches of color that shift and move even when the cloth is still. In dim light or darkness, the cloak seems to blend into your surroundings and grants you a +3 item bonus to Stealth checks.
 

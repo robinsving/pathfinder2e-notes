@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blue Dragonfly Poison
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-blue-dragonfly-poison.webp|150]]
 
 **Activate** 1 Interact
 

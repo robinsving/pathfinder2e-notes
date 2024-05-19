@@ -9,7 +9,6 @@ tags:
 ---
 
 # Integrated Gauntlet
-![[icons-weapons-fist-fist-katar-triple-gold-black.webp|150]]
 
 **One-Handed Weapon Only; Can't Have the Two-Hand Trait**
 

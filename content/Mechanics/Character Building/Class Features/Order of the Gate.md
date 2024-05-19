@@ -9,7 +9,6 @@ tags:
 ---
 
 # Order of the Gate
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Favored Weapon** [[Dagger]]
 

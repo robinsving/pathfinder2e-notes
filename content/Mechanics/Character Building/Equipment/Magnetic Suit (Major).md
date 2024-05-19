@@ -8,7 +8,6 @@ tags:
 ---
 
 # Magnetic Suit (Major)
-![[icons-equipment-chest-breastplate-gorget-steel-white.webp|150]]
 
 **Activate** 2 Interact
 

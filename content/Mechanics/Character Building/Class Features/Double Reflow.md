@@ -9,6 +9,5 @@ tags:
 ---
 
 # Double Reflow
-![[Mechanics/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-spells-empower-ley-line.webp|150]]
 
 Your kinetic gate becomes even more adaptable. When you use reflow elements, you can replace two impulse feats instead of one.

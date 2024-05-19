@@ -9,7 +9,6 @@ tags:
 ---
 
 # Sarenrae
-![[systems-pf2e-icons-deity-Sarenrae.webp|150]]
 
 Once a powerful angel and empyreal lord, Sarenrae led the charge to imprison Rovagug. The Dawnflower seeks to redeem evil where possible, burn it away with the fire of the sun when it can't be redeemed, and restore those harmed by evil's machinations.
 

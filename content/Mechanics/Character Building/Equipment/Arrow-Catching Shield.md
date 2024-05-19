@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Arrow-Catching Shield
-![[systems-pf2e-icons-equipment-shields-specific-shields-arrow-catching-shield.webp|150]]
 
 This wooden shield (Hardness 10, HP 40, BT 20) is carved with images of overlapping fletched arrows.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Juxtaposition Ammunition
-![[systems-pf2e-icons-equipment-consumables-ammunition-juxtaposition-ammunition.webp|150]]
 
 **Ammunition** any
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Potion of Leaping
-![[systems-pf2e-icons-equipment-consumables-potions-potion-of-leaping.webp|150]]
 
 **Activate** A (manipulate)
 

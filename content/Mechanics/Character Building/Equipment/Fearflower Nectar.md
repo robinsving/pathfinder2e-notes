@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fearflower Nectar
-![[icons-commodities-flowers-lotus-violet.webp|150]]
 
 The nectar of a night-blooming desert flower attacks a victim’s central nervous system and causes feelings of panic.
 

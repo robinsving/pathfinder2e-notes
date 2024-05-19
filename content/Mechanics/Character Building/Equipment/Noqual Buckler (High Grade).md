@@ -8,7 +8,6 @@ tags:
 ---
 
 # Noqual Buckler (High Grade)
-![[systems-pf2e-icons-equipment-shields-precious-material-shields-noqual-buckler.webp|150]]
 
 Noqual shields are notoriously difficult to make, requiring high-grade materials, but they're especially effective against magic. When you have a noqual shield Raised, you gain its circumstance bonus to saving throws against spells that target you (as well as AC).
 

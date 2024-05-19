@@ -8,6 +8,5 @@ tags:
 ---
 
 # Thieves' Tools (Concealable Picks)
-![[icons-tools-hand-lockpicks-steel-grey.webp|150]]
 
 These are replacement picks for [[Thieves' Tools (Concealable)]].

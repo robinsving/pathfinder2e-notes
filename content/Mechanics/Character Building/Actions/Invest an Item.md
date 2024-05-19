@@ -9,7 +9,6 @@ tags:
 ---
 
 # Invest an Item
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 You invest your energy in an item with the invested trait as you don it. This process requires 1 or more Interact actions, usually taking the same amount of time it takes to don the item. Once you've Invested the Item, you benefit from its constant magical abilities as long as you meet its other requirements (for most invested items, the only other requirement is that you must be wearing the item). This investiture lasts until you remove the item.
 

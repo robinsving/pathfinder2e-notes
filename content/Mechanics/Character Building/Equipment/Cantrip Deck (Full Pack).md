@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cantrip Deck (Full Pack)
-![[icons-sundries-documents-document-bound-white-tan.webp|150]]
 
 In an effort to spread the knowledge of magic as widely as possible, worshippers of Nethys discovered a way to bind cantrips into cards accessible even to non-spellcasters. The deck contains thick parchment cards, each roughly half the size of a playing card. In precise, no-nonsense script, each card simply states the name of its cantrip, color-coded based on its school.
 

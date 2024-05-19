@@ -9,7 +9,6 @@ tags:
 ---
 
 # Ydersius
-![[systems-pf2e-icons-deity-Ydersius.webp|150]]
 
 The serpentfolk god is not dead, but in his decapitated state, he might as well be. Reduced to a feral, animalistic existence, Ydersius is even less aware of his legacy than the lowest of the aapoph. Ydersius's symbol is a snake's skull surrounded by a skeletal ouroboros.
 

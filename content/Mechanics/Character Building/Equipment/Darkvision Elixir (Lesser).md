@@ -8,7 +8,6 @@ tags:
 ---
 
 # Darkvision Elixir (Lesser)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-darkvision-elixir.webp|150]]
 
 **Activate**1 (manipulate)
 

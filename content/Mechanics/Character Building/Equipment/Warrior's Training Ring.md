@@ -8,7 +8,6 @@ tags:
 ---
 
 # Warrior's Training Ring
-![[icons-equipment-finger-ring-cabochon-squared-gold-red.webp|150]]
 
 This ring is utilitarian in design-indicating its martial use. Its band is decorated only with a simple, sharp-edged sculpture on the band's center. While wearing this ring, you add your level to your attack rolls with all weapons with which you are untrained.
 

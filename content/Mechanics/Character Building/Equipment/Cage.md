@@ -8,4 +8,3 @@ tags:
 ---
 
 # Cage
-![[systems-pf2e-icons-equipment-adventuring-gear-waffle-iron.webp|150]]

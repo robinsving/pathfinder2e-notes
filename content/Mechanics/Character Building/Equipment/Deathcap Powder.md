@@ -8,7 +8,6 @@ tags:
 ---
 
 # Deathcap Powder
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-deathcap-powder.webp|150]]
 
 The toxic deathcap mushroom can be dried, ground, and treated to form a flavorless powder with accelerated effects.
 

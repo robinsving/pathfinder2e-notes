@@ -8,7 +8,6 @@ tags:
 ---
 
 # Looter's Lethargy
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-looters-lethargy.webp|150]]
 
 **Activate** 3 Interact
 

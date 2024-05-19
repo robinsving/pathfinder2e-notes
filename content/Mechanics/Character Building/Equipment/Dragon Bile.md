@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dragon Bile
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-dragon-bile.webp|150]]
 
 A mix of digestive juices and green dragon poison glands nauseates the victim as its flesh is digested from within.
 

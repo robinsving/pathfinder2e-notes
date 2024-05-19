@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tablet of Chained Souls
-![[systems-pf2e-icons-equipment-cursed-items-tablet-of-chained-souls.webp|150]]
 
 Half-formed, unreadable runes drift across this weathered stone tablet, which resembles a tombstone too eroded to be legible. Created by a long-dead order of scholars dedicated to Pharasma, the tablet of chained souls can be a powerful tool in laying uneasy spirits to rest, but its magic exacts a heavy cost.
 

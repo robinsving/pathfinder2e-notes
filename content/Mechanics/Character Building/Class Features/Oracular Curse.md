@@ -9,7 +9,6 @@ tags:
 ---
 
 # Oracular Curse
-![[systems-pf2e-icons-features-classes-oracle-curse.webp|150]]
 
 Drawing on multiple disparate sources of power inevitably places an incredible stress on your body, manifesting as a supernatural curse. The more revelation spells you cast, the worse the effects of your curse, but these increasingly conflicting energies can also provide you with divine benefits.
 

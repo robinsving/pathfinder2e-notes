@@ -9,6 +9,5 @@ tags:
 ---
 
 # Hefty Composition
-![[systems-pf2e-icons-features-classes-hefty-composition.webp|150]]
 
 Blunt surfaces and sturdy construction make your weapon hefty and mace-like. Your innovation gains the shove and versatile B traits.

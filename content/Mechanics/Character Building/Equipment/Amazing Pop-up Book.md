@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Amazing Pop-up Book
-![[icons-sundries-books-book-open-turquoise.webp|150]]
 
 Goblin wizards invented the _amazing pop-up book_ to store their spells without written words, though the tradition has been spreading to illusionists from other cultures. These grimoires have colorful covers and open to reveal three-dimensional scenes illustrating various spells. Goblins delight in constructing the books just right so a terrifying creature, like a horse or dog, pops up toward the reader each time a page is turned.
 

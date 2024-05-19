@@ -8,7 +8,6 @@ tags:
 ---
 
 # Striking
-![[systems-pf2e-icons-equipment-runes-fundamental-weapon-runes-striking.webp|150]]
 
 A _striking_ rune stores destructive magic in the weapon, increasing the weapon damage dice it deals to two instead of one. For instance, a _+1 striking dagger_ would deal 2d4 damage instead of 1d4 damage.
 

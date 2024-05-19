@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Accolade Robe
-![[icons-equipment-chest-robe-collared-blue.webp|150]]
 
 Although not all wizards have gone through formal training, it's become tradition to enchant robes representing the arduous training required and festoon them with honors one has earned. Typically, an _accolade robe_ is styled after a single wizard school, with appropriate colors and symbols. Wearing these robes grants a +2 item bonus to Arcana checks.
 

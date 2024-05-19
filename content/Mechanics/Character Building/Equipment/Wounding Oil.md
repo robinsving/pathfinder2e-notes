@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wounding Oil
-![[icons-consumables-potions-potion-tube-corked-bat-gold-red.webp|150]]
 
 **Activate** 1 Interact
 

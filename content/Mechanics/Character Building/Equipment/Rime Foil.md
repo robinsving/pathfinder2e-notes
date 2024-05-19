@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rime Foil
-![[systems-pf2e-icons-equipment-weapons-rapier.webp|150]]
 
 The steely blue blade of this _+2 striking frost rapier_ emerges from a hilt wrapped in thick leather and trimmed in fur to protect the wielder's hand.
 

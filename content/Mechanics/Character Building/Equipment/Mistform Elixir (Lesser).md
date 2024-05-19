@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mistform Elixir (Lesser)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-mistform-elixir.webp|150]]
 
 **Activate** A (manipulate)
 

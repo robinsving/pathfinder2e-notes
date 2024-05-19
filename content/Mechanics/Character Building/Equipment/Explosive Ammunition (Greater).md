@@ -8,7 +8,6 @@ tags:
 ---
 
 # Explosive Ammunition (Greater)
-![[systems-pf2e-icons-equipment-consumables-ammunition-explosive-ammunition.webp|150]]
 
 **Activate** A (manipulate)
 

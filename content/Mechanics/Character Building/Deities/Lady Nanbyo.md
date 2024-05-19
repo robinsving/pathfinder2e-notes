@@ -9,7 +9,6 @@ tags:
 ---
 
 # Lady Nanbyo
-![[systems-pf2e-icons-deity-Lady Nanbyo.webp|150]]
 
 **Edicts** Revel in destruction, make natural disasters worse, allow natural disasters take their due
 

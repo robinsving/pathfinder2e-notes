@@ -8,7 +8,6 @@ tags:
 ---
 
 # Boots of Free Running (Moderate)
-![[icons-equipment-feet-boots-leather-brown.webp|150]]
 
 These comfortable and practical boots slip on easily and fill you with boundless energy. The treads of these boots provide exceptional traction, with improved grip on surfaces you would traditionally have difficulty traversing. While wearing the boots, you gain a +2 item bonus to Acrobatics checks to [[Balance]] and to Athletics checks to [[High Jump]] and [[Long Jump]].
 

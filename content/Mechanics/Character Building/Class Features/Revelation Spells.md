@@ -9,7 +9,6 @@ tags:
 ---
 
 # Revelation Spells
-![[systems-pf2e-icons-features-classes-revelation-spells.webp|150]]
 
 The powers of your mystery manifest in the form of revelation spells, which are a type of focus spell. Casting a revelation spell costs 1 Focus Point and increases the effects of your [[Oracular Curse]]. You start with a focus pool of 2 Focus Points. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the Refocus activity to reconcile the conflicting or unconventional nature of your divine mystery.
 

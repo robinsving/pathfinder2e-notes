@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Armored Skirt
-![[systems-pf2e-icons-equipment-adventuring-gear-armored-skirt.webp|150]]
 
 These armor-plated skirts, which are also known as armored kilts, are favored by Knights of Lastwall for their versatility and aesthetic appeal. An armored skirt can be donned with 2 Interact actions when it's worn with light or medium armor, or as part of donning heavy armor.
 

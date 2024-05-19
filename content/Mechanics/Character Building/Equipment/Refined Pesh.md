@@ -8,7 +8,6 @@ tags:
 ---
 
 # Refined Pesh
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-refined-pesh.webp|150]]
 
 When eaten or smoked, pesh gives users a sense of well-being, sometimes with hallucinations, aggression, and exhaustion.
 

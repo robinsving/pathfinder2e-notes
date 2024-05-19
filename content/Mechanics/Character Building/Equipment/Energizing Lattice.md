@@ -8,7 +8,6 @@ tags:
 ---
 
 # Energizing Lattice
-![[systems-pf2e-icons-equipment-armor-lattice-armor.webp|150]]
 
 This suit of _+2 resilient fortification lattice armor_ has latticework of fine golden wire. After negating a critical hit with its _fortification_ rune, the latticework glows for 1 minute, shedding bright light in a 20-foot radius (and dim light for the next 20 feet). You can Dismiss this light.
 

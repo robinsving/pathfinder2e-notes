@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lodestone Shield
-![[icons-equipment-shield-heater-stone-orange.webp|150]]
 
 This _moderate reinforcing cold iron shield_ (Hardness 10, HP 92, BT 46) is inset with lodestones that draw ammunition toward it.
 

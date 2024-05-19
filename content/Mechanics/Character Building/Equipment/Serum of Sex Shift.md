@@ -8,7 +8,6 @@ tags:
 ---
 
 # Serum of Sex Shift
-![[systems-pf2e-icons-equipment-consumables-potions-serum-of-sex-shift.webp|150]]
 
 **Activate** A (manipulate)
 

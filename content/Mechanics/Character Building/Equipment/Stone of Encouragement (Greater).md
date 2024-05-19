@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stone of Encouragement (Greater)
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-commodities-gems-pearl-white-oval.webp|150]]
 
 This smooth, round, gray stone fits neatly into the palm of your hand and feels comfortable to hold regardless of the size or shape of your hand. While you're holding the stone, it telepathically speaks to you at regular intervals in generic words of encouragement, such as "You can do it!" and "Let's go!" The encouraging words manifest in the voice of your internal monologue or take on the characteristics of the voice of someone you trust. Despite the similarity, you're aware that the stone is telepathically projecting its voice and can differentiate between the stone's voice and your internal monologue or the voice of the person you trust.
 

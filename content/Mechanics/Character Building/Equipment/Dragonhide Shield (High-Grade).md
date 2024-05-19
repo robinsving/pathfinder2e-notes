@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dragonhide Shield (High-Grade)
-![[systems-pf2e-icons-equipment-shields-precious-material-shields-dragonhide-shield.webp|150]]
 
 Dragonhide shields are each immune to one damage type based on the type of dragon.
 

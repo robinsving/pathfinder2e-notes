@@ -8,7 +8,6 @@ tags:
 ---
 
 # Origin Unguent
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-orgin-unguent.webp|150]]
 
 **Activate** 1 Interact
 

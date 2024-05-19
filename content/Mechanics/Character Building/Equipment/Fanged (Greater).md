@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fanged (Greater)
-![[icons-commodities-treasure-token-runed-os-grey.webp|150]]
 
 When etched with this rune, a weapon's hilt or haft becomes engraved with grooves that match the imprints of a wolf's teeth. By putting a _fanged_ weapon in your mouth, you can transform into an animal.
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Black Lotus Extract
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-black-lotus-extract.webp|150]]
 
 Black lotus extract causes severe internal bleeding.
 

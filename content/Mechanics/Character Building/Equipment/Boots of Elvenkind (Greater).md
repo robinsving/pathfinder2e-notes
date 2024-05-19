@@ -8,7 +8,6 @@ tags:
 ---
 
 # Boots of Elvenkind (Greater)
-![[icons-equipment-feet-boots-leather-green.webp|150]]
 
 These tall, pointed boots are made from soft, supple black or green leather and are decorated with trim and buckles of gold. When worn, the boots allow you to move more nimbly, granting you a +2 item bonus to Acrobatics checks.
 

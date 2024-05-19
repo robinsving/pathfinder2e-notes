@@ -9,7 +9,6 @@ tags:
 ---
 
 # The Resentment
-![[icons-magic-unholy-hand-light-green.webp|150]]
 
 A single feeling radiated from your patron in the moment you met them, as palpable as heat from a fire: the desire to see every tall poppy felled and every proud nail hammered down, whether to righteously bring justice for small folk or the base urge to see the powerful defeated. Your patron is likely far from the upper echelons of its kind, such as a hag ousted from its coven or a quasi-divinity or a lower-rank demon. This leaves it only subtler and weaker tools to see its ends met: curses, hexes, and you.
 

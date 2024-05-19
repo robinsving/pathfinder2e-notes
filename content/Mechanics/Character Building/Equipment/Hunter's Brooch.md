@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hunter's Brooch
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-hunterss-brooch.webp|150]]
 
 While wearing this silver religious symbol of Erastil, you can cast the _[[Vitality Lash]]_ cantrip as an innate divine spell.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Pursue a Lead
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 **Frequency** once per 10 minutes
 

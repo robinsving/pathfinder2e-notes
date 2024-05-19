@@ -8,7 +8,6 @@ tags:
 ---
 
 # Energy Mutagen (Major)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-energy-mutagen.webp|150]]
 
 **Activate** A Interact
 

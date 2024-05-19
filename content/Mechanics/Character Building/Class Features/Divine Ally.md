@@ -9,7 +9,6 @@ tags:
 ---
 
 # Divine Ally
-![[systems-pf2e-icons-features-classes-divine-ally.webp|150]]
 
 Your devotion attracts a spirit of your deity's alignment. Once you choose an ally, your choice can't be changed.
 

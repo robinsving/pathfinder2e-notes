@@ -8,7 +8,6 @@ tags:
 ---
 
 # Voyager's Pack
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-voyagers-pack.webp|150]]
 
 This leather rucksack has icons burned into it, and every time it's taken to a plane it hasn't been to before, a new icon representing that plane scorches into the surface.
 

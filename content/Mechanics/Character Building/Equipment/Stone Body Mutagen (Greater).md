@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stone Body Mutagen (Greater)
-![[icons-consumables-potions-potion-bottle-corked-stopper-ornate-yellow.webp|150]]
 
 **Activate** A Interact
 

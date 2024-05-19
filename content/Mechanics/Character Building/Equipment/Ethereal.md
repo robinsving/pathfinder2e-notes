@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ethereal
-![[systems-pf2e-icons-equipment-runes-armor-property-runes-armor-property-runes.webp|150]]
 
 An _ethereal rune_ replicates armor on the Ethereal Plane.
 

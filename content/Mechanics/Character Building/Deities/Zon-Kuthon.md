@@ -9,7 +9,6 @@ tags:
 ---
 
 # Zon-Kuthon
-![[systems-pf2e-icons-deity-Zon-Kuthon.webp|150]]
 
 Once a god of art, beauty, and music, like Shelyn, the Midnight Lord returned from a sojourn in the dark spaces between the planes horribly changed. Zon-Kuthon now teaches the pleasures of pain and darkness.
 

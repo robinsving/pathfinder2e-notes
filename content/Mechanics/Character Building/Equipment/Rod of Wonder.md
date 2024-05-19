@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rod of Wonder
-![[systems-pf2e-icons-equipment-held-items-rod-of-wonder.webp|150]]
 
 This peculiar rod is strange and unpredictable. Each time it is activated, it produces one of a variety of effects at random.
 

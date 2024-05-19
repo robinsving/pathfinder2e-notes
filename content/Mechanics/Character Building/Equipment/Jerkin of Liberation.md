@@ -8,7 +8,6 @@ tags:
 ---
 
 # Jerkin of Liberation
-![[systems-pf2e-icons-equipment-armor-specific-magic-armor-jerkin-of-liberation.webp|150]]
 
 This +2 greater resilient studded leather is traditionally inscribed with a symbol of either Norgorber or Cayden Cailean. Its leather is light as silk, and its buttons and studs are gleaming crystal. While you wear it, you get a +15-foot item bonus to your Speed, and effects that attempt to impose penalties on your Speed must first counteract the jerkin of liberation or they have no effect on you.
 

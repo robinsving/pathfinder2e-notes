@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cooperative Blade
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-cooperative-blade.webp|150]]
 
 This _+1 striking longsword_ has a mirror-like blade free of tarnish despite being millennia old.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Diluted Hype
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-diluted-hype.webp|150]]
 
 A synthetic adrenaline supplement that increases awareness and reaction time. Diluted hype has been mixed with saltwater to allow for cheaper mass production.
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Amnemonic Charm
-![[icons-equipment-neck-amulet-round-blue.webp|150]]
 
 **Activate** f envision
 

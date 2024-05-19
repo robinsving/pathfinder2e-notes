@@ -8,7 +8,6 @@ tags:
 ---
 
 # Memory Guitar
-![[icons-tools-instruments-lute-gold-brown.webp|150]]
 
 This simple guitar appears worn and battered from use, but upon close observation, the damage seems to be intentional. From the correct angle, the guitar's scratches and marks seem to form a simple picture, such as an environmental scene or a crude face.
 

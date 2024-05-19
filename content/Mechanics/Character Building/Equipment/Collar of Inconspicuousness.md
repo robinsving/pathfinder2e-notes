@@ -8,7 +8,6 @@ tags:
 ---
 
 # Collar of Inconspicuousness
-![[systems-pf2e-icons-equipment-worn-items-companion-items-collar-of-inconspicuousness.webp|150]]
 
 This leather collar's worn and almost threadbare look belies its magical nature. When your companion wears and invests the collar, it gains the ability to change its appearance from that of a ferocious animal into a more inconspicuous form.
 

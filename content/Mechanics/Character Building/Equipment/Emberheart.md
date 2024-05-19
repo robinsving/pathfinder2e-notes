@@ -8,7 +8,6 @@ tags:
 ---
 
 # Emberheart
-![[systems-pf2e-icons-equipment-worn-items-apex-items-emberheart.webp|150]]
 
 This small, heart-shaped amulet appears to be sculpted from stone with a single streak of dim light running through, like an ember just beneath ashes. When worn, the amulet gives off a gentle warmth, akin to being near a fireplace. You gain poison resistance 15 when wearing this amulet.
 

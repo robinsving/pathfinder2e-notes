@@ -9,7 +9,6 @@ tags:
 ---
 
 # School of Protean Form
-![[icons-sundries-books-book-embossed-jewel-silver-green.webp|150]]
 
 The uninitiated often think of wizards as cerebral, focused on their studies more than the body, yet your school of magic taught of the relationship between the two. Your magic, whether learned at a storied institution like Kintargo's Alabaster Academy or someplace more sinister, like the Fleshforges of Nex, focuses on the ways that living matter can be convinced into another shape for a time, allowing you to polymorph a seed into a vine, a human into a beast, or a harmless germ into a deadly toxin.
 

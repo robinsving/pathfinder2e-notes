@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pyronite
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-bombs-pyronite.webp|150]]
 
 A stick of pyronite is a devastating explosive that fills an area with fire and concussive force when it detonates—as long as its fuse has been lit!
 

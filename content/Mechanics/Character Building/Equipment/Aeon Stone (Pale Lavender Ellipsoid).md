@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Aeon Stone (Pale Lavender Ellipsoid)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-aeon-stone-pale-lavender-ellipsoid.webp|150]]
 
 This aeon stone must be activated to provide a benefit. The resonant power allows you to cast the _[[Read Aura]]_ cantrip as an arcane innate spell.
 

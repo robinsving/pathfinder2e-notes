@@ -8,7 +8,6 @@ tags:
 ---
 
 # Brooch of Inspiration (Greater)
-![[icons-commodities-treasure-medal-ribbon-gold-red.webp|150]]
 
 This finely cut garnet brooch fills your mind with vigor and occasional bursts of mental clarity. While wearing the brooch, you gain a +2 item bonus to checks to Recall Knowledge with Lore skills.
 

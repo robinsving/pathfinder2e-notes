@@ -9,7 +9,6 @@ tags:
 ---
 
 # Yaezhing
-![[systems-pf2e-icons-deity-Yaezhing.webp|150]]
 
 **Edicts** Commit assassinations for hire, strike unseen, carry out punishment for convicted criminals
 

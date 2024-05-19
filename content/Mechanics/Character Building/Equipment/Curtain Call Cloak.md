@@ -8,7 +8,6 @@ tags:
 ---
 
 # Curtain Call Cloak
-![[icons-equipment-back-mantle-collared-blue.webp|150]]
 
 This blue velvet cloak is cut from the remains of a curtain from a destroyed theater. When worn, you gain a +2 item bonus to Performance checks while acting, orating, or singing, as the cloak makes minor motions to accentuate your performance.
 

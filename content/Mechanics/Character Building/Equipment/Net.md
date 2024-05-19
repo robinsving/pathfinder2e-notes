@@ -8,7 +8,6 @@ tags:
 ---
 
 # Net
-![[systems-pf2e-icons-equipment-adventuring-gear-net.webp|150]]
 
 You can use a net either on its own or attached to a rope. When attached to a rope, you can use the net to [[Grapple]] a Medium or smaller creature up to 10 feet away (instead of only adjacent creatures). You can continue to Grapple to keep your hold on the target so long as the target remains within 10 feet and you continue to hold the net. The grabbed creature gains a +2 circumstance bonus to Escape unless you are adjacent to them, and it can attempt a DC 16 athletics check to Force Open the net entirely. Once the target is no longer grabbed, the net is unwieldy until refolded with an Interact action with the concentrate trait that requires two hands; if used without being refolded, Grapple checks made with the net take a -2 penalty.
 

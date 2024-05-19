@@ -8,7 +8,6 @@ tags:
 ---
 
 # Nosoi Charm (Greater)
-![[systems-pf2e-icons-equipment-held-items-nosoi-charm.webp|150]]
 
 Nosois serve as scribes and messengers to psychopomps. They are rare outside of the Boneyard, so it's common for psychopomps venturing to other planes to carry a nosoi facsimile to aid in their travels. This tiny icon of a masked raven emits twittering sounds in perfect accompaniment to your performances. You gain a +3 item bonus to Performance checks to play an instrument, orate, or sing. You can cast _[[Sending]]_ once per day as a divine innate spell.
 

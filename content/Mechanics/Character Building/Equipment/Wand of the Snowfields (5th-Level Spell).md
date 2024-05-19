@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of the Snowfields (5th-Level Spell)
-![[systems-pf2e-icons-equipment-wands-specialty-wands-wand-of-the-snowfields.webp|150]]
 
 This wand is a slender length of ice-blue glass.
 

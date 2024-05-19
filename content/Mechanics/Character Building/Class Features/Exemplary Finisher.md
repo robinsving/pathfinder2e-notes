@@ -9,7 +9,6 @@ tags:
 ---
 
 # Exemplary Finisher
-![[systems-pf2e-icons-features-classes-exemplary-finisher.webp|150]]
 
 You execute your finishing moves with spectacular flair, adding special effects to your finishers. If a Strike you make as part of a finisher hits a foe, you add one of the following effects to the Strike, depending on your swashbuckler's style.
 

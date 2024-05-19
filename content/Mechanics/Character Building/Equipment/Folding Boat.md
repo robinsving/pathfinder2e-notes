@@ -8,7 +8,6 @@ tags:
 ---
 
 # Folding Boat
-![[systems-pf2e-icons-equipment-held-items-folding-boat.webp|150]]
 
 This simple carved box can fold or unfold into a boat when activated.
 

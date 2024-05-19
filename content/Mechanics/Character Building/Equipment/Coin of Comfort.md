@@ -8,7 +8,6 @@ tags:
 ---
 
 # Coin of Comfort
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-commodities-currency-coin-embossed-unicorn-silver.webp|150]]
 
 This thick silver coin is deeply worn on one side, creating a shallow dip.
 

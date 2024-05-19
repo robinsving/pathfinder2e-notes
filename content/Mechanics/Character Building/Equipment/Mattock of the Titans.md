@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mattock of the Titans
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-mattock-of-the-titans.webp|150]]
 
 This 15-foot-long adamantine digging tool is far too big for even a Large creature to wield, though if you're a Small or larger creature, you can wield it while wearing a belt of giant strength, as though it were appropriately sized for you and had 2 Bulk. The GM might also allow you to wield the mattock if you have some other means of wielding oversized weapons, such as if you're a Large barbarian with the giant instinct or are a Huge creature. When it's used as a weapon, the mattock of the titans has the statistics of a +3 greater striking [[Keen]] adamantine greatpick.
 

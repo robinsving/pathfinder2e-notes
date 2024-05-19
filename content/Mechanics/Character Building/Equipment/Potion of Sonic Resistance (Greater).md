@@ -8,7 +8,6 @@ tags:
 ---
 
 # Potion of Sonic Resistance (Greater)
-![[systems-pf2e-icons-equipment-consumables-potions-potion-of-sonic-resistance.webp|150]]
 
 **Activate** A (manipulate)
 

@@ -8,4 +8,3 @@ tags:
 ---
 
 # Merchant's Scale
-![[systems-pf2e-icons-equipment-adventuring-gear-merchant-scale.webp|150]]

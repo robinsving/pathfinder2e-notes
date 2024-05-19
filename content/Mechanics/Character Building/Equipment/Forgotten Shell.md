@@ -8,7 +8,6 @@ tags:
 ---
 
 # Forgotten Shell
-![[systems-pf2e-icons-equipment-armor-specific-magic-armor-forgotten_shell.webp|150]]
 
 This _+2 resilient [[Full Plate]]_, crafted from grim plates of iron, covers the entire body except for small holes for the eyes and mouth.
 

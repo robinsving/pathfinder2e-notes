@@ -9,7 +9,6 @@ tags:
 ---
 
 # Erastil
-![[systems-pf2e-icons-deity-Erastil.webp|150]]
 
 Long ago, Erastil was a horned god of the hunt, but his worship evolved to focus on rural communities. Old Deadeye desires nothing more than peaceful lives for his followers, calling them to arms only when that pastoral existence is threatened.
 

@@ -9,6 +9,5 @@ tags:
 ---
 
 # Second Doctrine (Warpriest)
-![[systems-pf2e-icons-features-classes-warpriest.webp|150]]
 
 You're trained in martial weapons.

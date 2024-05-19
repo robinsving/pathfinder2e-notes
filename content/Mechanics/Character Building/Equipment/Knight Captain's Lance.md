@@ -8,7 +8,6 @@ tags:
 ---
 
 # Knight Captain's Lance
-![[systems-pf2e-icons-equipment-weapons-lance.webp|150]]
 
 The appearance of this beautifully crafted _+2 disrupting greater striking lance_ changes to match the armor of its wielder. It has a cloth flag attached behind the lance point that displays whatever heraldry the wielder wishes.
 

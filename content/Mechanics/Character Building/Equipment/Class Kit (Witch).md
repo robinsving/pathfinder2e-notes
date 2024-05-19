@@ -8,7 +8,6 @@ tags:
 ---
 
 # Class Kit (Witch)
-![[systems-pf2e-icons-equipment-adventuring-gear-classkit-witch.webp|150]]
 
 **Weapons** sickle, sling with 20 bullets, staff
 

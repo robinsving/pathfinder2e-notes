@@ -9,7 +9,6 @@ tags:
 ---
 
 # Basic Undead Benefits
-![[Mechanics/Character Building/Ancestry Features/zz_asset-files/icons-magic-death-skull-humanoid-white-blue.webp|150]]
 
 **Necril:** You know the Necril language.
 

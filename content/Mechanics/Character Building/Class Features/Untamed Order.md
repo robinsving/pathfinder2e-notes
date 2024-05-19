@@ -11,7 +11,6 @@ tags:
 ---
 
 # Untamed Order
-![[icons-magic-nature-stealth-hide-beast-eyes-green.webp|150]]
 
 The uncontrollable call of the natural world courses through your body. You might have been raised by a wild animal, or you might have come to reject the artifices of cities after growing up in one. Now, primal magic grants you the ability to wear the form of an untamed creature.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Swarmform Collar
-![[systems-pf2e-icons-equipment-worn-items-companion-items-swarmform-collar.webp|150]]
 
 This sturdy leather collar is imprinted with tessellated animal shapes. When invested, the animal shapes change to match that of your companion.
 

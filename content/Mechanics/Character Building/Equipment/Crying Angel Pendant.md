@@ -8,7 +8,6 @@ tags:
 ---
 
 # Crying Angel Pendant
-![[icons-commodities-treasure-trinket-wing-white.webp|150]]
 
 **Activate** D (concentrate)
 

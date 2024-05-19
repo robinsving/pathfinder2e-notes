@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Arboreal Boots (Greater)
-![[icons-equipment-feet-boots-collared-green.webp|150]]
 
 These soft leather boots are embossed with simple woodland scenes. The boots grant a +2 item bonus to Acrobatics and allow you to ignore difficult terrain from plants and fungi.
 

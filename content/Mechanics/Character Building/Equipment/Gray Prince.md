@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gray Prince
-![[systems-pf2e-icons-equipment-weapons-hand-cannon.webp|150]]
 
 While nothing created by the Ash Cult could be considered mass-produced, this _+1 striking ruinous hand cannon_ is by far their most popular design. The sleek body and intricate carving work make it a favorite accessory of certain aristocrats. The carving isn't merely decorative, however. Rather than a traditional maker's mark, Ornmarr etches excerpts of unreadable text onto each creation, hoping that one day his weapons will sing to another as the silver crystal once sang to him.
 

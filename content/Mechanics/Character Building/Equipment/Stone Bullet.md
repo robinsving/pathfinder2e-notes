@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stone Bullet
-![[systems-pf2e-icons-equipment-consumables-ammunition-stone-bullet.webp|150]]
 
 **Activate** A (manipulate)
 

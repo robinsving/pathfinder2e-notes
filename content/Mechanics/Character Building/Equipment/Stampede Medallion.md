@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stampede Medallion
-![[systems-pf2e-icons-equipment-worn-items-companion-items-stampede-medallion.webp|150]]
 
 When you invest this medallion for your eidolon, it changes shape to appear as a tiny bejeweled facsimile of the eidolon, magically attached just over your eidolon's heart. While your eidolon wears the medallion, they gain a +2 item bonus to Athletics checks to Shove or Trip.
 

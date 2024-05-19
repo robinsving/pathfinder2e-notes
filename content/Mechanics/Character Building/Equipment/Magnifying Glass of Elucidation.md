@@ -8,7 +8,6 @@ tags:
 ---
 
 # Magnifying Glass of Elucidation
-![[systems-pf2e-icons-equipment-held-items-magnifying-glass-of-elucidation.webp|150]]
 
 These well-aged wooden magnifying glasses are engraved with a variety of runes. Each is imbued with a specific language. When you use a magnifying glass to examine writing of its imbued language, it translates the writing into a language you understand. For example, an elf who speaks only Elven using a _magnifying glass of elucidation_ imbued with Dwarven would see Dwarven writing as Elven when observed through the magnifying glass. The magnifying glass only provides direct translations and doesn't automatically allow you to understand codes or extremely esoteric passages-you still need to attempt a skill check to Decipher Writing.
 

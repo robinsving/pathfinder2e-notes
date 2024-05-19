@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pipe of Dancing Smoke
-![[icons-sundries-misc-pipe-elegant.webp|150]]
 
 This ornate pipe is chiseled from a single bloodstone piece with wooden accents. When in use, the pipe gives off a vibrant red smoke that floats lazily in the air. These pipes are popular among bards and braggarts who like the ostentatious smoke it gives off—and who often use it to create raucous diversions or send indiscreet signals.
 

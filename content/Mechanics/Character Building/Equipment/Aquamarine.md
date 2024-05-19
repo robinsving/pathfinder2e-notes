@@ -9,4 +9,3 @@ draft: true
 ---
 
 # Aquamarine
-![[systems-pf2e-icons-equipment-treasure-gems-lesser-precious-stones-aquamarine.webp|150]]

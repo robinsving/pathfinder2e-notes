@@ -9,7 +9,6 @@ tags:
 ---
 
 # Mystery
-![[icons-magic-symbols-question-stone-yellow.webp|150]]
 
 Choose the divine mystery that fuels your mystical power.
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Arachnid Harness
-![[icons-equipment-chest-breastplate-banded-simple-leather-brown.webp|150]]
 
 This _+1 leather armor_ has four knobbed ribs that wrap around the torso. The armor grants you resistance 2 to poison damage.
 

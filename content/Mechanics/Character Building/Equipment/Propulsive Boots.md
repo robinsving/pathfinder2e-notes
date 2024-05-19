@@ -8,7 +8,6 @@ tags:
 ---
 
 # Propulsive Boots
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-boots-of-speed.webp|150]]
 
 These sleek red boots make your legs feel like they're bursting with energy. You gain a +5-foot item bonus to your land Speed and to any climb or swim Speeds you have.
 

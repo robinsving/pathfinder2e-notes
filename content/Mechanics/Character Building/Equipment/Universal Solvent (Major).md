@@ -8,7 +8,6 @@ tags:
 ---
 
 # Universal Solvent (Major)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-universal-solvent.webp|150]]
 
 **Activate** 1 Interact
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blood Sap
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-blood-sap.webp|150]]
 
 This potent drug is distilled from a certain tropical vine into a deep-red syrup that, over time, stains the user's lips and teeth a vivid shade of red.
 

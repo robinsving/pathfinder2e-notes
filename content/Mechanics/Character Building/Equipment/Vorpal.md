@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vorpal
-![[systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
 
 Originally created as a means of slaying the legendary jabberwock, _vorpal_ weapons prove equally effective against nearly any foe with a head.
 

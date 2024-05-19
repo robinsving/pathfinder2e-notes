@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Sieges
-![[systems-pf2e-icons-equipment-staves-staff-of-sieges.webp|150]]
 
 This adamantine staff is fitted with mithral plates resembling battlements on a castle. Lesser cover, cover, and greater cover don't grant any bonus against your spell attacks or to saving throws against your spells that you cast from the staff.
 

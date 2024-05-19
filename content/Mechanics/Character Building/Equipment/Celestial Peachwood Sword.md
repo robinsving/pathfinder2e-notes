@@ -8,7 +8,6 @@ tags:
 ---
 
 # Celestial Peachwood Sword
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-celestial-peachwood-sword.webp|150]]
 
 From blade to pommel, this sword is carved from a branch of the now-extinct celestial peach tree. The blade of this_+3 greater striking [[Vitalizing|Disrupting]] [[Holy]] shortsword_ has ancient runes that can permanently destroy the most powerful undead - if you are willing to pay the price.
 

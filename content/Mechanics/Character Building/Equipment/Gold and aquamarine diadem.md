@@ -8,4 +8,3 @@ tags:
 ---
 
 # Gold and aquamarine diadem
-![[systems-pf2e-icons-equipment-treasure-art-objects-greater-art-object-gold-and-aquamarine-diadem.webp|150]]

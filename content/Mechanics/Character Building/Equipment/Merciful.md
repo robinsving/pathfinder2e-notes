@@ -8,7 +8,6 @@ tags:
 ---
 
 # Merciful
-![[systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
 
 Merciful weapons are sheathed in an unmistakable wispy green aura recognized by both gladiators and guards around the world. A _merciful_ weapon has the nonlethal trait and can't be used to make a lethal attack. Any persistent damage the weapon would deal is negated.
 

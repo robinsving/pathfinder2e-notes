@@ -8,7 +8,6 @@ tags:
 ---
 
 # Elven Chain (High-Grade)
-![[systems-pf2e-icons-equipment-armor-precious-metal-armor-elven-chain.webp|150]]
 
 Elven chain is a [[Chain Shirt]] made of dawnsilver that glitters in even the faintest light. Because it's constructed with small, supple rings, it has no check penalty.
 

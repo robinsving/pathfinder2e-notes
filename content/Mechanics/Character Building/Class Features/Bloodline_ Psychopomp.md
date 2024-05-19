@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bloodline: Psychopomp
-![[systems-pf2e-icons-features-classes-psychopomp.webp|150]]
 
 For good or ill, your ancestors' deeds drew the attention of psychopomps, or you might somehow count one in your family tree. The presence of these shepherds of souls and enemies of undeath has left an indelible mark on you.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Meteor Shot (Major)
-![[systems-pf2e-icons-equipment-consumables-ammunition-meteor-shot.webp|150]]
 
 **Ammunition** round
 

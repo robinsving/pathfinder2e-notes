@@ -9,7 +9,6 @@ tags:
 ---
 
 # Unleash Psyche
-![[systems-pf2e-icons-features-classes-unleash-psyche.webp|150]]
 
 **Trigger** Your turn begins.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Ambassador
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 Your familiar knows how to act cute or focused on cue, helping you make a good impression.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Zyphus
-![[systems-pf2e-icons-deity-Zyphus.webp|150]]
 
 **Edicts** Set pointless traps, spread nihilism, encourage deadly accidents
 

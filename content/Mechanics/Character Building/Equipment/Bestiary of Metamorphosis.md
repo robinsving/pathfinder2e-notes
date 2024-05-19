@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Bestiary of Metamorphosis
-![[icons-sundries-books-book-tooled-gold-brown.webp|150]]
 
 This grimoire fancifully illustrates the spells you inscribe within it with illuminated drawings of creatures that have never existed, the pictures changing to depict new ones from time to time.
 

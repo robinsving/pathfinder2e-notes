@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Anointing Oil (Greater)
-![[systems-pf2e-icons-equipment-consumables-oils-anointing-oil.webp|150]]
 
 Carried by many Knights of Lastwall, this amber-colored, fragrant-smelling oil is meant to prevent those who fall in battle from rising as undead. Applying _anointing oil_ to a corpse casts a 5th-level _[[Peaceful Rest]]_ on it. The effects last for 24 hours. The funerary rites of the Knights of Lastwall sometimes include using this type of oil on their dead if they are to be buried.
 

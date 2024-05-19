@@ -8,7 +8,6 @@ tags:
 ---
 
 # Toadskin Salve (Major)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-toadskin-salve.webp|150]]
 
 This thick, oily salve reacts with the air to exude a toxic mucus when applied to skin. Once it's applied, you can activate the salve in one of the two ways detailed below. After either reaction has been used, the remaining mucus loses its reactive properties and falls away as the effect ends. You can only have one dose applied at a time. If you don't use either reaction, after 1 hour, the mucus flakes away and the effect ends.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Guiding Chisel
-![[systems-pf2e-icons-equipment-held-items-guiding-chisel.webp|150]]
 
 This magical chisel evokes the holy symbol of the elven goddess of art and architecture, Findeladlara. The _Guiding Chisel's_ original function was as a portal key to Duskgate, but as Alseta's Ring faded from the collective memories of the elves, the chisel became known and used exclusively for its other abilities. Eventually, elven emissaries gave it to the dwarves of Saggorak as a gesture of friendship.
 

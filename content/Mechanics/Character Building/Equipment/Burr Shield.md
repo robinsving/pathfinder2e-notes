@@ -8,7 +8,6 @@ tags:
 ---
 
 # Burr Shield
-![[systems-pf2e-icons-equipment-shields-specific-shields-burr-shield.webp|150]]
 
 This well-crafted wooden shield is covered in numerous seed pods with long spurs. You can Strike with these burrs as though they were _[[Shield Spikes|+1 Striking Shield Spikes]]_.
 

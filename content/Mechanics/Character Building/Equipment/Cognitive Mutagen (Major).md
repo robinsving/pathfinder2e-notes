@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cognitive Mutagen (Major)
-![[icons-consumables-potions-potion-vial-corked-purple.webp|150]]
 
 **Activate** A Interact
 

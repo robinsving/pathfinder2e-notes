@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Basic Ingredient
-![[icons-consumables-grains-sack-rice-open-brown.webp|150]]
 
 Basic ingredients and rations are relatively easy to come by, and generally won't need to be tracked.
 

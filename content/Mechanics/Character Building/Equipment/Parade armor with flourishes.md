@@ -8,4 +8,3 @@ tags:
 ---
 
 # Parade armor with flourishes
-![[systems-pf2e-icons-equipment-treasure-art-objects-moderate-art-object-parade-armor-with-flourishes.webp|150]]

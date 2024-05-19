@@ -8,7 +8,6 @@ tags:
 ---
 
 # Skarja's Heartstone
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-heartstone.webp|150]]
 
 This pale gemstone grants its wearer a +2 item bonus to saving throws and the ability to discern a target's alignment (as _[[Detect Alignment]]_, but can detect chaotic, evil, good, and lawful auras simultaneously) at will by peering through the gemstone.
 

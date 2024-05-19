@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Aerial Cloak
-![[icons-equipment-back-cloak-collared-blue.webp|150]]
 
 This blue cloak is surprisingly light for its length and seems to catch wind bursts in its tail, flying out behind the wearer while cushioning falls and easing jumps. The sides of the cloak are slightly weighted, making it easy to grab ahold of when it fills with air. This cloak grants you a +1 item bonus to Athletics checks to [[Leap]] and a +1 item bonus to Acrobatics checks to [[Balance]] or [[Maneuver in Flight]].
 

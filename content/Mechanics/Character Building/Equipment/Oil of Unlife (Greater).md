@@ -8,7 +8,6 @@ tags:
 ---
 
 # Oil of Unlife (Greater)
-![[systems-pf2e-icons-equipment-consumables-oils-oil-of-unlife.webp|150]]
 
 **Activate** 1 (manipulate)
 

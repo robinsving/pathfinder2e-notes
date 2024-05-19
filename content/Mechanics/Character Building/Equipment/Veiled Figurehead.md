@@ -8,7 +8,6 @@ tags:
 ---
 
 # Veiled Figurehead
-![[icons-commodities-treasure-statue-carved-figurehead.webp|150]]
 
 **Usage** attached to a ship's bow
 

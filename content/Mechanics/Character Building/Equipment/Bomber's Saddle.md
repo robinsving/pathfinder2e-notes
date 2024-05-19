@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bomber's Saddle
-![[systems-pf2e-icons-equipment-worn-items-companion-items-bombers-saddle.webp|150]]
 
 Developed by urdefhans for their skaveling mounts but quickly copied by other races' cavalry, this leather saddle is made from cave worm hide and is designed to fit a variety of flying steeds. In addition to a seat for the rider, the bomber's saddle has a bomb compartment situated underneath the mount.
 

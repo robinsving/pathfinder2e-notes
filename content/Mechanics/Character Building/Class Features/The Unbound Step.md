@@ -9,7 +9,6 @@ tags:
 ---
 
 # The Unbound Step
-![[systems-pf2e-icons-features-classes-the-unbound-step.webp|150]]
 
 The mind can flit from thought to thought; why too shouldn't you? You focus on motion in a higher order of spatial dimensions, not just the typical three, allowing for versatile abilities that alter positioning.
 

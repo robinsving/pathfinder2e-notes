@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sonic Tuning Mace
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-sonic-tuning-mace.webp|150]]
 
 This _+1 striking thundering light mace_ has twin tips, perfectly spaced to resonate when striking foes.
 

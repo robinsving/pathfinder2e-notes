@@ -9,7 +9,6 @@ tags:
 ---
 
 # Gathered Lore
-![[systems-pf2e-icons-features-classes-gathered-lore.webp|150]]
 
 Many psychics are self-taught, frantically improvising how to best control their abilities before their power overwhelms them. Not you. Tutored by a mentor or classically trained at a facility for psychic development, you've learned techniques and teachings for best harnessing the mind, cataloging each expression of psychic power with a specific teaching, anecdote, or phrase.
 

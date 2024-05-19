@@ -8,7 +8,6 @@ tags:
 ---
 
 # Repulsion Resin
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-repulsion-resin.webp|150]]
 
 **Activate** 1 Interact
 

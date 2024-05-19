@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ring of Wizardry (Type III)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-ring-of-wizardry.webp|150]]
 
 This ring is made from the purest platinum and is covered in esoteric arcane symbols. It does nothing unless you have a spellcasting class feature with the arcane tradition. While wearing the ring of wizardry, you gain a +2 item bonus to Arcana checks and have two additional 3rd-level and one additional 2nd-level arcane spell slot each day. You prepare spells in these slots or cast from them spontaneously, just as you normally cast your spells.
 

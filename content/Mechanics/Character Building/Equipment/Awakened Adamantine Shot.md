@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Awakened Adamantine Shot
-![[systems-pf2e-icons-equipment-consumables-ammunition-awakened-adamantine-shot.webp|150]]
 
 **Ammunition** round
 

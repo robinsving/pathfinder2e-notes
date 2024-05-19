@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lover's Knot
-![[icons-magic-nature-vines-thorned-glow-teal-purple.webp|150]]
 
 **Activate** 1 envision;
 

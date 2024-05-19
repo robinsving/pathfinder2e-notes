@@ -8,7 +8,6 @@ tags:
 ---
 
 # Symbol of Conflict (Major)
-![[icons-commodities-treasure-broach-eye-silver-teal.webp|150]]
 
 This tarnished necklace can be attuned only by someone who is holy or unholy. When you attune it, it transforms into your deity's religious symbol or a personal symbol if you don't have a deity. You receive a +3 item bonus to Religion and a +1 circumstance bonus to saves against holy and unholy effects.
 

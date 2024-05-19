@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Stormtossed Tengu
-![[systems-pf2e-icons-features-ancestry-stormtossed-tengu.webp|150]]
 
 Whether due to a blessing from Hei Feng or hatching from your egg during a squall, you are resistant to storms. You gain electricity resistance equal to half your level (minimum 1).
 

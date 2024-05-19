@@ -9,7 +9,6 @@ tags:
 ---
 
 # Double Brew
-![[systems-pf2e-icons-features-classes-double-brew.webp|150]]
 
 You know your formulas so well that you can concoct two items at once.
 

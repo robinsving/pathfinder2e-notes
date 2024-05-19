@@ -9,7 +9,6 @@ tags:
 ---
 
 # Path to Perfection (Reflex)
-![[systems-pf2e-icons-features-classes-path-to-perfection.webp|150]]
 
 You have progressed along your own path to enlightenment.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Oath of the Devoted
-![[systems-pf2e-icons-equipment-contracts-infernal-contracts-oath-of-the-devoted.webp|150]]
 
 You gain fire and mental resistance 5. When you die, you rise as an undead creature with the zombie trait on the next round; if you are a PC, you become an NPC under Walkena's control. Your stats remain the same, except that your alignment changes to evil. If you reach 0 Hit Points as a zombie, you are destroyed and do not rise again.
 

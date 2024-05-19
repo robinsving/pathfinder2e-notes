@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Aeon Stone (Polished Pebble)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-aeon-stone-agate-ellipsoid.webp|150]]
 
 A _polished pebble aeon stone_ imbues you with the strength of the earth, granting a +1 item bonus to Fortitude saves and DCs against attempts to grapple or swallow you.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Passage Pane
-![[systems-pf2e-icons-equipment-treasure-art-objects-greater-art-object-platinum-framed-monocle.webp|150]]
 
 The pane of this large circular mirror has a diameter of 8 feet and a gray cast. The mirror reflects its surroundings in muted colors, and any living creatures that look into the mirror see themselves as preserved corpses with sallow skin, sunken cheeks, and a vacant expression. The mirror is mounted in a bone frame intricately carved with imagery of corvids, keys, and winding roads. These roads represent the Dead Roads, the secret back routes between the Boneyard and all other planes that are under the purview of the psychopomp usher Barzahk the Passage and their followers.
 

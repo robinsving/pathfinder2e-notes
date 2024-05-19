@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Anchoring (Greater)
-![[systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
 
 This rune prevents enemies from escaping your grasp by [[Fleeing]] to other planes.
 

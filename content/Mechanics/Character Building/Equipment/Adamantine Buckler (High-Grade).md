@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Adamantine Buckler (High-Grade)
-![[systems-pf2e-icons-equipment-shields-precious-material-shields-adamantite-buckler.webp|150]]
 
 Adamantine shields are particularly sturdy, and when used for a shield bash, they are adamantine weapons.
 

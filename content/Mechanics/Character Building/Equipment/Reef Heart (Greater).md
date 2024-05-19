@@ -8,7 +8,6 @@ tags:
 ---
 
 # Reef Heart (Greater)
-![[systems-pf2e-icons-equipment-armor-coral-armor.webp|150]]
 
 This _+2 greater resilient coral armor_, often favored by allies of merfolk and aquatic elves, is made of living coral carefully harvested from the ocean depths. Legends speak of a variety of similar coral armors with distinct powers, but surface-dwellers know of _reef heart_ as a magic armor that makes it easier for them to travel under the sea. _Reef heart_ enables you to breathe underwater and gives you a swim Speed equal to your land Speed.
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Irongut Goblin
-![[systems-pf2e-icons-features-ancestry-irongut-goblin.webp|150]]
 
 You can subsist on food that most folks would consider spoiled. You can keep yourself fed with poor meals in a settlement as long as garbage is readily available, without using the [[Subsist]] downtime activity. You can eat and drink things when you are [[Sickened 1|Sickened]].
 

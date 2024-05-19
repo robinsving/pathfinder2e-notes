@@ -9,7 +9,6 @@ tags:
 ---
 
 # Master Detective
-![[systems-pf2e-icons-features-classes-master-detective.webp|150]]
 
 As a master detective, you can solve any case and find all the clues available. If you're pursuing the subject of a lead and you enter a new location that includes another clue toward solving the mystery, the GM informs you of the existence of the clue and its type: an object, person, spell effect, or the like.
 

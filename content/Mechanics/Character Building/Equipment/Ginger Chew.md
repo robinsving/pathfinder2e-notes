@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ginger Chew
-![[icons-consumables-vegetable-root-ginger-yellow.webp|150]]
 
 This chewy ginger candy aids digestion and soothes unsettled stomachs. A ginger chew lasts for 1 hour and grants you a +1 item bonus to Fortitude saves against being sickened.
 

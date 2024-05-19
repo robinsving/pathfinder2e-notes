@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Aurifying Salts
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-aurifying-salts.webp|150]]
 
 **Activate** A Interact
 

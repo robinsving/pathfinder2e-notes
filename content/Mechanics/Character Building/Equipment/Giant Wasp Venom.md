@@ -8,7 +8,6 @@ tags:
 ---
 
 # Giant Wasp Venom
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-giant-wasp-venom.webp|150]]
 
 Giant wasp venom interferes with a victim's movement.
 

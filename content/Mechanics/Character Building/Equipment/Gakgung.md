@@ -8,6 +8,5 @@ tags:
 ---
 
 # Gakgung
-![[Mechanics/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-weapons-composite-shortbow.webp|150]]
 
 A gakgung is a type of composite reflex bow that combines speed and power in equal amounts for effective precision shooting.

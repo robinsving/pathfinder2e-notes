@@ -8,4 +8,3 @@ tags:
 ---
 
 # Fine gold spyglass
-![[systems-pf2e-icons-equipment-treasure-art-objects-greater-art-object-fine-gold-spyglass.webp|150]]

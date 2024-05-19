@@ -9,6 +9,5 @@ tags:
 ---
 
 # Extract Element
-![[Mechanics/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-spells-disapperance.webp|150]]
 
 Creatures with a strong tie to your element might be troublesome for you to deal with, at least until you've learned to turn their elemental nature to your advantage. You gain the [[Extract Element]] action.

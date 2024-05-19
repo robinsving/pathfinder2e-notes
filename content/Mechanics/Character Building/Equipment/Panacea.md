@@ -8,7 +8,6 @@ tags:
 ---
 
 # Panacea
-![[systems-pf2e-icons-equipment-consumables-potions-panacea.webp|150]]
 
 **Activate** A (manipulate)
 

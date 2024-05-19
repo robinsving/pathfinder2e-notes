@@ -8,7 +8,6 @@ tags:
 ---
 
 # Solar Shellflower
-![[systems-pf2e-icons-equipment-weapons-flintlock-musket.webp|150]]
 
 This _+1 striking flintlock musket_ features multiple triangular panels that can be folded out of the stock, like the petals of a tigridia flower, that collect sunlight and feed it into the spark gun's core. All damage dealt by a _solar shellflower_ is fire damage.
 

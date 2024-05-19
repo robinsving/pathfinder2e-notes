@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wondrous Figurine (Candy Constrictor)
-![[systems-pf2e-icons-equipment-held-items-wondrous-figurine-candy-constrictor.webp|150]]
 
 Although appearing as a multicolored piece of stick candy, this figurine bears a narrow snake head at one end and is as durable as stone.
 

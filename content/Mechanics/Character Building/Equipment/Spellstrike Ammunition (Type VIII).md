@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spellstrike Ammunition (Type VIII)
-![[systems-pf2e-icons-equipment-consumables-ammunition-spellstrike-ammunition.webp|150]]
 
 Mystic patterns create a magic reservoir within this ammunition. You activate _spellstrike ammunition_ by Casting a Spell into the ammunition. The spell must be of a spell rank the ammunition can hold, and the spell must be able to target a creature other than the caster. A creature hit by activated _spellstrike ammunition_ is targeted by the spell. If the creature isn't a valid target for the spell, the spell is lost.
 

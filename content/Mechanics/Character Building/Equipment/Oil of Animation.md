@@ -8,7 +8,6 @@ tags:
 ---
 
 # Oil of Animation
-![[systems-pf2e-icons-equipment-consumables-oils-oil-of-animation.webp|150]]
 
 **Activate** A (manipulate)
 

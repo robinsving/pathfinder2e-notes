@@ -8,7 +8,6 @@ tags:
 ---
 
 # Slumber Wine
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-slumber-wine.webp|150]]
 
 Slumber wine sees its greatest use in games of intrigue, where an absence can be more devastating than injury. Characters unconscious from slumber wine can't wake up by any means while the poison lasts, don't need to eat or drink while unconscious in this way, and appear to be recently dead unless an examiner succeeds at a DC 40 medicine check.
 

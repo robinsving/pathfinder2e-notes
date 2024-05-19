@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spider Venom
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-hunting-spider-venom.webp|150]]
 
 This venom erodes its target's defenses, aiding the spider in securing prey.
 

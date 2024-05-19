@@ -8,7 +8,6 @@ tags:
 ---
 
 # Inexplicable Apparatus
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-inexplicable-apparatus.webp|150]]
 
 This strange and intricate harness fits snugly to the torso. Once you invest the apparatus, numerous artificial limbs with various tools, clamps, and lenses whirl into action, following your mental commands effortlessly.
 

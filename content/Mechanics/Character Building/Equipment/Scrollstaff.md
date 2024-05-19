@@ -8,7 +8,6 @@ tags:
 ---
 
 # Scrollstaff
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-scrollstaff.webp|150]]
 
 A band of pliant wood encircles the head of this slender mahogany staff. The Magaambya created the first _scrollstaves_ millennia ago, and even the few _scrollstaves_ found beyond the organization often incorporate Magaambyan iconography as an homage to their source.
 

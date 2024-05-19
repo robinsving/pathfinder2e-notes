@@ -9,7 +9,6 @@ tags:
 ---
 
 # Rope Shot
-![[systems-pf2e-icons-features-classes-rope-shot.webp|150]]
 
 **Ranged Only**
 

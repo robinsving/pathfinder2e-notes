@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dragonplate
-![[systems-pf2e-icons-equipment-armor-specific-magic-armor-dragonplate.webp|150]]
 
 This suit of +2 greater resilient dragonhide full plate makes you look like a fearsome dragon. The armor comes in 10 varieties corresponding to the 10 common dragon types, though other varieties undoubtedly exist.
 

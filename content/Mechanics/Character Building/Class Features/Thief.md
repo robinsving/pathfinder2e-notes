@@ -9,7 +9,6 @@ tags:
 ---
 
 # Thief
-![[systems-pf2e-icons-features-classes-thief.webp|150]]
 
 Nothing beats the thrill of taking something that belongs to someone else. You might be a pickpocket working the streets, a cat burglar sneaking through windows, or even a consultant, testing your clients' vaults for openings.
 

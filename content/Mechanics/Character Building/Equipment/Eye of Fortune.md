@@ -8,7 +8,6 @@ tags:
 ---
 
 # Eye of Fortune
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-eye-of-fortune.webp|150]]
 
 Adherents of Erastil, god of the hunt, create these magical eye patches. An _eye of fortune_ has a jeweled eye symbol on its front, allowing you to magically see through the eye patch as though it were transparent.
 

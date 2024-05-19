@@ -8,4 +8,3 @@ tags:
 ---
 
 # Gold dragon statuette
-![[systems-pf2e-icons-equipment-treasure-art-objects-greater-art-object-gold-dragon-statuette.webp|150]]

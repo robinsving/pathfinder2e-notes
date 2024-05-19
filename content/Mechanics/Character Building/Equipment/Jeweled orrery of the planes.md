@@ -8,4 +8,3 @@ tags:
 ---
 
 # Jeweled orrery of the planes
-![[systems-pf2e-icons-equipment-treasure-art-objects-greater-art-object-jeweled-orrery-of-theplanes.webp|150]]

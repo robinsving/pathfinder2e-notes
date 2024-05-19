@@ -8,4 +8,3 @@ tags:
 ---
 
 # Living flame shaped into a phoenix
-![[systems-pf2e-icons-equipment-treasure-art-objects-major-art-object-living-flame-shaped-into-a-phoenix.webp|150]]

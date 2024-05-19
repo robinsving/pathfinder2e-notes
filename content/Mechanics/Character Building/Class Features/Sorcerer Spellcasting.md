@@ -9,7 +9,6 @@ tags:
 ---
 
 # Sorcerer Spellcasting
-![[systems-pf2e-icons-features-classes-signature-spells-sorcerer.webp|150]]
 
 ## Sorcerer Spellcasting
 

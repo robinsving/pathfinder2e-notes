@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Nine Lives Catfolk
-![[systems-pf2e-icons-features-ancestry-nine-lives-catfolk.webp|150]]
 
 Your family has always seemed to bound back from disaster, not through physical hardiness or specialized skill, but from sheer luck. Other catfolk whisper that you have nine lives.
 

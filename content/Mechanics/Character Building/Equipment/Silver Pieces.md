@@ -8,4 +8,3 @@ tags:
 ---
 
 # Silver Pieces
-![[systems-pf2e-icons-equipment-treasure-currency-silver-pieces.webp|150]]

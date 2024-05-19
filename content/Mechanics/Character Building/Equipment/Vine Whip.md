@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vine Whip
-![[Mechanics/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-weapons-whip.webp|150]]
 
 This _+1 striking whip_ is crafted from the vine of a dangerous plant creature. It deals bludgeoning or slashing damage, according to the vine attack of the creature it was harvested from. For example, collecting a vine from an assassin vine would result in a vine whip that deals bludgeoning damage, while one from a mandragora or viper vine would deal piercing damage.
 

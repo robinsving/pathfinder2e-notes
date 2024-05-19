@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Aeon Stone (Pearlescent Pyramid)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-aeon-stone-pearlescent-pyramid.webp|150]]
 
 While invested, this aeon stone grants the benefit of the [[Ghost Touch]] property rune to your weapons and unarmed attacks.
 

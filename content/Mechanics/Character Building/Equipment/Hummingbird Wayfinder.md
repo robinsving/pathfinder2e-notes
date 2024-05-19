@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hummingbird Wayfinder
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-wayfinder.webp|150]]
 
 Hummingbird wayfinders blend a few Arcadian secrets into the original wayfinder design, allowing the wayfinder to gain mobility for a time and act as a spy. In addition to the effects of a [[Wayfinder]], a hummingbird wayfinder has the following activation.
 

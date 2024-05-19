@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dispelling Sliver
-![[systems-pf2e-icons-equipment-consumables-talismans-dispelling-sliver.webp|150]]
 
 **Activate** F (concentrate)
 

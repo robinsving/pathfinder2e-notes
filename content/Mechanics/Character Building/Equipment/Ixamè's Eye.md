@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ixamè's Eye
-![[icons-commodities-gems-pearl-swirl-blue.webp|150]]
 
 **Usage** affixed to headgear
 

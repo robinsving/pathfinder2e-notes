@@ -8,7 +8,6 @@ tags:
 ---
 
 # Class Kit (Monk)
-![[systems-pf2e-icons-equipment-adventuring-gear-classkit-monk.webp|150]]
 
 **Weapons** 10 darts
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Godsbreath Bow
-![[Mechanics/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-weapons-composite-shortbow.webp|150]]
 
 This _+2 greater striking composite shortbow_ is made from wood, horn, and sinew. Once wielded by Ninshaburian heretics, it's carried in a leather case etched with images of Namzaruum in combat with Somnalu. On a successful Strike, it deals an additional 1d6 bludgeoning damage.
 

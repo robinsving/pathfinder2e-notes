@@ -8,7 +8,6 @@ tags:
 ---
 
 # Troll Hide
-![[icons-equipment-chest-vest-leather-tattered-white.webp|150]]
 
 **Activate** 1 Interact
 

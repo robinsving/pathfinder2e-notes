@@ -8,4 +8,3 @@ tags:
 ---
 
 # Simple sculpture
-![[systems-pf2e-icons-equipment-treasure-art-objects-minor-art-object-simple-sculpture.webp|150]]

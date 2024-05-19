@@ -9,7 +9,6 @@ tags:
 ---
 
 # Ruffian
-![[systems-pf2e-icons-features-classes-ruffian.webp|150]]
 
 You prefer the direct approach: strong-arming or intimidation. You might be an enforcer for organized crime, a highway bandit, or a noble who bullies others with threats of your family's power.
 

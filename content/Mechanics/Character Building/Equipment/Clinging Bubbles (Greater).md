@@ -8,7 +8,6 @@ tags:
 ---
 
 # Clinging Bubbles (Greater)
-![[icons-magic-water-bubbles-air-water-pink.webp|150]]
 
 This small vial of viscous, clear, soapy solution comes with a wand, attached to the inside of the vial's cap, with a little loop at its end. A vial has enough solution to be used 10 times.
 

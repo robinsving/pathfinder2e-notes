@@ -8,7 +8,6 @@ tags:
 ---
 
 # Energizing Tea
-![[icons-consumables-plants-dried-herb-bundle-brown.webp|150]]
 
 **Activate** 1 Interact or 10 minutes (concentrate, Interact)
 

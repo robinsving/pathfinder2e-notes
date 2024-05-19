@@ -8,4 +8,3 @@ tags:
 ---
 
 # Quartz, rock crystal
-![[systems-pf2e-icons-equipment-treasure-gems-lesser-semiprecious-stones-rock-crystal-quartz.webp|150]]

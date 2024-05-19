@@ -8,7 +8,6 @@ tags:
 ---
 
 # Smoked Goggles
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-alchemist-goggles.webp|150]]
 
 These goggles use lenses made out of smoked glass to protect against creatures with gaze attacks. While wearing smoked goggles, you're always considered to be [[Avert Gaze|Averting Your Gaze]], but all creatures have [[Concealed|Concealment]] from you.
 

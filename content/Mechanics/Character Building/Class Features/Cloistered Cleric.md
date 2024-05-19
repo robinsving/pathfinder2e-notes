@@ -9,7 +9,6 @@ tags:
 ---
 
 # Cloistered Cleric
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-magic-light-orb-hands-humanoid-yellow.webp|150]]
 
 You are a cleric of the cloth, focusing on divine magic and your connection to your deity's domains.
 

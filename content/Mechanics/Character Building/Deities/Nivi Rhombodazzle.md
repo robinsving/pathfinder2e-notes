@@ -9,7 +9,6 @@ tags:
 ---
 
 # Nivi Rhombodazzle
-![[systems-pf2e-icons-deity-Nivi Rhombodazzle.webp|150]]
 
 Goddess of gems, stealth, and gambling, Nivi Rhombodazzle is the ultimate high roller, said to have won her divinity from the dwarven god Torag in exchange for a gemstone. She was once a mortal gnome who loved the thrill of an exciting wager, up to and including the moment when the dice turned against her. Eventually, Nivi's debts grew too great for her to remain in her surface home, and she fled into the depths of the Darklands to evade the wrath of her creditors. Most of her adventures in the lightless lands are lost to time and history, but she ultimately emerged reborn as a goddess, hailed as the first of the svirfneblin-uncanny underground gnomes with unique magical abilities and immunity to the dread Bleaching, a wasting curse that claims the lives of gnomes who succumb to boredom and ennui.
 

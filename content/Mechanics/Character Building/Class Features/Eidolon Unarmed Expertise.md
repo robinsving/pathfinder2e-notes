@@ -9,6 +9,5 @@ tags:
 ---
 
 # Eidolon Unarmed Expertise
-![[systems-pf2e-icons-features-classes-eidolon-unarmed-expertise.webp|150]]
 
 Your eidolon becomes more capable of using its unarmed attacks. Its proficiency rank for unarmed attacks increases to expert.

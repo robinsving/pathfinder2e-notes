@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wildwood Ink (Major)
-![[icons-magic-nature-leaf-glow-maple-green.webp|150]]
 
 These curving, delicate designs resemble leaves, vines, or creepers, most often wrapped around a limb, ear, or throat, or curled around specific muscles. They help you blend in among plants. You gain a +3 item bonus to Stealth checks, which increases to +4 in forests.
 

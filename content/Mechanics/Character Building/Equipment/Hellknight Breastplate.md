@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hellknight Breastplate
-![[icons-equipment-chest-breastplate-layered-steel.webp|150]]
 
 Hellknights wear a variety of armors decorated with designs specific to the order. Hellknight breastplate serves those in the order who lack the training to wear heavy armor.
 

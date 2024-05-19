@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vengeful Arm
-![[icons-magic-symbols-circle-ouroboros.webp|150]]
 
 Abraxas teaches that an eye for an eye is the basis of law. This tattoo of a coiled viper provides a +1 item bonus to Society checks.
 

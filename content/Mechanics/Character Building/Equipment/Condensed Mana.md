@@ -8,7 +8,6 @@ tags:
 ---
 
 # Condensed Mana
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-daylight-vapor.webp|150]]
 
 **Activate** 2 Strike
 

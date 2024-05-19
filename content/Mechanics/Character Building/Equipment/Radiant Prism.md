@@ -8,7 +8,6 @@ tags:
 ---
 
 # Radiant Prism
-![[systems-pf2e-icons-equipment-other-spellhearts-radiant-prism.webp|150]]
 
 Any armor or weapon this glass prism is affixed to glows softly with shifting colored lights. The spell DC of any spell cast by activating this item is 35.
 

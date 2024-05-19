@@ -8,7 +8,6 @@ tags:
 ---
 
 # Windlass Bola
-![[icons-weapons-thrown-bolas-stone.webp|150]]
 
 Clockwork mechanisms tick away inside the weights of these _+1 striking returning bolas_, spooling out more cord in midair.
 

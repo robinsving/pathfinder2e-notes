@@ -8,7 +8,6 @@ tags:
 ---
 
 # Silvertongue Mutagen (Major)
-![[icons-consumables-potions-potion-bottle-corked-fancy-blue.webp|150]]
 
 **Activate** A Interact
 

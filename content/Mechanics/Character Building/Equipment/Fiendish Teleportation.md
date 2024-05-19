@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fiendish Teleportation
-![[systems-pf2e-icons-equipment-contracts-infernal-contracts-fiendish-teleportation.webp|150]]
 
 You tap into the fiendish ability to slip through space. When you Stride, you gain a +3 item bonus to Armor Class against reactions triggered by your movement. Once per day, from any distance, Abrogail Thrune II can call on a provision in your Thrune contract as a single action, causing you to become _paralyzed_ for 1 hour or until Abrogail releases you, whichever comes first.
 

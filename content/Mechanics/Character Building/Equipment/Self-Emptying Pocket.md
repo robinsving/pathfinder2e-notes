@@ -8,7 +8,6 @@ tags:
 ---
 
 # Self-Emptying Pocket
-![[systems-pf2e-icons-equipment-contracts-self-emptying-pocket.webp|150]]
 
 You never perform to an empty crowd after promising any profits to a phantom in a playhouse, sealed by holes that appear in your pockets. By meeting with the attendees at your events, you can use Performance instead of Diplomacy to Gather Information. When you would use Performance to [[Earn Income]], you don't earn any gold pieces, as the money disappears before you can even count it.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Reading Glyphs
-![[icons-magic-symbols-rune-sigil-red-orange.webp|150]]
 
 These tattoos on your knuckles look like strange glyphs in an unknown language. If you press your fingertips to text in any language, these glyphs cycle in appearance through those of various extant languages. Encrypted text causes your glyphs to turn to a recognizable "null" symbol.
 

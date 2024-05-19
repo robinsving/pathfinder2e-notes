@@ -9,7 +9,6 @@ tags:
 ---
 
 # Perpetual Infusions (Mutagenist)
-![[icons-consumables-potions-potion-jug-corked-skull-poison-brown-green.webp|150]]
 
 You have learned how to create perpetual alchemical infusions that can provide a near-infinite supply of certain simple items.
 

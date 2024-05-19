@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hongrui's Gratitude
-![[icons-equipment-back-cloak-hooded-red.webp|150]]
 
 Given as thanks for honoring the memories of three unfortunate travelers who met a tragic end in the Willowshore Hinterlands, this red-hooded cloak is decorated with an image of an elaborately dressed performer whose two companions hold a lantern and umbrella for her.
 

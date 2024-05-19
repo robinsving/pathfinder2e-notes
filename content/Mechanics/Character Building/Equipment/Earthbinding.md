@@ -8,7 +8,6 @@ tags:
 ---
 
 # Earthbinding
-![[systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
 
 A weapon with this rune hums when touched to the ground.
 

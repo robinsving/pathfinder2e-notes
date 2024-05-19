@@ -8,7 +8,6 @@ tags:
 ---
 
 # Potion of Water Breathing
-![[systems-pf2e-icons-equipment-consumables-potions-potion-of-water-breathing.webp|150]]
 
 **Activate** A (manipulate)
 

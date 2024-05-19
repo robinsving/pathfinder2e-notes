@@ -9,7 +9,6 @@ tags:
 ---
 
 # Besmara
-![[systems-pf2e-icons-deity-Besmara.webp|150]]
 
 Once nothing more than a powerful spirit of water with the ability to manipulate sea monsters, Besmara grew slowly in power over the centuries from sacrifices made by seafaring people. After defeating and consuming rival spirits of battle, gold, and wood, she became a minor god of piracy, strife, and sea monsters.
 

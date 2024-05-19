@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rebounding Breastplate
-![[systems-pf2e-icons-equipment-armor-specific-magic-armor-rebounding-breastplate.webp|150]]
 
 This _+3 greater resilient greater fortification breastplate_ absorbs impacts for later release. While wearing the armor, you gain resistance 5 to bludgeoning, piercing, and slashing damage and resistance 10 to force damage. Keep track of how much damage the armor prevents from enemy attacks, as the armor absorbs that damage.
 

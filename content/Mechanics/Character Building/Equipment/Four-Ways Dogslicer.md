@@ -8,7 +8,6 @@ tags:
 ---
 
 # Four-Ways Dogslicer
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-four-ways-dogslicer.webp|150]]
 
 This _+2 striking dogslicer_ is obviously the work of a brilliant but scrappy artisan who valued versatility over safety. Four toothy gems line the blade's cutting edge, three of which glow-one with fiery red light, one with a chill blue, and one that gives off sparks-while the last is a glistening black. Each of these gems embodies a weapon property rune, but only one rune can be active at a time.
 

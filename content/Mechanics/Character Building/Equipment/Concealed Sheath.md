@@ -8,7 +8,6 @@ tags:
 ---
 
 # Concealed Sheath
-![[systems-pf2e-icons-equipment-adventuring-gear-concealed-sheath.webp|150]]
 
 This leather sheath is large enough to hold an item of up to light Bulk and is typically used for daggers, wands, thieves' tools, and similar objects.
 

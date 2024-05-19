@@ -8,4 +8,3 @@ tags:
 ---
 
 # Emerald
-![[systems-pf2e-icons-equipment-treasure-gems-moderate-precious-stones-emerald.webp|150]]

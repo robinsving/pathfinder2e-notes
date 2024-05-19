@@ -9,7 +9,6 @@ tags:
 ---
 
 # Catharsis Emotion (Love)
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-magic-life-heart-shadow-red.webp|150]]
 
 You're joined by the bonds of love and nothing can break that, but love can distract you from other things in your life. Your emotional focus is someone you're in love with; they aren't required to love you back.
 

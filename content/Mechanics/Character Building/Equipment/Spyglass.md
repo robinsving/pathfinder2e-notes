@@ -8,6 +8,5 @@ tags:
 ---
 
 # Spyglass
-![[systems-pf2e-icons-equipment-adventuring-gear-spyglass.webp|150]]
 
 A typical spyglass lets you see eight times farther than normal.

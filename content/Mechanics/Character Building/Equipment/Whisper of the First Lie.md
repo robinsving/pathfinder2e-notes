@@ -8,7 +8,6 @@ tags:
 ---
 
 # Whisper of the First Lie
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-whisper-of-the-first-lie.webp|150]]
 
 This delicate necklace contains bottled whispers distilled from a source on the Astral Plane rumored to be connected to the first lie ever told.
 

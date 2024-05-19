@@ -8,7 +8,6 @@ tags:
 ---
 
 # Phantom Piano
-![[systems-pf2e-icons-equipment-adventuring-gear-musical-instrument-handheld-virtuoso-heavy.webp|150]]
 
 **Perception** +22; precise vision 30 feet, imprecise hearing 30 feet
 

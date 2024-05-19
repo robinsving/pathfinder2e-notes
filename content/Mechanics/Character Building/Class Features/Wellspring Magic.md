@@ -9,7 +9,6 @@ tags:
 ---
 
 # Wellspring Magic
-![[systems-pf2e-icons-features-classes-wellspring-magic.webp|150]]
 
 You regain magic power quickly, but it can be difficult for you to control. You must select [[Wellspring Mage Dedication]] as your 2nd-level class feat.
 

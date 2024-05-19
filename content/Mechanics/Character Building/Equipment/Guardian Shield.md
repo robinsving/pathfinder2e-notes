@@ -8,7 +8,6 @@ tags:
 ---
 
 # Guardian Shield
-![[systems-pf2e-icons-equipment-shields-specific-shields-guardian-shield.webp|150]]
 
 A _guardian shield_ is a steel shield engraved with the symbol of a good deity.
 

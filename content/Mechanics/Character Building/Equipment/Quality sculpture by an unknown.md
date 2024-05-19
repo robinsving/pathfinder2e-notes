@@ -8,4 +8,3 @@ tags:
 ---
 
 # Quality sculpture by an unknown
-![[systems-pf2e-icons-equipment-treasure-art-objects-lesser-art-object-quality-sculpture-by-an-unknown.webp|150]]

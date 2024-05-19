@@ -8,4 +8,3 @@ tags:
 ---
 
 # Solidified Moment of Time
-![[systems-pf2e-icons-equipment-treasure-art-objects-major-art-object-solidified-moment-of-time.webp|150]]

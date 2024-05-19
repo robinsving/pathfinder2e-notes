@@ -8,7 +8,6 @@ tags:
 ---
 
 # Silver Tripod
-![[systems-pf2e-icons-equipment-other-attached-items-tripod.webp|150]]
 
 **Usage** affixed to a firearm with the kickback trait
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Kinetic Gate
-![[Mechanics/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-spells-abundant-step.webp|150]]
 
 As a kineticist, you've awakened or opened a kinetic gate, a supernatural conduit within your body that can channel elemental forces straight from the elemental planes. You can choose either a single gate (one element) or dual gate (two elements) at 1st level.
 

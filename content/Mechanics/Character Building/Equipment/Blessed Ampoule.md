@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blessed Ampoule
-![[systems-pf2e-icons-equipment-consumables-talismans-blessed-ampoule.webp|150]]
 
 **Activate** f envision
 

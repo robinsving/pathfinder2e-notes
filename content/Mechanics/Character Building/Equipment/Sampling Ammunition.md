@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sampling Ammunition
-![[systems-pf2e-icons-equipment-consumables-ammunition-sampling-ammunition.webp|150]]
 
 **Ammunition** arrow, bolt
 

@@ -8,4 +8,3 @@ tags:
 ---
 
 # Diamond ring with platinum band
-![[systems-pf2e-icons-equipment-treasure-art-objects-major-art-object-diamond-ring-with-platinum-band.webp|150]]

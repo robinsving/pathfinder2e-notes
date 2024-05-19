@@ -8,4 +8,3 @@ tags:
 ---
 
 # Gilded ceremonial armor
-![[icons-equipment-chest-breastplate-layered-leather-blue.webp|150]]

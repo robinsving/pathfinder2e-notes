@@ -9,7 +9,6 @@ tags:
 ---
 
 # Irori
-![[systems-pf2e-icons-deity-Irori.webp|150]]
 
 As a mortal, Irori attained true enlightenment, allowing him to break free of the shackles of mortality and achieve divinity. As a god, he is the Master of Masters and promotes discipline and teaches that one who can master themself finds the greatest benefits the world can provide.
 

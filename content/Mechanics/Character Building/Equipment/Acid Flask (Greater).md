@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Acid Flask (Greater)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-bombs-acid-flask.webp|150]]
 
 **Activate** A Strike
 

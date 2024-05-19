@@ -8,7 +8,6 @@ tags:
 ---
 
 # Kalmaug's Journal
-![[systems-pf2e-icons-equipment-artifacts-the-whispering-reeds.webp|150]]
 
 This grimoire is constructed from individual tarnished silver plates, bound together to form a fine book. Each "page" contain engraved maps, accounts of sites in Nar-Voth, and daily journals. Throughout the journal, spells and notes are inscribed on the margins and within the text. When Chapter One is completed, this grimoire contains the following spells: _[[Allfood]]_, _[[Deep Sight]]_, _[[Fate's Travels]]_, _[[Glowing Trail]]_, _[[Know Location]]_, _[[Stonesense]]_, _[[Wanderer's Guide]]_.
 

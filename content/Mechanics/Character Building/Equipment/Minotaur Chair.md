@@ -8,7 +8,6 @@ tags:
 ---
 
 # Minotaur Chair
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-minotaur-chair.webp|150]]
 
 A _minotaur chair_ is a traveler's chair with chair storage, _impulse control_, and _+1 striking wounding wheel spikes_. The wheel spikes can have runes upgraded, transferred, or added as normal. The chair magically stores the kinetic energy from movement throughout the day, allowing you to expend it to make a powerful rushing charge.
 

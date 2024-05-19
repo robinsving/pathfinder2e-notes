@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Anchor Spear
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-anchor-spear.webp|150]]
 
 The tip of this +2 greater striking spear is large and wickedly barbed, and the haft is inlaid with fine silver lines that run the length of the weapon. Wielded by specially trained xulgath cavalry, anchor spears are used to prevent the escape of gogiteths or other monsters capable of climbing or burrowing.
 

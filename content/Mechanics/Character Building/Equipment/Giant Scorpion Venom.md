@@ -8,7 +8,6 @@ tags:
 ---
 
 # Giant Scorpion Venom
-![[icons-consumables-potions-bottle-ornate-bat-teal.webp|150]]
 
 Scorpion venom is excruciating and its effects are somewhat debilitating.
 

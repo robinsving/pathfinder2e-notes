@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Shardstorm (3rd-Rank Spell)
-![[systems-pf2e-icons-equipment-wands-specialty-wands-wand-of-manifold-missiles.webp|150]]
 
 This wand features a carved dragon's head at its top and a polished metal sphere set in its midsection.
 

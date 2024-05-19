@@ -8,7 +8,6 @@ tags:
 ---
 
 # Indomitable Keepsake (Major)
-![[icons-commodities-treasure-medal-ribbon-gold-blue.webp|150]]
 
 **Usage** affixed to armor
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Deepdread Claw
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-deepdread-claw.webp|150]]
 
 One of a set of four identical spears collectively known as the Four Claws of the Deepdread, this weapon is fashioned from a single seamless piece of matte-black metal with a razored silver edge. In bright light, it functions as a +1 striking spear, but in darkness or dim light, it becomes a +2 greater striking spear. You can upgrade its fundamental runes as normal for a specific weapon, starting from a +2 greater striking spear, but its fundamental runes are always one type worse in bright light.
 

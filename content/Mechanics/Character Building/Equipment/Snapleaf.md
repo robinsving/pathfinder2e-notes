@@ -8,7 +8,6 @@ tags:
 ---
 
 # Snapleaf
-![[systems-pf2e-icons-equipment-consumables-talismans-snapleaf.webp|150]]
 
 **Usage** affixed to armor
 

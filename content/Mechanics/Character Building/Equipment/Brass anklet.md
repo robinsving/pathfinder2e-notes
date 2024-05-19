@@ -8,4 +8,3 @@ tags:
 ---
 
 # Brass anklet
-![[systems-pf2e-icons-equipment-treasure-art-objects-minor-art-object-brass-anklet.webp|150]]

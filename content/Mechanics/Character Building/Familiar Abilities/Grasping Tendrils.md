@@ -9,7 +9,6 @@ tags:
 ---
 
 # Grasping Tendrils
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 Prerequisites [[Leshy Familiar Secrets]]
 

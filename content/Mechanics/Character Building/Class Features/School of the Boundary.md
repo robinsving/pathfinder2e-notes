@@ -9,7 +9,6 @@ tags:
 ---
 
 # School of the Boundary
-![[icons-sundries-books-book-face-black.webp|150]]
 
 Why use your magic to affect something as pedestrian as the physical world? Whether you studied at the College of Dimensional Studies in Katapesh or an underground school in haunted Ustalav, you've turned your magic past the Universe to the forces beyond, summoning spirits and shades, manipulating dimensions and planes, and treading in a place not meant for mortals.
 

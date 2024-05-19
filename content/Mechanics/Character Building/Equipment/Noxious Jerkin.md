@@ -8,7 +8,6 @@ tags:
 ---
 
 # Noxious Jerkin
-![[systems-pf2e-icons-equipment-armor-specific-magic-armor-noxious-jerkin.webp|150]]
 
 This +2 resilient padded armor is woven from many strands of gut cord strung with dried organs and preserved xulgath scent glands. When worn, it infuses your body with a ghastly and nauseating flavor.
 

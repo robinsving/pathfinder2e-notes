@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fluid Form Staff (Greater)
-![[icons-weapons-staves-staff-orb-feather.webp|150]]
 
 A glass orb atop this metal staff contains fine sand. While wielding the staff, you gain a +2 circumstance bonus to Perception checks to identify morph and polymorph magic.
 

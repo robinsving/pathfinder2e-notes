@@ -8,7 +8,6 @@ tags:
 ---
 
 # Moonstone Diadem
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-moonstone-diadem.webp|150]]
 
 This delicate and elegant diadem is woven of intricate silver wires set with three tear-shaped pearlescent moonstones. You gain a +1 item bonus to Religion checks.
 

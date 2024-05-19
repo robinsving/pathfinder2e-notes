@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Armbands of Athleticism (Greater)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-armbands-of-athleticism.webp|150]]
 
 Skilled awl work has imprinted images of a muscled weightlifter into these tiered leather bands, which grant you enhanced stamina and skill when performing athletic exercises.
 

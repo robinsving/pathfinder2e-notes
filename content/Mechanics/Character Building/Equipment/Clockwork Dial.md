@@ -8,7 +8,6 @@ tags:
 ---
 
 # Clockwork Dial
-![[systems-pf2e-icons-equipment-adventuring-gear-clockwork-dial.webp|150]]
 
 This small timepiece allows you to accurately track time, useful for coordinating attacks, cooking, and all other sorts of activities, without the steadiness or care necessary to use an hourglass. As always, spell durations are too inexact to be reliably tracked, as they don't last precisely the duration listed.
 

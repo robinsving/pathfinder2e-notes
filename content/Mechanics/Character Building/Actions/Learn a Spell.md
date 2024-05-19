@@ -9,7 +9,6 @@ tags:
 ---
 
 # Learn a Spell
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 **Requirements** You have a spellcasting class feature, and the spell you want to learn is on your magical tradition's spell list.
 

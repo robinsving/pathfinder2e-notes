@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spring-Loaded Net Launcher
-![[systems-pf2e-icons-equipment-consumables-other-consumables-spring-loaded-net-launcher.webp|150]]
 
 **Activate** 1 Interact
 

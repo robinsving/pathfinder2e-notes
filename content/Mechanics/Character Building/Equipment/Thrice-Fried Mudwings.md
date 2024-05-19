@@ -8,7 +8,6 @@ tags:
 ---
 
 # Thrice-Fried Mudwings
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tapas-thrice-fried-mudwings.webp|150]]
 
 **Activate** 1 Interact
 

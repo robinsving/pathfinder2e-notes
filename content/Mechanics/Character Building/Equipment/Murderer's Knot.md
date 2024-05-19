@@ -8,7 +8,6 @@ tags:
 ---
 
 # Murderer's Knot
-![[systems-pf2e-icons-equipment-consumables-talismans-murderers-knot.webp|150]]
 
 **Activate** F (concentrate)
 

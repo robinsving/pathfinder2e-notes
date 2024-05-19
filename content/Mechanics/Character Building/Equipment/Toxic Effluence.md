@@ -8,7 +8,6 @@ tags:
 ---
 
 # Toxic Effluence
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-lich-dust.webp|150]]
 
 **Activate** 2 Interact
 

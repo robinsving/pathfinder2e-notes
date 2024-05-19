@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Hunting Catfolk
-![[systems-pf2e-icons-features-ancestry-hunting-catfolk.webp|150]]
 
 You come from a long line of skilled hunters and trackers and have a particularly keen sense of smell.
 

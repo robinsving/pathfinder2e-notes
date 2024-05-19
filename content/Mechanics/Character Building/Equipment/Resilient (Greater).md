@@ -8,7 +8,6 @@ tags:
 ---
 
 # Resilient (Greater)
-![[systems-pf2e-icons-equipment-runes-fundamental-armor-runes-armor-potency.webp|150]]
 
 _Resilient_ runes imbue armor with additional protective magic. This grants the wearer a +2 item bonus to saving throws.
 

@@ -8,4 +8,3 @@ tags:
 ---
 
 # Platinum Pieces
-![[systems-pf2e-icons-equipment-treasure-currency-platinum-pieces.webp|150]]

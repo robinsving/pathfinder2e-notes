@@ -8,7 +8,6 @@ tags:
 ---
 
 # Walking Cauldron
-![[systems-pf2e-icons-equipment-other-magic-pots-walking-cauldron.webp|150]]
 
 This iron cauldron stands upon sturdy iron crow's feet. A _walking cauldron_ has a land Speed of 25 feet and can be used as a suitable tool to _Craft_ potions, oils, or other liquids.
 

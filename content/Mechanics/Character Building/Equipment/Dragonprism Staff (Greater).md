@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dragonprism Staff (Greater)
-![[icons-weapons-staves-staff-simple.webp|150]]
 
 A multi-hued array of scales covers a _dragonprism staff,_ forming a gradient of color, and a dragon's claw holds a gem upon the staff's head. Dragons give allies these staves as a mark of esteem. While wielding a _dragonprism staff_ you seem fiercer, gaining a +1 circumstance bonus to Intimidation checks to [[Demoralize]].
 

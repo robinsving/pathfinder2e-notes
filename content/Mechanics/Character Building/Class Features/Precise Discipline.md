@@ -9,7 +9,6 @@ tags:
 ---
 
 # Precise Discipline
-![[systems-pf2e-icons-features-classes-precise-discipline.webp|150]]
 
 Determine intended outcome. Align thoughts. Identify and resolve distractions. Manifest. Intentional focus is the key to unleashing your abilities, whether that's because your power naturally tends to precise, discrete effects, or because you've adopted strict discipline to ensure your mind can change the world only when you intend it to.
 

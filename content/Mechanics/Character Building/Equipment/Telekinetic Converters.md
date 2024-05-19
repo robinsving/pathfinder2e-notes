@@ -8,7 +8,6 @@ tags:
 ---
 
 # Telekinetic Converters
-![[icons-equipment-hand-gauntlet-simple-leather-brown-gold.webp|150]]
 
 Copper cables run from these thick leather gloves to nodes that attach to the wearer's temples, allowing a spellcaster to convert the magic they normally cast to pure psychic intention. When you Cast a Spell using the telekinetic converters, you substitute any verbal spellcasting components for mental components of simple thought, granting the concentrate trait to the spell you're casting.
 

@@ -8,4 +8,3 @@ tags:
 ---
 
 # Iron and rock crystal brazier
-![[systems-pf2e-icons-equipment-treasure-art-objects-lesser-art-object-iron-and-rock-crystal-brazier.webp|150]]

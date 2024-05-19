@@ -9,7 +9,6 @@ tags:
 ---
 
 # Major Curse
-![[systems-pf2e-icons-features-classes-major-curse.webp|150]]
 
 You've learned to better balance the conflicting powers wreaking havoc on your body. Immediately after completing the casting of a revelation spell while you are affected by your moderate curse, your curse progresses to its major effect, rather than overwhelming you. This effect lasts until you [[Refocus]], which reduces your curse to its minor effect. If you cast a revelation spell while under the effects of your major curse, you are overwhelmed by your curse.
 

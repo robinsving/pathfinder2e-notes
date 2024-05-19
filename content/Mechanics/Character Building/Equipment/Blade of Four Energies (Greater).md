@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blade of Four Energies (Greater)
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-blade-of-four-energies.webp|150]]
 
 This _+2 greater striking shifting shortsword_ is formed of rapidly vibrating air and magical energy, though it uses the same statistics as iron. The wooden hilt is adorned with four gems, representing the energies of acid, cold, fire, and electricity, that sparkle in sequence at random intervals.
 

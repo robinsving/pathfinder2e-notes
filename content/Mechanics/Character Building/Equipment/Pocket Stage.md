@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pocket Stage
-![[icons-environment-settlement-palast.webp|150]]
 
 This item appears to be a miniature replica of a theater. It includes a small pocket full of minute set dressing and costumed paper dolls.
 

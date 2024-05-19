@@ -8,7 +8,6 @@ tags:
 ---
 
 # Messenger's Ring (Greater)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-messengers-ring.webp|150]]
 
 This silver signet ring changes to match the insignia of a lord or organization you serve (or your own face, if you serve no one else). It grants you a +3 item bonus to Diplomacy checks and lets you cast _[[Message]]_ as an arcane innate spell at will.
 

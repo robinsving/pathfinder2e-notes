@@ -9,7 +9,6 @@ tags:
 ---
 
 # Dragon Instinct
-![[icons-creatures-abilities-dragon-fire-breath-orange.webp|150]]
 
 You summon the fury of a mighty dragon and manifest incredible abilities. Perhaps your culture reveres draconic majesty, or you gained your connection by drinking or bathing in dragon's blood or after watching a marauding wyrm burn your village. Select a type of dragon from Table 3-4: Dragon Instincts to be your instinct's dragon type. Chromatic dragons tend to be evil, and metallic dragons tend to be good.
 

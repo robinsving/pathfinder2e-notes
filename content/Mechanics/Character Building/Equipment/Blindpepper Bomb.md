@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blindpepper Bomb
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-bombs-blindpepper-bomb.webp|150]]
 
 **Activate** 1 Strike
 

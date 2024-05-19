@@ -9,7 +9,6 @@ tags:
 ---
 
 # Paladin
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-skills-melee-sword-winged-holy-orange.webp|150]]
 
 You're honorable, forthright, and committed to pushing back the forces of cruelty. You gain the [[Retributive Strike]] champion's reaction and the [[Lay on Hands]] devotion spell. Your code gains the follow edicts and anathema:
 

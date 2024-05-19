@@ -8,4 +8,3 @@ tags:
 ---
 
 # Diamond, large
-![[icons-commodities-gems-gem-faceted-radiant-teal.webp|150]]

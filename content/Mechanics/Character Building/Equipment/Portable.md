@@ -8,7 +8,6 @@ tags:
 ---
 
 # Portable
-![[systems-pf2e-icons-equipment-runes-armor-property-runes-armor-property-runes.webp|150]]
 
 This rune allows your armor to collapse into a disguised, portable form.
 

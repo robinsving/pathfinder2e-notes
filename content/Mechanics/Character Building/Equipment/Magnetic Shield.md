@@ -8,7 +8,6 @@ tags:
 ---
 
 # Magnetic Shield
-![[icons-equipment-shield-heater-steel-boss-red.webp|150]]
 
 **Activate** 1 Interact
 

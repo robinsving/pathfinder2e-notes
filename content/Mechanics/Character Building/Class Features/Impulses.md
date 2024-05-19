@@ -9,7 +9,6 @@ tags:
 ---
 
 # Impulses
-![[Mechanics/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-spells-awaken-portal.webp|150]]
 
 An impulse is a special type of magical action available to kineticists, allowing them to wield or shape their element into diverse and powerful forms. To wield an element, you must have your kinetic aura active and have a free hand, as described in the impulse trait. You automatically gain the Elemental Blast and Base Kinesis impulses, and your kinetic gate selection gives you additional impulse feats. You can select more impulse feats with kineticist class feats, and at higher levels, you'll automatically get more with the gate's threshold class feature. You can select an impulse feat only if it matches one of your kinetic elements.
 

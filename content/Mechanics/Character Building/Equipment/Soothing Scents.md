@@ -8,7 +8,6 @@ tags:
 ---
 
 # Soothing Scents
-![[systems-pf2e-icons-equipment-consumables-talismans-snapleaf.webp|150]]
 
 **Activate** Cast a Spell (add 1 action)
 

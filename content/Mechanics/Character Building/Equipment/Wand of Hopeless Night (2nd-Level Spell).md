@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Hopeless Night (2nd-Level Spell)
-![[systems-pf2e-icons-equipment-wands-specialty-wands-wand-of-hopeless-night.webp|150]]
 
 This wand is a length of wrought black iron.
 

@@ -8,4 +8,3 @@ tags:
 ---
 
 # Phasing ether silk tapestry
-![[systems-pf2e-icons-equipment-treasure-art-objects-major-art-object-phasing-ether-silk-tapestry.webp|150]]

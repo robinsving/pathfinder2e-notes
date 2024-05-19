@@ -9,7 +9,6 @@ tags:
 ---
 
 # Squeeze
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 You contort yourself to squeeze through a space so small you can barely fit through. This action is for exceptionally small spaces; many tight spaces are difficult terrain that you can move through more quickly and without a check.
 

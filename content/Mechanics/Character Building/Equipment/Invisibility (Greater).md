@@ -8,7 +8,6 @@ tags:
 ---
 
 # Invisibility (Greater)
-![[systems-pf2e-icons-equipment-runes-armor-property-runes-armor-property-runes.webp|150]]
 
 Light seems to partially penetrate this armor.
 

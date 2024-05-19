@@ -8,7 +8,6 @@ tags:
 ---
 
 # Slates of Distant Letters
-![[systems-pf2e-icons-equipment-held-items-slates-of-distant-letters.webp|150]]
 
 This matched pair of slates, roughly one handspan wide and tall, have identical ornate frames. Slates are crafted in pairs, and each works with only the other of its pair. If one slate of a pair is ever broken, the other shatters into non-magical shards. The listed price is for a pair of slates.
 

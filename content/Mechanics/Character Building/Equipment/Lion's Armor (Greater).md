@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lion's Armor (Greater)
-![[icons-equipment-chest-breastplate-layered-gold.webp|150]]
 
 Various parts of this +3 _greater resilient half plate_ are forged into the shape of a lion's head. The golden lion heads grant you a commanding presence and seem to actively growl at your enemies, granting you a +3 item bonus to Intimidation.
 

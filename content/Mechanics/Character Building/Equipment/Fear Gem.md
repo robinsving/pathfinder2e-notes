@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fear Gem
-![[systems-pf2e-icons-equipment-consumables-talismans-fear-gem.webp|150]]
 
 **Activate** D (concentrate)
 

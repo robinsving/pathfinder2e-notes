@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stonethroat Ammunition
-![[systems-pf2e-icons-equipment-consumables-ammunition-stonethroat-ammunition.webp|150]]
 
 **Ammunition** arrow, bolt
 

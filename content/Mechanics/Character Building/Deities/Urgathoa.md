@@ -9,7 +9,6 @@ tags:
 ---
 
 # Urgathoa
-![[systems-pf2e-icons-deity-Urgathoa.webp|150]]
 
 So infatuated with the pleasures of the living world, Urgathoa escaped the clutches of death and the afterlife, becoming the first undead. The Pallid Princess now revels in the sharing of her hedonistic ways and spreading undeath.
 

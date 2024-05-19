@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spirit Fan
-![[icons-commodities-materials-material-feathers-violet.webp|150]]
 
 This elegant black, gold-tipped _+1 striking fighting fan_ is adorned with images of three golden leaves and a red rope tassel. If a creature is reduced to 0 Hit Points by a spirit fan, the golden leaves on the fan light up, providing illumination equal to that of a torch for 1 minute.
 

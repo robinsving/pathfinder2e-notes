@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ghost Ampoule
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-ghost-ampoule.webp|150]]
 
 **Activate** 2 Interact
 

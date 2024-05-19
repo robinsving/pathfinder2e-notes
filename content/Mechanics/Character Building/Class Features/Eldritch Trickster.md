@@ -9,7 +9,6 @@ tags:
 ---
 
 # Eldritch Trickster
-![[systems-pf2e-icons-features-classes-eldritch-trickster.webp|150]]
 
 When it comes to a big heist, every rogue worth their salt knows that magic can throw meticulous plans into chaos, whether in the form of arcane wards or pesky divinations.
 

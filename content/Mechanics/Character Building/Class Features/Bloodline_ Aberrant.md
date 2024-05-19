@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bloodline: Aberrant
-![[icons-commodities-biological-eye-blue-gold.webp|150]]
 
 Something speaks to you from beyond the stars or below the earth. Ancient and unknowable, this alien influence presses against your mind.
 

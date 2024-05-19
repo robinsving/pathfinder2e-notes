@@ -8,4 +8,3 @@ tags:
 ---
 
 # Rhodochrosite
-![[systems-pf2e-icons-equipment-treasure-gems-lesser-semiprecious-stones-rhodochrosite.webp|150]]

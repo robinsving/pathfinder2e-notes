@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mirror Goggles (Lesser)
-![[icons-equipment-head-goggles-leather-tan.webp|150]]
 
 These goggles feature highly reflective lenses. While wearing the goggles, you gain a +1 item bonus to visual Perception checks and to saving throws against visual effects.
 

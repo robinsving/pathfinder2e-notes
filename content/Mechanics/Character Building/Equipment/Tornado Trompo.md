@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tornado Trompo
-![[systems-pf2e-icons-equipment-adventuring-gear-depth-gauge.webp|150]]
 
 Various runes are carved along the entirety of this wooden top. Spinning the top requires wrapping a thick string around its base and pulling the string in a vigorous motion. Wrapping a string and pulling the string each require an Interact action. The top's magic is connected to the power of the wind, which becomes evident when placed on a surface as it hovers in place.
 

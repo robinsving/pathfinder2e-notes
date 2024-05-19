@@ -8,7 +8,6 @@ tags:
 ---
 
 # Persistent Lodestone
-![[systems-pf2e-icons-equipment-consumables-talismans-persistent-lodestone.webp|150]]
 
 **Usage** affixed to a firearm with a reload of 1
 

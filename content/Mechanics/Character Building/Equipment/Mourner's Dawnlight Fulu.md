@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mourner's Dawnlight Fulu
-![[systems-pf2e-icons-equipment-consumables-fulus-fulu-fancy.webp|150]]
 
 **Activate** 3 command, envision, Interact
 

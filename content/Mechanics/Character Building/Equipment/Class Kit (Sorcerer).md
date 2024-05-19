@@ -8,7 +8,6 @@ tags:
 ---
 
 # Class Kit (Sorcerer)
-![[systems-pf2e-icons-equipment-adventuring-gear-classkit-sorcerer.webp|150]]
 
 **Weapons** dagger, sling with 20 sling bullets
 

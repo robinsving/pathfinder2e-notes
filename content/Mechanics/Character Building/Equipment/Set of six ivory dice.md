@@ -8,4 +8,3 @@ tags:
 ---
 
 # Set of six ivory dice
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-sundries-gaming-dice-runed-brown.webp|150]]

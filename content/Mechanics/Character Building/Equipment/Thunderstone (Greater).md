@@ -8,7 +8,6 @@ tags:
 ---
 
 # Thunderstone (Greater)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-bombs-thunderstone.webp|150]]
 
 **Activate** 1 Strike
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cytillesh
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-cytillesh.webp|150]]
 
 Deros use cytillesh in a variety of ways, and some surface-dwellers seek out the fungus for their own use. Memories lost to cytillesh can be restored through modify memory. The save for addiction to cytillesh is DC 20, and the addiction has the virulent trait.
 

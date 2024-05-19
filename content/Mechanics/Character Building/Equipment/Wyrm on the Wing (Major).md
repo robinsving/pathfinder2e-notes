@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wyrm on the Wing (Major)
-![[icons-creatures-reptiles-dragon-winged-blue.webp|150]]
 
 Depicting a majestic dragon in flight, this tattoo imparts the endurance and majesty of those powerful creatures. You gain resistance 15 to the damage type matching the dragon your tattoo depicts.
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Alchemist's Lab (Expanded)
-![[icons-containers-chest-chest-simple-box-steel-brown.webp|150]]
 
 You need an alchemist's lab to Craft alchemical items during downtime.
 

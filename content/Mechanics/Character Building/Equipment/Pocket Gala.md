@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pocket Gala
-![[icons-environment-settlement-house-manor.webp|150]]
 
 This item appears to be a miniature stone replica of an aristocratic home or a simple castle.
 

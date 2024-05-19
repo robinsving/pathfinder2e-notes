@@ -8,7 +8,6 @@ tags:
 ---
 
 # Golden-Cased Bullet (Greater)
-![[systems-pf2e-icons-equipment-consumables-ammunition-golden-cased-bullet.webp|150]]
 
 **Ammunition** round
 

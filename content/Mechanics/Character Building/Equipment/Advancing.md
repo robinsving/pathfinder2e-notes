@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Advancing
-![[systems-pf2e-icons-equipment-runes-armor-property-runes-armor-property-runes.webp|150]]
 
 This rune charges up as you defeat your foes, driving you forward across the battlefield with every victory.
 

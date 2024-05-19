@@ -8,6 +8,5 @@ tags:
 ---
 
 # Blowgun
-![[systems-pf2e-icons-equipment-weapons-blowgun.webp|150]]
 
 This long, narrow tube is used for shooting blowgun darts, using only the power of a forcefully exhaled breath.

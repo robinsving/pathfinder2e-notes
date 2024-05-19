@@ -9,7 +9,6 @@ tags:
 ---
 
 # Snoop
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 Your familiar keeps its eyes and ears open, ready to relay every snippet of gossip it catches, helping you gather information.
 

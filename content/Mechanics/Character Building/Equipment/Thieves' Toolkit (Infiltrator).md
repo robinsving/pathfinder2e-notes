@@ -8,7 +8,6 @@ tags:
 ---
 
 # Thieves' Toolkit (Infiltrator)
-![[icons-tools-hand-lockpicks-steel-grey.webp|150]]
 
 You need a thieves' toolkit to [[Pick a Lock|Pick Locks]] or [[Disable a Device|Disable Devices]] (of some types) using the Thievery skill. An infiltrator thieves' toolkit add a +1 item bonus to checks to Pick Locks and Disable Devices.
 

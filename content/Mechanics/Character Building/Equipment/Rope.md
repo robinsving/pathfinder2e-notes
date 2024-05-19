@@ -8,6 +8,5 @@ tags:
 ---
 
 # Rope
-![[icons-sundries-survival-rope-wrapped-brown.webp|150]]
 
 50 feet of rope.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Duchy Defender
-![[systems-pf2e-icons-equipment-weapons-flintlock-musket.webp|150]]
 
 **Perception** +26; precise vision 60 feet, imprecise hearing 30 feet
 

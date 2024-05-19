@@ -8,7 +8,6 @@ tags:
 ---
 
 # Varisian Emblem (Idolis)
-![[icons-magic-symbols-rune-sigil-horned-white-purple.webp|150]]
 
 These tattoos are created using designs and techniques from Varisian culture. Such tattoos often depict the Varisian rune for one of the seven schools of magic, but one might instead show a creature or celestial phenomenon associated with the school, depicted in traditional Varisian iconography. The tattoo allows you to understand and speak Varisian. If you already know that language, you instead gain a +1 item bonus on Diplomacy checks you make when speaking Varisian to someone who understands it.
 

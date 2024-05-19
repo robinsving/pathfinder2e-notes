@@ -8,7 +8,6 @@ tags:
 ---
 
 # Undead Compendium
-![[systems-pf2e-icons-equipment-held-items-undead-compendium.webp|150]]
 
 The best minds among the Magaambyan, Iomedaean, and Pharasmin Knights of Lastwall joined together to create these small, leather-bound journals. While you're holding an _undead compendium_, the information it contains slips into your mind, granting you a +2 item bonus to Recall Knowledge checks to obtain information about undead creatures.
 

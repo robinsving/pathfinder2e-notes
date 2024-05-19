@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of the Dreamlands
-![[icons-weapons-staves-staff-simple.webp|150]]
 
 The carved night hag's hand at the end of this sandalwood staff clutches a rough gem. The _Staff of the Dreamlands_ makes it easier to navigate and survive in the Dreamlands and recognize its denizens. When wielding the staff, you gain a +1 circumstance bonus to Survival checks while in the Dreamlands and to checks to Recall Knowledge about creatures with the dream trait.
 

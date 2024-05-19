@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Belt of Giant Strength
-![[systems-pf2e-icons-equipment-worn-items-apex-items-belt-of-giant-strength.webp|150]]
 
 This thick leather belt is decorated with a buckle carved from glittering quartz in the shape of a fist. You gain a +3 item bonus to Athletics checks and a +2 circumstance bonus to Athletics checks to lift a heavy object, Escape, and Force Open.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Buzzsaw Axe
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-buzzsaw-axe.webp|150]]
 
 With an aerodynamic cutting edge and a curved handle, this _+2 striking battle axe_ is perfectly suited to whirling motions, and in fact seems like it wants to whirl free from your grip. A Strike with this axe that benefits from the sweep trait's circumstance bonus on attack rolls also gains a +2 circumstance bonus to the damage roll.
 

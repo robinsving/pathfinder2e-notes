@@ -8,7 +8,6 @@ tags:
 ---
 
 # Entertainer's Cincture (Greater)
-![[icons-equipment-neck-choker-rounded-gold-green.webp|150]]
 
 The designs adorning these lush sashes often imitate the decor of famous opera houses, theaters, and museums. When you invest this item, choose Deception, Diplomacy, Intimidation, or Performance; you gain a +3 item bonus to that skill.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sanitizing Pin
-![[icons-commodities-cloth-thread-spindle-white.webp|150]]
 
 **Activate** f command
 

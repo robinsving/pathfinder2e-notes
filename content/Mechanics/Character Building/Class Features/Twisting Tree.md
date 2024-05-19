@@ -9,7 +9,6 @@ tags:
 ---
 
 # Twisting Tree
-![[icons-weapons-staves-staff-simple-gold.webp|150]]
 
 The staff is perhaps one of the simplest of weapons, but this simplicity belies its elegance and versatility. To you, a staff is casting implement and martial weapon alike-the foundation of a fighting style.
 

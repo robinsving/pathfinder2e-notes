@@ -8,7 +8,6 @@ tags:
 ---
 
 # The Lens of the Outreaching Eye
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-aluum-charm.webp|150]]
 
 As long as you have the _Lens of the Outreaching Eye_ invested, the Harrowed Realm's impediments to magic don't apply to you, and you gain a +3 item bonus on all checks made to resolve divination effects.
 

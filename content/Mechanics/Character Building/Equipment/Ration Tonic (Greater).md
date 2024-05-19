@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ration Tonic (Greater)
-![[systems-pf2e-icons-equipment-consumables-potions-ration-tonic.webp|150]]
 
 **Activate** 1 Interact
 

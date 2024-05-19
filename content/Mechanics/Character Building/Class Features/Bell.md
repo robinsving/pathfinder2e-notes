@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bell
-![[systems-pf2e-icons-features-classes-bell.webp|150]]
 
 Bells symbolize the power that sounds and emotions hold over others, soothing with one tone and startling with another. Bells, drums, finger cymbals, and other percussion instruments are most typical, but these implements can be any type of portable musical instrument that is played with one hand. Bell implements are associated with the astrological signs of the daughter and the blossom.
 

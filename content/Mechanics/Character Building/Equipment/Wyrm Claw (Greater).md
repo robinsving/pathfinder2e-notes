@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wyrm Claw (Greater)
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-creatures-claws-claw-hooked-purple.webp|150]]
 
 The tip of a metallic dragon's claw is set into a band of silver. When you summon dragons using the claw, you must choose metallic dragons.
 

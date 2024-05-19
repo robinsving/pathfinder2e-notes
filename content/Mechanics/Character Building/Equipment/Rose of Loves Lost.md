@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rose of Loves Lost
-![[systems-pf2e-icons-equipment-cursed-items-rose-of-loves-lost.webp|150]]
 
 **Activate** 1 Interact
 

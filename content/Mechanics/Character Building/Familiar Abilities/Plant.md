@@ -9,6 +9,5 @@ tags:
 ---
 
 # Plant
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 Your familiar has the plant trait instead of the animal trait.

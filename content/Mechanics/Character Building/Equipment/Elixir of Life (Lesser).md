@@ -8,7 +8,6 @@ tags:
 ---
 
 # Elixir of Life (Lesser)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-elixir-of-life.webp|150]]
 
 **Activate** A (manipulate)
 

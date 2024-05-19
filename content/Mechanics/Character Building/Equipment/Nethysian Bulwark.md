@@ -8,7 +8,6 @@ tags:
 ---
 
 # Nethysian Bulwark
-![[systems-pf2e-icons-equipment-shields-specific-shields-nethysian-bulwark.webp|150]]
 
 This round shield is often fashioned to resemble the religious symbol of its dual-natured namesake. A _Nethysian bulwark_ is a high-grade cold iron shield (Hardness 10, HP 40, BT 20) that defends the wielder and can explode with retributive force when struck.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mountebank's Passage
-![[icons-weapons-guns-gun-pistol-flintlock-metal.webp|150]]
 
 This _+2 greater striking flintlock pistol_ has the odd construction of possessing two triggers, one of soapstone and one of onyx, clearly separated with individual trigger guards. Originally created by a student at Blythir College in Alkenstar, the _mountebank's passage_ has the ability to create temporary linked portals on existing surfaces. The weapon disappeared shortly after its invention, but rumors have circulated that it now belongs to a group of thieves who use it to commit impossible robberies.
 

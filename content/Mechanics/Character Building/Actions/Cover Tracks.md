@@ -9,7 +9,6 @@ tags:
 ---
 
 # Cover Tracks
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 You cover your tracks, moving up to half your travel speed. You don't need to attempt a Survival check to cover your tracks, but anyone tracking you must succeed at a Survival check against your Survival DC if it is higher than the normal DC to [[Track]].
 

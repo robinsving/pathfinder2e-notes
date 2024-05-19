@@ -8,7 +8,6 @@ tags:
 ---
 
 # Thunder Helm
-![[icons-equipment-head-helm-barbute-rounded-orange.webp|150]]
 
 The creator of the original _thunder helm_ tried and failed time and again to craft a reliable, helmet-mounted firearm that enabled hands-free gunplay, but even after resorting to magical enhancements, they were never quite able to realize their vision. The allure of the _thunder helm_ continues to compel certain mindsets in the Mana Wastes, and these items continue to be crafted to this day.
 

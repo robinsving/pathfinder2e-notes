@@ -8,7 +8,6 @@ tags:
 ---
 
 # Clockwork Helm
-![[icons-equipment-head-helm-barbute-rounded-orange.webp|150]]
 
 Rotating gears cover the outside of this imposing helmet.
 

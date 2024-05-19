@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Animal Nip (Lesser)
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-flayleaf.webp|150]]
 
 **Activate** 1 (manipulate)
 

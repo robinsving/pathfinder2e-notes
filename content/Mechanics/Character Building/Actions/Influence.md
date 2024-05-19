@@ -9,7 +9,6 @@ tags:
 ---
 
 # Influence
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 You attempt to make a favorable impression on an NPC to convince the NPC to support your cause. Attempt a skill check to impress that NPC. The DC and skills which can apply can be found in the NPC's stat block.
 

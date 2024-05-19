@@ -9,7 +9,6 @@ tags:
 ---
 
 # Treat Wounds
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 **Requirements** You're wearing or holding a [[Healer's Toolkit]].
 

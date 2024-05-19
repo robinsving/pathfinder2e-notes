@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wondrous Figurine (Golden Lions)
-![[systems-pf2e-icons-equipment-held-items-wondrous-figurine-golden-lion.webp|150]]
 
 Each one of these statuettes is 1 inch in height, carved from a specific material and taking the shape of a particular animal or animals.
 

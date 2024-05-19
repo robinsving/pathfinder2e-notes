@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Conjuration (Major)
-![[systems-pf2e-icons-equipment-staves-staff-of-conjuration.webp|150]]
 
 This ash staff is decorated with animals; wielding it, you gain a +2 circumstance bonus to checks to identify conjuration magic.
 

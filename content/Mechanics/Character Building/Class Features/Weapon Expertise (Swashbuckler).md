@@ -9,7 +9,6 @@ tags:
 ---
 
 # Weapon Expertise (Swashbuckler)
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-skills-melee-maneuver-sword-katana-yellow.webp|150]]
 
 You've dedicated yourself to learning the intricacies of your weapons. Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to expert.
 

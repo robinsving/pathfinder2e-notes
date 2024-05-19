@@ -8,7 +8,6 @@ tags:
 ---
 
 # Headwrap of Wisdom
-![[systems-pf2e-icons-equipment-worn-items-apex-items-headband-of-inspired-wisdom.webp|150]]
 
 This simple scarf is designed for wrapping around the head and comes with a gemmed pin for decoration. When you invest the headwrap, you either increase your Wisdom modifier by 1 or increase it to +4, whichever would give you a higher value.
 

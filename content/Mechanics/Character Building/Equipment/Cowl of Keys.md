@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cowl of Keys
-![[icons-equipment-back-cloak-collared-feathers-green.webp|150]]
 
 This simple, tattered cloak is a faded green and features small, stylized keys sewn throughout its length. While wearing the cloak, you fade into the shadows and gain a +3 item bonus to Stealth checks. When you invest the cloak, you either increase your Dexterity score by 2 or increase it to 18, whichever would give you a higher score.
 

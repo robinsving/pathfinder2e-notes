@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sanguine Fang (Major)
-![[icons-creatures-abilities-fang-tooth-blood-red.webp|150]]
 
 A pointed vampire fang hovers within this smoked-glass vial, its tip crimson with slowly dripping blood. The spell DC of any spell cast by activating this item is 34.
 

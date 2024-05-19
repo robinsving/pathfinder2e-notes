@@ -9,7 +9,6 @@ tags:
 ---
 
 # Familiar (Witch)
-![[systems-pf2e-icons-features-classes-familiar.webp|150]]
 
 Your patron has sent you a familiar, a mystical creature that teaches you magic and facilitates your spells. This familiar follows the rules for familiars, though as it's a direct conduit between you and your patron, it's more powerful than typical familiars. Your familiar gains two additional familiar abilities: one of these is a unique ability based on your patron and is always selected, and the other is an additional familiar ability that can be selected daily as normal. Your familiar gains another extra ability at 6th, 12th, and 18th levels.
 

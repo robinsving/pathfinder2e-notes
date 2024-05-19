@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Fire
-![[systems-pf2e-icons-equipment-staves-staff-of-fire.webp|150]]
 
 This staff resembles a blackened and burned length of ashen wood. You can Interact to touch the tip of this staff to a torch, tinder, or a flammable substance to ignite a flame.
 

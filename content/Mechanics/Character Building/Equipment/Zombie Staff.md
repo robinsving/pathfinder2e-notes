@@ -8,7 +8,6 @@ tags:
 ---
 
 # Zombie Staff
-![[icons-weapons-staves-staff-simple.webp|150]]
 
 A _zombie staff_ is etched with the rotting visage of an undead humanoid grimacing in terror and dismay carved atop it. The staff's _[[Summon Undead]]_spells can be used only to animate undead that have flesh and an Intelligence modifier of –4 or lower.
 

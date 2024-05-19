@@ -9,7 +9,6 @@ tags:
 ---
 
 # Rally
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 **Prerequisites** trained in Diplomacy, Intimidation, or Performance
 

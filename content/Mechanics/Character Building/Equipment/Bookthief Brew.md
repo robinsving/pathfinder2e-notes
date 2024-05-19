@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bookthief Brew
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-bookthief-brew.webp|150]]
 
 **Activate** 1 minute
 

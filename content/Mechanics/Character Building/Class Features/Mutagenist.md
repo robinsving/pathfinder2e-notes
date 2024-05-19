@@ -9,7 +9,6 @@ tags:
 ---
 
 # Mutagenist
-![[systems-pf2e-icons-features-classes-mutagenist.webp|150]]
 
 You focus on bizarre mutagenic transformations that sacrifice one aspect of a creature's physical or psychological being in order to strengthen another. You start with the formulas for two common 1st-level alchemical mutagens, in addition to your other formulas.
 

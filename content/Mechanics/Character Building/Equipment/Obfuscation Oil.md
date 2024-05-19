@@ -8,7 +8,6 @@ tags:
 ---
 
 # Obfuscation Oil
-![[systems-pf2e-icons-equipment-consumables-oils-obfuscation-oil.webp|150]]
 
 **Activate** A (manipulate)
 

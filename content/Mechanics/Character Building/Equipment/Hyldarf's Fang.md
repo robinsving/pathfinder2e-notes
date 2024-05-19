@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hyldarf's Fang
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-hyldarfs-fang.webp|150]]
 
 This _+2 greater striking hand cannon_ is carved and crafted from a single large fang, worn with age and cracked with red lines. The tip of the fang has been filed down, but still leaks black fluid occasionally. It was fashioned from the tooth of the tor linnorm Hyldarf by a half-Ulfen gunsmith from Tian Xia who sought the title of linnorm king. Though the smith failed to slay the linnorm, he did claim the mighty dragon's tooth and fashion it into a magic firearm that still drips warm venom. Hyldarf survived the encounter with her attacker and slew the gunsmith years later, though by then the smith had already bequeathed the weapon to his chosen heir and it was far out of her grasp. The linnorm still searches for her missing tooth, portending potential doom for the weapon's owner.
 

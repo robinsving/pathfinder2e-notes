@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Accompaniment Cloak
-![[systems-pf2e-icons-equipment-adventuring-gear-dueling-cape.webp|150]]
 
 This lush velvet capelet is embroidered with images of musicians playing a wide variety of instruments. The images animate when you make art, remaining embroidered, but smoothly unknitting and reknitting in time with your performance. The figures play music that perfectly accompanies your instrument, voice, or movements, granting you a +2 item bonus to Performance checks.
 

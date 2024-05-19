@@ -9,7 +9,6 @@ tags:
 ---
 
 # Nalinivati
-![[systems-pf2e-icons-deity-Nalinivati.webp|150]]
 
 **Edicts** Seek out magic and use it, use poison, heal poisons, bear or adopt children, raise snakes
 

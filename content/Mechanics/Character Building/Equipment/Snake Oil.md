@@ -8,7 +8,6 @@ tags:
 ---
 
 # Snake Oil
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-snake-oil.webp|150]]
 
 **Activate** A (manipulate)
 

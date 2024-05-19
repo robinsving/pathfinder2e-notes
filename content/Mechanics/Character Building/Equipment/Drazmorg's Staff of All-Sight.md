@@ -8,7 +8,6 @@ tags:
 ---
 
 # Drazmorg's Staff of All-Sight
-![[systems-pf2e-icons-equipment-staves-staff-of-providence.webp|150]]
 
 This long, gnarled staff looks like several bones fused together, then wrapped tightly with strips of desiccated, gray skin. At the top of the staff, a clump of sinew clasps a small stone orb resembling a large human eye. When the staff is activated, this eye twitches and glances around randomly. When wielding this staff, you gain a +1 item bonus to visual Perception checks.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Summoning Handscroll
-![[systems-pf2e-icons-equipment-held-items-summoning-handscroll.webp|150]]
 
 Classic summoning circles are engraved into the batons of this massive papyrus scroll.
 

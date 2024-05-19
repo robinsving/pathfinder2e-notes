@@ -8,7 +8,6 @@ tags:
 ---
 
 # Potion of Electricity Retaliation (Major)
-![[systems-pf2e-icons-equipment-consumables-potions-potion-of-electricity-retalliation.webp|150]]
 
 **Activate** 1 Interact
 

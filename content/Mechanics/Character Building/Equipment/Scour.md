@@ -8,7 +8,6 @@ tags:
 ---
 
 # Scour
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-scour.webp|150]]
 
 This gritty powder improves responsiveness but suppresses thoughts and leaves you weakened. The saving throw for addiction to scour is DC 30, and the addiction is virulent.
 

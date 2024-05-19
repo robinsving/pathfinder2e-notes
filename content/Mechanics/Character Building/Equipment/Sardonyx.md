@@ -8,4 +8,3 @@ tags:
 ---
 
 # Sardonyx
-![[systems-pf2e-icons-equipment-treasure-gems-moderate-semiprecious-stones-sardonyx.webp|150]]

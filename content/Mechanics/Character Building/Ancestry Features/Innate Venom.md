@@ -9,6 +9,5 @@ tags:
 ---
 
 # Innate Venom
-![[Mechanics/Character Building/Ancestry Features/zz_asset-files/icons-skills-melee-blade-tip-energy-green.webp|150]]
 
 Your blood carries toxins deadly to all but yourself. You gain the [[Envenom]] action, which can deliver minor vishkanyan venom. The save DC for your venom is equal to the higher of your class DC or spell DC.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Marvelous Miniature (Horse)
-![[icons-environment-creatures-horse-tan.webp|150]]
 
 **Activate** 1 (manipulate)
 

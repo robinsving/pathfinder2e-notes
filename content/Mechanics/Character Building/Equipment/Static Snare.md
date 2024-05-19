@@ -8,7 +8,6 @@ tags:
 ---
 
 # Static Snare
-![[systems-pf2e-icons-equipment-snares-static-snare.webp|150]]
 
 You hide insulating crystals or other material that releases a strong static charge when the first creature enters the snare's square. That creature must attempt a DC 18 reflex saving throw.
 

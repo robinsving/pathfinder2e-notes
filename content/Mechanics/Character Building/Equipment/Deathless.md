@@ -8,7 +8,6 @@ tags:
 ---
 
 # Deathless
-![[systems-pf2e-icons-equipment-runes-armor-property-runes-armor-property-runes.webp|150]]
 
 These symbols fortify your body's grasp on your soul, keeping it tethered when death approaches.
 

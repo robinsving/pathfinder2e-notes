@@ -8,7 +8,6 @@ tags:
 ---
 
 # Predictable Silver Piece
-![[systems-pf2e-icons-equipment-held-items-predictable-silver-piece.webp|150]]
 
 This seemingly unremarkable, weathered silver coin bears the bust of an unnamed monarch on the face and a majestic bird on the tail. You can toss the coin without activating it, in which case it follows the normal laws of probability.
 

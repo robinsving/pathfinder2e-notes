@@ -8,7 +8,6 @@ tags:
 ---
 
 # Candle of Inflamed Passions
-![[systems-pf2e-icons-equipment-consumables-other-consumables-noxious-incense.webp|150]]
 
 **Activate** 1 (manipulate)
 

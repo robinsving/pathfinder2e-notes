@@ -9,7 +9,6 @@ tags:
 ---
 
 # Greater Field Discovery (Toxicologist)
-![[systems-pf2e-icons-features-classes-greater-field-discovery-chirurgeon.webp|150]]
 
 You learn an incredible discovery that advances your understanding of your field.
 

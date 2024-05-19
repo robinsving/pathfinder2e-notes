@@ -9,7 +9,6 @@ tags:
 ---
 
 # Impersonate
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 You create a disguise to pass yourself off as someone or something you are not. Assembling a convincing disguise takes 10 minutes and requires a [[Disguise Kit]], but a simpler, quicker disguise might do the job if you're not trying to imitate a specific individual, at the GM's discretion.
 

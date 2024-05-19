@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Achaekek's Kiss
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-sloughing-toxin.webp|150]]
 
 **Access** Member of the Red Mantis assassins
 

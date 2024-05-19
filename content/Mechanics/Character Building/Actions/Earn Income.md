@@ -9,7 +9,6 @@ tags:
 ---
 
 # Earn Income
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 You can use a skill-typically Crafting, Lore, or Performance-to earn money during downtime. You must be trained in the skill to do so. This takes time to set up, and your income depends on your proficiency rank and how lucrative a task you can find. Because this process requires a significant amount of time and involves tracking things outside the progress of adventures, it won't come up in every campaign.
 

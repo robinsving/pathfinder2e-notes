@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pickled Demon Tongue (Greater)
-![[systems-pf2e-icons-unarmed-attacks-tongue.webp|150]]
 
 This small crystal vial contains the forked end of a demon's tongue, preserved in brine. The spell attack roll of any spell cast by Activating this item is +14, and the spell DC is 24.
 

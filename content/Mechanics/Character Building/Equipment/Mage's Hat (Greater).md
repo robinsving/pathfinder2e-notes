@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mage's Hat (Greater)
-![[icons-equipment-head-hat-belted-simple-grey.webp|150]]
 
 This larger, fancier hat grants a +2 item to Arcana checks, allows you to cast the _[[Prestidigitation]]_ cantrip and can be activated.
 

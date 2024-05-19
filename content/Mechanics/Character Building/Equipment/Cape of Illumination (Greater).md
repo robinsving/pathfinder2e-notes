@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cape of Illumination (Greater)
-![[icons-equipment-back-cape-layered-brown-gold.webp|150]]
 
 This golden cape, embroidered with vibrant red sun rays, sparkles like sunlight reflecting off the ocean.
 

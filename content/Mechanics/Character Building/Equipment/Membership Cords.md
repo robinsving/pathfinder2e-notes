@@ -8,7 +8,6 @@ tags:
 ---
 
 # Membership Cords
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-membership-cords.webp|150]]
 
 **Access** Member of a secret society
 

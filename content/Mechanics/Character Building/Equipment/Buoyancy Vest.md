@@ -8,7 +8,6 @@ tags:
 ---
 
 # Buoyancy Vest
-![[systems-pf2e-icons-equipment-adventuring-gear-buoyancy-vest.webp|150]]
 
 This canvas vest has been filled with cork shavings, tightly folded, and sewn shut. Wearing a buoyancy vest allows you to float in water with a lowered risk of sinking. If you end your turn in water while wearing a buoyancy vest and haven't succeeded at a Swim action that turn, attempt a DC 5 flat.
 

@@ -8,4 +8,3 @@ tags:
 ---
 
 # Ruby, small
-![[icons-commodities-gems-gem-faceted-radiant-red.webp|150]]

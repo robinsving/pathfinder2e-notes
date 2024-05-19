@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fire Poi
-![[systems-pf2e-icons-equipment-weapons-fire-poi.webp|150]]
 
 These special poi are made from a rare, light metal or from fire-retardant fibers and can be ignited before being wielded. Igniting a pair of fire poi is an Interact action and requires 1 pint of [[Oil (1 pint)|Oil]] for every 10 minutes the poi remain ignited.
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Alchemical Fuse
-![[systems-pf2e-icons-equipment-consumables-ammunition-dwarven-daisy.webp|150]]
 
 An alchemical fuse is a length of treated cord that can be used to time the detonation of an alchemical bomb or a stick of pyronite, or simply as a timer—at the GM's option, fuses can be used as timers to trigger other devices that can be triggered with a single appropriate action, as well.
 

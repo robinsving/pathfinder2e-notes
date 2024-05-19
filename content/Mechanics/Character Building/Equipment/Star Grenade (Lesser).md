@@ -8,7 +8,6 @@ tags:
 ---
 
 # Star Grenade (Lesser)
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-magic-light-explosion-star-glow-blue-purple.webp|150]]
 
 **Activate** 1 Strike
 

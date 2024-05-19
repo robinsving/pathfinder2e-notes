@@ -8,4 +8,3 @@ tags:
 ---
 
 # Chrysoberyl symbol of an evil eye
-![[systems-pf2e-icons-equipment-treasure-art-objects-lesser-art-object-chrysoberyl-symbol-of-an-evil-eye.webp|150]]

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Salve of Antiparalysis (Greater)
-![[systems-pf2e-icons-equipment-consumables-oils-salve-of-antiparalysis.webp|150]]
 
 **Activate 1**(manipulate)
 

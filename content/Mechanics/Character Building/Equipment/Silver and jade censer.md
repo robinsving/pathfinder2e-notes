@@ -8,4 +8,3 @@ tags:
 ---
 
 # Silver and jade censer
-![[systems-pf2e-icons-equipment-treasure-art-objects-moderate-art-object-silver-and-jade-censer.webp|150]]

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Boarding Axe
-![[icons-weapons-axes-axe-broad-notched.webp|150]]
 
 This small axe sports a spike opposite the blade that aids in climbing and is useful in clearing obstacles, such as fallen rigging.

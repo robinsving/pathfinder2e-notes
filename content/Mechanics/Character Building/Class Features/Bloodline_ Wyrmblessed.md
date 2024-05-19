@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bloodline: Wyrmblessed
-![[icons-commodities-biological-wing-lizard-pink-purple.webp|150]]
 
 You lay claim to the might of dragons, but your powers are sacred instead of arcane-born from a worship of draconic might so powerful it infused your blood or, perhaps, from a celestial or draconic power blessing one of your ancestors received.
 

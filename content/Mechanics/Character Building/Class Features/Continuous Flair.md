@@ -9,7 +9,6 @@ tags:
 ---
 
 # Continuous Flair
-![[systems-pf2e-icons-features-classes-continuous-flair.webp|150]]
 
 While not equal to the heights of your panache in combat, you have a dramatic flair about you in any situation.
 

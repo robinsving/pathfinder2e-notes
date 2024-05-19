@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Admirer's Bouquet
-![[systems-pf2e-icons-equipment-adventuring-gear-dueling-cape.webp|150]]
 
 An admirer's bouquet appears to be a colorful silken handkerchief that exudes a pleasant floral scent until it's picked up, at which point a dozen vibrantly colored long- stemmed flowers appear in the carrier's hand, the stems wrapped in the silk.
 

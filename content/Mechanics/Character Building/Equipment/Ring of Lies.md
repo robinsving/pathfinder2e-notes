@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ring of Lies
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-ring-of-lies.webp|150]]
 
 This plain silver ring has an almost oily sheen. While wearing the ring, you gain a +2 item bonus to Deception checks.
 

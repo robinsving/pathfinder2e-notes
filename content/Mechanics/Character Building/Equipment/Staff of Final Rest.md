@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Final Rest
-![[systems-pf2e-icons-equipment-staves-staff-of-final-rest.webp|150]]
 
 This white marble staff is carved into the figure of an abstract knight, its shield bearing the symbol of Lastwall, with a wickedly pointed sword made of dark wood raised high above its head. When you wield it as a weapon, it gains the versatile P trait and functions as a wooden stake, allowing you to use it to stake vampires, and your Strikes with the staff gain a +1 circumstance bonus to damage rolls against undead.
 

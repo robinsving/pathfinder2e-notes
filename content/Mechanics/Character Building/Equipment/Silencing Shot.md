@@ -8,7 +8,6 @@ tags:
 ---
 
 # Silencing Shot
-![[systems-pf2e-icons-equipment-consumables-ammunition-silencing-shot.webp|150]]
 
 **Ammunition** any
 

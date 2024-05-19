@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Basilisk Eye
-![[systems-pf2e-icons-equipment-consumables-talismans-basilisk-eye.webp|150]]
 
 **Activate** F (concentrate)
 

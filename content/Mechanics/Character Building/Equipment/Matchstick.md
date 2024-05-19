@@ -10,7 +10,6 @@ tags:
 ---
 
 # Matchstick
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-tindertwig.webp|150]]
 
 **Activate** A (manipulate)
 

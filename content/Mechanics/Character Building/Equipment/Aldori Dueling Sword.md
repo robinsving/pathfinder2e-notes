@@ -9,6 +9,5 @@ draft: true
 ---
 
 # Aldori Dueling Sword
-![[icons-weapons-swords-sword-guard-gold-red.webp|150]]
 
 An Aldori dueling sword is a slim, single-bladed dueling sword with a slight curve and a sharp, reinforced point.

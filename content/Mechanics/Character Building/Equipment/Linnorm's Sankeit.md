@@ -8,7 +8,6 @@ tags:
 ---
 
 # Linnorm's Sankeit
-![[systems-pf2e-icons-equipment-armor-sankeit.webp|150]]
 
 The first suit of _+3 greater resilient antimagic sankeit_ made in this fashion was crafted for the Varki linnorm king Nankou, after he claimed his title by slaying a taiga linnorm. By Varki tradition, the armor was crafted using some of the slain linnorm's body to decorate the breastplate and helm, which imbued the armor with several of the linnorm's natural abilities. Though the helm is shaped like the beast's head, a linnorm's actual head would be too large for a proper helmet.
 

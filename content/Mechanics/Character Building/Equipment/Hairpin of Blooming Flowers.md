@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hairpin of Blooming Flowers
-![[icons-commodities-flowers-lotus-pink.webp|150]]
 
 The flower that adorns this hairpin is a blooming lotus flower that varies in color; it regrows in a day after the item is activated. Whether or not the hairpin's flower is in bloom, as long as you wear it and it's invested, it grants a +1 item bonus to Diplomacy checks.
 

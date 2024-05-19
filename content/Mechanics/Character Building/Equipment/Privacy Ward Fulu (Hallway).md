@@ -8,7 +8,6 @@ tags:
 ---
 
 # Privacy Ward Fulu (Hallway)
-![[systems-pf2e-icons-equipment-consumables-fulus-fulu-fancy.webp|150]]
 
 This fulu seeks to keep thieves, spies, and unwanted attention away from a room. A depiction of a lock appears in the center of this fulu, which is in turn surrounded by circles of broken keys. When applied to a wall inside a room, all creatures within the room gain an item bonus to Stealth checks against creatures outside the room.
 

@@ -8,4 +8,3 @@ tags:
 ---
 
 # Platinum image of a fey noble with a bit of orichalcum
-![[systems-pf2e-icons-equipment-treasure-art-objects-major-art-object-platinum-image-of-a-fey-noble-with-a-bit-of-orichalcum.webp|150]]

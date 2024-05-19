@@ -9,7 +9,6 @@ tags:
 ---
 
 # Aerodynamic Construction
-![[icons-skills-melee-strikes-sword-triple-gray.webp|150]]
 
 **Melee Only**
 

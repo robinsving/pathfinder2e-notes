@@ -8,4 +8,3 @@ tags:
 ---
 
 # Handling Gloves
-![[icons-equipment-hand-gauntlet-simple-leather-brown-gold.webp|150]]

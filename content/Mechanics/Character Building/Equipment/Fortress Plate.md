@@ -8,6 +8,5 @@ tags:
 ---
 
 # Fortress Plate
-![[icons-equipment-chest-breastplate-layered-gilded-black.webp|150]]
 
 Dwarves of Dongun Hold developed fortress plate, which is still popular in Alkenstar and Dongun Hold. A trained wearer can adjust the articulated armor's overlapping layers of plates and panels to provide protection from missiles.

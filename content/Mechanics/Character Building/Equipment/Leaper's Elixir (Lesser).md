@@ -8,7 +8,6 @@ tags:
 ---
 
 # Leaper's Elixir (Lesser)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-leapers-elixir.webp|150]]
 
 **Activate** 1 Interact
 

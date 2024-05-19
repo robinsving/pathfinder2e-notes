@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Adaptive Cogwheel
-![[systems-pf2e-icons-equipment-consumables-other-consumables-adaptive-cogwheel.webp|150]]
 
 **Usage** affixed to a firearm
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gecko Pads (Greater)
-![[systems-pf2e-icons-equipment-consumables-other-consumables-gecko-pads.webp|150]]
 
 **Activate** 2 Interact
 

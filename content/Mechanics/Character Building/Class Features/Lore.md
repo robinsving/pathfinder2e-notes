@@ -9,7 +9,6 @@ tags:
 ---
 
 # Lore
-![[icons-sundries-scrolls-scroll-symbol-sun-brown.webp|150]]
 
 Knowledge and information come freely to you. You might use this lore to gain power or perhaps to understand the divine mysteries of the multiverse. You might have a conduit to the fabled Akashic Record, maintain a subtle telepathic connection to the collective subconscious of all living creatures, or follow in the footsteps of deities such as Abadar, Irori, Nethys, Irori's scholarly nephew Gruhastha, the fey triune goddess of fate Magdh, or the lawful aeon god-figure known as the Monad.
 

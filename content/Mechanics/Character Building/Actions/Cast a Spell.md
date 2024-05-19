@@ -9,7 +9,6 @@ tags:
 ---
 
 # Cast a Spell
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 You cast a spell you have prepared or in your repertoire. Casting a Spell is a special activity that takes a variable number of actions depending on the spell, as listed in each spell's stat block. As soon as the spellcasting actions are complete, the spell effect occurs.
 

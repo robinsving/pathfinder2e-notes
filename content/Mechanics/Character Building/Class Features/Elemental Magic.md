@@ -9,7 +9,6 @@ tags:
 ---
 
 # Elemental Magic
-![[systems-pf2e-icons-features-classes-elemental-magic.webp|150]]
 
 You're a spellcaster that's specialized in harnessing the four elements. Though you might feel a stronger kinship for one element over the others, you're capable of shaping all of them. Due to your specialization in elemental magic, you have a smaller, more focused spell list than other spellcasters, though your magic is drawn from multiple traditions. If you choose this class archetype, you must select the [[Elementalist Dedication]] as your 2nd-level class feat.
 

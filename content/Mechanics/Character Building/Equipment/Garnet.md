@@ -8,4 +8,3 @@ tags:
 ---
 
 # Garnet
-![[systems-pf2e-icons-equipment-treasure-gems-greater-semiprecious-stones-garnet.webp|150]]

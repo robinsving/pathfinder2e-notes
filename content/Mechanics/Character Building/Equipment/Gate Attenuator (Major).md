@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gate Attenuator (Major)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-gate-attenuator.webp|150]]
 
 When you invest the _major gate attenuator_, you either increase your Constitution modifier by 1 or increase it to +4, whichever would give you a higher score.
 

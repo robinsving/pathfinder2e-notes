@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sun Orchid Poultice
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-sun-orchid-poultice.webp|150]]
 
 **Activate** 1 Interact
 

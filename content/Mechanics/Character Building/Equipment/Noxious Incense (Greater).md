@@ -8,7 +8,6 @@ tags:
 ---
 
 # Noxious Incense (Greater)
-![[systems-pf2e-icons-equipment-consumables-other-consumables-noxious-incense.webp|150]]
 
 **Activate** Cast a Spell
 

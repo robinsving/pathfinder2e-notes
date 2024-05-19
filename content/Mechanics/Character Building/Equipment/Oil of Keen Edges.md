@@ -8,7 +8,6 @@ tags:
 ---
 
 # Oil of Keen Edges
-![[systems-pf2e-icons-equipment-consumables-oils-oil-of-keen-edges.webp|150]]
 
 **Activate** A (manipulate)
 

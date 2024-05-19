@@ -8,4 +8,3 @@ tags:
 ---
 
 # Etched copper ewer
-![[systems-pf2e-icons-equipment-treasure-art-objects-lesser-art-object-etched-copper-ewer.webp|150]]

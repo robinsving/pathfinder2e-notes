@@ -8,7 +8,6 @@ tags:
 ---
 
 # Egg Cream Fizz
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-egg-cream-fizz.webp|150]]
 
 **Activate** 1 Interact
 

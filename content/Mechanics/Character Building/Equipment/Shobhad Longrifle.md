@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shobhad Longrifle
-![[systems-pf2e-icons-equipment-weapons-shobhad-longrifle.webp|150]]
 
 The shobhad longrifle is a firearm with a long, rifled barrel. Often mounted with a multi-lensed scope for targeting at an array of ranges and a chambering mechanism that can adjust the speed and penetrating power of each shot, it's the preferred weapon of many shobhad warriors.
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Cliffscale Lizardfolk
-![[systems-pf2e-icons-features-ancestry-cliifscale-lizardfolk.webp|150]]
 
 Your toes are adapted for gripping and climbing.
 

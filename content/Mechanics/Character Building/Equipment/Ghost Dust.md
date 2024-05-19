@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ghost Dust
-![[systems-pf2e-icons-equipment-consumables-talismans-ghost-dust.webp|150]]
 
 **Activate** A (concentrate)
 

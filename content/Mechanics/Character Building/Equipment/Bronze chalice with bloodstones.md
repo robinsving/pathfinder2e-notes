@@ -8,4 +8,3 @@ tags:
 ---
 
 # Bronze chalice with bloodstones
-![[systems-pf2e-icons-equipment-treasure-art-objects-lesser-art-object-bronze-chalice-with-bloodstones.webp|150]]

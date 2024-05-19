@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stoneraiser Javelin
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-stoneraiser-javelin.webp|150]]
 
 This stone-headed _+2 striking returning javelin_ draws forth the power of the earth itself to strike at enemies.
 

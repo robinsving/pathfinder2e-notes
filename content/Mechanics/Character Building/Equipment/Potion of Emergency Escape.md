@@ -8,7 +8,6 @@ tags:
 ---
 
 # Potion of Emergency Escape
-![[systems-pf2e-icons-equipment-consumables-potions-potion-of-expeditious-retreat.webp|150]]
 
 **Activate** A (manipulate)
 

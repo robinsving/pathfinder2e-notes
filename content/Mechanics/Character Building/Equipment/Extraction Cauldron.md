@@ -8,7 +8,6 @@ tags:
 ---
 
 # Extraction Cauldron
-![[systems-pf2e-icons-equipment-adventuring-gear-bountiful-cauldron.webp|150]]
 
 This large magical stew pot can boil objects down to their valuable components, greatly assisting anyone who wants to harvest raw materials without visiting a settlement. The cauldron is roughly 3 feet in diameter.
 

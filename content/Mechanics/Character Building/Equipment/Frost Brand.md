@@ -8,7 +8,6 @@ tags:
 ---
 
 # Frost Brand
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-frost-brand.webp|150]]
 
 The blade of this +2 greater striking [[Frost (Greater)]] greatsword appears to be nothing but icy shards. The frost brand automatically extinguishes non-magical fires in a 20 foot emanation. While wielding it, you gain fire resistance 5.
 

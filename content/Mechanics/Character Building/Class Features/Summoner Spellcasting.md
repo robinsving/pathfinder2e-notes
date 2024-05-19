@@ -9,7 +9,6 @@ tags:
 ---
 
 # Summoner Spellcasting
-![[systems-pf2e-icons-features-classes-summoner-spellcasting.webp|150]]
 
 Your link to your eidolon grants you limited magic connected to your eidolon's nature. You can cast spells using the Cast a Spell activity, and you can supply material, somatic, and verbal components when casting spells. Because of the magic you draw from your eidolon, you can usually replace material components with somatic components, so you don't need a material component pouch.
 

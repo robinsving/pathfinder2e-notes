@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Necromancy
-![[icons-weapons-staves-staff-skull-feathers-brown.webp|150]]
 
 This twisted and grim-looking staff is adorned with hideous skull and bone motifs. While wielding the staff, you gain a +2 circumstance bonus to checks to identify necromancy magic.
 

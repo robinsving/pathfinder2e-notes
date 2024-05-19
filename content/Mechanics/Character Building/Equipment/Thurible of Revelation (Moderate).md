@@ -8,7 +8,6 @@ tags:
 ---
 
 # Thurible of Revelation (Moderate)
-![[systems-pf2e-icons-equipment-held-items-thurible-of-revelation.webp|150]]
 
 This brass censer dangles on a length of chain. Most _thuribles of revelation_ are adorned with swirling Empyrean text, though some are iron and feature Diabolic or Chthonian text.
 

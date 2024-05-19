@@ -8,7 +8,6 @@ tags:
 ---
 
 # Flame Navette
-![[systems-pf2e-icons-equipment-consumables-talismans-flame-navette.webp|150]]
 
 **Usage** affixed to armor
 

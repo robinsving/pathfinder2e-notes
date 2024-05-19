@@ -8,6 +8,5 @@ tags:
 ---
 
 # Holy Steam Ball Refill
-![[systems-pf2e-icons-equipment-held-items-holy-steam-ball.webp|150]]
 
 Refill for a Holy Steam Ball

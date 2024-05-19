@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fiend's Hunger
-![[icons-weapons-daggers-dagger-straight-blue.webp|150]]
 
 The blade of this _+1 low-grade silver dagger_ has a sickly red tinge. Though once used to send souls to empower Kugaptee, the fury of those slain by the blade now allow its wielder to periodically strike back against fiends.
 

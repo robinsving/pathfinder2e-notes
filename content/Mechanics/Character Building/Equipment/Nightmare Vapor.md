@@ -8,7 +8,6 @@ tags:
 ---
 
 # Nightmare Vapor
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-nightmare-vapor.webp|150]]
 
 Purportedly sourced from any number of outlandish locales, nightmare vapor is most often created by boiling the sweat collected from humanoids caught in the throes of terrible nightmares.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fighter's Fork
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-fighters-fork.webp|150]]
 
 This _+1 trident_, usually engraved with a decorative pattern resembling fish scales, is a common weapon among warriors of aquatic ancestries.
 

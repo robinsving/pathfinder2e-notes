@@ -8,7 +8,6 @@ tags:
 ---
 
 # Calamity Glass
-![[systems-pf2e-icons-equipment-held-items-calamity-glass.webp|150]]
 
 This mirror appears to give warnings about the future, but subtle and malevolent hands designed the silver-framed glass to lure heroes into bringing doom upon those they hope to save.
 

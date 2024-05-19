@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ooze Skin
-![[icons-equipment-chest-breastplate-banded-simple-leather-brown.webp|150]]
 
 **Activate** 1 Interact
 

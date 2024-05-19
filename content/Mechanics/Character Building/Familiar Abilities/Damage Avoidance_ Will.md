@@ -9,6 +9,5 @@ tags:
 ---
 
 # Damage Avoidance: Will
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 It takes no damage when it succeeds at Will saves; this doesn't prevent effects other than damage.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Philosopher's Stone
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-philosophers-stone.webp|150]]
 
 An alchemist with the [[Craft Philosopher's Stone]] feat can create a philosopher's stone once per month by spending 1 batch of infused reagents during their daily preparations using the advanced alchemy class feature. This is the only way to create a philosopher's stone.
 

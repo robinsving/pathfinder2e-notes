@@ -9,7 +9,6 @@ tags:
 ---
 
 # Regalia
-![[systems-pf2e-icons-features-classes-regalia.webp|150]]
 
 Regalia implements represent rulership, leadership, and social connections. While they differ in shape depending on regional customs and markers used to signify authority, common regalia implements are scepters, jeweled orbs, and heraldic banners. Regalia implements are associated with the harrow suit of crowns and the astrological signs of the patriarch and the sovereign dragon.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Subsist
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 You try to provide food and shelter for yourself, and possibly others as well, with a standard of living. This typically uses Society if you're in a settlement or Survival if you're in the wild. The GM determines the DC based on the nature of the place where you're trying to Subsist. You might need a minimum proficiency rank to Subsist in particularly strange environments. Unlike most downtime activities, you can Subsist after 8 hours or less of exploration, but if you do, you take a -5 penalty.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fortifying Pebble
-![[systems-pf2e-icons-equipment-consumables-talismans-fortifying-pebble.webp|150]]
 
 **Usage** affixed to armor, shield, or weapon
 

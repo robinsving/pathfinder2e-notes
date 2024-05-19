@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Addiction Suppressant (Lesser)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-addiction-suppressant.webp|150]]
 
 **Activate** A Interact
 

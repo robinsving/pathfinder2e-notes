@@ -9,7 +9,6 @@ tags:
 ---
 
 # Confident Finisher
-![[systems-pf2e-icons-features-classes-confident-finisher.webp|150]]
 
 You gain an elegant finishing attack you can make when you have panache. The finisher trait is described below. You gain the [[Confident Finisher]] action.
 

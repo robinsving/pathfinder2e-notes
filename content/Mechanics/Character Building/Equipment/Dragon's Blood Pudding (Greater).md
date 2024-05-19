@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dragon's Blood Pudding (Greater)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tapas-dragons-blood-pudding.webp|150]]
 
 **Activate** 1 Interact
 

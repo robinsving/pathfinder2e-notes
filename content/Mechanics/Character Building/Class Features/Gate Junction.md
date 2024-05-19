@@ -9,7 +9,6 @@ tags:
 ---
 
 # Gate Junction
-![[Mechanics/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-spells-elemental-annihilation-wave.webp|150]]
 
 ### **Gate Junctions**
 

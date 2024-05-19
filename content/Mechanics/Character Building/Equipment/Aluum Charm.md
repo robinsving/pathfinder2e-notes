@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Aluum Charm
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-aluum-charm.webp|150]]
 
 This ornate pendant of brass is adorned with a vibrant blue gemstone. An _aluum charm_ grants control over a particular aluum and lesser influence over other such constructs. As long as you wear an aluum's linked _aluum charm_, that aluum follows your verbal commands, including somewhat nuanced orders like "subdue this target" or "strike anyone wearing a blue robe."
 

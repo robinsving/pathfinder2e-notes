@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shining Shield
-![[icons-equipment-shield-round-wooden-boss-steel-yellow-blue.webp|150]]
 
 Kalabrynne Iomedar commissioned the first of these shields, which have become some of the Shining Sentinels' most valued equipment, replicated among these knights. A _shining shield_ is a seemingly simple wooden shield with the Shining Oath engraved on the inside.
 

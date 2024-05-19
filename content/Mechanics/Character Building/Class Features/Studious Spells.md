@@ -9,7 +9,6 @@ tags:
 ---
 
 # Studious Spells
-![[systems-pf2e-icons-features-classes-studious-spells.webp|150]]
 
 Your hybrid study grants you additional spells that can enhance your power in combat. You gain two special 2nd-level studious spell slots, which can be used to prepare spider climb, true strike, water breathing, and an additional spell depending on your hybrid study. You add any spells from this class feature to your spellbook. At 11th level, the extra slots increase to 3rd level and you add haste and an additional spell depending on your hybrid study. At 13th level, the extra slots increase to 4th level and you add fly and an additional spell depending on your hybrid study.
 

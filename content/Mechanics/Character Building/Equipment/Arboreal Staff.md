@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Arboreal Staff
-![[icons-weapons-staves-staff-nature-spiral.webp|150]]
 
 **Perception** +25; precise vision (low-light) 60 feet, imprecise hearing 30 feet, imprecise tremorsense 30 feet (only when touching the ground)
 

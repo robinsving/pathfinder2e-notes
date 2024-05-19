@@ -8,7 +8,6 @@ tags:
 ---
 
 # Magnifying Scope
-![[systems-pf2e-icons-equipment-other-attached-items-scope.webp|150]]
 
 These scopes use magically enhanced lenses to extend the range of your weapon and help spot distant foes. The scope grants you a +1 item bonus to visual Perception checks to [[Seek]] creatures through the scope.
 

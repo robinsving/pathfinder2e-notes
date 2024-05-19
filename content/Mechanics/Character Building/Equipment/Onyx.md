@@ -8,4 +8,3 @@ tags:
 ---
 
 # Onyx
-![[systems-pf2e-icons-equipment-treasure-gems-moderate-semiprecious-stones-onyx.webp|150]]

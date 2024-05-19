@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Alignment Ampoule (Greater)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-bombs-alignment-ampoule.webp|150]]
 
 **(Default is spirit damage)**
 

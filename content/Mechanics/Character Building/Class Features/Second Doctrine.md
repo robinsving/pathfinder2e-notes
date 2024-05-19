@@ -9,7 +9,6 @@ tags:
 ---
 
 # Second Doctrine
-![[icons-magic-symbols-question-stone-yellow.webp|150]]
 
 You gain the second benefit of your doctrine:
 

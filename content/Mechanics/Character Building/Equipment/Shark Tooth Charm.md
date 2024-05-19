@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shark Tooth Charm
-![[systems-pf2e-icons-equipment-consumables-talismans-shark-tooth-charm.webp|150]]
 
 **Activate** 1 (concentrate)
 

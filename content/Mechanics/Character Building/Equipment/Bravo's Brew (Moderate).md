@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bravo's Brew (Moderate)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-bravos-brew.webp|150]]
 
 **Activate** A (manipulate)
 

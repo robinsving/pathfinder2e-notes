@@ -9,7 +9,6 @@ tags:
 ---
 
 # Research Field
-![[icons-magic-symbols-question-stone-yellow.webp|150]]
 
 Your inquiries into the alchemical nature of the universe have led you to focus on a particular field of research. You might have a degree from a scientific institute, correspond with other researchers in your field, or work as a genius loner. Choose a field of research.
 

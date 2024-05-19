@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dawnlight (Greater)
-![[systems-pf2e-icons-equipment-held-items-dawnlight.webp|150]]
 
 This shining symbol of Sarenrae depicts the goddess with her arms held wide. In the center of the symbol is a crystal reliquary with a perfect feather floating inside, glowing bright as a candle with the light of the goddess.
 

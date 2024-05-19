@@ -8,4 +8,3 @@ tags:
 ---
 
 # Tourmaline
-![[systems-pf2e-icons-equipment-treasure-gems-greater-semiprecious-stones-tourmaline.webp|150]]

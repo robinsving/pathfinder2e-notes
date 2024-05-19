@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tears of Death
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-tears-of-death.webp|150]]
 
 Tears of death are among the most powerful of alchemical poisons, distilled from extracts of five other deadly poisons in just the right ratios.
 

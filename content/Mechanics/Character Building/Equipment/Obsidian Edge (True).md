@@ -8,7 +8,6 @@ tags:
 ---
 
 # Obsidian Edge (True)
-![[icons-weapons-axes-axe-battle-elemental-lava.webp|150]]
 
 This black obsidian blade is a _+3 greater striking greater flaming gun sword_. Magma seeps along its many cracks and crags, and the handle is hot but not scalding to the touch.
 

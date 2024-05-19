@@ -8,7 +8,6 @@ tags:
 ---
 
 # Collar of Empathy
-![[systems-pf2e-icons-equipment-worn-items-companion-items-collar-of-empathy.webp|150]]
 
 This ornate collar of intertwined leather strips of contrasting colors is paired with a bracelet of a similar construction. When you wear and invest the bracelet and your companion wears and invests the collar, you gain a stronger connection to each other. You and your companion can always sense each other's emotional states and basic physical wants and needs.
 

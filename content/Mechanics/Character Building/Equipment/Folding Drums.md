@@ -8,7 +8,6 @@ tags:
 ---
 
 # Folding Drums
-![[systems-pf2e-icons-equipment-held-items-folding_drums.webp|150]]
 
 You can unfold this [[Musical Instrument (Virtuoso heavy)|Musical Instrument (virtuoso percussion instrument)]] into a hand drum (1 Bulk), a marching drum set with a shoulder harness and back brace (3 Bulk), or a large standing drum set with a built-in stool (16 Bulk). Changing the folding drum's size is a 3-action Interact activity, and the drums must have sufficient open space to accommodate their new size.
 

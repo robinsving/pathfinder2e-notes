@@ -8,7 +8,6 @@ tags:
 ---
 
 # Majordomo Torc
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-choker-of-elocution.webp|150]]
 
 **Perception** +13; precise vision 30 feet, imprecise hearing 30 feet
 

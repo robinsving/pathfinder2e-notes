@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hundred-Moth Caress
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-hundred-moth-caress.webp|150]]
 
 The handles of this _+1 striking scythe_ are made from a dull, gray wood of bone-like consistency, and when you slice with it, a fluttering gust of hundreds of moths' wingbeats fills the air. If you're a devotee of Urgathoa, you can use this scythe as a divine focus, and with every Strike, it exudes a pallid cloud of powdery dust.
 

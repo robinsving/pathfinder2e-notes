@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bloodline: Nymph
-![[systems-pf2e-icons-features-classes-nymph.webp|150]]
 
 One of your ancestors was inspired by a nymph, or perhaps was a nymph themself, and now the beauty of nature lives in you.
 

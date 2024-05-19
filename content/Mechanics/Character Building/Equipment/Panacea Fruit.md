@@ -8,7 +8,6 @@ tags:
 ---
 
 # Panacea Fruit
-![[icons-consumables-fruit-apricot-ripe-orange.webp|150]]
 
 This fruit is slowly, constantly changing shape, transforming from one fruit into another, but always appearing at the peak of ripeness.
 

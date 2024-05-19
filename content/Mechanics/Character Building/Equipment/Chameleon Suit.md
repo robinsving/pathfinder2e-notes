@@ -8,7 +8,6 @@ tags:
 ---
 
 # Chameleon Suit
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-chameleon-suit.webp|150]]
 
 **Activate** 2 Interact
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Chronomancer Staff
-![[icons-weapons-staves-staff-simple.webp|150]]
 
 Clock faces and gears adorn the twisted iron shaft of a _chronomancer staff_, the hands of the clocks continually ticking or winding backward. Used as a weapon, the staff is a _+2 greater striking speed staff_. While wielding this staff, you also gain a +1 circumstance bonus to initiative rolls.
 

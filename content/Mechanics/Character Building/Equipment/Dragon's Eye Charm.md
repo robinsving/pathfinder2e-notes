@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dragon's Eye Charm
-![[systems-pf2e-icons-equipment-held-items-dragons-eye-charm.webp|150]]
 
 This charm, a dragon-shaped pendant worn like a necklace or set into armor or clothing as a decoration, is warm and smooth to the touch. It must be held in one hand to be used (pressing the palm of one's hand to the charm also works, provided that your hand is otherwise empty). It has four distinct powers.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Liar's Demise
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-liars-demise.webp|150]]
 
 **Activate** 3 Interact
 

@@ -9,4 +9,3 @@ draft: true
 ---
 
 # Alabaster and obsidian game set
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-sundries-gaming-dice-runed-brown.webp|150]]

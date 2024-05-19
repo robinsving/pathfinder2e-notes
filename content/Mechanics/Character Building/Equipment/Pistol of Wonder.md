@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pistol of Wonder
-![[icons-weapons-guns-gun-pistol-flintlock-metal.webp|150]]
 
 This +2 greater striking flintlock pistol bears strange, jagged markings of erratic design and has an oddly squishy grip. It can be activated to produce a variety of unusual effects.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Impenetrable Scale
-![[icons-equipment-chest-breastplate-banded-steel.webp|150]]
 
 Made of overlapping, lustrous black scales of standard-grade adamantine, this +2 _greater resilient [[Fortification]] adamantine scale mail_ seems to momentarily thicken at the point of impact when hit.
 

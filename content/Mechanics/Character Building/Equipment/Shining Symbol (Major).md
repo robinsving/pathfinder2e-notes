@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shining Symbol (Major)
-![[icons-commodities-treasure-broach-jewel-gold-blue.webp|150]]
 
 If you worship a deity, this golden amulet transforms into your deity's religious symbol when you invest it. You gain a +3 item bonus to Religion. The symbol casts dim light in a 20 foot emanation.
 

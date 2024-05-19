@@ -9,7 +9,6 @@ tags:
 ---
 
 # Runelord Specialization
-![[icons-magic-symbols-rune-sigil-red-orange.webp|150]]
 
 You draw untold power from runes, sometimes called sin magic. You associate with one of the seven vices, also known as the seven rewards of rule: envy (abjuration), gluttony (necromancy), greed (transmutation), lust (enchantment), pride (illusion), sloth (conjuration), and wrath (evocation). Studying these techniques often tempts you with the associated sin. While leaning into it could corrupt you, it might make you more powerful. If you choose this class archetype, you must select [[Runelord Dedication]] as your 2nd-level class feat.
 

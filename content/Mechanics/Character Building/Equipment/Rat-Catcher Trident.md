@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rat-Catcher Trident
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-rat-catcher-trident.webp|150]]
 
 The haft of this +2 striking trident is carved with intricate designs of swarming rodents sacred to Hanspur, the drowned god of the Sellen River.
 

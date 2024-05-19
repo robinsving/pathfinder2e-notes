@@ -8,7 +8,6 @@ tags:
 ---
 
 # Transposition Ammunition (Greater)
-![[systems-pf2e-icons-equipment-consumables-ammunition-transposition-ammunition.webp|150]]
 
 **Ammunition** any
 

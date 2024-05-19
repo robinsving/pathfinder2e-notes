@@ -9,7 +9,6 @@ tags:
 ---
 
 # School of Battle Magic
-![[icons-sundries-books-book-tooled-blue-yellow.webp|150]]
 
 Magic is power, and there are always those who will use power for the art of battle. You may have studied in the military of a nation of the brink of war—Cheliax and Andoran perhaps, or Geb and Nex. You summon whirling energies that can lay waste to both soldiers and armies, while being sure not to neglect arcane countermeasures for common tactical complications or the shields and defenses that keep combatants alive on the battlefield.
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Seer Elf
-![[systems-pf2e-icons-features-ancestry-seer-elf.webp|150]]
 
 You have an inborn ability to detect and understand magical phenomena. You can cast the [[Detect Magic]] cantrip as an arcane innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
 

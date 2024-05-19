@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Ambrosia of Undying Hope
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-ambrosia-of-undying-hope.webp|150]]
 
 This elixir is usually stored in a small metal flask or miniature stein. The dark liquid sparkles as if it were full of stars and is considered sacred to [[Cayden Cailean]] and to the cults of the Failed in Absalom.
 

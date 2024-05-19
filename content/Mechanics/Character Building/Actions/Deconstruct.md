@@ -9,7 +9,6 @@ tags:
 ---
 
 # Deconstruct
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 You deconstruct an item to provide the starting point to convert it into a new item. You need the Alchemical Crafting skill feat to deconstruct alchemical items and the Magical Crafting skill feat to deconstruct magic items.
 

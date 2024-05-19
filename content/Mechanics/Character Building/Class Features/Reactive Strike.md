@@ -9,6 +9,5 @@ tags:
 ---
 
 # Reactive Strike
-![[systems-pf2e-icons-features-classes-attack-of-opportunity.webp|150]]
 
 Ever watchful for weaknesses, you can quickly attack foes that leave an opening in their defenses. You gain the [[Mechanics/Character Building/Class Features/Reactive Strike]] reaction.

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Axe of the Dwarven Lords
-![[systems-pf2e-icons-equipment-artifacts-axe-of-the-dwarven-lords.webp|150]]
 
 The blade of this +4 major striking [[Keen]] [[Returning]] [[Quickstrike|Speed]] dwarven waraxe is carved with an intricate design depicting countless generations of great dwarven warriors and leaders.
 

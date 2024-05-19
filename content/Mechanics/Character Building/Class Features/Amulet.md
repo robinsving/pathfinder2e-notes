@@ -9,7 +9,6 @@ tags:
 ---
 
 # Amulet
-![[systems-pf2e-icons-features-classes-amulet.webp|150]]
 
 Amulets are items carried for good luck and protection. Your amulet might be a magical diagram, a religious symbol, a preserved body part such as a rabbit's foot, or a lucky coin. Amulet implements are associated with the harrow suit of shields and the astrological signs of the bridge and the ogre.
 

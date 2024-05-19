@@ -9,7 +9,6 @@ tags:
 ---
 
 # Field Discovery (Chirurgeon)
-![[systems-pf2e-icons-features-classes-field-discovery-chirurgeon.webp|150]]
 
 You learn a special discovery depending on your field.
 

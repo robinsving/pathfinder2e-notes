@@ -8,7 +8,6 @@ tags:
 ---
 
 # Enhanced Hearing Aids
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-hearing-aid.webp|150]]
 
 These hearing aids work like _magical hearing aids_, but they're designed with a more potent and focused magic.
 

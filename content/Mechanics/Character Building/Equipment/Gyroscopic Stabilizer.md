@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gyroscopic Stabilizer
-![[systems-pf2e-icons-equipment-vehicles-vonthoss-golden-bridge-protective-barrier-effect.webp|150]]
 
 A gyroscopic stabilizer appears as a gold disk suspended within three rotating golden bands inside a gilded case, itself attached to a set of clamps. These clamps allow you to attach the gyroscopic stabilizer to any one-handed firearm as an Interact action.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Glittering Snare
-![[systems-pf2e-icons-equipment-snares-glittering-snare.webp|150]]
 
 Small flecks of mica, sand, and ground glass are packed into a spring-loaded canister that can be rigged to a trip wire or hidden in a container. The first creature to enter the square or open the container must attempt a DC 20 reflex save as the area is showered with bright, glittering dust that sticks to skin, fur, and clothing.
 

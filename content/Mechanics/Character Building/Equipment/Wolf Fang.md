@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wolf Fang
-![[systems-pf2e-icons-equipment-consumables-talismans-wolf-fang.webp|150]]
 
 **Activate** F (concentrate)
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Conflagration Club
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-conflagration-club.webp|150]]
 
 A ring of magical crystals encircles the base of this _+1 striking greatclub_, allowing it to absorb and store magical energy.
 

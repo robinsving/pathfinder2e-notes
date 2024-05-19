@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Banner of the Restful
-![[systems-pf2e-icons-equipment-held-items-banner-of-the-restful.webp|150]]
 
 Carried by knights who expect to spend the night in the open, this simple-looking banner is accompanied by a long cross pole from which it hangs. Usually, the banner appears to be a piece of plain cloth; when activated, it automatically adopts whatever insignia the person activating it desires.
 

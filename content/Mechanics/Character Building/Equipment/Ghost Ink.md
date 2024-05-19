@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ghost Ink
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-ghost-ink.webp|150]]
 
 **Activate** 10 minutes (Interact)
 

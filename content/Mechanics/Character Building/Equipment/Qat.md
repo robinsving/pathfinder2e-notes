@@ -8,7 +8,6 @@ tags:
 ---
 
 # Qat
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-qat.webp|150]]
 
 **Activate** 1 Interact
 

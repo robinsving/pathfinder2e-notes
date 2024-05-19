@@ -8,7 +8,6 @@ tags:
 ---
 
 # Class Kit (Ranger)
-![[systems-pf2e-icons-equipment-adventuring-gear-classkit-ranger.webp|150]]
 
 **Armor** leather armor
 

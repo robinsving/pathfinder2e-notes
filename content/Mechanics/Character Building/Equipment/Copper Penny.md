@@ -8,7 +8,6 @@ tags:
 ---
 
 # Copper Penny
-![[icons-commodities-currency-coin-engraved-slot-one-copper.webp|150]]
 
 **Activate** f envision
 

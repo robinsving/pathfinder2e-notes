@@ -8,7 +8,6 @@ tags:
 ---
 
 # Smogger
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-smogger.webp|150]]
 
 Some mutants savor the acrid smog of Alkenstar and the Gunworks. A _smogger_ recreates this pollution by sucking in clean air and spewing it back out as pungent smog.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Humbug Pocket (Greater)
-![[icons-containers-bags-pouch-leather-green.webp|150]]
 
 Fine silk lines this fashionable pocket, which is typically cinched to a belt or tailored into a piece of formal clothing. The pocket can hold no more than one item of light Bulk, plus incidental items of negligible Bulk. The pocket grants you a +3 item bonus to Society and to Stealth checks to [[Conceal an Object]] in the pocket.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Norgorber
-![[systems-pf2e-icons-deity-Norgorber.webp|150]]
 
 This shadowy figure is worshipped in four aspects: Blackfingers, ally of alchemists and poisoners; the murderous Father Skinsaw; the thieving Gray Master; and the secretive Reaper of Reputation
 

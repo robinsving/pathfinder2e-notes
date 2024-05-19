@@ -9,7 +9,6 @@ tags:
 ---
 
 # Psychic Spellcasting
-![[systems-pf2e-icons-features-classes-psychic-spellcasting.webp|150]]
 
 ## Psychic Spellcasting
 

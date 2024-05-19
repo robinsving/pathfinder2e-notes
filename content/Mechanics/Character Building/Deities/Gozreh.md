@@ -9,7 +9,6 @@ tags:
 ---
 
 # Gozreh
-![[systems-pf2e-icons-deity-Gozreh.webp|150]]
 
 A deity of two aspects, Gozreh is the sea that encapsulates the land and the wind that moves its surface. The Wind and the Waves are popular with druids and those who seek to preserve the wilds.
 

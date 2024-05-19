@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rime Jar
-![[icons-consumables-drinks-alcohol-spirits-bottle-blue.webp|150]]
 
 Magical reagents slosh inside this rime-frosted pottery jar the size of a human head. Despite appearing to be rimed in hoarfrost, the jar is warm to the touch. Ilverani wizards create rime jars to sustain themselves during the coldest winter nights.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sparkler
-![[icons-magic-fire-projectile-embers-orange.webp|150]]
 
 **Access** Sparklers are common in Tian Xia and Vudra and can be Crafted by those who can specifically Craft fireworks.
 

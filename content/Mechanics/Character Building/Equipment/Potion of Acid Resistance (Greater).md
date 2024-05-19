@@ -8,7 +8,6 @@ tags:
 ---
 
 # Potion of Acid Resistance (Greater)
-![[systems-pf2e-icons-equipment-consumables-potions-potion-of-acid-resistance.webp|150]]
 
 **Activate** A (manipulate)
 

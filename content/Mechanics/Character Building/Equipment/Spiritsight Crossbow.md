@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spiritsight Crossbow
-![[icons-weapons-crossbows-crossbow-ornamental-black.webp|150]]
 
 This +1 striking [[Ghost Touch]] crossbow has an array of crystalline lenses and silver fittings along the stock and feels strangely light.
 

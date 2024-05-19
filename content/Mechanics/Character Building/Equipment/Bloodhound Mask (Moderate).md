@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bloodhound Mask (Moderate)
-![[icons-equipment-head-mask-carved-wood-white.webp|150]]
 
 **Activate** 1 Interact
 

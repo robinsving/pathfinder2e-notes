@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shoony Shovel
-![[systems-pf2e-icons-equipment-held-items-shoony-shovel.webp|150]]
 
 This ornate, compact shovel has a golden handle wrapped with beautiful crimson bulette leather. Its silver head never gets dirty or worn no matter how much you use it. Its true magic, however, is in its ability to dig on its own.
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Barding of the Zephyr
-![[icons-environment-creatures-horse-tan.webp|150]]
 
 This light barding is covered in stylized wind motifs. When you suit up your animal companion, the barding adjusts to fit your animal companion regardless of its shape.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Abjuration (Greater)
-![[icons-weapons-staves-staff-simple-spiral.webp|150]]
 
 This intricately carved wooden staff is warm to the touch and thrums with inner energy. While wielding the staff, you gain a +2 circumstance bonus to checks to identify abjuration magic.
 

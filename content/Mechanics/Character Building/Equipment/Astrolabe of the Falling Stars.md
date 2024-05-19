@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Astrolabe of the Falling Stars
-![[systems-pf2e-icons-equipment-adventuring-gear-astrolabe.webp|150]]
 
 This astrolabe is fashioned of magically attuned platinum plates and rings and is inset with carefully measured ruby gems. The astrolabe's back is engraved with helpful charts, a calendar, and a maker's mark. An _astrolabe of falling stars_ can be used as a [[Mariner's Astrolabe]]. In addition, it can produce the following magical effect.
 

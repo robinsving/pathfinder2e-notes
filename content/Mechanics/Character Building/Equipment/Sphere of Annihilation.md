@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sphere of Annihilation
-![[systems-pf2e-icons-equipment-artifacts-sphere-of-annihilation.webp|150]]
 
 A _sphere of annihilation_ is a floating black sphere that pulls any matter that comes into contact with it into a void, destroying it utterly. Anything or anyone destroyed by the sphere can be brought back only by a deity's direct intervention. The sphere can't be counteracted by dispel magic or similar effects.
 

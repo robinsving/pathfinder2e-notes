@@ -8,7 +8,6 @@ tags:
 ---
 
 # Water Bomb (Moderate)
-![[icons-sundries-survival-waterskin-leather-brown.webp|150]]
 
 **Activate** 1 Strike
 

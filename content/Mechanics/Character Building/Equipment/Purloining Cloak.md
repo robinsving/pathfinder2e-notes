@@ -8,7 +8,6 @@ tags:
 ---
 
 # Purloining Cloak
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-mercurial-mantle.webp|150]]
 
 **Perception** +30; precise vision 30 feet, imprecise hearing 30 feet
 

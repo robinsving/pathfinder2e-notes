@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sleep Arrow
-![[systems-pf2e-icons-equipment-consumables-ammunition-sleep-arrow.webp|150]]
 
 **Activate** A Interact
 

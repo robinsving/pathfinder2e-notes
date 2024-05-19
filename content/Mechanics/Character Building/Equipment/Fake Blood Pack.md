@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fake Blood Pack
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-fake-blood-pack.webp|150]]
 
 Adventurers have found a number of uses for these animal blood-filled bladders, which were originally used in theatrical productions. Whenever you take slashing or piercing damage with the fake blood pack under your clothes or armor, roll a DC 11 flat. On a success, the blood pack is punctured. You or an ally can puncture the hidden pack intentionally.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Nexian Sealing Blade
-![[systems-pf2e-icons-equipment-weapons-longsword.webp|150]]
 
 More often called by their nickname "screamswords," the _Nexian sealing blades_ were developed by the Arclords of Nex as special tools to ward off Gebbite infiltrators and assassins. Screamswords are _+1 striking disrupting silver longswords_ with a couple of extra tricks. Each Nexian sealing blade can sense undead within 60 feet and responds by screaming loudly until there are no longer undead within that range. This same screaming can be unleashed as a sonic blast if needed.
 

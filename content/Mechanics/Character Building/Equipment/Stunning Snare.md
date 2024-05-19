@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stunning Snare
-![[systems-pf2e-icons-equipment-snares-stunning-snare.webp|150]]
 
 You rig a snare to disorient a creature with a quick bash, leaving it with little ability to defend itself. The trap deals 6d6 bludgeoning damage to the first creature to enter its square; that creature must attempt a DC 31 reflex save.
 

@@ -8,4 +8,3 @@ tags:
 ---
 
 # Silver coronet with peridots
-![[systems-pf2e-icons-equipment-treasure-art-objects-moderate-art-object-silver-coronet-with-peridots.webp|150]]

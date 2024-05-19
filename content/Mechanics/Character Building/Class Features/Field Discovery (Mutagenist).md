@@ -9,7 +9,6 @@ tags:
 ---
 
 # Field Discovery (Mutagenist)
-![[icons-consumables-potions-potion-jug-corked-skull-poison-brown-green.webp|150]]
 
 You learn a special discovery depending on your field.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Reflecting Shield
-![[systems-pf2e-icons-equipment-shields-specific-shields-reflecting-shield.webp|150]]
 
 This high-grade silver buckler (Hardness 6, HP 24, BT 12) is polished to a mirrorlike sheen. The shield functions as a _spellguard shield_ that can also reflect spells.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Setup Snare
-![[systems-pf2e-icons-equipment-snares-signaling-snare.webp|150]]
 
 This snare is designed to divert a target's movement towards another snare or hazard. You may choose to have the target attempt a Will saving throw instead of a Reflex saving throw; if you do, add the fear and mental traits plus add either the visual or auditory trait.
 

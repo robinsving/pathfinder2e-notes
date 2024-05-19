@@ -9,7 +9,6 @@ tags:
 ---
 
 # Greater Field Discovery (Mutagenist)
-![[systems-pf2e-icons-features-classes-greater-field-discovery-mutagenist.webp|150]]
 
 You learn an incredible discovery that advances your understanding of your field.
 

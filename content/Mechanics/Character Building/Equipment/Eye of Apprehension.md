@@ -8,7 +8,6 @@ tags:
 ---
 
 # Eye of Apprehension
-![[systems-pf2e-icons-equipment-consumables-talismans-eye-of-apprehension.webp|150]]
 
 **Activate** F (concentrate)
 

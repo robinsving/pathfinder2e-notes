@@ -8,7 +8,6 @@ tags:
 ---
 
 # Trustworthy Round
-![[systems-pf2e-icons-equipment-consumables-ammunition-trustworthy-round.webp|150]]
 
 **Ammunition** any
 

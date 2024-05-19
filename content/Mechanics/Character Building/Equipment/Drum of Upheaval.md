@@ -8,7 +8,6 @@ tags:
 ---
 
 # Drum of Upheaval
-![[systems-pf2e-icons-equipment-held-items-drum-of-upheaval.webp|150]]
 
 This heavy drum is engraved along the sides with images of centaurs in fierce combat. The drum grants you a +3 item bonus on Performance checks you make using the drum. Additionally, it imparts the rhythms of two songs upon your mind as soon as you touch it. One is a fast marching cadence; the other is a frenetic ritual dance. Each song has a different activation.
 

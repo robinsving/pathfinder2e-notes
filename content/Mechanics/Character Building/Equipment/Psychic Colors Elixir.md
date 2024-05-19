@@ -8,7 +8,6 @@ tags:
 ---
 
 # Psychic Colors Elixir
-![[systems-pf2e-icons-equipment-consumables-oils-anointing-oil.webp|150]]
 
 **Activate** 1 Interact
 

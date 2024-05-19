@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bone Dreadnought Plate
-![[icons-equipment-chest-breastplate-layered-gilded-black.webp|150]]
 
 **Activate** 1 Interact
 

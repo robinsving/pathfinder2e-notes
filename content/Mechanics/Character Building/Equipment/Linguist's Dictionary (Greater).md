@@ -8,7 +8,6 @@ tags:
 ---
 
 # Linguist's Dictionary (Greater)
-![[icons-sundries-books-book-symbol-square-blue-green.webp|150]]
 
 Bound in sturdy leather, this thick book has several colorful bookmarks and page dividers. Its title and text shift between numerous languages.
 

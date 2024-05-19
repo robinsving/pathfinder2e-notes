@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sixfingers Elixir (Lesser)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-sixfingers-elixir.webp|150]]
 
 **Activation** 1 Interact
 

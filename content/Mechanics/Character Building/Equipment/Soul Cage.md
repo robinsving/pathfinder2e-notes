@@ -8,7 +8,6 @@ tags:
 ---
 
 # Soul Cage
-![[systems-pf2e-icons-equipment-held-items-soul-cage.webp|150]]
 
 As you Craft your _soul cage_, you trap your soul within it, an integral part of the complicated process of becoming a lich. When you're destroyed, your soul flees to the _soul cage_, which rebuilds your undead body over the course of `dice: 1d10` days. Afterward, you manifest next to the _soul cage_, fully healed and in a new body (lacking any equipment you had on your old body). Only destroying your _soul cage_ can prevent you from returning.
 

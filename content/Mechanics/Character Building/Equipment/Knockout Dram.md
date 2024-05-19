@@ -8,7 +8,6 @@ tags:
 ---
 
 # Knockout Dram
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-knockout-dram.webp|150]]
 
 This soporific chemical comes in liquid form and is virtually undetectable by taste or scent. It's most commonly slipped into a victim's drink to quickly induce a deep unconsciousness.
 

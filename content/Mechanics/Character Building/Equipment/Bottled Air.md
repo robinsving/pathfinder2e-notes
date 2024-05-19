@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bottled Air
-![[systems-pf2e-icons-equipment-held-items-bottled-air.webp|150]]
 
 Appearing to be an ordinary corked glass bottle, this item contains a limitless supply of fresh air. You must uncork the bottle with an Interact action before you can activate it.
 

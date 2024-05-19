@@ -8,7 +8,6 @@ tags:
 ---
 
 # Corpsecaller Round
-![[systems-pf2e-icons-equipment-consumables-ammunition-corpsecaller-round.webp|150]]
 
 **Ammunition** round
 

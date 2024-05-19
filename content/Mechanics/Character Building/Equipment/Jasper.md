@@ -8,4 +8,3 @@ tags:
 ---
 
 # Jasper
-![[systems-pf2e-icons-equipment-treasure-gems-moderate-semiprecious-stones-jasper.webp|150]]

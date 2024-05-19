@@ -8,7 +8,6 @@ tags:
 ---
 
 # Thunderbird Tuft (Major)
-![[systems-pf2e-icons-equipment-treasure-gems-lesser-semiprecious-stones-tigers-eye.webp|150]]
 
 **Activate** Cast a Spell (add 1 action)
 

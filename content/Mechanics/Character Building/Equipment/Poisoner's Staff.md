@@ -8,7 +8,6 @@ tags:
 ---
 
 # Poisoner's Staff
-![[systems-pf2e-icons-equipment-staves-poisoners-staff.webp|150]]
 
 This gnarled staff is covered with thorns and coated with a glistening lacquer that acts as a minor irritant. While holding the staff, you aren't affected by its coating or thorns, and you reduce the DC of your flat checks to overcome persistent poison damage from 15 to 13.
 

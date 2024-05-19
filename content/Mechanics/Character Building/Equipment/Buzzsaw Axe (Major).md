@@ -8,7 +8,6 @@ tags:
 ---
 
 # Buzzsaw Axe (Major)
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-buzzsaw-axe.webp|150]]
 
 With an aerodynamic cutting edge and a curved handle, this _+3 major striking battle axe_ is perfectly suited to whirling motions, and in fact seems like it wants to whirl free from your grip. A Strike with this axe that benefits from the sweep trait's circumstance bonus on attack rolls also gains a +4 circumstance bonus to the damage roll.
 

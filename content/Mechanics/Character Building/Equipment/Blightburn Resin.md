@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blightburn Resin
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-blightburn-resin.webp|150]]
 
 This tacky, hardened sap is harvested from trees infected by fungal blights and exposed to open flames.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lucky Rabbit's Foot
-![[systems-pf2e-icons-equipment-consumables-talismans-lucky-rabbits-foot.webp|150]]
 
 **Usage** affixed to armor
 

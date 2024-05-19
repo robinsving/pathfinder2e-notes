@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mask of Allure
-![[systems-pf2e-icons-equipment-worn-items-apex-items-mask-of-allure.webp|150]]
 
 This mask appears to be a pool of mirrored, shifting silver adhered to a thin metal plate. When you place it against your face, it melds to the shape of your head. The material is breathable and light, and does not obscure vision. You gain a +2 item bonus to Deception, Diplomacy, Intimidation, and Performance checks while wearing the mask.
 

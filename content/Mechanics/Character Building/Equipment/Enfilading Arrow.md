@@ -8,7 +8,6 @@ tags:
 ---
 
 # Enfilading Arrow
-![[systems-pf2e-icons-equipment-consumables-ammunition-enfilading-arrow.webp|150]]
 
 **Ammunition** Arrow
 

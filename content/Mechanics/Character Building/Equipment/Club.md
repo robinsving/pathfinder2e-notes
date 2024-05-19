@@ -8,6 +8,5 @@ tags:
 ---
 
 # Club
-![[icons-weapons-clubs-club-banded-brown.webp|150]]
 
 This is a piece of stout wood shaped or repurposed to bludgeon an enemy. Clubs can be intricately carved pieces of martial art or as simple as a tree branch or piece of wood.

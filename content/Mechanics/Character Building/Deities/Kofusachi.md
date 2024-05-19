@@ -9,7 +9,6 @@ tags:
 ---
 
 # Kofusachi
-![[systems-pf2e-icons-deity-Kofusachi.webp|150]]
 
 **Edicts** Support local businesses, bring prosperity to your community, sample life's pleasures
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Liberator
-![[icons-creatures-birds-songbird-yellow-flying.webp|150]]
 
 You defend the freedom of others. You gain the [[Liberating Step]] champion's reaction and the [[Lay on Hands]] devotion spell. Your code gains the follow edicts and anathema:
 

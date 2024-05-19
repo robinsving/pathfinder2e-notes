@@ -8,7 +8,6 @@ tags:
 ---
 
 # Portable Weapon Mount (Shielded Tripod)
-![[systems-pf2e-icons-equipment-other-attached-items-shielded-tripod.webp|150]]
 
 Powerful firearms like the arquebus were originally used to defend fortifications or ships, mounted on casements or pintles to steady their aim and offset their recoil. More mobile means of stabilizing weapons with kickback were developed as firearms began to spread across the Inner Sea. The standard tripod takes an Interact action to deploy using one hand.
 

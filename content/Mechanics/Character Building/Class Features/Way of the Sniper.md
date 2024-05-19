@@ -9,7 +9,6 @@ tags:
 ---
 
 # Way of the Sniper
-![[systems-pf2e-icons-features-classes-way-of-the-sniper.webp|150]]
 
 You practice a style of shooting that relies on unerring accuracy and perfect placement of your first shot. You keep hidden or at a distance, staying out of the fray and bringing unseen death to your foes.
 

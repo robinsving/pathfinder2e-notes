@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gaffe Glasses
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-glasses-of-sociability.webp|150]]
 
 These wire-rim glasses appear to be _glasses of sociability_, making you think they grant a +1 item bonus to Diplomacy when they grant none. The GM secretly adjusts your Diplomacy checks to ignore the bonus, and if you have multiple +1 item bonuses to Diplomacy, the glasses take precedence, negating those bonuses.
 

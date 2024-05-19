@@ -8,7 +8,6 @@ tags:
 ---
 
 # Celestial Armor
-![[systems-pf2e-icons-equipment-armor-specific-magic-armor-celestial-armor.webp|150]]
 
 This suit of +2 resilient chain mail is made of fine white links of a strange and slightly translucent pale metal, and the sleeves and skirt are fashioned into smaller trails that resemble feathers. Unlike normal chain mail, celestial armor has no Speed reduction, its armor check penalty is 0, and its Bulk is 1.
 

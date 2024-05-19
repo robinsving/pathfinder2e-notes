@@ -8,7 +8,6 @@ tags:
 ---
 
 # Glue Bullet
-![[systems-pf2e-icons-equipment-consumables-ammunition-glue-bullet.webp|150]]
 
 **Ammunition** round
 

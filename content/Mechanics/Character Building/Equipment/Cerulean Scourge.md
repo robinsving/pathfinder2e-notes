@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cerulean Scourge
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-cerulean-scourge.webp|150]]
 
 Made from a carefully distilled blend of serpentine hemotoxins, the fast-acting cerulean scourge is infamous for transforming the blood vessels near the original wound, which glow with a bright blue light before painfully bursting.
 

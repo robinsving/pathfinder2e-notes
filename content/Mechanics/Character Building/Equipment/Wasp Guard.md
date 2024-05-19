@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wasp Guard
-![[icons-equipment-chest-breastplate-layered-leather-studded-brown.webp|150]]
 
 Druids and Calistria's faithful alike value this vindictive armor for its ability to turn away pests and exact revenge on foes in a manner that can easily turn coordinated enemies into a chaotic mass. _Wasp guard_ is _+1 studded leather_ studded with the carapaces of wasps, subtly diverting swarms away and granting a +1 status bonus to Reflex saving throws against Swarming Bites, Swarming Stings, and similar abilities from swarms.
 

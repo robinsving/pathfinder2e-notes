@@ -8,7 +8,6 @@ tags:
 ---
 
 # Brilliant
-![[systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
 
 This rune causes a weapon to transform into pure, brilliant energy. The weapon deals an additional 1d4 fire damage on a successful Strike, as well as 1d4 spirit damage to fiends and 1d4 vitality damage to undead.
 

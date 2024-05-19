@@ -8,7 +8,6 @@ tags:
 ---
 
 # Homeward Wayfinder
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-wayfinder.webp|150]]
 
 Homeward wayfinders are powerful escape tools in the hands of a Pathfinder agent, drawing upon a special connection to the Maze of the Open Road. In addition to the effects of a [[Wayfinder]], a homeward wayfinder attunes itself to the most recent Pathfinder Lodge you've visited and has the following activation.
 

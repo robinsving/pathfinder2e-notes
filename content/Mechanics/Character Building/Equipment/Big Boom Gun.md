@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Big Boom Gun
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-big-boom-gun.webp|150]]
 
 Developed by a goblin weaponsmith who missed the 'hand' part of 'hand cannon', this comically-oversized gun has a heavily reinforced barrel and is loaded with a worrisome quantity of gunpowder.
 

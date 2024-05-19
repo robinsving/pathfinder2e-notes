@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Arctic Vigor
-![[systems-pf2e-icons-equipment-tattoos-arctic-vigor.webp|150]]
 
 This tattoo takes the shape of the face of a roaring polar bear with piercing, ice-blue eyes. You don't take damage from extreme cold or severe cold.
 

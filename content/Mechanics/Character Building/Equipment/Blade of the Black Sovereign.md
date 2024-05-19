@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blade of the Black Sovereign
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-blade-of-the-black-soverign.webp|150]]
 
 This _+2 greater striking [[Shock]] greatsword_ is forged from standard-grade adamantine, with inlays of broken circuitry and a robot's ocular lens on the cross guard. A soft thrum comes from the blade, which you feel as a subtle pulse through the grip when wielding it. It sparks when unsheathed, emitting dim light within 5 feet.
 

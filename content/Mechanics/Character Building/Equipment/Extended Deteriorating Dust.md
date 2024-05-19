@@ -8,7 +8,6 @@ tags:
 ---
 
 # Extended Deteriorating Dust
-![[systems-pf2e-icons-equipment-consumables-other-consumables-deteriorating-dust.webp|150]]
 
 Contained in a specially enchanted small leather or hide sack, _deteriorating dust_ is a potent caustic agent and a prized item among Rovagug's more discreet followers.
 

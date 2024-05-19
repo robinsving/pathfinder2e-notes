@@ -9,7 +9,6 @@ tags:
 ---
 
 # Dream Research
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 **Trigger** You fall asleep within 5 miles of Xarwin Manor.
 

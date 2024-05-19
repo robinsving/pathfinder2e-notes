@@ -9,7 +9,6 @@ tags:
 ---
 
 # Affix a Talisman
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 **Requirements** You must use a [[Repair Toolkit]]
 

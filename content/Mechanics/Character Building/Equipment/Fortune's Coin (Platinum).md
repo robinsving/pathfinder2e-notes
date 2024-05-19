@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fortune's Coin (Platinum)
-![[icons-commodities-currency-coin-inset-lightning-silver.webp|150]]
 
 This coin is struck with the image of a beatific seraph in platinum on one side and a fearsome fiend with seven eyes enameled in black on the other. While it may seem nothing more than a curiosity, it's a powerful agent of fortune when activated.
 

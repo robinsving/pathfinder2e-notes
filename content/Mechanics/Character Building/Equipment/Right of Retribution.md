@@ -8,7 +8,6 @@ tags:
 ---
 
 # Right of Retribution
-![[systems-pf2e-icons-equipment-contracts-infernal-contracts-right-of-retribution.webp|150]]
 
 **Devil** [[Erinys]]
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tome of Dripping Shadows
-![[icons-sundries-books-book-face-black.webp|150]]
 
 This book constantly drips evanescent tendrils of shadow that seethe and writhe. The tendrils have a will of their own, retreating from light sources and curling toward darkness. While you hold the tome, you gain darkvision; if you already have darkvision, you gain greater darkvision instead. Preparing spells from this tome strengthens your shadow magic and gives you a greater understanding of shadow spells you add to this tome. Any shadow spells you prepare from this tome that are at least 2 levels lower than the highest-level spell you can cast are treated as 1 level higher for the purposes of counteracting them. When you add a shadow spell to this tome, you can prepare heightened versions of that spell up to the highest level of that spell that you are able to cast.
 

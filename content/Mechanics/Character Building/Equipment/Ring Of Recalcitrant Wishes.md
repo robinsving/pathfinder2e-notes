@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ring Of Recalcitrant Wishes
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-ring-of-maniacal-devices.webp|150]]
 
 This band of interwoven gold and copper, traced with Aklo symbols, is topped with a gleaming, luminescent opal gently bleeding wisps of shadowstuff.
 

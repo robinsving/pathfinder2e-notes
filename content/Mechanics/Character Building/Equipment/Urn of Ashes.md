@@ -8,7 +8,6 @@ tags:
 ---
 
 # Urn of Ashes
-![[systems-pf2e-icons-equipment-held-items-urn-of-ashes.webp|150]]
 
 This sealed pewter urn contains the ashes of a benevolent ancestor, with a sliver of lingering spirit that strives to protect you.
 

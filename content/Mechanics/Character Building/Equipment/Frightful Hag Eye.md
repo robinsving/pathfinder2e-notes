@@ -8,7 +8,6 @@ tags:
 ---
 
 # Frightful Hag Eye
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-hag-eye.webp|150]]
 
 This item appears to be an ordinary semiprecious stone and is typically mounted on a brooch or ring, but the stone is, in fact, an eyeball. This illusion can be seen through with true seeing or similar magic, and anyone who interacts with the item feels its wet and sticky surface, allowing them to attempt to disbelieve the illusion (DC 19). Many hags claim a hag eye is more effective if plucked from a living, awake creature, but this is likely just a convenient excuse for sadism.
 

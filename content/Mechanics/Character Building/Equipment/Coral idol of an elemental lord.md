@@ -8,4 +8,3 @@ tags:
 ---
 
 # Coral idol of an elemental lord
-![[icons-commodities-currency-coin-engraved-sun-smile-copper.webp|150]]

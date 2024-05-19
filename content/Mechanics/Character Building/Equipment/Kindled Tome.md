@@ -8,7 +8,6 @@ tags:
 ---
 
 # Kindled Tome
-![[icons-sundries-books-book-symbol-fire-gold-orange.webp|150]]
 
 **Perception** +17; precise vision 30 feet, imprecise hearing 30 feet, imprecise sense of heat 30 feet
 

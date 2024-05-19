@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Black Hole Armor
-![[icons-equipment-chest-breastplate-layered-gilded-black.webp|150]]
 
 The joints of this black _+2 greater resilient fortification fortress plate_ look like swirling vortices of silver. Non-magical ammunition and thrown weapons aimed at you are destroyed after they hit you and deal damage or miss you. You also have resistance 10 to physical damage from ranged attacks.
 

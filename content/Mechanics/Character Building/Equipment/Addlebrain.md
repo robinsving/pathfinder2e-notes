@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Addlebrain
-![[icons-commodities-materials-bowl-powder-grey.webp|150]]
 
 Certain Scarlet Triad poisoners use toxins like addlebrain to keep captured prisoners docile and compliant for short periods of time until they can be properly shackled and imprisoned. Addlebrain is distilled from a hallucinogenic lichen that can often be found growing in the sewers below particularly large cities like Katapesh.
 

@@ -10,7 +10,6 @@ tags:
 ---
 
 # Silver Salve
-![[icons-consumables-drinks-alcohol-spirits-bottle-blue.webp|150]]
 
 **Activate** A (manipulate)
 

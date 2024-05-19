@@ -8,7 +8,6 @@ tags:
 ---
 
 # Red Thread Knot
-![[systems-pf2e-icons-equipment-consumables-talismans-fade-band.webp|150]]
 
 This small length of red thread is knotted six times, with a loop at each end so it can either be worn as a bracelet or anklet, or hung from a strap.
 

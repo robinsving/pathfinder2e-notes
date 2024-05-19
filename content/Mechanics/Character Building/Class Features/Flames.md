@@ -9,7 +9,6 @@ tags:
 ---
 
 # Flames
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-magic-fire-flame-burning-campfire-orange.webp|150]]
 
 Fire lives at the center of the world, the center of the sun, and the center of civilization. You might revere this elemental force, siphon power from the Elemental Plane of Fire, or venerate a collection of deities such as Asmodeus, Sarenrae, the Tian goddess of disasters and volcanoes Lady Nanbyo, or the elemental lord of fire Ymeri.
 

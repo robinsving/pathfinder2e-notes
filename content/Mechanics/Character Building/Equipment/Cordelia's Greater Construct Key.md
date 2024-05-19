@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cordelia's Greater Construct Key
-![[icons-equipment-neck-necklace-triquetra-silver.webp|150]]
 
 Worn on a necklace, this intricate key grants you greater facility with constructs. The key alerts you to constructs lurking around you. Whether or not you are Investigating, the GM automatically rolls secret Recall Knowledge checks for you when you see a construct pretending to be a normal object, statue, or the like. Typically, this check is Arcana, Crafting, or an appropriate Lore skill. On a success, you recognize the presence of the construct and gain the usual benefits of Recall Knowledge.
 

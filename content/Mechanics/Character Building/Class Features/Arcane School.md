@@ -9,7 +9,6 @@ tags:
 ---
 
 # Arcane School
-![[icons-magic-symbols-question-stone-yellow.webp|150]]
 
 Most wizards acquire their knowledge of spells from a formal educational institution, such as the Arcanamirium or the Magaambya. At 1st level, you choose your arcane school, which grants you magical abilities.
 

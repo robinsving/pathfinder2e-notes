@@ -12,6 +12,5 @@ tags:
 ---
 
 # Will Expertise
-![[systems-pf2e-icons-features-classes-walls-of-will.webp|150]]
 
 Your mental defenses grow stronger. Your proficiency rank for Will saves increases to expert.

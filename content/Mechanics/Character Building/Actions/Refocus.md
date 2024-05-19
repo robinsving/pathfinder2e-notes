@@ -9,7 +9,6 @@ tags:
 ---
 
 # Refocus
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 **Requirements** You have a focus pool, and you have spent at least 1 Focus Point since you last regained any Focus Points.
 

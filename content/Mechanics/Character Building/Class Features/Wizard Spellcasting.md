@@ -11,7 +11,6 @@ tags:
 ---
 
 # Wizard Spellcasting
-![[icons-sundries-books-book-eye-purple.webp|150]]
 
 Through dedicated study and practice, you can construct spells with academic rigor by shaping arcane magic. You are a spellcaster, and you can cast spells of the arcane tradition using the Cast a Spell activity. As a wizard, when you cast spells, your incantations likely specify exactly what forces you call on and how to shape them, and your gestures precisely shape and direct your magic while circles of arcane runes flare to life.
 

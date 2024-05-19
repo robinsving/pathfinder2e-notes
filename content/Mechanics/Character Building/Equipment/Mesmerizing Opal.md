@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mesmerizing Opal
-![[systems-pf2e-icons-equipment-consumables-talismans-mesmerizing-opal.webp|150]]
 
 **Activate** A (concentrate)
 

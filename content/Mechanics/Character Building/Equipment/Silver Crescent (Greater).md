@@ -8,7 +8,6 @@ tags:
 ---
 
 # Silver Crescent (Greater)
-![[icons-consumables-food-candy-taffy-blue-white.webp|150]]
 
 A piquant tamarind and chili-lime flavor infuses a silver crescent, which was first created to aid those battling the undead. For 1 hour, you shed cool, white light like a torch, and you gain a +3 item bonus to saving throws against olfactory effects. While shedding this light, you can't be [[Concealed]] if you're visible, and if you're [[Invisible]], you're concealed instead rather than being undetected.
 

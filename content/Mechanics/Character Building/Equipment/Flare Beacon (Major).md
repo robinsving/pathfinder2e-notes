@@ -8,7 +8,6 @@ tags:
 ---
 
 # Flare Beacon (Major)
-![[systems-pf2e-icons-equipment-held-items-flare-beacon.webp|150]]
 
 **Activate** d Interact
 

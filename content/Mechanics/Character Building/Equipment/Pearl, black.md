@@ -8,4 +8,3 @@ tags:
 ---
 
 # Pearl, black
-![[systems-pf2e-icons-equipment-treasure-gems-lesser-precious-stones-black-pearl.webp|150]]

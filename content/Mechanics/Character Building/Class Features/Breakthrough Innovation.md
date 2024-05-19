@@ -9,7 +9,6 @@ tags:
 ---
 
 # Breakthrough Innovation
-![[systems-pf2e-icons-features-classes-breakthrough-innovation.webp|150]]
 
 You've made a breakthrough in your field of study and discovered a powerful new way to enhance your innovation. Choose a breakthrough modification of your innovation's type to apply to your innovation. You can choose an initial modification of your innovation's type instead if you prefer.
 

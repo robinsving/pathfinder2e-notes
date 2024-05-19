@@ -8,7 +8,6 @@ tags:
 ---
 
 # Resonating Ammunition (Arrow)
-![[systems-pf2e-icons-equipment-consumables-ammunition-resonating-ammunition.webp|150]]
 
 **Activate** 1 Interact
 

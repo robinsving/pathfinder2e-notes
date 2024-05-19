@@ -8,7 +8,6 @@ tags:
 ---
 
 # Harrow Deck (Common)
-![[Mechanics/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-adventuring-gear-harrow-deck.webp|150]]
 
 Used by gamblers and seers alike, this deck of cards comes in several varieties.
 

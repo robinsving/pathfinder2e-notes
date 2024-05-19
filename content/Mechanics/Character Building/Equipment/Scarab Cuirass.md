@@ -8,7 +8,6 @@ tags:
 ---
 
 # Scarab Cuirass
-![[systems-pf2e-icons-equipment-armor-specific-magic-armor-scarab-cuirass.webp|150]]
 
 The cuirass of this _+1 deathless resilient leather armor_, stitched to resemble an Osiriani scarab beetle, feels strangely chitinous. You gain resistance 5 to void damage.
 

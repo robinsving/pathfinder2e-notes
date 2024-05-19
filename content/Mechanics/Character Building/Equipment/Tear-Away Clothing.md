@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tear-Away Clothing
-![[icons-equipment-chest-shirt-simple-white.webp|150]]
 
 **Usage** modifies existing clothing.
 

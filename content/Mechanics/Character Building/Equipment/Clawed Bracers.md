@@ -8,7 +8,6 @@ tags:
 ---
 
 # Clawed Bracers
-![[icons-equipment-hand-gauntlet-clawed-steel.webp|150]]
 
 Animal claws are woven into the thick leather of these bracers.
 

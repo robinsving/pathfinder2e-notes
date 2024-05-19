@@ -8,7 +8,6 @@ tags:
 ---
 
 # Elsie's Excellent Bottled Vim
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-drakeheart-mutagen.webp|150]]
 
 **Activate** 1 Interact
 

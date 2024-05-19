@@ -9,7 +9,6 @@ tags:
 ---
 
 # Catharsis Emotion (Hatred)
-![[Mechanics/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-spells-bestial-curse.webp|150]]
 
 Your unabashed hatred consumes your soul and causes your foe to falter. Your emotional focus is an individual enemy you detest.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Energetic Meltdown
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-magic-unholy-strike-body-explode-disintegrate.webp|150]]
 
 As you channel energy through your deviant abilities, some of it turns back on you, spiking your body temperature or dancing across your skin.
 

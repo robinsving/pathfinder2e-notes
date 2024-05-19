@@ -9,7 +9,6 @@ tags:
 ---
 
 # Alchemy
-![[systems-pf2e-icons-features-classes-alchemy.webp|150]]
 
 You understand the complex interactions of natural and unnatural substances and can concoct alchemical items to meet your needs. You can do this using normal reagents and the Craft activity, or you can use special infused reagents that allow you to craft temporary items quickly and at no cost. Over time, you can create more and more alchemical items for free, and since each of them becomes more and more powerful, you advance in power dramatically, leaving behind those who don't understand your strange science.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Nightmare Cudgel
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-nightmare-cudgel.webp|150]]
 
 Crafted from polished wood, this seemingly mundane _+1 striking [[Club]]_ comes with a red leather strap near the handle. The mere sight of the cudgel in a guard's hand fills prisoners with dread.
 

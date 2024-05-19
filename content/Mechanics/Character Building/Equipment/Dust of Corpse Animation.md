@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dust of Corpse Animation
-![[icons-containers-bags-coinpouch-leather-grey.webp|150]]
 
 **Activate** 2 Interact
 

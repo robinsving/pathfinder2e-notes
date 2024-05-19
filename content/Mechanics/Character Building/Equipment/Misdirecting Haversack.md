@@ -8,7 +8,6 @@ tags:
 ---
 
 # Misdirecting Haversack
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-misdirecting-haversack.webp|150]]
 
 This brown leather satchel is made from a heavily oiled and rustic leather. The satchel is large enough to hold up to 1 Bulk worth of items.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pirate Staff
-![[systems-pf2e-icons-equipment-staves-pirate-staff.webp|150]]
 
 Carved of driftwood stained white with the salt of the sea, a _pirate staff_ has jewels and gold pieces embedded in the wood. A skull and crossbones sit on top. When used as a weapon, the staff is a _+2 striking fearsome_ staff. While wielding the staff, you gain a +2 circumstance bonus to Intimidation checks to [[Coerce]].
 

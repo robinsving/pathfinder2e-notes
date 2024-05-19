@@ -8,7 +8,6 @@ tags:
 ---
 
 # Granny's Hedge Trimmer
-![[icons-weapons-polearms-spear-hooked-double-jeweled.webp|150]]
 
 **Usage** Two hands
 

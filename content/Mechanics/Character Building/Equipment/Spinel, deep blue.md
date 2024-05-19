@@ -8,4 +8,3 @@ tags:
 ---
 
 # Spinel, deep blue
-![[systems-pf2e-icons-equipment-treasure-gems-greater-semiprecious-stones-deep-blue-spinel.webp|150]]

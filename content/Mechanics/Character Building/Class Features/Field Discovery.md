@@ -9,6 +9,5 @@ tags:
 ---
 
 # Field Discovery
-![[icons-magic-symbols-question-stone-yellow.webp|150]]
 
 You learn a special discovery depending on your field.

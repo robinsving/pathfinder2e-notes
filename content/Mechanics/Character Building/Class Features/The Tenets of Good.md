@@ -9,7 +9,6 @@ tags:
 ---
 
 # The Tenets of Good
-![[icons-sundries-books-book-tooled-blue-yellow.webp|150]]
 
 You gain the holy trait and add that trait to any Strikes you make. In addition to your other edicts and anathema, you gain the following:
 

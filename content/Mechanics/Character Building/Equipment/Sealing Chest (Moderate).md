@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sealing Chest (Moderate)
-![[systems-pf2e-icons-equipment-held-items-sealing-chest.webp|150]]
 
 Vigilant Seal members use these containers when transporting samples and relics.
 

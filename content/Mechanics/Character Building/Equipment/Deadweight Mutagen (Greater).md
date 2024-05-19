@@ -8,7 +8,6 @@ tags:
 ---
 
 # Deadweight Mutagen (Greater)
-![[icons-consumables-potions-potion-vial-corked-labeled-purple.webp|150]]
 
 **Activate** 1 Interact
 

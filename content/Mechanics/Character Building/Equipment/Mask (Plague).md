@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mask (Plague)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-mask-plague.webp|150]]
 
 A mask helps you use the [[Impersonate]] action to pass yourself off as someone you aren't.
 

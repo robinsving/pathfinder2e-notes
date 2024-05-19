@@ -8,7 +8,6 @@ tags:
 ---
 
 # Salve of Slipperiness
-![[systems-pf2e-icons-equipment-consumables-oils-salve-of-slipperiness.webp|150]]
 
 **Activate** A Interact
 

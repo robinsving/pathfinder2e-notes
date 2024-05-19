@@ -8,7 +8,6 @@ tags:
 ---
 
 # Noqual Chunk
-![[systems-pf2e-icons-equipment-materials-noqual-chunk.webp|150]]
 
 Light and strong, noqual also demonstrates a powerful resistance to magic. A side effect of this resistance is that making magical weapons out of noqual requires complex and expensive alchemical treatments. Kevoth-Kul, the Black Sovereign of Numeria, has developed an alloy of noqual and cold iron known as sovereign steel to help mitigate this property. The metal's crystalline appearance might suggest that it's fragile, but the pale-green material can be worked similarly to iron.
 

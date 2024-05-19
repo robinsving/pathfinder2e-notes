@@ -9,7 +9,6 @@ tags:
 ---
 
 # Torag
-![[systems-pf2e-icons-deity-Torag.webp|150]]
 
 Although revered by many dwarves as the Father of Creation, Torag strives to protect every community where he is worshipped and is also followed by those who treasure crafting and creation.
 

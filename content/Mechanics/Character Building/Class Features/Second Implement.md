@@ -9,7 +9,6 @@ tags:
 ---
 
 # Second Implement
-![[systems-pf2e-icons-features-classes-second-implement.webp|150]]
 
 You've added another implement of power to your toolkit. You choose a second implement, which must be a different type of implement than your first. You gain the initiate benefit of your new implement.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Coronet of Stars
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-crown-of-the-fire-eater.webp|150]]
 
 This short golden crown bears a number of gems, each placed in the center of an engraving of a star. While wearing the crown, you are overcome with a nurturing instinct and understand the best ways to help others. You gain a +3 item bonus to Medicine checks. When you invest the crown, you either increase your Wisdom score by 2 or increase it to 18, whichever would give you a higher score.
 

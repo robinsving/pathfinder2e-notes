@@ -8,7 +8,6 @@ tags:
 ---
 
 # Immaculate Holsters
-![[icons-equipment-waist-belt-coiled-leather-steel.webp|150]]
 
 This pristine leather belt is made of treated and polished black leather with silver fittings; it features a pair of matching leather holsters that can each fit a one-handed firearm or hand crossbow.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Strategic Strike
-![[systems-pf2e-icons-features-classes-strategic-strike.webp|150]]
 
 When you strike carefully and with forethought, you deal a telling blow. When making a Strike that adds your Intelligence modifier on your attack roll due to [[Devise a Stratagem|Devising a Stratagem]], you deal an additional 1d6 precision damage.
 

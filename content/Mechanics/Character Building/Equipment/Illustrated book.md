@@ -8,4 +8,3 @@ tags:
 ---
 
 # Illustrated book
-![[icons-sundries-books-book-backed-blue-gold.webp|150]]

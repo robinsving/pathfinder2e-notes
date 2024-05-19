@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ring of Torag
-![[icons-equipment-finger-ring-cabochon-squared-gold-red.webp|150]]
 
 This simple golden ring has a large, red gemstone set into it that sparkles with an inner fire.
 

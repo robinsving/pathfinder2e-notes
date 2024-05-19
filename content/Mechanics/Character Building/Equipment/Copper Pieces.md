@@ -8,4 +8,3 @@ tags:
 ---
 
 # Copper Pieces
-![[systems-pf2e-icons-equipment-treasure-currency-copper-pieces.webp|150]]

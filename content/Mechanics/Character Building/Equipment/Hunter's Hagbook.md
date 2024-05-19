@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hunter's Hagbook
-![[icons-sundries-books-book-tooled-gold-brown.webp|150]]
 
 This magical book has its official title, The _Grimoire of Lady Jayne Cutter_, written on an inside page in illuminated letters. Among occultists and other scholars, it's known by its colloquial name: the Hunter's Hagbook. The book is a grimoire created and used by a legendary Varisian monster hunter. The _Hunter's Hagbook_ can hold 100 spells but the spells below are always present in the book, can't be removed from it, and count against the total.
 

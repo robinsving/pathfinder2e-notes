@@ -8,7 +8,6 @@ tags:
 ---
 
 # Unending Youth
-![[systems-pf2e-icons-equipment-contracts-infernal-contracts-unending-youth.webp|150]]
 
 You cease aging, and if you were older than young adult in age, you become a young adult again. You gain a +4 status bonus to saves against death effects and resistance to void damage equal to half your level.
 

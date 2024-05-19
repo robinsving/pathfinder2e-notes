@@ -9,7 +9,6 @@ tags:
 ---
 
 # Craft Disharmonic Instrument
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 **Requirements** Legendary in Crafting
 

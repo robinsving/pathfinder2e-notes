@@ -8,4 +8,3 @@ tags:
 ---
 
 # Chrysoprase
-![[systems-pf2e-icons-equipment-treasure-gems-moderate-semiprecious-stones-chrysoprase.webp|150]]

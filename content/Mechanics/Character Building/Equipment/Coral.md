@@ -8,4 +8,3 @@ tags:
 ---
 
 # Coral
-![[systems-pf2e-icons-equipment-treasure-gems-greater-semiprecious-stones-coral.webp|150]]

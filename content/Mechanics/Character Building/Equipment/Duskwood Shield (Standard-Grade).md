@@ -8,7 +8,6 @@ tags:
 ---
 
 # Duskwood Shield (Standard-Grade)
-![[systems-pf2e-icons-equipment-shields-precious-material-shields-darkwood-shield.webp|150]]
 
 Duskwood shields are 1 Bulk lighter than normal (or light Bulk if their normal Bulk is 1, with no effect on a shield that normally has light Bulk).
 

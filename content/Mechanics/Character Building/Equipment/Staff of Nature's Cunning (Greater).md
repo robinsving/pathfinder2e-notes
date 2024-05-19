@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Nature's Cunning (Greater)
-![[icons-weapons-staves-staff-forest-gold.webp|150]]
 
 Moss and winding vines give this gnarled staff of wild wood a vibrant green tinge. You created this staff to aid you in speaking to the plants you met on your adventure and beseeching them to come to your aid.
 

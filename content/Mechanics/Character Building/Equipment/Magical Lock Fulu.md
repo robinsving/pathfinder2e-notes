@@ -8,7 +8,6 @@ tags:
 ---
 
 # Magical Lock Fulu
-![[systems-pf2e-icons-equipment-consumables-fulus-fulu-modest.webp|150]]
 
 **Usage** affixed to a door, window, or container
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Engulfing Snare
-![[systems-pf2e-icons-equipment-snares-engulfing-snare.webp|150]]
 
 You arrange a spiky cage of bones, particularly tough vegetation, or other material to spring up when disturbed. The snare deals 9d8 piercing damage to the first creature to enter this square; that creature must attempt a DC 31 reflex save.
 

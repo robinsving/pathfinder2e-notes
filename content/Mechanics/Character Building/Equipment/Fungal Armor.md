@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fungal Armor
-![[icons-equipment-chest-breastplate-collared-steel-green.webp|150]]
 
 This _+2 greater resilient [[Studded Leather Armor]]_ is made of hardened fungus. Every day the armor grows dozens of unusual mushrooms that can be used for cooking, infused reagents, or common spell material components.
 

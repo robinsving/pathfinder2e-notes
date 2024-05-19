@@ -8,6 +8,5 @@ tags:
 ---
 
 # Writing Set (Extra Ink and Paper)
-![[icons-sundries-scrolls-scroll-plain-tan.webp|150]]
 
 Extra ink and paper to refill your writing set.

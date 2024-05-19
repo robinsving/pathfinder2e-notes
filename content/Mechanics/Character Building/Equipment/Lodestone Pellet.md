@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lodestone Pellet
-![[systems-pf2e-icons-equipment-consumables-ammunition-rounds-large.webp|150]]
 
 **Ammunition** pellet
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Traitor's Ring
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-traitors-ring.webp|150]]
 
 **Access** Member of a secret society
 

@@ -11,6 +11,5 @@ tags:
 ---
 
 # Reflex Expertise
-![[systems-pf2e-icons-features-classes-lightning-reflexes.webp|150]]
 
 You've developed a knack for dodging danger. Your proficiency rank for Reflex saves increases to expert.

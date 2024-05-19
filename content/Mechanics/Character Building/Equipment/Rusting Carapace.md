@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rusting Carapace
-![[icons-equipment-chest-breastplate-scale-leather.webp|150]]
 
 This _+1 leather lamellar_ armor incorporates the plates of a rust monster's hide, woven together with the creature's own antennae and sinew into a functional set of armor. While wearing the _rusting carapace_, you gain a +2 item bonus to your Reflex save to prevent an object you're holding from being affected by rust; this also increases your Reflex DC to avoid being Disarmed by a rust monster's Antenna [[Disarm]] ability.
 

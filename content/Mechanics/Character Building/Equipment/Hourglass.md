@@ -8,4 +8,3 @@ tags:
 ---
 
 # Hourglass
-![[systems-pf2e-icons-equipment-adventuring-gear-hourglass.webp|150]]

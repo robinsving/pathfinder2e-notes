@@ -9,6 +9,5 @@ tags:
 ---
 
 # Alchemist Armor Expertise (Level 13)
-![[systems-pf2e-icons-features-classes-light-armor-expertise.webp|150]]
 
 You've learned how to dodge while wearing medium, light or no armor. Your proficiency ranks for medium armor, light armor and unarmored defense increase to expert.

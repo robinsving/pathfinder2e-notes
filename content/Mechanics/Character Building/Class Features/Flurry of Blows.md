@@ -9,7 +9,6 @@ tags:
 ---
 
 # Flurry of Blows
-![[systems-pf2e-icons-features-classes-flurry-of-blows.webp|150]]
 
 You can attack rapidly with fists, feet, elbows, knees, and other unarmed attacks. You gain the Flurry of Blows action.
 

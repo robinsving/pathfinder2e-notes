@@ -8,7 +8,6 @@ tags:
 ---
 
 # Codebreaker's Parchment (Major)
-![[icons-sundries-scrolls-scroll-worn-tan.webp|150]]
 
 This finely crafted, seemingly mundane parchment is useful for writing sensitive documents. When words are written on this parchment, they instantly scramble into unrecognizable script, requiring a DC 40 check with legendary proficiency to Decipher Writing.
 

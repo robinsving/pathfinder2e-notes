@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tracker's Goggles (Greater)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-trackers-goggles.webp|150]]
 
 These lenses of forest-green glass are bound in rough leather stitched with crude twine.
 

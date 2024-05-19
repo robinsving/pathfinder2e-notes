@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vaccine (Major)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-vaccine.webp|150]]
 
 **Activate** 1 Interact
 

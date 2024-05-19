@@ -8,7 +8,6 @@ tags:
 ---
 
 # Starfaring Cloak
-![[icons-equipment-back-cloak-collared-blue-gold.webp|150]]
 
 The swirling folds of a _starfaring cloak_ appear to contain the night sky, with the stars rotating hypnotically through its firmament shedding dim light to a range of 10 feet. While wearing the cloak, you gain a +10-foot item bonus to your Speed and a fly Speed equal to your Speed. You can survive comfortably without breathing, in the void of space, and in severe or extreme cold or heat. Also, you gain sustenance from starlight and sunlight, so if you're outdoors for an hour or more per day, you don't need to eat or drink. While wearing the cloak, you can navigate perfectly and unerringly by looking up at the sky.
 

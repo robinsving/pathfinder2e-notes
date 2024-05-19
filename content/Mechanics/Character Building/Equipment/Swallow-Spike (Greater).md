@@ -8,7 +8,6 @@ tags:
 ---
 
 # Swallow-Spike (Greater)
-![[systems-pf2e-icons-equipment-runes-armor-property-runes-armor-property-runes.webp|150]]
 
 Your armor responds to your desire to break free of a creature grabbing you by growing spikes.
 

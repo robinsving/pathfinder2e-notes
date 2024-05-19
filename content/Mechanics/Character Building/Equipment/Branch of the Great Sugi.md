@@ -8,7 +8,6 @@ tags:
 ---
 
 # Branch of the Great Sugi
-![[Mechanics/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-weapons-whip.webp|150]]
 
 This large tree branch is alive, despite having been harvested from the sugi tree it once belonged to. This long, flexible, and limber branch is a _+1 striking whip_. When used to Strike, the branch snaps with the sound of a cracking whip but fills the air surrounding the point of impact with the pleasant scent of freshly cut cedar and a sprinkling of fallen leaves on the ground.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Nauseating Snare
-![[icons-commodities-materials-slime-thick-green.webp|150]]
 
 You position particularly foul substances to splash over a creature. The first creature to enter the square must attempt a DC 20 fortitude saving throw.
 

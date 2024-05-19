@@ -9,7 +9,6 @@ tags:
 ---
 
 # Strained Metabolism
-![[Mechanics/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-spells-putrefy-food-and-drink.webp|150]]
 
 Your body's overclocked physiology requires larger-than-usual amounts of nourishment, leaving you weakened when it kicks in mid-combat.
 

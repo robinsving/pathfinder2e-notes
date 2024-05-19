@@ -8,7 +8,6 @@ tags:
 ---
 
 # Obsidian Edge
-![[icons-weapons-axes-axe-battle-elemental-lava.webp|150]]
 
 This black obsidian blade is a _+1 striking gun sword_. Magma seeps along its many cracks and crags, and the handle is hot but not scalding to the touch. Strikes with this gun sword deal 1 extra fire damage.
 

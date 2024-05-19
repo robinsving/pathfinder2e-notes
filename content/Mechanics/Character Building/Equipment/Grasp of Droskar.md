@@ -8,7 +8,6 @@ tags:
 ---
 
 # Grasp of Droskar
-![[icons-equipment-hand-gauntlet-tooled-steel.webp|150]]
 
 This _+1 striking [[Gauntlet]]_ appears little more than a dull, soot-stained, metal-plated glove at first glance, but in truth it is an invasive boon granted by Droskar to his most faithful subjects. Placing the glove on your hand causes excruciating pain as your appendage curls into a tight fist and then slowly transforms to a supernaturally hard ball of black stone, fusing to you and preventing you from using this hand for anything other than gauntlet Strikes or the _grasp of Droskar_'s activated abilities (a _grasp of Droskar_ does not have the free-hand weapon trait). The gauntlet can't be removed without a successful casting of remove curse or a similar spell. The gauntlet reverts to normal (and can be removed with ease) if the curse is removed, the hand is removed from the body, or the wearer dies.
 

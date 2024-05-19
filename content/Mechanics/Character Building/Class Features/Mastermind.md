@@ -9,7 +9,6 @@ tags:
 ---
 
 # Mastermind
-![[systems-pf2e-icons-features-classes-mastermind.webp|150]]
 
 You rely on your intellect to craft intricate schemes, planning 10 steps ahead where others might plan three. You might be a driven detective, a spymaster in the service of a powerful house, or an aspiring crime lord or information broker.
 

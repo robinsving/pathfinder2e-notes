@@ -8,7 +8,6 @@ tags:
 ---
 
 # Class Kit (Swashbuckler)
-![[systems-pf2e-icons-equipment-adventuring-gear-classkit-swashbuckler.webp|150]]
 
 **Armor** leather armor
 

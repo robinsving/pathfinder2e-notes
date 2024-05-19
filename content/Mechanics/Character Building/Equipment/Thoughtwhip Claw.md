@@ -8,7 +8,6 @@ tags:
 ---
 
 # Thoughtwhip Claw
-![[icons-skills-melee-unarmed-punch-fist-yellow-red.webp|150]]
 
 Abraxas teaches that minds can be robbed as surely as pockets. This tattoo of a clenched fist provides a +2 item bonus to Thievery checks.
 

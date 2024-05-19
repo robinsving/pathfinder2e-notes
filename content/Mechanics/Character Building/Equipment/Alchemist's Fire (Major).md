@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Alchemist's Fire (Major)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-bombs-alchemists-fire.webp|150]]
 
 **Activate** A Strike
 

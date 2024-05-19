@@ -8,4 +8,3 @@ tags:
 ---
 
 # Bloodstone
-![[systems-pf2e-icons-equipment-treasure-gems-moderate-semiprecious-stones-bloodstone.webp|150]]

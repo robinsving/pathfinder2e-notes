@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Black Adder Venom
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-black-adder-venom.webp|150]]
 
 Adder venom is a simple but effective way to enhance a weapon.
 

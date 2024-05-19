@@ -9,7 +9,6 @@ tags:
 ---
 
 # Polymath
-![[systems-pf2e-icons-features-classes-polymath.webp|150]]
 
 Your muse is a jack of all trades, flitting between skills and pursuits. Some bards are constantly moved by new muses or draw their inspiration from an idealized being, whether it's based on a real person or purely philosophical. If your muse is a single creature, it might be an eclectic creature like a fey or one who's learned a lot over a long lifespan; if a deity, it might be Desna or Calistria. Art inspired by a polymath muse is restless, with each composition exhibiting new techniques and an ever-evolving style.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Malyass Root Paste
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-malyass-root-paste.webp|150]]
 
 Malyass root paste sees use to impede opponents in athletic competitions, in addition to espionage and tracking.
 

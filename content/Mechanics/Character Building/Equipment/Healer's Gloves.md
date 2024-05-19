@@ -8,7 +8,6 @@ tags:
 ---
 
 # Healer's Gloves
-![[icons-equipment-hand-glove-simple-cloth-white.webp|150]]
 
 These clean, white gloves never show signs of blood, even when used to stitch up wounds or treat other ailments. They give you a +1 item bonus to Medicine checks.
 

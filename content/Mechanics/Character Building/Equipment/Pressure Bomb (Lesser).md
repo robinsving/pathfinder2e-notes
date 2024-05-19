@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pressure Bomb (Lesser)
-![[icons-weapons-thrown-bomb-pressure-black.webp|150]]
 
 **Activate** 1 Strike
 

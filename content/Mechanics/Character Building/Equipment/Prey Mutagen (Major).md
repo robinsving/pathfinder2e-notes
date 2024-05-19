@@ -8,7 +8,6 @@ tags:
 ---
 
 # Prey Mutagen (Major)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-prey-mutagen.webp|150]]
 
 **Activate** 1 Interact
 

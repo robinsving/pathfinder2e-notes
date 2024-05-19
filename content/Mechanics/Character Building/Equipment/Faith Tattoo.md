@@ -8,7 +8,6 @@ tags:
 ---
 
 # Faith Tattoo
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-magic-symbols-star-inverted-yellow.webp|150]]
 
 **Prerequisites** worshipper of a deity, alignment matching the deity's follower alignments
 

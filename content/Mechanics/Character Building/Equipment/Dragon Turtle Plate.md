@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dragon Turtle Plate
-![[icons-equipment-chest-breastplate-gorget-steel-white.webp|150]]
 
 This harness of _+1 resilient half plate_ is made from the shell plates of a dragon turtle and has the aquadynamic trait. Fashioned from organic material, the suit is one of the few heavy armors not anathema to druids.
 

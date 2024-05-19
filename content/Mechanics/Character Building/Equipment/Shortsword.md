@@ -8,6 +8,5 @@ tags:
 ---
 
 # Shortsword
-![[icons-weapons-swords-sword-guard-purple.webp|150]]
 
 These blades come in a variety of shapes and styles, but they are typically 2 feet long.

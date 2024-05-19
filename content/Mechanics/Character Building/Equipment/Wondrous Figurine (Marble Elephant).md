@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wondrous Figurine (Marble Elephant)
-![[systems-pf2e-icons-equipment-held-items-wondrous-figurine-marble-elephant.webp|150]]
 
 Finely carved from a solid piece of marble, this gleaming elephant statuette becomes a fully grown [[Elephant]] when activated.
 

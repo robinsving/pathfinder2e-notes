@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cassock of Devotion
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-cassock-of-devotion.webp|150]]
 
 Each _cassock of devotion_ depicts scenes related to the domains of a certain deity. It serves as a religious symbol of that deity, and it doesn't need to be wielded to provide that benefit. You gain a +2 item bonus to Religion checks and a +1 item bonus to the divine skill of the deity to whom the cassock is dedicated.
 

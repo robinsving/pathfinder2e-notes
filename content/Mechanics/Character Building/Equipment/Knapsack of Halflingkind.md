@@ -8,7 +8,6 @@ tags:
 ---
 
 # Knapsack of Halflingkind
-![[icons-containers-bags-pouch-simple-leather-tan.webp|150]]
 
 This sturdy leather satchel contains three compartments fastened with large clasps. The first compartment is lined in blue satin and contains an extradimensional space equivalent to a [[Spacious Pouch (Type II)|Bag of Holding (Type II)]].
 

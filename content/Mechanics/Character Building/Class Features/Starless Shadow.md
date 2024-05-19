@@ -9,7 +9,6 @@ tags:
 ---
 
 # Starless Shadow
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-magic-perception-eye-ringed-glow-angry-small-teal.webp|150]]
 
 Your patron first contacted you at the witching hour, as your body lay paralyzed by sleep while your mind had yet to escape the waking world. Your patron might be a creature of the Netherworld or a long-forgotten spirit of twilight—all you remember of them are haunting eyes of moonlight, offering you power from the darkness.
 

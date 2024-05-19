@@ -8,7 +8,6 @@ tags:
 ---
 
 # Conrasu Coin (Bythos)
-![[systems-pf2e-icons-equipment-consumables-talismans-conrasu-coin.webp|150]]
 
 **Activate** F envision
 

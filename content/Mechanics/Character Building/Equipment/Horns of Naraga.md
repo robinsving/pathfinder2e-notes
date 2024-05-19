@@ -8,7 +8,6 @@ tags:
 ---
 
 # Horns of Naraga
-![[icons-equipment-head-helm-barbute-horned-grey.webp|150]]
 
 This imposing helm bears the horns of a powerful black dragon. While wearing the Horns of Naraga, you gain greater darkvision and immunity to acid. If you are undead, you gain resistance 40 to vitality damage. If you are not undead, the helm quickly saps the life from you, dealing 10d6 void damage to you every round. If you die from this damage, you rise as an undead of an equal level in `dice: 1d4` rounds.
 

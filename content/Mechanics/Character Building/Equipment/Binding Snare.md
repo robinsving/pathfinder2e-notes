@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Binding Snare
-![[systems-pf2e-icons-equipment-snares-binding-snare.webp|150]]
 
 When a creature enters the snare's square, several strands of strong wires ending in jagged hooks latch onto it before hauling it to the ground. The snare deals 2d6 piercing damage, and the targeted creature must attempt a DC 28 reflex save.
 

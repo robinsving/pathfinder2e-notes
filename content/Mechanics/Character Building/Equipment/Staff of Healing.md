@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Healing
-![[icons-weapons-staves-staff-ornate-gold-jeweled.webp|150]]
 
 This white wood staff is capped at each end with a golden cross adorned with ruby cabochons. A _staff of healing_ grants a +1 item bonus to the Hit Points you restore anytime you cast the _heal_ spell using your own spell slots or charges from the staff.
 

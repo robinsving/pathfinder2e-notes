@@ -8,6 +8,5 @@ tags:
 ---
 
 # Replacement Filter (Level 5)
-![[systems-pf2e-icons-equipment-adventuring-gear-replacement-filter.webp|150]]
 
 A replacement filter for a [[Water Purifier]]. The counteract modifier using this filter is +9.

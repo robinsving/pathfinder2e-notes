@@ -8,7 +8,6 @@ tags:
 ---
 
 # Inspiring Spotlight
-![[systems-pf2e-icons-equipment-held-items-inspiring-spotlight.webp|150]]
 
 An _inspiring spotlight_ is a bulky contraption consisting of a drum-shaped metal housing around several reflective metal plates. Two handles on either side, each with a small button, allow you to aim the spotlight outward from your body.
 

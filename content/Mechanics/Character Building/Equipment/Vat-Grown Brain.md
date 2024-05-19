@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vat-Grown Brain
-![[Mechanics/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-spells-brain-drain.webp|150]]
 
 **Activate** 3 Interact
 

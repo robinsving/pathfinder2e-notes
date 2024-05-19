@@ -8,7 +8,6 @@ tags:
 ---
 
 # Eldritch Flare
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-deathcap-powder.webp|150]]
 
 **Activate** 2 Interact
 

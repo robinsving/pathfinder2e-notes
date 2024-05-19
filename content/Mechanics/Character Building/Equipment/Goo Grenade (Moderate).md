@@ -8,7 +8,6 @@ tags:
 ---
 
 # Goo Grenade (Moderate)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-winter-wolf-elixir.webp|150]]
 
 **Activate** 1 Strike
 

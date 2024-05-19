@@ -8,7 +8,6 @@ tags:
 ---
 
 # Magnet Coin
-![[icons-commodities-currency-coin-inset-one-wood.webp|150]]
 
 Thera Heartslip commissioned these magical coins during her early thievery days and still has a number on hand to share with her confidants. This coin resembles an ordinary coin, but it's warm and seems to thrum slightly when touched. The coin's face features a very small fragment from the pressed portion that can be removed, such as a small star or one eye from the head on the face. Removing this fragment causes the coin to stop thrumming and feeling warm to the touch. Noticing the removed piece requires close inspection and a successful DC 19 perception check.
 

@@ -8,4 +8,3 @@ tags:
 ---
 
 # Shears
-![[systems-pf2e-icons-equipment-weapons-shears.webp|150]]

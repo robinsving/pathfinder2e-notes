@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bomber
-![[systems-pf2e-icons-features-classes-bomber.webp|150]]
 
 You specialize in explosions and other violent alchemical reactions. You start with the formulas for two common 1st-level alchemical bombs, in addition to your other formulas.
 

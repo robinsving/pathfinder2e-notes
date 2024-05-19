@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lethargy Poison
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-lethargy-poison.webp|150]]
 
 Lethargy poison is commonly used in hit-and-run tactics by attackers who want their victims alive; the ambusher retreats until the poison sets in and the victim falls unconscious. Further exposure to lethargy poison does not require the target to attempt additional saving throws; only failing an saving throw against an ongoing exposure can progress its stage.
 

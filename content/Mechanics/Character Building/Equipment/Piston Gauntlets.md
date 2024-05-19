@@ -8,7 +8,6 @@ tags:
 ---
 
 # Piston Gauntlets
-![[systems-pf2e-icons-equipment-weapons-panthograph-gauntlet.webp|150]]
 
 The striking surface of this _+2 greater striking flaming pantograph gauntlet_ releases a puff of fire each time it reaches the end of its linkage.
 

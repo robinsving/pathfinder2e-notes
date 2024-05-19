@@ -8,7 +8,6 @@ tags:
 ---
 
 # Crown of the Fire Eater
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-crown-of-the-fire-eater.webp|150]]
 
 A wreath of flames dances around the rim of this golden crown. You gain resistance 5 to fire.
 

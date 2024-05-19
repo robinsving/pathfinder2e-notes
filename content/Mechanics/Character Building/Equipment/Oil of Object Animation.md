@@ -8,7 +8,6 @@ tags:
 ---
 
 # Oil of Object Animation
-![[systems-pf2e-icons-equipment-consumables-oils-oil-of-object-animation.webp|150]]
 
 **Activate** 2 Interact
 

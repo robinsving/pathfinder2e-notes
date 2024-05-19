@@ -8,7 +8,6 @@ tags:
 ---
 
 # Golden Rod Memento
-![[systems-pf2e-icons-equipment-held-items-pathfinderss-coin.webp|150]]
 
 This coin-sized golden pin depicts a bundle of five trimmed tree branches. Once you've stolen the pin, accepted it from Krampus willingly, or carried it for at least 1 minute, its curse activates. After that happens, the pin fastens itself to your clothing, providing you an insistent empathic admonition not to be naughty and constantly informing Krampus of your location, as _[[Status]]_. The pin reappears and reattaches itself within moments if discarded or destroyed. The pin constantly monitors your actions, judging you against a good-aligned champion's code of conduct, plus the following third tenet:
 

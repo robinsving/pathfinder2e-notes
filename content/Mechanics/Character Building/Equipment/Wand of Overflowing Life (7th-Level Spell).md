@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Overflowing Life (7th-Level Spell)
-![[systems-pf2e-icons-equipment-wands-specialty-wands-wand-of-overflowing-life.webp|150]]
 
 This alabaster wand has a clear crystal at the tip.
 

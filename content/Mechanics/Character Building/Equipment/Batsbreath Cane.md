@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Batsbreath Cane
-![[icons-weapons-staves-staff-simple-spiral-grey.webp|150]]
 
 A specialized _+1 striking thundering probing cane_ made from strengthened spruce wood, a _batsbreath cane_ is distinctive for its brass tip. The tip covers a small hollow in the wood that houses quartz crystals infused with latent storm magic.
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Katana
-![[systems-pf2e-icons-equipment-weapons-katana.webp|150]]
 
 A katana is a curved, single-edged sword known for its wickedly sharped blade.

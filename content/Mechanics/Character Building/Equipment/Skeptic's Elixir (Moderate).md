@@ -8,7 +8,6 @@ tags:
 ---
 
 # Skeptic's Elixir (Moderate)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-skeptics-elixir.webp|150]]
 
 **Duration** 10 minute
 

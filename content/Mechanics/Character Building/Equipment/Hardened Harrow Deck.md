@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hardened Harrow Deck
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-hardened-harrow-deck.webp|150]]
 
 The harrow is a traditional fortunetelling deck used by Varisian soothsayers. The hardened harrow deck is a magical version of the deck with cards made of thin metallic plates adorned with all the imagery common in standard harrow decks, but with more angular designs. You can hurl cards from the hardened harrow deck as +2 greater striking darts with the deadly d10 trait. A card used as a weapon isn't destroyed and can be recovered with 1 minute of searching if it can't be recalled back to the deck (see the deck's Activate entry below). However, if even a single card is missing from the deck, the deck can't be used to perform a traditional harrow reading.
 

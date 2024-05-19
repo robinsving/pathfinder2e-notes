@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Bi-Resonant Wayfinder
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-bi-resonant-wayfinder.webp|150]]
 
 A _bi-resonant wayfinder_ is inlaid with intricate platinum wires in a complex array of conduits for magical energy. These conduits control the resonant interference of aeon stones.
 

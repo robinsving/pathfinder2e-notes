@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blightburn Bomb
-![[icons-magic-fire-explosion-fireball-large-purple-orange.webp|150]]
 
 **Activate** 1 Strike
 

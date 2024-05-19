@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sulfur Bomb (Greater)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-bombs-sulfur-bomb.webp|150]]
 
 **Activate** 1 Strike
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Glowing Lantern Fruit
-![[systems-pf2e-icons-features-classes-lantern.webp|150]]
 
 The flesh of this fruit pod resembles a stylized paper lantern, with a woody, geometric structure and thin layers of flesh, complete with a glow coming from the interior.
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Spikes
-![[systems-pf2e-icons-equipment-snares-spike-snare.webp|150]]
 
 Ammunition for a [[Spike Launcher]]

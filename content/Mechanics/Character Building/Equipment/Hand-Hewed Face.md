@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hand-Hewed Face
-![[systems-pf2e-icons-equipment-contracts-hand-hewn-face.webp|150]]
 
 At the crossroads under a new moon, you traded your face for one that you can mold as though it were clay, sealed with a ribbon worn around your neck to hide the seam. Your true appearance changes to that of a generic member of your ancestry. You can shape your facial features with your hands and thus don't need a disguise kit to Impersonate, and you don't take circumstance penalties to Impersonate someone due to the difference in your facial features. Once per day, from any distance, the entity that holds your _bargained contract_ can change their appearance to match your appearance from before you sealed the contract, or the appearance you are currently using through Impersonate. When they do, your face transforms to your new true appearance, that of a generic member of your ancestry, and you become [[Stunned 1|Stunned 3]] by the sudden backlash.
 

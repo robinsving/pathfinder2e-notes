@@ -8,7 +8,6 @@ tags:
 ---
 
 # Potency Crystal (Major)
-![[systems-pf2e-icons-equipment-consumables-talismans-potency-crystal.webp|150]]
 
 **Activate** F (concentrate)
 

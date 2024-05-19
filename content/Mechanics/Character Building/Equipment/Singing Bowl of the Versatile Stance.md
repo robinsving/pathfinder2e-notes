@@ -8,7 +8,6 @@ tags:
 ---
 
 # Singing Bowl of the Versatile Stance
-![[systems-pf2e-icons-equipment-held-items-singing-bowl-of-the-versatile-stance.webp|150]]
 
 In true Iroran form, the simplicity of this small, inverted copper bell belies its flawlessness. When struck with a mallet (included with the singing bowl), it emits a harmonious tone that inspires bodily perfection in those who know how to hear it.
 

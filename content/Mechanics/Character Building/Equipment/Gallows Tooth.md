@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gallows Tooth
-![[icons-equipment-neck-necklace-simple-teeth.webp|150]]
 
 **Activate** A (manipulate)
 

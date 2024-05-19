@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bloodline: Undead
-![[systems-pf2e-icons-features-classes-undead.webp|150]]
 
 The touch of undeath runs through your blood. Your family tree might contain powerful undead, like a vampire, or perhaps you died and returned a bit different.
 

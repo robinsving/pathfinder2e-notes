@@ -10,7 +10,6 @@ tags:
 ---
 
 # Flying Broomstick
-![[systems-pf2e-icons-equipment-held-items-broom-of-flying.webp|150]]
 
 This broom has a tenuous connection to gravity, and it tends to drift even while stowed. You can ride on the broom using one hand to guide it, and the broom can carry up to one passenger in addition to you.
 

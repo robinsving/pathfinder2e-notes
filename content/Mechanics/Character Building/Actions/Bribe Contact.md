@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bribe Contact
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 **Cost** A bribe worth at least one-tenth of the Currency per Additional PC listed on Core Rulebook 509 (see table below). Doubling this amount grants a +2 circumstance bonus to the check.
 

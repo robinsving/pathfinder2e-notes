@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rod of Negation
-![[systems-pf2e-icons-equipment-held-items-rod-of-negation.webp|150]]
 
 This long, plain, leaden rod can disrupt magic.
 

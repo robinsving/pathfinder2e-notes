@@ -8,7 +8,6 @@ tags:
 ---
 
 # Drakeheart Mutagen (Lesser)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-drakeheart-mutagen.webp|150]]
 
 **Activate** A Interact
 

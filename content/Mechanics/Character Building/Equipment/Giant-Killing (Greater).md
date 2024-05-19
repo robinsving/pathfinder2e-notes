@@ -8,7 +8,6 @@ tags:
 ---
 
 # Giant-Killing (Greater)
-![[systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
 
 This weapon features stylized etchings of giants. A giant-killing weapon deals an additional 2d6 mental damage on a successful Strike against a giant. Mental damage dealt by this weapon ignores the target's mental resistance.
 

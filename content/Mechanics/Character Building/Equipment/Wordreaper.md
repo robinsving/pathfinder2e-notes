@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wordreaper
-![[systems-pf2e-icons-equipment-weapons-sickle.webp|150]]
 
 The blade of this _+1 sickle_ is engraved to look like the curving feather of a particularly elaborate quill. The wooden handle has a pen nib at the base. You can use the _wordreaper_'s handle as an ink pen and it never runs out of ink.
 

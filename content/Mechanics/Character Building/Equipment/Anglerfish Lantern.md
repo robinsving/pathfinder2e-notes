@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Anglerfish Lantern
-![[icons-sundries-lights-lantern-bullseye-signal-copper.webp|150]]
 
 This [[Lantern (Bull's Eye)|bull's-eye lantern]] is either stylized after an anglerfish or made from the taxidermy of one. While it can be lit as usual, the _anglerfish lantern_ automatically shines when submerged in water.
 

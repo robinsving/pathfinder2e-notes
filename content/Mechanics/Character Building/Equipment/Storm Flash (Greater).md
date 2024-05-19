@@ -8,7 +8,6 @@ tags:
 ---
 
 # Storm Flash (Greater)
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-storm-flash.webp|150]]
 
 This _+3 greater striking greater shock rapier_ has a golden blade, and miniature electric arcs flash across its guard while it's wielded. When out of its sheath under an open sky, the blade causes storm clouds to gather slowly above.
 

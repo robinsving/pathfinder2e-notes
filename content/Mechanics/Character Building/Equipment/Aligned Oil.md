@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Aligned Oil
-![[systems-pf2e-icons-equipment-consumables-oils-aligned-oil.webp|150]]
 
 **Activate** A Interact
 

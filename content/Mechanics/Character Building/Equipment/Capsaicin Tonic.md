@@ -8,7 +8,6 @@ tags:
 ---
 
 # Capsaicin Tonic
-![[systems-pf2e-icons-equipment-consumables-potions-truth-potion.webp|150]]
 
 This translucent, pale-yellow drink has several pepper seeds suspended within it. Although the tonic is painfully spicy when first consumed, the heat soon fades as the tonic coats your throat. In the next hour, you can use the activation below up to three times; the third time you use it, the effects of the capsaicin tonic end. While under the effects of the tonic, you can easily consume even the spiciest of foods without trouble.
 

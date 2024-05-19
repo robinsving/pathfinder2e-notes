@@ -8,7 +8,6 @@ tags:
 ---
 
 # Exploration Lens (Investigating)
-![[systems-pf2e-icons-equipment-treasure-art-objects-minor-art-object-hand-mirror-with-decorated-frame.webp|150]]
 
 **Activate**1 Interact
 

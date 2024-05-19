@@ -8,7 +8,6 @@ tags:
 ---
 
 # Energizing
-![[systems-pf2e-icons-equipment-runes-weapon-property-runes-energizing-rune-fire.webp|150]]
 
 A weapon with this rune can absorb energy damage to empower it.
 

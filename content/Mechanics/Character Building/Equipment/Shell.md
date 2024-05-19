@@ -8,4 +8,3 @@ tags:
 ---
 
 # Shell
-![[systems-pf2e-icons-equipment-treasure-gems-lesser-semiprecious-stones-shell.webp|150]]

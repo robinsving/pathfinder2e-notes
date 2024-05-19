@@ -9,7 +9,6 @@ tags:
 ---
 
 # Threat Display
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 Your familiar helps you convey wordless threats through body language.
 

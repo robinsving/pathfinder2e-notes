@@ -8,7 +8,6 @@ tags:
 ---
 
 # Powered Full Plate
-![[icons-equipment-chest-breastplate-layered-steel-green.webp|150]]
 
 **Activate** 1 Interact
 

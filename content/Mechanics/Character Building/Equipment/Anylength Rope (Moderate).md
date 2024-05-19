@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Anylength Rope (Moderate)
-![[icons-sundries-survival-rope-wrapped-purple.webp|150]]
 
 This 75-foot length of silk rope is lightweight and appears to be inlaid with golden threads. The rope can hold up to 3,000 pounds and is particularly durable, with a Hardness of 5 and 24 Hit Points.
 

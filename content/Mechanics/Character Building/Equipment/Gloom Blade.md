@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gloom Blade
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-gloom-blade.webp|150]]
 
 As black as coal, this blade grows more potent in darkness. While in bright light, it functions as a _+1 shortsword_ and doesn't appear to radiate a magic aura to _[[Detect Magic]]_ or similar spells unless the spells are 4th rank or higher.
 

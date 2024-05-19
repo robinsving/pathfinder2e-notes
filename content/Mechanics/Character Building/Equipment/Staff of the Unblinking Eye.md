@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of the Unblinking Eye
-![[icons-weapons-staves-staff-ornate-eye.webp|150]]
 
 The stone head piece of this smooth wooden staff is carved to look like a lidless eye. While wielding it, you gain a +1 status bonus to Perception checks made for initiative.
 

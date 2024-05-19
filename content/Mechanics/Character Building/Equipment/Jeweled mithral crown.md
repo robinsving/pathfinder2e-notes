@@ -8,4 +8,3 @@ tags:
 ---
 
 # Jeweled mithral crown
-![[systems-pf2e-icons-equipment-treasure-art-objects-major-art-object-jeweled-mithral-crown.webp|150]]

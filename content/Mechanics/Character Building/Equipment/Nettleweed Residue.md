@@ -8,7 +8,6 @@ tags:
 ---
 
 # Nettleweed Residue
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-nettleweed-residue.webp|150]]
 
 Concentrated sap of stinging weeds makes an effective toxin.
 

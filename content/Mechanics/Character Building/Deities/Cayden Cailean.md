@@ -9,7 +9,6 @@ tags:
 ---
 
 # Cayden Cailean
-![[systems-pf2e-icons-deity-Cayden Cailean.webp|150]]
 
 The Accidental God ascended from mortal life on a drunken dare. Cayden, the Drunken Hero, promotes freedom and encourages others to find their own path in life. He fights for just causes and delights in the best indulgences.
 

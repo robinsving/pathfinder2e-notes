@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mutagenic Renovator
-![[systems-pf2e-icons-equipment-consumables-potions-mutagenic-renovator.webp|150]]
 
 **Activate** 1 Interact
 

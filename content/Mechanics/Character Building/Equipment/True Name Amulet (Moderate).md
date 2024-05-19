@@ -8,7 +8,6 @@ tags:
 ---
 
 # True Name Amulet (Moderate)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-true-name-amulet.webp|150]]
 
 This amulet bears the true name of a single creature with a level no higher than the item's level. These amulets are typically made of gold and engraved, but could be made of anything, including simple clay. The name is clearly visible, though only to you, and only while you have the amulet invested.
 

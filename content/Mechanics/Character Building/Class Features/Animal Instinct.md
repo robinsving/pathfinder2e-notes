@@ -9,7 +9,6 @@ tags:
 ---
 
 # Animal Instinct
-![[icons-creatures-abilities-cougar-pounce-stalk-black.webp|150]]
 
 The fury of a wild predator fills you when you Rage, granting you ferocious unarmed attacks. Cultures that revere vicious animals (such as apes or bears) give rise to barbarians with this instinct. You might also be at war with an uncontrollable, animalistic side of your personality, or you might be a descendant of a werewolf or another werecreature. Select an animal from Table 3-3: Animal Instincts that best matches your chosen animal.
 

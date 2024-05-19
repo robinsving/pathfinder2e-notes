@@ -8,6 +8,5 @@ tags:
 ---
 
 # Exquisite Sword Cane Sheath
-![[Mechanics/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-weapons-sword-cane.webp|150]]
 
 An exquisite sword cane is a sword sheathed inside a hollow cane, which itself can be used as a clubbing weapon with or without the sword sheathed inside.

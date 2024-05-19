@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vanishing Coin
-![[systems-pf2e-icons-equipment-consumables-talismans-vanishing-coin.webp|150]]
 
 **Activate** F (concentrate)
 

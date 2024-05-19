@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Archivist's Gaze
-![[systems-pf2e-icons-equipment-worn-items-apex-items-archivists-gaze.webp|150]]
 
 This strange contraption slides over your eyes, supernaturally sharpening your mind. While peering through it, you can feel some entity whispering to you, telling all sorts of things about the subject of your gaze. You gain a +3 item bonus to Occultism (though some entities might grant a bonus to a different skill, as determined by your GM). In addition, when you employ an exploration tactic other than Investigating, you also gain the benefits of Investigating unless you choose not to.
 

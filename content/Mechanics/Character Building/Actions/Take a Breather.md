@@ -9,7 +9,6 @@ tags:
 ---
 
 # Take a Breather
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 **Cost** 1 Resolve Point
 

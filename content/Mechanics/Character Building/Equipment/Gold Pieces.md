@@ -8,4 +8,3 @@ tags:
 ---
 
 # Gold Pieces
-![[systems-pf2e-icons-equipment-treasure-currency-gold-pieces.webp|150]]

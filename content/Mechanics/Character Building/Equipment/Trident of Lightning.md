@@ -10,7 +10,6 @@ tags:
 ---
 
 # Trident of Lightning
-![[systems-pf2e-icons-equipment-consumables-other-consumables-javelin-of-lightning.webp|150]]
 
 **Activate** D (concentrate, manipulate)
 

@@ -8,4 +8,3 @@ tags:
 ---
 
 # Spinel, red or green
-![[systems-pf2e-icons-equipment-treasure-gems-moderate-semiprecious-stones-red-or-green-spinel.webp|150]]

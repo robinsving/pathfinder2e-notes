@@ -9,7 +9,6 @@ tags:
 ---
 
 # Advanced Alchemy
-![[systems-pf2e-icons-features-classes-advanced-alchemy.webp|150]]
 
 During your daily preparations, after producing new [[Infused Reagents]], you can spend batches of those infused reagents to create infused alchemical items.
 

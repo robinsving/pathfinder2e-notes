@@ -8,7 +8,6 @@ tags:
 ---
 
 # Olfactory Obfuscator (Greater)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-olefactory-obfuscator.webp|150]]
 
 **Activate** A Interact
 

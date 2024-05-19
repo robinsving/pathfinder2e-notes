@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Power
-![[systems-pf2e-icons-equipment-staves-staff-of-power.webp|150]]
 
 This staff of magically hardened wood is topped with a silver sculpture depicting magical runic symbols. When used as a weapon, a _staff of power_ is a _+2 greater striking staff_.
 

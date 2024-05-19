@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Antler Arrow
-![[systems-pf2e-icons-equipment-consumables-ammunition-antler-arrow.webp|150]]
 
 **Activate** A Interact
 

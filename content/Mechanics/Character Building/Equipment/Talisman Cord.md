@@ -8,7 +8,6 @@ tags:
 ---
 
 # Talisman Cord
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-talisman-cord.webp|150]]
 
 This thin leather cord bears delicate runic markings and threads through an item that can bear affixed talismans.
 

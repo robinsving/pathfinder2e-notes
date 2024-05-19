@@ -8,7 +8,6 @@ tags:
 ---
 
 # Polarizing Mace
-![[icons-weapons-maces-mace-round-steel.webp|150]]
 
 Even grasping the amber handle of this _+1 striking shock light mace_ makes your hair stand on end.
 

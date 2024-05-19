@@ -9,7 +9,6 @@ tags:
 ---
 
 # Host Spirit
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 **Frequency** once per day
 

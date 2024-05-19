@@ -8,7 +8,6 @@ tags:
 ---
 
 # Timeless Salts
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-timeless-salts.webp|150]]
 
 **Activate** 1 Interact
 

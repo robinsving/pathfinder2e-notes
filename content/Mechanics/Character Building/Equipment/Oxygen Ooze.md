@@ -8,7 +8,6 @@ tags:
 ---
 
 # Oxygen Ooze
-![[icons-commodities-materials-slime-thick-green.webp|150]]
 
 **Activate** 1 Interact
 

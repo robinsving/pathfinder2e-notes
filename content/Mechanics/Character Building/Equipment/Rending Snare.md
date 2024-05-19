@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rending Snare
-![[systems-pf2e-icons-equipment-snares-rending-snare.webp|150]]
 
 Sharp metal jaws wind tightly into the pressure plate mechanism of this snare. When triggered, the jaws clamp shut and spin, damaging limbs in the process. The snare deals 10d8 piercing damage to the first creature to enter the square; that creature must attempt a DC 33 reflex save.
 

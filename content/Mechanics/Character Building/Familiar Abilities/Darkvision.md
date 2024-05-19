@@ -9,6 +9,5 @@ tags:
 ---
 
 # Darkvision
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 It gains darkvision.

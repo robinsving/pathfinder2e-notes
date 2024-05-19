@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Armor Polishing Kit
-![[icons-commodities-metal-ingot-silver.webp|150]]
 
 **Activate** 10 minutes (Interact)
 

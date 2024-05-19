@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pernicious Spore Bomb (Greater)
-![[icons-consumables-mushrooms-ovate-thin-blue.webp|150]]
 
 **Activate** 1 Strike
 

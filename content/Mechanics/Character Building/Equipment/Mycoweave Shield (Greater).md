@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mycoweave Shield (Greater)
-![[systems-pf2e-icons-equipment-shields-specific-shields-wovenwood-shield.webp|150]]
 
 This shield is grown entirely of specially treated fungi, giving it the appearance of a frilly disc. The shield has Hardness 4, HP 64, and BT 32.
 

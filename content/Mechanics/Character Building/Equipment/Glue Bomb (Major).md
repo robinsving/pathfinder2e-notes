@@ -8,7 +8,6 @@ tags:
 ---
 
 # Glue Bomb (Major)
-![[icons-containers-bags-sack-simple-leather-tan.webp|150]]
 
 **Activate** 1 Strike
 

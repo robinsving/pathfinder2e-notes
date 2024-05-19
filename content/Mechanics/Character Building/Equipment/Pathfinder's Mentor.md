@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pathfinder's Mentor
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-bi-resonant-wayfinder.webp|150]]
 
 **Perception** +15; precise vision 30 feet, imprecise hearing 30 feet
 

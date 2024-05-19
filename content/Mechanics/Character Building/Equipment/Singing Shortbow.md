@@ -8,7 +8,6 @@ tags:
 ---
 
 # Singing Shortbow
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-singing-shortbow.webp|150]]
 
 Rather than a normal bowstring, this _+2 greater striking thundering composite shortbow_ has a string made of animal gut, much like a musical instrument's. When you shoot the bow, it releases a soft musical note: sonorous if your aim is true and discordant if your shot goes off-target.
 

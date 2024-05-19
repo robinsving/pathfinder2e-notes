@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dullahan Codex
-![[icons-sundries-books-book-face-black.webp|150]]
 
 The origins of the notorious _Dullahan Codex_ are shrouded in mystery. Some legends claim it belongs to a dullahan whose head was taken by the Grim Reaper. Others attribute its creation to a powerful necromancer whose name has been lost to time. Whatever the truth, the grimoire has passed down through the ages, sometimes via mortal hands and other times mysteriously appearing among the possessions of its next target. It deserves its reputation for dooming those who possess it to die, but scholars debate whether the codex causes this fate or merely acts as its harbinger.
 

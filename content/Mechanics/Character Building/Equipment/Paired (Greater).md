@@ -8,7 +8,6 @@ tags:
 ---
 
 # Paired (Greater)
-![[icons-commodities-treasure-token-runed-os-grey.webp|150]]
 
 These runes always come in pairs and can be applied to a garment's pockets to be activated.
 

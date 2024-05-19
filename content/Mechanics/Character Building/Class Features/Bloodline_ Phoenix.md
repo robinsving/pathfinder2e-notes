@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bloodline: Phoenix
-![[systems-pf2e-icons-features-classes-phoenix.webp|150]]
 
 You have been blessed by a phoenix, perhaps via some magical interaction with a similarly blessed individual. Grant this new sorcerer bloodline to players who finish the Fists of the Ruby Phoenix Adventure Path. Players can then choose this bloodline for any new sorcerer characters they create for future campaigns.
 

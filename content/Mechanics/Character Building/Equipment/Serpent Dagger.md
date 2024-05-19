@@ -10,7 +10,6 @@ tags:
 ---
 
 # Serpent Dagger
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-dagger-of-venom.webp|150]]
 
 The serrated blade of this _+1 striking_ dagger has a greenish tinge, and the hilt is sculpted to look like the head of a serpent about to strike.
 

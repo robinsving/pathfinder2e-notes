@@ -8,7 +8,6 @@ tags:
 ---
 
 # Primeval Mistletoe (Greater)
-![[systems-pf2e-icons-equipment-held-items-primeval-mistletoe.webp|150]]
 
 This sprig of berry-festooned holly and mistletoe doesn't wilt or rot. It can be used as a primal locus, and it grants a +2 item bonus to Nature checks while you wear it.
 

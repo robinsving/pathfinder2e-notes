@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Belladonna
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-belladonna.webp|150]]
 
 Sometimes called "deadly nightshade", belladonna is a widely available toxin produced from a plant similar to a tomato.
 

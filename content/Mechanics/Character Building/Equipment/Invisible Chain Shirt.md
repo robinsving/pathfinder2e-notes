@@ -8,7 +8,6 @@ tags:
 ---
 
 # Invisible Chain Shirt
-![[systems-pf2e-icons-equipment-armor-specific-magic-armor-invisible-chain-shirt.webp|150]]
 
 This _+2 resilient [[Invisibility]] chain shirt_ is itself invisible. Other creatures can't see it at all, allowing you to wear it surreptitiously. Additionally, the armor's invisible composition is quieter and more comfortable than a normal chain shirt. It loses the noisy trait and gains the comfort trait.
 

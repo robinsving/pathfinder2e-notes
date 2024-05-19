@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dezullon Fountain
-![[systems-pf2e-icons-equipment-weapons-air-repeater.webp|150]]
 
 A _dezullon fountain_ is a distinct type of _+2 striking air repeater_ made from the still-living pitcher of a dezullon, dealing acid damage instead of the gun's normal piercing damage.
 

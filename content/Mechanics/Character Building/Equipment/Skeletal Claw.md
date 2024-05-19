@@ -8,7 +8,6 @@ tags:
 ---
 
 # Skeletal Claw
-![[systems-pf2e-icons-equipment-weapons-tekko-kagi.webp|150]]
 
 This _+1 striking tekko-kagi_ resembles a clawed skeletal hand that fits over your own. Embedded in the back of the bony hand is an onyx gemstone held in place by fine silver chains. When the claws tear into a living creature, the gem pulses with void energy. The skeletal claw deals an additional 1d4 persistent,void damage to living creatures (1d10 persistent,void damage on a critical hit).
 

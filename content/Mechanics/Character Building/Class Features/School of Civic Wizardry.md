@@ -9,7 +9,6 @@ tags:
 ---
 
 # School of Civic Wizardry
-![[icons-sundries-books-book-embossed-steel-brown.webp|150]]
 
 Whether you studied in Manaket's Occularium or the Academy of Applied Magic, you learned that the fruits of arcane studies—like any other field—should ultimately help the common citizen. You've learned the humble art of construction, of finding lost people and things, of moving speedily among buildings and moats—yet these same arts can be turned to demolition, and the constructs you animate to build bridges can just as easily tear them down.
 

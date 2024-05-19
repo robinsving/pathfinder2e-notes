@@ -8,4 +8,3 @@ tags:
 ---
 
 # Plain brass censer
-![[systems-pf2e-icons-equipment-treasure-art-objects-minor-art-object-plain-brass-censer.webp|150]]

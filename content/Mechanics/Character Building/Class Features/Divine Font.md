@@ -9,7 +9,6 @@ tags:
 ---
 
 # Divine Font
-![[systems-pf2e-icons-features-classes-divine-font.webp|150]]
 
 Through your deity's blessing, you gain additional spells that channel either the life force called vitality or its counterforce, the void. When you prepare your spells each day, you can prepare additional [[Heal]] or [[Harm]] spells, depending on your deity. The divine font spell your deity provides is listed in the Divine Font entry for your deity; if both are listed, you can choose between heal or harm. Once you choose, you can't change your choice short of divine intervention.
 

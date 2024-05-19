@@ -8,7 +8,6 @@ tags:
 ---
 
 # Toy Carriage (Windup)
-![[systems-pf2e-icons-equipment-held-items-toy-carriage.webp|150]]
 
 A miniature toy carriage is carved from wood and has fully functioning wheels. It can vary in size from 2 to 8 inches long, too small for even Tiny creatures to ride. If pushed or propelled, obstacles and terrain might slow, stop, tip, or divert the carriage's course.
 

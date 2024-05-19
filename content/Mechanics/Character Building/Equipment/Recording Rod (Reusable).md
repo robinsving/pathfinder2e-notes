@@ -8,7 +8,6 @@ tags:
 ---
 
 # Recording Rod (Reusable)
-![[systems-pf2e-icons-equipment-consumables-other-consumables-recording-rod.webp|150]]
 
 This smooth metal bar is short enough to fit in one hand. It has several inset gemstone buttons on one end and a small lens on the other. Popular with law enforcement and blackmailers alike, recording rods allow users to capture and replay incriminating scenes and are often concealed and triggered covertly to avoid raising the subject's suspicion.
 

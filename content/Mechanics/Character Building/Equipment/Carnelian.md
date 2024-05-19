@@ -8,4 +8,3 @@ tags:
 ---
 
 # Carnelian
-![[systems-pf2e-icons-equipment-treasure-gems-moderate-semiprecious-stones-carnelian.webp|150]]

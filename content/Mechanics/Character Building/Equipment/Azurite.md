@@ -9,4 +9,3 @@ draft: true
 ---
 
 # Azurite
-![[systems-pf2e-icons-equipment-treasure-gems-lesser-semiprecious-stones-azurite.webp|150]]

@@ -9,4 +9,3 @@ draft: true
 ---
 
 # Animal Bed
-![[icons-containers-ammunition-quiver-simple-brown.webp|150]]

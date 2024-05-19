@@ -8,4 +8,3 @@ tags:
 ---
 
 # Gold necklace with peridots
-![[systems-pf2e-icons-equipment-treasure-art-objects-moderate-art-object-gold-necklace-with-peridots.webp|150]]

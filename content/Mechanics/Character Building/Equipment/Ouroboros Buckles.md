@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ouroboros Buckles
-![[systems-pf2e-icons-equipment-armor-buckle-armor.webp|150]]
 
 This ominous-looking _+3 greater resilient greater acid-resistant buckle armor_ is deep red in color, favored by assassins who worship Norgorber or Asmodeus, and if unfastened, the many belts and buckles writhe like living snakes. _Ouroboros buckles_ have the comfort trait. However, while wearing _ouroboros buckles_, the unfathomable concept of infinity pulls at your mind, and each time you awaken, you'd swear the armor hissed into your ear while you were asleep. The hissing suggested secret wisdom to you in Aklo, though you only ever remember it vaguely, like a fading dream.
 

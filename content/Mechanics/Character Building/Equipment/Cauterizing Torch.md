@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cauterizing Torch
-![[systems-pf2e-icons-equipment-held-items-cauterizing-torch.webp|150]]
 
 **Activate** 1 Interact
 

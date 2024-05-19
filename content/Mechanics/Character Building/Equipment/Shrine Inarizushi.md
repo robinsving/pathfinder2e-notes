@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shrine Inarizushi
-![[systems-pf2e-icons-equipment-consumables-other-consumables-shrine-inarizushi.webp|150]]
 
 **Activate** one minute (Interact)
 

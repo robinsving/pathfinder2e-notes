@@ -8,7 +8,6 @@ tags:
 ---
 
 # Eye of Enlightenment
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-eye-of-fortune.webp|150]]
 
 **Usage** affixed to a weapon
 

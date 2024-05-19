@@ -9,7 +9,6 @@ tags:
 ---
 
 # Discover
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 You watch or study an NPC to learn more about that NPC's preferences. Attempt a Perception check or an appropriate skill check determined by the GM. The DC is found in the NPC's influence stat block.
 

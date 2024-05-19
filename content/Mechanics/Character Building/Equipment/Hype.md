@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hype
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-hype.webp|150]]
 
 **Activate** 1 Interact
 

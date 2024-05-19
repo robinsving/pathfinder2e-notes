@@ -8,7 +8,6 @@ tags:
 ---
 
 # Iris of the Sky
-![[icons-weapons-guns-rifle-brown.webp|150]]
 
 This _+1 striking jezail_ is built from white hot metal and has a ruby fused into the palm wood stock. When the _iris of the sky_ misfires, you take 5 persistent,fire{5} damage.
 

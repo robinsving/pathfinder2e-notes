@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spore Sap
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-spore-sap.webp|150]]
 
 This flexible +2 striking sap is crafted from the stalks of cave fungi and bound around a mesh of spore-infused gills. Demon-worshipping xulgaths use spore saps to capture spellcasters alive for later sacrifice.
 

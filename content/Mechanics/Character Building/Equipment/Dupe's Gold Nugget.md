@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dupe's Gold Nugget
-![[systems-pf2e-icons-equipment-consumables-talismans-dupes-gold-nugget.webp|150]]
 
 **Activate** f envision
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Radiant
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 Your familiar is filled with a divine radiance that makes it resistant to the forces of evil. Your familiar gains resistance to evil and void damage equal to half your level.
 

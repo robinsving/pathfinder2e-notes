@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dispersing Bullet
-![[systems-pf2e-icons-equipment-consumables-ammunition-dispersing-bullet.webp|150]]
 
 **Ammunition** sling bullet
 

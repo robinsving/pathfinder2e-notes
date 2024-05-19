@@ -8,6 +8,5 @@ tags:
 ---
 
 # Pinwheel
-![[systems-pf2e-icons-equipment-held-items-pinwheel.webp|150]]
 
 This paper and wood pinwheel spins when blown upon by a person or the wind.

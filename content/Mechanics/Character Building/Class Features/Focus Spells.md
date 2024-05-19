@@ -9,7 +9,6 @@ tags:
 ---
 
 # Focus Spells
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-magic-unholy-orb-glowing-yellow-purple.webp|150]]
 
 Focus spells are a special type of spell attained directly from a branch of study, from a deity, or from another specific source. You can learn focus spells only through special class features or feats, rather than choosing them from a spell list. Furthermore, you cast focus spells using a special pool of Focus Points-you can't prepare a focus spell in a spell slot or use your spell slots to cast focus spells; similarly, you can't spend your Focus Points to cast spells that aren't focus spells. Even some classes that don't normally grant spellcasting, such as the Champion and Monk, can grant focus spells.
 

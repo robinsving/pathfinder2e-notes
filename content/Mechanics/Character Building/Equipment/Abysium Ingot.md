@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Abysium Ingot
-![[systems-pf2e-icons-equipment-materials-abysium-ingot.webp|150]]
 
 A blue-green metal with an eerie green luminescence, abysium radiates power that's inimical to life. Careless exposure to the material can lead to long-term damage to the immune system; as such, mining abysium is hazardous, as large quantities of the metal in an area cause all nearby creatures to become sick.
 

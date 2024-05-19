@@ -8,4 +8,3 @@ tags:
 ---
 
 # Colorful velvet half mask
-![[systems-pf2e-icons-equipment-treasure-art-objects-minor-art-object-colorful-velvet-half-mask.webp|150]]

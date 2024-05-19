@@ -8,7 +8,6 @@ tags:
 ---
 
 # Oil of Potency (Greater)
-![[systems-pf2e-icons-equipment-consumables-oils-oil-of-potency.webp|150]]
 
 **Activate** A (manipulate)
 

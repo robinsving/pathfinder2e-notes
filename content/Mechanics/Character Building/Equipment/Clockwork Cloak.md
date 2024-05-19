@@ -8,7 +8,6 @@ tags:
 ---
 
 # Clockwork Cloak
-![[icons-equipment-back-cloak-collared-orange.webp|150]]
 
 Paper-thin interlocking gears and winding cogs make up this bronze cloak.
 

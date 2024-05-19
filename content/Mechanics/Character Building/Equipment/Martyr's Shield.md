@@ -8,7 +8,6 @@ tags:
 ---
 
 # Martyr's Shield
-![[systems-pf2e-icons-equipment-intelligent-items-martyrs-shield.webp|150]]
 
 **Perception** +12; precise vision 30 feet, imprecise hearing 30 feet
 

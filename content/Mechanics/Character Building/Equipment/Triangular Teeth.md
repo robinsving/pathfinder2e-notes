@@ -8,7 +8,6 @@ tags:
 ---
 
 # Triangular Teeth
-![[icons-magic-symbols-mask-metal-silver-white.webp|150]]
 
 Rows of triangles symbolizing shark teeth protect you from danger and enable you to take fierce retaliation against those who try to harm you. Seafarers, especially those on the seas of Minata, wear these tattoos in patterns, with multiple rows of regular triangles. You gain a +1 item bonus to Survival checks to navigate bodies of water.
 

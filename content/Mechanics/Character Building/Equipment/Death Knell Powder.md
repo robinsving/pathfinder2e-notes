@@ -8,7 +8,6 @@ tags:
 ---
 
 # Death Knell Powder
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-death-knell-powder.webp|150]]
 
 **Activate** 2 Interact
 

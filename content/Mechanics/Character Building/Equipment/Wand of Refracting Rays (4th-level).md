@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Refracting Rays (4th-level)
-![[systems-pf2e-icons-equipment-held-items-wand-of-refracting-rays.webp|150]]
 
 This wand is short and wide with a hexagonal, crystal shaft and a leather-wrapped handle. The wand refracts direct bright light into a rainbow.
 

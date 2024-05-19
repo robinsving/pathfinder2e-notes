@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sage's Lash
-![[systems-pf2e-icons-equipment-worn-items-apex-items-sages-lash.webp|150]]
 
 The thin, glittering strands of rope that comprise this thick belt appear to be spun gold. Strung along the front of the belt are a collection of four multicolored, perfectly spherical beads: jade, turquoise, quartz, and amethyst. While wearing the lash, you gain a +3 item bonus to Religion.
 

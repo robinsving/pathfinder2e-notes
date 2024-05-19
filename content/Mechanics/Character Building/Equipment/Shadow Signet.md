@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shadow Signet
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-shadow-signet.webp|150]]
 
 This obsidian ring allows you to partially warp your spells through the Shadow Plane, allowing them to strike directly at a target's body.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # The Distant Grasp
-![[systems-pf2e-icons-features-classes-the-distant-grasp.webp|150]]
 
 Motion characterizes the physical-a boulder falls, creatures move, the world turns. You believe the truest form of mind over matter is therefore to move things as well, wielding telekinesis as an arm that can grasp the furthest and finest of objects.
 

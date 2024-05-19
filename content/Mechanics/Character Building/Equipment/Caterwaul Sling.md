@@ -8,7 +8,6 @@ tags:
 ---
 
 # Caterwaul Sling
-![[systems-pf2e-icons-equipment-weapons-sling.webp|150]]
 
 Made of shiny brown leather, this _+1 striking sling_ has a single white thread interwoven into its cord.
 

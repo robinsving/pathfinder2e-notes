@@ -8,7 +8,6 @@ tags:
 ---
 
 # Scapular of Shields
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-cloak-of-the-bat.webp|150]]
 
 This fine scapular features the image of an ornate shield. While wearing the cloak, you feel protected and capable of withstanding even the deadliest blows. Each time you're critically hit while wearing the scapular, attempt a DC 17 flat. On a success, it becomes a normal hit. When you invest the scapular, you either increase your Constitution score by 2 or increase it to 18, whichever would give you a higher score.
 

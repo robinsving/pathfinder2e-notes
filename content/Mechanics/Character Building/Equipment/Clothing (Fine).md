@@ -8,6 +8,5 @@ tags:
 ---
 
 # Clothing (Fine)
-![[icons-equipment-chest-breastplate-purple.webp|150]]
 
 Fine clothing, suitable for a noble or royal, is made with expensive fabrics, precious metals, and intricate patterns.

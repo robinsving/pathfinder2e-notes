@@ -9,7 +9,6 @@ tags:
 ---
 
 # Muses
-![[icons-magic-symbols-question-stone-yellow.webp|150]]
 
 As a bard, you select one muse at 1st level. This muse leads you to great things and might be someone you know, a supernatural creature, location, deity, philosophy, or captivating mystery. Depending on the type of inspiration you receive, your 1st-level muse grants you a specific 1st-level bard feat and adds a spell to your repertoire.
 

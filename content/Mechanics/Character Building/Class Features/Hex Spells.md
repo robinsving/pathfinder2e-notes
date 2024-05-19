@@ -9,7 +9,6 @@ tags:
 ---
 
 # Hex Spells
-![[systems-pf2e-icons-features-classes-hexes.webp|150]]
 
 As a favored agent of your patron, you can invoke their power for a more direct magical intervention. A hex is a spell shaped by your patron and sent to you through your familiar, rather than an ability you use directly. Your patron expects you to advance its interests and does not take kindly to repeated requests for aid; as such, you can use only one hex each turn, and any attempts to use a second hex on that turn fail and the actions are lost.
 

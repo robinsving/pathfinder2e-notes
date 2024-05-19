@@ -8,7 +8,6 @@ tags:
 ---
 
 # Galvasphere
-![[systems-pf2e-icons-equipment-held-items-galvasphere.webp|150]]
 
 **Activate** D Interact
 

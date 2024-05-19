@@ -8,7 +8,6 @@ tags:
 ---
 
 # Trinity Geode (Major)
-![[icons-commodities-gems-gem-rough-pendeloque-blue.webp|150]]
 
 The crystal chamber within this split geode is divided into three lobes of equal size. The spell DC of any spell cast by Activating this item is 29.
 

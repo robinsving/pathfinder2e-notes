@@ -8,7 +8,6 @@ tags:
 ---
 
 # Jar of Shifting Sands
-![[systems-pf2e-icons-equipment-held-items-jar-of-shifting-sands.webp|150]]
 
 This small, ceramic jar is full, holding approximately a quarter gallon of sand. When poured out, the jar immediately begins to conjure more sand. It is said, however improbably, that this jar is responsible for creating at least one desert in the world.
 

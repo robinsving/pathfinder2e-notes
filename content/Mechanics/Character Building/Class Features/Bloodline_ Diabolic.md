@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bloodline: Diabolic
-![[icons-sundries-scrolls-scroll-symbol-eye-brown.webp|150]]
 
 Devils are evil with a silver tongue, and one of your ancestors dallied in darkness or made an infernal pact.
 

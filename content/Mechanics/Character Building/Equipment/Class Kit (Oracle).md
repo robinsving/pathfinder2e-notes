@@ -8,7 +8,6 @@ tags:
 ---
 
 # Class Kit (Oracle)
-![[systems-pf2e-icons-equipment-adventuring-gear-classkit-oracle.webp|150]]
 
 **Armor** studded leather armor
 

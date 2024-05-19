@@ -8,4 +8,3 @@ tags:
 ---
 
 # Feed (Unique)
-![[icons-consumables-fruit-apple-ripe-red.webp|150]]

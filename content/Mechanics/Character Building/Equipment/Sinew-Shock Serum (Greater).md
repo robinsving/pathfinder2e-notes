@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sinew-Shock Serum (Greater)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-sinew-shock-serum.webp|150]]
 
 **Activate** A Interact
 

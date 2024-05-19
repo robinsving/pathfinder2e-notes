@@ -9,6 +9,5 @@ tags:
 ---
 
 # Rogue Resilience
-![[icons-magic-life-cross-explosion-burst-green.webp|150]]
 
 Your physique is incredibly hardy. Your proficiency rank for Fortitude saves increases to expert. When you roll a success on a Fortitude save, you get a critical success instead.

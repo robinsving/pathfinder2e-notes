@@ -8,6 +8,5 @@ tags:
 ---
 
 # Scimitar
-![[icons-weapons-swords-scimitar-worn-blue.webp|150]]
 
 This one-handed curved blade is sharp on one side.

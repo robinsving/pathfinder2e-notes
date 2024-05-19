@@ -8,7 +8,6 @@ tags:
 ---
 
 # Colorful Coating (Red)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-colorful-coating-red.webp|150]]
 
 **Activate** 3 Interact
 

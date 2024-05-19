@@ -8,7 +8,6 @@ tags:
 ---
 
 # Survey Map (Atlas)
-![[systems-pf2e-icons-equipment-adventuring-gear-survey-map.webp|150]]
 
 Maps are uncommon. Most maps you can find are simple and functional. A survey map details a single location in excellent detail.
 

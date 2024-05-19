@@ -9,7 +9,6 @@ tags:
 ---
 
 # Instinct
-![[icons-magic-symbols-question-stone-yellow.webp|150]]
 
 You channel your rage through an instinct. You decide what your instinct means to you. It could be a creature or symbol beloved by your clan, or a purely internal source or filter of your rage, such as a belief, curse, heritage, or state of mind. Each instinct grants an instinct ability, plus more abilities you can gain via feats that list that instinct as a prerequisite. It also determines what damage you resist with raging resistance and, at higher levels, increases the additional damage you deal when you [[Rage]].
 

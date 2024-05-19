@@ -8,7 +8,6 @@ tags:
 ---
 
 # Viper's Fang
-![[systems-pf2e-icons-equipment-consumables-talismans-vipers-fang.webp|150]]
 
 **Activate** R (concentrate)
 

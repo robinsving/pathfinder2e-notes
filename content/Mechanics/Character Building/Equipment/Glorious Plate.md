@@ -8,7 +8,6 @@ tags:
 ---
 
 # Glorious Plate
-![[systems-pf2e-icons-equipment-armor-specific-magic-armor-glorious-plate.webp|150]]
 
 This elegant full plate is embossed with heraldic imagery and never tarnishes or loses its shine. _Glorious plate_ is _+2 resilient full plate_.
 

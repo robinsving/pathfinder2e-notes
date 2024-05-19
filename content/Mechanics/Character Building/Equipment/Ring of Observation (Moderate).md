@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ring of Observation (Moderate)
-![[icons-equipment-finger-ring-cabochon-engraved-gold-orange.webp|150]]
 
 This simple gold ring is engraved with eyes and is inlaid with a single amber-colored cat-eye gemstone. While the gemstone itself isn't magical, it gives off the eerie impression that it's watching you. A Firebrand makes use of this ring to determine if they've drawn the attention of locals and guards without the owner giving away the fact that they know others are watching. More powerful versions of the ring help Firebrands escape the sight of others when necessary. The ring can cast _[[Invisibility]]_ on you once per day.
 

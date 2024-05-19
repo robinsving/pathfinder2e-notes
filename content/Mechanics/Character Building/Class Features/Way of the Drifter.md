@@ -9,7 +9,6 @@ tags:
 ---
 
 # Way of the Drifter
-![[systems-pf2e-icons-features-classes-way-of-the-drifter.webp|150]]
 
 You're a wanderer traveling from land to land with your gun and a melee weapon as company. Maybe you learned to fight with blade and pistol as a Shackles pirate, mastered the hand cannon and katana in Minkai, or practiced with a hatchet and clan pistol in Dongun Hold. You win battles by relying on mobility and flexible use of your weapons.
 

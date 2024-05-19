@@ -8,7 +8,6 @@ tags:
 ---
 
 # Phoenix Flask
-![[systems-pf2e-icons-equipment-consumables-potions-phoenix-flask.webp|150]]
 
 **Activate** 1 Interact
 

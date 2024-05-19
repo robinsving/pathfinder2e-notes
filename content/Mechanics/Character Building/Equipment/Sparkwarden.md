@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sparkwarden
-![[systems-pf2e-icons-equipment-tattoos-warding-tattoo.webp|150]]
 
 The geometric designs of this _[[Warding Tattoo]]_ extend the length of your arm, resembling an armored sleeve. The crimson ink sometimes glows softly like warm coals when you're excited or building something new.
 

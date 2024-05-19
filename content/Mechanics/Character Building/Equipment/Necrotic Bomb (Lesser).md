@@ -8,7 +8,6 @@ tags:
 ---
 
 # Necrotic Bomb (Lesser)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-bombs-necrotic-bomb.webp|150]]
 
 **Activate** 1 Strike
 

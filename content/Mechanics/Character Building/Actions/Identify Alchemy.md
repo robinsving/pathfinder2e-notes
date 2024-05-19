@@ -9,7 +9,6 @@ tags:
 ---
 
 # Identify Alchemy
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 **Requirements** You're holding or wearing an [[Alchemist's Toolkit]].
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Zuhra's Gloves
-![[icons-equipment-hand-gauntlet-studded-steel-grey.webp|150]]
 
 This elaborate metallic webbing feels soft when wrapped around your hands and forearms. It constantly shifts its strands and connections. The name of a zuhra shuyookh is etched in Talican on the only part of the item that's unchanging. You gain a +3 item bonus to your Reflex DC against attempts to [[Disarm]] an item you're holding in your hands.
 

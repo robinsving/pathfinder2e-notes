@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Abysium Powder
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-abysium-powder.webp|150]]
 
 **Activate** D Interact
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # The Oscillating Wave
-![[systems-pf2e-icons-features-classes-the-oscillating-wave.webp|150]]
 
 At the heart of all things is energy. Though it may change its form or resting place, it is eternal, fundamental, the purest of building blocks. Your powers let you shift energy-either concentrating it in a single point to explosive end or freezing objects by plundering it away-in an endless oscillation of temperature.
 

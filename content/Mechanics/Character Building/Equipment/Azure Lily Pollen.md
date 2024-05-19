@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Azure Lily Pollen
-![[icons-commodities-flowers-iris-blue.webp|150]]
 
 **Activate** 1 Interact
 

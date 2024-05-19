@@ -8,7 +8,6 @@ tags:
 ---
 
 # Festrem Mortu
-![[icons-sundries-books-book-face-black.webp|150]]
 
 The book's cover is a patchwork of tanned humanoid skin that reeks of rotting meat. The longer a living creature studies this book, the more the scent of decay appeals to them.
 

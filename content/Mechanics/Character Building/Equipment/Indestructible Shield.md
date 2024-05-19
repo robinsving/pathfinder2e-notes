@@ -8,7 +8,6 @@ tags:
 ---
 
 # Indestructible Shield
-![[systems-pf2e-icons-equipment-shields-specific-shields-indestructible-shield.webp|150]]
 
 An _indestructible shield_ is a _high-grade greater reinforcing adamantine shield_ (Hardness 17, HP 136) that can withstand just about any damage. It can be damaged only by a [[Disintegrate]] spell (roll damage as if against a creature that failed its save) or by an artifact tied to destruction.
 

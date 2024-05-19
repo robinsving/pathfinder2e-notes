@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mantle of Amazing Health
-![[icons-equipment-back-cloak-fur-brown.webp|150]]
 
 This ragged cloak doesn't appear to be anything special at first glance, seemingly made from mangy black bear fur with various rings of blackened iron piercing the edge of the skin. While somewhat off-putting, the mantle grants a +2 status bonus to all Fortitude saving throws against disease and poison. When you invest the mantle, you either increase your Constitution score by 2 or increase it to 18, whichever is higher.
 

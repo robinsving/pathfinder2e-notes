@@ -8,7 +8,6 @@ tags:
 ---
 
 # Peachwood Branch
-![[systems-pf2e-icons-equipment-materials-darkwood-branch.webp|150]]
 
 Peachwood, often cultivated by Pharasmin priests, can ward against undead—even incorporeal ones. However, the wood loses its magical properties when it comes in contact with metal, requiring advanced carpentry to make full use of it.
 

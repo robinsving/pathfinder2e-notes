@@ -8,7 +8,6 @@ tags:
 ---
 
 # Necklace of Fireballs I
-![[icons-equipment-neck-collar-rounded-carved-wood-spiral.webp|150]]
 
 This string of beads appears to be a hemp string with lustrous red beads of various sizes hanging from it. When activated, it briefly appears in its true form: a golden chain with golden spheres attached by fine threads.
 

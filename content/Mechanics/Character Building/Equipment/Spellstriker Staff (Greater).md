@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spellstriker Staff (Greater)
-![[icons-weapons-staves-staff-simple.webp|150]]
 
 A _spellstriker staff_ is wrought iron with gleaming arcane sigils etched into its surface and a sharp point at the bottom. Used as a weapon, the staff is a _+2 striking shifting staff_.
 

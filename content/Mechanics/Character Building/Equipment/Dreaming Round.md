@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dreaming Round
-![[systems-pf2e-icons-equipment-consumables-ammunition-dreaming-round.webp|150]]
 
 **Ammunition** round
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Gymnast
-![[systems-pf2e-icons-features-classes-gymnast-style.webp|150]]
 
 You reposition, maneuver, and bewilder your foes with daring feats of physical prowess.
 

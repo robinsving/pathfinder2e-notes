@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lady's Knife
-![[systems-pf2e-icons-equipment-weapons-dagger.webp|150]]
 
 This _+1 striking returning dagger_ has an elaborate, gemmed handle and can be worn strapped to the inside of a wrist or tucked within a decorative bodice. Despite the name, which stems from the dagger's historical basis in Oppara as a lady's favor, this dagger is common among wielders of all genders and has become quite fashionable in Absalom of late, with most nobles who carry them matching their evening finery to the gems on the hilt.
 

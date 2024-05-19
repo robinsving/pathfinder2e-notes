@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vampire-Fang Morningstar
-![[Mechanics/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-weapons-morningstar.webp|150]]
 
 This _+1 striking wounding morningstar_ is studded with teeth pulled from a vampire, which usually requires an animate donor, given vampires' tendency to turn to dust when destroyed.
 

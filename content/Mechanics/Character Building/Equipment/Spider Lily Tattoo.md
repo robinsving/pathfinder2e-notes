@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spider Lily Tattoo
-![[systems-pf2e-icons-equipment-tattoos-warding-tattoo.webp|150]]
 
 The spider lily tattoo marks you as a trusted member of Granny Hu's network. This crimson tattoo fades and becomes [[Invisible]] within a day of being applied, reappearing only when you Activate it, when you gain the [[Doomed]] condition, or when you die. The higher the doomed value, the more vivid the color.
 

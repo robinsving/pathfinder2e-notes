@@ -8,7 +8,6 @@ tags:
 ---
 
 # Slippery Ribbon
-![[systems-pf2e-icons-equipment-consumables-talismans-slippery-ribbon.webp|150]]
 
 **Usage** affixed to armor
 

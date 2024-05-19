@@ -8,7 +8,6 @@ tags:
 ---
 
 # Class Kit (Cleric)
-![[systems-pf2e-icons-equipment-adventuring-gear-classkit-cleric.webp|150]]
 
 **Gear** adventurer's pack, religious symbol (wooden)
 

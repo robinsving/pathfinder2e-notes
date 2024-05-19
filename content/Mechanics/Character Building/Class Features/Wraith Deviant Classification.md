@@ -9,7 +9,6 @@ tags:
 ---
 
 # Wraith Deviant Classification
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-creatures-magical-spirit-undead-ghost-purple.webp|150]]
 
 Wraith-type deviations often result from contact with otherworldly presences or artifacts, comprising a strange assortment of abilities that involve realms beyond our own.
 

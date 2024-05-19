@@ -8,7 +8,6 @@ tags:
 ---
 
 # Immolation Clan Pistol
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-immolation-clan-pistol.webp|150]]
 
 This charred and blackened _+2 striking clan pistol_ is coated in a thick layer of soot and grease and its retort sounds uncomfortably like a scream. Clearly at dangerous risk of misfire, this weapon claimed the life of its dwarven crafter shortly after completion and is haunted by that pained spirit. This ever-burning spirit keeps the firearm warm to the touch, regardless of surrounding environment.
 

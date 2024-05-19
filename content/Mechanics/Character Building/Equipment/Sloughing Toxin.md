@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sloughing Toxin
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-sloughing-toxin.webp|150]]
 
 **Activate** 2 Interact
 

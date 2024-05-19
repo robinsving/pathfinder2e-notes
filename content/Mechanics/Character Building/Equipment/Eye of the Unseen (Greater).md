@@ -8,7 +8,6 @@ tags:
 ---
 
 # Eye of the Unseen (Greater)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-eye-of-the-unseen.webp|150]]
 
 This prosthetic eye was designed by elven crafters but comes in a range of appearances for different ancestries. While wearing the eye, you gain a +2 item bonus to visual Perception checks.
 

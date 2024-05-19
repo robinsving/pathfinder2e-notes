@@ -8,7 +8,6 @@ tags:
 ---
 
 # Iron Equalizer
-![[systems-pf2e-icons-equipment-consumables-talismans-iron-equalizer.webp|150]]
 
 **Usage** affixed to a weapon
 

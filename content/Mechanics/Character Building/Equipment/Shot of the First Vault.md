@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shot of the First Vault
-![[systems-pf2e-icons-equipment-artifacts-shot-at-the-first-vault.webp|150]]
 
 Legends claim that some long-forgotten god stole the original bundle of _shots of the First Vault_ from Abadar's repository. Since then, individual pieces have turned up throughout the multiverse. When you pick up a _shot of the First Vault_, it immediately reshapes itself to function with any ranged weapon and establishes you as its owner until another creature picks it up. As its owner, you can use the shot's single-action activation after shooting it.
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Bag of Weasels
-![[systems-pf2e-icons-equipment-held-items-bag-of-holding.webp|150]]
 
 This item appears to be and functions as a _[[Spacious Pouch (Type I)]]_, until you try to retrieve an item from the bag. Whenever you retrieve an item from the _bag of weasels_, roll a DC 11 flat. On a success, you retrieve the item as normal. On a failure, the item you retrieve is transformed into a weasel; this doesn't affect artifacts, cursed items, or other hard-to-destroy items.
 

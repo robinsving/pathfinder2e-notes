@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Black Powder (Dose or Round)
-![[systems-pf2e-icons-equipment-consumables-other-consumables-black-powder-dose.webp|150]]
 
 **Activate** 1 Interact
 

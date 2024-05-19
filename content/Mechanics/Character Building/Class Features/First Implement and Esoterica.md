@@ -9,7 +9,6 @@ tags:
 ---
 
 # First Implement and Esoterica
-![[systems-pf2e-icons-features-classes-first-implement-and-esoterica.webp|150]]
 
 Your implement is a special object of symbolic importance: your badge as you treat with the supernatural and a powerful tool if things turn violent. Choose an implement from the options presented below:
 

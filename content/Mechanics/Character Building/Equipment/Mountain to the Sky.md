@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mountain to the Sky
-![[systems-pf2e-icons-equipment-structures-mountain-to-the-sky.webp|150]]
 
 **Activate** 1 minute (Interact)
 

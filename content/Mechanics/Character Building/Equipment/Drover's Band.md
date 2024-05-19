@@ -8,7 +8,6 @@ tags:
 ---
 
 # Drover's Band
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-droverss_band.webp|150]]
 
 This black leather wrist guard has a bright red gem on the inside of the wrist. Faint glyphs and words of domination in Infernal swim inside the gem. Your words become harsh and clipped when you have this magic item invested.
 

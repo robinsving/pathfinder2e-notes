@@ -9,7 +9,6 @@ tags:
 ---
 
 # Reconnoiter
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 You spend time surveying and exploring a specific area, getting the lay of the land and looking for unusual features and specific sites. Reconnoitering a single hex takes a number of hexploration activities equal to the number of Travel activities necessary to traverse the hex-1 for open terrain, 2 for difficult terrain, and 3 for greater difficult terrain. Traveling on roads doesn't lessen the time required to Reconnoiter. Once the hex has been Reconnoitered, you can Map the Area to reduce your chance of getting lost in that hex. You automatically find any special feature that doesn't require a check to find, and you attempt the appropriate checks to find hidden special features.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Eidolon
-![[systems-pf2e-icons-features-classes-eidolon.webp|150]]
 
 You have a connection with a powerful and usually otherworldly entity called an eidolon, and you can use your life force as a conduit to manifest this ephemeral entity into the mortal world. Magic also flows through this conduit from your eidolon into you, so your eidolon determines the type of spells you cast and the spell list you choose from (as described in Summoner Spellcasting on page 54).
 

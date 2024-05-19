@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wraithweave Patch (Type II)
-![[systems-pf2e-icons-equipment-treasure-art-objects-lesser-art-object-illuminated-manuscript.webp|150]]
 
 A wraithweave patch appears to be a square sheet of gray cloth that sparkles softly when observed in dim light. An incorporeal creature can touch, hold, and carry wraithweave patches (unlike most physical objects).
 

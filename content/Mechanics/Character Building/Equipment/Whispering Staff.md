@@ -8,7 +8,6 @@ tags:
 ---
 
 # Whispering Staff
-![[icons-weapons-staves-staff-simple-spiral-brown.webp|150]]
 
 This gnarled wooden staff is carved with humanoid faces in various emotional states. When the staff is activated, the faces begin to whisper a variety of languages in sibilant tones, creating what seems to be nonsense to all but the staff's wielder or those they choose to affect. The staff functions as a _major staff of divination_. While using the staff, you gain a +3 item bonus to Decipher Writing, Identify Magic, and Recall Knowledge checks, regardless of the skill. When you invest the staff, you either increase your Intelligence score by 2 or increase it to 18, whichever is higher. You must select the skills and languages the first time you invest the item, and whenever you invest the same _whispering staff_, you get the same skills and languages you chose the first time.
 

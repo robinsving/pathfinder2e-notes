@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Assassin Vine Wine
-![[icons-consumables-drinks-wine-amphora-clay-pink.webp|150]]
 
 **Activate** 1 Interact
 

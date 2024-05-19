@@ -8,7 +8,6 @@ tags:
 ---
 
 # Quick Runner's Shirt
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-quick-runners-shirt.webp|150]]
 
 This light shirt is made of thin fabric embroidered with arrangements of winged feet.
 

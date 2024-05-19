@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mercurial Mantle
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-mercurial-mantle.webp|150]]
 
 This deep red cloak fits lightly about your shoulders, and the edges perpetually twitch slightly, as though caught in a breeze. The cloth feels smoother than silk, rippling and swaying like liquid when in motion. You feel a lively energy infusing your arms and legs. You gain a +3 item bonus to Acrobatics and Stealth, and a +2 circumstance bonus to AC against attacks from reactions triggered by your movement.
 

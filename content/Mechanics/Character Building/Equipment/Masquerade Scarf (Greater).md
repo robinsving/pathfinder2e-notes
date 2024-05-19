@@ -8,7 +8,6 @@ tags:
 ---
 
 # Masquerade Scarf (Greater)
-![[icons-equipment-neck-handkerchief-bandana-blue.webp|150]]
 
 This delicately embroidered scarf matches with every outfit and can even complete a costume or disguise with illusions.
 

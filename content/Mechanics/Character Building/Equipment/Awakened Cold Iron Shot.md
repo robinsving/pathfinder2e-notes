@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Awakened Cold Iron Shot
-![[systems-pf2e-icons-equipment-consumables-ammunition-awakened-cold-iron-shot.webp|150]]
 
 **Ammunition** round
 

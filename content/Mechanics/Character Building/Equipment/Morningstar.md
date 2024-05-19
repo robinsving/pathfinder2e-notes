@@ -8,6 +8,5 @@ tags:
 ---
 
 # Morningstar
-![[Mechanics/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-weapons-morningstar.webp|150]]
 
 This weapon has a short shaft ending in a metal ball studded with spikes.

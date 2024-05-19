@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Aeon Stone (Amber Sphere)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-aeon-stone-gold-nodule.webp|150]]
 
 If you are undead, your body regains much of the appearance it had in life, and you gain a +2 item bonus to Deception to [[Impersonate]] yourself as a living creature. If you're alive, your appearance is the healthiest version of yourself, and you gain a +2 item bonus to [[Make an Impression]] or [[Request]] that involves your strength or vigor.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Explosive Mine (Major)
-![[systems-pf2e-icons-equipment-held-items-explosive-mine.webp|150]]
 
 **Activate**d Interact
 

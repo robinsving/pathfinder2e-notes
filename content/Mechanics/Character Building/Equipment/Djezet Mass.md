@@ -8,7 +8,6 @@ tags:
 ---
 
 # Djezet Mass
-![[systems-pf2e-icons-equipment-materials-djezet-mass.webp|150]]
 
 This rust red metal is liquid at room temperature, making it challenging for all but the most skilled metallurgists to craft with and earning it the name “quickiron” in some places.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spellbook of Redundant Enchantment
-![[icons-sundries-gaming-playing-cards-black.webp|150]]
 
 When opening the book, whispers can be heard on the wind, or laughter rings in the distance.
 

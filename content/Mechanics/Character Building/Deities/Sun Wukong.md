@@ -9,7 +9,6 @@ tags:
 ---
 
 # Sun Wukong
-![[systems-pf2e-icons-deity-Sun Wukong.webp|150]]
 
 **Edicts** Live life freely, drink, play pranks
 

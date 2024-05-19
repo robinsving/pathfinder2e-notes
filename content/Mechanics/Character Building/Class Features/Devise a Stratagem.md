@@ -9,7 +9,6 @@ tags:
 ---
 
 # Devise a Stratagem
-![[systems-pf2e-icons-features-classes-devise-a-stratagem.webp|150]]
 
 You can play out a battle in your head, using brains rather than brawn to execute an attack.
 

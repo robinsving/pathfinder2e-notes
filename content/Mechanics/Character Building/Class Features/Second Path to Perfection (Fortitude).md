@@ -9,7 +9,6 @@ tags:
 ---
 
 # Second Path to Perfection (Fortitude)
-![[systems-pf2e-icons-features-classes-second-path-to-perfection.webp|150]]
 
 You've learned to find perfection in every success.
 

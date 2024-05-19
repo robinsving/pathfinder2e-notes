@@ -8,7 +8,6 @@ tags:
 ---
 
 # Detonating Gears Snare
-![[systems-pf2e-icons-equipment-snares-detonating-gears-snare.webp|150]]
 
 This snare uses clockwork stressed almost to the breaking point, which activates with a powerful explosion that deals 3d8 piercing damage to the first creature entering the snare's square. The creature must attempt a DC 19 reflex saving throw.
 

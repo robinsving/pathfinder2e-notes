@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rope of Climbing (Moderate)
-![[icons-sundries-survival-rope-coiled-brown.webp|150]]
 
 This silk rope measures 50 feet long and is capable of holding up to 3,000 pounds. If the rope is ever cut, only the longest remaining portion retains its magic.
 

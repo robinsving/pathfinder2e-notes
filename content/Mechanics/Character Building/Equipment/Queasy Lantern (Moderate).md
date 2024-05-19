@@ -8,7 +8,6 @@ tags:
 ---
 
 # Queasy Lantern (Moderate)
-![[icons-sundries-lights-lantern-bullseye-signal-copper.webp|150]]
 
 This [[Lantern (Bull's Eye)]] is wrapped in decrepit leather skin. It constantly emits light in a 60 foot cone (and dim light in the next 60 feet). You can close or open internal shutters with an Interact action to block or reveal the light.
 

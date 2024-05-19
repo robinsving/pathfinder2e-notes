@@ -8,7 +8,6 @@ tags:
 ---
 
 # Golden Silencer (Standard)
-![[systems-pf2e-icons-equipment-consumables-other-consumables-golden-silencer.webp|150]]
 
 **Activate** 1 Interact
 

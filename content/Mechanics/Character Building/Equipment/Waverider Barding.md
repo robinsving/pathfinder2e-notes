@@ -8,7 +8,6 @@ tags:
 ---
 
 # Waverider Barding
-![[systems-pf2e-icons-equipment-worn-items-companion-items-waverider-barding.webp|150]]
 
 This light barding is covered in wavelike patterns. The barding adjusts to fit your animal companion regardless of its shape.
 

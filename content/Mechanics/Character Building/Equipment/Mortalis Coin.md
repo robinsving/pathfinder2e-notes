@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mortalis Coin
-![[icons-commodities-currency-coin-embossed-gold-stag.webp|150]]
 
 **Activate** f envision
 

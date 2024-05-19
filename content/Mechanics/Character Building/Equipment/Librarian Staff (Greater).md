@@ -8,7 +8,6 @@ tags:
 ---
 
 # Librarian Staff (Greater)
-![[icons-weapons-staves-staff-simple.webp|150]]
 
 A _librarian staff_ is a slender pole composed of thousands of coiled and compressed book pages swirling into one another, with a mishmash of letters tumbling across its surface. The sound of rustling pages can be heard when the staff moves.
 

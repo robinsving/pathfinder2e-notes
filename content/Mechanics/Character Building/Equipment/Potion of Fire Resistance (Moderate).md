@@ -8,7 +8,6 @@ tags:
 ---
 
 # Potion of Fire Resistance (Moderate)
-![[systems-pf2e-icons-equipment-consumables-potions-potion-of-fire-resistance.webp|150]]
 
 **Activate** A (manipulate)
 

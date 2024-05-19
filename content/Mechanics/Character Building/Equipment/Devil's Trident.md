@@ -8,7 +8,6 @@ tags:
 ---
 
 # Devil's Trident
-![[systems-pf2e-icons-equipment-weapons-trident.webp|150]]
 
 This _+1 striking returning trident_ is made of an ancient black metal that glistens unnaturally and is cold to the touch. The prongs of this trident drip with metallic lake water. Strikes with the _Devil's Trident_ trigger the weaknesses of any creature with a weakness to water.
 

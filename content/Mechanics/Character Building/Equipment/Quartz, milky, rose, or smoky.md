@@ -8,4 +8,3 @@ tags:
 ---
 
 # Quartz, milky, rose, or smoky
-![[systems-pf2e-icons-equipment-treasure-gems-moderate-semiprecious-stones-milky-rose-or-smoky-quartz.webp|150]]

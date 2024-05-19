@@ -9,7 +9,6 @@ tags:
 ---
 
 # Master Spellcaster
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-skills-trades-academics-book-study-purple.webp|150]]
 
 **Bard** You pluck the threads of magic like the strings of a harp. Your proficiency ranks for spell attack modifiers and spell DCs increase to master.
 

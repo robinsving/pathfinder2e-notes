@@ -8,7 +8,6 @@ tags:
 ---
 
 # Codex of Unimpeded Sight (Greater)
-![[icons-sundries-books-book-eye-pink.webp|150]]
 
 A female figure peers through her blindfold from the cover of this stately tome.
 

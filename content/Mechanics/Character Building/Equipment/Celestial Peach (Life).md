@@ -8,7 +8,6 @@ tags:
 ---
 
 # Celestial Peach (Life)
-![[systems-pf2e-icons-equipment-consumables-other-consumables-celestial-peach-life.webp|150]]
 
 **Activate** 1 Interact
 

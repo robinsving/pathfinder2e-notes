@@ -8,4 +8,3 @@ tags:
 ---
 
 # Crystallized dragon heart
-![[systems-pf2e-icons-equipment-treasure-art-objects-major-art-object-crystallized-dragon-heart.webp|150]]

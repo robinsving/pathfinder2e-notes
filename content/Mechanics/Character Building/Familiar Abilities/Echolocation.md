@@ -9,6 +9,5 @@ tags:
 ---
 
 # Echolocation
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 It can use hearing as a precise sense within 20 feet.

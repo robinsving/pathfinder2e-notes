@@ -8,7 +8,6 @@ tags:
 ---
 
 # Eye of the Wise
-![[systems-pf2e-icons-equipment-artifacts-eye-of-the-wise.webp|150]]
 
 This fist-sized, 12-rayed black star sapphire is sacred to Yueral, the elven goddess of magic and jewels, and most accounts of its creation attribute its crafting to a circle of her worshippers. In addition to the abilities listed below, the gem functions as a portal key for Jewelgate at Alseta's Ring.
 

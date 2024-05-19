@@ -8,7 +8,6 @@ tags:
 ---
 
 # Peshpine Grenade (Lesser)
-![[icons-consumables-drinks-tea-jug-gourd-brown.webp|150]]
 
 **Activate** 1 Strike
 

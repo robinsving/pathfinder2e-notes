@@ -8,7 +8,6 @@ tags:
 ---
 
 # Emerald Fulcrum Lens
-![[systems-pf2e-icons-equipment-other-emerald-fulcrum-lenses.webp|150]]
 
 This concave green lens is pitted and flawed; its jagged edges can cut those who don't handle it with care. While you have the Emerald Fulcrum Lens invested, your flesh appears waxen and pallid. You gain void healing and _[[Harm]]_ spells gain a +4 status bonus to the Hit Points they restore to you. You can also activate the lens in the following ways.
 

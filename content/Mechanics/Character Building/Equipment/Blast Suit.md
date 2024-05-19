@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blast Suit
-![[icons-equipment-chest-breastplate-banded-steel-studded.webp|150]]
 
 Crafted from heavy steel plating and riveted together with cunning precision, this suit of +1 resilient [[Full Plate]] is specifically designed to protect against sudden explosions. This added layer of security comes at the cost of movement, however.
 

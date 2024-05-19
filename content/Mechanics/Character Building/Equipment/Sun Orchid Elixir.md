@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sun Orchid Elixir
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-sun-orchid-elixir.webp|150]]
 
 **Activate** A Interact
 

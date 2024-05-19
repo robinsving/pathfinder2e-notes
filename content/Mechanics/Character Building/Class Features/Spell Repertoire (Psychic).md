@@ -9,7 +9,6 @@ tags:
 ---
 
 # Spell Repertoire (Psychic)
-![[icons-sundries-books-book-symbol-spiral-silver-blue.webp|150]]
 
 The collection of spells you can cast is called your spell repertoire. At 1st level, you learn one 1st-level occult spell of your choice and three occult cantrips of your choice. You choose these from the common spells from the occult list or from other occult spells to which you have access. You can cast any spell in your spell repertoire by using a spell slot of an appropriate spell level. Your choice of conscious mind also grants you additional spells in your repertoire, starting with an additional 1st-level spell and two cantrips listed in your conscious mind, which you cast as psi cantrips.
 

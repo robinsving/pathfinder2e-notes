@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Apricot of Bestial Might
-![[icons-consumables-fruit-apricot-ripe-orange.webp|150]]
 
 **Activate** 1 Interact
 

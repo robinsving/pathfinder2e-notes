@@ -8,7 +8,6 @@ tags:
 ---
 
 # Emergency Disguise
-![[systems-pf2e-icons-equipment-consumables-talismans-emergency-disguise.webp|150]]
 
 **Usage** affixed to armor
 

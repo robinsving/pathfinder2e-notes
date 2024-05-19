@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Aeon Stone (Lavender and Green Ellipsoid)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-aeon-stone-lavender-and-green-ellipsoid.webp|150]]
 
 This functions as a pale lavender ellipsoid aeon stone, but it casts an 8th-level _[[Dispel Magic]]_ spell with a counteract modifier of `dice: 1d20+31`.
 

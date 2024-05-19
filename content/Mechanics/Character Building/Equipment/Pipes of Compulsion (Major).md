@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pipes of Compulsion (Major)
-![[icons-tools-instruments-flute-simple-wood.webp|150]]
 
 These panpipes are made of what seems to be beat-up tin bound by frayed leather and look like they shouldn't function at all, but in skilled hands they emit a beautiful sound that beguiles the senses. While playing the pipes, you gain a +2 item bonus to Diplomacy and Performance checks.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ghostly Portal Paint
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-belladonna.webp|150]]
 
 **Activate** 3 Interact
 

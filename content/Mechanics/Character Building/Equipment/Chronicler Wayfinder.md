@@ -8,7 +8,6 @@ tags:
 ---
 
 # Chronicler Wayfinder
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-wayfinder.webp|150]]
 
 Chronicler wayfinders bear a mystical connection to the Pathfinder Chronicles themselves, granting them the ability to assist in situations where unusual lore is needed by drawing on lore from a particular topic. Each chronicler wayfinder is attuned to a specific Lore skill, chosen at the time of creation. In addition to the effects of a [[Wayfinder]], a chronicler wayfinder has the following activation.
 

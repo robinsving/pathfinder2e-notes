@@ -8,7 +8,6 @@ tags:
 ---
 
 # Floating Shield
-![[systems-pf2e-icons-equipment-shields-specific-shields-floating-shield.webp|150]]
 
 A _floating shield_ is usually carved with wing motifs. This buckler (Hardness 6, HP 24, BT 12) can protect you on its own.
 

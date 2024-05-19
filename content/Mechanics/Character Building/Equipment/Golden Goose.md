@@ -8,7 +8,6 @@ tags:
 ---
 
 # Golden Goose
-![[systems-pf2e-icons-equipment-cursed-items-golden-goose.webp|150]]
 
 This life-sized, hollow, golden goose statuette has an open, fanged mouth and an unsettling aura of hunger. Fiends sometimes present it as a gift to mortals whose greed makes them susceptible to temptation. While the _golden goose_ can be used without malice, those who possess such a thing often find its glittering lure erodes their morals over time.
 

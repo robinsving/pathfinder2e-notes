@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Aeon Stone (Olivine Pendeloque)
-![[systems-pf2e-icons-equipment-treasure-gems-moderate-semiprecious-stones-chrysoprase.webp|150]]
 
 An _olivine pendeloque aeon stone_ imparts the calmness of still earth and a solidity of thought, granting you a +2 item bonus to saving throws against effects that cause the [[Confused]], [[Frightened]], or [[Stupefied]] conditions.
 

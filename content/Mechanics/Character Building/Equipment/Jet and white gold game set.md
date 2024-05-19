@@ -8,4 +8,3 @@ tags:
 ---
 
 # Jet and white gold game set
-![[systems-pf2e-icons-equipment-treasure-art-objects-greater-art-object-jet-and-white-gold-game-set.webp|150]]

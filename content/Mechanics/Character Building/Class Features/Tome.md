@@ -9,7 +9,6 @@ tags:
 ---
 
 # Tome
-![[systems-pf2e-icons-features-classes-tome.webp|150]]
 
 Tome implements embody lost knowledge and otherworldly insights. While a weathered book is most common, tome implements can have as many different form factors as there are ways to store knowledge, from carved clay tablets to bundles of knotted cords. Tome implements are associated with the harrow suit of books and the astrological signs of the stargazer and the underworld dragon.
 

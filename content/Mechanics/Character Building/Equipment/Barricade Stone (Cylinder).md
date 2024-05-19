@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Barricade Stone (Cylinder)
-![[systems-pf2e-icons-equipment-materials-silver-ingot.webp|150]]
 
 **Activate** 2 command, Interact
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Absorb Familiar
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 Your familiar can transform into a mark you carry on your flesh, typically seeming like a birthmark, tattoo, or gem that vaguely resembles its normal form. When transformed, the familiar can't act except to turn back into a familiar. It isn't affected by area effects and must be targeted separately to affect it, which requires knowledge that it's a creature.
 

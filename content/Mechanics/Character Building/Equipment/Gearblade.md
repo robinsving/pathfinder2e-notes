@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gearblade
-![[systems-pf2e-icons-equipment-weapons-greatclub.webp|150]]
 
 Shaped like a blade made from spinning gears, this _+2 greater striking_ weapon can catch enemy weapons and grind up foes. In order to function, the _gearblade_ must be wound for 10 minutes once every 24 hours. During this process, you can reconfigure the weapon to transform into a bastard sword, greatsword, longsword, or shortsword. It then gains all the features of the chosen weapon except that its Bulk is always 2 and it gains the disarm weapon trait and the versatile B weapon trait (which replaces any other versatile trait the weapon might have). If you don't wind the gearblade, it becomes inert and has the statistics of a greatclub.
 

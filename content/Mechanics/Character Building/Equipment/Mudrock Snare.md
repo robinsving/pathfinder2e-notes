@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mudrock Snare
-![[systems-pf2e-icons-equipment-snares-mudrock-snare.webp|150]]
 
 Fired clay covers a pit of thin mud interspersed with fragile vials of blue dragon blood. The first creature to step into the square breaks through the clay and sinks into the pit, fracturing the vials and rapidly hardening the mud as it touches the blue dragon blood. That creature must attempt a DC 29 fortitude save as the mud hardens over its legs.
 

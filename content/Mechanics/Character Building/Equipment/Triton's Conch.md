@@ -8,7 +8,6 @@ tags:
 ---
 
 # Triton's Conch
-![[systems-pf2e-icons-equipment-held-items-tritons-conch.webp|150]]
 
 If you put this large opalescent conch shell to your ear, you can hear the sound of the roaring sea crashing against the shore.
 

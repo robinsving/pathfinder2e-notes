@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Berserker's Cloak (Greater)
-![[icons-equipment-back-cloak-brown-accent-brown-layered-collared-fur.webp|150]]
 
 This bearskin includes the head and bared teeth of the mighty creature from which it was taken. When worn, the cloak drapes over your head and around your shoulders, imbuing you with a bear's ferocity.
 

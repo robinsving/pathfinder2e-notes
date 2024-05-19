@@ -9,7 +9,6 @@ tags:
 ---
 
 # Daikitsu
-![[systems-pf2e-icons-deity-Daikitsu.webp|150]]
 
 It is not surprising that the Tian Xia goddess Daikitsu is a common object of veneration, given that she has the everyday subjects of rice, agriculture, and craftsmanship under her divine purview. Her holy symbol is that of a nine-tailed fox.
 

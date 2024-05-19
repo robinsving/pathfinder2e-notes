@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Cavern Kobold
-![[systems-pf2e-icons-features-ancestry-cavern-kobold.webp|150]]
 
 You hatched into a warren among narrow tunnels and countless kin. Your body is flexible.
 

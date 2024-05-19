@@ -8,7 +8,6 @@ tags:
 ---
 
 # Oculus of Abaddon
-![[icons-commodities-gems-pearl-fire-swirl.webp|150]]
 
 An _oculus of Abaddon_ is a potent artifact rumored to have been created by one of the Four Horsemen of the Apocalypse as a way to reward those who work as their agents on the Material Plane. More likely, these items were crafted by a powerful pre-Earthfall death cult that has long since moved on, leaving behind these dangerous artifacts to tempt mortals into serving the needs of the Horsemen.
 

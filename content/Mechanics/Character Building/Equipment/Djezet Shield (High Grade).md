@@ -8,7 +8,6 @@ tags:
 ---
 
 # Djezet Shield (High Grade)
-![[systems-pf2e-icons-equipment-shields-precious-material-shields-djezet-shield.webp|150]]
 
 The burnished red faces of djezet-alloy shields attract effects made of pure magic.
 

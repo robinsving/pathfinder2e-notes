@@ -9,7 +9,6 @@ tags:
 ---
 
 # Storm Order
-![[icons-magic-lightning-bolt-strike-clouds-blue.webp|150]]
 
 Whether you were born under a tempest or survived a bolt of lightning from a clear blue sky, you now carry the fury of the storm in your heart, channeling thunder to terrifying destructive effect and riding the winds through the air.
 

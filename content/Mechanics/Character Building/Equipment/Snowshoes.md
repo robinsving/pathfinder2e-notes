@@ -8,7 +8,6 @@ tags:
 ---
 
 # Snowshoes
-![[systems-pf2e-icons-equipment-adventuring-gear-snowshoes.webp|150]]
 
 These specialized pieces of footwear are designed to distribute the wearer's weight over a larger area to prevent them from sinking while walking on snow. They are typically made with a wood frame and rawhide lacings that are tied over the wearer's other footwear.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Candlecap
-![[icons-equipment-head-cap-simple-leather-brown.webp|150]]
 
 The crown of a _candlecap_ is stitched leather sewn in the shape of a small bowl. Fixed inside the bowl is a melted nub of wax with a small black wick.
 

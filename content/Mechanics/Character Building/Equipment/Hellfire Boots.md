@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hellfire Boots
-![[icons-equipment-feet-boots-armored-steel-purple.webp|150]]
 
 These heavy boots are made of blackened metal and always feel warm to the touch, with streams of glowing embers cascading off their heels. While wearing _hellfire boots_, you gain resistance 10 to fire damage.
 

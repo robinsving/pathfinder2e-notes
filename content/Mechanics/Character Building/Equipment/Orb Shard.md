@@ -8,7 +8,6 @@ tags:
 ---
 
 # Orb Shard
-![[systems-pf2e-icons-equipment-artifacts-orb-shard.webp|150]]
 
 A shard of the _Orb of Gold Dragonkind_ resembles a pointed length of crystal about the size and shape of a shortsword without a hilt. It functions as a _+3 striking shortsword_ that deals 2d6 extra damage to dragons.
 

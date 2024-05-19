@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vermin Repellent Agent (Lesser)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-vermin-repellent-agent.webp|150]]
 
 **Activate** 3 Interact
 

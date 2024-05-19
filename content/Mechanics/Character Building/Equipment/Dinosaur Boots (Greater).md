@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dinosaur Boots (Greater)
-![[icons-equipment-feet-boots-leather-green.webp|150]]
 
 The tough, scaled leather of these heavy boots comes from a mighty dinosaur, granting you the steadiness of a lumbering beast. Any time an action or effect would cause you to make a forced movement, roll a DC 17 flat check. On a success, the forced movement fails to affect you.
 

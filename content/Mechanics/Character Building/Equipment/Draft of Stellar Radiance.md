@@ -8,7 +8,6 @@ tags:
 ---
 
 # Draft of Stellar Radiance
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-quicksilver-mutagen.webp|150]]
 
 **Activate** 1 Interact
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Breastplate of Command
-![[icons-equipment-chest-breastplate-gorget-steel-purple.webp|150]]
 
 This _+1 resilient breastplate_ is made from shining bronze overlaid with reinforcing golden panels in the shape of lion's heads. Wearing this breastplate grants you a commanding aura. You gain a +2 item bonus to Diplomacy checks, but you take a -2 item penalty to Stealth checks to [[Hide]] and [[Sneak]] and Deception checks to [[Impersonate]].
 

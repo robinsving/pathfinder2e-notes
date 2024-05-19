@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Antimagic
-![[systems-pf2e-icons-equipment-runes-armor-property-runes-armor-property-runes.webp|150]]
 
 **Activate—Antimagic Armor** R (concentrate)
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rod of Cancellation
-![[systems-pf2e-icons-equipment-held-items-rod-of-cancellation.webp|150]]
 
 This powerful magic rod is inimical to all magic.
 

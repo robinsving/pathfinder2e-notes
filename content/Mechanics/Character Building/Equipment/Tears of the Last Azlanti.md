@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tears of the Last Azlanti
-![[systems-pf2e-icons-equipment-artifacts-tears-of-the-last-azlanti.webp|150]]
 
 This gold necklace sports six bails, each with a different aeon stone. The backside of each bail is engraved with a single ancient Azlanti rune: Patience, Remembrance, Resilience, Tenacity, Wisdom, Invention.
 

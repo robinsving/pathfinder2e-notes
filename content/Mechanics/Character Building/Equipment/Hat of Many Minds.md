@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hat of Many Minds
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-hat-of-many-minds.webp|150]]
 
 This pointy, brimmed hat made up of a rainbow patchwork of various materials seems to sit just a little lopsided on your head, no matter how you adjust it. You gain a +2 item bonus to checks to Earn Income.
 

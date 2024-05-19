@@ -8,4 +8,3 @@ tags:
 ---
 
 # Citrine
-![[systems-pf2e-icons-equipment-treasure-gems-moderate-semiprecious-stones-citrine.webp|150]]

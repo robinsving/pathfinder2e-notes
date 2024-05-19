@@ -8,7 +8,6 @@ tags:
 ---
 
 # Retrieval Prism
-![[systems-pf2e-icons-equipment-consumables-talismans-retrieval-prism.webp|150]]
 
 **Usage** affixed to armor
 

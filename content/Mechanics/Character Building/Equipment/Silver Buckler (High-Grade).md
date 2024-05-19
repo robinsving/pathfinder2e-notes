@@ -8,7 +8,6 @@ tags:
 ---
 
 # Silver Buckler (High-Grade)
-![[systems-pf2e-icons-equipment-shields-precious-material-shields-silver-buckler.webp|150]]
 
 Silver shields don't typically have an additional effect, though when used for a shield bash, they are silver weapons.
 

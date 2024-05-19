@@ -9,7 +9,6 @@ tags:
 ---
 
 # Construct Innovation
-![[systems-pf2e-icons-features-classes-construct-innovation.webp|150]]
 
 Your innovation is a mechanical creature, such as a clockwork construct made of cogs and gears. It's a prototype construct companion, and you can adjust most of its base statistics by taking feats at higher levels, such as Advanced Companion. If you use the Overdrive action, your construct gains the same Overdrive benefits you do, and it also takes the same amount of fire damage on a critical failure.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ring of Counterspells
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-ring-of-counterspells.webp|150]]
 
 This ornate silver ring bears two competing geometric designs of brightly colored and wildly clashing inlaid gemstones. A spellcaster can cast a single spell into this ring as long as no spell is currently stored within, expending the normal time, costs, and so forth to Cast the Spell. The spell's effect doesn't occur; the spell's power is instead stored within the ring.
 

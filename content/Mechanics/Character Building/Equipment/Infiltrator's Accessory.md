@@ -8,7 +8,6 @@ tags:
 ---
 
 # Infiltrator's Accessory
-![[Mechanics/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-weapons-sword-cane.webp|150]]
 
 This elegant +1 striking sword cane serves equally well as a fashionable accessory and hidden weapon suitable for high-society events where weapons aren't typically permitted.
 

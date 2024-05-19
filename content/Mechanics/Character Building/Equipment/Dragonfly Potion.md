@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dragonfly Potion
-![[systems-pf2e-icons-equipment-consumables-potions-dragonfly-potion.webp|150]]
 
 **Activate** 1 Interact
 

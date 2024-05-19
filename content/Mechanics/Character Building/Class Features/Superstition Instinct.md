@@ -9,7 +9,6 @@ tags:
 ---
 
 # Superstition Instinct
-![[icons-weapons-wands-wand-skull-horned.webp|150]]
 
 A deep distrust of magic drives you to forgo and counter the metaphysical nonsense of spellcasters. Whether you're a member of a superstitious family or culture that distrusts magic, a warrior in constant battle against wizards and witches, a survivor of a magical accident that instilled an intense aversion in your mind and body, or a scion of a bloodline known for its magic resistance, your rage is inimical to magic.
 

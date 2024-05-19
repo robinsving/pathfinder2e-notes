@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spellcutter
-![[systems-pf2e-icons-equipment-weapons-longsword.webp|150]]
 
 The blade of this _+2 greater striking adamantine longsword_ seems to absorb light from the air around it, giving the impression the wielder is standing in the shadow of a much larger creature.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shortbread Spy
-![[systems-pf2e-icons-equipment-consumables-other-consumables-shortbread-spy.webp|150]]
 
 **Activate** 1 minute (Interact)
 

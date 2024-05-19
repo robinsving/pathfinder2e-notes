@@ -8,7 +8,6 @@ tags:
 ---
 
 # Noisemaker Snare
-![[systems-pf2e-icons-equipment-snares-noisemaker-snare.webp|150]]
 
 When a creature enters this snare's square, it triggers an extremely loud clockwork device, which explodes with a bang that can be heard from 200 feet away and deals 1d8 fire damage. The creature must attempt a DC 18 reflex save.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Teeming Ghosts (6th-Level Spell)
-![[systems-pf2e-icons-equipment-wands-specialty-wands-wand-of-teeming-ghosts.webp|150]]
 
 This pale wooden wand is carved to resemble a thigh bone with metal caps at each end. Ghostly tendrils seem to swirl around it every so often.
 

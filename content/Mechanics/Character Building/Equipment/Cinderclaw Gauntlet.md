@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cinderclaw Gauntlet
-![[icons-equipment-hand-gauntlet-cuffed-steel-blue.webp|150]]
 
 This sharp-taloned _+1 striking spiked gauntlet_ appears to have been crafted from dragon scales, with claws built from iron. In addition to the typical weapon traits, a Cinderclaw gauntlet has the versatile S trait.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mirror of Sorshen
-![[systems-pf2e-icons-equipment-artifacts-mirror-of-sorshen.webp|150]]
 
 The silvery glass of this oval mirror displays alluring sights. Its dark wooden frame is studded with small green gems and is carved with a pair of sensuous humanoid shapes—one on the edge of each side of the glass.
 

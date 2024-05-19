@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lucky Draw Bandolier (Greater)
-![[systems-pf2e-icons-equipment-adventuring-gear-bandolier.webp|150]]
 
 This beige bandolier has a rectangular holster, which allows it to contain a standard-sized Harrow deck, and red pockets embroidered with goldwork in a strange but appealing mixture of Alkenstar and Varisian motifs.
 

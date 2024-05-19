@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Aeon Stone (Azure Briolette)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-aeon-stone-azure-briolette.webp|150]]
 
 This aeon stone must be activated to provide a benefit.
 

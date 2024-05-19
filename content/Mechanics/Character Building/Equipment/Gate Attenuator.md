@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gate Attenuator
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-gate-attenuator.webp|150]]
 
 _Gate attenuators_ are typically worn near the body's core and are shaped like portals or passageways, making literal the elemental gates kineticists possess within their bodies. The appearance can vary from a simple disk with a hole in the middle to a design matching a city gate of a particular settlement. If you're a kineticist, the attenuator grants you a +1 item bonus to your impulse attack modifier (but not to your impulse DC). When you invest a _gate attenuator_, attune it to one element of your choice. Designs on the attenuator's surface transform to match that element, and the attenuator gains the element's trait until it's no longer invested or is attuned to a different element.
 

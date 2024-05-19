@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Bag of Cats
-![[icons-containers-bags-sack-leather-blue.webp|150]]
 
 This beautiful leather bag is lined in soft fur and purrs quietly when pet.
 

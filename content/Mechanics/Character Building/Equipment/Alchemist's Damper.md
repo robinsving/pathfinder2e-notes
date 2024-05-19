@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Alchemist's Damper
-![[systems-pf2e-icons-equipment-consumables-talismans-alchemists-damper.webp|150]]
 
 **Activate** f envision
 

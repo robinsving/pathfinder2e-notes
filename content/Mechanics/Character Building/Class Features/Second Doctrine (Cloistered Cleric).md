@@ -9,6 +9,5 @@ tags:
 ---
 
 # Second Doctrine (Cloistered Cleric)
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-magic-light-orb-hands-humanoid-yellow.webp|150]]
 
 Your proficiency rank for Fortitude saves increases to expert.

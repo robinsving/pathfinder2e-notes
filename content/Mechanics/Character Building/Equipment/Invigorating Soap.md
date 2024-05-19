@@ -8,7 +8,6 @@ tags:
 ---
 
 # Invigorating Soap
-![[icons-sundries-survival-soap.webp|150]]
 
 **Activate** 10 minutes (Interact)
 

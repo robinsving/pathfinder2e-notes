@@ -8,6 +8,5 @@ tags:
 ---
 
 # Soap
-![[icons-sundries-survival-soap.webp|150]]
 
 Bar of soap.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vine of Roses
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-vine-of-roses.webp|150]]
 
 This _+1 striking disrupting spiked chain_ comes in a rich, green color with rose petals painted on the handle in varying shades of red and pink. The chain seems to banish nearby shadows.
 

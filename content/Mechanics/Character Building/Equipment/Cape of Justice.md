@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cape of Justice
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-backfire-mantle.webp|150]]
 
 While Yaezhing is feared and seldom worshipped in the open, some regions of Tian Xia see him as a god of necessary evil and their only hope for justice. This garment is often worn by bounty hunters or priests of Yaezhing, yet non-worshippers of the god of harsh justice sometimes wear this item without fear of religious persecution. The red cape appears almost black while in the shadows, with a lighter red mandala pattern on it that resembles a shuriken.
 

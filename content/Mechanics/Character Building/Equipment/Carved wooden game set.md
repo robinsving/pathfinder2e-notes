@@ -8,4 +8,3 @@ tags:
 ---
 
 # Carved wooden game set
-![[systems-pf2e-icons-equipment-treasure-art-objects-minor-art-object-carved-wooden-game-set.webp|150]]

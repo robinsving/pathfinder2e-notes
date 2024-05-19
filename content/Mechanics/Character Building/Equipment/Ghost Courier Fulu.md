@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ghost Courier Fulu
-![[systems-pf2e-icons-equipment-consumables-fulus-fulu-modest.webp|150]]
 
 **Activate** 2 command, Interact
 

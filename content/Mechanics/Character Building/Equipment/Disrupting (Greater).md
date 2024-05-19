@@ -8,7 +8,6 @@ tags:
 ---
 
 # Disrupting (Greater)
-![[systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
 
 A _greater vitalizing_ weapon pulses with vital energy, dealing an extra 2d6 persistent vitality damage to undead.
 

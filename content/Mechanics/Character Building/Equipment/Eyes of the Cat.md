@@ -10,6 +10,5 @@ tags:
 ---
 
 # Eyes of the Cat
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-eyes-of-the-eagle.webp|150]]
 
 These lenses of amber crystal fit over your eyes. They grant you low-light vision and a +2 item bonus to Perception checks that involve sight.

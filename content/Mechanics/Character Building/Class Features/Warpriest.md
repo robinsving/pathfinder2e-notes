@@ -9,7 +9,6 @@ tags:
 ---
 
 # Warpriest
-![[systems-pf2e-icons-features-classes-warpriest.webp|150]]
 
 You have trained in the more militant doctrine of your church, focusing on both spells and battle.
 

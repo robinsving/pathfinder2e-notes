@@ -8,7 +8,6 @@ tags:
 ---
 
 # Colorful Coating (Violet)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-colorful-coating-violet.webp|150]]
 
 **Activate** 3 Interact
 

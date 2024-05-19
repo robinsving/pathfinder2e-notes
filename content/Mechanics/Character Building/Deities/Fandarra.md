@@ -9,7 +9,6 @@ tags:
 ---
 
 # Fandarra
-![[systems-pf2e-icons-deity-Fandarra.webp|150]]
 
 Fandarra is primarily worshipped throughout the Realm of the Mammoth Lords as a goddess of life cycles—including fertility, birth, life, and death. Local legends claim Fandarra was birthed from the earth's womb, the legendary cave Atakal, as the first living being. From her, all other life sprang. She gave birth to all people, all animals, and all deities—except for Pharasma, the Judge of Souls, who exists outside of the cycle of life and death. The blood spilled during these labors soaked the soil, making it fertile and causing plants to grow. Blood, death, and pain are nothing to fear. Like life, they're a normal and integral part of the life cycle and should be respected. Fandarra is the Mother of All, also known as the Earth Mother or the Blood Mother, and is one of the most widely worshipped deities throughout the Realm of the Mammoth Lords.
 

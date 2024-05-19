@@ -8,4 +8,3 @@ tags:
 ---
 
 # Gold mask of a high priest
-![[systems-pf2e-icons-equipment-treasure-art-objects-greater-art-object-gold-mask-of-a-high-priest.webp|150]]

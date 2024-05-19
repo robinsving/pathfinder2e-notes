@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spacious Pouch (Type III)
-![[systems-pf2e-icons-equipment-held-items-bag-of-holding.webp|150]]
 
 Though it appears to be a cloth bag decorated with panels of richly colored silk or stylish embroidery, a _spacious pouch_ opens into a magical space larger than its outside dimensions. The Bulk held inside the bag doesn't change the Bulk of the _spacious pouch_ itself. The amount of Bulk the bag's extradimensional space can hold depends on its type.
 

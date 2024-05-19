@@ -8,7 +8,6 @@ tags:
 ---
 
 # Socialite Staff
-![[icons-weapons-staves-staff-ornate-hook.webp|150]]
 
 A _socialite staff_ is designed as an ornate cane, its metal body glimmering with jewels and gold inlays. A sculpture carved from obsidian tops the head of the staff, its design depending on its wielder's taste. Common choices include birds, flowers, or family crests. While wielding a socialite staff, you gain a +2 circumstance bonus to [[Make an Impression]] on members of high society.
 

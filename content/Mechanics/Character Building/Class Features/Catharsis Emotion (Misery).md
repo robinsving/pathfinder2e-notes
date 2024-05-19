@@ -9,7 +9,6 @@ tags:
 ---
 
 # Catharsis Emotion (Misery)
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-magic-control-fear-fright-white.webp|150]]
 
 To suffer is to know you're alive; to make your enemies suffer as greatly as you have eases your suffering.
 

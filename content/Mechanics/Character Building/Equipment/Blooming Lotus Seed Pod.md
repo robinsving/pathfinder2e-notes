@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blooming Lotus Seed Pod
-![[systems-pf2e-icons-equipment-structures-gourd-home.webp|150]]
 
 The seeds of this lotus seed pod scatter with incredible ease and accuracy, quickly growing into temporary plants.
 

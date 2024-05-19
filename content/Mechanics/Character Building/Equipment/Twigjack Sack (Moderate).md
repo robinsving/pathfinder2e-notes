@@ -8,7 +8,6 @@ tags:
 ---
 
 # Twigjack Sack (Moderate)
-![[icons-containers-bags-sack-leather-brown-green.webp|150]]
 
 **Activate** 1 Strike
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Artisan's Toolkit (Sterling)
-![[systems-pf2e-icons-equipment-adventuring-gear-artisan-tools.webp|150]]
 
 You need these tools to create items from raw materials with the Craft skill. Sterling artisan's tools give you a +1 item bonus to the check.
 

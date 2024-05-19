@@ -9,7 +9,6 @@ tags:
 ---
 
 # Giant Instinct
-![[icons-creatures-magical-humanoid-horned-rider.webp|150]]
 
 Your rage gives you the raw power and size of a giant. This doesn't necessarily mean you revere giants-you might scoff at them or even aspire to slay them! You could instead seem like a giant to other people due to your exceptional strength or larger-than-life emotions and ego.
 

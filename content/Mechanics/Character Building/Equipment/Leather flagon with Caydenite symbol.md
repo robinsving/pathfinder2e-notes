@@ -8,4 +8,3 @@ tags:
 ---
 
 # Leather flagon with Caydenite symbol
-![[systems-pf2e-icons-equipment-treasure-art-objects-minor-art-object-leather-flagon-with-caydenite-symbol.webp|150]]

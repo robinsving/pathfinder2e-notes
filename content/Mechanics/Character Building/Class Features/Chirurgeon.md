@@ -9,7 +9,6 @@ tags:
 ---
 
 # Chirurgeon
-![[systems-pf2e-icons-features-classes-chirurgeon.webp|150]]
 
 You concentrate on healing others with alchemy. You start with the formulas for two common 1st-level alchemical elixirs with the healing trait, in addition to your other formulas.
 

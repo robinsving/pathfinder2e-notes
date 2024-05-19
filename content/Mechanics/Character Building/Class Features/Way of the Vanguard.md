@@ -9,7 +9,6 @@ tags:
 ---
 
 # Way of the Vanguard
-![[systems-pf2e-icons-features-classes-way-of-the-vanguard.webp|150]]
 
 You practice a unique combat style originated by dwarven siege engineers, using heavy weapons with wide attack areas to blast holes through enemy lines, clear an opening for your allies, and defend the conquered territory.
 

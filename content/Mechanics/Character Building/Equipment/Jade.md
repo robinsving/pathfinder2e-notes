@@ -8,4 +8,3 @@ tags:
 ---
 
 # Jade
-![[systems-pf2e-icons-equipment-treasure-gems-greater-semiprecious-stones-jade.webp|150]]

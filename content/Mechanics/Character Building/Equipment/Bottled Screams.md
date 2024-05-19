@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bottled Screams
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-consumables-drinks-wine-amphora-clay-blue.webp|150]]
 
 **Activate** A envision
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Oily Button
-![[systems-pf2e-icons-equipment-consumables-talismans-oily-button.webp|150]]
 
 **Usage** affixed to armor
 

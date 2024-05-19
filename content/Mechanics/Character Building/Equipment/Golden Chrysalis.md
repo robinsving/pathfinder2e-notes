@@ -8,7 +8,6 @@ tags:
 ---
 
 # Golden Chrysalis
-![[systems-pf2e-icons-equipment-consumables-ammunition-golden-chrysalis.webp|150]]
 
 **Activate** 1 Interact
 

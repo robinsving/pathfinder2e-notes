@@ -8,7 +8,6 @@ tags:
 ---
 
 # Water Purifier
-![[systems-pf2e-icons-equipment-adventuring-gear-water-purifier.webp|150]]
 
 This small tube of metal and glass has an opening at one end into which water can be poured, leading to a series of interconnected chambers filled with purifying agents contained between various perforated walls. The purifier attempts to counteract poisons and other toxins present in water or any other liquid poured into it. Alchemically-treated replacement filters can be purchased to more effectively filter out more dangerous substances, using the filter's listed level as the counteract level.
 

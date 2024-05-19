@@ -8,7 +8,6 @@ tags:
 ---
 
 # Living Leaf Weave
-![[icons-equipment-chest-breastplate-collared-steel-green.webp|150]]
 
 **Activate** 1 Interact
 

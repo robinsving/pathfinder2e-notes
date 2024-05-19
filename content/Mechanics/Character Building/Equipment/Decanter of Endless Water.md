@@ -8,7 +8,6 @@ tags:
 ---
 
 # Decanter of Endless Water
-![[systems-pf2e-icons-equipment-held-items-decanter-of-endless-water.webp|150]]
 
 This item looks like an ordinary glass flask full of water. The stopper can't be removed unless you speak one of the item's three command words, each of which causes water to pour forth in a different way. Pulling the stopper straight out creates fresh water, and rotating it as you pull creates salt water. Any effect of the decanter lasts until the decanter is plugged (with its own stopper, a finger, or the like).
 

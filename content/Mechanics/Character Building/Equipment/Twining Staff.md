@@ -8,7 +8,6 @@ tags:
 ---
 
 # Twining Staff
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-twining-staff.webp|150]]
 
 Appearing to be just a small, flat disk made of twigs, this item can grow and shrink. Once formed, this oak staff is carved with twisting patterns along its length.
 

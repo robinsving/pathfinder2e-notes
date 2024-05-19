@@ -9,4 +9,3 @@ draft: true
 ---
 
 # Amber
-![[icons-commodities-gems-gem-amber-insect-orange.webp|150]]

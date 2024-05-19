@@ -8,7 +8,6 @@ tags:
 ---
 
 # Locket of Sealed Nightmares
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-locket-of-sealed-nightmares.webp|150]]
 
 As long as this locket of horn and silver is closed, you don't need to sleep. However, you can still overexert your body with too much activity, so you still need to rest to avoid becoming fatigued or to remove the fatigued condition.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cloak of the False Foe
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-cloack-of-the-false-foe.webp|150]]
 
 Images of strange animals and distorted figures are woven into this coarse, fur-lined cloak.
 

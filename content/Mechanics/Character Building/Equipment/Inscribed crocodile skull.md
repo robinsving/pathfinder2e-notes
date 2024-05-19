@@ -8,4 +8,3 @@ tags:
 ---
 
 # Inscribed crocodile skull
-![[systems-pf2e-icons-equipment-treasure-art-objects-lesser-art-object-inscribed-crocodile-skull.webp|150]]

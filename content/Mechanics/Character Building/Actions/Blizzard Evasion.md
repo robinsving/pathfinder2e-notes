@@ -9,7 +9,6 @@ tags:
 ---
 
 # Blizzard Evasion
-![[Mechanics/Character Building/Actions/zz_asset-files/systems-pf2e-icons-spells-flowing-strike.webp|150]]
 
 **Frequency** once per day
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Plate Armor of the Deep
-![[systems-pf2e-icons-equipment-armor-specific-magic-armor-plate-armor-of-the-deep.webp|150]]
 
 This suit of +2 greater resilient full plate is decorated with swirling, ornate motifs of waves and fish scales.
 

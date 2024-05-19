@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Alloy Orb (Standard-Grade)
-![[icons-commodities-metal-fragments-steel-ring.webp|150]]
 
 **Activate** A (concentrate)
 

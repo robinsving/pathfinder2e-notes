@@ -8,7 +8,6 @@ tags:
 ---
 
 # Exuviae Powder
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-graveroot.webp|150]]
 
 **Activate** 1 (manipulate)
 

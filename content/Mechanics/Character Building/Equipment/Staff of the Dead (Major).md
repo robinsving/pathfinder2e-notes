@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of the Dead (Major)
-![[icons-weapons-staves-staff-skull-feathers-brown.webp|150]]
 
 This twisted and grim-looking staff is adorned with hideous skull and bone motifs. Creatures summoned using this staff gain a number of temporary Hit Points equal to the level of the spell used to summon them.
 

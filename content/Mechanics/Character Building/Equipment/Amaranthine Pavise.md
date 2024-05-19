@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Amaranthine Pavise
-![[systems-pf2e-icons-equipment-shields-specific-shields-amaranthine-pavise.webp|150]]
 
 This tower shield was developed by followers of Ketephys, the elven god of the hunt. It's distinct for having a central ridge, and for being made from only wood and hide. AC increases to +4 if you are using the [[Take Cover]] action.
 

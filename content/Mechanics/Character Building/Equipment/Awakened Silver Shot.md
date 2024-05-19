@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Awakened Silver Shot
-![[systems-pf2e-icons-equipment-consumables-ammunition-awakened-silver-shot.webp|150]]
 
 **Ammunition** round
 

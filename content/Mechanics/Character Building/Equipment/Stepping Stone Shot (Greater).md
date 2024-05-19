@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stepping Stone Shot (Greater)
-![[systems-pf2e-icons-equipment-consumables-ammunition-stepping-stone-shot.webp|150]]
 
 **Ammunition** round
 

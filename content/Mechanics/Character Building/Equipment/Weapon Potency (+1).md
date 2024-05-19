@@ -8,7 +8,6 @@ tags:
 ---
 
 # Weapon Potency (+1)
-![[systems-pf2e-icons-equipment-runes-fundamental-weapon-runes-weapon-potency.webp|150]]
 
 Magical enhancements make this weapon strike true. Attack rolls with this weapon gain a +1 item bonus, and the weapon can be etched with one property rune.
 

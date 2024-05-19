@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of the Spider (4th-Level Spell)
-![[systems-pf2e-icons-equipment-wands-specialty-wands-wand-of-the-snowfields.webp|150]]
 
 The handle of this wand is a 5-inch-long piece of rosewood, but most of its length is a pair of twisted spider legs covered in gossamer webbing.
 

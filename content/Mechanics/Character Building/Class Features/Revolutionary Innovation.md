@@ -9,7 +9,6 @@ tags:
 ---
 
 # Revolutionary Innovation
-![[systems-pf2e-icons-features-classes-revolutionary-innovation.webp|150]]
 
 You are an unparalleled genius and have discovered a technique that will revolutionize your chosen field-or at least for the time being, your innovation! Choose a revolutionary modification to apply to your innovation. You can also choose an initial or breakthrough modification of the same type instead, if you prefer.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Iron Cudgel
-![[systems-pf2e-icons-equipment-consumables-talismans-iron-cudgel.webp|150]]
 
 This miniature iron cudgel is typically affixed to a weapon by an iron chain. When you activate the cudgel, you use Brutal Finish, as the fighter feat. You must meet the normal requirements, including those of the press trait.
 

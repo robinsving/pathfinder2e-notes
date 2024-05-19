@@ -8,4 +8,3 @@ tags:
 ---
 
 # Simple painting
-![[systems-pf2e-icons-equipment-treasure-art-objects-minor-art-object-simple-painting.webp|150]]

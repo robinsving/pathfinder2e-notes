@@ -9,7 +9,6 @@ tags:
 ---
 
 # Third Doctrine
-![[icons-magic-symbols-question-stone-yellow.webp|150]]
 
 You gain the third benefit of your doctrine:
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dragonbone Arrowhead
-![[systems-pf2e-icons-equipment-consumables-ammunition-dragonbone-arrowhead.webp|150]]
 
 **Usage** affixed to a melee weapon or a ranged weapon with the thrown trait
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dragonhide Buckler (Standard-Grade)
-![[systems-pf2e-icons-equipment-shields-precious-material-shields-dragonhide-buckler.webp|150]]
 
 Dragonhide shields are each immune to one damage type based on the type of dragon.
 

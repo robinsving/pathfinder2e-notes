@@ -8,7 +8,6 @@ tags:
 ---
 
 # Games (Loaded Dice)
-![[systems-pf2e-icons-equipment-held-items-games.webp|150]]
 
 A nigh-infinite assortment of games exist in Golarion. Simple games, including dice, a deck of cards, or dominoes, cost 5 sp. Board games vary in cost from 1 gp for dexterity games like Bungle, 3 gp for colorful children's games like Cauldron Quest, and 5 gp for complex strategy games like Kingmaker and Abendego Raiders. Lavish game sets can cost much more than these prices, as they are made of expensive components and are intricately crafted works of art unto themselves.
 

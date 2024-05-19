@@ -9,6 +9,5 @@ tags:
 ---
 
 # Debilitating Strike
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-skills-melee-strike-sword-blood-red.webp|150]]
 
 When taking advantage of an opening, you both hinder and harm your foe. You gain the [[Debilitating Strike]] free action.

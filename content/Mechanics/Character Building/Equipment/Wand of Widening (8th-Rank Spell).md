@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Widening (8th-Rank Spell)
-![[systems-pf2e-icons-equipment-wands-specialty-wands-wand-of-widening.webp|150]]
 
 The end of this wand is forked with a peridot setting.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Field Discovery (Bomber)
-![[systems-pf2e-icons-features-classes-field-discovery-bomber.webp|150]]
 
 You learn a special discovery depending on your field.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sunken Pistol
-![[icons-weapons-guns-gun-pistol-wood.webp|150]]
 
 **Perception** +12; precise vision 30 feet, imprecise hearing 30 feet
 

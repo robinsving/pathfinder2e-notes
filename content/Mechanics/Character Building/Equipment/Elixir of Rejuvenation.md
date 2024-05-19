@@ -8,7 +8,6 @@ tags:
 ---
 
 # Elixir of Rejuvenation
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-elixir-of-rejuvenation.webp|150]]
 
 **Activate** A Interact
 

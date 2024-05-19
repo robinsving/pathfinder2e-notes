@@ -9,7 +9,6 @@ tags:
 ---
 
 # Gain Contact
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 You try to make contact with an individual who can aid you in the infiltration. Attempt a normal, hard, or very hard DC Diplomacy or Society check, or a check using a Lore skill appropriate to your prospective contact.
 

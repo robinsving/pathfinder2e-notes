@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Mountainkeeper Tengu
-![[systems-pf2e-icons-features-ancestry-mountainkeeper-tengu.webp|150]]
 
 You come from a line of tengu ascetics, leaving you with a link to the spirits of the world and the Great Beyond. You can cast the _[[Vitality Lash]]_ cantrip as a primal innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.
 

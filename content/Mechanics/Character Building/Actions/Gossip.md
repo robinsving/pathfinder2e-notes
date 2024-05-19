@@ -9,7 +9,6 @@ tags:
 ---
 
 # Gossip
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 You seek out rumors about the infiltration's target. Attempt a normal, hard, or very hard Diplomacy check.
 

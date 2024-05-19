@@ -8,6 +8,5 @@ tags:
 ---
 
 # Sai
-![[systems-pf2e-icons-equipment-weapons-sai.webp|150]]
 
 This piercing dagger is a metal spike flanked by a pair of prongs that can be used to trap an enemy's weapon.

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Gorum
-![[systems-pf2e-icons-deity-Gorum.webp|150]]
 
 Anyone who seeks glory on the battlefield calls out prayers to Our Lord in Iron. Gorum emphasizes might, encouraging his followers to seek out war and combat as the ultimate way to worship him
 

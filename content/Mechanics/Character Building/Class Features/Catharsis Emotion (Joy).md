@@ -9,7 +9,6 @@ tags:
 ---
 
 # Catharsis Emotion (Joy)
-![[Mechanics/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-spells-captivating-adoration.webp|150]]
 
 Your unbridled enthusiasm and positive attitude can lead you to success, but you might expend more energy than you planned.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sandstorm Top
-![[systems-pf2e-icons-equipment-adventuring-gear-earplugs.webp|150]]
 
 On Tekritanin holidays, children reenacted legendary battles of deities by playing with magical tops. Though the paint on this wooden top has long since faded, its magical runes once gleamed yellow-gold and fiery orange, evoking the color of the sky during a sandstorm. To set the top in motion, wind a string around its bottom and upward along its body, and then throw it while gripping the string.
 

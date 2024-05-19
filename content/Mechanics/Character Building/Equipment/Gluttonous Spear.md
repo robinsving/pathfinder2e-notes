@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gluttonous Spear
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-gluttonous-spear.webp|150]]
 
 The head of this +1 striking [[Returning]] spear is wrapped in greasy hide, and its head resembles a thick, clawed finger.
 

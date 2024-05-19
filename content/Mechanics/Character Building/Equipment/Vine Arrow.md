@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vine Arrow
-![[systems-pf2e-icons-equipment-consumables-ammunition-vine-arrow.webp|150]]
 
 **Activate** A (concentrate)
 

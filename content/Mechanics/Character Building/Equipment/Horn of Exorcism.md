@@ -8,7 +8,6 @@ tags:
 ---
 
 # Horn of Exorcism
-![[icons-commodities-treasure-horn-spiral-pink.webp|150]]
 
 A _horn of exorcism_ is an instrument made from an animal horn, or an object of the same shape from carved wood or ivory.
 

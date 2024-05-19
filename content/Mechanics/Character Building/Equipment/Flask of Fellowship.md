@@ -8,7 +8,6 @@ tags:
 ---
 
 # Flask of Fellowship
-![[icons-containers-kitchenware-goblet-handled-beige.webp|150]]
 
 This is a metal drinking flask, 4 inches in diameter and 10 inches tall. Its screw top is covered by four simple metal cups that nest together.
 

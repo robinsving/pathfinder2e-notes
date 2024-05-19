@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spangled Rider's Suit
-![[systems-pf2e-icons-equipment-armor-specific-magic-armor-spangled-riders-suit.webp|150]]
 
 This _+1 resilient_ studded leather is adorned with colorful sequins that sparkle in even the faintest light.
 

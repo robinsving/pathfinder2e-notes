@@ -9,7 +9,6 @@ tags:
 ---
 
 # Droskar
-![[systems-pf2e-icons-deity-Droskar.webp|150]]
 
 Cast out and cursed by [[Torag]], the Dark Smith works constantly to prove his significance, cheating and enslaving others to further his goal
 

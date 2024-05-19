@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pallette of Masterstrokes
-![[systems-pf2e-icons-equipment-held-items-warding-tablets.webp|150]]
 
 This painter's palette is decorated with an image of Shelyn's religious symbol: a songbird with a colorful curved tail. The feathers on this tail constantly produce a wide range of colorful pigments, granting you a +2 item bonus to Crafting checks made to create paintings. A palette of masterstrokes functions as a divine focus for a cleric of Shelyn.
 

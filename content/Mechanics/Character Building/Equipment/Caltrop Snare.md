@@ -8,7 +8,6 @@ tags:
 ---
 
 # Caltrop Snare
-![[systems-pf2e-icons-equipment-snares-caltrop-snare.webp|150]]
 
 This snare consists of a hidden canister of caltrops attached to a trip wire. When the snare is triggered, it flings the caltrops into either the snare's square or a square adjacent to the snare. You choose which square when you set up the snare.
 

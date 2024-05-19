@@ -8,7 +8,6 @@ tags:
 ---
 
 # Oil of Weightlessness (Greater)
-![[icons-tools-laboratory-bowl-mixing.webp|150]]
 
 **Activate** 1 (manipulate)
 

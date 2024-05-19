@@ -8,7 +8,6 @@ tags:
 ---
 
 # Resolute Mind Wrap
-![[icons-equipment-waist-sash-cloth-gold-purple.webp|150]]
 
 The followers of the Tan Sugi monastery understood the value of protecting the mind from the intrusion of violence and anger and infused this strip of striped green and brown cloth with their beliefs. Wrapped around the head, the stripes almost evoke the patterns of sugi branches coiled around the wearer's skull. The _resolute mind wrap_ grants you resistance 5 against mental damage.
 

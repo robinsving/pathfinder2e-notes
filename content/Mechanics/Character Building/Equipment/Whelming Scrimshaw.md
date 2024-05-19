@@ -8,7 +8,6 @@ tags:
 ---
 
 # Whelming Scrimshaw
-![[icons-commodities-bones-horn-engraved-vines-grey.webp|150]]
 
 **Activate** 2 Interact
 

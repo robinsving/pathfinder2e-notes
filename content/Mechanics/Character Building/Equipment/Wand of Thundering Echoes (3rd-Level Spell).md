@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Thundering Echoes (3rd-Level Spell)
-![[systems-pf2e-icons-equipment-wands-specialty-wands-wand-of-thundering-echoes.webp|150]]
 
 A forked, lightning-like crack runs down the length of this ornate stone wand, which rumbles slightly with the peals of distant thunder.
 

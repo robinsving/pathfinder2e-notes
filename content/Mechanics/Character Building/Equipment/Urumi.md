@@ -8,6 +8,5 @@ tags:
 ---
 
 # Urumi
-![[systems-pf2e-icons-equipment-weapons-urumi.webp|150]]
 
 A bouquet of whiplike blades extends from the hilt of this sword, enabling deadly, sweeping attacks.

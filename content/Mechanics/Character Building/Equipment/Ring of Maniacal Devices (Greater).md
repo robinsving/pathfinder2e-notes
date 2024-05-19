@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ring of Maniacal Devices (Greater)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-ring-of-maniacal-devices.webp|150]]
 
 This ring seems like simple tarnished brass, but it enhances your curiosity about traps and devices of all kinds.
 

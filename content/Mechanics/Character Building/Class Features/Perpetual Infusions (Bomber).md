@@ -9,7 +9,6 @@ tags:
 ---
 
 # Perpetual Infusions (Bomber)
-![[icons-sundries-books-book-embossed-jewel-gold-green.webp|150]]
 
 You have learned how to create perpetual alchemical infusions that can provide a near-infinite supply of certain simple items.
 

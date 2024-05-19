@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gambler's Staff
-![[icons-weapons-staves-staff-simple.webp|150]]
 
 A small glass orb on the head of a _gambler's staff_ holds a pair of six-sided dice that shift and roll within. Spellcasters who make their living via games of chance use _gamblers' staves_ to encourage the odds in their favor. Most gambling dens ban players they discover using such magic items. A _gambler's staff_ grants you a +2 circumstance bonus to checks to [[Earn Income]] from gambling (typically using Games Lore). To get this benefit, the staff must be on your person during all the downtime you spend gambling.
 

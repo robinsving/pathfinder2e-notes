@@ -8,7 +8,6 @@ tags:
 ---
 
 # Robe of Feathers Fall
-![[Mechanics/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-spells-deceivers-cloak.webp|150]]
 
 This dashing travel- (and beer-) stained feathered robe is the result of magic experimentation gone awry. Dared to create a robe that would continually cast _[[Gentle Landing]]_ during a brainstorming session at a local pub, a young wizard got the enchantment wrong. Instead of a robe that would let its wearer float through the air, they got....this:
 

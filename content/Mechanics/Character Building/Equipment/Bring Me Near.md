@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bring Me Near
-![[systems-pf2e-icons-equipment-held-items-bring-me-near.webp|150]]
 
 This collapsible fine spyglass consists of 3 leather tubes that slide into one another. The edge of each is trimmed in silver, and the lenses are made of finely crafted glass. While looking through it, you gain a +2 item bonus to any Perception checks made involving sight.
 

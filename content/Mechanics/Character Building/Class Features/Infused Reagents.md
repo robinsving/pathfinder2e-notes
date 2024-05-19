@@ -9,7 +9,6 @@ tags:
 ---
 
 # Infused Reagents
-![[systems-pf2e-icons-features-classes-infused-reagents.webp|150]]
 
 You infuse reagents with your own alchemical essence, allowing you to create alchemical items at no cost. Each day during your daily preparations, you gain a number of batches of infused reagents equal to your level + your Intelligence modifier. You can use these reagents for either advanced alchemy or Quick Alchemy, described below. Together, these infused reagents have light Bulk.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fingerprint Kit
-![[icons-containers-bags-pouch-leather-silver-grey.webp|150]]
 
 Rarely found outside of major metropolises, fingerprinting kits are a state-of-the-art, non-magical means of linking suspects to the scene of a crime.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # The Tangible Dream
-![[systems-pf2e-icons-features-classes-the-tangible-dream.webp|150]]
 
 You pull colors and shapes from the depth of your mind, projecting impossible creations into the world as tapestries of astral thread or sculptures of force and light.
 

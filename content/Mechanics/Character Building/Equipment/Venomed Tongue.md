@@ -8,7 +8,6 @@ tags:
 ---
 
 # Venomed Tongue
-![[icons-commodities-biological-tongue-pink.webp|150]]
 
 Secrets must be unraveled, no matter how painful. This tattoo of braided tongues provides a +1 item bonus to Deception checks.
 

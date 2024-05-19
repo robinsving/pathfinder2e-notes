@@ -8,4 +8,3 @@ tags:
 ---
 
 # Iron cauldron with gargoyle faces
-![[systems-pf2e-icons-equipment-treasure-art-objects-minor-art-object-iron-cauldron-with-gargoyle-faces.webp|150]]

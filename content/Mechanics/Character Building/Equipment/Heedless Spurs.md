@@ -8,7 +8,6 @@ tags:
 ---
 
 # Heedless Spurs
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-heedless-spurs.webp|150]]
 
 These wicked-looking spiked metal wheels fit around the ankles and jingle when the wearer walks, imposing a -1 item penalty on Stealth checks. If used as a weapon, they are treated as a [[Spiked Gauntlet]].
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spore Shephard's Staff (Major)
-![[icons-weapons-staves-staff-forest-gold.webp|150]]
 
 This staff is constructed from a magically grown amanita mushroom, with a shaft that spreads into a bright red cap speckled in white. While wielding the staff you gain a +2 circumstance bonus to Nature checks to identify fungus.
 

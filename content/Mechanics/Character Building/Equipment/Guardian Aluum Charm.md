@@ -8,7 +8,6 @@ tags:
 ---
 
 # Guardian Aluum Charm
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-aluum-charm.webp|150]]
 
 A _guardian aluum charm_ grants control over powerful aluums—metal and stone constructs created by the Pactmasters to help maintain order in the city of Katapesh. As long as you wear a guardian aluum's linked _guardian aluum charm_, that aluum follows your verbal commands.
 

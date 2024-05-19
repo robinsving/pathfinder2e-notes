@@ -8,7 +8,6 @@ tags:
 ---
 
 # The Hidden Truth
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-sundries-gaming-playing-cards-grey.webp|150]]
 
 **Suit** Books (Int)
 

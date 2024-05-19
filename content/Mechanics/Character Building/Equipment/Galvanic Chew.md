@@ -8,7 +8,6 @@ tags:
 ---
 
 # Galvanic Chew
-![[icons-magic-lightning-bolt-cloud-sky-white.webp|150]]
 
 **Activate** 1 Interact
 

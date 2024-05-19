@@ -8,7 +8,6 @@ tags:
 ---
 
 # Storm Breath
-![[systems-pf2e-icons-equipment-consumables-potions-serum-of-sex-shift.webp|150]]
 
 _Storm breaths_ are bottles of temperamental lightning captured during storms on the Plane of Air, releasing small charges of static energy any time they're touched. The first _storm breaths_ were created by Ranginori's faithful following the Elemental Lord's return from a long imprisonment, but the recipe has since been duplicated across the multiverse.
 

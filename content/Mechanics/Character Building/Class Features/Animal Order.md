@@ -9,7 +9,6 @@ tags:
 ---
 
 # Animal Order
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-creatures-abilities-bear-roar-bite-brown-green.webp|150]]
 
 You have a strong connection to beasts, always feeling like you understood them (and they you) better than your own people. You stand for the animals of nature, a powerful animal companion at your side.
 

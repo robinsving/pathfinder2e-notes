@@ -9,6 +9,5 @@ tags:
 ---
 
 # Emotionally Unaware
-![[Mechanics/Character Building/Ancestry Features/zz_asset-files/icons-magic-control-fear-fright-white.webp|150]]
 
 You find it difficult to understand and express complex emotions. You take a -1 circumstance penalty to Diplomacy and Performance checks, and on Perception checks to Sense Motive.

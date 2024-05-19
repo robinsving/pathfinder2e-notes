@@ -8,7 +8,6 @@ tags:
 ---
 
 # Orichalcum Shield (High-Grade)
-![[systems-pf2e-icons-equipment-shields-precious-material-shields-orichalcum-shield.webp|150]]
 
 Orichalcum shields' time-bending properties are particularly useful for keeping them intact. The first time each day an orichalcum shield would be destroyed, it is instead left with 1 Hit Point and the broken condition.
 

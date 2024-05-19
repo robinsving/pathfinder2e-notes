@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Mental Purification (8th-level)
-![[systems-pf2e-icons-equipment-held-items-wand-of-mental-purification.webp|150]]
 
 Red feathers hang from the handle of this ivory wand. Holding it brings a sense of gentle calm.
 

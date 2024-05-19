@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cytillesh Oil
-![[icons-commodities-materials-liquid-purple.webp|150]]
 
 This thick substance is distilled from the mind-robbing cytillesh fungus, though it lacks memory-altering capabilities.
 

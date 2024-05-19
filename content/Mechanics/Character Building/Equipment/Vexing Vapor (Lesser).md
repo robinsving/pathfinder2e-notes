@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vexing Vapor (Lesser)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-bombs-vexing-vapor.webp|150]]
 
 **Activate** 1 Strike
 

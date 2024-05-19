@@ -9,7 +9,6 @@ tags:
 ---
 
 # Repair
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 **Requirements** You are holding or wearing a [[Repair Toolkit|Repair Kit]]
 

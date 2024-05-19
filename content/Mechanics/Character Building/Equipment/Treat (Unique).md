@@ -8,4 +8,3 @@ tags:
 ---
 
 # Treat (Unique)
-![[icons-consumables-fruit-apple-ripe-red.webp|150]]

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Glasses of Sociability
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-glasses-of-sociability.webp|150]]
 
 These wire-rim glasses with large, circular lenses were invented for the sole purpose of avoiding awkward confrontations at social gatherings. They grant you a +1 item bonus to Diplomacy.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bloodhound Mask (Greater)
-![[icons-equipment-head-mask-carved-wood-white.webp|150]]
 
 **Activate** 1 Interact
 

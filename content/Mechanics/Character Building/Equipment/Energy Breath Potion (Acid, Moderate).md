@@ -8,7 +8,6 @@ tags:
 ---
 
 # Energy Breath Potion (Acid, Moderate)
-![[systems-pf2e-icons-equipment-consumables-potions-green-dragons-breath-potion.webp|150]]
 
 **Activate 1** (manipulate)
 

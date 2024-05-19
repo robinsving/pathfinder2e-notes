@@ -8,7 +8,6 @@ tags:
 ---
 
 # Goblin-Eye Orb
-![[systems-pf2e-icons-equipment-consumables-talismans-goblin-eye-orb.webp|150]]
 
 **Usage** affixed to a weapon
 

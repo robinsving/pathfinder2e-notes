@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blink Blade
-![[systems-pf2e-icons-equipment-weapons-dagger.webp|150]]
 
 The blade of this _+2 striking dagger_ is etched with whirling portals, and a single blue sapphire adorns its hilt. It feels lightweight and is always slightly warm to the touch.
 

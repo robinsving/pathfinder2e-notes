@@ -10,7 +10,6 @@ tags:
 ---
 
 # Cloud Pouch
-![[systems-pf2e-icons-equipment-held-items-horn-of-fog.webp|150]]
 
 This small bag is filled with a fine, silvery powder that feels silky to the touch.
 

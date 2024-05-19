@@ -8,7 +8,6 @@ tags:
 ---
 
 # Society Portrait
-![[systems-pf2e-icons-equipment-held-items-society-portrait.webp|150]]
 
 **Access** Member of a secret society
 

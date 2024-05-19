@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bloodline Spells
-![[systems-pf2e-icons-features-classes-bloodline-spells.webp|150]]
 
 Your bloodline grants you bloodline spells, special spells unique to your lineage. Bloodline spells are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the Refocus activity. Unlike other characters, you don't need to do anything specific to Refocus, as the power flowing through your veins naturally replenishes your focus pool.
 

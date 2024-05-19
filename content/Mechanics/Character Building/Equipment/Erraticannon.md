@@ -8,7 +8,6 @@ tags:
 ---
 
 # Erraticannon
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-erraticannon.webp|150]]
 
 This _+1 striking [[Hand Cannon]]_ is festooned with so many add-ons and modifications it's barely recognizable as a firearm. A large hopper at the top of the gun allows any type of ammunition (including arrows, bolts, stone bullets, and firearm rounds) to be fed into the machine, which converts the ammunition into blasts of raw, destructive energy. Each time you attack with the weapon, roll `dice: 1d8` to determine the damage type of the Strike—all of the _erraticannon_'s weapon damage is converted to that damage type for the Strike. Additionally, roll another d8, and the _erraticannon_ deals `dice: 1d6` additional damage of this second damage type.
 

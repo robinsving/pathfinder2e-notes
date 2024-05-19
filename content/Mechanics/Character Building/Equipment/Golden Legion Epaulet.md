@@ -8,7 +8,6 @@ tags:
 ---
 
 # Golden Legion Epaulet
-![[icons-equipment-shoulder-pauldron-segmented-steel-yellow.webp|150]]
 
 These gleaming golden epaulets are issued to Eagle Knight officers and worn as part of the uniform. While they can be enchanted to provide a variety of effects, the Golden Legion epaulet remains the most common.
 

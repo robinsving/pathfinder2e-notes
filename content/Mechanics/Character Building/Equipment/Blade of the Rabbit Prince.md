@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blade of the Rabbit Prince
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-blade-of-the-rabbit-prince.webp|150]]
 
 This +2 greater striking [[Animated|Dancing]] shortsword has a golden handguard resembling a bird with outstretched wings. The sword's blade is broken halfway up its length, but this doesn't impair the sword's function.
 

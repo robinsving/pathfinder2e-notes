@@ -9,7 +9,6 @@ tags:
 ---
 
 # Warrior
-![[systems-pf2e-icons-features-classes-warrior.webp|150]]
 
 The battlefield is your stage, the clang of steel, your song. Your muse has seen countless battles, whether reveling in combat or resigned to its necessity. An individual soldier or general might inspire you, but so might a battlefield or weapon with a particularly profound history. If your muse is a creature, it might be an otherworldly soldier, such as an archon or devil soldier. If it's a deity, it might be Gorum. Art inspired by a warrior muse is triumphant and strident, often detailing epic battles.
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Bastion of the Inheritor
-![[systems-pf2e-icons-equipment-armor-bastion-plate.webp|150]]
 
 Worn by Iomedae's prestigious knights, this _+2 resilient bastion plate_ is emblazoned with the Inheritor's religious symbol and sports a white cloak. While the cloak is white, this armor grants you a +2 item bonus to Diplomacy checks to [[Make an Impression]], provided your target has no enmity toward Iomedae.
 

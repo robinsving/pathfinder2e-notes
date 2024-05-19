@@ -9,6 +9,5 @@ tags:
 ---
 
 # Psychic Weapon Expertise
-![[icons-skills-melee-hand-grip-staff-yellow-brown.webp|150]]
 
 Training and magic have improved your weapon technique. Your proficiency rank for simple weapons and unarmed attacks increases to expert.

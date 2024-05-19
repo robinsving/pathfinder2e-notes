@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stone Fist Elixir
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-stone-fist-elixir.webp|150]]
 
 **Activate** A (manipulate)
 

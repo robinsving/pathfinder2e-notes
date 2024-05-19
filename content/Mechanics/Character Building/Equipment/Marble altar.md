@@ -8,4 +8,3 @@ tags:
 ---
 
 # Marble altar
-![[systems-pf2e-icons-equipment-treasure-art-objects-moderate-art-object-marble-altar.webp|150]]

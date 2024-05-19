@@ -8,4 +8,3 @@ tags:
 ---
 
 # Towering sculpture by a master
-![[systems-pf2e-icons-equipment-treasure-art-objects-greater-art-object-towering-sculpture-by-a-master.webp|150]]

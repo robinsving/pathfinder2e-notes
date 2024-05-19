@@ -8,4 +8,3 @@ tags:
 ---
 
 # Elegant cloth doll
-![[systems-pf2e-icons-equipment-treasure-art-objects-minor-art-object-elegant-cloth-doll.webp|150]]

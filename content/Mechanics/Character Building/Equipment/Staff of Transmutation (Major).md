@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Transmutation (Major)
-![[systems-pf2e-icons-equipment-staves-staff-of-transmutation.webp|150]]
 
 A glass orb atop this metal staff contains fine, undulating sand. While wielding the staff, you gain a +2 circumstance bonus to checks to identify transmutation magic.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pact of Blood-Taking
-![[systems-pf2e-icons-equipment-contracts-infernal-contracts-pact-of-blood-taking.webp|150]]
 
 **Devil** [[Barbazu]]
 

@@ -8,4 +8,3 @@ tags:
 ---
 
 # Tankard owned by Cayden Cailean
-![[systems-pf2e-icons-equipment-treasure-art-objects-major-art-object-tankard-owned-by-cayden-cailean.webp|150]]

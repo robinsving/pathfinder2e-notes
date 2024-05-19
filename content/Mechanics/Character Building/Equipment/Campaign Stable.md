@@ -8,7 +8,6 @@ tags:
 ---
 
 # Campaign Stable
-![[icons-environment-settlement-lumbermill.webp|150]]
 
 Used to facilitate the care of mounts during long campaigns or when it's necessary to move camp frequently, this object appears to be a simple, worn wooden horseshoe.
 

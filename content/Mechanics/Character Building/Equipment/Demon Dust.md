@@ -8,7 +8,6 @@ tags:
 ---
 
 # Demon Dust
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-demon-dust.webp|150]]
 
 **Activate** 1 Interact
 

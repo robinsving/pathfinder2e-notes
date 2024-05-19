@@ -8,7 +8,6 @@ tags:
 ---
 
 # Thieves' Tools (Concealable)
-![[icons-tools-hand-lockpicks-steel-grey.webp|150]]
 
 You need thieves' tools to [[Pick a Lock|Pick Locks]] or [[Disable a Device|Disable Devices]] (of some types) using the Thievery skill. Infiltrator thieves' tools add a +1 item bonus to checks to Pick Locks and Disable Devices.
 

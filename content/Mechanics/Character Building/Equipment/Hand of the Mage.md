@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hand of the Mage
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-hand-of-the-mage.webp|150]]
 
 This mummified elf hand hangs on a golden chain, its gnarled fingers locked in a peculiar pattern.
 

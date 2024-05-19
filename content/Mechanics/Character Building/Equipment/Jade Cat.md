@@ -8,7 +8,6 @@ tags:
 ---
 
 # Jade Cat
-![[systems-pf2e-icons-equipment-consumables-talismans-jade-cat.webp|150]]
 
 **Activate** F (concentrate)
 

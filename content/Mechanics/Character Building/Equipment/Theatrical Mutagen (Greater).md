@@ -8,7 +8,6 @@ tags:
 ---
 
 # Theatrical Mutagen (Greater)
-![[icons-consumables-potions-potion-flask-corked-labeled-pink.webp|150]]
 
 **Activate** 1 Interact
 

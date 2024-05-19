@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shining Wayfinder
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-shining-wayfinder.webp|150]]
 
 A shining wayfinder is a polished silver compass blessed by the power of benevolent deities. It has the usual functions of a [[Wayfinder]], except instead of an activation to cast light, the shining wayfinder has the following two activations.
 

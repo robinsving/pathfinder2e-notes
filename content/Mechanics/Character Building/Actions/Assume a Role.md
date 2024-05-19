@@ -9,7 +9,6 @@ tags:
 ---
 
 # Assume a Role
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 **Requirements** You've spent at least 1 hour studying a creature whose role you intend to copy and have done so within the last 3 days. This could include meeting and learning from someone in that role, tailing and spying on someone, using magic to observe them at work, or some other method, as long as you have a visual source of information
 

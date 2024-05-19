@@ -8,4 +8,3 @@ tags:
 ---
 
 # Obsidian
-![[systems-pf2e-icons-equipment-treasure-gems-lesser-semiprecious-stones-obsidian.webp|150]]

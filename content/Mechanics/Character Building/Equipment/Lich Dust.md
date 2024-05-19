@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lich Dust
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-lich-dust.webp|150]]
 
 Dust salvaged from the remains of a destroyed lich has paralytic properties that make it a valuable poison.
 

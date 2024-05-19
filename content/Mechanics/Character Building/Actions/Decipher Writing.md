@@ -9,7 +9,6 @@ tags:
 ---
 
 # Decipher Writing
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 You attempt to decipher complicated writing or literature on an obscure topic. This usually takes 1 minute per page of text, but might take longer (typically an hour per page for decrypting ciphers or the like). The text must be in a language you can read, though the GM might allow you to attempt to decipher text written in an unfamiliar language using Society instead.
 

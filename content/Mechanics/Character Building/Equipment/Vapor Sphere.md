@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vapor Sphere
-![[systems-pf2e-icons-equipment-consumables-talismans-vapor-sphere.webp|150]]
 
 **Usage** affixed to armor
 

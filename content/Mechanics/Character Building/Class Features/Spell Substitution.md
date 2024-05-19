@@ -9,7 +9,6 @@ tags:
 ---
 
 # Spell Substitution
-![[systems-pf2e-icons-features-classes-spell-substitution.webp|150]]
 
 You don't accept the fact that once spells are prepared, they can't be changed until your next daily preparations, and you have uncovered a shortcut allowing you to substitute new spells for those you originally prepared.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Illusion
-![[icons-weapons-staves-staff-orante-gold.webp|150]]
 
 This ornately designed metal staff shines with precious inlays of gold. When you Cast a Spell from the staff, the illusory image of something you desire flashes across its surface. While wielding the staff, you gain a +2 circumstance bonus to checks to identify illusion magic.
 

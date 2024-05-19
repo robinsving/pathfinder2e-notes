@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dreamtime Tea
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-dreamtime-tea.webp|150]]
 
 This lemony tea blended from rare Vudrani herbs and flowers is widely circulated by occult circles looking to transcend the boundaries of reality. The saving throw for addiction to dreamtime tea is DC 19.
 

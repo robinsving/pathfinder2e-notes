@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sibling's Coin
-![[systems-pf2e-icons-equipment-held-items-siblings-coin.webp|150]]
 
 **Access** Member of a secret society
 

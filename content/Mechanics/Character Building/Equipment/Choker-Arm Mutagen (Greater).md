@@ -8,7 +8,6 @@ tags:
 ---
 
 # Choker-Arm Mutagen (Greater)
-![[icons-consumables-potions-bottle-conical-corked-green.webp|150]]
 
 **Activate** 1 Interact
 

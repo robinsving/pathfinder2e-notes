@@ -8,7 +8,6 @@ tags:
 ---
 
 # Immovable Rod
-![[systems-pf2e-icons-equipment-held-items-immovable-rod.webp|150]]
 
 This flat iron bar is almost completely nondescript, except for one small button appearing on its surface.
 

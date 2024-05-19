@@ -8,7 +8,6 @@ tags:
 ---
 
 # Immovable
-![[systems-pf2e-icons-equipment-runes-armor-property-runes-armor-property-runes.webp|150]]
 
 This rune utilizes magical principles used in an _[[Immovable Rod]]_.
 

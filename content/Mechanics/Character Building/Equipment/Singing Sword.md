@@ -8,7 +8,6 @@ tags:
 ---
 
 # Singing Sword
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-singing-sword.webp|150]]
 
 **Perception** +11; precise vision 30 feet, imprecise hearing 30 feet
 

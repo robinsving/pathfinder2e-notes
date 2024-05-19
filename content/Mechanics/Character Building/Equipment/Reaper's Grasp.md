@@ -8,7 +8,6 @@ tags:
 ---
 
 # Reaper's Grasp
-![[icons-weapons-guns-gun-red.webp|150]]
 
 This _+2 striking arquebus_ has an ashwood stock plated with worked silver, featuring a mosaic of agonized skulls carved into the metal. The mere mention of Galt's infamous final blades is enough to make any mortal creature shudder. Used to execute political opponents in the nation's constant civil war, these guillotines hold the souls of those they execute, preventing them from reaching a natural afterlife. When one of the final blades was destroyed in 4710, some of the metal from its remains made its way to Alkenstar and was reforged into a deadly firearm that retained the guillotine's soul-stealing properties.
 

@@ -8,4 +8,3 @@ tags:
 ---
 
 # Gauntlight
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-environment-settlement-watchtower-cliff.webp|150]]

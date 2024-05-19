@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sack of Rotten Fruit
-![[icons-containers-bags-sack-worn-brown.webp|150]]
 
 **Activate** 1 Strike
 

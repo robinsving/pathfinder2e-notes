@@ -8,7 +8,6 @@ tags:
 ---
 
 # Nectar of Purification
-![[systems-pf2e-icons-equipment-consumables-oils-nectar-of-purification.webp|150]]
 
 **Activate** A (manipulate)
 

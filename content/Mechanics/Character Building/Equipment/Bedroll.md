@@ -9,6 +9,5 @@ draft: true
 ---
 
 # Bedroll
-![[icons-containers-ammunition-quiver-simple-brown.webp|150]]
 
 A rolled up bed.

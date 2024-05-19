@@ -8,7 +8,6 @@ tags:
 ---
 
 # Highhelm Stronghold Plate
-![[systems-pf2e-icons-equipment-armor-bastion-plate.webp|150]]
 
 This _+2 resilient fortification bastion plate_ is made almost entirely of stone plates. It looks almost unwearable and is in fact only wearable because of numerous minor enchantments for comfort and mobility. If you have armor specialization with heavy armor, your resistance while wearing _Highhelm stronghold plate_ applies to both slashing and piercing damage.
 

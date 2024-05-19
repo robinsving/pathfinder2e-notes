@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tracking Fulu
-![[systems-pf2e-icons-equipment-consumables-fulus-fulu-modest.webp|150]]
 
 **Usage** affixed to creature or object
 

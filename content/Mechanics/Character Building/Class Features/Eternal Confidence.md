@@ -9,7 +9,6 @@ tags:
 ---
 
 # Eternal Confidence
-![[systems-pf2e-icons-features-classes-eternal-confidence.webp|150]]
 
 As a swashbuckler at the peak of your skill, you swell with confidence and bravado in every attack. Your proficiency rank for your swashbuckler class DC increases to master.
 

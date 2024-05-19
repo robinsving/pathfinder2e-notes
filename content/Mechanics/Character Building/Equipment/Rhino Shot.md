@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rhino Shot
-![[systems-pf2e-icons-equipment-consumables-ammunition-rhino-shot.webp|150]]
 
 **Ammunition** Any
 

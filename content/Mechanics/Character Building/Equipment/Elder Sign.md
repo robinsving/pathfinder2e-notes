@@ -8,7 +8,6 @@ tags:
 ---
 
 # Elder Sign
-![[systems-pf2e-icons-equipment-artifacts-elder-sign.webp|150]]
 
 This stone tablet is carved with the symbol of a five-branched twig. There are only a limited number of elder signs, and each time one is destroyed, the universe's doom creeps inexorably closer. Reciting one of three different occult mantras (DC 20 occultism check to do so correctly) allows three different activations. All three abilities work only on a creature connected to the Elder Mythos or a cosmic horror, such as a wendigo or gug; the activations refer to them as "eldritch creatures."
 

@@ -8,4 +8,3 @@ tags:
 ---
 
 # Engraved copper ring
-![[systems-pf2e-icons-equipment-treasure-art-objects-minor-art-object-engraved-copper-ring.webp|150]]

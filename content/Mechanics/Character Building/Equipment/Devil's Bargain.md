@@ -8,7 +8,6 @@ tags:
 ---
 
 # Devil's Bargain
-![[icons-equipment-chest-breastplate-layered-leather-studded-brown.webp|150]]
 
 Those favored by Asmodeus can be found wearing this _+1 studded leather_, which is lacquered in red and black.
 

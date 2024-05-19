@@ -8,7 +8,6 @@ tags:
 ---
 
 # Elemental Gem
-![[icons-commodities-gems-gem-rough-round-blue.webp|150]]
 
 **Activate** D Command, Interact
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Ruler
-![[systems-pf2e-icons-equipment-adventuring-gear-ruler.webp|150]]
 
 A ruler is a straight-edged object used for measuring small distances accurately and drawing straight lines.

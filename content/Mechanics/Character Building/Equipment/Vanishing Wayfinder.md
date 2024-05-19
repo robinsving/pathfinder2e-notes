@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vanishing Wayfinder
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-shining-wayfinder.webp|150]]
 
 A vanishing wayfinder is crafted of ivory chased with gold and silver. It has the usual functions of a [[Wayfinder]] and the following additional activation.
 

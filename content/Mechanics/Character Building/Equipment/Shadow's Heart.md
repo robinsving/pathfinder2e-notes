@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shadow's Heart
-![[systems-pf2e-icons-equipment-weapons-kukri.webp|150]]
 
 This _+3 greater striking kukri_ has a thin, delicate blade that absorbs light.
 

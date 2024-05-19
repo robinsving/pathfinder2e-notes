@@ -9,7 +9,6 @@ tags:
 ---
 
 # Perpetual Infusions
-![[icons-magic-symbols-question-stone-yellow.webp|150]]
 
 You have learned how to create perpetual alchemical infusions that can provide a near-infinite supply of certain simple items.
 

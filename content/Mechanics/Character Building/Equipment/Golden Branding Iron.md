@@ -8,7 +8,6 @@ tags:
 ---
 
 # Golden Branding Iron
-![[systems-pf2e-icons-equipment-consumables-talismans-golden-branding-iron.webp|150]]
 
 **Activate** f envision
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wardrobe Stone (Greater)
-![[systems-pf2e-icons-equipment-consumables-talismans-basilisk-eye.webp|150]]
 
 This large stone eye is the size of a fist and decorated with elaborate carvings of robes and other garments. You gain +3 item bonus to Perception checks involving sight and you gain a +3 item bonus to a specific Lore skill associated with your outfit, such as Carpentry Lore when wearing a carpenter's outfit or Cooking Lore when wearing a chef's outfit.
 

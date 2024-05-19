@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cunning
-![[systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
 
 The weapon performs divination magic on the blood of your foes, granting you insight into their abilities and weaknesses.
 

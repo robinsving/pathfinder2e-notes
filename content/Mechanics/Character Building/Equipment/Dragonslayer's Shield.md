@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dragonslayer's Shield
-![[systems-pf2e-icons-equipment-shields-specific-shields-dragonslayers-shield.webp|150]]
 
 A _dragonslayer's shield_ is a steel shield covered with dragonhide from a specific dragon, which visually distinguishes each shield from the others. While raised, this steel shield (Hardness 8, HP 32, BT 16) grants its circumstance bonus to Reflex saves against area effects (as well as to AC, as normal).
 

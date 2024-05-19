@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rock Ripper Snare
-![[systems-pf2e-icons-equipment-snares-rock-ripper-snare.webp|150]]
 
 You weave plant matter among loose stones in an area with trees or a ceiling overhead. When a creature enters the square, the snare's square and each adjacent square becomes difficult terrain, and the triggering creature must attempt a DC 19 reflex saving throw.
 

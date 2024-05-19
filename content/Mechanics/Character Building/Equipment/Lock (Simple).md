@@ -8,6 +8,5 @@ tags:
 ---
 
 # Lock (Simple)
-![[systems-pf2e-icons-equipment-adventuring-gear-lock.webp|150]]
 
 Picking a simple lock requires three successful DC 20 thievery checks.

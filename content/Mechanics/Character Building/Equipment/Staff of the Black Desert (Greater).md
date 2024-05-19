@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of the Black Desert (Greater)
-![[systems-pf2e-icons-equipment-staves-staff-of-the-black-desert.webp|150]]
 
 This rough metal staff is pitted and sandblasted, with thousands of nigh-imperceptible sand crystals embedded in its surface.
 

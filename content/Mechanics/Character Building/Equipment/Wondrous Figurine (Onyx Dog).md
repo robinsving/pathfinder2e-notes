@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wondrous Figurine (Onyx Dog)
-![[systems-pf2e-icons-equipment-held-items-wondrous-figurine-onyx-dog.webp|150]]
 
 Each one of these statuettes is 1 inch in height, carved from a specific material and taking the shape of a particular animal or animals.
 

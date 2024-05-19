@@ -8,4 +8,3 @@ tags:
 ---
 
 # Set of decorated ceramic plates
-![[systems-pf2e-icons-equipment-treasure-art-objects-minor-art-object-set-of-decorated-ceramic-plates.webp|150]]

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fungal Walk Musk
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-fungal-walk-musk.webp|150]]
 
 **Activate** 1 Interact
 

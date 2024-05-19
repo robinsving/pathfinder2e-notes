@@ -8,6 +8,5 @@ tags:
 ---
 
 # Thieves' Toolkit (Replacement Picks)
-![[icons-tools-hand-lockpicks-steel-grey.webp|150]]
 
 These are replacement picks for a [[Thieves' Toolkit]].

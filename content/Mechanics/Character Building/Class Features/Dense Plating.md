@@ -9,6 +9,5 @@ tags:
 ---
 
 # Dense Plating
-![[icons-equipment-shoulder-pauldron-segmented-steel-white.webp|150]]
 
 You have encased your armor in robust plating. While wearing your armor, you gain resistance to slashing damage equal to half your level.

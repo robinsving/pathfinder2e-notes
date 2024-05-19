@@ -8,7 +8,6 @@ tags:
 ---
 
 # Choker of Elocution
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-choker-of-elocution.webp|150]]
 
 This platinum choker bears characters from a language's alphabet, and it gives knowledge of that language and the associated culture's customs.
 

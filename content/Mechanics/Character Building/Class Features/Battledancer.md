@@ -9,7 +9,6 @@ tags:
 ---
 
 # Battledancer
-![[systems-pf2e-icons-features-classes-battledancer-style.webp|150]]
 
 To you, a fight is a kind of performance art, and you command your foes' attention with mesmerizing motions.
 

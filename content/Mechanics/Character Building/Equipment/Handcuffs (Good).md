@@ -8,7 +8,6 @@ tags:
 ---
 
 # Handcuffs (Good)
-![[systems-pf2e-icons-equipment-adventuring-gear-handcuffs.webp|150]]
 
 Developed in Absalom and rarely used except by police forces in major cities due to their significant cost, handcuffs possess a ratcheting lock system in each cuff that allows them to be quickly cinched down on a captive's limbs, even if they're actively resisting.
 

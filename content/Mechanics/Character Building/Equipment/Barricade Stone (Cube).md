@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Barricade Stone (Cube)
-![[icons-commodities-stone-masonry-block-cube-white.webp|150]]
 
 **Activate** 2 command, Interact
 

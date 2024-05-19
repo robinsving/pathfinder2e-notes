@@ -9,7 +9,6 @@ tags:
 ---
 
 # Inconspicuous Appearance
-![[icons-consumables-vegetable-root-carrot-orange.webp|150]]
 
 **Melee Only**
 

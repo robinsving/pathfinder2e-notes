@@ -8,7 +8,6 @@ tags:
 ---
 
 # Potion of Shared Life
-![[systems-pf2e-icons-equipment-consumables-potions-potion-of-shared-life.webp|150]]
 
 **Activate** 1 Interact
 

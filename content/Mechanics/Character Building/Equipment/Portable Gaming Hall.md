@@ -8,7 +8,6 @@ tags:
 ---
 
 # Portable Gaming Hall
-![[systems-pf2e-icons-equipment-held-items-games.webp|150]]
 
 A _portable gaming hall_ resembles a miniature roulette wheel, except it's marked with indecipherable runes, not numbers.
 

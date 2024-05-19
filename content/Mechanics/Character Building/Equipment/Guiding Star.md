@@ -8,7 +8,6 @@ tags:
 ---
 
 # Guiding Star
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-guiding-star.webp|150]]
 
 This +1 striking returning starknife is made of dark blue metal overlaid with smoky flecks of fused quartz. When you Cast an evocation Spell, your next attack this turn with this starknife reduces the target's cover, changing greater cover to standard cover or ignoring standard and lesser cover.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Clockwork Goggles
-![[icons-equipment-head-goggles-leather-tan.webp|150]]
 
 **Activate** 2 Interact
 

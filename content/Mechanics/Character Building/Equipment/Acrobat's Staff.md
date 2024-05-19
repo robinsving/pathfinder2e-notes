@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Acrobat's Staff
-![[icons-weapons-staves-staff-simple-gold.webp|150]]
 
 This _+1 striking bo staff_ is particularly long, making it useful as a balancing pole. While you wield it, the acrobat's staff releases chalk dust to make your grip more secure, granting you a +1 circumstance bonus to your Reflex DC against checks to Disarm you of it.
 

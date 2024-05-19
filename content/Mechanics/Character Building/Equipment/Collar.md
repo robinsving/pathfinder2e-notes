@@ -8,4 +8,3 @@ tags:
 ---
 
 # Collar
-![[icons-equipment-waist-belt-thick-ring-leather-tan.webp|150]]

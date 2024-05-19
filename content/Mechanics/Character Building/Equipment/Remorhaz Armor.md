@@ -8,7 +8,6 @@ tags:
 ---
 
 # Remorhaz Armor
-![[systems-pf2e-icons-equipment-armor-niyahaat.webp|150]]
 
 This _+1 resilient fire-resistant niyaháat_ is often created to mark the passage of an Erutaki warrior into adulthood, formed from the chitinous plates of a remorhaz, with larger pieces protecting the chest, shoulders, and head. As you fight, the armor glows red hot.
 

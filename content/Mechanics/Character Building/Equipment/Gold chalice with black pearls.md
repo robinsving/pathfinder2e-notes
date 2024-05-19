@@ -8,4 +8,3 @@ tags:
 ---
 
 # Gold chalice with black pearls
-![[systems-pf2e-icons-equipment-treasure-art-objects-greater-art-object-gold-chalice-with-black-pearls.webp|150]]

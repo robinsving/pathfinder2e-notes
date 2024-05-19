@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cloak of the Bat (Greater)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-cloak-of-the-bat.webp|150]]
 
 Sewn from several long strips of luxurious brown and black silk, this cloak grants you a +3 item bonus to Stealth checks as well as to Acrobatics checks to [[Maneuver in Flight]]. You can also use your feet to hang from any surface that can support your weight, without requiring any check, though you still must attempt Athletics checks to [[Climb]] in order to move around while inverted.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Star Chart Tattoo
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-skills-trades-academics-astronomy-navigation-purple.webp|150]]
 
 This tattoo consists of numerous asterisks at regular intervals along the fingers of one hand, perfect for measuring stars against the horizon. When used against a clear night sky, the tattoo grants a +2 circumstance bonus to Survival checks to Sense Direction and counts as a compass for the purpose of that action.
 

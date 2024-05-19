@@ -8,4 +8,3 @@ tags:
 ---
 
 # Malachite
-![[systems-pf2e-icons-equipment-treasure-gems-lesser-semiprecious-stones-malachite.webp|150]]

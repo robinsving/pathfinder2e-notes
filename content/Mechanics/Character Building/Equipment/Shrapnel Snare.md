@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shrapnel Snare
-![[systems-pf2e-icons-equipment-snares-shrapnel-snare.webp|150]]
 
 This snare uses tightly wound springs, clockwork, and shrapnel to cause devastating damage. When a creature enters the snare's square, the trap releases, dealing 12d6 piercing damage in a deafening explosion. Everyone in a 10 foot emanation{10-foot radius} of the snare's square must attempt a DC 31 reflex save.
 

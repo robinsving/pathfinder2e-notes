@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sticky Algae Bomb (Moderate)
-![[icons-magic-nature-plant-undersea-seaweed-glow-green.webp|150]]
 
 **Activate** 1 Strike
 

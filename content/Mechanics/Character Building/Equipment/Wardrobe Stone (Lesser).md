@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wardrobe Stone (Lesser)
-![[systems-pf2e-icons-equipment-consumables-talismans-basilisk-eye.webp|150]]
 
 This large stone eye is the size of a fist and decorated with elaborate carvings of robes and other garments.
 

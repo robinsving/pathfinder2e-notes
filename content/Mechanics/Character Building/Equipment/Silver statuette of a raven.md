@@ -8,4 +8,3 @@ tags:
 ---
 
 # Silver statuette of a raven
-![[systems-pf2e-icons-equipment-treasure-art-objects-moderate-art-object-silver-statuette-of-a-raven.webp|150]]

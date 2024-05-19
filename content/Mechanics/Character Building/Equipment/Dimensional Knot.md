@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dimensional Knot
-![[systems-pf2e-icons-equipment-consumables-other-consumables-dimensional-knot.webp|150]]
 
 **Activate** Cast a Spell
 

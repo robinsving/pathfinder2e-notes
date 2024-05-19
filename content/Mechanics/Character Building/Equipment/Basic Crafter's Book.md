@@ -9,6 +9,5 @@ draft: true
 ---
 
 # Basic Crafter's Book
-![[icons-sundries-books-book-worn-blue.webp|150]]
 
 This book contains the formulas for Crafting the 0-level common items in Chapter 6 of the Pathfinder Player Core.

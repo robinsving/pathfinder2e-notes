@@ -8,7 +8,6 @@ tags:
 ---
 
 # Reinforcing Rune (Major)
-![[icons-commodities-treasure-token-runed-os-grey.webp|150]]
 
 Reinforcing runes make a shield significantly more durable, allowing it to effectively block more powerful attacks.
 

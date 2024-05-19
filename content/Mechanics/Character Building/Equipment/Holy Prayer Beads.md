@@ -8,7 +8,6 @@ tags:
 ---
 
 # Holy Prayer Beads
-![[icons-equipment-neck-necklace-runed-white-red.webp|150]]
 
 This strand of ordinary-looking prayer beads glows with a soft light and becomes warm to the touch the first time you cast a divine spell while holding it. When you do, the prayer beads become attuned to your deity, changing their form and iconography to prominently incorporate your deity's religious symbol and iconography. The beads don't transform or function for an evil spellcaster.
 

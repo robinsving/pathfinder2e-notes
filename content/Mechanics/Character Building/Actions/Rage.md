@@ -9,7 +9,6 @@ tags:
 ---
 
 # Rage
-![[Mechanics/Character Building/Actions/zz_asset-files/icons-skills-wounds-injury-face-impact-orange.webp|150]]
 
 **Requirements** You aren't [[Fatigued]] or raging.
 

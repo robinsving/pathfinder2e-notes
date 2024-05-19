@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stalk Goggles
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-day-goggles.webp|150]]
 
 These black leather goggle frames have no lenses. Instead, when a character puts them on and invests them, the wearer's eyes transform and lengthen into snail-like eyestalks. The wobbly eyestalks stretch out through the lens holes and up over the wearer's head on lengthened optic nerves.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Advanced Rangefinder
-![[icons-skills-targeting-crosshair-scope-sniper-green.webp|150]]
 
 **Ranged Only**
 

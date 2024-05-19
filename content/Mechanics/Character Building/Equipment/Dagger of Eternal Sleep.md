@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dagger of Eternal Sleep
-![[systems-pf2e-icons-equipment-consumables-other-consumables-dagger-of-eternal-sleep.webp|150]]
 
 This tiny serrated dagger looks like a miniature sawtooth sabre. Until activated, it is too small and ornamental to function as a weapon, which might allow it to be passed off as a weapon-shaped decoration.
 

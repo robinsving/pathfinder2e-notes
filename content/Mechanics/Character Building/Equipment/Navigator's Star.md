@@ -8,7 +8,6 @@ tags:
 ---
 
 # Navigator's Star
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-magic-symbols-star-rising-purple.webp|150]]
 
 A star inked on the back of the hand, usually between the thumb and forefinger, keeps you on the right path.
 

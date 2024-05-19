@@ -8,4 +8,3 @@ tags:
 ---
 
 # Previously lost volume from a legendary author
-![[systems-pf2e-icons-equipment-treasure-art-objects-major-art-object-previously-lost-volume-from-a-legendary-author.webp|150]]

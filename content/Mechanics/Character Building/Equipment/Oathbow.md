@@ -8,7 +8,6 @@ tags:
 ---
 
 # Oathbow
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-oathbow.webp|150]]
 
 Constructed of a flexible, white wood and with ornate, twisting designs carved into its surface, this +2 striking composite longbow appears to have been made by elves. Sometimes when you loose an arrow, its whistling in flight sounds like a voice whispering in Elven, wishing for the swift defeat of your enemies.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Demon's Knot
-![[systems-pf2e-icons-equipment-treasure-gems-greater-precious-stones-large-ruby.webp|150]]
 
 The demon Kaivirris is housed in the magnificent ruby that serves as the centerpiece of this beautiful, goldplated, cold iron pendant necklace. Creatures within 30 feet of the _demon's knot_ feel a subtle urge to acquire the necklace and take a –1 status penalty to Will saves.
 

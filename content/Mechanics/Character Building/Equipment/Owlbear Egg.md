@@ -8,7 +8,6 @@ tags:
 ---
 
 # Owlbear Egg
-![[icons-consumables-eggs-egg-speckled-tan.webp|150]]
 
 **Activate** 2 Interact
 

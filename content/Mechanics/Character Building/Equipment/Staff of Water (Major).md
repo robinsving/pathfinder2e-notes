@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Water (Major)
-![[icons-weapons-staves-staff-simple.webp|150]]
 
 A staff of water is most often made of driftwood, sometimes lacquered blue. Carved versions often have a wave pattern. The staff smells of rain or brine. While wielding a staff of water, you have resistance 10 to fire.
 

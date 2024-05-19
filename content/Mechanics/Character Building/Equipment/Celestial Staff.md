@@ -8,7 +8,6 @@ tags:
 ---
 
 # Celestial Staff
-![[icons-weapons-staves-staff-winged-red.webp|150]]
 
 Heavenly radiance shines from an active celestial staff, a golden staff capped with a pair of sculpted angel's wings. Used as a weapon, the staff is a _+2 greater striking holy staff_. While wielding a _celestial staff_, you gain a +1 circumstance bonus to saving throws against effects that have the evil trait and effects created by evil creatures. When you prepare this staff, if you're evil, you become [[Drained 1]] until your next daily preparations.
 

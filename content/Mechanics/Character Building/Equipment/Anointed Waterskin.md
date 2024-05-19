@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Anointed Waterskin
-![[systems-pf2e-icons-equipment-held-items-anointed-waterskin.webp|150]]
 
 This waterskin coruscates with holy energy, causing it to slowly fill itself with special blessed water unique to the item. After using any of the activations, the waterskin is empty, but slowly refills itself. It becomes full enough to use again at the next dawn.
 

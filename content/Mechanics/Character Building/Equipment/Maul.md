@@ -8,6 +8,5 @@ tags:
 ---
 
 # Maul
-![[systems-pf2e-icons-equipment-weapons-maul.webp|150]]
 
 Mauls are massive warhammers that must be swung with two hands.

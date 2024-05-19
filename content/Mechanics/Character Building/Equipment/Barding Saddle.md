@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Barding Saddle
-![[systems-pf2e-icons-equipment-worn-items-companion-items-bombers-saddle.webp|150]]
 
 This saddle is covered with well-polished metal plates on the outside and adjusts itself to fit any mount.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Elemental Instinct
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-magic-symbols-elements-air-earth-fire-water.webp|150]]
 
 This instinct option for barbarians allows you to channel elemental forces, bonding with a single element and its associated plane. Perhaps your ancestors were elemental conjurers or blessed by an elemental lord. Select an element from the Elemental Instincts table to be your instinct's element. If your element offers multiple damage types, choose one of those type when you select your element.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lastwall Soup (Improved)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-lastwall-soup.webp|150]]
 
 **Activate** 1 minute (Interact)
 

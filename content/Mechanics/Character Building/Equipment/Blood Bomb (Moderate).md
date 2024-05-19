@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blood Bomb (Moderate)
-![[icons-commodities-materials-slime-red.webp|150]]
 
 **Activate** 1 Strike
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Seven-Color Raw Fish Salad
-![[systems-pf2e-icons-equipment-consumables-other-consumables-seven-color-raw-fish-salad.webp|150]]
 
 An appetizer popularized in Goka, seven-color raw fish salad (qicai yusheng) is both fun and tasty to eat. This large platter of salad of raw fish, seafood, fruits, and vegetables of various hues is dressed in generous drizzlings of crushed peanuts, plum sauce, and sesame oil. During the Lunar New Year, consuming the seven-color raw fish salad (as 'seven colors' sounds similar to 'seven riches') is a grand, often messy, affair of spectacle and skill. Diners gather around the platter with long chopsticks to toss the salad, lifting the assorted ingredients as high as possible without dropping them off the table; erudite diners lead the table in uttering auspicious sayings to wish good fortune for the new year.
 

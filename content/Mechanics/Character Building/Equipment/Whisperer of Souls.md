@@ -8,7 +8,6 @@ tags:
 ---
 
 # Whisperer of Souls
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-glaive-of-the-artist.webp|150]]
 
 This _+4 major striking greater brilliant keen glaive_ binds the souls of powerful creatures it slays. The soul can't be returned to life by any means while imprisoned within the glaive and can be freed only by a deed of great benevolence or selflessness. While using the glaive as a weapon, whenever you reduce a sapient creature of 18th level or higher to 0 Hit Points or roll a critical success with a Strike against such a target, the creature must attempt a DC 50 fortitude save.
 

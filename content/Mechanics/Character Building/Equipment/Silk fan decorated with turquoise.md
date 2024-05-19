@@ -8,4 +8,3 @@ tags:
 ---
 
 # Silk fan decorated with turquoise
-![[systems-pf2e-icons-equipment-treasure-art-objects-lesser-art-object-silk-fan-decorated-with-turquoise.webp|150]]

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lifting Belt
-![[icons-equipment-waist-belt-leather-brown.webp|150]]
 
 This wide leather belt grants you a +1 item bonus to Athletics checks and increases the amount you can easily carry. You can carry Bulk equal to 6 + your Strength modifier before becoming encumbered, and you can hold and carry a total Bulk up to 11 + your Strength modifier.
 

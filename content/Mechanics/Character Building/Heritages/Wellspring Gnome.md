@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Wellspring Gnome
-![[systems-pf2e-icons-features-ancestry-wellspring-gnome.webp|150]]
 
 Some other source of magic has a greater hold on you than the primal magic of your fey lineage does. This connection might come from an occult plane or an ancient occult song; a deity, celestial, or fiend; magical effluent left behind by a mage war; or ancient rune magic.
 

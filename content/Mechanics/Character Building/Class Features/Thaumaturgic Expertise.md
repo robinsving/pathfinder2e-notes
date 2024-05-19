@@ -9,7 +9,6 @@ tags:
 ---
 
 # Thaumaturgic Expertise
-![[systems-pf2e-icons-features-classes-thaumaturgic-expertise.webp|150]]
 
 You've learned deeper secrets of the supernatural, and your abilities are harder to resist. Your proficiency rank for your thaumaturge class DC increases to expert.
 

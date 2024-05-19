@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bloodline: Fey
-![[icons-commodities-biological-wing-insect-blue.webp|150]]
 
 Fey whimsy or a tryst in a moonlit grove put the bewitching magic of the First World into your family's bloodline.
 

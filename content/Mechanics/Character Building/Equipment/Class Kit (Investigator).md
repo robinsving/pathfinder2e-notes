@@ -8,7 +8,6 @@ tags:
 ---
 
 # Class Kit (Investigator)
-![[systems-pf2e-icons-equipment-adventuring-gear-classkit-investigator.webp|150]]
 
 **Armor** studded leather armor
 

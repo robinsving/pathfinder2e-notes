@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blaze
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-blaze.webp|150]]
 
 **Activate** 1 Interact
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Oil of Revelation
-![[systems-pf2e-icons-equipment-consumables-oils-oil-of-revelation.webp|150]]
 
 **Activate** 1 Interact
 

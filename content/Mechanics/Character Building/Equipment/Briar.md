@@ -8,7 +8,6 @@ tags:
 ---
 
 # Briar
-![[icons-weapons-staves-staff-forest-jewel.webp|150]]
 
 _Briar_ was formed ages ago by the Eldest when they tore from Nyrissa's mind and spirit her capability to love, then solidified this emotional energy into a sword. They entrusted _Briar's_ safe keeping to the Lantern King, who mischievously kept moving the sword from world to world, always near to the regions Nyrissa was focused on but always hidden from her so that he could privately enjoy the delicious irony that the thing she sought so ardently was always kept just out of reach.
 

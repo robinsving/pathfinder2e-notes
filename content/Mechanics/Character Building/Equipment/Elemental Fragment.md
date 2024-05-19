@@ -8,7 +8,6 @@ tags:
 ---
 
 # Elemental Fragment
-![[Mechanics/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-spells-magic-stone.webp|150]]
 
 **Activate 2 (concentrate, manipulate)**
 

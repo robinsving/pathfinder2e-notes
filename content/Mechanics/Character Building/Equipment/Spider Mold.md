@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spider Mold
-![[systems-pf2e-icons-equipment-consumables-potions-white-dragons-breath-potion.webp|150]]
 
 This gray mold can be found growing on the remains of venomous arachnids - particularly, giant spiders. Its lack of color and faint taste make it particularly suited for mixing into meals meant to poison an unwary feaster.
 

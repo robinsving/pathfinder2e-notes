@@ -8,7 +8,6 @@ tags:
 ---
 
 # Toolkit of Bronze Whispers
-![[systems-pf2e-icons-equipment-adventuring-gear-artisan-tools.webp|150]]
 
 **Perception** +12; precise vision 30 feet, imprecise hearing 30 feet
 

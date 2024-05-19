@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Antiplague (Major)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-antiplague.webp|150]]
 
 **Activate** A (manipulate)
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mask of the Banshee
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-mask-of-the-banshee.webp|150]]
 
 This ice-blue half-mask is adorned with a wicked silver grin that covers the wearer's mouth, leaving the rest of the face uncovered. You gain a +2 item bonus to Intimidation checks.
 

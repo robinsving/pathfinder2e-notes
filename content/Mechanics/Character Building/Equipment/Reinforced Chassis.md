@@ -8,4 +8,3 @@ tags:
 ---
 
 # Reinforced Chassis
-![[icons-equipment-chest-breastplate-gorget-steel-white.webp|150]]

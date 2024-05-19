@@ -8,7 +8,6 @@ tags:
 ---
 
 # Class Kit (Champion)
-![[systems-pf2e-icons-equipment-adventuring-gear-classkit-champion.webp|150]]
 
 **Armor** hide armor
 

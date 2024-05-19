@@ -9,7 +9,6 @@ tags:
 ---
 
 # The Infinite Eye
-![[systems-pf2e-icons-features-classes-the-infinite-eye.webp|150]]
 
 The true strength of the mind lies in the knowledge it contains, with each new observation contributing to the totality of its experiences. To grow your experiences-and with them, your power-you devote yourself to observing as much as possible, casting your senses through space and time with clairvoyance and precognition.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Volcanic Vigor (Greater)
-![[icons-magic-symbols-mask-yellow-orange.webp|150]]
 
 This tattoo takes the shape of a muscular orc, with molten flesh and hollow eye sockets that seep smoke. You don't take damage from extreme heat or severe heat. While exposed to incredible heat, you take only minor heat damage every hour, instead of moderate heat damage every minute. You can see through ash and smoke.
 

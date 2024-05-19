@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Anticorrosion Oil
-![[icons-consumables-potions-potion-jar-corked-orange.webp|150]]
 
 **Activate** 1 Interact
 

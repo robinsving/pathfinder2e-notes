@@ -8,7 +8,6 @@ tags:
 ---
 
 # Chaos Collar
-![[icons-equipment-waist-belt-thick-ring-leather-tan.webp|150]]
 
 This unobtrusive collar is made to hide beneath an animal's fur or blend in against scaled skin. It's most often used by unscrupulous trophy hunters hoping to make a name for themselves by defeating threats they artificially created, using hapless animals as pawns.
 

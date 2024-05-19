@@ -8,7 +8,6 @@ tags:
 ---
 
 # Moon Radish Soup
-![[systems-pf2e-icons-equipment-alchemical-items-food-moon-radish-soup.webp|150]]
 
 **Activate** 1 1 minute (Interact)
 

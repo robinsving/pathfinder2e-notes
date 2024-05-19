@@ -8,7 +8,6 @@ tags:
 ---
 
 # Busine of Divine Reinforcements
-![[systems-pf2e-icons-equipment-held-items-busine-of-divine-reinforcements.webp|150]]
 
 This long, straight, trumpet-like instrument is made of well-polished brass and adorned with imagery of angels fighting demons or religious symbols. When played as an instrument, the busine generates powerful and harmonious notes and grants a +2 item bonus to Performance checks.
 

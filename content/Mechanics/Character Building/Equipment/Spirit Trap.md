@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spirit Trap
-![[icons-tools-fishing-net-simple-brown.webp|150]]
 
 A spirit trap consists of a net dipped in water that has been steeped with sacred herbs to better combat phantoms. This snare's components function as a net when not set up. You set this snare up in a 10-foot-by-10-foot area. The first creature with the spirit trait that steps into the area must attempt a DC 16 fortitude save.
 

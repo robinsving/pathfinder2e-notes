@@ -8,7 +8,6 @@ tags:
 ---
 
 # Celestial Hair
-![[systems-pf2e-icons-equipment-consumables-talismans-celestial-hair.webp|150]]
 
 **Usage** affixed to armor
 

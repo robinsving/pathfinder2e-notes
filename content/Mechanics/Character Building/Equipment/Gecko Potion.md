@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gecko Potion
-![[systems-pf2e-icons-equipment-consumables-potions-gecko-potion.webp|150]]
 
 **Activate** A (manipulate)
 

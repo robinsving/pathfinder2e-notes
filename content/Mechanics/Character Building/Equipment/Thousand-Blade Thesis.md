@@ -8,7 +8,6 @@ tags:
 ---
 
 # Thousand-Blade Thesis
-![[systems-pf2e-icons-equipment-held-items-thousand-blade-thesis.webp|150]]
 
 This collection of lacquered rice paper scrolls mounted on flexible bamboo contains a wealth of calligraphic essays and paintings on the art of war, specifically focused on the use of various weapons in warfare and how to tactically deploy warriors using those weapons to the best possible advantage. Consulting the thesis grants a +2 item bonus to Warfare Lore checks. Like most scholarly compendiums, this usage requires holding the thesis in one hand.
 

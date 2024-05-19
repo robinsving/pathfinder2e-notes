@@ -8,7 +8,6 @@ tags:
 ---
 
 # Matsuki's Medicinal Wine
-![[icons-consumables-drinks-tea-jug-gourd-brown.webp|150]]
 
 **Activate** 1 Interact
 

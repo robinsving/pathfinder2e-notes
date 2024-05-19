@@ -9,7 +9,6 @@ tags:
 ---
 
 # Encroaching Presence
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-creatures-magical-humanoid-silhouette-glowing-pink.webp|150]]
 
 Seeing and touching the beyond leaves you open to its alien influence, warping your perceptions and thoughts.
 

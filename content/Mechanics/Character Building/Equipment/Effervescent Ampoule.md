@@ -8,7 +8,6 @@ tags:
 ---
 
 # Effervescent Ampoule
-![[systems-pf2e-icons-equipment-consumables-talismans-effervescent-ampoule.webp|150]]
 
 **Activate** A (manipulate)
 

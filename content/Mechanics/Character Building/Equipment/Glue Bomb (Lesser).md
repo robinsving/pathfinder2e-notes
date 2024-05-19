@@ -10,7 +10,6 @@ tags:
 ---
 
 # Glue Bomb (Lesser)
-![[icons-containers-bags-sack-simple-leather-tan.webp|150]]
 
 **Activate** 1 Strike
 

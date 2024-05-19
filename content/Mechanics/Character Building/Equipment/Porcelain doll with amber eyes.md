@@ -8,4 +8,3 @@ tags:
 ---
 
 # Porcelain doll with amber eyes
-![[systems-pf2e-icons-equipment-treasure-art-objects-moderate-art-object-porcelain-doll-with-amber-eyes.webp|150]]

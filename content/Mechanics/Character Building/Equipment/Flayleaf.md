@@ -8,7 +8,6 @@ tags:
 ---
 
 # Flayleaf
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-flayleaf.webp|150]]
 
 The flayleaf plant is relatively common, though the mildly euphoric effects of smoking its dried leaves increase when it's sourced from plants specifically grown to produce such effects.
 

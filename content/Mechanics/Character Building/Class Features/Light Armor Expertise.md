@@ -9,6 +9,5 @@ tags:
 ---
 
 # Light Armor Expertise
-![[systems-pf2e-icons-features-classes-light-armor-expertise.webp|150]]
 
 You've learned how to dodge while wearing light or no armor. Your proficiency ranks for light armor and unarmored defense increase to expert.

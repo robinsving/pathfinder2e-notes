@@ -8,7 +8,6 @@ tags:
 ---
 
 # Codex of Destruction and Renewal
-![[icons-sundries-books-book-face-blue.webp|150]]
 
 An unsmiling mask, half obsidian and half ivory, is embossed on the cover of this weighty tome, the opposite color forming the background of each half. Each _codex of destruction and renewal_ is said to contain a fragment of the knowledge Nethys gained in his apotheosis and they're sacred to his church.
 

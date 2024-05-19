@@ -8,7 +8,6 @@ tags:
 ---
 
 # Metalmist Sphere (Lesser)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-metalmist-sphere.webp|150]]
 
 **Activate** A Interact
 

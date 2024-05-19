@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blackfinger Blight
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-blackfinger-blight.webp|150]]
 
 **Activate**2Interact
 

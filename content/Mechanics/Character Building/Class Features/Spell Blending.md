@@ -9,7 +9,6 @@ tags:
 ---
 
 # Spell Blending
-![[systems-pf2e-icons-features-classes-spell-blending.webp|150]]
 
 You theorize that spell slots are a shorthand for an underlying energy that powers all spellcasting, and you've found a way to tinker with the hierarchy of spell slots, combining them to fuel more powerful spells.
 

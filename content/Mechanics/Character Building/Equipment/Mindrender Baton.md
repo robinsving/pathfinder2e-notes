@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mindrender Baton
-![[icons-commodities-tech-metal-joint.webp|150]]
 
 This short, green, metal baton uses potent transmissions along brainwave frequencies to control the minds of nearby creatures. This Numerian item's effects are high-tech in nature, not magical.
 

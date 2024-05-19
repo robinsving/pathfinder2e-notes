@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lover's Ink
-![[systems-pf2e-icons-equipment-adventuring-gear-lovers-ink.webp|150]]
 
 Used with **Writing Set**.
 

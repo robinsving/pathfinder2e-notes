@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gloaming Arc
-![[systems-pf2e-icons-equipment-weapons-scimitar.webp|150]]
 
 This black _+2 striking scimitar_ reflects light only along its edge, like a thin crescent moon. It grants a +1 item bonus to Stealth while you're holding it, increasing to a +2 item bonus if it has a _+3 weapon potency_ rune.
 

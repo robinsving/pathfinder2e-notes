@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lion Claw
-![[systems-pf2e-icons-equipment-consumables-talismans-lion-claw.webp|150]]
 
 **Usage** affixed to armor
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Chain (10 feet)
-![[systems-pf2e-icons-equipment-adventuring-gear-chain.webp|150]]
 
 10 feet of chain.

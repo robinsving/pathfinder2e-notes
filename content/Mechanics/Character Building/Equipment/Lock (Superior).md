@@ -8,6 +8,5 @@ tags:
 ---
 
 # Lock (Superior)
-![[systems-pf2e-icons-equipment-adventuring-gear-lock.webp|150]]
 
 Picking a superior lock requires six successful DC 40 thievery checks.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Class Kit (Wizard)
-![[systems-pf2e-icons-equipment-adventuring-gear-classkit-wizard.webp|150]]
 
 **Armor** explorer's clothing  
 

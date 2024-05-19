@@ -9,6 +9,5 @@ tags:
 ---
 
 # Lesson of Bargains
-![[systems-pf2e-icons-features-classes-lesson-of-favors.webp|150]]
 
 You gain the _[[Over the Coals]]_ hex, and your familiar learns _[[Subconscious Suggestion]]_.

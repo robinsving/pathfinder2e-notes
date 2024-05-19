@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ghoul Hide
-![[systems-pf2e-icons-equipment-armor-specific-magic-armor-ghoul-hide.webp|150]]
 
 Stitched together from pieces of ghoul skin, this suit of _+1_ _hide armor_ grants you a +1 item bonus to saving throws against disease and paralysis and makes you immune to the paralysis of ghouls. _Ghoul hide_ with a _resilient rune_ increases the resilient rune's item bonus to saving throws against disease and paralysis by 1 (maximum +4).
 

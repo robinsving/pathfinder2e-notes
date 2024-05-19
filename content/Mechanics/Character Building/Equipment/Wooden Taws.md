@@ -8,6 +8,5 @@ tags:
 ---
 
 # Wooden Taws
-![[systems-pf2e-icons-equipment-weapons-wooden-taws.webp|150]]
 
 Wooden Taws to be fired from a Taw launcher.

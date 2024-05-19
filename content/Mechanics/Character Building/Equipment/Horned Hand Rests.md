@@ -8,7 +8,6 @@ tags:
 ---
 
 # Horned Hand Rests
-![[systems-pf2e-icons-equipment-worn-items-companion-items-horned-hand-rests.webp|150]]
 
 These thick bull or ram horns fuse into the armrests of your legchair companion, giving it more aggressive options. Your animal companion can only invest this item if it is a legchair.
 

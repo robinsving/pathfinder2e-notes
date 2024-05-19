@@ -8,7 +8,6 @@ tags:
 ---
 
 # Corrosive Ammunition
-![[systems-pf2e-icons-equipment-consumables-ammunition-corrosive-ammunition.webp|150]]
 
 **Activate** 1 Interact
 

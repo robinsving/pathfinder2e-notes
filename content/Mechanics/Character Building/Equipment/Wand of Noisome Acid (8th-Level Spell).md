@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Noisome Acid (8th-Level Spell)
-![[systems-pf2e-icons-equipment-wands-specialty-wands-wand-of-noisome-acid.webp|150]]
 
 This greasy stick emits a stomach-churning scent when held in a hand.
 

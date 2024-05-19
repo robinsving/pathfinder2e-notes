@@ -8,7 +8,6 @@ tags:
 ---
 
 # Earthsight Box
-![[icons-containers-chest-chest-elm-steel-brown.webp|150]]
 
 This fine wooden box is inlaid with Dwarven runes, with hinges and a clasp of forged iron. The box contains a few handfuls of fine sand.
 

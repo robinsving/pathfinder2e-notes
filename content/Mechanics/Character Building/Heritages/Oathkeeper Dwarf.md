@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Oathkeeper Dwarf
-![[systems-pf2e-icons-features-ancestry-oathkeeper-dwarf.webp|150]]
 
 Growing up, you never tried to lie to get what you wanted, and even when necessary, lying makes you uncomfortable. The especially faithful might even have thought that you were blessed by the dwarven god of duty, [[Kols]].
 

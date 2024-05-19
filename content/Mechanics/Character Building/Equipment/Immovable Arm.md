@@ -8,7 +8,6 @@ tags:
 ---
 
 # Immovable Arm
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-immovable-arm.webp|150]]
 
 The flat iron bar of an _immovable rod_ has been worked into the core frame of this prosthetic arm, a small button discreetly placed at the heel of the hand.
 

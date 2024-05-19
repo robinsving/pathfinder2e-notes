@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blindpepper Bolt
-![[systems-pf2e-icons-equipment-consumables-ammunition-blindpepper-bolt.webp|150]]
 
 **Ammunition** bolt
 

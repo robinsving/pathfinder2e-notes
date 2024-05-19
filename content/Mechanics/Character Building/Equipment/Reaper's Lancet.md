@@ -8,7 +8,6 @@ tags:
 ---
 
 # Reaper's Lancet
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-reapers-lancet.webp|150]]
 
 Hendrid Pratchett himself designed this custom skull-topped +1 striking exquisite sword cane and had it gilded in high-quality gold. Its first victim was the very smith whom Pratchett commissioned to craft the weapon, so the means of its construction are a secret known only to Pratchett. The magic of the _Reaper's Lancet_ applies to both the blade and the sheath, making them each effectively a +1 striking weapon, but only if both are wielded by the same creature-if the two components are shared between creatures, only the blade retains the rune's magic.
 

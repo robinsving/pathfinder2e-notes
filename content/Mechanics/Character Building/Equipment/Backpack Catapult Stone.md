@@ -9,4 +9,3 @@ draft: true
 ---
 
 # Backpack Catapult Stone
-![[systems-pf2e-icons-equipment-consumables-ammunition-backpack-catapult-stone.webp|150]]

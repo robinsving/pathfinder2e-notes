@@ -8,7 +8,6 @@ tags:
 ---
 
 # Verdant Staff (Greater)
-![[icons-weapons-staves-staff-nature-spiral.webp|150]]
 
 This oak branch grows leaves in spring that change color in autumn and shed in winter. While wielding it, you gain a +2 circumstance bonus to checks to identify plants and fungi.
 

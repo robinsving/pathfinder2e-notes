@@ -8,7 +8,6 @@ tags:
 ---
 
 # Swirling Sand
-![[systems-pf2e-icons-equipment-consumables-other-consumables-swirling-sand.webp|150]]
 
 **Activate** [[Cast a Spell]]
 

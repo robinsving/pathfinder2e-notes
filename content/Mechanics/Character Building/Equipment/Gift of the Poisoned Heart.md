@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gift of the Poisoned Heart
-![[systems-pf2e-icons-equipment-cursed-items-gift-of-the-poisoned-heart.webp|150]]
 
 **Activate** 1 minute (command, Interact)
 

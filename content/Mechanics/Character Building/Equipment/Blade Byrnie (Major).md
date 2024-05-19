@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blade Byrnie (Major)
-![[systems-pf2e-icons-equipment-armor-chainshirt.webp|150]]
 
 Instead of chain links, this _+3 greater resilient chain shirt_ is assembled from metal "leaves" that each resemble a small blade.
 

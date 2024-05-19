@@ -9,6 +9,5 @@ tags:
 ---
 
 # Inventive Mastery
-![[systems-pf2e-icons-features-classes-inventive-mastery.webp|150]]
 
 Your inventions are incredibly effective. Your proficiency rank for your inventor class DC increases to master.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Final Rest
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-final-rest.webp|150]]
 
 This _+3 [[Disrupting (Greater)]] greater striking silver longsword_ is made from the purest silver. The blade is carefully etched to depict a vast and sprawling necropolis, a place where the dead are laid to rest. Whenever you critically hit an undead creature with _final rest_, the undead creature takes 3d6 persistent,spirit damage, with a DC 36 fortitude.
 

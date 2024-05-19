@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Aeon Stone (Western Star)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-aeon-stone-western-star.webp|150]]
 
 This aeon stone must be activated to provide a benefit.
 

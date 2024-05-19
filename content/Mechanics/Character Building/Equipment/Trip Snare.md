@@ -8,7 +8,6 @@ tags:
 ---
 
 # Trip Snare
-![[systems-pf2e-icons-equipment-snares-trip-snare.webp|150]]
 
 You set a cunning wire to trip a creature. A Medium or smaller creature that enters this snare's square must attempt a DC 20 reflex save.
 

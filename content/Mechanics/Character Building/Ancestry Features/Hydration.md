@@ -9,7 +9,6 @@ tags:
 ---
 
 # Hydration
-![[Mechanics/Character Building/Ancestry Features/zz_asset-files/icons-commodities-materials-slime-thick-blue.webp|150]]
 
 While you are an amphibious being equally as capable on land as in the water, your body requires you to return to aquatic environments at least once in a 24-hour period. You must submerge in water in order to rehydrate your water-acclimated skin.
 

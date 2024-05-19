@@ -9,7 +9,6 @@ tags:
 ---
 
 # Findeladlara
-![[systems-pf2e-icons-deity-Findeladlara.webp|150]]
 
 Findeladlara is the ancient elven goddess of art and architecture, who teaches the value of preservation, art, buildings and, most importantly, life. She assumed the twilight portfolio to guide her most fervent worshippers to safety in the wake of Earthfall, after they remained on Golarion to build shelters in her name for the survivors of the cataclysm.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rhythm Bone (Greater)
-![[icons-commodities-bones-bone-jaw-teeth-brown.webp|150]]
 
 This small, enchanted bone (most often a jaw) is usually capped with metal at its ends. It's activated by striking it against a hard surface.
 

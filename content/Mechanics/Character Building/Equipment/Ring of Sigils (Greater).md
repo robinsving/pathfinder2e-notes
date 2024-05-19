@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ring of Sigils (Greater)
-![[icons-equipment-finger-ring-band-engraved-scrolls-bronze.webp|150]]
 
 This silver band is carved with the personal sigils of different individuals, adding one to represent you when you invest it. The ring allows you to cast _[[Sigil]]_ as an arcane innate cantrip.
 

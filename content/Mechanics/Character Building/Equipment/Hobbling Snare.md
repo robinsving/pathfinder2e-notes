@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hobbling Snare
-![[icons-magic-nature-root-vine-entangle-foot-green.webp|150]]
 
 You rig vines, ropes, or wires to cinch tight around a creature that triggers this snare. The first creature to enter the square must attempt a DC 20 reflex save.
 

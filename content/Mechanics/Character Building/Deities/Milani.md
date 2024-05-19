@@ -9,7 +9,6 @@ tags:
 ---
 
 # Milani
-![[systems-pf2e-icons-deity-Milani.webp|150]]
 
 Milani is the patron mother of those who war against oppression, rewarding those willing to sacrifice their lives and use whatever tools are available to fight for those who cannot defend themselves, especially people who have been captured or enslaved. Throughout Golarion, Milani is also known as the Everbloom, as the symbol of her church is a beautiful rose growing from blood-soaked soil.
 

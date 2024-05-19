@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rod of Razors
-![[icons-weapons-polearms-spear-hooked-blue.webp|150]]
 
 This ornate, polearm-like weapon appears to be a cross between a halberd and a strange scepter of alien design. The rod's blades are edged in adamantine, and its haft is surprisingly elastic and can be used to extend the item's reach in combat dynamically, as needed.
 

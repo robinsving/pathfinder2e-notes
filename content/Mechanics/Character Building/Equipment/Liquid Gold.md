@@ -8,7 +8,6 @@ tags:
 ---
 
 # Liquid Gold
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-malleable-mixture.webp|150]]
 
 **Activate** f Interact
 

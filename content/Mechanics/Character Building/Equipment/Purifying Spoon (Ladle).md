@@ -8,7 +8,6 @@ tags:
 ---
 
 # Purifying Spoon (Ladle)
-![[icons-tools-cooking-soup-ladle.webp|150]]
 
 A phrase of luck is carved into the handle of this wooden ladle. While a variety of other cutlery with similar properties exists, a spoon is often the most convenient and inconspicuous to carry.
 

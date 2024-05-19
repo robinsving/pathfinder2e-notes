@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Phantasms (Greater)
-![[systems-pf2e-icons-equipment-staves-staff-of-illusion.webp|150]]
 
 This ornate metal staff shines with precious inlays of gold. When you Cast a Spell from the staff, the illusory image of something you desire flashes across its surface. While wielding the staff, you gain a +2 status bonus to checks to disbelieve an illusion.
 

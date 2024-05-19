@@ -9,7 +9,6 @@ tags:
 ---
 
 # The Inscribed One
-![[icons-magic-symbols-rune-sigil-red-orange.webp|150]]
 
 No words passed your patron's lips in the moment you met; instead, words and glyphs danced across their skin while symbols and numbers swam in the depths of their eyes, spelling out their will in a torrent of words and wisdom. Your patron might be a powerful archmage, or even one of their abandoned artifacts, searching for a successor.
 

@@ -8,4 +8,3 @@ tags:
 ---
 
 # Heavy Barding (Large)
-![[systems-pf2e-icons-equipment-armor-heavy-barding.webp|150]]

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Leaf Order
-![[icons-magic-nature-leaf-elm-sparkle-glow-green.webp|150]]
 
 You revere the bounty of nature, acting as both a gardener and warden for the wilderness. With your leshy familiar at your side, you help areas regrow after disasters or negligent expansion and turn flora against those who would abuse them.
 

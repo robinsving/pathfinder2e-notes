@@ -8,7 +8,6 @@ tags:
 ---
 
 # Quill of Passage
-![[systems-pf2e-icons-equipment-held-items-quill-of-passage.webp|150]]
 
 This black-feathered quill has a glowing nib with a small amount of glowing ink inside it.
 

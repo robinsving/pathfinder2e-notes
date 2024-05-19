@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Aquarium Lamp
-![[icons-magic-water-barrier-ice-water-cube.webp|150]]
 
 **Activate** 1 Interact
 

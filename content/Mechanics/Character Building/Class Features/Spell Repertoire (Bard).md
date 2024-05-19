@@ -9,7 +9,6 @@ tags:
 ---
 
 # Spell Repertoire (Bard)
-![[icons-sundries-books-book-symbol-spiral-silver-blue.webp|150]]
 
 The collection of spells you can cast is called your spell repertoire. At 1st level, you learn two 1st-rank occult spells of your choice and five occult cantrips of your choice. You choose these from the common spells from the occult list or from other occult spells to which you have access. You can cast any spell in your spell repertoire by using a spell slot of an appropriate spell rank.
 

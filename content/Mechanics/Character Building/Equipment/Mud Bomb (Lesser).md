@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mud Bomb (Lesser)
-![[icons-commodities-materials-slime-brown.webp|150]]
 
 **Activate** 1 Strike
 

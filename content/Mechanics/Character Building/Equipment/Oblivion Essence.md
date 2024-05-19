@@ -8,7 +8,6 @@ tags:
 ---
 
 # Oblivion Essence
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-oblivion-essence.webp|150]]
 
 Created from a daemon's powdered soul gems or refined from the waters of Abaddon's rivers, oblivion essence causes victims to rapidly age and decay.
 

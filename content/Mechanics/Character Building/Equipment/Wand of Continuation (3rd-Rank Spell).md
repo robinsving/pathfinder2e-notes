@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Continuation (3rd-Rank Spell)
-![[systems-pf2e-icons-equipment-wands-specialty-wands-wand-of-continuation.webp|150]]
 
 This wand increases a spell's duration. Yellow embers spiral over its surface until the spell ends.
 

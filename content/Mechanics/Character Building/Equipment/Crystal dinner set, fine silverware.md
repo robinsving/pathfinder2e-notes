@@ -8,4 +8,3 @@ tags:
 ---
 
 # Crystal dinner set, fine silverware
-![[systems-pf2e-icons-equipment-treasure-art-objects-greater-art-object-crystal-dinner-set-fine-silverware.webp|150]]

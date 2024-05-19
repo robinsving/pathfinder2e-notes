@@ -8,6 +8,5 @@ tags:
 ---
 
 # Formulated Sunlight
-![[systems-pf2e-icons-equipment-consumables-oils-oil-of-revelation.webp|150]]
 
 A leshy can derive nourishment from specially formulated bottles of sunlight instead of natural sunlight.

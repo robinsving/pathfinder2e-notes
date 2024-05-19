@@ -8,7 +8,6 @@ tags:
 ---
 
 # Planar Ribbon
-![[Mechanics/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-held-items-planar-ribbon.webp|150]]
 
 By twisting and twirling this ordinary-looking leather ribbon, you can temporarily bend a rift in space.
 

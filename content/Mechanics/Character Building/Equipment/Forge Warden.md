@@ -8,7 +8,6 @@ tags:
 ---
 
 # Forge Warden
-![[systems-pf2e-icons-equipment-shields-specific-shields-forge-warden.webp|150]]
 
 The religious symbol of Torag, the forge god-an ornate hammer of dwarven construction-adorns the face of this _lesser reinforcing steel shield_ (Hardness 8, HP 72, BT 36). The shield is a religious symbol of Torag.
 

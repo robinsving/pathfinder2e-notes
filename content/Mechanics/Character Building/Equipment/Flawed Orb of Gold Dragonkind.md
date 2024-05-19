@@ -8,7 +8,6 @@ tags:
 ---
 
 # Flawed Orb of Gold Dragonkind
-![[systems-pf2e-icons-equipment-artifacts-flawed-orb-of-gold-dragonkind.webp|150]]
 
 Each of the legendary _Orbs of Dragonkind_ contains the essence and personality of a powerful dragon. The _Orb of Gold Dragonkind_ was the most powerful of them all, until it was shattered by Mengkare's draconic breath. Reconstructed at great expense by enslaved spellcasters toiling under the Scarlet Triad's watch, the _Flawed Orb of Gold Dragonkind_ is a shadow of its prior self, yet it remains a potent weapon against dragons of all types.
 

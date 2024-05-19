@@ -8,7 +8,6 @@ tags:
 ---
 
 # Celestial Peach (Rejuvenation)
-![[systems-pf2e-icons-equipment-consumables-other-consumables-celestial-peach-rejuvination.webp|150]]
 
 **Activate** 1 Interact
 

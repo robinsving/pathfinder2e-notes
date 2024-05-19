@@ -8,4 +8,3 @@ tags:
 ---
 
 # Jet
-![[systems-pf2e-icons-equipment-treasure-gems-greater-semiprecious-stones-jet.webp|150]]

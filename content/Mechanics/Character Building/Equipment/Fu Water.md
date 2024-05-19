@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fu Water
-![[systems-pf2e-icons-equipment-consumables-potions-fu-water.webp|150]]
 
 Burnt fulu ashes float in this liquid, lending a distinctive red color and imparting it with a variety of purifying effects. Unlike many fulu items, fu water must be created using divine magic.
 

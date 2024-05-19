@@ -8,7 +8,6 @@ tags:
 ---
 
 # Silent Bell
-![[systems-pf2e-icons-equipment-held-items-silent-bell.webp|150]]
 
 **Access** Member of a secret society
 

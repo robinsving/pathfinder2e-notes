@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blessed Tattoo
-![[systems-pf2e-icons-equipment-tattoos-blessed-tattoo.webp|150]]
 
 **Activate** D envision, Interact
 

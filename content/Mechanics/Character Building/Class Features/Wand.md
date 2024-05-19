@@ -9,7 +9,6 @@ tags:
 ---
 
 # Wand
-![[systems-pf2e-icons-features-classes-wand.webp|150]]
 
 Wand implements are short, lightweight batons, usually made of wood but often incorporating other materials. Due to their association with spellcasters, wand implements are connected to magic and its practice, as well as the direction and manipulation of energy. Wand implements are associated with the astrological signs of the thrush and the sky dragon.
 

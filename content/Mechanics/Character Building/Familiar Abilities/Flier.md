@@ -9,6 +9,5 @@ tags:
 ---
 
 # Flier
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 It gains a fly Speed of 25 feet.

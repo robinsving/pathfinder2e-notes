@@ -9,6 +9,5 @@ tags:
 ---
 
 # Fast Movement: Swim
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 Increase the familiar's swim Speed from 25 feet to 40 feet.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spear Frog Poison
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-spear-frog-poison.webp|150]]
 
 A single spear frog yields enough toxin to Craft 1 dose of spear frog poison.
 

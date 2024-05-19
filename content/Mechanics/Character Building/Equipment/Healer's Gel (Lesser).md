@@ -8,7 +8,6 @@ tags:
 ---
 
 # Healer's Gel (Lesser)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-skinitch-salve.webp|150]]
 
 **Activate** Cast a Spell
 

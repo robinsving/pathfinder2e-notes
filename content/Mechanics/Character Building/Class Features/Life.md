@@ -9,7 +9,6 @@ tags:
 ---
 
 # Life
-![[icons-commodities-flowers-lotus-pink.webp|150]]
 
 The never-ending flow of vitality energy within living beings is palpable to you. You might uphold the sanctity of life, or perhaps you seek to undermine it. You might draw power from the collective vitality of the world's living creatures, hold some connection to the Forge of Creation, or revere a collection of deities including Irori, Pharasma, Sarenrae, and the god of medicine Qi Zhong.
 

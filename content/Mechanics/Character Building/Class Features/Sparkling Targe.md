@@ -9,7 +9,6 @@ tags:
 ---
 
 # Sparkling Targe
-![[icons-equipment-shield-heater-crystal-blue.webp|150]]
 
 You've studied the applications of magic, training yourself to perform not just offensive maneuvers but defensive tactics as well. When magic flows through you, your shield can block impossible things, even a dragon's breath or a magic missile.
 

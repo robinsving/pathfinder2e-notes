@@ -8,7 +8,6 @@ tags:
 ---
 
 # Emerald Grasshopper
-![[systems-pf2e-icons-equipment-consumables-talismans-emerald-grasshopper.webp|150]]
 
 **Activate** A (concentrate)
 

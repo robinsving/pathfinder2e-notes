@@ -8,7 +8,6 @@ tags:
 ---
 
 # Scale of Igroon
-![[icons-equipment-shield-heater-steel-boss-red.webp|150]]
 
 Carved from a scale of the kaiju Igroon, this jagged shield refracts light around it in a shimmering haze. A scale of Igroon (Hardness 20, HP 160, BT 80) recovers 4 Hit Points at the start of its wielder's turn. When you [[Raise a Shield]], you can use the [[Shield Block]] reaction with the _scale of Igroon_ to block an attack or effect that deals acid, cold, electricity, fire, force, or sonic damage as well as physical damage.
 

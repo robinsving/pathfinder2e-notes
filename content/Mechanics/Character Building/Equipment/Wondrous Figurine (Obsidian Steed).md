@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wondrous Figurine (Obsidian Steed)
-![[systems-pf2e-icons-equipment-held-items-wondrous-figurine-obsidian-steed.webp|150]]
 
 This sinister-looking black statuette resembles a horse rearing up on its hind legs.
 

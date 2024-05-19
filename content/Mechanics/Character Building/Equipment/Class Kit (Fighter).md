@@ -8,7 +8,6 @@ tags:
 ---
 
 # Class Kit (Fighter)
-![[systems-pf2e-icons-equipment-adventuring-gear-classkit-fighter.webp|150]]
 
 **Armor** scale mail
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cold Iron Blanch (Lesser)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-cold-iron-blanch.webp|150]]
 
 **Activate** 1 Interact
 

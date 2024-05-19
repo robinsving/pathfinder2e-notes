@@ -9,4 +9,3 @@ draft: true
 ---
 
 # Alabaster idol
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-commodities-treasure-statue-bust-stone-grey.webp|150]]

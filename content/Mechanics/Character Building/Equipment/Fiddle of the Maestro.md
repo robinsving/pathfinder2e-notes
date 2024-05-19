@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fiddle of the Maestro
-![[systems-pf2e-icons-equipment-held-items-fiddle-of-the-maestro.webp|150]]
 
 This exquisite fiddle is perfectly carved and balanced to produce the purest sound while granting its player perfect balance and poise. It grants a +2 item bonus to Performance checks. If you're a master in Performance, while playing it you also gain a +1 status bonus to Reflex saves and a +1 item bonus to Dexterity-based skill checks. If you're legendary in Performance, the bonuses are +2.
 

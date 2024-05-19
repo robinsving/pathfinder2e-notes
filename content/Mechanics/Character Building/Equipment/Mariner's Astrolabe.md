@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mariner's Astrolabe
-![[systems-pf2e-icons-equipment-adventuring-gear-astrolabe.webp|150]]
 
 **Activate** 1 minute (Interact)
 

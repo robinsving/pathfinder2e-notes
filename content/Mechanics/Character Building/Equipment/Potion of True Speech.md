@@ -8,7 +8,6 @@ tags:
 ---
 
 # Potion of True Speech
-![[systems-pf2e-icons-equipment-consumables-potions-potion-of-tongues.webp|150]]
 
 **Activate** 1 (manipulate)
 

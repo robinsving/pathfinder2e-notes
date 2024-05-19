@@ -9,7 +9,6 @@ tags:
 ---
 
 # Extreme Curse
-![[systems-pf2e-icons-features-classes-extreme-curse.webp|150]]
 
 You have mastered a perilous balance between the conflicting divine powers of your mystery, gaining the power to change your fate, but straining both body and soul. When you cast a revelation spell while affected by your major curse, your curse intensifies to an extreme effect instead of overwhelming you. All mysteries share the same effects for their extreme curse.
 

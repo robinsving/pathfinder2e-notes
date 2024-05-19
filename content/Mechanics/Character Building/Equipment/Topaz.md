@@ -8,4 +8,3 @@ tags:
 ---
 
 # Topaz
-![[systems-pf2e-icons-equipment-treasure-gems-lesser-precious-stones-topaz.webp|150]]

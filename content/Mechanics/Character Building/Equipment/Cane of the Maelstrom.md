@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cane of the Maelstrom
-![[systems-pf2e-icons-equipment-staves-cane-of-the-maelstrom.webp|150]]
 
 A large crystal of warpglass floats above the head of this silvery purple +3 anarchic greater striking club. If you successfully Strike a creature, the cane also affects the target with a [[Warpwaves|Warpwave]].
 

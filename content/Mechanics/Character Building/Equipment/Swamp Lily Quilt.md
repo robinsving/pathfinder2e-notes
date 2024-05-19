@@ -8,7 +8,6 @@ tags:
 ---
 
 # Swamp Lily Quilt
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-swamp-lily-quilt.webp|150]]
 
 **Activate** 2 Interact
 

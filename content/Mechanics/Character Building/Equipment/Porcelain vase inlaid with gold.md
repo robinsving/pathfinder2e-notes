@@ -8,4 +8,3 @@ tags:
 ---
 
 # Porcelain vase inlaid with gold
-![[systems-pf2e-icons-equipment-treasure-art-objects-moderate-art-object-porcelain-vase-inlaid-with-gold.webp|150]]

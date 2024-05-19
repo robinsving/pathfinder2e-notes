@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gamepiece Chariot
-![[systems-pf2e-icons-equipment-treasure-art-objects-moderate-art-object-parade-armor-with-flourishes.webp|150]]
 
 This stone figurine of a chariot pulled by two horses was used by Tekritanin adults during strategy game competitions. Sometimes, though, mischievous adolescents snatched pieces like this one for joyriding.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Grisly Scythe
-![[systems-pf2e-icons-equipment-weapons-scythe.webp|150]]
 
 While this sinister-looking weapon isn't inherently evil, its unsettling appearance and powers particularly appeal to those who revel in causing pain. A grisly scythe has a twisted thorny haft and a blade that appears to be rusted, but it functions as a _+1 striking wounding scythe_.
 

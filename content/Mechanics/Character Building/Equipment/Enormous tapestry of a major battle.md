@@ -8,4 +8,3 @@ tags:
 ---
 
 # Enormous tapestry of a major battle
-![[systems-pf2e-icons-equipment-treasure-art-objects-moderate-art-object-enormous-tapestry-of-a-major-battle.webp|150]]

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of the Desert Winds (True)
-![[icons-weapons-staves-staff-ornate-wood.webp|150]]
 
 This crooked staff is made from twisting acacia wood and has a sphere of rough sandstone embedded in the top, to channel the magic of the desert. When wielding this staff in deserts, you gain a +1 circumstance bonus to Survival checks to Subsist, Track, and Cover Tracks.
 

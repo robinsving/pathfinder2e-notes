@@ -8,4 +8,3 @@ tags:
 ---
 
 # Pearl, saltwater
-![[icons-commodities-gems-pearl-swirl-blue.webp|150]]

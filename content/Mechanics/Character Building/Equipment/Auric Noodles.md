@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Auric Noodles
-![[systems-pf2e-icons-equipment-alchemical-items-food-auric-noodles.webp|150]]
 
 **Activate** 10 minutes (Interact)
 

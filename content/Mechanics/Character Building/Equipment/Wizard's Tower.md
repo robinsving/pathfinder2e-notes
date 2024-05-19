@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wizard's Tower
-![[icons-environment-settlement-watchtower-stone.webp|150]]
 
 A wizard's tower is a tiny gaming piece carved into the form of a stone tower.
 

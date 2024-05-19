@@ -8,7 +8,6 @@ tags:
 ---
 
 # Potion of Swimming (Greater)
-![[systems-pf2e-icons-equipment-consumables-potions-potion-of-swimming.webp|150]]
 
 **Activate** A (manipulate)
 

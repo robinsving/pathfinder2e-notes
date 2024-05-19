@@ -8,4 +8,3 @@ tags:
 ---
 
 # Mug
-![[icons-containers-kitchenware-mug-steel-wood-brown.webp|150]]

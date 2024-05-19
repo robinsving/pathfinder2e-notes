@@ -9,7 +9,6 @@ tags:
 ---
 
 # Laughing Shadow
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-creatures-magical-spirit-fear-energy-pink.webp|150]]
 
 Magic is freeing, a means to your ends, and you can use it to go where you want, do as you please, and avoid the consequences. You are a laughing shadow of spell and blade, always one step ahead of your foes, always with a trick up your sleeve.
 

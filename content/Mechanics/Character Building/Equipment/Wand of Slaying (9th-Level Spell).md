@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Slaying (9th-Level Spell)
-![[systems-pf2e-icons-equipment-wands-specialty-wands-wand-of-slaying.webp|150]]
 
 This polished black wand has a green gem at the tip, and anyone who looks into it sees a reflection of a grinning skull instead of their face.
 

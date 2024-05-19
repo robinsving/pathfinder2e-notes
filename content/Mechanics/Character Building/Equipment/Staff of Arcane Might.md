@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Arcane Might
-![[icons-weapons-staves-staff-ornate-blue.webp|150]]
 
 This staff of magically hardened wood is topped with a silver sculpture depicting magical runic symbols. A staff of arcane might is a _+1 striking staff_.
 

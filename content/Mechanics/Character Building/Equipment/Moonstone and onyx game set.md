@@ -8,4 +8,3 @@ tags:
 ---
 
 # Moonstone and onyx game set
-![[systems-pf2e-icons-equipment-treasure-art-objects-moderate-art-object-moonstone-and-onyx-game-set.webp|150]]

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Iron Cube
-![[systems-pf2e-icons-equipment-consumables-talismans-iron-cube.webp|150]]
 
 **Activate** D (concentrate)
 

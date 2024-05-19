@@ -8,4 +8,3 @@ tags:
 ---
 
 # Bronze brazier with Asmodean artwork
-![[systems-pf2e-icons-equipment-treasure-art-objects-minor-art-object-bonze-brazier-with-asmodean-artwork.webp|150]]

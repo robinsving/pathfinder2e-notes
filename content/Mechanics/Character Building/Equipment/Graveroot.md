@@ -8,7 +8,6 @@ tags:
 ---
 
 # Graveroot
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-graveroot.webp|150]]
 
 The opaque white sap from the graveroot shrub clouds the mind.
 

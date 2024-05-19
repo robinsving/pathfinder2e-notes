@@ -8,7 +8,6 @@ tags:
 ---
 
 # Demilich Eye Gem
-![[systems-pf2e-icons-equipment-held-items-demilich-eye-gem.webp|150]]
 
 This glowing gem is harvested from a demilich and has an 8th-level spell magically bonded to it. This item has the traits of the spell it contains.
 

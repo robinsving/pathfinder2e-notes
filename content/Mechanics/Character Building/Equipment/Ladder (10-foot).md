@@ -8,4 +8,3 @@ tags:
 ---
 
 # Ladder (10-foot)
-![[icons-sundries-misc-ladder.webp|150]]

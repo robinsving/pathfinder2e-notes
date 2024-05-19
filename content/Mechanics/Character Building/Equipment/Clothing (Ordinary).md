@@ -8,6 +8,5 @@ tags:
 ---
 
 # Clothing (Ordinary)
-![[icons-equipment-chest-shirt-collared-brown.webp|150]]
 
 Ordinary clothing is functional with basic tailoring, such as peasant garb, monk's robes, or work clothes.

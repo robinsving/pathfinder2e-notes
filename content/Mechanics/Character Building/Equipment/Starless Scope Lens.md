@@ -8,7 +8,6 @@ tags:
 ---
 
 # Starless Scope Lens
-![[icons-tools-scribal-lens-blue.webp|150]]
 
 A replacement lens for a [[Starless Scope]]. If you know the formula for the _starless scope_, you can Craft a new lens with a DC 25 crafting (master) check.
 

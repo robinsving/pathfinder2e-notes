@@ -8,7 +8,6 @@ tags:
 ---
 
 # Immortal Bastion
-![[systems-pf2e-icons-equipment-armor-bastion-plate.webp|150]]
 
 This impressive _+3 greater resilient greater fortification bastion plate_ is built like an impregnable castle, with multiple layers of defense and no weak points. When you activate the armor's deflect melee trait, you gain a +2 circumstance bonus to AC against melee attacks instead of +1, and you gain 10 temporary Hit Points that last until the start of your next turn.
 

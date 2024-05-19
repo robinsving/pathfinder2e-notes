@@ -8,4 +8,3 @@ tags:
 ---
 
 # Original manuscript from a world‑famous author
-![[systems-pf2e-icons-equipment-treasure-art-objects-greater-art-object-original-manuscript-from-a-world-famous-author.webp|150]]

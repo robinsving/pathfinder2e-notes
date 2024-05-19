@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Smoldering Fireballs (7th-Level Spell)
-![[systems-pf2e-icons-equipment-wands-specialty-wands-wand-of-smoldering-fireballs.webp|150]]
 
 This blackened, heavily burned stick smells faintly of bat guano.
 

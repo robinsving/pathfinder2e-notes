@@ -8,7 +8,6 @@ tags:
 ---
 
 # Grim Trophy
-![[systems-pf2e-icons-equipment-consumables-talismans-grim-trophy.webp|150]]
 
 **Activate** A (concentrate)
 

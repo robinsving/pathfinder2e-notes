@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Aeon Stone (Black Pearl)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-aeon-stone-black-pearl.webp|150]]
 
 This black pearl sparkles with light. The resonant power allows you to cast _[[Sending]]_ once per day.
 

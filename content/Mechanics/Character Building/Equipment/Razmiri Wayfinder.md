@@ -8,7 +8,6 @@ tags:
 ---
 
 # Razmiri Wayfinder
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-wayfinder.webp|150]]
 
 Worn on a chain around the neck, a Razmiri wayfinder functions as a compass and provides its wearer a +1 item bonus to Deception checks to Lie or Impersonate. Razmiri wayfinders can also be used to grant temporary healing, making it easier for the wearer to impersonate a divine spellcaster.
 

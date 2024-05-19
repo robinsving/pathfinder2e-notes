@@ -8,7 +8,6 @@ tags:
 ---
 
 # Thorn Triad
-![[icons-commodities-treasure-token-runed-nyd-yellow.webp|150]]
 
 From each corner of this carved, triangular badge extends a long, sharp thorn. The spell DC of any spell cast by activating this item is 18.
 

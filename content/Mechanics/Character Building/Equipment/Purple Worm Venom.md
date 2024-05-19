@@ -8,7 +8,6 @@ tags:
 ---
 
 # Purple Worm Venom
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-purple-worm-venom.webp|150]]
 
 Venom from enormous purple worms leaves a victim weakened.
 

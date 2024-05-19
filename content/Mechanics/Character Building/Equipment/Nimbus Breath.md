@@ -8,7 +8,6 @@ tags:
 ---
 
 # Nimbus Breath
-![[icons-consumables-drinks-alcohol-spirits-bottle-blue.webp|150]]
 
 **Activate** 1 (manipulate)
 

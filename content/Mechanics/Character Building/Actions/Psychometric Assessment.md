@@ -9,7 +9,6 @@ tags:
 ---
 
 # Psychometric Assessment
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 **Requirements** Your bare hands are touching an object in which you detected psychometric resonance
 

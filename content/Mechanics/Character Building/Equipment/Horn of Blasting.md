@@ -8,7 +8,6 @@ tags:
 ---
 
 # Horn of Blasting
-![[systems-pf2e-icons-equipment-held-items-horn-of-blasting.webp|150]]
 
 A _horn of blasting_ is a bright brass trumpet. It can be played as an instrument, granting a +2 item bonus to your Performance check.
 

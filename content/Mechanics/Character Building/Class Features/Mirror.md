@@ -9,7 +9,6 @@ tags:
 ---
 
 # Mirror
-![[systems-pf2e-icons-features-classes-Mirror.webp|150]]
 
 Mirror implements represent misdirection, illusion, and sleight of hand, bending and shifting a perspective and the way you look at things. While larger mirrors hold the same mystic connotations, thaumaturges always choose small, portable, handheld mirrors as implements so they can use them easily while adventuring. Mirror implements are associated with the harrow suit of keys, and the astrological signs of the stranger and the swallow.
 

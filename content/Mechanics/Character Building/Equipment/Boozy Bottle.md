@@ -8,7 +8,6 @@ tags:
 ---
 
 # Boozy Bottle
-![[icons-consumables-drinks-water-jug-clay-brown.webp|150]]
 
 This tattoo depicts a container of alcohol, traditionally a small, uncorked brown bottle. You gain a +1 item bonus to saving throws against poison.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bullhook (Greater)
-![[systems-pf2e-icons-equipment-held-items-bullhook.webp|150]]
 
 A _bullhook_ is a stout rod about 4 feet long with a blunt hook on the end. Too dull to be useful as a weapon, a _bullhook_ is instead used to direct animals in training or in performing their tasks. A _bullhook_ grants you a +2 item bonus to Nature checks to Command an Animal while you are holding it.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Oil of Repulsion
-![[systems-pf2e-icons-equipment-consumables-oils-oil-of-repulsion.webp|150]]
 
 **Activate** A (manipulate)
 

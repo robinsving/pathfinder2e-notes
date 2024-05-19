@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sinister Knight
-![[systems-pf2e-icons-equipment-runes-armor-property-runes-armor-property-runes.webp|150]]
 
 _Sinister knight_ armor shrouds the wearer's identity in secrecy, allowing Crimson Reclaimers to pass among foes without being immediately unmasked. The wearer gains a +1 item bonus to Deception checks.
 

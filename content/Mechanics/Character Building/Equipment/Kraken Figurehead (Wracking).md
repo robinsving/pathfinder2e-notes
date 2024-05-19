@@ -8,7 +8,6 @@ tags:
 ---
 
 # Kraken Figurehead (Wracking)
-![[icons-commodities-biological-tentacle-purple-white.webp|150]]
 
 **Usage** attached to a ship's bow
 

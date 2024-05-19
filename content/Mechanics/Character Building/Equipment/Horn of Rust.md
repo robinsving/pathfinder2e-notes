@@ -8,7 +8,6 @@ tags:
 ---
 
 # Horn of Rust
-![[icons-commodities-bones-horn-curved-orange.webp|150]]
 
 This rusted, coiled iron horn is sizable, appearing similar in shape to a ram's horn but measuring nearly 2 feet in diameter. Flakes of rust constantly fall from this item, and it leaves hands with a rusty red stain that lingers.
 

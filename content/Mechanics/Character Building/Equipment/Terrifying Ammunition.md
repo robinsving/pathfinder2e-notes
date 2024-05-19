@@ -8,7 +8,6 @@ tags:
 ---
 
 # Terrifying Ammunition
-![[systems-pf2e-icons-equipment-consumables-ammunition-terrifying-ammunition.webp|150]]
 
 **Activate** 1 Interact
 

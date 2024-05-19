@@ -9,7 +9,6 @@ tags:
 ---
 
 # Interrogation Methodology
-![[systems-pf2e-icons-features-classes-interrogation-methodology.webp|150]]
 
 People can't help but trust you, whether through your inherent likableness or your firm insistence on sticking to the truth. You have a way about you that gets others talking, and you've developed interrogative techniques to help you get to the truth of your investigations.
 

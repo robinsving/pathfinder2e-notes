@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pact-Bound Pistol
-![[systems-pf2e-icons-equipment-weapons-dueling-pistol.webp|150]]
 
 Wielded in over a hundred duels by the famed Ustalavic noblewoman Countess Tasya Iserav, this _+1 striking fearsome dueling pistol_ is a work of master craftsmanship, almost eerie in the axiomatic perfection present in each dimension and detail.
 

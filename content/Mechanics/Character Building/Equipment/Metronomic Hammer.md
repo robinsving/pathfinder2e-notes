@@ -8,7 +8,6 @@ tags:
 ---
 
 # Metronomic Hammer
-![[systems-pf2e-icons-equipment-weapons-gnome-hooked-hammer.webp|150]]
 
 A polished brass metronome ticks rhythmically within the haft of this _+1 striking gnome hooked hammer_. Gnome adherents of Brigh often attempt to reproduce this item as part of a ritual symbolizing methodical problem-solving and thoughtful craftsmanship.
 

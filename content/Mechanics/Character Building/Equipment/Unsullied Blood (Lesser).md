@@ -8,7 +8,6 @@ tags:
 ---
 
 # Unsullied Blood (Lesser)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-cats-eye-elixir.webp|150]]
 
 **Activate** A envision
 

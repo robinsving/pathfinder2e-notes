@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shrieking Skull
-![[systems-pf2e-icons-equipment-consumables-talismans-shrieking-skull.webp|150]]
 
 **Usage** affixed to a firearm or crossbow
 

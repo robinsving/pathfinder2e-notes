@@ -8,4 +8,3 @@ tags:
 ---
 
 # Enormous chryselephantine sculpture by a legend
-![[systems-pf2e-icons-equipment-treasure-art-objects-major-art-object-enormous-chryselephantine-sculpture-by-a-legend.webp|150]]

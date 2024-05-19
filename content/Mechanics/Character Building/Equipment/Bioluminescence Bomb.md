@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Bioluminescence Bomb
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-bombs-bottled-sunlight.webp|150]]
 
 **Activate** 1 Strike
 

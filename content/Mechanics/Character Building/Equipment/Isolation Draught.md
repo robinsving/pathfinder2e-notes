@@ -8,7 +8,6 @@ tags:
 ---
 
 # Isolation Draught
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-isolation-draught.webp|150]]
 
 Derived from steeping toxic highland plum pits in refined grain alcohols, this clear tonic slowly shuts down the imbiber's senses.
 

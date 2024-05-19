@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spoon Gun
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-spoon-gun.webp|150]]
 
 No one's entirely certain who developed the spoon gun, but all authorities agree that it was probably a goblin. Essentially a terrible idea in firearm form, the spoon gun is a spring-powered [[Hand Cannon]] with a modified grip that uses miscellaneous knives, forks, chopsticks, and spoons as ammunition. Users typically upend the entire contents of their cutlery drawer into the gun, aim it in the general direction of the foe, and hope it hits something.
 

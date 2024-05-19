@@ -8,7 +8,6 @@ tags:
 ---
 
 # Palm Crossbow
-![[systems-pf2e-icons-equipment-adventuring-gear-palm-crossbow.webp|150]]
 
 This thick, elegant bracelet conceals a specialized firing mechanism that can hold a single blowgun dart. You can fire the dart normally from the bracelet. Recognizing the bracelet's nature requires a successful DC 25 perception check.
 

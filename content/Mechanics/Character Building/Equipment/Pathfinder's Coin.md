@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pathfinder's Coin
-![[systems-pf2e-icons-equipment-held-items-pathfinderss-coin.webp|150]]
 
 This coin usually resembles ancient currency. An intricate matrix of gold and platinum wires inside the coin causes it to float an inch in the air and spin if placed on a wayfinder.
 

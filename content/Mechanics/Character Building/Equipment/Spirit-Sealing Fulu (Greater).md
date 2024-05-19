@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spirit-Sealing Fulu (Greater)
-![[systems-pf2e-icons-equipment-consumables-fulus-fulu-fancy.webp|150]]
 
 **Usage** affixed to one undead creature
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cape of Grand Entrances
-![[icons-equipment-back-cloak-collared-blue-gold.webp|150]]
 
 This regal blue cape is crafted from a hefty yet elegant velvet embroidered with ornate silver stars and dragons. Falling in a cascade of fabric, the cape rustles and flows in all the right ways and hangs upon your shoulders in a way that flatters your form and figure. You draw the eyes of those around you and gain a +2 circumstance bonus to your Performance checks.
 

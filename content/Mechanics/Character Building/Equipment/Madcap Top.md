@@ -8,7 +8,6 @@ tags:
 ---
 
 # Madcap Top
-![[systems-pf2e-icons-equipment-consumables-other-consumables-chimera-thread.webp|150]]
 
 This top has 20 divisions, painted in a chaotic mess of clashing colors. When spun, the top quickly settles on a side and generates a strange magical effect based on the side that lands face-up.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Splintering Spear (Greater)
-![[icons-weapons-polearms-spear-hooked-simple-blue.webp|150]]
 
 The entirety of this _+3 high-grade duskwood greater striking spear_ is made of worn, cracked, splintered wood, including the spearhead. These splinters never harm you when you hold the weapon, but when you hit with the spear, splinters break off in the target, dealing 1d6 bleed damage.
 

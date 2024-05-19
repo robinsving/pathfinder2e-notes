@@ -8,4 +8,3 @@ tags:
 ---
 
 # Hammer
-![[icons-tools-hand-hammer-mason-white-grey.webp|150]]

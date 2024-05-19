@@ -8,7 +8,6 @@ tags:
 ---
 
 # Boulder Seed (Greater)
-![[icons-commodities-stone-stone-chunk-moss-grey.webp|150]]
 
 **Activate** 1 Strike
 

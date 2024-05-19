@@ -8,7 +8,6 @@ tags:
 ---
 
 # Giant Centipede Venom
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-giant-centipede-venom.webp|150]]
 
 Giant centipede venom causes severe muscle stiffness.
 

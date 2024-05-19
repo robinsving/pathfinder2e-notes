@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hosteling Statuette
-![[systems-pf2e-icons-equipment-worn-items-companion-items-hosteling-statuette.webp|150]]
 
 This soapstone statuette resembles an unidentified lump with a vaguely animal shape, worn on a band or cord around the companion's neck. When your companion invests the item, the statuette changes to appear as a miniature carved soapstone version of the companion.
 

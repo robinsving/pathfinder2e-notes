@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ringmaster's Staff
-![[systems-pf2e-icons-equipment-staves-ringmasters-staff.webp|150]]
 
 This highly polished black wooden staff resembles an aristocrat's oversized walking cane, complete with a silver head shaped like a large circus animal such as a horse or elephant. Ringmasters or announcers use _ringmaster's staves_ to draw attention from their audiences or to salvage acts that fall flat mid-performance.
 

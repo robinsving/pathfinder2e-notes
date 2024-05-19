@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Alkenstar Ice Wine
-![[systems-pf2e-icons-equipment-consumables-potions-fu-water.webp|150]]
 
 This bottle of delicately sweet ice wine has the properties of alcohol. Made exclusively from grapes frozen in the Mana Wastes' erratic surge storms, Alkenstar ice wine finds a ready market among Geb, though undead are still immune to the drug's listed effects.
 

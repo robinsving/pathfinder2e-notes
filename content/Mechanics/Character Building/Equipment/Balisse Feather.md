@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Balisse Feather
-![[systems-pf2e-icons-equipment-consumables-talismans-balisse-feather.webp|150]]
 
 **Usage** affixed to a weapon
 

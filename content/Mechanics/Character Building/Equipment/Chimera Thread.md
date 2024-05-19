@@ -8,7 +8,6 @@ tags:
 ---
 
 # Chimera Thread
-![[systems-pf2e-icons-equipment-consumables-other-consumables-chimera-thread.webp|150]]
 
 **Activate** 10 minutes (Interact)
 

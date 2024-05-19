@@ -8,7 +8,6 @@ tags:
 ---
 
 # Crimson Worm Repellent
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-crimson-worm-repellent.webp|150]]
 
 **Activate** 1 minute (Interact)
 

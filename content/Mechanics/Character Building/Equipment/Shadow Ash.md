@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shadow Ash
-![[systems-pf2e-icons-equipment-consumables-other-consumables-black-powder-dose.webp|150]]
 
 **Activate** Cast a Spell or successfully perform a ritual as the primary or secondary caster
 

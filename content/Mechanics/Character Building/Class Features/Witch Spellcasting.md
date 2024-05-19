@@ -9,7 +9,6 @@ tags:
 ---
 
 # Witch Spellcasting
-![[systems-pf2e-icons-features-classes-witch-spellcasting.webp|150]]
 
 Using your familiar as a conduit, your patron provides you the power to cast spells. You are a spellcaster, and you can cast spells of your patron's tradition using the Cast a Spell activity. As a witch, when you cast spells, your incantations might rhyme, your gestures might be as simple as an ominous pointing finger or a complex folk sign, and your familiar might even echo your words or movements slightly as your patron's magic surges.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Catharsis Emotion (Fear)
-![[Mechanics/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-spells-fear.webp|150]]
 
 You let your fear fuel you, rather than consume you, but it burns your endurance.
 

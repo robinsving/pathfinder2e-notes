@@ -9,7 +9,6 @@ tags:
 ---
 
 # Druidic Order
-![[icons-magic-symbols-question-stone-yellow.webp|150]]
 
 Upon becoming a druid, you align yourself with a druidic order, which grants you a class feat, an order spell (see below), and an additional trained skill tied to your order While you'll always be a member of your initial order, it's not unheard of for a druid to request to study with other orders in search of greater understanding of the natural world, and PC druids are among the most likely to blend the powers of different orders.
 

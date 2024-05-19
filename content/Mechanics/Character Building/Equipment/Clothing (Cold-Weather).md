@@ -8,4 +8,3 @@ tags:
 ---
 
 # Clothing (Cold-Weather)
-![[icons-equipment-head-hood-leather-fur-brown.webp|150]]

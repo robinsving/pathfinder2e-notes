@@ -9,7 +9,6 @@ tags:
 ---
 
 # Thaumaturgic Mastery
-![[systems-pf2e-icons-features-classes-thaumaturgic-mastery.webp|150]]
 
 You've become a master in paranormal phenomena, and your esoterica grow in power. Your proficiency rank for your thaumaturge class DC increases to master.
 

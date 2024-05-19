@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dawnflower Beads
-![[icons-equipment-neck-necklace-runed-white-red.webp|150]]
 
 **Perception** +20; precise vision 30 feet, imprecise hearing 30 feet
 

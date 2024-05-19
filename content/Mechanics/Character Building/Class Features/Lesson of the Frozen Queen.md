@@ -9,6 +9,5 @@ tags:
 ---
 
 # Lesson of the Frozen Queen
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-magic-water-heart-ice-freeze.webp|150]]
 
 You gain the _[[Glacial Heart]]_ hex, and your familiar learns _[[Wall of Ice]]_.

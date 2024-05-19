@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shifter Prosthesis
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-shifter-prosthesis.webp|150]]
 
 This prosthetic arm is imbued with transmutation magic that can transform it into a weapon.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # The Deck of Destiny
-![[icons-sundries-gaming-playing-cards-black.webp|150]]
 
 Composed of 54 cards that are powerful in their own right, the Deck of Destiny epitomizes the powers of the harrow and divination. The deck only has its full suite of abilities while complete. Completing the deck requires all 54 cards to be placed together and shuffled into their complete state over the span of 1 minute; the cards merely being in proximity of each other is not enough to complete the deck. Once complete, the deck can be invested normally.
 

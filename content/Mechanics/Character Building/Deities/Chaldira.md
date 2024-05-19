@@ -9,7 +9,6 @@ tags:
 ---
 
 # Chaldira
-![[systems-pf2e-icons-deity-Chaldira Zuzaristan.webp|150]]
 
 Chaldira Zuzaristan, the Calamitous Turn, is a plucky, impulsive goddess venerated primarily by halflings. She embodies two aspects halflings see in themselves: a strong affinity for luck and bold determination to protect friends. Chaldira is hotheaded and cannot abide bullies in any form, and many of her worshippers are similarly impetuous, spoiling for any opportunity to leap fist-first at oppressors and tyrants. While many people consider this to be more of a vice than a virtue, Chaldira and her followers feel it is far better to run headlong into trouble than it is to meekly concede to evil out of fear or convenience. Chaldira is also the goddess of light-hearted mischief, insisting that harmless fun, even at others' expense, brings joy and strengthens ties within a community. While not all of Chaldira's followers are inveterate pranksters, most at least know some sleight-of-hand tricks. Chaldira is most often depicted as a halfling woman who matches the appearance of the local halfling community, with curly hair, freckles, and a patchwork red-and-green coat held together by several mismatched buttons.
 

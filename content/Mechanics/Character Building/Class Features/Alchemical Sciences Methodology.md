@@ -9,7 +9,6 @@ tags:
 ---
 
 # Alchemical Sciences Methodology
-![[systems-pf2e-icons-features-classes-alchemical-sciences-methodology.webp|150]]
 
 Your methodology emphasizes chemical and alchemical analysis, collecting information from unusual particles and fluids found on the scene. You possess enough alchemical know-how to whip up a few tinctures to help you with your cases.
 

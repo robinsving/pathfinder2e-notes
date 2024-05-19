@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shimmering Dust
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-qat.webp|150]]
 
 **Activate** Cast a Spell
 

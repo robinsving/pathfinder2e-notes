@@ -9,7 +9,6 @@ tags:
 ---
 
 # Dragon Deviant Classification
-![[Mechanics/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-spells-dragon-breath.webp|150]]
 
 Deviant abilities often trace their origin to massive concentrations of energy, such as being at ground zero of a detonating magical artifact. These energies can linger within an individual to grant them deviations falling under the dragon classification—gouts of flame, electrical breath, and the like—projecting and absorbing it to great effect.
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Animated
-![[systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
 
 An _animated_ weapon flies autonomously and strikes your foes.
 

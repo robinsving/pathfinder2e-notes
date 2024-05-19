@@ -9,4 +9,3 @@ draft: true
 ---
 
 # Alabaster
-![[systems-pf2e-icons-equipment-treasure-gems-lesser-semiprecious-stones-alabaster.webp|150]]

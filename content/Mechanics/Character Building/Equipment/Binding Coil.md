@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Binding Coil
-![[systems-pf2e-icons-equipment-consumables-other-consumables-ruby-string.webp|150]]
 
 **Usage** affixed to a weapon
 

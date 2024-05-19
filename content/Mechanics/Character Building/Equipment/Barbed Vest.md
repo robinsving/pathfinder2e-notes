@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Barbed Vest
-![[systems-pf2e-icons-equipment-cursed-items-barbed-vest.webp|150]]
 
 Viciously sharp spiked chains wrap around this [[Studded Leather Armor]] that can be used to magically harm the wearer and channel supernatural abilities without somehow tearing at the leather itself.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Tempest
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-magic-water-pseudopod-swirl-blue.webp|150]]
 
 An oracle wields divine power, but not from a single divine being. This power could come from a potent concept or ideal, the attention of multiple divine entities whose areas of concern all touch on that subject, or a direct and dangerous conduit to raw divine power. This is the oracle's mystery, a source of divine magic not beholden to any deity.
 

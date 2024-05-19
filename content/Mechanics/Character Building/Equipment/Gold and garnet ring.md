@@ -8,4 +8,3 @@ tags:
 ---
 
 # Gold and garnet ring
-![[systems-pf2e-icons-equipment-treasure-art-objects-moderate-art-object-gold-and-garnet-ring.webp|150]]

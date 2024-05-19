@@ -8,7 +8,6 @@ tags:
 ---
 
 # Marvelous Calliope
-![[systems-pf2e-icons-equipment-structures-marvelous-calliope.webp|150]]
 
 This large slide whistle appears to be made of fine brass, the sides of which are engraved with musical notes and dancing clowns.
 

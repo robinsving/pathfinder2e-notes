@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tallow Bomb (Lesser)
-![[icons-consumables-food-soup-broth-bowl-wooden-yellow.webp|150]]
 
 **Activate** A Strike
 

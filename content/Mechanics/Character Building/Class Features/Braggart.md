@@ -9,7 +9,6 @@ tags:
 ---
 
 # Braggart
-![[systems-pf2e-icons-features-classes-braggart-style.webp|150]]
 
 You boast, taunt, and psychologically needle your foes.
 

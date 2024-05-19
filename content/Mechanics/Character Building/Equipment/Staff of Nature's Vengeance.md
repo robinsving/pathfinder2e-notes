@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Nature's Vengeance
-![[systems-pf2e-icons-equipment-staves-staff-of-natures-vengeance.webp|150]]
 
 This stout staff is made from gnarled hawthorn. When used as a weapon, a staff of nature's vengeance permanently has the effects of _[[Shillelagh]]_
 

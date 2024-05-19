@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lodestone Bomb (Greater)
-![[icons-commodities-gems-pearl-swirl-teal.webp|150]]
 
 **Activate** 1 Strike
 

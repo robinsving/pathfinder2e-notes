@@ -8,7 +8,6 @@ tags:
 ---
 
 # Infernal Health
-![[systems-pf2e-icons-equipment-contracts-infernal-contracts-infernal-health.webp|150]]
 
 You regain triple the normal number of Hit Points when resting (meaning you regain triple your Constitution modifier multiplied by your level). The healing you gain from long-term rest is similarly tripled. Once per day, from any distance, Abrogail Thrune II can recite a voidability clause in your Thrune contract as a 1-minute activity to prevent you from regaining Hit Points from resting for 1 day.
 

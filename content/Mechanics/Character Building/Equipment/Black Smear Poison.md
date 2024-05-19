@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Black Smear Poison
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-black-lotus-extract.webp|150]]
 
 Many calignis use a debilitating poison crafted from subterranean fungi.
 

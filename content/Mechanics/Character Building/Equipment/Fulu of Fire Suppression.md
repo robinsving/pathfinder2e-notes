@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fulu of Fire Suppression
-![[systems-pf2e-icons-equipment-consumables-fulus-fulu-modest.webp|150]]
 
 The silver ink on this black paper charm ebbs in and out of sight, especially when caught out of the corner of your eye. Usually placed in the kitchen, this fulu slows the spread of fire in a 30-foot radius by half.
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Alluring Scarf (Greater)
-![[systems-pf2e-icons-equipment-held-items-alluring-scarf.webp|150]]
 
 This thin, multicolored scarf shifts between hues in almost dizzying patterns.
 

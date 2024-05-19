@@ -8,7 +8,6 @@ tags:
 ---
 
 # Greengut
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-green-gut.webp|150]]
 
 This watery, mint-green emetic of xulgath design is often carried in a delicate obsidian vial or other fragile container.
 

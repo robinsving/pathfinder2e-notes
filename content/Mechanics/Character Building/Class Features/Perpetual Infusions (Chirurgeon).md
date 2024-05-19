@@ -9,7 +9,6 @@ tags:
 ---
 
 # Perpetual Infusions (Chirurgeon)
-![[systems-pf2e-icons-features-classes-perpetual-infusions-chirurgeon.webp|150]]
 
 You have learned how to create perpetual alchemical infusions that can provide a near-infinite supply of certain simple items.
 

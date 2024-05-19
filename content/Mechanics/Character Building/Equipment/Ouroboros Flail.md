@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ouroboros Flail
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-ouroboros-flail.webp|150]]
 
 You can easily expand and contract the chain of this _+2 greater striking extending war flail_. It magically grows new links when extended and loses them when contracted.
 

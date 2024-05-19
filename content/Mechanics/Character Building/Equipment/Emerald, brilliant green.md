@@ -8,4 +8,3 @@ tags:
 ---
 
 # Emerald, brilliant green
-![[icons-commodities-gems-gem-rough-princess-green.webp|150]]

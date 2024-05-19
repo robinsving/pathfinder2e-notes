@@ -8,4 +8,3 @@ tags:
 ---
 
 # Tiger's‑eye
-![[systems-pf2e-icons-equipment-treasure-gems-lesser-semiprecious-stones-tigers-eye.webp|150]]

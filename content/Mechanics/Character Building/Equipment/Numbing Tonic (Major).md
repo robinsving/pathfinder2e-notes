@@ -8,7 +8,6 @@ tags:
 ---
 
 # Numbing Tonic (Major)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-addiction-suppressant.webp|150]]
 
 **Activate** 1 Interact
 

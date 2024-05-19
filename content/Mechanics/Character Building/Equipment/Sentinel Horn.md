@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sentinel Horn
-![[systems-pf2e-icons-equipment-held-items-horn-of-fog.webp|150]]
 
 This curved brass horn is a virtuoso instrument with a surprisingly deep tone, etched with images of interlocking lines and swirls. Sentinel horns come in pairs, and each works with only the other of its pair. The listed Price is for a pair of sentinel horns.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Instant Spy
-![[systems-pf2e-icons-equipment-consumables-other-consumables-instant-spy.webp|150]]
 
 **Acitivate** a Interact
 

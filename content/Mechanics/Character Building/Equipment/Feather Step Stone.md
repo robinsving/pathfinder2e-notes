@@ -8,7 +8,6 @@ tags:
 ---
 
 # Feather Step Stone
-![[systems-pf2e-icons-equipment-consumables-talismans-feather-step-stone.webp|150]]
 
 **Activate** F (concentrate)
 

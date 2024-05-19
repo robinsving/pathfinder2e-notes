@@ -8,7 +8,6 @@ tags:
 ---
 
 # Open Mind
-![[icons-magic-perception-eye-ringed-glow-angry-large-teal.webp|150]]
 
 Abraxas teaches knowledge is the only power that matters. This tattoo of a stylized eye provides a +1 item bonus to Lore checks.
 

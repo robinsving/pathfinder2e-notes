@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bloodline: Hag
-![[icons-commodities-biological-hand-gnarled-green.webp|150]]
 
 A hag long ago cursed your family, or you are a descendant of a hag or changeling, and their accursed corruption infests your blood and soul.
 

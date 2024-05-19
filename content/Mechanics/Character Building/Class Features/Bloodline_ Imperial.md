@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bloodline: Imperial
-![[icons-sundries-books-book-embossed-jewel-gold-purple.webp|150]]
 
 One of your ancestors was a mortal who mastered magic. Such magical blood can remain latent for generations, but in you it manifested in full.
 

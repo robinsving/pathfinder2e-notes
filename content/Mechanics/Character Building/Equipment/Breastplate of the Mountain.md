@@ -8,7 +8,6 @@ tags:
 ---
 
 # Breastplate of the Mountain
-![[icons-equipment-chest-breastplate-banded-steel-studded.webp|150]]
 
 Constructed of dull gray metal, this breastplate is decorated with the symbol of a craggy black mountaintop. This breastplate functions as a _+3 greater resilient breastplate_. When you're Shoved or otherwise forced to move, you can reduce the amount you move by up to 10 feet. When you invest the breastplate, you either increase your Constitution score by 2 or increase it to 18, whichever is higher.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Crimson Brand
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-crimson-brand.webp|150]]
 
 These ominous swords are decorated with crimson lacquer and serve as perfect conduits for the Crimson Oath's power. The first was granted to Clarethe Iomedar by a mysterious patron who many Reclaimers believe to be an emissary of Ragathiel.
 

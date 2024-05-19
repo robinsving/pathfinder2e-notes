@@ -8,7 +8,6 @@ tags:
 ---
 
 # Warding Statuette
-![[icons-commodities-treasure-figurine-idol.webp|150]]
 
 This small figurine is carved from soapstone in the shape of a deity or guardian, facing both front and back to indicate unflagging vigilance. The spell attack roll of any spell cast by activating this item is +13.
 

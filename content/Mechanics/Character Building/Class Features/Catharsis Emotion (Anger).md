@@ -9,7 +9,6 @@ tags:
 ---
 
 # Catharsis Emotion (Anger)
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-magic-fire-flame-burning-eye.webp|150]]
 
 Your destructive wrath allows you to harm your foes but causes you pain in the process.
 

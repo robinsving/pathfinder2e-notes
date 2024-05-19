@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Anathema Fulu
-![[systems-pf2e-icons-equipment-consumables-fulus-fulu-anathema.webp|150]]
 
 **Duration** 1 hour
 

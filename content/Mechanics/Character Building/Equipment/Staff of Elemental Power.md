@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Elemental Power
-![[systems-pf2e-icons-equipment-staves-staff-of-evocation.webp|150]]
 
 This staff is tapered at the base and carved into a gem-studded twist at the top. While wielding the staff, you gain a +2 circumstance bonus to checks to identify elemental creatures.
 

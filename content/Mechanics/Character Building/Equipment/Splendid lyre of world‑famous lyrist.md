@@ -8,4 +8,3 @@ tags:
 ---
 
 # Splendid lyre of world‑famous lyrist
-![[systems-pf2e-icons-equipment-treasure-art-objects-greater-art-object-splendid-lyre-of-world-famous-lyrist.webp|150]]

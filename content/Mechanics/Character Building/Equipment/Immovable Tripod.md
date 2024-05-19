@@ -8,7 +8,6 @@ tags:
 ---
 
 # Immovable Tripod
-![[systems-pf2e-icons-equipment-other-attached-items-tripod.webp|150]]
 
 This copper tripod with an immovable rod at its core is a perfect example of engineering ingenuity applied to magic items, adapting the eccentric power of an immovable rod for the pragmatic use of stabilizing weapons without the need for solid ground on which to stabilize them. In addition to extraplanar and aquatic environments, these devices have seen use by flying and climbing snipers who would otherwise have no way to mitigate their weapons' fierce kickback.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Abadar
-![[systems-pf2e-icons-deity-Abadar.webp|150]]
 
 Abadar, Master of the First Vault, seeks to bring civilization to the wilds of the world, encourages adherence to the law, and promotes commerce and trade within civilization. He also encourages cooperation among ancestries.
 

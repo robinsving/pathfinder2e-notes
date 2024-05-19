@@ -8,7 +8,6 @@ tags:
 ---
 
 # Silent Heart
-![[systems-pf2e-icons-equipment-tattoos-silent-heart.webp|150]]
 
 Abraxas teaches that the true heart is impenetrable, dedicated only to knowledge. This tattoo of a venom-soaked heart provides a +1 item bonus to Occultism checks.
 

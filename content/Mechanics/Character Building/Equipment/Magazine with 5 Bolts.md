@@ -8,6 +8,5 @@ tags:
 ---
 
 # Magazine with 5 Bolts
-![[systems-pf2e-icons-equipment-weapons-magazine-with-5-bolts.webp|150]]
 
 Magazine with 5 bolts for use with the [[Repeating Hand Crossbow]].

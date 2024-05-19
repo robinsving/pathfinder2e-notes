@@ -8,7 +8,6 @@ tags:
 ---
 
 # Reflexive Tattoo
-![[systems-pf2e-icons-equipment-tattoos-reflexive-tattoo.webp|150]]
 
 This subtle pattern of complex dots, sunbursts, and lines is difficult to make out, as it's a near match for the wearer's skin tone. Serving as a barrier facing inward, this tattoo prevents ostentatious expressions of spells that are internal to you, making them easier to hide.
 

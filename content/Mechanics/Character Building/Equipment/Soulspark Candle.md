@@ -8,7 +8,6 @@ tags:
 ---
 
 # Soulspark Candle
-![[icons-sundries-lights-candle-unlit-grey.webp|150]]
 
 This thick, white pillar candle has flecks of ash and bone mixed amid the wax. When lit, the candle sheds bright light for 20 feet and dim light for a further 20 feet. The candle can't be snuffed by weather, water, or accident but can be purposefully snuffed through ritual prayer. The candle doesn't release heat and can't be used to start a fire. The candle is never exhausted, regardless of how long it burns.
 

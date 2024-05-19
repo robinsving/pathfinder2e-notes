@@ -8,4 +8,3 @@ tags:
 ---
 
 # Peridot
-![[icons-commodities-gems-gem-rough-navette-green.webp|150]]

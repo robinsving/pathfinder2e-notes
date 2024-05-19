@@ -9,7 +9,6 @@ tags:
 ---
 
 # Psi Cantrips and Amps
-![[systems-pf2e-icons-features-classes-psy-cantrips-and-amps.webp|150]]
 
 The magic of your mind manifests as psi cantrips, which you can modify by spending Focus Points. Like other cantrips, you can cast psi cantrips as often as you like, and they are automatically heightened to half your level rounded up. Your psi cantrips are in addition to the cantrips you choose from the occult list as part of your psychic spellcasting. Generally, only feats can give you more psi cantrips. Unlike other cantrips, you can't swap out psi cantrips gained from psychic feats at a later level, unless you swap out the specific feat via retraining. At 1st level, you learn three psi cantrips determined by your choice of conscious mind; one is a unique psi cantrip and two are common cantrips, typically from the occult spellcasting tradition, that you always cast as psi cantrips. You automatically gain more psi cantrips as you progress in your career as a psychic.
 

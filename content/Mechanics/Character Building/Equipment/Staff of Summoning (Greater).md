@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Summoning (Greater)
-![[systems-pf2e-icons-equipment-staves-staff-of-conjuration.webp|150]]
 
 This ash staff is decorated with animals, elementals, and dragons. Creatures summoned using this staff gain a number of temporary Hit Points equal to the level of the spell used to summon them.
 

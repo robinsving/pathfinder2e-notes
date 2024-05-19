@@ -8,7 +8,6 @@ tags:
 ---
 
 # Clockwork Rejuvenator
-![[systems-pf2e-icons-equipment-consumables-other-consumables-clockwork-rejuvenator.webp|150]]
 
 **Activate**1 or 2 Interact
 

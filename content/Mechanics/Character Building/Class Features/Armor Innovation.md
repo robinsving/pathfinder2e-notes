@@ -9,7 +9,6 @@ tags:
 ---
 
 # Armor Innovation
-![[systems-pf2e-icons-features-classes-armor-innovation.webp|150]]
 
 Your innovation is a cutting-edge suit of medium armor with a variety of attached gizmos and devices. Choose one of the sets of statistics on Table 2-2: Innovation Armor Statistics for your innovation armor (or choose another set of innovation armor statistics to which you have access).
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Kortos Diamond
-![[systems-pf2e-icons-equipment-artifacts-kortos-diamond.webp|150]]
 
 The hilt of this _+3 major striking [[Axiomatic]] [[Spell Reservoir|Spell-Storing]] longsword_ is simple and elegant. The blade itself is made of _throneglass_—a clear, jewellike crafting material with a razor-sharp edge, capable of absorbing psychic magic and redirecting it at the wielder's enemies. Whenever the _Kortos Diamond_ is in an area of dim or brighter light, it glows faintly, as if reflecting the light of a setting sun.
 

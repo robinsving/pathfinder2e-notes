@@ -9,7 +9,6 @@ tags:
 ---
 
 # Inventor Weapon Expertise
-![[systems-pf2e-icons-features-classes-weapon-expertise.webp|150]]
 
 You develop tricks for using your weapons more effectively. Your proficiency ranks for simple and martial weapons and unarmed attacks increase to expert.
 

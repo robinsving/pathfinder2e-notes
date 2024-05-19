@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sun Wheel
-![[systems-pf2e-icons-equipment-consumables-talismans-vanishing-coin.webp|150]]
 
 Created by the priests of a Qadiran sect of Sarenites, the sun wheels were designed to protect the Dawnflower's followers in their quest to hunt down a dangerous cult trying to raise a spawn of the evil god Rovagug. Once they completed their crusade, these priests disbanded and went on to minister other congregations. They each took their sun wheels with them, handing them down to the next generations.
 

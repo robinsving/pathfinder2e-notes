@@ -8,7 +8,6 @@ tags:
 ---
 
 # Corpseward Pendant
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-corpseward-pendant.webp|150]]
 
 A _corpseward pendant_ is usually shaped like the skull of a humanoid or small animal.
 

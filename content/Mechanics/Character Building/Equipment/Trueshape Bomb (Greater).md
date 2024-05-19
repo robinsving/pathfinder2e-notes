@@ -8,7 +8,6 @@ tags:
 ---
 
 # Trueshape Bomb (Greater)
-![[icons-weapons-thrown-ball-spiked.webp|150]]
 
 **Activate** 1 Strike
 

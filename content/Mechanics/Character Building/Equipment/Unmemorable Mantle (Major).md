@@ -8,7 +8,6 @@ tags:
 ---
 
 # Unmemorable Mantle (Major)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-unmemorable-mantle.webp|150]]
 
 This long, shoddy cloak bears a hood and a simple brass clasp. While wearing the cloak, you gain a +3 item bonus to Deception checks to Impersonate an individual and to Lie while in character as that individual.
 

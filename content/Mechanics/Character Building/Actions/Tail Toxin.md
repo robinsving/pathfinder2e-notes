@@ -9,7 +9,6 @@ tags:
 ---
 
 # Tail Toxin
-![[systems-pf2e-icons-features-ancestry-venomtail-kobold.webp|150]]
 
 **Frequency** once per day
 

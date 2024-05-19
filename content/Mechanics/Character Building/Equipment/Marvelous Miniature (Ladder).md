@@ -10,7 +10,6 @@ tags:
 ---
 
 # Marvelous Miniature (Ladder)
-![[icons-sundries-misc-ladder-improvised.webp|150]]
 
 **Activate** 1 (manipulate)
 

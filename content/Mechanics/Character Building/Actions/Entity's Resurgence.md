@@ -9,7 +9,6 @@ tags:
 ---
 
 # Entity's Resurgence
-![[Mechanics/Character Building/Actions/zz_asset-files/icons-creatures-magical-spirit-undead-ghost-purple.webp|150]]
 
 **Trigger** You would be reduced to 0 Hit Points but not immediately killed
 

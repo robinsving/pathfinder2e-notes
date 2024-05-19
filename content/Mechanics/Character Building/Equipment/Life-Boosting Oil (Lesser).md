@@ -8,7 +8,6 @@ tags:
 ---
 
 # Life-Boosting Oil (Lesser)
-![[icons-consumables-potions-bottle-pear-corked-labeled-ornamental-purple.webp|150]]
 
 **Activate** 1 Interact
 

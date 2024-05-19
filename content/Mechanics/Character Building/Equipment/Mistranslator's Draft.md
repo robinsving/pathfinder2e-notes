@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mistranslator's Draft
-![[systems-pf2e-icons-equipment-cursed-items-mistranslators-draft.webp|150]]
 
 **Activate** 1 Interact
 

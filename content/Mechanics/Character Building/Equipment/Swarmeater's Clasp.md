@@ -8,7 +8,6 @@ tags:
 ---
 
 # Swarmeater's Clasp
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-swarmeaters-clasp.webp|150]]
 
 A _swarmeater's clasp_ features carved reliefs of verminous, swarming creatures. When you wear the clasp, you gain resistance 10 to physical damage from swarm creatures.
 

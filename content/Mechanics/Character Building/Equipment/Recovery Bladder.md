@@ -8,7 +8,6 @@ tags:
 ---
 
 # Recovery Bladder
-![[systems-pf2e-icons-equipment-held-items-recovery-bladder.webp|150]]
 
 **Bulk** L (8 if inflated)
 

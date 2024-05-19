@@ -8,7 +8,6 @@ tags:
 ---
 
 # Quicksilver Mutagen (Moderate)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-quicksilver-mutagen.webp|150]]
 
 **Activate** A Interact
 

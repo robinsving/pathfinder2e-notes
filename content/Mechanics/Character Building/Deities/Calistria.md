@@ -9,7 +9,6 @@ tags:
 ---
 
 # Calistria
-![[systems-pf2e-icons-deity-Calistria.webp|150]]
 
 Calistria, the Savored Sting, is a mischievous and mercurial god of attraction who delights in tricking others and seeks vengeance on those who slight her. Though Calistria is most widely worshipped by elves, members of many other ancestries follow her as well.
 

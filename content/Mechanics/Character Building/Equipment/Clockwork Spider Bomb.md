@@ -8,7 +8,6 @@ tags:
 ---
 
 # Clockwork Spider Bomb
-![[systems-pf2e-icons-equipment-consumables-other-consumables-clockwork-spider-bomb.webp|150]]
 
 **Activate** 1 Interact
 

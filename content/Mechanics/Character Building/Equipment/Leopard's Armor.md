@@ -8,7 +8,6 @@ tags:
 ---
 
 # Leopard's Armor
-![[systems-pf2e-icons-equipment-armor-specific-magic-armor-leopards-armor.webp|150]]
 
 Made of cobalt-colored steel rings that flow down the entire length of the garment, this _+1 resilient chain mail_ includes an armored face covering. The armor is said to be based on the same armor once worn by Azure Leopard, one of Old-Mage Jatembe's magic warriors.
 

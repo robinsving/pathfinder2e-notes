@@ -8,7 +8,6 @@ tags:
 ---
 
 # Retrieval Belt (Major)
-![[icons-equipment-waist-belt-buckle-ring-leather-red.webp|150]]
 
 This belt is covered in small pouches that clasp with buttons of painstakingly carved stone. The belt is tied to an extradimensional space that can hold up to ten items of 1 Bulk or less. Anyone holding the belt can sense its contents, but only those who've invested it can store or retrieve items. Many retrieval belts are found with an item already inside.
 

@@ -8,4 +8,3 @@ tags:
 ---
 
 # Repeating Crossbow Magazine
-![[systems-pf2e-icons-equipment-weapons-magazine-with-5-bolts.webp|150]]

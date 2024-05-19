@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sanguine Mutagen (Lesser)
-![[icons-consumables-potions-potion-bottle-labeled-medicine-capped-red-black.webp|150]]
 
 **Activate** 1 Interact
 

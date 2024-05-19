@@ -8,7 +8,6 @@ tags:
 ---
 
 # Salamander Elixir (Lesser)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-salamander-elixir.webp|150]]
 
 **Activate** A Interact
 

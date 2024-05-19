@@ -8,7 +8,6 @@ tags:
 ---
 
 # Burning Badger Guts Snare
-![[systems-pf2e-icons-equipment-snares-burning-badger-guts-snare.webp|150]]
 
 When a creature enters the trapped square, putrefied badger guts coated in hyper-flammable oil and several other incendiary reactants catch fire and are dumped in the snare's square, as well as up to two adjacent squares that you choose when you set the snare. The burning oil deals 5d8 fire damage to any creatures in the affected squares. Those creatures must attempt a DC 27 fortitude save.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sea Touch Elixir (Lesser)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-sea-touch-elixir.webp|150]]
 
 **Activate** A (manipulate)
 

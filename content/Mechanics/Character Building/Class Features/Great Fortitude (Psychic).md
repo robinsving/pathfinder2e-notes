@@ -9,6 +9,5 @@ tags:
 ---
 
 # Great Fortitude (Psychic)
-![[icons-magic-life-cross-explosion-burst-green.webp|150]]
 
 Your mind holds your body to a subconscious mental image of yourself. Your proficiency rank for Fortitude saves increases to expert.

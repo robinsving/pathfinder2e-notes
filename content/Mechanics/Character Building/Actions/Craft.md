@@ -9,7 +9,6 @@ tags:
 ---
 
 # Craft
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 You can make an item from raw materials. You need the [[Alchemical Crafting]] skill feat to create alchemical items, the [[Magical Crafting]] feat to create magic items, and the [[Snare Crafting]] feat to create snares.
 

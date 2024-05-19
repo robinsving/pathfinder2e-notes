@@ -8,7 +8,6 @@ tags:
 ---
 
 # Crimson Fulcrum Lens
-![[systems-pf2e-icons-equipment-other-crimson-fulcrum-lenses.webp|150]]
 
 This concave lens has a drifting crimson cloud resembling slowly swirling blood within it. While you have the Crimson Fulcrum Lens invested, you seethe with malevolent fury you can barely contain. You gain a +2 item bonus to saving throws against fear effects and a +2 item bonus to your melee Strike damage (this increases to a +4 item bonus to damage if the melee Strike is a jaws attack). You can also activate the lens in the following ways.
 

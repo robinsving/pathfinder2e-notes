@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ring of Spell Turning
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-ring-of-spell-turning.webp|150]]
 
 This golden ring has three diamonds set into its face.
 

@@ -8,4 +8,3 @@ tags:
 ---
 
 # Rations
-![[systems-pf2e-icons-equipment-adventuring-gear-rations.webp|150]]

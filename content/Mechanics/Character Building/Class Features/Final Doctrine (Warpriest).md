@@ -9,6 +9,5 @@ tags:
 ---
 
 # Final Doctrine (Warpriest)
-![[systems-pf2e-icons-features-classes-warpriest.webp|150]]
 
 You gain master proficiency with your deity's favored weapon, spell attack modifier, and spell DC.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # False-Bottomed Mug
-![[systems-pf2e-icons-equipment-held-items-false-bottomed-mug.webp|150]]
 
 **Access** Member of the Bellflower Network
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Advanced Undead Benefits
-![[icons-magic-death-skull-humanoid-white-red.webp|150]]
 
 **Darkvision:** You gain darkvision if you don't already have it.
 

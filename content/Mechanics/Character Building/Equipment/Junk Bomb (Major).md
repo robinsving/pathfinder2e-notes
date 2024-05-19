@@ -8,7 +8,6 @@ tags:
 ---
 
 # Junk Bomb (Major)
-![[icons-commodities-materials-pottery-jug.webp|150]]
 
 **Activate** 1 Strike
 

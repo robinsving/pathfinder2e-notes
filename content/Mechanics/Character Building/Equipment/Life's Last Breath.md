@@ -8,7 +8,6 @@ tags:
 ---
 
 # Life's Last Breath
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-lifes-last-breath.webp|150]]
 
 The twin serrated blades of this legendary rhoka sword are dull black and constantly drip with blood. _Life's Last Breath_ is said to have been forged centuries ago for an unknown urdefhan general and has since fallen into the hands of countless other powerful urdefhan warlords.
 

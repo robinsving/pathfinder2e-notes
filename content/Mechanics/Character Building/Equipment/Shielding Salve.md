@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shielding Salve
-![[systems-pf2e-icons-equipment-consumables-oils-shielding-salve.webp|150]]
 
 **Activate** 1 Interact
 

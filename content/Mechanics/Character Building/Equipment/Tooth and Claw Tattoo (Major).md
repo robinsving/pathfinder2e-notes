@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tooth and Claw Tattoo (Major)
-![[icons-creatures-claws-claw-talons-yellow-red.webp|150]]
 
 This tattoo resembles an animal's fangs, claws, or similar natural weapons, letting you wield such weapons and turn into the same beast. When you receive the tattoo, choose the animal from among the following: ape, bear, bull, canine, cat, deer, frog, shark, or snake. You can ask questions of, receive answers from, and use the Diplomacy skill with animals of that kind. This tattoo is usually located on the body part or parts it's meant to transform—on the back of the hands for claws, around the mouth for jaws, on the forehead for horns, and so on.
 

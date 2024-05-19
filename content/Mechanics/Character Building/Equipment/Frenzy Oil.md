@@ -8,7 +8,6 @@ tags:
 ---
 
 # Frenzy Oil
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-frenzy-oil.webp|150]]
 
 This oil, which is pressed from vrock spores and mixed with a combination of acacia ash and thistle seeds, seeps into the skin of living creatures, initially inspiring irritability that unpredictably manifests as berserk rage.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Putrid Sack of Rotting Fruit
-![[icons-containers-bags-sack-worn-brown.webp|150]]
 
 **Activate** 1 Strike
 

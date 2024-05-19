@@ -8,7 +8,6 @@ tags:
 ---
 
 # Instant Fortress
-![[icons-commodities-stone-masonry-block-cube-white.webp|150]]
 
 This metal cube is small enough to fit in your palm. Close inspection reveals fine lines in the dark gray metal, as though the cube were folded thousands of times.
 

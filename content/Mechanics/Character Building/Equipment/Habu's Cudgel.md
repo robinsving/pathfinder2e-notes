@@ -8,7 +8,6 @@ tags:
 ---
 
 # Habu's Cudgel
-![[icons-weapons-clubs-club-barbed.webp|150]]
 
 Long associated with a notorious crime boss in Nantambu, this stout _+1 striking fearsome club_ is studded with vicious-looking knobs of obsidian and wrapped in cloth for a better grip. It emits a ghastly groan when swung.
 

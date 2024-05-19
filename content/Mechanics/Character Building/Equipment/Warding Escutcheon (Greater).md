@@ -8,7 +8,6 @@ tags:
 ---
 
 # Warding Escutcheon (Greater)
-![[icons-equipment-shield-wardoor-wooden-boss-brown.webp|150]]
 
 An image of a keyhole adorns the coat of arms of this stone tower shield (Hardness 20, HP 80, BT 40).
 

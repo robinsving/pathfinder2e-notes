@@ -9,7 +9,6 @@ tags:
 ---
 
 # Battle
-![[systems-pf2e-icons-features-classes-battle-mystery.webp|150]]
 
 Warlike forces fill you with physical might and tactical knowledge, aiming to have you uphold the glory of combat, fight to improve the world, prepare against the necessity of conflict, or endure the inevitability of war. You might draw upon deities such as Gorum, Iomedae, Rovagug, the Horseman of War Szuriel, the Queen of the Night Eiseth, the Vudrani god Diomazul, and others, or you might find power in the unending conflict between the armies of Heaven and Hell, the Elemental Planes, the Outer Gods, or even the collective spirits of those who fought in wars over the ages.
 

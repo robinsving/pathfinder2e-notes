@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spell-Eating Pitch
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-spell-eating-pitch.webp|150]]
 
 **Activate** 2 Interact
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pucker Pickle
-![[icons-consumables-vegetable-cucumber-pickle-green.webp|150]]
 
 **Activate** 1 Interact
 

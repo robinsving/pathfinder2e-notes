@@ -8,7 +8,6 @@ tags:
 ---
 
 # Whistle of Calling
-![[systems-pf2e-icons-equipment-held-items-whistle-of-calling.webp|150]]
 
 A _whistle of calling_ appears to be a simple brass whistle. It changes slightly in appearance depending on the type of creature to which it's attuned, depicting small carvings of hooves, feather patterns, claws, or other appropriate motifs.
 

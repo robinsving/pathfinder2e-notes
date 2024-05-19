@@ -8,7 +8,6 @@ tags:
 ---
 
 # Captivating Rosebud
-![[Mechanics/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-spells-roses-thorns.webp|150]]
 
 Named because of its popularity among thieves to distract any authorities in pursuit, a _captivating rosebud_ has a near-irresistible fragrance.
 

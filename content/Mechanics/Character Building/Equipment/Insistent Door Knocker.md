@@ -8,7 +8,6 @@ tags:
 ---
 
 # Insistent Door Knocker
-![[systems-pf2e-icons-equipment-held-items-insistent-door-knocker.webp|150]]
 
 This dark iron door knocker comes in a variety of shapes, such as a bird clutching a ring in its talons or a gargoyle holding a ring in its mouth. Placing the door knocker on the surface of a door (an Interact action) causes it to attach and remain in place. While in place, the door knocker whispers hints to you while you attempt to unlock the door, granting a +1 item bonus to Thievery checks to Pick a Lock. Removing the door knocker from a surface requires you to use an Interact action.
 

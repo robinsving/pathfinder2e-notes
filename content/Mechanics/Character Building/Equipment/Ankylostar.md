@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Ankylostar
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-ankylostar.webp|150]]
 
 This hefty spiked club is made from the fossilized tail-club of a young ankylosaurus. It can be wielded as a +2 greater striking morningstar.
 

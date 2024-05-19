@@ -8,7 +8,6 @@ tags:
 ---
 
 # Grinning Pugwampi
-![[systems-pf2e-icons-equipment-consumables-talismans-grinning-pugwampi.webp|150]]
 
 **Usage** affixed to a weapon
 

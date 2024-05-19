@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wolfjaw Armor
-![[icons-equipment-chest-vest-leather-tattered-white.webp|150]]
 
 Barbarians, druids and other outlanders are often forced to spend the harsh winter months protecting their communities from one of the deadliest predators to stalk the forests and taiga of the northern reaches, the fearsome winter wolf. This _+1 hide armor_ is assembled from the hide and fur of a trio of winter wolves, and it conveys on the wearer both an attack akin to the winter wolves' deadly jaws and the ability to channel the frigid cold of the winter wolf's Breath Weapon.
 

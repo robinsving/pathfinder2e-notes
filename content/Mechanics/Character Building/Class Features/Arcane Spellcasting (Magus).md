@@ -9,7 +9,6 @@ tags:
 ---
 
 # Arcane Spellcasting (Magus)
-![[icons-sundries-books-book-eye-purple.webp|150]]
 
 You study spells so you can combine them with your attacks or solve problems that strength of arms alone can't handle. You can cast arcane spells using the [[Cast a Spell]] activity, and you can supply material, somatic, and verbal components when casting spells.
 

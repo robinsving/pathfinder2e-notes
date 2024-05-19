@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Crackling Lightning (8th-Level Spell)
-![[systems-pf2e-icons-equipment-wands-specialty-wands-wand-of-crackling-lightning.webp|150]]
 
 This wand is made of two copper plates separated by a ceramic center.
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Auspicious Scepter
-![[icons-weapons-staves-staff-blue-jewel.webp|150]]
 
 This imperious _+1 striking mace_ has a glowing orb in the shape of an eye set in its flanged head. When you succeed at a check to Recall Knowledge about a creature after you've dealt it damage with the auspicious scepter, you learn one of its resistances in addition to any other information.
 

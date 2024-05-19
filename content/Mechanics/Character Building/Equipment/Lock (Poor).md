@@ -8,6 +8,5 @@ tags:
 ---
 
 # Lock (Poor)
-![[systems-pf2e-icons-equipment-adventuring-gear-lock.webp|150]]
 
 Picking a poor lock requires two successful DC 15 thievery checks.

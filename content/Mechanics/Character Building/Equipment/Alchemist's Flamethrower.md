@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Alchemist's Flamethrower
-![[icons-skills-ranged-cannon-barrel-firing-yellow.webp|150]]
 
 This long cylinder is topped by a pair of brass sockets and a collection of polished pipes and tubes. A total of two vials of alchemist's fire must be loaded into the sockets at the base of the weapon and the tubes cleaned and primed. Properly loading the flamethrower in this way takes 1 minute. When the trigger on a loaded flamethrower is pulled, the alchemist's fire is siphoned into the rifle and shot out of the muzzle in a line of fire. The damage dealt by a flamethrower is determined by the strength of the weakest alchemist's fire loaded into the flamethrower.
 

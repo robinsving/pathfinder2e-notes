@@ -9,7 +9,6 @@ tags:
 ---
 
 # Expert Spellcaster
-![[systems-pf2e-icons-features-classes-expert-spellcaster.webp|150]]
 
 **Bard** Your magical techniques grow stronger. Your proficiency ranks for spell attack modifiers and spell DCs increase to expert.
 

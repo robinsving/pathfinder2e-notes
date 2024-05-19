@@ -8,7 +8,6 @@ tags:
 ---
 
 # Redsand Hourglass
-![[systems-pf2e-icons-equipment-adventuring-gear-hourglass.webp|150]]
 
 This platinum hourglass is filled with red sand, is decorated with imagery of roses and whippoorwills with tiny black onyx eyes, and has the ability to manipulate time. Once used by Pharasma herself, the _Redsand Hourglass_ was stolen from Pharasma's court a millennia ago. While the hourglass is in your possession, you're immune to the [[Paralyzed]], [[Slowed|Slowed]], and [[Stunned 1|Stunned]] conditions.
 

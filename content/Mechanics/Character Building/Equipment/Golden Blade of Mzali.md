@@ -8,7 +8,6 @@ tags:
 ---
 
 # Golden Blade of Mzali
-![[icons-weapons-polearms-spear-flared-gold.webp|150]]
 
 Each of these golden spears was forged in the days of old Mzali, when the sun kings ruled the city. The majority of these weapons are lost, most likely buried with warriors in tombs and temples sealed by Walkena's decrees. Walkena retains a single golden blade, which he grants to his Master of Spears.
 

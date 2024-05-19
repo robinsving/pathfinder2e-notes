@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hunter's Bane
-![[systems-pf2e-icons-equipment-consumables-talismans-hunters-bane.webp|150]]
 
 **Usage** affixed to armor
 

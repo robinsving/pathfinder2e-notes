@@ -8,4 +8,3 @@ tags:
 ---
 
 # Hematite
-![[systems-pf2e-icons-equipment-treasure-gems-lesser-semiprecious-stones-hematite.webp|150]]

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ghast Stiletto
-![[icons-weapons-daggers-dagger-straight-thin-black.webp|150]]
 
 A _ghast stiletto_ is a _+1 dagger_ wrapped in the still-undead skin of a ghast. While you wield the dagger, you gain a +1 status bonus to all saves against paralysis.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Redeemer's Pistol
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-redeemers-pistol.webp|150]]
 
 This _+2 striking dueling pistol_ is fashioned from silvery steel that glistens with a radiant light. You can choose to make a nonlethal attack with the redeemer's pistol without taking a -2 penalty; if you do so, the attack deals 1d6 additional mental damage. You can also call forth the redemptive spirit within the gun to pass judgment on your foes.
 

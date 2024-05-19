@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of the Magi
-![[systems-pf2e-icons-equipment-staves-staff-of-the-magi.webp|150]]
 
 Sigils and runes of ancient and powerful magic cover the iron cladding on this long wooden staff. A _staff of the magi_ is a _+3 major striking staff_, and when wielding it you gain a +1 circumstance bonus to saving throws against spells.
 

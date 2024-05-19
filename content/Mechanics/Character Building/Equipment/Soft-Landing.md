@@ -8,7 +8,6 @@ tags:
 ---
 
 # Soft-Landing
-![[icons-commodities-treasure-token-runed-os-grey.webp|150]]
 
 This item creates a small cushion of air that catches you when you fall. You treat falls as 10 feet shorter.
 

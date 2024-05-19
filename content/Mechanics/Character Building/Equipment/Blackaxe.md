@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blackaxe
-![[systems-pf2e-icons-equipment-artifacts-blackaxe.webp|150]]
 
 This potent weapon used by Treerazer is a +4 [[Corrosive (Greater)]] major striking obsidian greataxe that grants a +4 item bonus to attack rolls, deals an extra 2d6 damage to plants, and has the properties of adamantine.
 

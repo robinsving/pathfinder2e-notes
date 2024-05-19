@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Protection (Major)
-![[icons-weapons-staves-staff-engraved-wood.webp|150]]
 
 This wooden staff is remarkably sturdy and unyielding. While wielding the staff, you gain a +1 circumstance bonus to your DC to avoid being shoved or tripped.
 

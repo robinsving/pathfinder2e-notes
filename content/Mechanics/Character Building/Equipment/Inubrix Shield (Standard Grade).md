@@ -8,7 +8,6 @@ tags:
 ---
 
 # Inubrix Shield (Standard Grade)
-![[systems-pf2e-icons-equipment-shields-precious-material-shields-inubrix-shield.webp|150]]
 
 Inubrix is much softer than steel, and it's atypical for it to be used to make shields. An item made by an unskilled smith will dent from a single blow and prove worthless on the battlefield. However, its yielding surface can entrap metal weapons.
 

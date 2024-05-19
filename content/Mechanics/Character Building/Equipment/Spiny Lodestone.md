@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spiny Lodestone
-![[icons-commodities-gems-gem-faceted-round-black.webp|150]]
 
 This perfectly octahedral magnetite crystal is covered in a hair-like layer of iron sand that always finds its way back to shape if wiped away. The spell attack modifier of any spell cast by Activating this item is +8, and the spell DC is 18.
 

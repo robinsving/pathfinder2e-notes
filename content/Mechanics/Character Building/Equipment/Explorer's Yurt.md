@@ -8,7 +8,6 @@ tags:
 ---
 
 # Explorer's Yurt
-![[systems-pf2e-icons-equipment-structures-explorers-yurt.webp|150]]
 
 Before activation, this item appears to be nothing more than a simple rolled-up tent, barely large enough to fit four Medium creatures. Despite attempts to clean it, the tent is perpetually smudged with dirt in various places.
 

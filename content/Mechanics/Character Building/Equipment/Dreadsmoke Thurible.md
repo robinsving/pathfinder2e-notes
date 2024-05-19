@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dreadsmoke Thurible
-![[systems-pf2e-icons-equipment-held-items-dreadsmoke-thurible.webp|150]]
 
 This black-and-gray thurible is decorated with a skeleton motif; the jaw of one of the decorative skulls unhinges, allowing you to load it with incense as an action. A long, thin chain is connected to the top of the thurible.
 

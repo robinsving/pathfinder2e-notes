@@ -8,7 +8,6 @@ tags:
 ---
 
 # Journeybread
-![[icons-consumables-grains-bread-loaf-boule-tan.webp|150]]
 
 **Activate** 1 Interact
 

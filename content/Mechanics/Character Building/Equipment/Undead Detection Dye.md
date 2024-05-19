@@ -8,7 +8,6 @@ tags:
 ---
 
 # Undead Detection Dye
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-undead-detection-dye.webp|150]]
 
 **Activate** 1 Interact
 

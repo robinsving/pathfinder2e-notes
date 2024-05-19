@@ -11,7 +11,6 @@ tags:
 ---
 
 # Experimental Spellshaping
-![[systems-pf2e-icons-features-classes-metamagic-experimentation.webp|150]]
 
 Your thesis posits that the magical practice of spellshaping can be realized more efficiently by altering variables and parameters as you cast, imitating the wizards of long ago who had to work out their own spells themselves. This allows you efficient access to various spellshape effects.
 

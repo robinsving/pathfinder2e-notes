@@ -8,7 +8,6 @@ tags:
 ---
 
 # Healing Potion (Lesser)
-![[icons-consumables-potions-bottle-round-corked-orante-red.webp|150]]
 
 **Activate** A (manipulate)
 

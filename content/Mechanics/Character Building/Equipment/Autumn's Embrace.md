@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Autumn's Embrace
-![[icons-equipment-chest-breastplate-collared-steel-green.webp|150]]
 
 Woven by fey seamstresses as rewards for servants of nature, countless leaves continually changing colors in autumnal hues comprise _autumn's embrace_, a suit of _+2 invisibility resilient leaf weave_. Leaves shed from the armor as they might fall in autumn. When activating the armor's [[Invisibility]] property rune, you disappear in a swirl of colorful leaves.
 

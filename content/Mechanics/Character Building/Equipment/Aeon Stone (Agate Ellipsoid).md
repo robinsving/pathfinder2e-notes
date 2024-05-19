@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Aeon Stone (Agate Ellipsoid)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-aeon-stone-agate-ellipsoid.webp|150]]
 
 This aeon stone allows you to cast 2nd-level _[[Augury]]_ as a divine innate spell once per day.
 

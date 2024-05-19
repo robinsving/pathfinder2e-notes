@@ -8,7 +8,6 @@ tags:
 ---
 
 # Icicle
-![[icons-magic-water-projectile-arrow-ice-gray-blue.webp|150]]
 
 This _+2 greater striking greater frost longspear_ appears to be a single continuous icicle stretching over 6 feet long. The icicle automatically extinguishes non-magical fires in a 20 foot emanation. While wielding it, you gain fire resistance 5.
 

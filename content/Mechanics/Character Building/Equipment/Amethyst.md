@@ -9,4 +9,3 @@ draft: true
 ---
 
 # Amethyst
-![[systems-pf2e-icons-equipment-treasure-gems-greater-semiprecious-stones-amethyst.webp|150]]

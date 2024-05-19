@@ -9,7 +9,6 @@ tags:
 ---
 
 # Deity
-![[systems-pf2e-icons-features-classes-deity.webp|150]]
 
 As a cleric, you are a mortal servitor of a deity you revere above all others. Your deity grants you the trained proficiency rank in one skill and with the deity's favored weapon. If the favored weapon is uncommon, you also get access to that weapon.
 

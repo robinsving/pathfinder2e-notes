@@ -9,6 +9,5 @@ tags:
 ---
 
 # Climber
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 It gains a climb Speed of 25 feet.

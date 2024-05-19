@@ -8,7 +8,6 @@ tags:
 ---
 
 # The Whispering Reeds
-![[systems-pf2e-icons-equipment-artifacts-the-whispering-reeds.webp|150]]
 
 This hefty tome was compiled centuries ago by an anonymous author who sought to collect all parables, myths, stories, and encounters with the Outer Goddess Nhimbaloth. According to the introduction, the author's original intent was to create a work that foes of the Empty Death could use to fight against her influence, but as one reads through the book, it becomes apparent that the opposite effect has been achieved—by compiling these stories, the author inadvertently generated a work that made it easier for Nhimbaloth to influence the world. Those who venerate the Empty Death seek copies of this book to use as a guide and religious text, while those who don't know better and peruse the book as though it were merely an anthology of stories find themselves unwittingly falling prey to Nhimbaloth's cult or agents of the entity herself. Those who study from _The Whispering Reeds_ for too long are often cursed to rise as ghosts after death—though their existence never lasts for long, as they are inevitably consumed by Nhimbaloth.
 

@@ -9,6 +9,5 @@ draft: true
 ---
 
 # Black Powder Knuckle Dusters
-![[systems-pf2e-icons-equipment-weapons-black-powder-knuckle-dusters.webp|150]]
 
 This pair of knuckle dusters is fitted with an explosive charge of black powder within the hollowed spikes of the weapon and a firing mechanism you hold in your hand while in use.

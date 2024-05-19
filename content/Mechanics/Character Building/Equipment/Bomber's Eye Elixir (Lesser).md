@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bomber's Eye Elixir (Lesser)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-bombers-eye-elixir.webp|150]]
 
 **Activate** A (manipulate)
 

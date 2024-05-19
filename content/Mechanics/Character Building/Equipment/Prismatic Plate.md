@@ -8,7 +8,6 @@ tags:
 ---
 
 # Prismatic Plate
-![[systems-pf2e-icons-equipment-armor-specific-magic-armor-prismatic-plate.webp|150]]
 
 With its standard-grade mithral polished to a mirrorlike sheen, this _+2 resilient glamered mithral breastplate_ features the religious symbols of the goddesses of the Prismatic Ray pantheon-Desna, Sarenrae, and Shelyn-surrounded by a rainbow-colored set of gems.
 

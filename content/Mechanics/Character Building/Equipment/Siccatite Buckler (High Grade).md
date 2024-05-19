@@ -8,7 +8,6 @@ tags:
 ---
 
 # Siccatite Buckler (High Grade)
-![[systems-pf2e-icons-equipment-shields-precious-material-shields-siccatite-buckler.webp|150]]
 
 Siccatite shields radiate extreme temperatures that protect them from energy damage. A protective coating on the wielder's side of the shield protects them from siccatite's radiant heat or cold but makes the shields bulkier than average.
 

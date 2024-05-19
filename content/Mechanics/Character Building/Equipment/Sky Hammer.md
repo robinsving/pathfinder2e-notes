@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sky Hammer
-![[icons-weapons-hammers-hammer-drilling-spiked.webp|150]]
 
 The sturdy head of this _+3 major striking [[Flaming]] [[Shock]] orichalcum warhammer_ is shaped like a blazing comet.
 

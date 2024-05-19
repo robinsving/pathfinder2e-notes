@@ -8,7 +8,6 @@ tags:
 ---
 
 # Deck of illusions
-![[systems-pf2e-icons-equipment-held-items-deck-of-illusions.webp|150]]
 
 This set of 34 parchment cards usually comes in a velvet bag or simple leather wrap. Each card depicts a different creature, monster, or other being that, when the deck is activated, immediately appears as a believable, life-size illusion. You can look at the card's artwork, but no magical effect takes place until you Activate the deck, shuffling and drawing randomly.
 

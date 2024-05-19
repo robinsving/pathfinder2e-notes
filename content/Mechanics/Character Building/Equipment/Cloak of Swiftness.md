@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cloak of Swiftness
-![[icons-equipment-back-mantle-collared-blue.webp|150]]
 
 This thin cloak is surprisingly light, as if clouds or the very wind were woven together to make the garment. The cloak grants you a +3 item bonus to Acrobatics checks. When you invest the cloak, you either increase your Dexterity modifier by 1 or increase it to +4, whichever would give you a higher value.
 

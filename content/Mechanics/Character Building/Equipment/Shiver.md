@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shiver
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-shiver.webp|150]]
 
 A compound produced from the hallucinogenic venom of certain spiders, shiver is common in black markets. The addiction to shiver has the virulent trait.
 

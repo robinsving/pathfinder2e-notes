@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bloodbane
-![[systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
 
 A _bloodbane_ clan dagger is especially vicious against the ancestral enemies of the clan. When you damage an appropriate type of creature with the weapon, that creature takes 1 bleed damage. The type of creature depends on the clan that made the dagger, but is typically drow, duergar, giant, or orc.
 

@@ -8,4 +8,3 @@ tags:
 ---
 
 # Hand mirror with decorated frame
-![[systems-pf2e-icons-equipment-treasure-art-objects-minor-art-object-hand-mirror-with-decorated-frame.webp|150]]

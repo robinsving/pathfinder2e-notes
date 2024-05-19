@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tengu Feather Fan
-![[icons-commodities-materials-feather-blue.webp|150]]
 
 **Activate** Interact
 

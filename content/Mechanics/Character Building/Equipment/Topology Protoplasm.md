@@ -8,7 +8,6 @@ tags:
 ---
 
 # Topology Protoplasm
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-looters-lethargy.webp|150]]
 
 **Activate** 1 Interact
 

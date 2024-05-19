@@ -8,7 +8,6 @@ tags:
 ---
 
 # Book of Lost Days
-![[systems-pf2e-icons-equipment-cursed-items-book-of-last-days.webp|150]]
 
 This massive tome's yellowed pages curl at the edges, and the letters on its face and spine are too worn to be read. When you open the book, it always opens to a page that seems to perfectly answer the question you had in mind, but reading more than a few lines causes your head to swim alarmingly.
 

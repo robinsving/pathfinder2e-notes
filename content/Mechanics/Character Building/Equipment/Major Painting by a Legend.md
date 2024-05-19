@@ -8,4 +8,3 @@ tags:
 ---
 
 # Major Painting by a Legend
-![[systems-pf2e-icons-equipment-treasure-art-objects-major-art-object-major-painting-by-a-legend.webp|150]]

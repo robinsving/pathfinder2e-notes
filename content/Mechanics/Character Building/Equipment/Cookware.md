@@ -8,4 +8,3 @@ tags:
 ---
 
 # Cookware
-![[systems-pf2e-icons-equipment-adventuring-gear-cookware.webp|150]]

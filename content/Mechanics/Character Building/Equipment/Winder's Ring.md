@@ -8,7 +8,6 @@ tags:
 ---
 
 # Winder's Ring
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-ring-of-maniacal-devices.webp|150]]
 
 This ring contains dozens of minute, interlocking bronze gears that buzz incessantly. The ring grants you a +1 item bonus to all Crafting checks to construct or repair clockworks.
 

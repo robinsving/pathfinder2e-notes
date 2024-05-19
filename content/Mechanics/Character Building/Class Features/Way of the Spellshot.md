@@ -9,7 +9,6 @@ tags:
 ---
 
 # Way of the Spellshot
-![[systems-pf2e-icons-features-classes-way-of-the-spellshot.webp|150]]
 
 You've learned the intricacies of magic and technology, blending the two together with deadly results. You combine a knowledge of arcane theories with a strong connection to your chosen weapon that allows you to manifest unique effects, though your knowledge doesn't extend as far as actual spellcasting. You can imbue energy into your weapon and conjure bullets from thin air. As you progress, you eventually learn to phase bullets through walls or even to teleport yourself along the path of your bullets. You must select Spellshot Dedication as your 2nd-level class feat.
 

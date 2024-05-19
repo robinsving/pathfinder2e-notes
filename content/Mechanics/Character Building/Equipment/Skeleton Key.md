@@ -8,7 +8,6 @@ tags:
 ---
 
 # Skeleton Key
-![[systems-pf2e-icons-equipment-held-items-skeleton-key.webp|150]]
 
 A grinning skull tops the bow of this macabre key. This key can be used in place of thieves' toolkit when attempting to Pick a Lock, and it grants a +1 item bonus to the Thievery check.
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Banquet of Hungry Ghosts
-![[systems-pf2e-icons-equipment-consumables-other-consumables-feast-of-hungry-ghosts.webp|150]]
 
 **Activate** 1 hour (Interact)
 

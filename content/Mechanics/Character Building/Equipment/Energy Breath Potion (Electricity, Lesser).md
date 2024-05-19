@@ -8,7 +8,6 @@ tags:
 ---
 
 # Energy Breath Potion (Electricity, Lesser)
-![[systems-pf2e-icons-equipment-consumables-potions-blue-dragons-breath-potion.webp|150]]
 
 **Activate 1** (manipulate)
 

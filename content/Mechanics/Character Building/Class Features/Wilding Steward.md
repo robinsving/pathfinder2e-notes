@@ -9,7 +9,6 @@ tags:
 ---
 
 # Wilding Steward
-![[icons-magic-nature-beam-hand-leaves-green.webp|150]]
 
 When your patron appeared before you, they moved with the grace and ferocity of the wilderness, their voice the creaking of trees and the sound of hoof against unspoiled earth. They might have been a dryad queen or a primeval beast, but it seemed all of nature was theirs to defend.
 

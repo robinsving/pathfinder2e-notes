@@ -8,7 +8,6 @@ tags:
 ---
 
 # Devil's Luck
-![[systems-pf2e-icons-equipment-contracts-infernal-contracts-devils_luck.webp|150]]
 
 **Devil** [[Imp]]
 

@@ -9,6 +9,5 @@ tags:
 ---
 
 # Lesson of Mischief
-![[Mechanics/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-spells-deceivers-cloak.webp|150]]
 
 You gain the _[[Deceiver's Cloak]]_ hex, and your familiar learns _[[Mad Monkeys]]_.

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Patron
-![[icons-magic-symbols-question-stone-yellow.webp|150]]
 
 You weren't born with the power to cast spells, nor have you spent years dedicated to worship, study, or uncovering mystical secrets. Your magic instead has been gifted to you by a potent being, one who knows that by empowering you so, you'll further the being's agenda in the world, whatever it may be. This entity is typically mysterious and distant, revealing little of their identity and motivations. They make their will known to you in abstract signs such as omens, dreams, or similar subtleties rather than words.
 

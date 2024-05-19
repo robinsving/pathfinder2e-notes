@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ghost Charge (Greater)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-bombs-ghost-charge.webp|150]]
 
 **Usage** held in 1 hand
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fulu of Concealment
-![[systems-pf2e-icons-equipment-consumables-fulus-fulu-modest.webp|150]]
 
 **Usage** affixed to the ground in four spaces along a 10-foot radius circle
 

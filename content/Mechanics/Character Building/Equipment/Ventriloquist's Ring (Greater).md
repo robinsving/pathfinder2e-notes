@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ventriloquist's Ring (Greater)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-ventriloquists-ring.webp|150]]
 
 This elegant copper ring has miniature images of songbirds engraved around its circumference. You gain a +2 item bonus to Deception checks.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ice Forge
-![[icons-environment-settlement-sewer-entrance.webp|150]]
 
 While many of the magical wonders created by saumen kar have been destroyed, _ice forges_, while rare, still see use today among the few individuals who manage to discover and keep one of these portable treasures. When an _ice forge_ isn't activated, it appears to be a small anvil carved from a lump of ice no larger than an apple. While in this state, the _ice forge_ remains cold to the touch but doesn't melt in the presence of high temperatures. It can be used to chill a beverage in a small container, although those who venerate and respect these items' legacy would doubtless find this use to be insulting at best.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blessed Reformer
-![[Mechanics/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-weapons-warhammer.webp|150]]
 
 The Celestial word for "repent" is etched in golden lettering on the shaft of this _+2 greater striking merciful mithral warhammer_. An evil-aligned creature is [[Enfeebled 1|Enfeebled 2]] when carrying or wielding this weapon.
 

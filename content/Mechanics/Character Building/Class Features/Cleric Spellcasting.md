@@ -11,7 +11,6 @@ tags:
 ---
 
 # Cleric Spellcasting
-![[systems-pf2e-icons-features-classes-divine-spellcasting.webp|150]]
 
 Your deity bestows on you the power to cast divine spells. You are a spellcaster, and you can cast spells of the divine tradition using the Cast a Spell activity. As a cleric, your chants generally invoke your deity and their powerful servants by name or title, while your gestures are followed by sacred symbols or other representations of your deity.
 

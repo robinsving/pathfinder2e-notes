@@ -8,7 +8,6 @@ tags:
 ---
 
 # Flaying Knife
-![[icons-weapons-daggers-dagger-crooked-black.webp|150]]
 
 This long, thin +1 striking [[Wounding]] dagger has a smooth edge on one side and a serrated edge on the other.
 

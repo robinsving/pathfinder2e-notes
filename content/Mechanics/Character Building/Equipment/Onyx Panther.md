@@ -8,7 +8,6 @@ tags:
 ---
 
 # Onyx Panther
-![[systems-pf2e-icons-equipment-consumables-talismans-onyx-panther.webp|150]]
 
 **Activate** 1 (concentrate)
 

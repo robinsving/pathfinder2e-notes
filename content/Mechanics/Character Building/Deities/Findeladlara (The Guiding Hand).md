@@ -9,7 +9,6 @@ tags:
 ---
 
 # Findeladlara (The Guiding Hand)
-![[systems-pf2e-icons-deity-Findeladlara.webp|150]]
 
 Findeladlara is the elven goddess of art and architecture. She believes in preserving tradition and prefers innovation over the creation of something entirely new. She actively supports the preservation of elven culture through the protection of their art and historic buildings. While Findeladlara is a good goddess, she often comes off as aloof, particularly to younger, non-elven races. She is known to judge their work harshly and never answers the prayers of a non-elf.
 

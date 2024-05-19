@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dwarven Daisy (Lesser)
-![[systems-pf2e-icons-equipment-consumables-ammunition-dwarven-daisy.webp|150]]
 
 **Activate** 1 Strike
 

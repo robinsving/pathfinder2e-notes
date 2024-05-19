@@ -8,7 +8,6 @@ tags:
 ---
 
 # Colorful Coating (Green)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-colorful-coating-green.webp|150]]
 
 **Activate** 3 Interact
 

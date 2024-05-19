@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Biting Snare
-![[icons-environment-traps-trap-jaw-steel.webp|150]]
 
 The snare's jaws shut on the leg of a creature that steps on it. The snare deals 5d6 piercing damage to the first creature that enters its square; that creature must attempt a DC 18 reflex save.
 

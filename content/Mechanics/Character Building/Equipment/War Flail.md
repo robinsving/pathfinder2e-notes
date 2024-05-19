@@ -8,6 +8,5 @@ tags:
 ---
 
 # War Flail
-![[icons-weapons-maces-flail-studded-grey.webp|150]]
 
 This large flail has a long shaft connected to a shorter piece of stout wood or metal that's sometimes inlaid with spikes.

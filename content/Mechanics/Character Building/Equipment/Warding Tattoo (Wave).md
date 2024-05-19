@@ -8,7 +8,6 @@ tags:
 ---
 
 # Warding Tattoo (Wave)
-![[systems-pf2e-icons-equipment-tattoos-warding-tattoo.webp|150]]
 
 Many cultures of Golarion have a tattoo to turn away harm; as such, warding tattoos often resemble whichever dangers are most common to the culture, such as a wild beast or a whirlpool in the high seas of the Shackles. In addition to the normal triggers, you can activate the tattoo when you enter an environment where you can't breathe.
 

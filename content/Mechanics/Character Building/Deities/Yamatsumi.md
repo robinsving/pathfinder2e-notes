@@ -9,7 +9,6 @@ tags:
 ---
 
 # Yamatsumi
-![[systems-pf2e-icons-deity-Yamatsumi.webp|150]]
 
 **Edicts** Strive to be self-sufficient, respect nature, test yourself against the elements
 

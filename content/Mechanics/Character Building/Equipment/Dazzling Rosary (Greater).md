@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dazzling Rosary (Greater)
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-flayleaf.webp|150]]
 
 **Activate** Cast a Spell
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Potion of Flying (Greater)
-![[systems-pf2e-icons-equipment-consumables-potions-potion-of-flying.webp|150]]
 
 **Activate** A (manipulate)
 

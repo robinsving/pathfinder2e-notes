@@ -9,7 +9,6 @@ tags:
 ---
 
 # Fifth Doctrine
-![[icons-magic-symbols-question-stone-yellow.webp|150]]
 
 You gain the fifth benefit of your doctrine:
 

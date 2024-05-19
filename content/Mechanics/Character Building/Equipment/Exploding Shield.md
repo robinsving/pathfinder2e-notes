@@ -8,7 +8,6 @@ tags:
 ---
 
 # Exploding Shield
-![[systems-pf2e-icons-equipment-shields-specific-shields-exploding-shield.webp|150]]
 
 The magic within this wooden shield (Hardness 3, HP 12, BT 6) lashes out at your foes as the shield is destroyed.
 

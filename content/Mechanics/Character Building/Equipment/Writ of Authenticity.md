@@ -8,7 +8,6 @@ tags:
 ---
 
 # Writ of Authenticity
-![[systems-pf2e-icons-equipment-adventuring-gear-writ-of-authenticity.webp|150]]
 
 A typical Pathfinder writ of authenticity confirms the holder's status as a member of the Pathfinder Society and their intended business.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hell Staff
-![[systems-pf2e-icons-equipment-staves-hell-staff.webp|150]]
 
 A _hell staff_ is a tall, pointed staff forged of red-tinted steel with Infernal inscriptions that march neatly down its sides. At its top sits an inverted ruby pyramid divided into nine sections. Found mostly in Cheliax or other lands where diabolic influences hold sway, when used as a weapon the staff is a _+3 greater striking axiomatic unholy staff_. When you prepare this staff, if you're holy, you become [[Drained 1]] until your next daily preparations. The staff's summon _lesser servitor spell_ can be used only to summon animals with the fiend trait, devils, or hell hounds (at 4th level). Its _summon fiend_ spell can summon only devils or hell hounds.
 

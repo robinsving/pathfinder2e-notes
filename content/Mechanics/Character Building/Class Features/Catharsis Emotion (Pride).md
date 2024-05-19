@@ -9,7 +9,6 @@ tags:
 ---
 
 # Catharsis Emotion (Pride)
-![[Mechanics/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-spells-feeblemind.webp|150]]
 
 All is well as long as you appear well, but you get caught up in the moment and lose track of what's important.
 

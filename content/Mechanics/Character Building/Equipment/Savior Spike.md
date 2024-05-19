@@ -8,7 +8,6 @@ tags:
 ---
 
 # Savior Spike
-![[systems-pf2e-icons-equipment-consumables-talismans-savior-spike.webp|150]]
 
 **Activate** F (concentrate)
 

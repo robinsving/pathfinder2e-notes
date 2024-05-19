@@ -8,4 +8,3 @@ tags:
 ---
 
 # Bronze bowl with wave imagery
-![[systems-pf2e-icons-equipment-treasure-art-objects-minor-art-object-bronze-bowl-with-wave-imagery.webp|150]]

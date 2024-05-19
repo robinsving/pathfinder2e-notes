@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cryomister (Major)
-![[systems-pf2e-icons-equipment-consumables-other-consumables-cryomister.webp|150]]
 
 **Activate**a Interact
 

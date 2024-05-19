@@ -9,7 +9,6 @@ tags:
 ---
 
 # Grow
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 You can grow an item from a living thing, most commonly a plant. You need the Alchemical Crafting skill feat to Grow an alchemical item, the Magical Crafting skill feat to Grow a magic item, and the Snare Crafting feat to Grow a snare. To Grow an item, you must meet the following requirements.
 

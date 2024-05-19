@@ -9,7 +9,6 @@ tags:
 ---
 
 # Toxicologist
-![[systems-pf2e-icons-features-classes-toxicologist.webp|150]]
 
 You specialize in toxins and venoms of all types. You start with the formulas for two common 1st-level alchemical poisons in your formula book, in addition to your other formulas.
 

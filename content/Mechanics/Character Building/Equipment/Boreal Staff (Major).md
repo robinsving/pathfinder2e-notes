@@ -8,7 +8,6 @@ tags:
 ---
 
 # Boreal Staff (Major)
-![[icons-weapons-staves-staff-simple.webp|150]]
 
 A _boreal staff_ is chiseled from a cylinder of ice to form a spiky, jagged icicle, its surface gleaming with the colors of the northern lights. It gives the air around you a distinct chill. When used as a weapon, a _boreal staff_ is a _+3 greater striking frost staff._
 

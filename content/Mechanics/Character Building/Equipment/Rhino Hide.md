@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rhino Hide
-![[systems-pf2e-icons-equipment-armor-specific-magic-armor-rhino-hide.webp|150]]
 
 This _+1 resilient_ hide armor is made from rhinoceros hide. It has an armor check penalty of -1 instead of -3.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Detector Stone
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-detector-stone.webp|150]]
 
 During their journeys across the Gravelands, the Knights of Lastwall found several smoky, gemstone-like objects that knights refer to as _detector stones_. Some of the knights' Magaambyan allies believe the stones are _aeon stones_ corrupted by the same energies that corrupted the Gravelands, though they don't display the characteristic orbiting behavior of _aeon stones_ when invested. Despite the controversy, many knights use the stones for their ability to detect the presence of undead.
 

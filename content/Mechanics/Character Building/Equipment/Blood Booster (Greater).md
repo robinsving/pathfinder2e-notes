@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blood Booster (Greater)
-![[icons-consumables-potions-vial-cork-red.webp|150]]
 
 **Activate** 1 Interact
 

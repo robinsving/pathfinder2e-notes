@@ -8,7 +8,6 @@ tags:
 ---
 
 # Demon Armor
-![[systems-pf2e-icons-equipment-armor-specific-magic-armor-demon-armor.webp|150]]
 
 Crafted from black iron, this crude suit of +2 resilient full plate is designed to make you look like a horned demon, with your face peering out of the screaming maw of the beast.
 

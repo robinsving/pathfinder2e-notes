@@ -8,7 +8,6 @@ tags:
 ---
 
 # Peacemaker
-![[systems-pf2e-icons-equipment-consumables-talismans-peacemaker.webp|150]]
 
 **Usage** affixed to a weapon
 

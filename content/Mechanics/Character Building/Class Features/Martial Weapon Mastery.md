@@ -11,6 +11,5 @@ tags:
 ---
 
 # Martial Weapon Mastery
-![[icons-skills-melee-hand-grip-sword-orange.webp|150]]
 
 You fully understand your weapons. Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to master.

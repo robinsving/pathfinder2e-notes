@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ochre Fulcrum Lens
-![[systems-pf2e-icons-equipment-other-ochre-fulcrum-lenses.webp|150]]
 
 This brownish-orange lens always seems dusty and gritty, even when wet. While you have the Ochre Fulcrum Lens invested, lassitude grips you. You gain resistance 10 to mental damage and a +2 status bonus to saves against emotion effects. You can also activate the lens in the following ways.
 

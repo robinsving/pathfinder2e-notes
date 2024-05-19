@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rust Scrub
-![[icons-tools-laboratory-bowl-mixing.webp|150]]
 
 **Activate** 10 minutes (Interact)
 

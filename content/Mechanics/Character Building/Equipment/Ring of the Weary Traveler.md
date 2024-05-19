@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ring of the Weary Traveler
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-ring-of-the-weary-traveler.webp|150]]
 
 This fanciful golden ring has an ornate band cast with delicate, swirling decorations and is inlaid with three bright-green emeralds. While wearing this ring, you gain a +10-foot item bonus to your Speed, but only when determining your overland movement per hour.
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Barricade Stone (Sphere)
-![[icons-commodities-gems-pearl-natural.webp|150]]
 
 **Activate** 2 command, Interact
 

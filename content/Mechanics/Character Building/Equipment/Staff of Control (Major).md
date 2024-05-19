@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Control (Major)
-![[systems-pf2e-icons-equipment-staves-staff-of-enchantment.webp|150]]
 
 An array of dazzling gemstones lines the twisting head of the golden staff. While wielding the staff, you gain a +1 status bonus to Diplomacy checks to make a [[Request]].
 

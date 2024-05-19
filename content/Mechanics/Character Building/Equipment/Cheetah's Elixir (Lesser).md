@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cheetah's Elixir (Lesser)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-cheetahs-elixir.webp|150]]
 
 **Activate** A (manipulate)
 

@@ -8,4 +8,3 @@ tags:
 ---
 
 # Opal
-![[systems-pf2e-icons-equipment-treasure-gems-lesser-precious-stones-opal.webp|150]]

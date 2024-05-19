@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bloodline: Harrow
-![[systems-pf2e-icons-features-classes-inventive-mastery.webp|150]]
 
 **Spell List** occult
 

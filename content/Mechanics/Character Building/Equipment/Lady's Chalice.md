@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lady's Chalice
-![[systems-pf2e-icons-equipment-treasure-art-objects-greater-art-object-gold-chalice-with-black-pearls.webp|150]]
 
 This silver chalice bears the symbol of Pharasma, a swirling cloud that transforms into a flight of whippoorwills that encircle the top. The chalice can be activated in one of two ways, though only once per day total.
 

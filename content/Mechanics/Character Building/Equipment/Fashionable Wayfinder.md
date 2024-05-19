@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fashionable Wayfinder
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-wayfinder.webp|150]]
 
 Fashionable wayfinders allow you to be dressed for success in almost any situation. In addition to the effects of a [[Wayfinder]], a fashionable wayfinder can attune to up to three sets of mundane clothing in your possession during your daily preparations. A fashionable wayfinder has the following activation.
 

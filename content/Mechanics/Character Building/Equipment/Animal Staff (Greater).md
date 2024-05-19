@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Animal Staff (Greater)
-![[icons-weapons-staves-staff-ornate-bird.webp|150]]
 
 This staff is topped with carved animal and monster heads. While wielding the staff, you gain a +2 circumstance bonus to Nature checks to identify animals.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # One Hundred Victories
-![[systems-pf2e-icons-equipment-tattoos-one-hundred-victories.webp|150]]
 
 One hundred cuts, healed into diamond-shaped scars, represent the ability to withstand the attacks of your enemies. Orc warriors covet these scar patterns and cluster them around what they consider to be their strongest assets—a pattern around the heart signifies a warrior with great endurance, while one along the arms indicates great upper body strength.
 

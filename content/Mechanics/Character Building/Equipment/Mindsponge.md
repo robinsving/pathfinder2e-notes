@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mindsponge
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-mindfog-mist.webp|150]]
 
 A _mindsponge_ appears as a misshapen gray sponge that unsettlingly resembles a malformed human brain. Though pliable in all the same ways as a damp sponge, a _mindsponge_ has no ability to absorb water and, in fact, doesn't seem terribly porous at all. Instead, a _mindsponge_ is used to absorb thoughts and memories from living creatures.
 

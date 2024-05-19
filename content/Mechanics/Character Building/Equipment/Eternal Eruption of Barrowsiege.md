@@ -8,7 +8,6 @@ tags:
 ---
 
 # Eternal Eruption of Barrowsiege
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-magic-fire-explosion-mushroom-nuke-orange.webp|150]]
 
 Resembling _frozen lava_, an eternal eruption is made with the same type of time magic, but is built to loop through time, reforming itself after it's used. Determining the difference between the two requires a close examination to see a faint, repeating pattern of red runes.
 

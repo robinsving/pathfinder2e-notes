@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Animal-Turning Fulu
-![[systems-pf2e-icons-equipment-consumables-fulus-fulu-fancy.webp|150]]
 
 **Activate** r envision
 

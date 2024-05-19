@@ -8,7 +8,6 @@ tags:
 ---
 
 # Jade Bauble
-![[systems-pf2e-icons-equipment-consumables-talismans-jade-bauble.webp|150]]
 
 **Activate** A Command
 

@@ -8,4 +8,3 @@ tags:
 ---
 
 # Ivory
-![[systems-pf2e-icons-equipment-treasure-gems-moderate-semiprecious-stones-ivory.webp|150]]

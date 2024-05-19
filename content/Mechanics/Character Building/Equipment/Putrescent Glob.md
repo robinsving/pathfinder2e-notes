@@ -8,7 +8,6 @@ tags:
 ---
 
 # Putrescent Glob
-![[systems-pf2e-icons-equipment-consumables-talismans-putrescent-glob.webp|150]]
 
 **Usage** affixed to a weapon
 

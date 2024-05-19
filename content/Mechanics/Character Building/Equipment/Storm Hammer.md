@@ -8,7 +8,6 @@ tags:
 ---
 
 # Storm Hammer
-![[Mechanics/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-weapons-warhammer.webp|150]]
 
 Sparks of crackling electricity arc from this +1 magic warhammer, and the head thrums with distant thunder. Any hit with this hammer deals 1 electricity damage. You can use a special action while holding the hammer to transform the sparks into lightning bolts.
 

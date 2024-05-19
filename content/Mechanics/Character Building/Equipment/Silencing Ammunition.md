@@ -8,7 +8,6 @@ tags:
 ---
 
 # Silencing Ammunition
-![[systems-pf2e-icons-equipment-consumables-ammunition-silencing-ammunition.webp|150]]
 
 **Ammunition** arrow, bolt
 

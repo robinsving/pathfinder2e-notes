@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sapling Shield (Minor)
-![[icons-equipment-shield-buckler-wooden-boss-brown.webp|150]]
 
 This surprisingly weighty, though well-balanced, wooden buckler (Hardness 3, HP 24, and BT 12) is emblazoned with the image of a sapling. The sapling withers as the shield takes damage.
 

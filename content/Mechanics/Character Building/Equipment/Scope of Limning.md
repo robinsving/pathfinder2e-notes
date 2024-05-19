@@ -8,7 +8,6 @@ tags:
 ---
 
 # Scope of Limning
-![[systems-pf2e-icons-equipment-other-attached-items-scope.webp|150]]
 
 The dwarven gunsmiths of Dongun Hold originally created these scopes to help them clear out vermin in underground areas. This scope captures the sound that echoes off a creature hit by the firearm and transforms it into light, illuminating the target for all to see.
 

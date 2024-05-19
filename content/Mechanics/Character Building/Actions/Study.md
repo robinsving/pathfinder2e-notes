@@ -9,7 +9,6 @@ tags:
 ---
 
 # Study
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 **Requirements** You are an initiate, attendant, or conversant.
 

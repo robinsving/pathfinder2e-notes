@@ -8,7 +8,6 @@ tags:
 ---
 
 # Follypops
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-follypops.webp|150]]
 
 **Activate** 1 Interact
 

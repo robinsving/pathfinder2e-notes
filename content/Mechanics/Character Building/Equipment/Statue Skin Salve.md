@@ -8,7 +8,6 @@ tags:
 ---
 
 # Statue Skin Salve
-![[icons-tools-laboratory-bowl-mixing.webp|150]]
 
 **Activate** 3 Interact
 

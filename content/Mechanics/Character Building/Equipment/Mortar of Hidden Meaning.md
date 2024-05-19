@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mortar of Hidden Meaning
-![[systems-pf2e-icons-equipment-held-items-mortar-of-hidden-meaning.webp|150]]
 
 This matching mortar and pestle are made from immaculate darkwood that looks nearly olive in the right light.
 

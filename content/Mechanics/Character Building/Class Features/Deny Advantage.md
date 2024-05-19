@@ -9,7 +9,6 @@ tags:
 ---
 
 # Deny Advantage
-![[icons-environment-settlement-watchtower-silhouette-yellow.webp|150]]
 
 **Barbarian** Your foes struggle to pass your defenses. You aren't off-guard to hidden, undetected, or flanking creatures of your level or lower, or creatures of your level or lower using surprise attack. However, they can still help their allies flank.
 

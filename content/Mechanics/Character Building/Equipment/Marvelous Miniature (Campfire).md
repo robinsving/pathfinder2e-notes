@@ -8,7 +8,6 @@ tags:
 ---
 
 # Marvelous Miniature (Campfire)
-![[icons-magic-fire-flame-burning-campfire-smoke.webp|150]]
 
 **Activate** 1 (manipulate)
 

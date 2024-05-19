@@ -8,7 +8,6 @@ tags:
 ---
 
 # Serithtial
-![[systems-pf2e-icons-equipment-artifacts-serithtial.webp|150]]
 
 **Perception** +28; normal vision and hearing within 60 feet
 

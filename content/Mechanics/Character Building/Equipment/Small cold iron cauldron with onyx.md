@@ -8,4 +8,3 @@ tags:
 ---
 
 # Small cold iron cauldron with onyx
-![[systems-pf2e-icons-equipment-treasure-art-objects-moderate-art-object-small-cold-iron-cauldron-with-onyx.webp|150]]

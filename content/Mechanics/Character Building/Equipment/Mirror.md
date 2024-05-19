@@ -8,4 +8,3 @@ tags:
 ---
 
 # Mirror
-![[icons-commodities-treasure-token-brass-round.webp|150]]

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rattling Bolt
-![[systems-pf2e-icons-equipment-consumables-ammunition-silencing-ammunition.webp|150]]
 
 **Ammunition** bolts
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ooze Ammunition (Major)
-![[icons-commodities-materials-liquid-green.webp|150]]
 
 **Ammunition** any
 

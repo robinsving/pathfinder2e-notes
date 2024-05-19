@@ -10,7 +10,6 @@ tags:
 ---
 
 # Oak Potion
-![[systems-pf2e-icons-equipment-consumables-potions-barkskin-potion.webp|150]]
 
 **Activate** A (manipulate)
 

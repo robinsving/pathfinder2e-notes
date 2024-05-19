@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shield of the Unified Legion
-![[systems-pf2e-icons-equipment-shields-specific-shields-shield-of-the-unified-legion.webp|150]]
 
 This high-grade orichalcum shield (Hardness 16, HP 64, and BT 32) bears a +3 major striking shield boss that cannot be removed.
 

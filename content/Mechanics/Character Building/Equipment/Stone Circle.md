@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stone Circle
-![[systems-pf2e-icons-equipment-held-items-stone-circle.webp|150]]
 
 A _stone circle_ appears to be a thumb-sized rectangular gray stone until activated.
 

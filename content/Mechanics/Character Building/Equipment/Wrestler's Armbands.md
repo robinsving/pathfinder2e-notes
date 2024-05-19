@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wrestler's Armbands
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-armbands-of-athleticism.webp|150]]
 
 **Perception** +17; precise vision 30 feet, imprecise hearing 30 feet
 

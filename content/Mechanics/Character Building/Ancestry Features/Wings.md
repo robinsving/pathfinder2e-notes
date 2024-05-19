@@ -9,7 +9,6 @@ tags:
 ---
 
 # Wings
-![[Mechanics/Character Building/Ancestry Features/zz_asset-files/systems-pf2e-icons-spells-unfettered-pack.webp|150]]
 
 All strix possess powerful wings. While not all strix focus on honing their flying skills, a strong flap of their wings allows strix to travel longer distances when jumping.
 

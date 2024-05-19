@@ -8,7 +8,6 @@ tags:
 ---
 
 # Iron Medallion
-![[systems-pf2e-icons-equipment-consumables-talismans-iron-medallion.webp|150]]
 
 **Activate** F (concentrate)
 

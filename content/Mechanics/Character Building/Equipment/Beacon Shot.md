@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Beacon Shot
-![[systems-pf2e-icons-equipment-consumables-ammunition-beacon-shot.webp|150]]
 
 **Activate** A (manipulate)
 

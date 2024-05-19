@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mirror Robe
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-mirror-robe.webp|150]]
 
 Thousands of small, reflective, mirrored glass shards have been carefully stitched down this long silk duster.
 

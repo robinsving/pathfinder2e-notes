@@ -8,4 +8,3 @@ tags:
 ---
 
 # Light Barding
-![[systems-pf2e-icons-equipment-armor-light-barding.webp|150]]

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Forge Documents
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 You prepare forgeries that might serve as convincing props. Attempt a hard or very hard Society check.
 

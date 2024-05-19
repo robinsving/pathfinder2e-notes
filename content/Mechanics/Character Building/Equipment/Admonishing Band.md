@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Admonishing Band
-![[systems-pf2e-icons-equipment-consumables-talismans-admonishing-band.webp|150]]
 
 **Usage** affixed to a firearm
 

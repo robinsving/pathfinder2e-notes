@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shadewither Key
-![[systems-pf2e-icons-equipment-contracts-key-to-the-stomach.webp|150]]
 
 This palm-sized talisman hangs on a string of braided bark fibers. It resembles a leaf from some unknown tree similar to oak, carved from jade and then dipped halfway into black ink that looks wet despite feeling completely dry. The gate key was originally created to open the aiudara known as the Seventh Arch. In recent years, corrupting magic has given it additional, stranger powers.
 

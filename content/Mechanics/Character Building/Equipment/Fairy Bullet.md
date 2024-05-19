@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fairy Bullet
-![[systems-pf2e-icons-equipment-consumables-ammunition-fairy-bullet.webp|150]]
 
 **Ammunition** round
 

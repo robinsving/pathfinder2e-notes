@@ -8,7 +8,6 @@ tags:
 ---
 
 # Succubus Kiss
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-succubus-kiss.webp|150]]
 
 **Activate** 1 Interact
 

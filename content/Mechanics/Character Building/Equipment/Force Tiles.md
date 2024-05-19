@@ -8,7 +8,6 @@ tags:
 ---
 
 # Force Tiles
-![[icons-commodities-leather-leather-patch-brown.webp|150]]
 
 **Activate** Cast a Spell
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Aeon Stone (Cymophane Cabochon)
-![[systems-pf2e-icons-equipment-treasure-gems-lesser-semiprecious-stones-tigers-eye.webp|150]]
 
 Jabalis use the _cymophane cabochon aeon stone_ to keep an eye on their belongings and surroundings. You gain a +2 item bonus to Perception checks and DCs against Hide, [[Sneak]], and [[Steal]] actions.
 

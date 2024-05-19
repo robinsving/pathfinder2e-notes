@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fire and Iceberg (Greater)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tapas-fire-and-iceberg.webp|150]]
 
 **Activate** 1 Interact
 

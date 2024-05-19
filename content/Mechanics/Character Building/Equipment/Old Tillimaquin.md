@@ -8,7 +8,6 @@ tags:
 ---
 
 # Old Tillimaquin
-![[systems-pf2e-icons-equipment-other-old-tillmaquin.webp|150]]
 
 This beloved tavern mascot is a shabby old stuffed beast mounted on an immense slab of ironwood. The beast is roughly the size and shape of a wolverine but with a broader snout, blue stripes along its upper legs and bristled back, and a club of spiked bone at the end of its long tail. No one can recall where Old Tillimaquin originally came from, how the taxidermic beast came to stand in its tavern, or even whether it's a genuine article. The tradition of rubbing its bronzed claws for good luck has been observed for so long that the front claws are worn to stubs. Local belief holds that as long as Old Tillimaquin stands, neither fire nor flood will claim its town.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Devotion Spells
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-magic-light-explosion-star-glow-orange.webp|150]]
 
 Your deity's power grants you special divine spells called devotion spells, which are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you regain 1 Focus Point by spending 10 minutes using the Refocus activity to pray to your deity or do service toward their causes.
 

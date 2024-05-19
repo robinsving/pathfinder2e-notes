@@ -8,7 +8,6 @@ tags:
 ---
 
 # Slippers of Spider Climbing
-![[icons-equipment-feet-boots-collared-leather-white.webp|150]]
 
 These soft slippers are made of fine gray silk. If the slippers are left unattended for a while, they tend to attract spiders that nest inside.
 

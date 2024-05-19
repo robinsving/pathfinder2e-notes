@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spear of the Destroyer's Flame
-![[systems-pf2e-icons-equipment-weapons-longspear.webp|150]]
 
 The tip of this _+3 major striking greater flaming returning speed longspear_ is edged with several razor-sharp obsidian blades. The spear has the thrown 30 feet weapon trait, in addition to the normal weapon traits for a longspear.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Harpoon Bolt
-![[systems-pf2e-icons-equipment-consumables-ammunition-harpoon-bolt.webp|150]]
 
 **Ammunition** round
 

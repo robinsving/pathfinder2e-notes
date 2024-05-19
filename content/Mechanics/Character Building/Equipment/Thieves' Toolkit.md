@@ -8,7 +8,6 @@ tags:
 ---
 
 # Thieves' Toolkit
-![[icons-tools-hand-lockpicks-steel-grey.webp|150]]
 
 You need a thieves' toolkit to [[Pick a Lock|Pick Locks]] or [[Disable a Device|Disable Devices]] (of some types) using the Thievery skill.
 

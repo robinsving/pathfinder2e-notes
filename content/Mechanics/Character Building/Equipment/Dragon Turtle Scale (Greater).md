@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dragon Turtle Scale (Greater)
-![[systems-pf2e-icons-equipment-consumables-talismans-dragon-turtle-scale.webp|150]]
 
 **Activate** A (concentrate)
 

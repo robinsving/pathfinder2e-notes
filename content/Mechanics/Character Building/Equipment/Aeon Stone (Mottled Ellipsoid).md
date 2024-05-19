@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Aeon Stone (Mottled Ellipsoid)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-aeon-stone-agate-ellipsoid.webp|150]]
 
 This aeon stone alters your life force. You gain void healing, which means you are damaged by vitality energy and not healed by vitality healing effects. You don't take void damage, and you are healed by void effects that heal undead.
 

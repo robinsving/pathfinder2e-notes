@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bound Guardian
-![[icons-magic-symbols-runes-triangle-orange-purple.webp|150]]
 
 A bound guardian is a tattoo guardian bonded to your skin, which you can temporarily animate to protect you. If your soul leaves your body, your tattoo guardian might be destroyed (see the sidebar, Bestiary 3 262).
 

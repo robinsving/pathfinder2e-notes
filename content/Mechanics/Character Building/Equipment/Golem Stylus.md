@@ -8,7 +8,6 @@ tags:
 ---
 
 # Golem Stylus
-![[systems-pf2e-icons-equipment-held-items-golem-stylus.webp|150]]
 
 This small, diamond-tipped stylus allows you to inscribe a magical symbol on a golem's body and possibly gain control over it.
 

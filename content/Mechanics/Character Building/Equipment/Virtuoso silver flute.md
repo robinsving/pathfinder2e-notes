@@ -8,4 +8,3 @@ tags:
 ---
 
 # Virtuoso silver flute
-![[systems-pf2e-icons-equipment-treasure-art-objects-moderate-art-object-virtuoso-silver-flute.webp|150]]

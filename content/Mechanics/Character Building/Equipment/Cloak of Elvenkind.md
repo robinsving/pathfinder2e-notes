@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cloak of Elvenkind
-![[icons-equipment-back-cloak-collared-feathers-green.webp|150]]
 
 This cloak is deep green with a voluminous hood, embroidered with gold trim and symbols significant in elven culture. The cloak allows you to cast the _[[Ghost Sound]]_ cantrip as an arcane innate spell.
 

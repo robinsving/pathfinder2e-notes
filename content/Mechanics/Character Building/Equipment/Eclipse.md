@@ -8,7 +8,6 @@ tags:
 ---
 
 # Eclipse
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-eclipse.webp|150]]
 
 This +1 [[Returning]] striking cold iron starknife has an ornate central grip that depicts a silver dragon, the neck, wings, and tail of which wrap over and around the handle in knots to support the weapon's four cold iron blades. While the handle is polished to a mirrorlike shine, the blades of Eclipse are a flat black and entirely unreflective. Eclipse is also the portal key required to activate Dreamgate at Alseta's Ring.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wyvern Poison
-![[icons-commodities-materials-liquid-blue.webp|150]]
 
 Properly harvested and preserved, the poison from a wyvern's sting is effective and direct.
 

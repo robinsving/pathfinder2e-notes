@@ -8,7 +8,6 @@ tags:
 ---
 
 # Warding Tablets
-![[systems-pf2e-icons-equipment-held-items-warding-tablets.webp|150]]
 
 This grimoire takes the form of a series of baked clay tablets. Any text inked upon it turns swiftly into carved depressions.
 

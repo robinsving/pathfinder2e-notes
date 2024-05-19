@@ -8,7 +8,6 @@ tags:
 ---
 
 # Potion of Fire Retaliation (Minor)
-![[systems-pf2e-icons-equipment-consumables-potions-potion-of-fire-retalliation.webp|150]]
 
 **Activate** 1 Interact
 

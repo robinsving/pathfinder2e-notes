@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spellsap Grenade (Greater)
-![[icons-weapons-thrown-grenade-round.webp|150]]
 
 **Activate** 1 Strike
 

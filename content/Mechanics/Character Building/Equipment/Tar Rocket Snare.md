@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tar Rocket Snare
-![[systems-pf2e-icons-equipment-snares-tar-rocket-snare.webp|150]]
 
 You coat a small firework with a thick layer of resin and tar, so it sticks firmly onto a target. When a creature enters the square, the rocket launches at the creature and potentially sticks to it. You determine the direction the rocket faces when crafting the snare. The triggering creature must attempt a DC 20 reflex save.
 

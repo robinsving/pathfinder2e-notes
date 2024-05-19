@@ -9,7 +9,6 @@ tags:
 ---
 
 # Spirit Instinct
-![[icons-creatures-magical-spirit-undead-horned-blue.webp|150]]
 
 Whether you are emotionally sensitive to the spirits around you; worship ancestors or apparitions; or are haunted by the specter of an ancestor, relative, friend, or foe, your rage takes the form of a spiritual possession.
 

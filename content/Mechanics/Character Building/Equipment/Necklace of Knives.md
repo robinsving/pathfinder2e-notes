@@ -8,7 +8,6 @@ tags:
 ---
 
 # Necklace of Knives
-![[icons-equipment-neck-amulet-geometric-green-orange.webp|150]]
 
 This necklace strung with miniature stone throwing knives. As long as you wear it, you are never without a weapon, a crude surgical tool, or stake for a vampire, if necessary in following Pharasma's teachings.
 

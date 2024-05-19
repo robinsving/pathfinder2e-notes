@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bloodline
-![[icons-magic-symbols-question-stone-yellow.webp|150]]
 
 Choose a bloodline that gives you your spellcasting talent. This choice determines the type of spells you cast and the spell list you choose them from, additional spells you learn, and additional trained skills. You also gain Focus Points and special focus spells based on your bloodline. The bloodlines presented are as follows:
 

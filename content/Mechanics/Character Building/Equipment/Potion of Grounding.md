@@ -8,7 +8,6 @@ tags:
 ---
 
 # Potion of Grounding
-![[systems-pf2e-icons-equipment-consumables-potions-potion-of-grounding.webp|150]]
 
 **Activate** 1 Interact
 

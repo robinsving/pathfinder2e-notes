@@ -10,7 +10,6 @@ tags:
 ---
 
 # Marvelous Miniature (Chest)
-![[icons-containers-chest-chest-oak-steel-brown.webp|150]]
 
 **Activate** 1 (manipulate)
 

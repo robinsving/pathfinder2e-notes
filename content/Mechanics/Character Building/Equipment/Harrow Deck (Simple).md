@@ -8,7 +8,6 @@ tags:
 ---
 
 # Harrow Deck (Simple)
-![[systems-pf2e-icons-equipment-adventuring-gear-harrow-deck-simple.webp|150]]
 
 Used by gamblers and seers alike, this deck of cards comes in several varieties.
 

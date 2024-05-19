@@ -8,7 +8,6 @@ tags:
 ---
 
 # Jawbreaker Shield
-![[systems-pf2e-icons-equipment-shields-specific-shields-jawbreaker-shield.webp|150]]
 
 This heavy bone shield is composed of a massive plate of dinosaur bone with jagged, tooth-like ridges ringing its edge. It has Hardness 12, HP 48, and BT 24. The ridges are unremovable +1 striking shield spikes that deal slashing damage instead of piercing damage.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sleeves of Storage
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-sleeves-of-storage.webp|150]]
 
 This loose robe has wide, voluminous sleeves that each contain an extradimensional space. These spaces each function as a [[Spacious Pouch (Type I)]] that can hold up to 5 Bulk of items (for a total of 10 Bulk), though no individual item can be of more than 1 Bulk; the sleeves grow slightly heavy as you reach maximum capacity. You can add or remove an item from a sleeve with a single hand free as an Interact action.
 

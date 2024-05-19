@@ -9,7 +9,6 @@ tags:
 ---
 
 # Spinner of Threads
-![[icons-magic-nature-tree-bare-glow-yellow.webp|150]]
 
 You met your patron in a memory of an encounter yet to come or a premonition of something long since passed, as they untangled and re-spun the tapestry of time and fate. Was your patron a norn? A herald of a deity like Pharasma, Alseta, or Grandmother Spider? Could it even be a single individual appearing at three or more points in its timeline—multiple versions of the same being, parallel threads converging on a single moment?
 

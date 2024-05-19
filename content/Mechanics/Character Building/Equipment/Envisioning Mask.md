@@ -8,7 +8,6 @@ tags:
 ---
 
 # Envisioning Mask
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-envisioning-mask.webp|150]]
 
 These strange masks consist of a thin stone hood and a shimmering purple veil reminiscent of the _pleroma aeon_ who first gifted them to mortals in the hope that sharing the means of aeon communication would reduce the misunderstandings and conflicts among mortal civilizations. An envisioning mask covers your entire face, though it doesn't hinder your vision or other senses.
 

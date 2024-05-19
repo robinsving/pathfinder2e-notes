@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Arboreal's Revenge
-![[icons-weapons-guns-gun-blunderbuss-worn-brown.webp|150]]
 
 This walnut and brass _+1 striking blunderbuss_ has a natural look, with wood worn smooth by time, but left knotted and gnarled. The handgrip beneath the flared muzzle is a well-positioned bulging tree knot, and the long stock looks as if it was grown to fit you. On closer examination, the whorls and rings in the wood resemble eyes.
 

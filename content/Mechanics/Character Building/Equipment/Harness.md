@@ -8,4 +8,3 @@ tags:
 ---
 
 # Harness
-![[icons-environment-creatures-horse-tan.webp|150]]

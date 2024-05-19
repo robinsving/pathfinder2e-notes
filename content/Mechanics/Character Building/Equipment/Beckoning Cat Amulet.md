@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Beckoning Cat Amulet
-![[systems-pf2e-icons-equipment-consumables-talismans-beckoning-cat-amulet.webp|150]]
 
 **Usage** affixed to armor
 

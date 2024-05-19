@@ -8,4 +8,3 @@ tags:
 ---
 
 # Sapphire
-![[systems-pf2e-icons-equipment-treasure-gems-moderate-precious-stones-sapphire.webp|150]]

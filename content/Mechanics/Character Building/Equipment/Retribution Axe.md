@@ -8,7 +8,6 @@ tags:
 ---
 
 # Retribution Axe
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-retribution-axe.webp|150]]
 
 The blade of this _+1 greataxe_ bears a design of a human skull.
 

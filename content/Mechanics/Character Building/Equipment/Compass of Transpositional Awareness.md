@@ -8,7 +8,6 @@ tags:
 ---
 
 # Compass of Transpositional Awareness
-![[systems-pf2e-icons-equipment-held-items-compass-of-transpositional-awareness.webp|150]]
 
 The silver face of this glass-encased compass is etched with dozens of esoteric symbols, obscure icons, and inscrutable abbreviations.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Wandering Reverie
-![[systems-pf2e-icons-features-classes-wandering-reverie.webp|150]]
 
 The subconscious is by definition buried below the surface. Thus, only by stripping away the clamor and interference of everyday thought can you bring this more fundamental part of your mind to bear. Whether through sleep, self-hypnosis, or special exercises to empty your mind, you've found a way to access a deeper, more chaotic state of free association that better channels your psychic power.
 

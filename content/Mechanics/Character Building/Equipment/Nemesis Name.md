@@ -8,7 +8,6 @@ tags:
 ---
 
 # Nemesis Name
-![[systems-pf2e-icons-equipment-tattoos-nemesis-name.webp|150]]
 
 You want revenge badly enough that you tattoo your nemesis's name in a place you can easily see to remember your vow to settle the score. Anyone who sees the tattoo senses your hatred of the named being. Receiving a new nemesis name makes any you already have non-magical.
 

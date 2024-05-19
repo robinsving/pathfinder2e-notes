@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mail of Luck
-![[systems-pf2e-icons-equipment-armor-specific-magic-armor-mail-of-luck.webp|150]]
 
 This suit of +2 resilient splint mail has a large, green gemstone inset in a prominent location.
 

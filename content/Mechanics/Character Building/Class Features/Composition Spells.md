@@ -9,7 +9,6 @@ tags:
 ---
 
 # Composition Spells
-![[icons-tools-instruments-pipe-flue-tan.webp|150]]
 
 You can infuse your performances with magic to create unique effects called compositions. Compositions are a special type of spell that often require you to use the Performance skill when casting them. Composition spells are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the Refocus activity to perform, write a new composition, or otherwise engage your muse.
 

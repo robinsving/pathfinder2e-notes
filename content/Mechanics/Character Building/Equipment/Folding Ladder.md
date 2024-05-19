@@ -8,7 +8,6 @@ tags:
 ---
 
 # Folding Ladder
-![[systems-pf2e-icons-equipment-held-items-folding-ladder.webp|150]]
 
 **Bulk** 1 (3 unfolded)
 

@@ -8,4 +8,3 @@ tags:
 ---
 
 # Lapis lazuli pendant
-![[systems-pf2e-icons-equipment-treasure-art-objects-minor-art-object-lapis-lazuli-pendant.webp|150]]

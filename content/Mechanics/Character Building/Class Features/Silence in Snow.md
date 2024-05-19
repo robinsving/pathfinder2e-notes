@@ -9,7 +9,6 @@ tags:
 ---
 
 # Silence in Snow
-![[icons-magic-water-bubbles-air-water-light.webp|150]]
 
 Bitter cold heralded your patron's appearance, in the depths of the winter solstice or on a frozen peak at the end of the world. Your patron might be a winter hag, ice yai, or other spirit of the cold, but one thing is clear as ice—their power is not to be underestimated.
 

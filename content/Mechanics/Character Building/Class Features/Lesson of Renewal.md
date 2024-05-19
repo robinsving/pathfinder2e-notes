@@ -9,6 +9,5 @@ tags:
 ---
 
 # Lesson of Renewal
-![[Mechanics/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-spells-restorative-moment.webp|150]]
 
 You gain the _[[Restorative Moment]]_ hex, and your familiar learns _[[Field of Life]]_.

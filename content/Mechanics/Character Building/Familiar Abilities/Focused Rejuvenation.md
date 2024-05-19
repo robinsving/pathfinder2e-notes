@@ -9,6 +9,5 @@ tags:
 ---
 
 # Focused Rejuvenation
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 When you Refocus, you generate magical energy that heals your familiar. Your familiar regains 1 Hit Point per level whenever you Refocus.

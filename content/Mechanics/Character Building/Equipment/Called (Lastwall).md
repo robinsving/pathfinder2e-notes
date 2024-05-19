@@ -8,7 +8,6 @@ tags:
 ---
 
 # Called (Lastwall)
-![[systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
 
 A _called_ weapon can be teleported to its owner's hand.
 

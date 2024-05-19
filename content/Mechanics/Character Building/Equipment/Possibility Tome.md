@@ -8,7 +8,6 @@ tags:
 ---
 
 # Possibility Tome
-![[systems-pf2e-icons-equipment-held-items-possibility-tome.webp|150]]
 
 An array of semiprecious stones is set into the ornate silver and beaten copper cover of this thick and weighty tome. If you open the book before it's been activated, its vellum pages are blank and pristine, but once activated, words dance and swim onto the pages before your eyes.
 

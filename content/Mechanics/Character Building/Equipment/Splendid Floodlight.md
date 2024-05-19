@@ -8,7 +8,6 @@ tags:
 ---
 
 # Splendid Floodlight
-![[systems-pf2e-icons-equipment-treasure-art-objects-greater-art-object-platinum-framed-monocle.webp|150]]
 
 This drum-shaped metal floodlight has a metal handle on each side and a housing at its base to be slotted into a stand or pedestal. A splendid floodlight has a primary function as well as several secondary functions available by rotating through a series of translucent sheets called gels. A splendid floodlight comes with the four gels described below, but other gels exist with different abilities.
 

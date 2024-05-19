@@ -8,7 +8,6 @@ tags:
 ---
 
 # Torag's Silver Anvil
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-torags-silver-anvil.webp|150]]
 
 This portable silver anvil has a narrow hoop on one end, through which a long, sturdy chain has been strung. Torag's Silver Anvil can be wielded as a +3 [[Holy]] [[Flaming (Greater)|Greater Flaming]] greater striking silver meteor hammer.
 

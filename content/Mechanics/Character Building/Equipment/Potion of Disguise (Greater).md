@@ -8,7 +8,6 @@ tags:
 ---
 
 # Potion of Disguise (Greater)
-![[systems-pf2e-icons-equipment-consumables-potions-potion-of-disguise.webp|150]]
 
 **Activate** 1 Interact
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Big Rock Bullet (Greater)
-![[icons-commodities-stone-boulder-grey.webp|150]]
 
 **Ammunition** sling bullet
 

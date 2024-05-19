@@ -8,7 +8,6 @@ tags:
 ---
 
 # Body Recovery Kit
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-body-recovery-kit.webp|150]]
 
 This small silver tin is filled with a herb-infused salve and a shroud of fine silk fabric. The salve smells of lavender and hyssop and is waxy to the touch. The shroud, made of spun silk, can a hold a Medium or smaller creature.
 

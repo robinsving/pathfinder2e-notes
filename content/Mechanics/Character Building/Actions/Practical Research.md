@@ -9,7 +9,6 @@ tags:
 ---
 
 # Practical Research
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 **Requirement** You are a conversant or lore-speaker.
 

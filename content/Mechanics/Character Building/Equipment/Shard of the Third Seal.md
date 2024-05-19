@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shard of the Third Seal
-![[icons-commodities-stone-geode-raw-brown.webp|150]]
 
 This stone fragment from the Third Seal retains a tiny sliver of that legendary item's power. The shard sheds light constantly, with the effects of a torch requiring no oxygen and generating no heat. The flame can be covered or [[Hidden]], but it can't be smothered or quenched.
 

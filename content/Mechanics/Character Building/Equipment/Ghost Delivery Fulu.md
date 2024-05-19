@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ghost Delivery Fulu
-![[systems-pf2e-icons-equipment-consumables-fulus-fulu-modest.webp|150]]
 
 **Duration** 1 week
 

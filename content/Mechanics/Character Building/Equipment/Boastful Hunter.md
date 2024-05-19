@@ -8,7 +8,6 @@ tags:
 ---
 
 # Boastful Hunter
-![[icons-weapons-guns-rifle-brown.webp|150]]
 
 **Perception** +11; precise vision 30 feet, imprecise hearing 30 feet
 

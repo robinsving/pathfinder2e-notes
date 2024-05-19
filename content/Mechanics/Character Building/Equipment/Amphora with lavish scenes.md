@@ -9,4 +9,3 @@ draft: true
 ---
 
 # Amphora with lavish scenes
-![[icons-containers-kitchenware-vase-clay-pot-decorated-red.webp|150]]

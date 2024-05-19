@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stalker Bane Snare
-![[systems-pf2e-icons-equipment-snares-stalker-bane-snare.webp|150]]
 
 This snare explodes in a burst of cloying powder that can cling to a creature stepping into its square. A creature that enters the square of a stalker bane snare must attempt a DC 20 reflex save.
 

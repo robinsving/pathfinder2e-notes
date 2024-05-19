@@ -8,7 +8,6 @@ tags:
 ---
 
 # Icy Disposition
-![[systems-pf2e-icons-equipment-contracts-infernal-contracts-icy-disposition.webp|150]]
 
 **Devil** [[Gelugon]]
 

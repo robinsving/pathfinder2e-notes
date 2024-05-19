@@ -9,7 +9,6 @@ tags:
 ---
 
 # Learn Name
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 You spend a week trying to discover and learn a creature's name. The exact form of your effort varies depending on the skill you use, the resources you have available, and other circumstances. Decide if you are searching for the name of a specific individual or for names in general. If you're looking for the name of an individual, you must be able to clearly identify that individual; for example, "the general leading the invasion" is enough, but "the person who killed the duchess" isn't, if you don't know who killed the duchess. If you're searching for names more generally, name one creature type.
 

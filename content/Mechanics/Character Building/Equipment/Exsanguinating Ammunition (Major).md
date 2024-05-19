@@ -8,7 +8,6 @@ tags:
 ---
 
 # Exsanguinating Ammunition (Major)
-![[systems-pf2e-icons-equipment-consumables-ammunition-exsanguinating-ammunition.webp|150]]
 
 **Ammunition** any
 

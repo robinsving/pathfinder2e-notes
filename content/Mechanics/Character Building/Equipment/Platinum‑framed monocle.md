@@ -8,4 +8,3 @@ tags:
 ---
 
 # Platinum‑framed monocle
-![[systems-pf2e-icons-equipment-treasure-art-objects-greater-art-object-platinum-framed-monocle.webp|150]]

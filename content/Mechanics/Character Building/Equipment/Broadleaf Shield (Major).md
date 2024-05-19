@@ -8,7 +8,6 @@ tags:
 ---
 
 # Broadleaf Shield (Major)
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-equipment-shield-kite-wooden-oak-glow.webp|150]]
 
 Though it resembles an enormous leaf freshly plucked from a tree, a _broadleaf shield_ is extremely durable. It also regrows rapidly, fully repairing itself when broken if it's left in sunlight for 10 consecutive minutes.
 

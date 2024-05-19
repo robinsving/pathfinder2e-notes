@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tradecraft Tattoo (Greater)
-![[icons-skills-trades-smithing-anvil-horseshoe.webp|150]]
 
 Crafters choose tattoos that represent their dedication and skill in their chosen field. Such tattoos might adorn the arm, fingers, or eyes, and they take the form of artistic patterns or depict tools of the trade, such as anvils, paintbrushes, or trowels. You gain a +3 item bonus to Crafting checks. Furthermore, when you roll a critical failure on a Crafting check to [[Earn Income]], treat it as a failure instead.
 

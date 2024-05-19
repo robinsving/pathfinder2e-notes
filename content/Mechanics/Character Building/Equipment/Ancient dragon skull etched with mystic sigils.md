@@ -9,4 +9,3 @@ draft: true
 ---
 
 # Ancient dragon skull etched with mystic sigils
-![[icons-commodities-bones-skull-lizard-tan.webp|150]]

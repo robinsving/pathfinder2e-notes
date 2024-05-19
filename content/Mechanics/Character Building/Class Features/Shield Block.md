@@ -9,6 +9,5 @@ tags:
 ---
 
 # Shield Block
-![[systems-pf2e-icons-features-classes-shield-block.webp|150]]
 
 You gain the [[Shield Block]] general feat, a reaction that lets you reduce damage with your shield.

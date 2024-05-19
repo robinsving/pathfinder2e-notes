@@ -8,7 +8,6 @@ tags:
 ---
 
 # Storyteller's Opus
-![[systems-pf2e-icons-equipment-held-items-storytellers-opus.webp|150]]
 
 This green spellbook with gold trim contains a cautionary story about a boy who was eaten by a wolf after he previously lied about wolf attacks. When opened, the engravings on the front seem to move in a loop, enacting this story.
 

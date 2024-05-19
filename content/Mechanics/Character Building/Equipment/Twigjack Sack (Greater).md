@@ -8,7 +8,6 @@ tags:
 ---
 
 # Twigjack Sack (Greater)
-![[icons-containers-bags-sack-leather-brown-green.webp|150]]
 
 **Activate** 1 Strike
 

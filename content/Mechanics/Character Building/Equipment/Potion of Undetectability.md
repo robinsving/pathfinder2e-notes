@@ -8,7 +8,6 @@ tags:
 ---
 
 # Potion of Undetectability
-![[systems-pf2e-icons-equipment-consumables-potions-potion-of-undetectability.webp|150]]
 
 **Activate** A (manipulate)
 

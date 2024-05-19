@@ -8,7 +8,6 @@ tags:
 ---
 
 # Phantom Roll
-![[systems-pf2e-icons-equipment-alchemical-items-food-phantom-roll.webp|150]]
 
 **Activate** 10 minutes (Interact)
 

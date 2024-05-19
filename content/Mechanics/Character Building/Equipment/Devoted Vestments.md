@@ -8,7 +8,6 @@ tags:
 ---
 
 # Devoted Vestments
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-druids-vestments.webp|150]]
 
 These vestments are made of panels showing various scenes from the legends of a particular deity. It serves as a religious symbol of that deity, and you gain a +2 item bonus to Religion checks. When you cast _harm_ or _heal_, healing granted to followers of that deity is increased by the rank of the spell.
 

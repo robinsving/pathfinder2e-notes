@@ -8,7 +8,6 @@ tags:
 ---
 
 # Victory Plate (Greater)
-![[systems-pf2e-icons-equipment-armor-specific-magic-armor-victory-plate.webp|150]]
 
 The metal plates of this _+2 greater resilient full plate_ are covered by a bright tabard featuring a distinctive coat of arms divided into four fields. This insignia magically records your recent victories, displaying one triumph in each field of the coat of arms, allowing you to call upon those victories for aid in future battles.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Zerk
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-zerk.webp|150]]
 
 This bitter paste is used among some gladiatorial rings for its short-term benefits in a fight.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Class Kit (Alchemist)
-![[systems-pf2e-icons-equipment-adventuring-gear-classkit-alchemist.webp|150]]
 
 **Armor** studded leather armor
 

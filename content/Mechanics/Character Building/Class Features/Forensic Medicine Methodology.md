@@ -9,7 +9,6 @@ tags:
 ---
 
 # Forensic Medicine Methodology
-![[systems-pf2e-icons-features-classes-forensic-medicine-methodology.webp|150]]
 
 You've learned that in most cases, especially murders, criminals tend to leave more evidence of the crime on the body than they'd like to believe. Information from bruising, bone fractures, blood spatters, and even the life cycle of carrion insects can provide valuable clues that help reconstruct the scene.
 

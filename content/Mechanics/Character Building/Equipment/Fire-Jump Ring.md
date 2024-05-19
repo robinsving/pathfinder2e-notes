@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fire-Jump Ring
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-fire-jump-ring.webp|150]]
 
 This dark-red ring is engraved with ashen symbols and smells faintly of smoke.
 

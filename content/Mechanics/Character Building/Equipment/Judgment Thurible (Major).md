@@ -8,7 +8,6 @@ tags:
 ---
 
 # Judgment Thurible (Major)
-![[systems-pf2e-icons-equipment-other-spellhearts-judgment-thurible.webp|150]]
 
 The golden religious symbol on the top of this spherical incense holder shifts its form to match the faith of its bearer. You gain no benefit from a _judgment thurible_ if you don't worship a deity or if your deity is true neutral. The spell DC of any spell cast by activating this item is 43.
 

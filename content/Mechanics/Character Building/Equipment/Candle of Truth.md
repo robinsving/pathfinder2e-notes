@@ -8,7 +8,6 @@ tags:
 ---
 
 # Candle of Truth
-![[icons-sundries-lights-candle-unlit-yellow.webp|150]]
 
 **Activate** A (manipulate)
 

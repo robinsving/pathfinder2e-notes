@@ -8,4 +8,3 @@ tags:
 ---
 
 # Copper statuette of a salamander
-![[systems-pf2e-icons-equipment-treasure-art-objects-lesser-art-object-copper-statuette-of-a-salamander.webp|150]]

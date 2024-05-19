@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Enchantment (Major)
-![[systems-pf2e-icons-equipment-staves-staff-of-enchantment.webp|150]]
 
 A mesmerizing gemstone caps the head of this handsomely crafted wooden staff. While wielding the staff, you gain a +2 circumstance bonus to checks to identify enchantment magic.
 

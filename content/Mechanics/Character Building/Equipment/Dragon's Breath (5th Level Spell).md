@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dragon's Breath (5th Level Spell)
-![[icons-commodities-treasure-token-runed-os-grey.webp|150]]
 
 This rune depicts a specific type of dragon, resizing after application to fit the surface of the item.
 

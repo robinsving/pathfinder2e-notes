@@ -8,7 +8,6 @@ tags:
 ---
 
 # Inquisitive Quill
-![[icons-tools-scribal-ink-quill-red.webp|150]]
 
 **Perception** +11; precise vision 30 feet, imprecise hearing 30 feet
 

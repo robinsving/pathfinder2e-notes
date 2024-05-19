@@ -8,7 +8,6 @@ tags:
 ---
 
 # Infiltrator's Elixir
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-infiltrators-elixir.webp|150]]
 
 **Activate** A Interact
 

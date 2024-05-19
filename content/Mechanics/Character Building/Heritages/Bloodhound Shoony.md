@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Bloodhound Shoony
-![[systems-pf2e-icons-features-ancestry-bloodhound-shoony.webp|150]]
 
 Your ancestors were famous trackers, and you carry in your blood that same gift of the hunt.
 

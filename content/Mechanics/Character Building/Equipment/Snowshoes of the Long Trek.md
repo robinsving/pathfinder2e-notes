@@ -8,7 +8,6 @@ tags:
 ---
 
 # Snowshoes of the Long Trek
-![[systems-pf2e-icons-equipment-adventuring-gear-snowshoes.webp|150]]
 
 These magically enhanced snowshoes are practically a necessity when traversing the gelid tundra and snow-drenched taiga of the Saga Lands.
 

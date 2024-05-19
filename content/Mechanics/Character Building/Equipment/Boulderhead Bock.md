@@ -8,7 +8,6 @@ tags:
 ---
 
 # Boulderhead Bock
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-boulderhead-bock.webp|150]]
 
 **Activate** A Interact
 

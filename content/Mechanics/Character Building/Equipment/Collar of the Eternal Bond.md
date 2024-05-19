@@ -8,7 +8,6 @@ tags:
 ---
 
 # Collar of the Eternal Bond
-![[systems-pf2e-icons-equipment-worn-items-companion-items-collar-of-the-eternal-bond.webp|150]]
 
 When you invest this collar for your eidolon, it changes its appearance to match the eidolon's form, possibly into a different sort of neckpiece such as a choker, and it glows brightly with the symbol you and your eidolon share. While your eidolon wears a collar of the eternal bond, the collar bolsters their connection to you, allowing them to move up to 150 feet from you before unmanifesting instead of 100 feet. The eidolon can also Activate the collar to move even further.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stupor Poison
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-stupor-poison.webp|150]]
 
 **Activate** 2 Interact
 

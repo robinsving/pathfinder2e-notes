@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bloodseeker Beak (Greater)
-![[icons-commodities-claws-claw-insect-brown.webp|150]]
 
 **Activate** F (concentrate)
 

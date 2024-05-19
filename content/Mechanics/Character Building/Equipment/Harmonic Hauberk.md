@@ -8,7 +8,6 @@ tags:
 ---
 
 # Harmonic Hauberk
-![[systems-pf2e-icons-equipment-armor-chainmail.webp|150]]
 
 Rose gold and copper rings in this _+2 resilient chain shirt_ form a vague bird shape. The jingling links tinkle musically, almost like birdsong. While you wear the armor, effects with the auditory trait must first counteract the _harmonic hauberk_ or they have no effect on you.
 

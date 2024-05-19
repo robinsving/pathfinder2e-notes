@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mending Lattice
-![[systems-pf2e-icons-equipment-consumables-talismans-mending-lattice.webp|150]]
 
 **Activate** F (concentrate)
 

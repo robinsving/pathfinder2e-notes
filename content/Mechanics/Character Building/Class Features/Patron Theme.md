@@ -9,7 +9,6 @@ tags:
 ---
 
 # Patron Theme
-![[systems-pf2e-icons-features-classes-patreon-theme.webp|150]]
 
 Each patron has a theme, regardless of their nature or identity. This theme describes the forces over which the patron grants a witch influence. Some patrons are multifaceted, granting different themes and teaching different lessons to different witches. Your patron's theme determines the following.
 

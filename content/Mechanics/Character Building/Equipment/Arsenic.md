@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Arsenic
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-arsenic.webp|150]]
 
 This toxin is a compound of arsenic and other substances. You can't reduce your sickened condition while affected.
 

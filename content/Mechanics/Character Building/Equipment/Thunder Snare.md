@@ -8,7 +8,6 @@ tags:
 ---
 
 # Thunder Snare
-![[systems-pf2e-icons-equipment-snares-thunder-snare.webp|150]]
 
 The snare makes a thunderous noise when a creature enters the snare's square, which can be heard up to 1,000 feet away. The creature must attempt a DC 18 fortitude saving throw.
 

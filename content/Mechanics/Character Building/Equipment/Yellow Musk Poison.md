@@ -8,7 +8,6 @@ tags:
 ---
 
 # Yellow Musk Poison
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-yellow-musk-vial.webp|150]]
 
 The powdered pollen from a yellow musk creeper addles the mind.
 

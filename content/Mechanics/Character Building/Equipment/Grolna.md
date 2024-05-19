@@ -8,7 +8,6 @@ tags:
 ---
 
 # Grolna
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-grolna.webp|150]]
 
 **Activate** A Interact
 

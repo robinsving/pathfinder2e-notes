@@ -8,7 +8,6 @@ tags:
 ---
 
 # Merciful Balm
-![[icons-consumables-potions-bottle-metal-yellow-gray.webp|150]]
 
 **Activate** 1 Interact
 

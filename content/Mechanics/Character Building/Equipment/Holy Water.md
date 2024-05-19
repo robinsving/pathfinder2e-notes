@@ -8,7 +8,6 @@ tags:
 ---
 
 # Holy Water
-![[systems-pf2e-icons-equipment-consumables-other-consumables-holy-water.webp|150]]
 
 **Activate** A Strike
 

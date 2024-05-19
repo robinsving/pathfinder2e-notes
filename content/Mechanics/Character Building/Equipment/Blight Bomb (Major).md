@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blight Bomb (Major)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-bombs-blight-bomb.webp|150]]
 
 **Usage** held in 1 hand
 

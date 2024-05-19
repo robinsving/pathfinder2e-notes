@@ -8,7 +8,6 @@ tags:
 ---
 
 # Focus Cathartic (Moderate)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-focus-cathartic.webp|150]]
 
 **Activate** A Interact
 

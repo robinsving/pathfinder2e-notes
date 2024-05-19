@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stag's Helm
-![[icons-commodities-bones-horn-antler-brown.webp|150]]
 
 This impressive-looking helmet is crafted to resemble the skull of a mighty stag. Although made from bone, the antlers and helm are as strong as iron. While the Stag Lord himself wears this helmet in the _Kingmaker Adventure Path_, stag's helms are actually the creation of the church of [[Erastil]], and worshipers of this deity find that the helm is not only particularly comfortable to wear, but that they can activate it once per hour rather than once per day.
 

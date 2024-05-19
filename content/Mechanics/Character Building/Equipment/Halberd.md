@@ -8,6 +8,5 @@ tags:
 ---
 
 # Halberd
-![[systems-pf2e-icons-equipment-weapons-halberd.webp|150]]
 
 This polearm has a relatively short, 5-foot shaft. The business end is a long spike with an axe blade attached.

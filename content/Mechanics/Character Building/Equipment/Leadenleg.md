@@ -8,7 +8,6 @@ tags:
 ---
 
 # Leadenleg
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-leadenleg.webp|150]]
 
 Once injected, this synthetic toxin sinks into the extremities, numbing them nearly to paralysis.
 

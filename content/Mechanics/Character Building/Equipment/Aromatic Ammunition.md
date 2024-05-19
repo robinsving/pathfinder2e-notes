@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Aromatic Ammunition
-![[systems-pf2e-icons-equipment-consumables-ammunition-aromatic-ammunition.webp|150]]
 
 **Ammunition** any
 

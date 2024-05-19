@@ -8,4 +8,3 @@ tags:
 ---
 
 # Gilded scepter with sapphire
-![[systems-pf2e-icons-equipment-treasure-art-objects-greater-art-object-gilded-scepter-with-sapphire.webp|150]]

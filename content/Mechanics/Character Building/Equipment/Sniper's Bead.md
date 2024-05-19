@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sniper's Bead
-![[systems-pf2e-icons-equipment-consumables-talismans-snipers-bead.webp|150]]
 
 **Usage** affixed to a two-handed firearm or crossbow
 

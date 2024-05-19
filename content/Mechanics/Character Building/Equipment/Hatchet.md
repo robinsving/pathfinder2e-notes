@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hatchet
-![[icons-weapons-axes-axe-broad-black.webp|150]]
 
 [Agile](https://2e.aonprd.com/Traits.aspx?ID=170) [Sweep](https://2e.aonprd.com/Traits.aspx?ID=194) [Thrown  10 ft.](https://2e.aonprd.com/Traits.aspx?ID=195)   
 **Source** [_Core Rulebook pg. 280_](https://2e.aonprd.com/Sources.aspx?ID=1) [4.0](https://2e.aonprd.com/Sources.aspx?ID=1)  

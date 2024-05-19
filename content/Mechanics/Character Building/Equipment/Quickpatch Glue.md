@@ -8,7 +8,6 @@ tags:
 ---
 
 # Quickpatch Glue
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-quickpatch-glue.webp|150]]
 
 **Activate** 1 minute (Interact)
 

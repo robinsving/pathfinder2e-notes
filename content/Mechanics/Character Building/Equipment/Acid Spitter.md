@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Acid Spitter
-![[systems-pf2e-icons-features-ancestry-sandstrider-lizardfolk.webp|150]]
 
 This tin clockwork lizard is activated when a creature moves adjacent to it, at which point it spits out a glob of acid. The target must succeed at a DC 20 reflex saving throw or take 3d6 acid damage.
 

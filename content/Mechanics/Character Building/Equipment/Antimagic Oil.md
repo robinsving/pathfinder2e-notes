@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Antimagic Oil
-![[systems-pf2e-icons-equipment-consumables-oils-antimagic-oil.webp|150]]
 
 **Activate** A (manipulate)
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Primordial Flame
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-magic-light-torch-fire-orange.webp|150]]
 
 Created by the Kellid goddess Sister Cinder to lead her believers out of the Age of Darkness, this hand-held lamp is constructed from animal bone, hide, and sinew, and it contains an eternal flame that requires neither fuel nor oxygen to burn. The lamp's flame can be covered or hidden, but it can't be smothered or quenched. While uncovered, the _Primordial Flame_ sheds bright light in a 100-foot radius (and dim light for the next 100 feet). If the light passes through an area of magical darkness or targets a creature affected by magical darkness, the _Primordial Flame_ attempts to counteract the darkness with a counteract level of 10 and a counteract modifier of +35.
 

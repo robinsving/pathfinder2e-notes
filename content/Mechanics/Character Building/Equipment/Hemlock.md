@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hemlock
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-hemlock.webp|150]]
 
 Concentrated hemlock is a particularly deadly toxin that halts muscle action-including that of the victim's heart.
 

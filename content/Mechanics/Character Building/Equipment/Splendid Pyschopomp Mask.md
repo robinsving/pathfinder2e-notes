@@ -8,4 +8,3 @@ tags:
 ---
 
 # Splendid Pyschopomp Mask
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-persona-mask.webp|150]]

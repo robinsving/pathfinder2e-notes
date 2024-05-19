@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Illumination
-![[systems-pf2e-icons-equipment-staves-staff-of-illumination.webp|150]]
 
 This simple iron staff is capped with a faceted, clear gem.
 

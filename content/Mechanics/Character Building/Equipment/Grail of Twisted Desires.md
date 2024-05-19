@@ -8,7 +8,6 @@ tags:
 ---
 
 # Grail of Twisted Desires
-![[systems-pf2e-icons-equipment-held-items-grail-of-twisted-desires.webp|150]]
 
 This timeworn chalice is constructed of dull tin. It has an unassuming appearance save for the gold, silver, and ebony rings that encircle its rim.
 

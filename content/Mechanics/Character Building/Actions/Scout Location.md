@@ -9,7 +9,6 @@ tags:
 ---
 
 # Scout Location
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 You spend time observing the place or group you wish to infiltrate. Attempt a normal, hard, or very hard DC Perception, Society or Stealth check.
 

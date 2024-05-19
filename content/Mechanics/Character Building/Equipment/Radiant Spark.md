@@ -8,7 +8,6 @@ tags:
 ---
 
 # Radiant Spark
-![[systems-pf2e-icons-equipment-held-items-radiant-spark.webp|150]]
 
 This shining prism is bound within a golden frame. The bright glow within the artifact is the gleaming essence of celestials bound within it in ancient times. Each activation consumes a bit of this celestial energy, projecting the screams of the celestials into your mind.
 

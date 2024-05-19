@@ -9,7 +9,6 @@ tags:
 ---
 
 # Empiricism Methodology
-![[systems-pf2e-icons-features-classes-empiricism-methodology.webp|150]]
 
 Everything comes down to data. Calculating statistics, running numbers, and using inductive reasoning allows you to determine the most likely outcome of any scenario, and anything out of place draws your keen attention.
 

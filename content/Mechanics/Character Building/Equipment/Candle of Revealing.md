@@ -8,7 +8,6 @@ tags:
 ---
 
 # Candle of Revealing
-![[systems-pf2e-icons-equipment-consumables-other-consumables-candle-of-revealing.webp|150]]
 
 **Activate** 1 Interact
 

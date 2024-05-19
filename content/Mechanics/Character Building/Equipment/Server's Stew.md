@@ -8,7 +8,6 @@ tags:
 ---
 
 # Server's Stew
-![[systems-pf2e-icons-equipment-consumables-other-consumables-servers-stew.webp|150]]
 
 **Activate** 1 Interact
 

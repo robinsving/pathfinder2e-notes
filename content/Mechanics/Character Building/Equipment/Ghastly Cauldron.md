@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ghastly Cauldron
-![[systems-pf2e-icons-equipment-adventuring-gear-bountiful-cauldron.webp|150]]
 
 This black cooking pot can produce a feast fit for undead.
 

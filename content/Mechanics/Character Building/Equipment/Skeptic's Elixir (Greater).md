@@ -8,7 +8,6 @@ tags:
 ---
 
 # Skeptic's Elixir (Greater)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-skeptics-elixir.webp|150]]
 
 **Duration** 1 hour
 

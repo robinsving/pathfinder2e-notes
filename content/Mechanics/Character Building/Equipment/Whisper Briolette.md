@@ -8,7 +8,6 @@ tags:
 ---
 
 # Whisper Briolette
-![[systems-pf2e-icons-equipment-consumables-talismans-whisper-briolette.webp|150]]
 
 **Usage** affixed to armor or to an outfit if a character has no armor
 

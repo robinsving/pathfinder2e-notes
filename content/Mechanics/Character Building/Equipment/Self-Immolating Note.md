@@ -8,7 +8,6 @@ tags:
 ---
 
 # Self-Immolating Note
-![[icons-sundries-scrolls-scroll-bound-sealed-red-tan.webp|150]]
 
 **Activate** 1 Interact
 

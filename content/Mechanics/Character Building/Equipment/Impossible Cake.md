@@ -8,7 +8,6 @@ tags:
 ---
 
 # Impossible Cake
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tapas-impossible-cake.webp|150]]
 
 **Activate** 1 Interact
 

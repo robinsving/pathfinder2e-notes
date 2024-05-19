@@ -8,7 +8,6 @@ tags:
 ---
 
 # Nightmare Salt
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-nightmare-salt.webp|150]]
 
 This potent poison consists of crystals whose flavor and appearance mimics edible salt but whose effects are deadly: victims experience periods of waking nightmares that overload the senses and eventually result in death through a combination of shock and exhaustion.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Snarling Badger (Moderate)
-![[icons-equipment-neck-collar-carved-runed-gimel-grey.webp|150]]
 
 **Activate** f command
 

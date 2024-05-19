@@ -8,7 +8,6 @@ tags:
 ---
 
 # Moonlit Chain
-![[systems-pf2e-icons-equipment-armor-specific-magic-armor-moonlit-chain.webp|150]]
 
 This _+1 silver chain_ shirt has a collar adorned with stitched images of the phases of the moon. You can see in moonlight as though you had low-light vision.
 

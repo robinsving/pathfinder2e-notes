@@ -10,7 +10,6 @@ tags:
 ---
 
 # Marvelous Miniature (Boat)
-![[icons-tools-nautical-steering-wheel.webp|150]]
 
 **Activate** 1 (manipulate)
 

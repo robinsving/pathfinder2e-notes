@@ -8,7 +8,6 @@ tags:
 ---
 
 # Specialist's Ring (Illusion)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-specialists-ring.webp|150]]
 
 This _specialist's ring_ is dedicated to the illusion school of magic, and the ring is covered in symbols and glyphs related to the illusion school according to the creator's arcane studies. You gain a +2 item bonus to Arcana checks, and a +1 circumstance bonus to recognize magical effects and items of the illusion school of magic.
 

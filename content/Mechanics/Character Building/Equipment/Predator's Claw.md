@@ -10,7 +10,6 @@ tags:
 ---
 
 # Predator's Claw
-![[icons-commodities-claws-claw-bear-brown.webp|150]]
 
 **Activate** F (concentrate)
 

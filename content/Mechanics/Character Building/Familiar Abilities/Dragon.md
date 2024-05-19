@@ -9,6 +9,5 @@ tags:
 ---
 
 # Dragon
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 Your familiar has the dragon trait instead of the animal trait.

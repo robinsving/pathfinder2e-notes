@@ -8,7 +8,6 @@ tags:
 ---
 
 # Terror Spores
-![[icons-commodities-materials-bowl-powder-grey.webp|150]]
 
 **Activate** 1 Interact
 

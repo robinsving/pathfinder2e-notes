@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spectral Nightshade
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-spectral-nightshade.webp|150]]
 
 **Activate** 1 Interact
 

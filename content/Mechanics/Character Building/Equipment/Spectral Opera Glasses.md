@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spectral Opera Glasses
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-spectacles-of-understanding.webp|150]]
 
 These bulky opera glasses are attached to a rod for ease of use. When held up to the eyes, which requires a free hand, you can see up to four times further than normal, and the glasses provide you a +2 item bonus to Perception checks.
 

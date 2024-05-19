@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Air (Major)
-![[icons-weapons-staves-staff-simple.webp|150]]
 
 Carved from white ash wood, a _staff of air_ crackles with electrical sparks, and a breeze always follows the wielder. While wielding a staff of air, you feel lighter on your feet, and you can Step into difficult terrain once per round.
 

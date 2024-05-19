@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lifeblight Residue
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-lifeblight-residue.webp|150]]
 
 **Activate** 2 Interact
 

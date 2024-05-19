@@ -9,7 +9,6 @@ tags:
 ---
 
 # Spellstrike
-![[systems-pf2e-icons-features-classes-spellstrike.webp|150]]
 
 You've learned the fundamental magus technique that lets you combine magical and physical attacks together. You gain the [[Spellstrike]] activity.
 

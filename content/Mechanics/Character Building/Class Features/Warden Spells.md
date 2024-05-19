@@ -9,7 +9,6 @@ tags:
 ---
 
 # Warden Spells
-![[icons-magic-nature-leaf-elm-sparkle-glow-green.webp|150]]
 
 Your relationship with the world around you extends from the physical to the magical. Certain feats grant you warden spells, which are a type of focus spells. It costs 1 Focus Point (FP) to cast a focus spell. When you gain your first warden spell, you also gain a focus pool of 1 FP. You refill your focus pool during your daily preparations, and you regain 1 FP by spending 10 minutes using the Refocus activity to commune with nature.
 

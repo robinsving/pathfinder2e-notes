@@ -8,4 +8,3 @@ tags:
 ---
 
 # Famous portrait by a master
-![[systems-pf2e-icons-equipment-treasure-art-objects-greater-art-object-famous-portrait-by-a-master.webp|150]]

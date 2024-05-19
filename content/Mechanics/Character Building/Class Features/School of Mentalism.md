@@ -9,7 +9,6 @@ tags:
 ---
 
 # School of Mentalism
-![[icons-sundries-books-book-purple-glyph.webp|150]]
 
 As a scholar, you know all too well the importance of a sound mind. Thus, you attended a school—like the Farseer Tower or the Stone of the Seers—that taught the arts of befuddling lesser minds with figments and illusions or implanted sensations and memories.
 

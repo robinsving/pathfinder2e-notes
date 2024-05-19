@@ -8,7 +8,6 @@ tags:
 ---
 
 # Jolt Coil
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-commodities-tech-tube-chamber-lightning.webp|150]]
 
 Contained within this small glass tube is a twisted wire filament crackling with electricity, sending static prickling through the hair of anyone holding it. The spell DC of any spell cast by activating this item is 17.
 

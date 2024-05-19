@@ -8,7 +8,6 @@ tags:
 ---
 
 # Instructions for Lasting Agony
-![[icons-sundries-books-book-face-black.webp|150]]
 
 This worn and stained manual emits a chill when opened.
 

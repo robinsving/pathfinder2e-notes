@@ -8,4 +8,3 @@ tags:
 ---
 
 # Chalk
-![[systems-pf2e-icons-equipment-adventuring-gear-chalk.webp|150]]

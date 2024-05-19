@@ -8,7 +8,6 @@ tags:
 ---
 
 # Frozen Lava
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-magic-fire-barrier-shield-explosion-yellow.webp|150]]
 
 **Activate** A (manipulate)
 

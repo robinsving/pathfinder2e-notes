@@ -8,7 +8,6 @@ tags:
 ---
 
 # Special Ingredient
-![[icons-consumables-meat-ribs-bones-glowing-pink.webp|150]]
 
 Special ingredients are exceptionally rare or dangerous to gather.
 

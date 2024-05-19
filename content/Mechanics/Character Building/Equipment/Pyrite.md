@@ -8,4 +8,3 @@ tags:
 ---
 
 # Pyrite
-![[systems-pf2e-icons-equipment-treasure-gems-lesser-semiprecious-stones-pyrite.webp|150]]

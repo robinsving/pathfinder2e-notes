@@ -8,7 +8,6 @@ tags:
 ---
 
 # Class Kit (Barbarian)
-![[systems-pf2e-icons-equipment-adventuring-gear-classkit-barbarian.webp|150]]
 
 **Armor** hide armor
 

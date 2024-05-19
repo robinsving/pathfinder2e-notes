@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gunner's Bandolier
-![[systems-pf2e-icons-equipment-adventuring-gear-shootist-bandolier.webp|150]]
 
 This incredibly spacious bandolier can hold up to 4 one-handed crossbows or firearms that take no more than 1 action to completely reload (typically meaning that weapons with the capacity or repeating traits won't fit in the bandolier's holsters). A _gunner's bandolier_ can be etched with runes as though it were a ranged weapon. When you invest the _gunner's bandolier_, you can attune it to each of the 4 weapons holstered in it.
 

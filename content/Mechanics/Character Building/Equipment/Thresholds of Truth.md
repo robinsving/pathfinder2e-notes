@@ -8,7 +8,6 @@ tags:
 ---
 
 # Thresholds of Truth
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-sundries-books-book-turquoise-moon.webp|150]]
 
 Zarmavdian's spellbook, _Thresholds of Truth_, was once a straightforward treatise on arcane and occult lore containing several useful spells. It's been so heavily annotated, however, that the original text is hard to read. It's clear that Zarmavdian wanted to prevent eldritch creatures from manipulating innocent minds, but his spellbook is a treasure trove for those seeking dangerous or inscrutable lore. The bookseller Morlibint currently keeps this book in his collection at Odd Stories.
 

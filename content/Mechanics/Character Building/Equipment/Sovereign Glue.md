@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sovereign Glue
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-soverign-glue.webp|150]]
 
 **Activate** 1 minute (Interact)
 

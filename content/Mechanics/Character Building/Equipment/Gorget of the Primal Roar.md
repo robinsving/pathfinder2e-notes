@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gorget of the Primal Roar
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-gorget-of-the-primal-roar.webp|150]]
 
 This engraved darkwood gorget seems to vibrate with ferocity, granting you a +2 item bonus to Intimidation checks.
 

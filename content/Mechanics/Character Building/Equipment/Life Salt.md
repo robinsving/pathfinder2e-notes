@@ -8,7 +8,6 @@ tags:
 ---
 
 # Life Salt
-![[systems-pf2e-icons-equipment-consumables-other-consumables-life-salt.webp|150]]
 
 **Activate** 1 Strike
 

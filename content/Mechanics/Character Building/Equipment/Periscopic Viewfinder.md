@@ -8,7 +8,6 @@ tags:
 ---
 
 # Periscopic Viewfinder
-![[systems-pf2e-icons-equipment-held-items-periscopic-viewfinder.webp|150]]
 
 **Activate** 1 Interact
 

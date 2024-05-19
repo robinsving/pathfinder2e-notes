@@ -8,7 +8,6 @@ tags:
 ---
 
 # Uniter of Clans
-![[icons-commodities-treasure-token-gold-cross.webp|150]]
 
 Resembling two hands clasped in friendship, this diplomat's badge is designed to be woven into the wearer's braided beard. When the wearer befriends others, one of the hands briefly transforms to resemble the befriended creature's own.
 

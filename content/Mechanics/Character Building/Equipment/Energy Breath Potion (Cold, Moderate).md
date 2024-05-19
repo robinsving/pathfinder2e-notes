@@ -8,7 +8,6 @@ tags:
 ---
 
 # Energy Breath Potion (Cold, Moderate)
-![[systems-pf2e-icons-equipment-consumables-potions-white-dragons-breath-potion.webp|150]]
 
 **Activate 1** (manipulate)
 

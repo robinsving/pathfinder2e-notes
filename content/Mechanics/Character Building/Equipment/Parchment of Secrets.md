@@ -8,7 +8,6 @@ tags:
 ---
 
 # Parchment of Secrets
-![[icons-sundries-scrolls-scroll-writing-brown-gold.webp|150]]
 
 **Access** Member of a secret society
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Desiccating Scepter
-![[icons-weapons-staves-staff-blue-jewel.webp|150]]
 
 Often wielded by priests of cruel desert gods, this thin scepter is carved from dry, yellowed bone and can destroy the moisture in anything it touches.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Singularity Ammunition
-![[systems-pf2e-icons-equipment-consumables-ammunition-singularity-ammunition.webp|150]]
 
 **Ammunition** Any
 

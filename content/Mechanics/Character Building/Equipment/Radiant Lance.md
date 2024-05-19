@@ -8,7 +8,6 @@ tags:
 ---
 
 # Radiant Lance
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-radiant-lance.webp|150]]
 
 When wielded in battle, these silver lances blaze with light. A _radiant lance_ is a _+2 greater striking [[Holy]] [[Flaming]] silver lance_.
 

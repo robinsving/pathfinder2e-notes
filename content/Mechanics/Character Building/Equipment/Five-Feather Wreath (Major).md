@@ -8,7 +8,6 @@ tags:
 ---
 
 # Five-Feather Wreath (Major)
-![[systems-pf2e-icons-equipment-other-spellhearts-five-feather-wreath.webp|150]]
 
 Identical feathers radiate from the center of this spellheart, held in place by woven straw. The spell attack roll of any spell cast by Activating this item is +19, and the spell DC is 29.
 

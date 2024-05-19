@@ -8,4 +8,3 @@ tags:
 ---
 
 # Pearl, irregular freshwater
-![[icons-commodities-gems-pearl-natural.webp|150]]

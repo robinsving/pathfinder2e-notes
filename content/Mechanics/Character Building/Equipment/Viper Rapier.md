@@ -8,7 +8,6 @@ tags:
 ---
 
 # Viper Rapier
-![[systems-pf2e-icons-equipment-weapons-rapier.webp|150]]
 
 Crafted from flawless jade, the guard of this rapier takes the form of a twisting serpent with the blade thrusting from its open mouth. This rapier functions as a _+3 greater striking speed_ rapier. While wielding the rapier, your movement doesn't trigger reactions when you [[Stride]], [[Balance]], or [[Tumble Through]]. When you invest the rapier, you either increase your Dexterity score by 2 or increase it to 18, whichever is higher.
 

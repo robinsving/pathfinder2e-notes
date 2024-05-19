@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sneaky Key
-![[systems-pf2e-icons-equipment-consumables-talismans-sneaky-key.webp|150]]
 
 **Activate** A (manipulate)
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Scroll of 5th-rank Spell
-![[icons-sundries-scrolls-scroll-symbol-eye-brown.webp|150]]
 
 Casting a Spell from a scroll requires holding the scroll in one hand and activating it with a Cast a Spell activity using the normal number of actions for that spell.
 

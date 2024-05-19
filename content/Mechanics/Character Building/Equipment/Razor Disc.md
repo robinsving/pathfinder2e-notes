@@ -8,7 +8,6 @@ tags:
 ---
 
 # Razor Disc
-![[systems-pf2e-icons-equipment-shields-razor-disc.webp|150]]
 
 Integrated 1d6 S, shield throw 20 ft.
 

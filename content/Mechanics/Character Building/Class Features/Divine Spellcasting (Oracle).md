@@ -9,7 +9,6 @@ tags:
 ---
 
 # Divine Spellcasting (Oracle)
-![[systems-pf2e-icons-features-classes-divine-spellcasting.webp|150]]
 
 Your mystery provides you with divine magical power. You can cast spells using the Cast a Spell activity, and you can supply material, somatic, and verbal components when casting spells. your unconventional access to this divine power means you can usually replace material components with somatic components, so you don't need to use a material component pouch when casting spells.
 

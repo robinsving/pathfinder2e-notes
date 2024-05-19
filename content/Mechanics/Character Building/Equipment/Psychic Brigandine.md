@@ -8,7 +8,6 @@ tags:
 ---
 
 # Psychic Brigandine
-![[systems-pf2e-icons-equipment-armor-specific-magic-armor-psychic-brigandine.webp|150]]
 
 Transparent crystals as hard as steel take the place of metal plates on this suit of +2 greater invisibility splint mail. Also known as a coat of a thousand thoughts in Vudra and Jalmeray, where it was first developed by psychic warriors, it makes your mind an indomitable fortress. You gain resistance 5 to mental damage.
 

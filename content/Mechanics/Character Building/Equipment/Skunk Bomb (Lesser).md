@@ -8,7 +8,6 @@ tags:
 ---
 
 # Skunk Bomb (Lesser)
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-magic-air-fog-gas-smoke-orange.webp|150]]
 
 **Activate** 1 Strike
 

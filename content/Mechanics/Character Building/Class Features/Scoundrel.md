@@ -9,7 +9,6 @@ tags:
 ---
 
 # Scoundrel
-![[systems-pf2e-icons-features-classes-scoundrel.webp|150]]
 
 You use fast-talking, flattery, and a silver tongue to avoid danger and escape tricky situations. You might be a grifter or con artist, or you might use your skills in certain reputable professions, like a barrister or diplomat.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wasul Reed Mask
-![[systems-pf2e-icons-equipment-treasure-art-objects-lesser-art-object-silk-mask-decorated-with-citrines.webp|150]]
 
 This mask is made of Darklands wasul reeds, which have been alchemically treated to enhance their air-retaining properties when submerged in water.
 

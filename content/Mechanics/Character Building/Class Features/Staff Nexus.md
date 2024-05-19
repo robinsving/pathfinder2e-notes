@@ -9,7 +9,6 @@ tags:
 ---
 
 # Staff Nexus
-![[icons-weapons-staves-staff-ornate-jeweled-blue.webp|150]]
 
 Your thesis maintains that early and intense adoption of staves from the first days of study can create a symbiotic bond between spellcaster and staff, allowing them to create remarkable magic together. You've formed such a connection with a makeshift staff you built, and you are ready to infuse any staff you encounter with greater power.
 

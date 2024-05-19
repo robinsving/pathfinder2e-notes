@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ferrofluid Urchin (Moderate)
-![[systems-pf2e-icons-equipment-snares-caltrop-snare.webp|150]]
 
 **Activate** F (concentrate) Prerequisites You have the armor specialization effect of the affixed armor
 

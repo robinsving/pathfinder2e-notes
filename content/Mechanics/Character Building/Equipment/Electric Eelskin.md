@@ -8,7 +8,6 @@ tags:
 ---
 
 # Electric Eelskin
-![[systems-pf2e-icons-equipment-armor-specific-magic-armor-electric-eelskin.webp|150]]
 
 Shining, slippery eelskin covers the plates of this +1 _resilient greater slick leather armor_. The armor gives you the ability to breathe water and grants you a +2 item bonus to Athletics checks to Swim and Stealth checks you attempt in the water.
 

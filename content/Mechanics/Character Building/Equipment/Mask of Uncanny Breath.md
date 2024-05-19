@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mask of Uncanny Breath
-![[icons-commodities-bones-skull-weird.webp|150]]
 
 A thin wooden mask carved in the shape of a skull, monstrous face, or eerily featureless visage, a _mask of uncanny breath_ fully covers your face. While wearing it, each breath you take feels cool and pure, perfectly flowing to feed your ki. You gain resistance 10 to inhaled poisons and can breathe in an airless or toxic environment. When you breathe in, fragments of bizarre knowledge flow through you, granting you a +2 item bonus to Occultism checks.  
 **Activate**F envision

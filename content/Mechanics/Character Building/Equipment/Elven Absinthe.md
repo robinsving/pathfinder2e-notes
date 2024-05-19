@@ -8,7 +8,6 @@ tags:
 ---
 
 # Elven Absinthe
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-elven-absinthe.webp|150]]
 
 Specialists in Kyonin prepare this emerald-green beverage.
 

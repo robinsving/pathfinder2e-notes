@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tactician's Helm
-![[icons-equipment-head-helm-spangen.webp|150]]
 
 Repurposing and enchanting a helmet worn by a battlefield commander can create a tactician's helm, imparting knowledge of battlefield tactics that feeds off your minor victories. The helm grants you a +1 item bonus to Warfare Lore checks. Also, a jewel adorns the brow of the helmet. This jewel becomes charged each time you hit a creature with a [[Mechanics/Character Building/Actions/Reactive Strike]]. A tactician's helm can hold up to 2 charges, and its charges reset to 0 when you invest it.
 

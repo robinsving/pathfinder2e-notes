@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Bangles of Crowns
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-ring-of-lies.webp|150]]
 
 This pair of silver bangles is engraved with images of crowns. While wearing the bangles, you are filled with an overwhelming sense of assertiveness and a more commanding presence. You gain a +3 item bonus to Intimidation checks. When you invest the bangles, you either increase your Charisma score by 2 or increase it to 18, whichever is higher.
 

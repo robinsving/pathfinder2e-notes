@@ -8,7 +8,6 @@ tags:
 ---
 
 # Potion of Acid Retaliation (Minor)
-![[systems-pf2e-icons-equipment-consumables-potions-potion-of-acid-retalliation.webp|150]]
 
 **Activate** 1 Interact
 

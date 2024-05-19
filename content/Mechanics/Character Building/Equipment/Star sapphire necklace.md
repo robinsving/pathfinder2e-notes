@@ -8,4 +8,3 @@ tags:
 ---
 
 # Star sapphire necklace
-![[icons-equipment-neck-pendant-rough-blue.webp|150]]

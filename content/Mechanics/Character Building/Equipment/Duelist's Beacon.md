@@ -8,7 +8,6 @@ tags:
 ---
 
 # Duelist's Beacon
-![[systems-pf2e-icons-equipment-shields-specific-shields-duelists-beacon.webp|150]]
 
 A spiked glove is attached to the front of this _buckler_, functioning as _+1 striking shield spikes_. Perforations and slits line the defensive side, shining bright light through them when the item's magic is activated.
 

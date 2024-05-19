@@ -8,7 +8,6 @@ tags:
 ---
 
 # Class Kit (Rogue)
-![[systems-pf2e-icons-equipment-adventuring-gear-classkit-rogue.webp|150]]
 
 **Armor** leather armor
 

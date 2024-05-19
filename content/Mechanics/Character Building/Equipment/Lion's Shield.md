@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lion's Shield
-![[systems-pf2e-icons-equipment-shields-specific-shields-lions-shield.webp|150]]
 
 This steel shield (Hardness 6, HP 36, BT 18) is forged into the shape of a roaring lion's head. The lion's head functions as _+1 striking shield boss_ that can't be removed from the shield.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hunter's Dawn
-![[systems-pf2e-icons-equipment-artifacts-hunters-dawn.webp|150]]
 
 _Hunter's Dawn_ is a _+3 greater striking [[Quickstrike|Speed]] [[Ghost Touch]] club_.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Time Shield Potion
-![[systems-pf2e-icons-equipment-consumables-potions-time-shield-potion.webp|150]]
 
 **Activate** A (manipulate)
 

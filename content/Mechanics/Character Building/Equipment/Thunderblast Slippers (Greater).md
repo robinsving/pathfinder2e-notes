@@ -8,7 +8,6 @@ tags:
 ---
 
 # Thunderblast Slippers (Greater)
-![[icons-equipment-feet-shoes-leather-simple-brown.webp|150]]
 
 Unassuming in appearance, these slippers indicate their nature only with a signature strip of yellow stitching. You gain a +2 item bonus to Acrobatics checks.
 

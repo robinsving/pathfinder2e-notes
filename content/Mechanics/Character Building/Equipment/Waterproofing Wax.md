@@ -8,7 +8,6 @@ tags:
 ---
 
 # Waterproofing Wax
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-liars-demise.webp|150]]
 
 **Activate** Cast a Spell
 

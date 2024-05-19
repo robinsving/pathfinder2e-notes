@@ -8,7 +8,6 @@ tags:
 ---
 
 # Potion of Quickness
-![[systems-pf2e-icons-equipment-consumables-potions-potion-of-quickness.webp|150]]
 
 **Activate** A (manipulate)
 

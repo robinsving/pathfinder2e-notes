@@ -8,7 +8,6 @@ tags:
 ---
 
 # King's Sleep
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-kings-sleep.webp|150]]
 
 King's sleep is an insidious long-term poison that can seem like a disease or even death from natural causes on a venerable target. The drained condition from king's sleep is cumulative with each failed save and can't be removed while the poison lasts.
 

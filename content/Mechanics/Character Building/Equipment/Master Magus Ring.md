@@ -8,7 +8,6 @@ tags:
 ---
 
 # Master Magus Ring
-![[icons-equipment-finger-ring-faceted-engraved-gold-purple.webp|150]]
 
 Elegant jewelry such as the _master magus ring_ adorns experienced magi. Each ring has a significant metal and symbol to represent a particular hybrid study, such as a heavy iron ring with an icon of a mountain for [[Inexorable Iron]], or glittering silver with a shield-like emblem for [[Sparkling Targe]]. You gain a +2 item bonus to Arcana checks.
 

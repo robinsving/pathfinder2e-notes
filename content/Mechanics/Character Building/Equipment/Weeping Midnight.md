@@ -8,7 +8,6 @@ tags:
 ---
 
 # Weeping Midnight
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-weeping-midnight.webp|150]]
 
 Alchemists have refined the devastatingly allergenic pollen of the widow orchid to create this venom, which swiftly causes the victim's eyes to leak mucus and swell shut.
 

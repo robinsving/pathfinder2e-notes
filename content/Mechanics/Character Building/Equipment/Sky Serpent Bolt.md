@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sky Serpent Bolt
-![[systems-pf2e-icons-equipment-consumables-ammunition-sky-serpent-bolt.webp|150]]
 
 **Activate** 1 or 2 Interact
 

@@ -8,4 +8,3 @@ tags:
 ---
 
 # Brass scepter with amethyst head
-![[systems-pf2e-icons-equipment-treasure-art-objects-lesser-art-object-brass-scepter-with-amethyst-head.webp|150]]

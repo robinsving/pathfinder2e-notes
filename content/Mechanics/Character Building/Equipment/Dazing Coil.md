@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dazing Coil
-![[systems-pf2e-icons-equipment-consumables-talismans-dazing-coil.webp|150]]
 
 **Activate** F (concentrate)
 

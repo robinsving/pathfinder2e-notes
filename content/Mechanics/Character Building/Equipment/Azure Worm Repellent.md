@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Azure Worm Repellent
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-azure-worm-repellent.webp|150]]
 
 Cave worm repellent is a highly noxious oil that can be applied to a creature or sprinkled in a circle around a 10-foot-radius area. In either case, after it is applied, it lasts for 24 hours or until it is scrubbed clean with 1 minute of work.
 

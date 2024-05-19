@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Aboutface Figurehead
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-commodities-treasure-bust-carved-stone.webp|150]]
 
 **Usage** attached to a ship’s bow
 

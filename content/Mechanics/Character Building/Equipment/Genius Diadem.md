@@ -8,7 +8,6 @@ tags:
 ---
 
 # Genius Diadem
-![[systems-pf2e-icons-equipment-intelligent-items-genius-diadem.webp|150]]
 
 **Perception** +22; precise vision 30 feet, imprecise hearing 30 feet, constant _detect magic_
 

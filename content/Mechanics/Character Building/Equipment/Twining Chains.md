@@ -8,7 +8,6 @@ tags:
 ---
 
 # Twining Chains
-![[systems-pf2e-icons-equipment-weapons-spiked-chain.webp|150]]
 
 This set of chains is completely covered with spikes and sharp blades. Not balanced for weapon use, twining chains are instead wrapped around a user's body as a deterrent to attackers-and, for some, a fashion statement. While wearing twining chains, you gain the Thorns reaction. In addition to their dangers, twining chains' weight also increases your armor's Bulk by 1, Strength entry value by 2, and check penalty by 2.
 

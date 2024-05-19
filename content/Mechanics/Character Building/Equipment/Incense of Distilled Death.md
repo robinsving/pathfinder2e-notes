@@ -8,7 +8,6 @@ tags:
 ---
 
 # Incense of Distilled Death
-![[systems-pf2e-icons-equipment-consumables-other-consumables-incense-of-distilled-death.webp|150]]
 
 **Activate** 1 Interact
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Deductive Improvisation
-![[systems-pf2e-icons-features-classes-deductive-improvisation.webp|150]]
 
 You use your skills at deduction to perform whatever task is necessary to solve the case.
 

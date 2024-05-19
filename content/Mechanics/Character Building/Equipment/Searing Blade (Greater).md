@@ -8,7 +8,6 @@ tags:
 ---
 
 # Searing Blade (Greater)
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-flame-tongue.webp|150]]
 
 This _+3 greater striking [[Flaming (Greater)|Greater Flaming]] longsword_ has an ornate brass hilt and a blade shaped like stylized flames. When wielded, the blade projects illumination resembling shimmering firelight, emitting dim light in a 10-foot radius.
 

@@ -8,4 +8,3 @@ tags:
 ---
 
 # Scrimshaw whale bone
-![[icons-commodities-bones-horn-engraved-stripes-white.webp|150]]

@@ -9,4 +9,3 @@ draft: true
 ---
 
 # Backpack Ballista Bolt
-![[systems-pf2e-icons-equipment-consumables-ammunition-backpack-ballista-bolt.webp|150]]

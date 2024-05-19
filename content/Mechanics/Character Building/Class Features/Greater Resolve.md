@@ -9,7 +9,6 @@ tags:
 ---
 
 # Greater Resolve
-![[systems-pf2e-icons-features-classes-greater-resolve.webp|150]]
 
 Your unbelievable training grants you mental resiliency.
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Ancestral Embrace
-![[icons-equipment-chest-breastplate-banded-simple-leather-brown.webp|150]]
 
 This brightly colored _+4 major resilient leather armor_ is inscribed with a spiral that has no end or beginning. Though it is a symbol of the ancient religion of Holy Xatramba, it also serves as a religious symbol of Pharasma. When you invest the armor, you gain void resistance 25 and can draw on the power of your ancestors. You gain an ancestry feat from your ancestry; the feat can be any level, but you must meet any other prerequisites of the feat. You lose the feat when the investment ends, and you can select a different feat each time you invest the armor again.
 

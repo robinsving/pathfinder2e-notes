@@ -9,7 +9,6 @@ tags:
 ---
 
 # Raise a Shield
-![[systems-pf2e-icons-actions-raise-a-shield.webp|150]]
 
 **Requirements** You are wielding a shield.
 

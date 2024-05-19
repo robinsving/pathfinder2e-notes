@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bloodline: Draconic
-![[icons-commodities-biological-wing-lizard-pink-purple.webp|150]]
 
 The blood of dragons flows through your veins. These beasts are both fearsome in combat and skilled at magic
 

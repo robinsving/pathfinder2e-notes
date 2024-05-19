@@ -8,7 +8,6 @@ tags:
 ---
 
 # Experimental Clothing
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-experimental-clothing.webp|150]]
 
 Experimental clothing is custom tailored in radical, avant-garde styles by independent dressmakers, utilizing expensive or eccentric materials and unconventional patterns.
 

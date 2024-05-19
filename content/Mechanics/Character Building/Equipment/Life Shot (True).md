@@ -8,7 +8,6 @@ tags:
 ---
 
 # Life Shot (True)
-![[systems-pf2e-icons-equipment-consumables-ammunition-life-shot.webp|150]]
 
 **Ammunition** round
 

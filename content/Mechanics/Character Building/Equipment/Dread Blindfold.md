@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dread Blindfold
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-dread-blindfold.webp|150]]
 
 When tied over your eyes, this ragged strip of black linen gives you a +3 item bonus to Intimidation checks and darkvision. You can see through the blindfold, but only using darkvision.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Charlatan's Gloves (Greater)
-![[icons-equipment-hand-glove-ringed-leather-yellow.webp|150]]
 
 Tiny silver hooks decorate these fine silk gloves. They grant a +2 item bonus to Thievery and allow you to cast _[[Telekinetic Hand]]_ as an innate occult spell.
 

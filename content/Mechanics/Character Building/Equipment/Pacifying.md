@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pacifying
-![[systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
 
 This rune turns weapons into instruments of peacemaking.
 

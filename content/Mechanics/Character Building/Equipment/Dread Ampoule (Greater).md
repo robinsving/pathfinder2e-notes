@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dread Ampoule (Greater)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-bombs-dread-ampoule.webp|150]]
 
 **Activate** A Strike
 

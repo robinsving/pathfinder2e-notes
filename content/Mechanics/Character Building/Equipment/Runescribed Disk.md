@@ -8,7 +8,6 @@ tags:
 ---
 
 # Runescribed Disk
-![[systems-pf2e-icons-equipment-held-items-dreamstone.webp|150]]
 
 **Activate** f envision
 

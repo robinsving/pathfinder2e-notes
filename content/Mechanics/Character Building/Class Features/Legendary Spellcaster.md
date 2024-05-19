@@ -9,7 +9,6 @@ tags:
 ---
 
 # Legendary Spellcaster
-![[systems-pf2e-icons-features-classes-legendary-spellcaster.webp|150]]
 
 **Bard** Your command of magic is the stuff of legends. Your proficiency ranks for spell attack modifiers and spell DCs increase to legendary.
 

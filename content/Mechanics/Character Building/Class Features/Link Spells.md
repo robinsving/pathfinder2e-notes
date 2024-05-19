@@ -9,7 +9,6 @@ tags:
 ---
 
 # Link Spells
-![[systems-pf2e-icons-features-classes-link-spells.webp|150]]
 
 Your connection to your eidolon allows you to cast link spells, special spells that have been forged through your shared connection with your eidolon. Link spells are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the Refocus activity to specifically connect with your eidolon, such as by having a heart-to-heart conversation, playing together, or meditating in unison on the nature of your bond.
 

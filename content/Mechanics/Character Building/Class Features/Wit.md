@@ -9,7 +9,6 @@ tags:
 ---
 
 # Wit
-![[systems-pf2e-icons-features-classes-wit-style.webp|150]]
 
 You are friendly, clever, and full of humor, always knowing just what to say in any situation. Your witticisms leave foes unprepared for the skill and speed of your attacks.
 

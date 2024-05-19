@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Alchemical Atomizer
-![[icons-commodities-treasure-case-red-silver.webp|150]]
 
 Khismar developed this unique atomizer that allows for the distribution of elixirs, oils, and potions as a fine spray or mist. The atomizer can hold a single elixir, oil, or potion. An atomizer contains enough reagents to use it up to 10 times before the reagents must be replaced. A new batch of reagents costs 5 gp and requires an Interact action to replace.
 

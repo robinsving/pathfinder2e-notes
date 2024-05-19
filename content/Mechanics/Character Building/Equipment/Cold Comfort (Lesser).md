@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cold Comfort (Lesser)
-![[icons-containers-bags-satchel-worn-leather-blue.webp|150]]
 
 **Activate** 1 Interact
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Alcohol
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-alcohol.webp|150]]
 
 Alcohol is a common substance available in stunning variety. The Price of a dose of alcohol depends on the specific beverage. You can't recover from the sickened condition from alcohol while affected.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Redeemer
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-magic-nature-symbol-sun-yellow.webp|150]]
 
 You're full of kindness and forgiveness. You gain the [[Glimpse of Redemption]] champion's reaction and the [[Lay on Hands]] devotion spell. Your code gains the follow edicts and anathema:
 

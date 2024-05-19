@@ -8,7 +8,6 @@ tags:
 ---
 
 # Energy Robe of Fire
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-energy-robe-of-fire.webp|150]]
 
 This brightly colored linen robe is covered in delicate embroidery depicting creatures and natural phenomena suiting its aligned energy, such as a living thunderclap, pools of acid, roaring flames, or dancing marids. You gain resistance 5 to fire.
 

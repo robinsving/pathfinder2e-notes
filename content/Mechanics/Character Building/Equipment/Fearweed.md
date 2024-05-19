@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fearweed
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-fearweed.webp|150]]
 
 **Activate** 1 Interact
 

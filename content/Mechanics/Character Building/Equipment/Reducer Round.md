@@ -8,7 +8,6 @@ tags:
 ---
 
 # Reducer Round
-![[systems-pf2e-icons-equipment-consumables-ammunition-reducer-round.webp|150]]
 
 **Ammunition** round
 

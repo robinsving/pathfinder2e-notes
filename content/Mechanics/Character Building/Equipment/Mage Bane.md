@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mage Bane
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-mage-bane.webp|150]]
 
 Upon being mixed and injected into the bloodstream, this powder of the crimson orchid quickly assaults the brain and nerves, disrupting the victim's ability to piece together coherent thoughts and spells.
 

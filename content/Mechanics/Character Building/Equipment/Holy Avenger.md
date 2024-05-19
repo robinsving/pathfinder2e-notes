@@ -8,7 +8,6 @@ tags:
 ---
 
 # Holy Avenger
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-holy-avenger.webp|150]]
 
 The gleaming holy avenger is the iconic weapon of powerful paladins. The crossbar of this +2 greater striking [[Holy]] cold iron longsword is styled to look like angel wings. Tradition holds that those who see their reflection in a holy avenger's highly polished blade have their faults laid bare. If you are evil, you are [[Enfeebled 1|Enfeebled 2]] while carrying or wielding this weapon.
 

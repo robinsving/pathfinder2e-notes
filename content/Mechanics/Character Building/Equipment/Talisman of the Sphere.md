@@ -8,7 +8,6 @@ tags:
 ---
 
 # Talisman of the Sphere
-![[systems-pf2e-icons-equipment-artifacts-talisman-of-the-sphere.webp|150]]
 
 This loop of adamantine can be slung on a chain to be worn as a necklace, but must be held to convey its benefits. A creature that can't cast either arcane or occult spells takes 8d6 mental damage just from picking up the item, and they take that damage again at the start of each of their turns if they continue to hold it.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ring of Stoneshifting
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-ring-of-stoneshifting.webp|150]]
 
 This simple iron ring is faceted with a bulbous geode lined with bright purple crystals. A _ring of stoneshifting_ grants you the ability to ignore difficult terrain caused by rubble or uneven ground made of stone and earth.
 

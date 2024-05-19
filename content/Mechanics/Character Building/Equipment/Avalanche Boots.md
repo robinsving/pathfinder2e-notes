@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Avalanche Boots
-![[icons-equipment-feet-boots-leather-banded-furred.webp|150]]
 
 While the insides of these boots are comfortable, fur-lined leather, the outsides are a jumble of slate plates, giving the impression of a rockslide. You gain a +3 item bonus to Athletics checks and a +2 circumstance bonus to [[Force Open]] and [[Shove]]. When you invest the boots, you either increase your Strength score by 2 or increase it to 18, whichever is higher.
 

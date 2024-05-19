@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shadow Essence
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-shadow-essence.webp|150]]
 
 Distilled from the Plane of Shadow, this oily substance imposes tenebrous effects. The enfeebled condition from shadow essence lasts for 24 hours.
 

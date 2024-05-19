@@ -8,7 +8,6 @@ tags:
 ---
 
 # Invisible Net
-![[systems-pf2e-icons-equipment-consumables-other-consumables-invisible-net.webp|150]]
 
 **Activate** A Interact
 

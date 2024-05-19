@@ -9,7 +9,6 @@ tags:
 ---
 
 # Fencer
-![[systems-pf2e-icons-features-classes-fencer-style.webp|150]]
 
 You move carefully, feinting and creating false openings to lead your foes into inopportune attacks.
 

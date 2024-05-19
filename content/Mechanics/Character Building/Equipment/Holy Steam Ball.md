@@ -8,7 +8,6 @@ tags:
 ---
 
 # Holy Steam Ball
-![[systems-pf2e-icons-equipment-held-items-holy-steam-ball.webp|150]]
 
 **Activate** 1 Interact
 

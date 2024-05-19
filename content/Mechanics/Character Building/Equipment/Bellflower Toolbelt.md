@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Bellflower Toolbelt
-![[icons-equipment-waist-belt-coiled-leather-steel.webp|150]]
 
 Different versions of the bellflower toolbelt are customized to appear to suit specific trades, so a belt used for carpentry would look different from a belt for baking.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Miogimo's Mask
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-miogimos-mask.webp|150]]
 
 The crime lord Miogimo almost always appears with this special mask, crafted with a piece of his soul.
 

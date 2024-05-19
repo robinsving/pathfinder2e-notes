@@ -8,7 +8,6 @@ tags:
 ---
 
 # Brine Dragon Scale
-![[systems-pf2e-icons-equipment-consumables-other-consumables-bubbling-scale.webp|150]]
 
 **Usage** affixed to a melee weapon
 

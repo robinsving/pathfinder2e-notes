@@ -8,7 +8,6 @@ tags:
 ---
 
 # Clarity Goggles (Greater)
-![[icons-equipment-head-goggles-leather-blue.webp|150]]
 
 _Clarity goggles_ feature faceted lenses that filter your surroundings from several slightly different angles at once, giving you a sharper picture of them. While wearing the goggles, you gain a +3 item bonus to visual Perception checks.
 

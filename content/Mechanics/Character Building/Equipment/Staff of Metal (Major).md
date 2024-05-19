@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Metal (Major)
-![[icons-weapons-staves-staff-ornate-engraved-blue.webp|150]]
 
 This cylindrical iron staff has colored segments on both ends, one red and one blue. When you Strike with the staff, you gain a +1 circumstance bonus to the attack roll if the target is wearing metal armor or is primarily made of metal.
 

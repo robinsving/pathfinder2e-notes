@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Aeon Stone (Pale Orange Rhomboid)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-aeon-stone-pale-orange-rhomboid.webp|150]]
 
 The first time each day you die, your vital and spiritual essences mingle together and reside within this aeon stone.
 

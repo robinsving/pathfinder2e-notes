@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Black Powder (Horn)
-![[systems-pf2e-icons-equipment-consumables-other-consumables-black-powder-horn.webp|150]]
 
 **Activate** 1 Interact
 

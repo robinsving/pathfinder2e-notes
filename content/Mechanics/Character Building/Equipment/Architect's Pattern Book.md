@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Architect's Pattern Book
-![[icons-sundries-books-book-tooled-silver-blue.webp|150]]
 
 Typically created by wizards who are hobbyists or professional architects, an architect's pattern book allows the caster to customize certain spells that create magical structures or domiciles, adding recreational areas such as an indoor bathhouse, gaming room, swimming pool, or similar luxury.
 

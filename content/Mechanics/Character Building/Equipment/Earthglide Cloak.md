@@ -8,7 +8,6 @@ tags:
 ---
 
 # Earthglide Cloak
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-earthglide-cloak.webp|150]]
 
 This brown-and-gold robe covers you from head to toe. Its weighty fabric doesn't move with the wind, instead hanging still as if carved of stone.
 

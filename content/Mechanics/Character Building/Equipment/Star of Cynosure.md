@@ -8,7 +8,6 @@ tags:
 ---
 
 # Star of Cynosure
-![[systems-pf2e-icons-equipment-consumables-other-consumables-psychic-warding-bracelet.webp|150]]
 
 **Activate** f envision
 

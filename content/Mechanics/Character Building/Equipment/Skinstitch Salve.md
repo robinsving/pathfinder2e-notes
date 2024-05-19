@@ -8,7 +8,6 @@ tags:
 ---
 
 # Skinstitch Salve
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-skinitch-salve.webp|150]]
 
 This sticky salve stubbornly holds wounds closed and encourages swift natural healing. You can activate the salve in either of the following ways.
 

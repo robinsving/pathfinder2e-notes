@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ghostshot Wrapping
-![[systems-pf2e-icons-equipment-consumables-talismans-ghostshot-wrapping.webp|150]]
 
 **Usage** affixed to a ranged weapon
 

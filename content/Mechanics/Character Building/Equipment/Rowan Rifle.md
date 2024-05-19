@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rowan Rifle
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-rowan-rifle-electricity.webp|150]]
 
 In a dense forest within Arcadia, djezet fell from the sky millennia ago, even before Earthfall. While this metal was poisonous to most of the plant life growing nearby, one stubborn rowan tree refused to die, its roots slowly absorbing djezet in small particles from the ground until the entire plant was suffused with it. Fey bowyers discovered the remarkable plant and coaxed it into growing into a very particular shape, its branching trunks woven together into a tightly twisted and naturally rifled barrel.
 

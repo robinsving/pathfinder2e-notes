@@ -8,7 +8,6 @@ tags:
 ---
 
 # Toad Tears
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-toad-tears.webp|150]]
 
 Toad tears can be mixed with any other foodstuff or drink, but the poison can also be ingested as is. The process of refining giant toad poison lessens its deadly qualities, and as a result, toad tears are rarely directly fatal. Yet those who are exposed to toad tears often lose control of their actions, making it a dangerous poison nevertheless.
 

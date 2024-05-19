@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mentalist's Staff (Greater)
-![[systems-pf2e-icons-equipment-staves-mentalist-staff.webp|150]]
 
 This polished wooden staff bears a swirling motif reminiscent of the folds of a brain. While wielding the staff, you gain a +2 circumstance bonus to checks to identify mental magic.
 

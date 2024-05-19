@@ -8,4 +8,3 @@ tags:
 ---
 
 # Silk mask decorated with citrines
-![[systems-pf2e-icons-equipment-treasure-art-objects-lesser-art-object-silk-mask-decorated-with-citrines.webp|150]]

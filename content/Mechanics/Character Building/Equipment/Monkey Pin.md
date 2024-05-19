@@ -8,7 +8,6 @@ tags:
 ---
 
 # Monkey Pin
-![[systems-pf2e-icons-equipment-consumables-talismans-monkey-pin.webp|150]]
 
 **Activate** A (concentrate)
 

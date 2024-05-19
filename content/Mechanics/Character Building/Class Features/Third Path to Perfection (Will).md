@@ -9,7 +9,6 @@ tags:
 ---
 
 # Third Path to Perfection (Will)
-![[systems-pf2e-icons-features-classes-third-path-to-perfection.webp|150]]
 
 You have made great progress in your personal studies of enlightenment.
 

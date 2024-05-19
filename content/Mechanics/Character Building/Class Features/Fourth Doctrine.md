@@ -9,7 +9,6 @@ tags:
 ---
 
 # Fourth Doctrine
-![[icons-magic-symbols-question-stone-yellow.webp|150]]
 
 You gain the fourth benefit of your doctrine:
 

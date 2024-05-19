@@ -8,7 +8,6 @@ tags:
 ---
 
 # Everburning Coal
-![[icons-commodities-stone-ore-chunk-red.webp|150]]
 
 This lump of coal is always warm to the touch and glows faintly red from within, as if holding an ember of flame waiting to be stoked. No amount of water or coldness can extinguish the coal's warmth. When you hold an _everburning coal_ in your hand, you gain resistance 10 to cold and are protected from mild, severe, and extreme cold.
 

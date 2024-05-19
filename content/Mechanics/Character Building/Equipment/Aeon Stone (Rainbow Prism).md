@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Aeon Stone (Rainbow Prism)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-aeon-stone-western-star.webp|150]]
 
 While this aeon stone orbits your head, the flat part of its base tumbles to briefly face creatures you can see within 30 feet, as though the stone is watching them. You can activate this stone in two ways.
 

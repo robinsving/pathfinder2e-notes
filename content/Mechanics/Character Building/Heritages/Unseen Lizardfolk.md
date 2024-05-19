@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Unseen Lizardfolk
-![[systems-pf2e-icons-features-ancestry-unseen-lizardfolk.webp|150]]
 
 You can change your skin color to blend in with your surroundings, making minor shifts with a single action and dramatic changes over the course of an hour.
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Bestial Mutagen (Greater)
-![[icons-consumables-potions-bottle-round-flask-fumes-purple.webp|150]]
 
 **Activate** A Interact
 

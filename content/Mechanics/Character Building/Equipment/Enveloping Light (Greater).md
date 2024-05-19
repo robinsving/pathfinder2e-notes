@@ -8,7 +8,6 @@ tags:
 ---
 
 # Enveloping Light (Greater)
-![[systems-pf2e-icons-equipment-tattoos-enveloping-light.webp|150]]
 
 This tattoo is a series of six concentric circles that show up as a soft yellow on any skin tone. The marks carry in them a protective force that bolsters your body and soul. Any time someone rolls a critical failure to Treat your Wounds, they get a failure instead.
 

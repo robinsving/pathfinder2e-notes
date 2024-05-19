@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fade Band
-![[systems-pf2e-icons-equipment-consumables-talismans-fade-band.webp|150]]
 
 **Activate** R (concentrate)
 

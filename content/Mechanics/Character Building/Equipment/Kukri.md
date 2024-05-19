@@ -8,7 +8,6 @@ tags:
 ---
 
 # Kukri
-![[systems-pf2e-icons-equipment-weapons-kukri.webp|150]]
 [Uncommon](https://2e.aonprd.com/Traits.aspx?ID=159) [Agile](https://2e.aonprd.com/Traits.aspx?ID=170) [Finesse](https://2e.aonprd.com/Traits.aspx?ID=179) [Trip](https://2e.aonprd.com/Traits.aspx?ID=196)   
 **Source** [_Core Rulebook pg. 281_](https://2e.aonprd.com/Sources.aspx?ID=1) [4.0](https://2e.aonprd.com/Sources.aspx?ID=1)  
 [**_PFS Note_**](https://2e.aonprd.com/PFS.aspx) _For the purposes of Pathfinder Society play, choosing the following region as a Home Region (or with the World Traveler boon) grants access this item: Golden Road, Impossible Lands_  

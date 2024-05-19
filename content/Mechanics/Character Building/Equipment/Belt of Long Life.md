@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Belt of Long Life
-![[systems-pf2e-icons-equipment-worn-items-apex-items-belt-of-regeneration.webp|150]]
 
 This thick leather belt is engraved with imagery of an ancient tree. You gain 15 temporary Hit Points the first time you invest the belt in a day. When you invest the belt, you either increase your Constitution modifier by 1 or increase it to +4, whichever would give you a higher value.
 

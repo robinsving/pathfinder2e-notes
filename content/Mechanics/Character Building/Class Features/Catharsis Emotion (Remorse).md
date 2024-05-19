@@ -9,7 +9,6 @@ tags:
 ---
 
 # Catharsis Emotion (Remorse)
-![[Mechanics/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-spells-illusory-disguise.webp|150]]
 
 You attempt to overcome your failings, but your guilt stays with you.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Fumeiyoshi
-![[systems-pf2e-icons-deity-Fumeiyoshi.webp|150]]
 
 **Fumeiyoshi** is a Tian Xia deity most often associated with the undead and graves, although he is also the patron deity of the evil oni.
 

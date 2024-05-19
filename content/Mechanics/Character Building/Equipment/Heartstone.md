@@ -8,7 +8,6 @@ tags:
 ---
 
 # Heartstone
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-heartstone.webp|150]]
 
 This gemstone grants its wearer a +2 item bonus to saving throws.
 

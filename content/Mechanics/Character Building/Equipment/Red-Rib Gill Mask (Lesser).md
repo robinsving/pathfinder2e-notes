@@ -8,7 +8,6 @@ tags:
 ---
 
 # Red-Rib Gill Mask (Lesser)
-![[systems-pf2e-icons-equipment-worn-items-apex-items-headband-of-inspired-wisdom.webp|150]]
 
 **Activate** 1 Interact
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Abadar's Flawless Scale
-![[systems-pf2e-icons-equipment-held-items-abadars-flawless-scale.webp|150]]
 
 This immaculate golden set of merchant's scales is considered a divine instrument among Abadar's most faithful. Unlike most scales, this one has only a single dish for placing small objects, and calculates value rather than weight. On the other side of the fulcrum, a steel arrow indicator points to various numbers engraved on the side of the scale.
 

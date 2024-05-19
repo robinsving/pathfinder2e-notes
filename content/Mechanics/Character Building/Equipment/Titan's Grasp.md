@@ -8,7 +8,6 @@ tags:
 ---
 
 # Titan's Grasp
-![[systems-pf2e-icons-equipment-worn-items-apex-items-titans-grasp.webp|150]]
 
 These bronze gauntlets each have a small red gem embedded in the wrist. You gain a +3 item bonus to Athletics checks and a +1 circumstance bonus to Athletics checks to Grapple. If you successfully Grapple an enemy that's at least one size category larger than you, the gauntlets dig into it, dealing bludgeoning damage equal to your Strength modifier, plus an additional 2d6 bludgeoning damage on a critical success.
 

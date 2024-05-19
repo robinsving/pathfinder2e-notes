@@ -11,7 +11,6 @@ tags:
 ---
 
 # Energy Breath Potion (Acid, Lesser)
-![[systems-pf2e-icons-equipment-consumables-potions-green-dragons-breath-potion.webp|150]]
 
 **Activate 1** (manipulate)
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Eagle Eye Elixir (Greater)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-eagle-eyes-elixir.webp|150]]
 
 **Activate** A (manipulate)
 

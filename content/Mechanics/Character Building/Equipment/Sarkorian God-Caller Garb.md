@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sarkorian God-Caller Garb
-![[systems-pf2e-icons-equipment-armor-specific-magic-armor-sarkorian-god-caller-garb.webp|150]]
 
 Each _Sarkorian god-caller garb_ is emblazoned with a unique sigil of a particular Sarkorian deity and adorned with symbols sacred to Sarkorian god callers, the summoners and religious leaders of Sarkoris. These _+1 explorer's clothing_ outfits look as if they were stitched together from multiple types of animals, featuring feathers, fur, leather, and scales.
 

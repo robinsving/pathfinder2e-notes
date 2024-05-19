@@ -8,7 +8,6 @@ tags:
 ---
 
 # Medusa's Scream (Greater)
-![[systems-pf2e-icons-equipment-shields-specific-shields-medusas-scream.webp|150]]
 
 The ghastly visage of a slain _medusa's_ head stares out from this _steel shield_ (Hardness 15, HP 60, BT 30). The shield comes with a thick leather cover to conceal the head.
 

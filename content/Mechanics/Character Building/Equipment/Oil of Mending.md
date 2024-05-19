@@ -8,7 +8,6 @@ tags:
 ---
 
 # Oil of Mending
-![[systems-pf2e-icons-equipment-consumables-oils-oil-of-mending.webp|150]]
 
 **Activate** 1 minute (manipulate)
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # First Doctrine
-![[icons-magic-symbols-question-stone-yellow.webp|150]]
 
 You gain the first benefit of your doctrine:
 

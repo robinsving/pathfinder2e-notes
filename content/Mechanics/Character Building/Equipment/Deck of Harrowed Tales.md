@@ -8,7 +8,6 @@ tags:
 ---
 
 # Deck of Harrowed Tales
-![[systems-pf2e-icons-equipment-held-items-rune-card.webp|150]]
 
 The Deck of Harrowed Tales is a unique deck connected to a unique demiplane known as the Harrowed Realm.
 

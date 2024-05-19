@@ -8,7 +8,6 @@ tags:
 ---
 
 # The Demon's Lantern
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-sundries-gaming-playing-cards-grey.webp|150]]
 
 **Suit** Keys (Dex)
 

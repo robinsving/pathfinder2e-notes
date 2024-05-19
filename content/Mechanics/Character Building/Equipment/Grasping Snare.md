@@ -8,7 +8,6 @@ tags:
 ---
 
 # Grasping Snare
-![[systems-pf2e-icons-equipment-snares-grasping-snare.webp|150]]
 
 You rig vines and ropes to hold a creature in place. The first creature to enter the square must attempt a DC 26 reflex save, with the following effects.
 

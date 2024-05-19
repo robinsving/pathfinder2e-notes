@@ -8,7 +8,6 @@ tags:
 ---
 
 # Grindlegrub Steak
-![[icons-consumables-food-steak-aged-brown.webp|150]]
 
 **Activate** 1 minute (Interact)
 

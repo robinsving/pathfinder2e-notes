@@ -8,7 +8,6 @@ tags:
 ---
 
 # Inubrix Ingot
-![[systems-pf2e-icons-equipment-materials-inubrix-ingot.webp|150]]
 
 This pale, malleable metal's unusual molecular structure allows it to partially pass through iron and steel without touching them. While this property is useful for making weapons that bypass metal armor, inubrix is barely sturdier than lead. Even in an alloyed state, this skymetal is so fragile that it's difficult to use in crafting reliable shields and less than ideal for crafting armor.
 

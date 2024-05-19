@@ -8,7 +8,6 @@ tags:
 ---
 
 # Skull Bomb
-![[systems-pf2e-icons-equipment-consumables-other-consumables-skull-bomb.webp|150]]
 
 This device is a human-sized skull crafted entirely from metal plating and clockwork gears, which slots easily into a human skeleton in the spot where an ordinary skull would normally be located. While performing a _[[Create Undead]]_ ritual, you can attach this skull bomb to the target creature in place of its own head. In order to do so, the target creature must be Medium and have the humanoid trait. The target creature can have only one skull bomb attached in this fashion. The creature gains the following ability.
 

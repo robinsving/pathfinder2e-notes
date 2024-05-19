@@ -8,7 +8,6 @@ tags:
 ---
 
 # Petrification Cannon
-![[icons-weapons-guns-gun-double-barrel.webp|150]]
 
 Built from the taxidermic body of a basilisk, a _petrification cannon_ functions as a _+2 greater striking double-barreled musket_. A _petrification cannon_ can be activated to fire a beam of energy that transforms flesh into stone.
 

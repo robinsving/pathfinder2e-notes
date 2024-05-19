@@ -9,7 +9,6 @@ tags:
 ---
 
 # Cosmos
-![[systems-pf2e-icons-features-classes-cosmos-mystery.webp|150]]
 
 Celestial bodies great and small exert influence on you, giving you sublime cosmic power. Perhaps you see the glittering stars as a divine blessing, or perhaps you feel drawn to the infinitely dark spaces between. You might uphold deities like Desna, Sarenrae, or the deific lovers Shizuru and Tsukiyo who represent the sun and the moon-or you might draw power from dark entities from beyond the stars, like certain Outer Gods, or destructive gods of the night like Zon-Kuthon or the rat goddess Lao Shu Po.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Chaplain's Cudgel
-![[systems-pf2e-icons-equipment-weapons-mace.webp|150]]
 
 This simple wooden _+1 striking mace_ transforms in the hands of a wielder with great faith in a deity.
 

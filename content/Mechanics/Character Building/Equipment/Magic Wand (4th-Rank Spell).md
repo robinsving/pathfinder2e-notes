@@ -8,7 +8,6 @@ tags:
 ---
 
 # Magic Wand (4th-Rank Spell)
-![[Mechanics/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-wands-magic-wands-magic-wand.webp|150]]
 
 This baton is about a foot long and contains a single spell. The appearance typically relates to the spell within.
 

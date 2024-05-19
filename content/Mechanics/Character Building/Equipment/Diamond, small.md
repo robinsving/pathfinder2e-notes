@@ -8,4 +8,3 @@ tags:
 ---
 
 # Diamond, small
-![[systems-pf2e-icons-equipment-treasure-gems-moderate-precious-stones-small-diamond.webp|150]]

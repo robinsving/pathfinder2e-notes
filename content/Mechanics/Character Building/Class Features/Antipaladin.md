@@ -9,7 +9,6 @@ tags:
 ---
 
 # Antipaladin
-![[icons-creatures-claws-claw-talons-yellow-red.webp|150]]
 
 You're dishonorable, dishonest, and committed to breaking the false hopes of kindness. You gain the [[Destructive Vengeance]] champion's reaction and the [[Touch of Corruption]] devotion spell. You gain the follow edicts and anathema:
 

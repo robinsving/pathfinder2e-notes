@@ -9,7 +9,6 @@ tags:
 ---
 
 # Cram
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 **Requirements** You are an initiate, attendant, or conversant, and your branch level for either your primary or secondary branch is 2 or more levels below the limit.
 

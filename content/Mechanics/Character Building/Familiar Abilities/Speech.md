@@ -9,6 +9,5 @@ tags:
 ---
 
 # Speech
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 It understands and speaks a language you know.

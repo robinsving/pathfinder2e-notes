@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Aroden's Hearthstone
-![[Mechanics/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-artifacts-arodens-hearthstone.webp|150]]
 
 This coin-sized gemstone can be used on its own but must be included in the construction of a hearth in order to fully activate its magic.
 

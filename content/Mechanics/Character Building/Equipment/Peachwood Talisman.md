@@ -8,7 +8,6 @@ tags:
 ---
 
 # Peachwood Talisman
-![[systems-pf2e-icons-equipment-consumables-talismans-peachwood-talisman.webp|150]]
 
 **Activate** 1 envision
 

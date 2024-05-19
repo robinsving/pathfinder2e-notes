@@ -9,7 +9,6 @@ tags:
 ---
 
 # Desna
-![[systems-pf2e-icons-deity-Desna.webp|150]]
 
 Desna set her sights on the heavens, placing stars in the sky to guide travelers through the darkness and dreamers through nightmares. The Song of Spheres delights in freedom and mystery, and encourages her followers to do the same.
 

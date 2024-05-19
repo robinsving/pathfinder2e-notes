@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gadget Skates
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-gadget-skates.webp|150]]
 
 **Activate** 1 Interact (move)
 

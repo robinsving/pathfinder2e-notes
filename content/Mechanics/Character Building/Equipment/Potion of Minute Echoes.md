@@ -8,7 +8,6 @@ tags:
 ---
 
 # Potion of Minute Echoes
-![[systems-pf2e-icons-equipment-consumables-potions-potion-of-minute-echoes.webp|150]]
 
 **Activate** 1 Interact
 

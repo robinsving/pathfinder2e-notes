@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tideplate
-![[icons-equipment-chest-breastplate-layered-leather-blue.webp|150]]
 
 Rippling water motifs decorate this simple suit of +1 _resilient full plate_. The plate has been altered for underwater use, so it's check penalty doesn't apply to Acrobatics or Athletics checks in water or similar liquids. While wearing the armor, you gain a +2 item bonus to Athletics checks to Swim, and you can breathe underwater.
 

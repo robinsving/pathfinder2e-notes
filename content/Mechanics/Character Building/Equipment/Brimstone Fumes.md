@@ -8,7 +8,6 @@ tags:
 ---
 
 # Brimstone Fumes
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-brimstone-fumes.webp|150]]
 
 Fumes from the forges of Hell drain health and strength alike.
 

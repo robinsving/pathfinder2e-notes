@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Archaic Wayfinder
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-wayfinder.webp|150]]
 
 **Activate** Cast a Spell
 

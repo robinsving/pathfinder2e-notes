@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bloodeye Coffee
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-bloodeye-coffee.webp|150]]
 
 A strong blend including several spices common in the Padishah Empire of Kelesh, bloodeye coffee is a favorite morning drink across the Inner Sea region. The maximum addiction stage of bloodeye coffee never progresses beyond stage 1.
 

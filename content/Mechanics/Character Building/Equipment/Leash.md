@@ -8,4 +8,3 @@ tags:
 ---
 
 # Leash
-![[icons-sundries-survival-rope-wrapped-brown.webp|150]]

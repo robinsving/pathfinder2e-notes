@@ -8,7 +8,6 @@ tags:
 ---
 
 # Missive Mint
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-consumables-food-candy-pattie-pink-white.webp|150]]
 
 **Activate** 1 Interact
 

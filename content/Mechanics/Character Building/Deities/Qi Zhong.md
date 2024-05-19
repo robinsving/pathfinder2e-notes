@@ -9,7 +9,6 @@ tags:
 ---
 
 # Qi Zhong
-![[systems-pf2e-icons-deity-Qi Zhong.webp|150]]
 
 **Edicts** Teach knowledge to others, relieve suffering despite personal difficulty, heal sickness and injuries
 

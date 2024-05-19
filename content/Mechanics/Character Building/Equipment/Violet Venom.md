@@ -8,7 +8,6 @@ tags:
 ---
 
 # Violet Venom
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-violet-venom.webp|150]]
 
 The delicate process of extracting violet venom from a violet fungus leaves it diluted at the best of times. Alchemists are still on the hunt for a truly pure, unadulterated version of this highly toxic poison.
 

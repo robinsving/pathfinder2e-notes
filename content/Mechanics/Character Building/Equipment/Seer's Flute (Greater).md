@@ -8,7 +8,6 @@ tags:
 ---
 
 # Seer's Flute (Greater)
-![[icons-tools-instruments-pipe-flute-brown.webp|150]]
 
 This ivory flute is adorned with many carvings of eyes. Each has jade pupils and a semiprecious stone as its iris. The eyes flutter open and closed when the flute is played, as if it held the eyes of many independent beings. While playing the flute, you gain a +1 item bonus to Perception checks and Performance checks.
 

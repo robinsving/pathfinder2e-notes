@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vampiric Scythe
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-vampiric-scythe.webp|150]]
 
 The blade of this _+2 greater striking wounding scythe_ is sharp enough to produce a whistling sound when swung through the air. The shaft is made of ebony wood with a sickly shine to it, much like the shine of infected wounds and contaminated water.
 

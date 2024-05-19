@@ -8,6 +8,5 @@ tags:
 ---
 
 # Main-Gauche
-![[systems-pf2e-icons-equipment-weapons-main-gauche.webp|150]]
 
 This parrying dagger features a robust guard to protect the wielder's hand.

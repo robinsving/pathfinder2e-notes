@@ -8,7 +8,6 @@ tags:
 ---
 
 # Truesight Potion
-![[systems-pf2e-icons-equipment-consumables-potions-truesight-potion.webp|150]]
 
 **Activate** A (manipulate)
 

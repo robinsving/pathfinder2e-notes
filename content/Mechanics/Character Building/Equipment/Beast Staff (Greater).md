@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Beast Staff (Greater)
-![[icons-weapons-staves-staff-animal-bull.webp|150]]
 
 The visages of beasts are carved into the painted wood of a _beast staff_, with a large head on top. When used as a weapon, the staff is a _+2 striking staff_. While wielding the staff while you have it prepared, you're affected by _[[Speak with Animals]]_. If you have Wild Empathy, you gain a +2 circumstance bonus on checks using it.
 

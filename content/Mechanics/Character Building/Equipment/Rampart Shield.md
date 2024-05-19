@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rampart Shield
-![[systems-pf2e-icons-equipment-shields-specific-shields-rampart-shield.webp|150]]
 
 This massive tower shield is painted a cool cyan green and is decorated with an image of Absalom's mother-sphinx emerging from a cresting wave.
 

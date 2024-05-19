@@ -8,7 +8,6 @@ tags:
 ---
 
 # Life-Saver Mail
-![[icons-equipment-chest-breastplate-layered-leather-studded-black.webp|150]]
 
 This suit of +2 _resilient fortification splint mail_ has a large, green gemstone inset in a prominent location. While wearing the armor, you feel at ease knowing the armor can protect you in even dire circumstances. The gemstone glows with life essence, casting green light as brightly as a torch. You can suppress or resume this light by using a single action, which has the concentrate trait.
 

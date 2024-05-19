@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ring of the Ram (Greater)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-ring-of-the-ram.webp|150]]
 
 This heavy iron ring is shaped to look like the head of a ram, with curling horns.
 

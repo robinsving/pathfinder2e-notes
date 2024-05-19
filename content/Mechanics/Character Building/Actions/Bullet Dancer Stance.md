@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bullet Dancer Stance
-![[systems-pf2e-icons-equipment-consumables-ammunition-awakened-adamantine-shot.webp|150]]
 
 **Requirements** You're unarmored and wielding a simple firearm, bayonet, or reinforced stock
 

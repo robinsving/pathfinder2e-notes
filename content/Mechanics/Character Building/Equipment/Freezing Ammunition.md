@@ -8,7 +8,6 @@ tags:
 ---
 
 # Freezing Ammunition
-![[systems-pf2e-icons-equipment-consumables-ammunition-freezing-ammunition.webp|150]]
 
 **Activate** 1 Interact
 

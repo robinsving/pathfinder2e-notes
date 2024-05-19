@@ -8,4 +8,3 @@ tags:
 ---
 
 # Ruby, large
-![[systems-pf2e-icons-equipment-treasure-gems-greater-precious-stones-large-ruby.webp|150]]

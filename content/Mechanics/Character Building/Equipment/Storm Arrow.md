@@ -8,7 +8,6 @@ tags:
 ---
 
 # Storm Arrow
-![[systems-pf2e-icons-equipment-consumables-ammunition-storm-arrow.webp|150]]
 
 **Activate** A Interact
 

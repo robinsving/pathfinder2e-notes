@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fulu Compendium
-![[Mechanics/Character Building/Equipment/zz_asset-files/icons-sundries-books-book-turquoise-moon.webp|150]]
 
 This pamphlet-sized book records the various symbols seen on fulu and also contains some ready-made magic on a special page that restores itself every day at sunrise. Using the compendium as a reference grants a +2 item bonus to any skill checks to determine a fulu's function or authenticity.
 

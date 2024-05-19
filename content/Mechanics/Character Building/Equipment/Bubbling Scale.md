@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bubbling Scale
-![[systems-pf2e-icons-equipment-consumables-other-consumables-bubbling-scale.webp|150]]
 
 **Activate** 1 Interact
 

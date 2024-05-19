@@ -8,7 +8,6 @@ tags:
 ---
 
 # Garrote Bolt
-![[systems-pf2e-icons-equipment-consumables-ammunition-garrote-bolt.webp|150]]
 
 **Activate** 1 Interact
 

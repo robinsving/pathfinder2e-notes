@@ -8,4 +8,3 @@ tags:
 ---
 
 # Lapis lazuli
-![[systems-pf2e-icons-equipment-treasure-gems-lesser-semiprecious-stones-lapis-lazuli.webp|150]]

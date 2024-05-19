@@ -8,7 +8,6 @@ tags:
 ---
 
 # Staff of Divination (Major)
-![[systems-pf2e-icons-equipment-staves-staff-of-divination.webp|150]]
 
 Semiprecious gemstones emerge, seemingly at random, from the surface of this gnarled wooden staff. While wielding it, you gain a +2 circumstance bonus to checks to identify divination magic.
 

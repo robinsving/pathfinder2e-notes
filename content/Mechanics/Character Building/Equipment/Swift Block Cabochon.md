@@ -8,7 +8,6 @@ tags:
 ---
 
 # Swift Block Cabochon
-![[systems-pf2e-icons-equipment-consumables-talismans-swift-block-cabochon.webp|150]]
 
 **Activate** R (concentrate)
 

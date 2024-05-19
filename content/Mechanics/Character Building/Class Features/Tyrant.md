@@ -9,7 +9,6 @@ tags:
 ---
 
 # Tyrant
-![[Mechanics/Character Building/Class Features/zz_asset-files/icons-equipment-head-helm-barbute-horned-gold-red.webp|150]]
 
 Might makes right, and you subjugate the weak to keep them in their proper place. You gain the [[Iron Command]] champion's reaction and the _[[Touch of Corruption]]_ devotion spell. You gain the follow edicts and anathema:
 

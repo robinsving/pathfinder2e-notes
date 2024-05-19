@@ -8,4 +8,3 @@ tags:
 ---
 
 # Silver mirror with gilded frame
-![[systems-pf2e-icons-equipment-treasure-art-objects-moderate-art-object-silver-mirror-with-gilded-frame.webp|150]]

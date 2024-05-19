@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shatterstone (Greater)
-![[icons-magic-earth-projectile-boulder-dust.webp|150]]
 
 **Activate** 1 Strike
 

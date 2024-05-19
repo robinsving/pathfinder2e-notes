@@ -8,7 +8,6 @@ tags:
 ---
 
 # Traveler's Any-Tool
-![[systems-pf2e-icons-equipment-held-items-travelers-any-tool.webp|150]]
 
 Before it's activated, this item appears to be an ash rod capped with steel on either end.
 

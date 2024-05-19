@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gourd Home
-![[systems-pf2e-icons-equipment-structures-gourd-home.webp|150]]
 
 This dried gourd seems entirely nondescript, as it is hollow and has a sturdy cord wrapped around its neck for easy carrying. Closer inspection reveals the gourd has grown in the rough shape of a hut or similar small dwelling.
 

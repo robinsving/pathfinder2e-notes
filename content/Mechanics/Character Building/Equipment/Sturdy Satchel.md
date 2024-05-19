@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sturdy Satchel
-![[systems-pf2e-icons-equipment-adventuring-gear-sturdy-satchel.webp|150]]
 
 This heavy backpack of alchemically treated cloth layered over a metal mesh protects its contents from water damage and other harmful effects.
 

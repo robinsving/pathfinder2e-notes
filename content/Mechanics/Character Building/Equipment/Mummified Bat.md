@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mummified Bat
-![[systems-pf2e-icons-equipment-consumables-talismans-mummified-bat.webp|150]]
 
 **Activate** A (concentrate)
 

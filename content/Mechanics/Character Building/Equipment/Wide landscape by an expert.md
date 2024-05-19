@@ -8,4 +8,3 @@ tags:
 ---
 
 # Wide landscape by an expert
-![[systems-pf2e-icons-equipment-treasure-art-objects-moderate-art-object-wide-landscape-by-an-expert.webp|150]]

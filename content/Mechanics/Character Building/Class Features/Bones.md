@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bones
-![[systems-pf2e-icons-features-classes-bones-mystery.webp|150]]
 
 Your mystery imparts an understanding of death and undeath in all their macabre complexity. You might have had a brush with death yourself-maybe even dying and returning to life-or carry the touch of undeath in your blood. If you commune with deities, you might speak with guardians of death like Pharasma and the psychopomp ushers (the most powerful among creatures that guide souls through the afterlife); a bringer of death like the Mantis God Achaekek or the Horseman of the Apocalypse Charon; or a herald of undeath such as Urgathoa.
 

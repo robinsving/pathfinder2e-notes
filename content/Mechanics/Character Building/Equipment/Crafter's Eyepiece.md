@@ -8,7 +8,6 @@ tags:
 ---
 
 # Crafter's Eyepiece
-![[icons-tools-scribal-lens-blue.webp|150]]
 
 This rugged metal eyepiece etched with square patterns is designed to be worn over a single eye. Twisting the lens reveals a faint three-dimensional outline of an item you plan to build or repair, with helpful labels on the component parts.
 

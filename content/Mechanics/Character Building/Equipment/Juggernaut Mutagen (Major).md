@@ -8,7 +8,6 @@ tags:
 ---
 
 # Juggernaut Mutagen (Major)
-![[icons-consumables-potions-bottle-metal-yellow-gray.webp|150]]
 
 **Activate** A Interact
 

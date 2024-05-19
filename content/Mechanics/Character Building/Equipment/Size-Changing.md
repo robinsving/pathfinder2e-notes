@@ -8,7 +8,6 @@ tags:
 ---
 
 # Size-Changing
-![[systems-pf2e-icons-equipment-runes-armor-property-runes-armor-property-runes.webp|150]]
 
 This armor can make itself and its wearer quickly change size.
 

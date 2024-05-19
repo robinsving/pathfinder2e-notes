@@ -9,7 +9,6 @@ tags:
 ---
 
 # Weapon Legend
-![[systems-pf2e-icons-features-classes-weapon-legend.webp|150]]
 
 You've learned fighting techniques that apply to all armaments, and you've developed unparalleled skill with your favorite weapons. Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to master. Your proficiency rank for advanced weapons increases to expert.
 

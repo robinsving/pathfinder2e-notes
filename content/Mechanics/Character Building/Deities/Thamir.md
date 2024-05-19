@@ -9,7 +9,6 @@ tags:
 ---
 
 # Thamir
-![[systems-pf2e-icons-deity-Thamir Gixx.webp|150]]
 
 **Edicts** Seize any opportunity that would benefit you, solve your problems With Violence, hide your true intentions
 

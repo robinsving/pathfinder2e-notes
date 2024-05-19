@@ -8,4 +8,3 @@ tags:
 ---
 
 # Tank (Stationary)
-![[systems-pf2e-icons-equipment-adventuring-gear-water-purifier.webp|150]]

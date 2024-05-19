@@ -9,7 +9,6 @@ tags:
 ---
 
 # Shadow Step
-![[systems-pf2e-icons-actions-Passive.webp|150]]
 
 This ability is for a Shadow Familiar. A [[Shadowcaster Dedication|Shadowcaster]], however, can select this ability for any kind of familiar. Your familiar gains the [[Shadow Step]] action.
 

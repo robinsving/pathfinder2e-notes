@@ -8,7 +8,6 @@ tags:
 ---
 
 # Daredevil Boots (Greater)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-daredevil-boots.webp|150]]
 
 These brightly colored, soft-soled boots motivate you to perform risky stunts and grant you the agility to succeed. The boots grant you a +3 item bonus to Acrobatics checks and a +2 circumstance bonus to checks to Tumble Through an enemy's space.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Starshot Arrow (Lesser)
-![[systems-pf2e-icons-equipment-consumables-ammunition-starshot-arrow.webp|150]]
 
 The metal of these arrows is said to have come from a star that ventured too close to Golarion and was shot down by a moonlit archer. When you activate and shoot a starshot arrow, you take no range penalties against any target that you can personally detect. There must be a line of effect between you and the target.
 

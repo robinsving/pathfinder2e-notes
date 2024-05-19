@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dragon's Crest
-![[systems-pf2e-icons-equipment-weapons-shield-boss.webp|150]]
 
 This variant on the shield boss is usually shaped like a dragon's head, its jaws open wide enough to wedge a small vessel of liquid within. A dragon's crest can be etched with weapon runes, much like a shield boss or shield spikes, but doesn't otherwise alter your shield's statistics. A shield bearing a dragon's crest can't be combined with an attached weapon, like shield spikes.
 

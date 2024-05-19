@@ -8,7 +8,6 @@ tags:
 ---
 
 # Persona Mask (Greater)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-persona-mask.webp|150]]
 
 Despite covering the entire face, this alabaster mask does not hinder vision or other senses. Wearing the mask grants a +2 item bonus to Performance checks while acting, orating, performing comedy, or singing.
 

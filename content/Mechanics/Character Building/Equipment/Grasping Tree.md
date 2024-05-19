@@ -8,7 +8,6 @@ tags:
 ---
 
 # Grasping Tree
-![[systems-pf2e-icons-equipment-snares-grasping-tree.webp|150]]
 
 You rig tree branches, thin strands of bark, or other plant matter to close in on a creature that enters the snare's square. The first creature to enter the square must attempt a DC 19 reflex saving throw.
 

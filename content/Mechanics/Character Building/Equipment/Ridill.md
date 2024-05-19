@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ridill
-![[icons-weapons-swords-greatsword-crossguard-silver.webp|150]]
 
 This 12-foot sword was made by a cyclops in the ancient past. It might be the greatest dragon-killing weapon ever made, and Fafnheir justly fears it, which is why he keeps it hidden in his hoard. Runes of dragon slaying are written down its blade. _Ridill_ is a _+3 major striking dragon bane speed adamantine greatsword_. While wielding _Ridill_, you gain a +2 circumstance bonus to saves against fear. This increases to +4 if the effect is from a dragon. If you have an ability that depends on Large weapons (such as barbarian giant instinct), it works with _Ridill_.
 

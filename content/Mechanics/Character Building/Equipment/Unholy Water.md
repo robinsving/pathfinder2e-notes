@@ -8,7 +8,6 @@ tags:
 ---
 
 # Unholy Water
-![[systems-pf2e-icons-equipment-consumables-other-consumables-unholy-water.webp|150]]
 
 **Activate** A Strike
 
