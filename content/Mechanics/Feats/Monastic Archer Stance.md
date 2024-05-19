@@ -8,7 +8,6 @@ tags:
 ---
 
 # Monastic Archer Stance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are unarmored and wielding a longbow, shortbow, or a bow with the monk trait.
 

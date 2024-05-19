@@ -9,7 +9,6 @@ tags:
 ---
 
 # Kostchtchie
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Edicts** Avenge all slights three times over, kill all witches
 

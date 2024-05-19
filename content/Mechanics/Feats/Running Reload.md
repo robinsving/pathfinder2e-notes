@@ -8,6 +8,5 @@ tags:
 ---
 
 # Running Reload
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can reload your weapon on the move. You Stride, Step, or [[Sneak]], then Interact to reload.

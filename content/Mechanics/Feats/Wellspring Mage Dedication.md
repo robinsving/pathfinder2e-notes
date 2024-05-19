@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wellspring Mage Dedication
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 There's no longer a limit on how many temporary spell slots you can gain per day from wellspring magic.
 

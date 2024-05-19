@@ -8,7 +8,6 @@ tags:
 ---
 
 # Viking Weapon Specialist
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are even more skilled in the weapons of your people. You gain the critical specialization effects of the [[Battle Axe]], [[Hatchet]], [[Longsword]], and [[Shortsword]].
 

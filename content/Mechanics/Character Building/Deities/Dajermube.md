@@ -9,7 +9,6 @@ tags:
 ---
 
 # Dajermube
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Also known as the Holder of Unquenchable Light, Dajermube is the Lioness Goddess of shadows, journeys, and self-realization. She encourages others to venture into the world to achieve their goals. Sometimes these goals are met, and sometimes not, but Dajermube teaches that the act of trying is just as important as completing a goal. She also teaches that darkness and shadow are not to be feared, as shadows are companions to light. Embracing both light and darkness is important, and Dajermube teaches that using all of one's available resources is more important than focusing on just the one that's most comfortable.
 

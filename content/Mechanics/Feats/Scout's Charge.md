@@ -8,7 +8,6 @@ tags:
 ---
 
 # Scout's Charge
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You meander around unpredictably, and then ambush your opponents without warning.
 

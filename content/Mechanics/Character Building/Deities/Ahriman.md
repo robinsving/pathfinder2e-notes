@@ -9,7 +9,6 @@ tags:
 ---
 
 # Ahriman
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 The dread shadow known as Ahriman counts servants mainly among div as well as a scattering of followers throughout the mortal realm.
 

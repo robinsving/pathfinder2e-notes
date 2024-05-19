@@ -8,7 +8,6 @@ tags:
 ---
 
 # Leshy Familiar Secrets
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The leaf order's secrets allow your familiar to take advantage of its leshy form. You can select one additional familiar ability each day, which must be one of the following leshy familiar abilities. You can't select more than one ability from this feat at a time.
 

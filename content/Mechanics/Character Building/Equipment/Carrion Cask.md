@@ -8,7 +8,6 @@ tags:
 ---
 
 # Carrion Cask
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This stylized, palm-sized box contains a black, ooze-like substance that can easily devour a corpse in moments, breaking the body down into a necromantic sludge.
 

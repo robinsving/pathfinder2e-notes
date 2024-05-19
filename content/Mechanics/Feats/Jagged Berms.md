@@ -8,7 +8,6 @@ tags:
 ---
 
 # Jagged Berms
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You conjure up to six cube-shaped mounds of packed earth. Each appears in an unoccupied square within 120 feet, fills its square, and provides cover. A mound has AC 10, Hardness 10, and 20 HP, and is immune to critical hits and precision damage. If destroyed, a mound becomes difficult terrain. The mounds last for an unlimited duration, but if you use the impulse again, any previous one ends.
 

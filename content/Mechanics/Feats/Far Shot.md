@@ -8,6 +8,5 @@ tags:
 ---
 
 # Far Shot
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your experience in the field has taught you how to focus your aim at a distance, increasing your accuracy. Double your weapons' range increments.

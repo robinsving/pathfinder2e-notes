@@ -9,7 +9,6 @@ tags:
 ---
 
 # Driver
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You practically live behind the controls of a vehicle, and can handle just about anything the road, waves, and sky can throw at you. You likely adventure to test your skills in unusual environments and new and interesting vehicles.
 

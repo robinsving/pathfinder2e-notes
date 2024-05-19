@@ -8,7 +8,6 @@ tags:
 ---
 
 # Goading Feint
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you trick a foe, you can goad them into overextending their next attack.
 

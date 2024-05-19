@@ -9,7 +9,6 @@ tags:
 ---
 
 # Truth Seeker
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Whether you are a local or from out of town, you've heard rumors that Breachill's past contains a hidden secret. Perhaps you've heard strange rumors that the town's founder, Lamond Breachton, was not the hero everyone touts, or maybe your grandmother heard stories from her own grandmother that contradict the town's accepted narrative of its establishment. In the pursuit of the truth, you've learned to navigate the tangles of politics, and to never take anyone's word at face value.
 

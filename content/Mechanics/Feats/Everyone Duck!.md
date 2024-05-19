@@ -8,7 +8,6 @@ tags:
 ---
 
 # Everyone Duck!
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You fail, but don't critically fail, an attempt to Disable a Device on a trap.
 

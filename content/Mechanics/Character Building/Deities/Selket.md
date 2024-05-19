@@ -9,7 +9,6 @@ tags:
 ---
 
 # Selket
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Edicts** Avenge the wronged, protect the dead and the vulnerable, use poison and suffocation, heal others
 

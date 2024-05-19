@@ -8,6 +8,5 @@ tags:
 ---
 
 # Dedication to the Five
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your dedication to [[The Godclaw]] borders on a cleric's. You gain the cleric's [[Domain Initiate]] feat but must select perfection, protection, tyranny, or zeal as your domain. In addition, you can use any religious symbol of [[Abadar]], [[Asmodeus]], [[Iomedae]], [[Irori]], or [[Torag]] as your divine focus.

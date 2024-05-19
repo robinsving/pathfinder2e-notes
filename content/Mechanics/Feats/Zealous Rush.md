@@ -8,7 +8,6 @@ tags:
 ---
 
 # Zealous Rush
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You cast a divine spell that takes 1 action or more to cast and that affects only you or your equipment.
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Dandpatta
-![[systems-pf2e-icons-default-icons-weapon.svg|150]]
 
 This long, narrow blade is attached to a gauntlet that also acts as a handguard.

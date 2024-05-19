@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rough Terrain Stance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You gained a terrain attunement benefit this turn.
 

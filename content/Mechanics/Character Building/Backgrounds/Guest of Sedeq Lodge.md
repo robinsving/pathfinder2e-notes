@@ -9,7 +9,6 @@ tags:
 ---
 
 # Guest of Sedeq Lodge
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Either as a guest, event staff, or part of the construction crew, you spent a significant stretch of time at the Pathfinder Society's new lodge in Sedeq. The lodge serves as a new home for those fleeing from oppression or otherwise seeking a fresh start in Qadira. The magic and marvels you witnessed at the lodge inspired you to find more excitement as a member of the Pathfinder Society.
 

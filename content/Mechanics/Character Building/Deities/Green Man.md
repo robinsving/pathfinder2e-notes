@@ -9,7 +9,6 @@ tags:
 ---
 
 # Green Man
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Individual green men are lesser deities, capable of granting spells to those who worship them. Green men typically only allow intelligent plants—such as leshys—to be their clerics. If another creature proves to be a friend of plants, after a thorough personal vetting, a green man wholeheartedly accepts this strange fleshy worshipper into the fold. While individual green men have different edicts and anathema befitting their personalities, and some neutral good or neutral evil green men might have further changes, the following is a baseline most worshippers of green men follow.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pirate Weapon Training
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You're particularly skilled at wielding traditional pirate weapons. You become trained with the following weapons: [[Hatchet]], [[Rapier]], [[Scimitar]], and [[Whip]].
 

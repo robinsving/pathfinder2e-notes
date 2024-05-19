@@ -8,6 +8,5 @@ tags:
 ---
 
 # Pick Up The Pace
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You lead by example and can help others push themselves beyond their normal limits. When [[Hustle|Hustling]] in a group during exploration mode, your group can Hustle for up to 20 additional minutes, to a maximum of the amount of time the character with the highest Constitution modifier could Hustle alone.

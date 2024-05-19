@@ -10,6 +10,5 @@ tags:
 ---
 
 # Celestial Mercy
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150 lp right]]
 
 Your celestial powers allow you to remove lesser afflictions with ease. You can cast _[[Cleanse Affliction]]_ twice per day as a 4th-rank divine innate spell.

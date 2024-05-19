@@ -8,6 +8,5 @@ tags:
 ---
 
 # Ceremony of Strengthened Hand
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your exoskeleton's weapons are even more potent. If you have a claws unarmed attack, it gains the deadly d8 trait. If you have a branch unarmed attack, it gains the shove and trip traits.

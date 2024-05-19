@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Pernicious Poison (Purple Worm Sting)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This wand is made of chitin, topped with a hooked barb that weeps droplets of foul-smelling, green fluid when you Activate the wand.
 

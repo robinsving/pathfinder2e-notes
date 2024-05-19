@@ -8,7 +8,6 @@ tags:
 ---
 
 # Drive Back
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An enemy within your reach Strikes an ally adjacent to you.
 

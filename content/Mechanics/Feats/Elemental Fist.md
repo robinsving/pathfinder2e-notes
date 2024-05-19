@@ -8,7 +8,6 @@ tags:
 ---
 
 # Elemental Fist
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You call upon the power of the elements, infusing your ki with elemental energy and allowing your attacks to deal energy damage.
 

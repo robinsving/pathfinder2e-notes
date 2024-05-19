@@ -8,7 +8,6 @@ tags:
 ---
 
 # Animal Senses
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain one of the following senses available to your inherent animal: [[Darkvision]], [[Low-Light Vision]], or scent (imprecise) 30 feet. You must have low-light vision before you can gain darkvision with this feat. If your inherent animal doesn't typically have a specific type of sense, you can't gain that sense with this feat.
 

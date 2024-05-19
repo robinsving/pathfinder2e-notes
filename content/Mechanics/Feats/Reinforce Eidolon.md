@@ -8,6 +8,5 @@ tags:
 ---
 
 # Reinforce Eidolon
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You buffer your eidolon. You gain the _reinforce eidolon_ link cantrip.

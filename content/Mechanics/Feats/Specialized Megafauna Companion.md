@@ -8,7 +8,6 @@ tags:
 ---
 
 # Specialized Megafauna Companion
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've trained your mammoth or other megafauna companion to perform in unusual or extreme situations, granting it abilities far beyond others of its kind. Your megafauna gains your choice of the bully, racer, tracker, or wrecker specialization.
 

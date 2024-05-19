@@ -8,7 +8,6 @@ tags:
 ---
 
 # Crimson Shroud
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Frequency** A number of times per day equal to your number of class feats from the Red Mantis assassin archetype
 

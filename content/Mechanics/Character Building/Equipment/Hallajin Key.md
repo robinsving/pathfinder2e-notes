@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hallajin Key
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 **Alignment** Chaotic Good
 

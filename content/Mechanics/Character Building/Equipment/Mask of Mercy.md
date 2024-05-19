@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mask of Mercy
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This porcelain or alabaster mask portrays an angelic visage of kindness and mercy. The mask grants a +1 item bonus to Medicine checks.
 

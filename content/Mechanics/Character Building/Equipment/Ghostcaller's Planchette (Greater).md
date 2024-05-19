@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ghostcaller's Planchette (Greater)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This miniature wooden planchette is engraved with symbols designed to attract spirits. When affixed, the symbols begin to glow, and the planchette turns slightly insubstantial. The spell DC of any spell cast by activating this item is 38.
 

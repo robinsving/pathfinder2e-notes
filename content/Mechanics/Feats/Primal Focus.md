@@ -8,6 +8,5 @@ tags:
 ---
 
 # Primal Focus
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your connection to nature is particularly strong, and the spirits of nature flock around you, helping you replenish your focus. Whenever you Refocus, completely refill your focus pool.

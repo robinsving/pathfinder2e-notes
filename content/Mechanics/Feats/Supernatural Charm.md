@@ -8,6 +8,5 @@ tags:
 ---
 
 # Supernatural Charm
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The elven magic in your blood manifests as a force you can use to become more appealing or alluring. You can cast 1st-rank [[Charm]] as an arcane innate spell once per day.

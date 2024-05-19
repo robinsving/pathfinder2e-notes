@@ -9,7 +9,6 @@ tags:
 ---
 
 # Magical Experiment
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 At some point in your life, powerful people performed magical experiments on you that changed you permanently. You may have signed up for this voluntarily, but it may have been against your will. You still bear the marks, as well as the abilities.
 

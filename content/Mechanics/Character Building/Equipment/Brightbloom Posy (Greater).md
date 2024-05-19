@@ -8,7 +8,6 @@ tags:
 ---
 
 # Brightbloom Posy (Greater)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Appearing as vibrant as the day they were picked, this cluster of flowers is arranged in a small spray, tied with a red satin ribbon. The spell DC of any spell cast by activating this item is 28.
 

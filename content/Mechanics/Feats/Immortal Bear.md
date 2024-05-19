@@ -8,6 +8,5 @@ tags:
 ---
 
 # Immortal Bear
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your body thrums with the primal vitality of the greatest of the ursine beasts. When in Ursine Avenger Form, you gain fast healing 5.

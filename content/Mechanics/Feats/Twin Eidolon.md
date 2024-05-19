@@ -8,7 +8,6 @@ tags:
 ---
 
 # Twin Eidolon
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can transform to match your eidolon. When you Manifest your Eidolon, you can call upon its powers to transform yourself into a duplicate until it unmanifests. You can't use this if you Manifest your Eidolon in an unusual way, such as Meld into Eidolon.
 

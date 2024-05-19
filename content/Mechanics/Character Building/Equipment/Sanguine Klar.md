@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sanguine Klar
-![[systems-pf2e-icons-default-icons-armor.svg|150]]
 
 This _+1 striking wounding klar_ (Hardness 8, HP 64, BT 32) is built with spikes made of beasts' fangs.
 

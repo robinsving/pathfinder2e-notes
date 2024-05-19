@@ -8,7 +8,6 @@ tags:
 ---
 
 # Extended Kinesis
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've refined the control you can exert over your elements. Add the following options to Base Kinesis.
 

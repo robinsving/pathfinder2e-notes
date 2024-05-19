@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Chromatic Burst (7th-level)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This intricately carved quartz wand changes color, cycling through the colors of the rainbow.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Curandero
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You learned the healing arts of your community wielding your ceremonial chonta, a tool you carved yourself and imbued with sacred oils and herbs. This process opened your eyes to ailments of a more mystical nature: malefic spirits, haunts, possession, and more. You likely took up adventuring to combat these horrors, or you may have fled an evil beyond your power to vanquish.
 

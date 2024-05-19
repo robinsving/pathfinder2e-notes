@@ -9,7 +9,6 @@ tags:
 ---
 
 # Pilgrim
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 In your youth, you made several pilgrimages to important shrines and holy sites. You might have been a mendicant friar, a seller of holy relics (real or fraudulent), or just a simple farmer following the dictates of your faith. Whatever the aims of your wanderings now, your faith still protects you on the road.
 

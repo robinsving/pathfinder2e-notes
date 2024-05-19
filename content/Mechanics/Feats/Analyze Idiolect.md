@@ -8,7 +8,6 @@ tags:
 ---
 
 # Analyze Idiolect
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You break down a specific individual's idiolect, memorizing their speech mannerisms and habits.
 

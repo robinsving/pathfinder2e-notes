@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dragontooth Club
-![[systems-pf2e-icons-default-icons-weapon.svg|150]]
 
 Dragon teeth line the edges of this _+2 greater striking leiomano_. The leiomano also has a flaming, frost, shock, or corrosive rune, as appropriate for the dragon from which the teeth were taken, which also grants the weapon the associated energy trait (for instance, fire for a club made with teeth taken from a red dragon).
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Inoculation
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have practice combating plague, and your patients are less likely to succumb to the same disease again for a time.
 

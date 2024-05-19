@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rebounding Assault
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You're wielding a loaded firearm or loaded crossbow in one hand and a bludgeoning or slashing melee weapon in the other.
 

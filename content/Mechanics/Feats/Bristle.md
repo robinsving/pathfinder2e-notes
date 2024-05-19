@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bristle
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You curl into a posture that splays out your bone spines. You gain a +1 circumstance to AC until the start of your next turn.
 

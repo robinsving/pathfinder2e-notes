@@ -8,7 +8,6 @@ tags:
 ---
 
 # Divine Access
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your ability to tap into divine magic surpasses the spells traditionally available to you (the divine spell list).
 

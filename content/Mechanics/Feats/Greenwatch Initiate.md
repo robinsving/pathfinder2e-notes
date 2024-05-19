@@ -8,6 +8,5 @@ tags:
 ---
 
 # Greenwatch Initiate
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've received the basic training developed for all Greenwatch recruits. You become an expert in Survival and gain the [[Experienced Tracker]] and [[Survey Wildlife]] skill feats.

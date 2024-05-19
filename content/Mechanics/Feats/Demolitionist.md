@@ -8,7 +8,6 @@ tags:
 ---
 
 # Demolitionist
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Access** You are from Dongun Hold or Alkenstar.
 

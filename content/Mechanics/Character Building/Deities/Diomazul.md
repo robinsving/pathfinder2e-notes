@@ -9,7 +9,6 @@ tags:
 ---
 
 # Diomazul
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 An obscure Vudran god of war, Diomazul, the Serpent of Eighty Blades, is a patron of ascetic meditation, bitter renewals, and inordinate retribution. Devotees and theologians speak of Diomazul as having the likeness of a massive, hooded cobra in serene slumber—80 arms folded in stillness comprise this hood, each hand grasping a sheathed blade. When roused to violence by enemies, Diomazul awakens, retaining his tranquil countenance, but his hood flares in a bristle of steel as he draws all 80 blades to welcome his newfound foes and offer a gift of their unmaking. Once the Serpent of Eighty Blades has concluded evicting the life from his enemies, he entwines his body around their remains, crushing their bones into the earth and scattering their blood into the waters, burying all spoor of their existence under his immense form.
 

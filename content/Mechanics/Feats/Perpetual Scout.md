@@ -8,7 +8,6 @@ tags:
 ---
 
 # Perpetual Scout
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You spot anything out of place in the areas you know best. While in your [[Favored Terrain]], you always gain the benefits of the [[Scout]] exploration activity, even if you are performing another exploration activity.
 

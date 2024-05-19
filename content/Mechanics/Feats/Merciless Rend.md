@@ -8,7 +8,6 @@ tags:
 ---
 
 # Merciless Rend
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** Your eidolon hit the same enemy with two consecutive Strikes with its secondary attack this turn and dealt slashing damage with both.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Feybound
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You have spent time in the First World or another realm of the fey and aren't entirely the same person you were before. Perhaps you made a purchase at the legendary Witchmarket or partook deeply of fey food and wine. Whatever the case, willingly or inadvertently, you made a bargain with the fey, the benefits of which come at a price.
 

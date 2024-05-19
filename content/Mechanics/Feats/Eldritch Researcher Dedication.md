@@ -8,7 +8,6 @@ tags:
 ---
 
 # Eldritch Researcher Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain the ability to cast a single arcane or occult cantrip of your choice (which is heightened to a spell level equal to half your level rounded up). If you weren't already, you become trained in that tradition's spell DCs and spell attack rolls with Intelligence as your spellcasting ability.
 

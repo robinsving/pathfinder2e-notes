@@ -9,7 +9,6 @@ tags:
 ---
 
 # Mystic Tutor
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You spent years predicting, identifying, and harnessing the innate magical talents of those around you. A magic-rich world has taught you that you can never have too much training when everyone around you is capable of magic.
 

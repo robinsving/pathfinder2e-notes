@@ -9,7 +9,6 @@ tags:
 ---
 
 # Grandmother Spider
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Throughout the Mwangi, there are few as highly respected as storytellers. As stewards of their peoples' oral traditions, they act as historians, educators, and entertainers, so it is only right that they pay homage to the goddess of stories, Grandmother Spider. Also known as Nana Anadi, Grandmother Spider was once content in her role as weaver of fate for the gods, as it gave her the ability to craft the grandest tales anyone had ever known. But as she told story after story at the other gods' whims, they failed to show proper respect to the one who made their glorious and terrible legends come to pass, treating her as a servant or a tool. Grandmother had no patience for overinflated egos, and even less for those who take credit for the work of others. She crafted unique humiliations tailored to each of the gods, and as tales of her mischief spread, she wove her own divinity from them. Some of the more prideful gods deny her still-worshiping Grandmother Spider is forbidden by Asmodeus for as long as she still twirls copies of his keys around her fingers, and Abadar still holds a grudge since the Century of the Unbalanced Scale. To the north of the Mwangi, there are almost no shrines dedicated to Grandmother Spider. But the clever and willful always find ways to revere her.
 

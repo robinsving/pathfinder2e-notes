@@ -9,7 +9,6 @@ tags:
 ---
 
 # Ranginori
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 The benevolent elemental lord of air is Ranginori, the Zephyrous Prince, lord of air, welcome breezes, and thunderstorms. When he appears before mortals, Ranginori takes the form of an immense, lion-headed serpent spun from forbidding clouds, with hundreds of clawed feet and a mane that dances with lightning. Recently freed from his imprisonment within the Untouchable Opal by agents of the Pathfinder Society, the Zephyrous Prince has accumulated a small but loyal following in search of liberation, hope, and change for the multiverse. He is regaining his strength and preparing to find and liberate the other benevolent elemental lords, bringing balance back to the Elemental Planes.
 

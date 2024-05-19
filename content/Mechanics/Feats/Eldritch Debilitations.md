@@ -8,7 +8,6 @@ tags:
 ---
 
 # Eldritch Debilitations
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You know how to apply debilitations that are particularly troublesome for spellcasters. Add the following debilitations to the list you can choose from when you use [[Debilitating Strike]].
 

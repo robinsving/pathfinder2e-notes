@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blazing Wave
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Flames flow out of you in a cascade, engulfing everyone in a 30 foot cone. Each creature in the area takes 4d6 fire  damage with a DC resolve reflex save against your class DC. A creature that critically fails its save is knocked [[Prone]].
 

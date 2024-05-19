@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bloodburn Censer
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 The exterior of this egg-shaped brass censer is polished to a mirror-like sheen. Several rings are attached to its sides at regular intervals. The top of the censer's lid is decorated with a pair of intertwining snakes.
 

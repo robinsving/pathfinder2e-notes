@@ -72,5 +72,3 @@ name: Ghoul
 creatures:
   - 1: Ghoul
 ```
-
-![[Esobok Ghoul-20231218231558151.webp]]

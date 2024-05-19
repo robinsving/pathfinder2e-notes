@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mind Smith Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've learned to imagine a shape in your mind, to envision it so strongly it takes form in the material world. You gain a single melee weapon of your choosing, called a mind weapon. Your mind weapon is a martial melee weapon. The overall shape and design of your mind weapon can be of your choosing but it has one of the following four basic statistics:
 

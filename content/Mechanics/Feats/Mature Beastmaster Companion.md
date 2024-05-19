@@ -8,6 +8,5 @@ tags:
 ---
 
 # Mature Beastmaster Companion
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 All of your animal companions grow up, becoming mature animal companions and gaining additional capabilities. During an encounter, even if you don't use the [[Command an Animal]] action, your animal companion can still use 1 action on your turn to either Stride or Strike.

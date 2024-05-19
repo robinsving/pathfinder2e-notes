@@ -8,7 +8,6 @@ tags:
 ---
 
 # Walk The Plank
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You frighten a foe into moving where you want them, traditionally demanding they walk the plank. Attempt to [[Demoralize]] an opponent; this check gains the incapacitation trait.
 

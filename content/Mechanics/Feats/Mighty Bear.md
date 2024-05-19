@@ -8,6 +8,5 @@ tags:
 ---
 
 # Mighty Bear
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The power of the bear within you can expand your physical presence even further. The _[[Enlarge]]_ spell you cast with your Great Bear feat is heightened to 4th level.

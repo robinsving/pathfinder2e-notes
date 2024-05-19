@@ -8,6 +8,5 @@ tags:
 ---
 
 # Inner Breath
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your body is capable of recycling its own air. When you hold your breath, you can do so for an additional hour. At the end of this hour, your body needs to rest before it can recycle air again. This rest requires 10 minutes of exposure to breathable air.

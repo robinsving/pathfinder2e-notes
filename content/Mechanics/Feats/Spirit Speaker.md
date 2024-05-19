@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spirit Speaker
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You know that when an animal dies, its spirit lingers briefly before moving on. Using low chants, body language that shows respect, and special movements that demonstrate to the spirit that you are an ally, you glean information from a spirit before it departs. This is a 1-minute activity. You must begin the activity while adjacent to the body of an animal or beast that died within the last 1 minute.
 

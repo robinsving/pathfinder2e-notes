@@ -8,6 +8,5 @@ tags:
 ---
 
 # Surprise Strike
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Whenever you make a Strike with an improvised weapon against a creature that hasn't seen you make a Strike using an improvised weapon or that is otherwise ignorant of your skill with improvised weapons, the creature is [[Off-Guard]] against you for that Strike.

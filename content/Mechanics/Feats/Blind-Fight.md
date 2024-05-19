@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blind-Fight
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Fighter, Rogue** Your battle instincts make you more aware of [[Concealed]] and [[Invisible]] opponents.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sixth Pillar Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You use your physical discipline to channel your magic. If your proficiency rank in unarmed attacks is at least expert, your proficiency rank in spell attacks increases to expert. Likewise, if your proficiency rank in spell attacks is at least expert, your proficiency rank in unarmed attacks improves to expert. You become an expert in Athletics, or in another trained skill if you were already expert in Athletics.
 

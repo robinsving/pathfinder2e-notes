@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bloodhound Olfactory Stimulators
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 These _olfactory stimulators_ can be enhanced to better localize scents.
 

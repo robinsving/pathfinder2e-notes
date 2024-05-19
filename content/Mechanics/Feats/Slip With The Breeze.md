@@ -8,6 +8,5 @@ tags:
 ---
 
 # Slip With The Breeze
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You create gusts of wind when you jump, allowing you to carry yourself across greater distances. You gain the [[Quick Jump]] and [[Powerful Leap]] skill feats as bonus feats.

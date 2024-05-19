@@ -9,7 +9,6 @@ tags:
 ---
 
 # Lorthact's Cult
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Lorthact's cult is incredibly small. Even in his reduced state, he can still grant spells to his few remaining clerics. His symbol is a staff wrapped in scrolls.
 

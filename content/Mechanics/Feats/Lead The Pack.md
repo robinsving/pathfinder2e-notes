@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lead The Pack
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can have up to two animal companions active at once. However, when you do, it's slightly more difficult to [[Command an Animal|Command]] them. If you don't Command either of your companions, one of the two (your choice) can still use 1 action on your turn to Stride or Strike, as per Mature Beastmaster Companion, but not both.
 

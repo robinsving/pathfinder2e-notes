@@ -8,7 +8,6 @@ tags:
 ---
 
 # Familiar Mascot
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your familiar is the heart and soul of your adventuring team.
 

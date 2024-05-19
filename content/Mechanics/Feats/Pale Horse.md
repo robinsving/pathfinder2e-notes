@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pale Horse
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your mount becomes a grotesque creature of foreboding when you ride it. Its appearance transforms as flames erupt from its skin, a whorl of void energy surrounds it, or poison leaks from its flesh.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Greater Mercy
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your faith enhances your ability to remove conditions.
 

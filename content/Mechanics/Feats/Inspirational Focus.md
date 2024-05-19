@@ -8,6 +8,5 @@ tags:
 ---
 
 # Inspirational Focus
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your connection to your muse has granted you unusual focus. Whenever you Refocus, completely refill your focus pool.

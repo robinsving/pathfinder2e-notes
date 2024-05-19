@@ -8,7 +8,6 @@ tags:
 ---
 
 # Extend Boost
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can increase the duration of your eidolon's boosts.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Munitions Crafter
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Bullets and bombs can be scarce in some parts, so you've learned to make your own. You become trained in Crafting and gain the alchemist's infused reagents class feature, gaining a number of reagents each day equal to your level. You also gain the [[Alchemical Crafting]] feat and four additional formulas for 1st-level alchemical items.
 

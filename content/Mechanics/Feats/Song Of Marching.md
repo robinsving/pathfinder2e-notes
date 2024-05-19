@@ -8,6 +8,5 @@ tags:
 ---
 
 # Song Of Marching
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You learn the _[[Song of Marching]]_ composition cantrip, which enables you and your allies to cross vast distances without strain.

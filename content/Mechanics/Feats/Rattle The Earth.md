@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rattle The Earth
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Striking the ground with the gravity of the deepest rocks, you cause an earthquake. This has the effects of _[[Earthquake]]_ but comes from you, with an area of a 60 foot cone or an emanation with the same size as your kinetic aura. You and your space are unaffected by the quake. The fissures are only 10 feet deep, and the DC of the flat check for a collapse is 4 higher.
 

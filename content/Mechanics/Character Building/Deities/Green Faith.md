@@ -9,7 +9,6 @@ tags:
 ---
 
 # Green Faith
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 The worshippers of the Green Faith count many druids among their number. They view nature as divine and draw strength from the knowledge of their place in the natural order.
 

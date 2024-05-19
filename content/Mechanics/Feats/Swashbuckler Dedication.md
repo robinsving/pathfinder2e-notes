@@ -8,7 +8,6 @@ tags:
 ---
 
 # Swashbuckler Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Choose a [[Swashbuckler's Style|Swashbuckler Style]]. You gain the [[Panache]] class feature, and you can gain panache in all the ways a swashbuckler of your style can.
 

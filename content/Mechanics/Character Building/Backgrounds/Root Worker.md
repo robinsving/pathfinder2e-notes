@@ -9,7 +9,6 @@ tags:
 ---
 
 # Root Worker
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Some ailments can't be cured by herbs alone. You learned ritual remedies as well, calling on nature spirits to soothe aches and ward off the evil eye. Taking up with adventurers has given you company on the road, as well as protection from those who would brand you a fake-or worse.
 

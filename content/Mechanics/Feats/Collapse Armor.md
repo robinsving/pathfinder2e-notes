@@ -8,7 +8,6 @@ tags:
 ---
 
 # Collapse Armor
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are wearing your armor innovation, or holding it in both hands in its compact form (see text).
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shadowcaster Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've sacrificed a piece of your spirit, allowing the powers of shadow into your being and changing the nature of your magic. You can no longer cast spells that have the light trait; if an ability, such as a class feature or ancestry feat, would automatically grant you a light spell, such as the [[Domain Initiate]] feat granting you the _[[Dazzling Flash]]_ spell, you don't gain that spell.
 

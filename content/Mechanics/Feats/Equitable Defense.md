@@ -8,7 +8,6 @@ tags:
 ---
 
 # Equitable Defense
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You take damage from a critical hit.
 

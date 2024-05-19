@@ -8,6 +8,5 @@ tags:
 ---
 
 # Shadow's Assault
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your shadow assaults your foes. You can cast _[[Shadow Blast]]_ as a 5th-level occult innate spell once per day. At 17th level, your _shadow blast_ is heightened to 6th level.

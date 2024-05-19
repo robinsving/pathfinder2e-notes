@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dash of Herbs
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 A small cloud of medicinal herbs heal a creature. The type of herbs depends on which malady you decide to treat: [[Confused]], disease, poison, [[Sickened 1|Sickened]], or injuries. Target one living creature within 30 feet, who regains 2d8+4 HP and can attempt a new save against one malady of the chosen kind. If you chose injuries, instead increase the healing dice to d10s. The creature becomes temporarily immune to Dash of Herbs for 10 minutes.
 

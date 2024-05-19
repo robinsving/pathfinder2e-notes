@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Battle Medic's Baton
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This short bronze rod has the form of a serpent coiled around it. While you hold it, you gain a +1 item bonus to Medicine checks.
 

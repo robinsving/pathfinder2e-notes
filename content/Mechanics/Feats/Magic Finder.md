@@ -8,7 +8,6 @@ tags:
 ---
 
 # Magic Finder
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've learned a few tricks to ensure you find every last magic item and interesting magical effect during your missions. You can cast detect magic and read aura as innate spells at will. You can also cast locate as an innate spell once per day, but only to locate magic items, not specific mundane objects or types of objects. If you could already cast spells, these spells are of the same tradition. Otherwise, they're arcane spells, you use Intelligence as your spellcasting ability, and you become trained in spell attack rolls and spell DCs for arcane spells.
 

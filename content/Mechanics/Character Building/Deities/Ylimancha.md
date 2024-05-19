@@ -9,7 +9,6 @@ tags:
 ---
 
 # Ylimancha
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Ylimancha gazes out over the world's coastlines, presiding over coastal waters, fishers, and flying creatures. Also known as Harborwing, she believes in harmony between the seas, the skies, and the beings of the land. Sustenance and resources can be taken from the sea by those on shore, but not so much that the balance is upset. The sea may sometimes encroach on the land, but breakwaters can be built to keep communities on land dry and safe. Ylimancha likewise loves all creatures that fly, though the demon lord [[Pazuzu]] also claims dominion over them, bringing the two into endless conflict and causing her to mourn deeply each creature he converts to his worship.
 

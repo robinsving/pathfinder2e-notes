@@ -8,7 +8,6 @@ tags:
 ---
 
 # Riptide
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are within 10 feet of water at least 10 feet deep, and your Speed is sufficient to reach the water in one Stride.
 

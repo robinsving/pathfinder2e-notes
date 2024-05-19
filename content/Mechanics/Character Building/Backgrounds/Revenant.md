@@ -9,7 +9,6 @@ tags:
 ---
 
 # Revenant
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You died. No real doubt about that. Bullet to the brain or knife to the throat, you were dead as dead can be. Then you got back up again. Maybe you had some unfinished business, or maybe you were just so tough and so mean that Hell itself spat you out. Either way, you came back for a reason.
 

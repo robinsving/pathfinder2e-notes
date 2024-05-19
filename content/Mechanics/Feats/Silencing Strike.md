@@ -8,7 +8,6 @@ tags:
 ---
 
 # Silencing Strike
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 A quick strike to the face or mouth silences your opponent. Make a melee Strike against a foe. The foe must succeed at a DC resolve fortitude save against your class DC.
 

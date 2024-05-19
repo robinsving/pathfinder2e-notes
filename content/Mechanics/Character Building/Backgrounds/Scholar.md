@@ -9,7 +9,6 @@ tags:
 ---
 
 # Scholar
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You have a knack for learning and sequestered yourself from the outside world to learn all you could. You read about so many wondrous places and things in your books, always dreaming about one day seeing the real things. Eventually, that curiosity led you to leave your studies and become an adventurer.
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Champion's Sacrifice
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can suffer so that others might live. You can cast the _[[Champion's Sacrifice]]_ devotion spell. Increase the number of Focus Points in your focus pool by 1.

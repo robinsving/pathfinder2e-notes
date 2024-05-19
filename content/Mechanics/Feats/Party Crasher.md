@@ -8,7 +8,6 @@ tags:
 ---
 
 # Party Crasher
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You attend all the fashionable society parties, no matter how exclusive they might be.
 

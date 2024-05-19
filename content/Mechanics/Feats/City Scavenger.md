@@ -8,7 +8,6 @@ tags:
 ---
 
 # City Scavenger
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You know that the greatest treasures often look like refuse. You gain a +1 circumstance bonus to checks to Subsist, and you can use Society or Survival when you [[Subsist]] in a settlement.
 

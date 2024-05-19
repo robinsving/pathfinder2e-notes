@@ -8,7 +8,6 @@ tags:
 ---
 
 # Divine Infusion
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You pour energy into the subject of your healing to empower its attacks. If the next action you use is to cast [[Harm]] or [[Heal]] to restore Hit Points to a single creature, the target then deals an additional 1d6 damage with its melee weapons and unarmed attacks until the end of its next turn. The damage type is void if you cast _harm_ and vitality if you cast _heal_.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shape of the Cloud Dragon
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've discovered how to transform yourself into a cloud dragon. Once per day, you can cast 7th-level _[[Dragon Form]]_ as an innate arcane spell, transforming into a cloud dragon. The spell automatically heightens to 8th level if you're 16th level and 9th level if you're 18th level.
 

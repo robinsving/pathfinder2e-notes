@@ -8,7 +8,6 @@ tags:
 ---
 
 # Reckless Abandon (Barbarian)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** Your turn begins, and you are at half or fewer Hit Points.
 

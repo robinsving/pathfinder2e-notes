@@ -9,7 +9,6 @@ tags:
 ---
 
 # Senghor Sailor
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 **Prerequisite** Region - Mwangi Expanse
 

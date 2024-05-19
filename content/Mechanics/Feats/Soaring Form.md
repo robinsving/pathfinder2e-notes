@@ -8,6 +8,5 @@ tags:
 ---
 
 # Soaring Form
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your wings grow stronger. You gain the effects of [[Soaring Flight]] at all times.

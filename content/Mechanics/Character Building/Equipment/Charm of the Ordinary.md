@@ -8,7 +8,6 @@ tags:
 ---
 
 # Charm of the Ordinary
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 **Activate** 2 envision, Interact
 

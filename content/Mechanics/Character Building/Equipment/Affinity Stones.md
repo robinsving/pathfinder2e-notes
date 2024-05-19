@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Affinity Stones
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Dwarven tales state that the first set of these stones was created by a dwarven lapidary for his elven sweetheart. The gem he chose was amber—to show his clan that a union between stone and leaf was possible. His family remained hesitant, despite the unmistakable love that the men shared. The tales then say that it was Folgrit who grew impatient and transformed the stones as a sign of her approval.
 

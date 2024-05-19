@@ -8,7 +8,6 @@ tags:
 ---
 
 # Grievous Blow
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You know how to deliver focused, powerful blows that bypass your enemies' resistances.
 

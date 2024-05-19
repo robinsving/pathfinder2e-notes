@@ -9,7 +9,6 @@ tags:
 ---
 
 # Lahkgya
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Edicts** Steal luxuries for yourself, destroy property for fun, demand bribes to spare creatures from your torments
 

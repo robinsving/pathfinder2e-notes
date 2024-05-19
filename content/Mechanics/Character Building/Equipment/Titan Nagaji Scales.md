@@ -8,7 +8,6 @@ tags:
 ---
 
 # Titan Nagaji Scales
-![[systems-pf2e-icons-default-icons-armor.svg|150]]
 
 **Note** Titan Nagaji herotage only
 

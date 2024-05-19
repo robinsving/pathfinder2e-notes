@@ -9,7 +9,6 @@ tags:
 ---
 
 # Marishi
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Marishi is an azata empyreal lord and the goddess of athletics and sport, enthusiastic competition, and joyous celebration. She takes joy from competitions, games, and contests of all kinds, including artistic contests, like dance-offs and art showcases; mental contests, like trivia and complex board games; athletic contests, like races and weightlifting; and organized sports. Regardless of the contest, Marishi believes participants should strive for victory, compete honorably, and show pride in their accomplishments and efforts. She believes the winners of any competition should celebrate their victory and be lauded by others, for such is the prize for triumph. Marishi teaches that competition and the ensuing revelry should be fun and safe, for no joy can come from bringing harm to others.
 

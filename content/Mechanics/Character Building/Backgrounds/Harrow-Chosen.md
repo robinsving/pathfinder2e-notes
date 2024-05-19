@@ -9,7 +9,6 @@ tags:
 ---
 
 # Harrow-Chosen
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Unbeknownst to you, a powerful divination has confirmed that you're destined for greatness. This divination hints at a great potential you're only just beginning to understand.
 

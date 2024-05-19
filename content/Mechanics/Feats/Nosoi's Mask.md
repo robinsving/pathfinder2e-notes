@@ -8,7 +8,6 @@ tags:
 ---
 
 # Nosoi's Mask
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Many psychopomps wear masks when dealing with the living, and many cultures believe that seeing an unmasked psychopomp's face invites death.
 

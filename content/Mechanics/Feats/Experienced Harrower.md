@@ -8,6 +8,5 @@ tags:
 ---
 
 # Experienced Harrower
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you perform the _[[Harrowing]]_ ritual, the DC for the Primary Check is never more than the standard DC by level, and the cost for the ritual is halved. If you use a fine harrow deck, the cost for the ritual is removed entirely.

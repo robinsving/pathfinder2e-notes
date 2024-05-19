@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sanguine Klar (Greater)
-![[systems-pf2e-icons-default-icons-armor.svg|150]]
 
 This _+2 greater striking wounding klar_ (Hardness 13, HP 100, BT 50) is built with spikes made of beasts' fangs.
 

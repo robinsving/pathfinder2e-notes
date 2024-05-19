@@ -8,7 +8,6 @@ tags:
 ---
 
 # Clever Gambit
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** Your Strike critically hits and deals damage to a creature you've identified with [[Recall Knowledge]].
 

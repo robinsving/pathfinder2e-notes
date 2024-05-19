@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Dumbfounding Doom (7th-level)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Carvings of skulls, monsters, and all manner of violence decorate this wand of blackened bone, but it makes absurd sounds when Activated, such as a honking horn, a manic giggle, or a daydreamy sigh.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Discreet Inquiry
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are subtle in your efforts to learn the things you need to know.
 

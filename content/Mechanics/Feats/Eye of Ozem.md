@@ -8,6 +8,5 @@ tags:
 ---
 
 # Eye of Ozem
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've learned how to spot danger at a distance, allowing you to serve as a sentry with ease. You gain a +2 circumstance bonus to initiative rolls when using Perception, and when you're Scouting, you grant your allies a +2 circumstance bonus instead of +1.

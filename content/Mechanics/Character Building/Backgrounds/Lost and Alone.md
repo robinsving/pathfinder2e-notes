@@ -9,7 +9,6 @@ tags:
 ---
 
 # Lost and Alone
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You were training to become a knight in Lastwall when the Whispering Tyrant escaped his imprisonment and destroyed the nation. It was only by dumb luck that you are alive at all, but the memories of that fateful day haunt your dreams. When play begins, you have boarded a caravan heading toward a new town, having worn out your welcome at the taverns and inns of Elidir.
 

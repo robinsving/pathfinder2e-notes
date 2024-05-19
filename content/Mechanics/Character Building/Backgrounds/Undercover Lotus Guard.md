@@ -9,7 +9,6 @@ tags:
 ---
 
 # Undercover Lotus Guard
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 It's a well-known secret that for every playhouse in the Ivy District, there's an underground criminal element lurking somewhere in the shadows. To get intel on the occultists, assassins, and thieves' guilds that pull the strings of power in the Ivy District, the Lotus Guard trains some of the best undercover agents and operatives in all of Absalom. You're one such agent, and you've put your life on the line more times than you can count by getting close to the Ivy's most dangerous criminals. Your risky missions and thrill-seeking derring-do have earned you many accolades-but also no shortage of enemies.
 

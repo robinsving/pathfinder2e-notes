@@ -8,7 +8,6 @@ tags:
 ---
 
 # Scizore of the Crab
-![[systems-pf2e-icons-default-icons-weapon.svg|150]]
 
 A _scizore of the crab_ is a _+1 scizore_ that has the grapple trait in addition to its normal weapon traits.
 

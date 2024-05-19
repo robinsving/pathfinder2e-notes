@@ -8,7 +8,6 @@ tags:
 ---
 
 # Specialized Companion (Druid)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your animal companion continues to grow in power and ability. It gains one specialization of your choice
 

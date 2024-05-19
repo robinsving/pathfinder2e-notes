@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wildborn Magic
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Access** Mualijae ethnicity
 

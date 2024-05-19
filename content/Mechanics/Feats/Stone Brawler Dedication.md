@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stone Brawler Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've learned to call the primal power of elemental stone to your aid. You gain the [[Stonestrike Stance]] action.
 

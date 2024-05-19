@@ -8,7 +8,6 @@ tags:
 ---
 
 # Slayer's Strike
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've dedicated yourself to studying ancient techniques and memorized minor prayers against undead to swiftly dispatch them. Make a Strike against a creature you know is undead. This counts as two attacks when calculating your multiple attack penalty. If this Strike hits, you deal one extra die of vitality damage, with the same die size as the weapon or unarmed attack you used. Any further Strikes you make against the same creature before the start of your next turn using the same weapon or unarmed attack deal extra vitality damage equal to the number of weapon dice. As normal, the vitality damage harms only undead and creatures with void healing.
 

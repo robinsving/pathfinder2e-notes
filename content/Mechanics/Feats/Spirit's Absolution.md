@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spirit's Absolution
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Cost** 1 spirit wisp or spirit remnant from your spirit dwelling
 

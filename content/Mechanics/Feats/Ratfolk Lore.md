@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ratfolk Lore
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Years of experience among ratfolk communities have made you nimble, and you've learned to run and hide when enemies threaten.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Deadly Simplicity
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you are wielding your deity's favored weapon, increase the damage die size of that weapon by one step.
 

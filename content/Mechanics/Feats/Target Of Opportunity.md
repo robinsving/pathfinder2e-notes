@@ -8,7 +8,6 @@ tags:
 ---
 
 # Target Of Opportunity
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An ally succeeds at a ranged Strike against an opponent within your weapon's first range increment.
 

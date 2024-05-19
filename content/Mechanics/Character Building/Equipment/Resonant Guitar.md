@@ -8,7 +8,6 @@ tags:
 ---
 
 # Resonant Guitar
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Every part of this dark, shining guitar, from the strings to the soundboard, is constructed of metal. When the strings are strummed, the gilding on the guitar ripples like a liquid. A _resonant guitar_ is a virtuoso handheld musical instrument that grants a +2 item bonus to Performance checks attempted while using it.
 

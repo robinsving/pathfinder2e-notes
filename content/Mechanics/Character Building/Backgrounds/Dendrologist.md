@@ -9,7 +9,6 @@ tags:
 ---
 
 # Dendrologist
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Trees grow in every biome, and your awe at their ability to conquer terrain has inspired deeper study into their workings. There are trees everywhere, and your study of them will inevitably take you ever further afield in search of new varieties, perhaps even to the Plane of Wood itself.
 

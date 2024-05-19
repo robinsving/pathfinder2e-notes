@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pierce the Darkness
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your eyes have adapted to see in all circumstances, even without the assistance of light. You gain [[Darkvision]], allowing you to see in darkness and dim light just as well as you can in bright light. However, in darkness you see in black and white only.
 

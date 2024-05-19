@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fan of Soothing Winds
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This fan of _soothing winds_ has six cloud-shaped glass beads on the bottom of the fan, one on each of the exposed ribs. One side of the beads is white, and the other is a dark, stormy gray. Once flipped, a bead stays on its newly exposed side for an entire day before resetting overnight.
 

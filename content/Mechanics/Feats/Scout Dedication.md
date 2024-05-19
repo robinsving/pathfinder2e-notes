@@ -8,7 +8,6 @@ tags:
 ---
 
 # Scout Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are a highly skilled scout, capable of providing your allies a timely warning of any danger. You gain the [[Scout's Warning]] ranger feat.
 

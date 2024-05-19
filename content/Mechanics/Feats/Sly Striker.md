@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sly Striker
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your attacks deal more damage, even against creatures that aren't [[Off-Guard]]. When you succeed or critically succeed at a Strike against a creature that isn't off-guard, you also deal 1d6 precision damage. This applies only if you're using a weapon or unarmed attack you could deal sneak attack damage with.
 

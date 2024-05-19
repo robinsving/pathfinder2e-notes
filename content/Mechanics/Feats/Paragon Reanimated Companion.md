@@ -8,6 +8,5 @@ tags:
 ---
 
 # Paragon Reanimated Companion
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have reached the pinnacle of necromantic science, creating a mechanical zombie unlike any the world has seen before. Your reanimated construct companion becomes a paragon construct companion.

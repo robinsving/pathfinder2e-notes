@@ -8,7 +8,6 @@ tags:
 ---
 
 # Quick Positioning
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You could see your hunted prey when you rolled initiative at the beginning of the encounter, and this is your first action on your first turn of the encounter.
 

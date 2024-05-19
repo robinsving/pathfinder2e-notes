@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hasted Assault
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can speed yourself up to move and attack more swiftly. You learn the _[[Hasted Assault]]_ conflux spell.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sealed Poppet
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've reinforced your interior parts with sealant or other flame-retardant materials, protecting you from fire. You no longer have the weakness to fire from the flammable ability.
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Gnaw
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 With enough time and determination, you can chew through nearly anything. You deal double your jaws damage to an unattended, inanimate object.

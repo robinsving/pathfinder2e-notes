@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shore Step
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The shallows and tide pools have always called to you and let you pass unhindered. You ignore difficult terrain resulting from shallow water.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Halcyon Speaker Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You devote much of your study to halcyon magic. You gain two common Halcyon cantrips and two common 1st-level halcyon spells. In addition to being able to cast your halcyon spells via your arcane or primal spell slots, you also gain a 1st-level halcyon spell slot. You can use your halcyon spell slots to spontaneously cast your halcyon spells.
 

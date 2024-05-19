@@ -8,7 +8,6 @@ tags:
 ---
 
 # Corrosive Engravings
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 These tin sheets are bound in brass and show significant signs of erosion. The grimoire's title is acid-etched, and flipping between the sheets leaves your fingers covered in flecks of rust and powdery metal.
 

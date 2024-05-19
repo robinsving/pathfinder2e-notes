@@ -8,7 +8,6 @@ tags:
 ---
 
 # Perfect Debilitation
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have perfected the formulas for bombs that impede your enemies.
 

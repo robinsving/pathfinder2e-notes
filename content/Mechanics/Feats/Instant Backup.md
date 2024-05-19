@@ -8,7 +8,6 @@ tags:
 ---
 
 # Instant Backup
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** Your attack with a firearm misfires.
 

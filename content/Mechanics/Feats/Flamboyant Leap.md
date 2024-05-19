@@ -8,7 +8,6 @@ tags:
 ---
 
 # Flamboyant Leap
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are capable of using a finisher.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Parthenogenic Hatchling
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You were hatched from an unfertilized egg during hard times for your people, and you are a biological copy of your mother.
 

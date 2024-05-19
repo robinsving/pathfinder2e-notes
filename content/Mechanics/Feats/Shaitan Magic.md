@@ -8,6 +8,5 @@ tags:
 ---
 
 # Shaitan Magic
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The magic of shaitans runs through your blood. You can cast _[[Revealing Light]]_ and _[[Resist Energy]]_ once per day each as 2nd-level arcane innate spells.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Betraying Shank
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are within melee reach of a target, but it is not in combat with you.
 

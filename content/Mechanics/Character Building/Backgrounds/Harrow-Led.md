@@ -9,7 +9,6 @@ tags:
 ---
 
 # Harrow-Led
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You were the subject of a harrow reading at a pivotal point in your life, such as on an important birthday, or upon reaching adulthood. The reading was eerily accurate and has been relevant, for good or ill, at more points in your life than you could call mere coincidence.
 

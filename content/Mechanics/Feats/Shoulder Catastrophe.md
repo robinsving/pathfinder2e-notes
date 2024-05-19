@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shoulder Catastrophe
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An enemy critically succeeds at a Strike against an adjacent ally.
 

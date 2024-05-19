@@ -8,6 +8,5 @@ tags:
 ---
 
 # Offensive Analysis
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can enhance your senses and mental state to consider every aspect of an attack. You can cast _[[Sure Strike]]_ as a divine innate spell once per day.

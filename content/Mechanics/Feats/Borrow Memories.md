@@ -8,7 +8,6 @@ tags:
 ---
 
 # Borrow Memories
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Knowing how someone thinks makes it much easier to know where they'll be, or even replace them altogether. You can cast _[[Mind Probe]]_ as an innate occult spell once per day, using your class DC or spell DC, whichever is higher.
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # No Evidence
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You leave little sign when attempting to remain unseen. When you [[Avoid Notice]], you also gain the benefits of [[Cover Tracks]] unless you choose not to.

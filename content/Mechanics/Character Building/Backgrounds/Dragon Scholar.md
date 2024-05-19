@@ -9,7 +9,6 @@ tags:
 ---
 
 # Dragon Scholar
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Dragons have fascinated you for as long as you can remember. The potent power they possess, the long lives they lead, the ancient traditions they inspire-whatever the source of your interest, you've spent much of your life to this point immersed in all things draconic. These studies have bolstered your self-confidence and given you a wide range of methods and tactics you can use to impose your will on others.
 

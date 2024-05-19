@@ -9,7 +9,6 @@ tags:
 ---
 
 # Magrim
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Magrim is the demigod† overseer of the dwarven afterlife who first taught the dwarves how to commune with their gods. He is responsible for restoring wracked souls to be ready to return to the Material Plane of mortals. Together with Angradd, Magrim watches over battles. Torag, creator of the mortal dwarven race, is his younger brother.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blessed One Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are touched by a deity and gifted with the ability to alleviate the suffering of others.
 

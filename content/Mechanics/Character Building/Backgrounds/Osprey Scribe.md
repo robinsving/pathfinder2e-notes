@@ -9,7 +9,6 @@ tags:
 ---
 
 # Osprey Scribe
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Either as a punishment or because of political ambition, you work for Elder Vandous. On her trip to Iron Harbor, Elder Ordwi needs someone at her side who is a skilled observer and adept at keeping journals; she hopes to provide the other elders with accurate information about their sibling village upon her return.
 

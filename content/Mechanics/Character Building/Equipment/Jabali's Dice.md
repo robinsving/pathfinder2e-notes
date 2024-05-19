@@ -8,7 +8,6 @@ tags:
 ---
 
 # Jabali's Dice
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 _Jabali's dice_ are two six-sided dice carved from evenly weighted stone to the specifications of a specific jabali shuyookh. The sides showing a 6 also have the name and title of the shuyookh inscribed in Petran. If you whisper the name and title during a dice game using _jabali's dice_, they bless you with a bit of luck, granting a +2 item bonus to your Games Lore check. You can do so frequently enough to apply this bonus while Earning Income using Games Lore, but only one user at a time can do so.
 

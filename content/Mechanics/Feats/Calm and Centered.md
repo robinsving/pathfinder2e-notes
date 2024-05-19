@@ -8,6 +8,5 @@ tags:
 ---
 
 # Calm and Centered
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your occult connection to the world helps you deal with being [[Frightened]] or [[Stupefied]]. When your frightened or stupefied condition values would decrease, decrease the value by 2.

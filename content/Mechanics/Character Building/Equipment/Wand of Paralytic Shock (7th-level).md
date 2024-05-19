@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Paralytic Shock (7th-level)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 A two-pronged metal rod, this wand has a handle coated in thick rubber. Each prong ends in a copper coil. When Activated, the wand produces a loud zapping sound.
 

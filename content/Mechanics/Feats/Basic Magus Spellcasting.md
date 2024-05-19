@@ -8,6 +8,5 @@ tags:
 ---
 
 # Basic Magus Spellcasting
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain the [[Bounded Spellcasting Archetypes#Basic Bounded Spellcasting Feat|Basic Bounded Spellcasting Feat]] benefits.

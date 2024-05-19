@@ -8,7 +8,6 @@ tags:
 ---
 
 # Warren Navigator
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You're particularly good at solving mazes and navigating twists and turns. You gain the trained proficiency rank in Survival. If you would automatically become trained in Survival (from your background or class, for example), you become trained in another skill of your choice.
 

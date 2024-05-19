@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lucky Break
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You catch yourself as you make a mistake. You can trigger [[Cat's Luck]] when you fail or critically fail on an Athletics or Acrobatics skill check, in addition to its normal trigger. When you do, you reroll the triggering skill check and use the better result.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pelagic Aptitude
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've learned special tricks to survive underwater. You gain the trained proficiency rank in Survival.
 

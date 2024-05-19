@@ -9,7 +9,6 @@ tags:
 ---
 
 # Total Power
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Whether you desire simple security after a life of uncertainty or you're actually just a control freak, power over your own fate is the thing you've always wanted. On the night of the Missing Moment, you glimpsed such power amid the light of a glowing archway, and you stepped through, eager to claim control over your destiny. What happened next, you don't remember—you came to at the same place you'd started, though clearly a lot of time had passed. Ever since that night, your body has felt heavier than before. You soon discovered that you could will your very bones into extending from your flesh like thorns from a rose's stem. Though you didn't choose the title gatewalker for yourself, you're sure you can use your strange new power to exercise control over your life.
 

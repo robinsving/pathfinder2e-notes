@@ -9,7 +9,6 @@ tags:
 ---
 
 # Isis
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Isis** is a member of the pantheon often worshiped in Ancient Osirion.
 

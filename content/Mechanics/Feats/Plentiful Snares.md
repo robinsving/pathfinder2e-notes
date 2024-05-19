@@ -8,6 +8,5 @@ tags:
 ---
 
 # Plentiful Snares
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can prepare incredible numbers of snares each day out of simple ingredients. Double the number of prepared snares granted by Snarecrafter Dedication.

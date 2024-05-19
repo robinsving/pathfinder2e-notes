@@ -8,7 +8,6 @@ tags:
 ---
 
 # Elastic Mutagen
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can cause your body to twist and flow like the quicksilver within your mutagens.
 

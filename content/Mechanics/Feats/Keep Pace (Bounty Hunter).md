@@ -8,7 +8,6 @@ tags:
 ---
 
 # Keep Pace (Bounty Hunter)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** Your prey is within reach and attempts to move away from you.
 

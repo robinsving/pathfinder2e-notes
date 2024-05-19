@@ -8,7 +8,6 @@ tags:
 ---
 
 # Conceited Mindset
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Because you know your mind is superior, you scoff at anyone who would alter your mental state-but this hubris gets the better of you when you're wrong.
 

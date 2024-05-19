@@ -8,7 +8,6 @@ tags:
 ---
 
 # Taste Blood
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You retain not only your vampiric parent's taste for blood but their ability to gain vitality from it. You drink fresh blood from a living humanoid creature, gaining temporary Hit Points equal to the target's level that last for 10 minutes. The target must succeed at a DC resolve fortitude save against the higher of your class or spell DC or become [[Drained 1]]. Regardless of the outcome of this save, the target is temporarily immune to your Taste Blood for 1 day; further uses of this ability against the target don't increase the drained condition or grant you more temporary Hit Points.
 

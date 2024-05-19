@@ -9,7 +9,6 @@ tags:
 ---
 
 # Reborn Soul
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You were given a second opportunity at life by mysterious forces in the Lands of Second Souls. You remember your life before your death and now live with an extra lifetime of knowledge.
 

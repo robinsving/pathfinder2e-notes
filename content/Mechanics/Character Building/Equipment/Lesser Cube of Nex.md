@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lesser Cube of Nex
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 A Lesser Cube of Nex is an enchanted cube that measures an inch across. The sides of a Lesser Cube of Nex are decorated so that they can be distinguished by touch. Each Lesser Cube of Nex is attuned to a single school of magic. Within 5 feet of the Lesser Cube, all magic from that school is suppressed or impossible to cast, with the effects of a 10th-level _[[Antimagic Field]]_ spell. While there are eight Lesser Cubes of Nex, each of the artifacts is unique, as there's only one Lesser Cube of Nex for each school of magic.
 

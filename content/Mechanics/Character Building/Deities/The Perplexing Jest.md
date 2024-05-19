@@ -9,7 +9,6 @@ tags:
 ---
 
 # The Perplexing Jest
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 "No position is so secure, no despot so powerful, no god so exalted that they cannot be brought low." That is the key teaching of the Perplexing Jest. When a great king trips on his robe after berating a servant or a high priest's sleeve catches fire to interfere with a sacrifice, worshippers of these trickster gods see the hand of the divine. Court entertainers and bards naturally gravitate toward this faith, as many nations provide protections for them to speak their mind to rulers, however powerful.
 

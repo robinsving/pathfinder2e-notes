@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ratspeak
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 To you, the squeaking of rats and other rodents makes a strange kind of sense.
 

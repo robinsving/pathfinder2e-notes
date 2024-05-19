@@ -8,6 +8,5 @@ tags:
 ---
 
 # Advanced Revelation
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You learn an advanced revelation spell associated with your mystery. Increase the number of Focus Points in your focus pool by 1.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Steam Winch
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This hefty winch is powered by a small steam engine and includes a 100 ft. length of steel cable, which enables you to haul a heavier load than you could with a hand cranked winch or [[Comealong]]. A steam winch allows you to slowly pull a heavy load (usually up to 50 Bulk) along a flat surface or up and down a vertical expanse.
 

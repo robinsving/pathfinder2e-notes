@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tongue Tether
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your tongue can momentarily latch on as readily as your hands. So long as you can freely open your mouth, you do not need free hands in order to [[Disarm]], [[Grab an Edge]], or [[Trip]].
 

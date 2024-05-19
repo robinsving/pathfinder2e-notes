@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lasting Doubt
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you cast doubt upon your foes, the effect lasts longer than usual.
 

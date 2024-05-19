@@ -8,7 +8,6 @@ tags:
 ---
 
 # Psychopomp Familiar
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your familiar becomes a masked psychopomp-an extraplanar guardian of the cycle of souls. This familiar continues to use all the same rules as other familiars, but one of its abilities must always be speech and it has the monitor and psychopomp traits. As normal when a familiar must always have a certain ability, the speech ability counts against your familiar's abilities each day.
 

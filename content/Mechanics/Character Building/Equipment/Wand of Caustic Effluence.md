@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Caustic Effluence
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 This dirty metal wand is covered in an oily acrid smelling film.
 

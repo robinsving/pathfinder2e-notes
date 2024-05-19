@@ -8,7 +8,6 @@ tags:
 ---
 
 # Knight Vigilant Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are dedicated to the cause of the Shining Sentinels. You gain expert proficiency in Religion. When you are between an ally and a foe and would provide lesser cover to your ally against the foe's attacks, you twist to become even more obtrusive, providing standard cover instead.
 

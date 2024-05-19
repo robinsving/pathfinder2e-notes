@@ -8,7 +8,6 @@ tags:
 ---
 
 # All Shall End In Flames
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 White-hot fire consumes everything in a cataclysmic sphere of death. The fire fills your choice of a 30 foot burst within 500 feet or a 30 foot emanation. This deals 13d6 fire damage with a DC resolve reflex save against your class DC. Any creature dropped to 0 HP by this fire dies, reduced to a pile of ash.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Orc Superstition
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You attempt a saving throw against a spell or magical effect, and have not yet rolled.
 

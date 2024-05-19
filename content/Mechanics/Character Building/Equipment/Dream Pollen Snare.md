@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dream Pollen Snare
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 This simple trap is made of taut twigs that, when triggered, snap down on a pollen-filled sac of a peculiar flower. When inhaled, the pollen imparts a hazy state of profound agreeability. The first creature that enters the snare's space triggers the snare. The creature that triggered the trap must attempt a DC 18 will save. Undead creatures and creatures that don't breathe are immune to dream pollen.
 

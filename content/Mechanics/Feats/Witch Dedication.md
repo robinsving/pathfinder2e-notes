@@ -8,7 +8,6 @@ tags:
 ---
 
 # Witch Dedication
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You cast spells like a witch. Choose a [[Patron]]; you gain a familiar with two common cantrips of your choice from your chosen patron's tradition, but aside from the tradition, you don't gain any other effects the patron would usually grant. Your familiar gains the normal number of abilities for a familiar instead of those a witch familiar normally gets.
 

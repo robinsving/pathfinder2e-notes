@@ -8,6 +8,5 @@ tags:
 ---
 
 # Swashbuckler's Speed
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You move faster, with or without [[Panache]]. Increase the status bonus to your Speeds when you have panache to a +10-foot status bonus; you also gain a +5-foot status bonus to your Speeds when you don't have panache.

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Angazhan
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Angazhan is a name well known in the Mwangi Expanse, and for good reason. Called the Ravenous King and Demon Lord of Beasts, he appears as an enormous and terrifying red-furred ape with six long fingers on each hand, massive and clawed. His red eyes, twisted horns, and viciously sharp fangs give him a demonic appearance. His followers range from gnolls to charau-kas to nalfeshnee demons that number in the thousands.
 

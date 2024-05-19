@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gigaton Strike
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you use a full-power Megaton Strike, you can knock your foe back. When you succeed at your Strike while using an unstable Megaton Strike, your target must attempt a DC resolve fortitude save against your class DC.
 

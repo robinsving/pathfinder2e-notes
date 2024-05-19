@@ -8,6 +8,5 @@ tags:
 ---
 
 # Heal Animal
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can heal your animal companion's wounds. You can cast _[[Heal Animal]]_ as a beastmaster focus spell. Increase the number of Focus Points in your focus pool by 1.

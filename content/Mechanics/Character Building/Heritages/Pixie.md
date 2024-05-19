@@ -9,6 +9,5 @@ draft: true
 ---
 
 # Pixie
-![[systems-pf2e-icons-default-icons-heritage.svg|150]]
 
 You are larger than other sprites. Instead of Tiny, your size is Small.

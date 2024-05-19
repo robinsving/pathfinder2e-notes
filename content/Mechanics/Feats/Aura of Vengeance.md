@@ -8,6 +8,5 @@ tags:
 ---
 
 # Aura of Vengeance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you call upon others to take retribution, you also guide their aim. When you use Retributive Strike, your allies who make Strikes take only a -2 penalty, instead of a -5 penalty.

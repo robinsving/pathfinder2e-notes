@@ -8,7 +8,6 @@ tags:
 ---
 
 # Starfall Shield
-![[systems-pf2e-icons-default-icons-armor.svg|150]]
 
 This high-grade adamantine heavy rondache (Hardness 17, HP 100, BT 50) bears a _+3 greater striking shield boss_ and has dents that resemble craters on its surface. While wielding the shield, you have fire resistance 15.
 

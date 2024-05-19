@@ -9,7 +9,6 @@ tags:
 ---
 
 # Haunted Citizen
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You grew up in a region where undead lurk everywhere. This could be a domain as small as a vampire's fief or as vast as the nation of Ustalav. As an ever-present concern, the undead greatly shaped your life. Living with fear became an everyday skill... as did pleading for your life.
 

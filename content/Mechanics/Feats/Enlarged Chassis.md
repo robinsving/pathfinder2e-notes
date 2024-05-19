@@ -8,7 +8,6 @@ tags:
 ---
 
 # Enlarged Chassis
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've empowered your core to support a larger body, granting you size and additional reach. You gain the effects of _[[Enlarge]]_ constantly.
 

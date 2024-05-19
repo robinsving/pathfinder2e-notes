@@ -8,7 +8,6 @@ tags:
 ---
 
 # Animal Shape
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have full control over your shape and can transform into your inherent animal. You can use [[Change Shape (Beastkin)|Change Shape]] to enter an animal shape.
 

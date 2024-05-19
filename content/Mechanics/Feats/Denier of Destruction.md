@@ -8,7 +8,6 @@ tags:
 ---
 
 # Denier of Destruction
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You have a _[[Heal]]_ spell prepared and you aren't [[Off-Guard]] to the source of the damage.
 

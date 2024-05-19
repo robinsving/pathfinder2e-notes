@@ -9,6 +9,5 @@ draft: true
 ---
 
 # Empty Sky Kitsune
-![[systems-pf2e-icons-default-icons-heritage.svg|150]]
 
 Your spirit is open to the secrets of beyond, granting you greater access to kitsune magic. You gain the [[Kitsune Spell Familiarity]] ancestry feat. Your alternate form is a common Medium humanoid ancestry prevalent where you grew up (typically human), called a tailless form.

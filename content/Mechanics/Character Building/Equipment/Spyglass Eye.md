@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spyglass Eye
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Polished to a perfect surface and incredibly clear, this special magical prosthetic eye allows you to clearly see small details as well as things a great distance away.
 

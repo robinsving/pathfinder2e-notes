@@ -9,7 +9,6 @@ tags:
 ---
 
 # Scholar of the Sky Key
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 The unfamiliar technology of Numeria's Silver Mount still baffles Society scholars, yet you are one of the innovators who discovered how to operate a handful of these futuristic tools-possibly after surviving more than a few explosions. The Society might have recruited you for your esoteric abilities, or you might have sought out the Society's protection in escaping the covetously vile Technic League. Even if your understanding of advanced technology is imperfect, your hard-learned lessons are invaluable in deciphering and repairing gear.
 

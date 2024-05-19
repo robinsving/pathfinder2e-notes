@@ -9,7 +9,6 @@ tags:
 ---
 
 # Highborn Snoop
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 The machinations and scheming of King's Crown have trained you to be on the lookout for those who seem out of place. You've learned to spot when the person pouring your tea has sword calluses—or when the person wearing a guard's uniform doesn't.
 

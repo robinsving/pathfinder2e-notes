@@ -8,7 +8,6 @@ tags:
 ---
 
 # Oracular Crown
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Patterns themed to your curse cover your _oracular crown_. As your curse worsens, the appearance of the crown changes, introducing extreme angles, stronger colors, or other indications of the intensity of your curse. Similarly, it gets closer to its natural form when you reduce the effects of your curse. You gain a +2 item bonus to Religion checks.
 

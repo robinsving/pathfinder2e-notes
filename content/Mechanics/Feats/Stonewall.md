@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stonewall
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An enemy or hazard's effect hits you or you fail a Fortitude save against one.
 

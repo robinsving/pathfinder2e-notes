@@ -9,7 +9,6 @@ tags:
 ---
 
 # Eidolon Contact
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You've come into contact with a disembodied being of magical essence known as an eidolon. You might have forged a powerful conduit with that eidolon, allowing you to manifest it as a summoner, but it's much more likely that you lost contact over time, though not before learning a few half-remembered secrets. If you lost contact, you might have become an adventurer to try to reach the eidolon again, or to be sure that you're rid of it forever.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Recover Spell
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** An enemy's action disrupted your attempts to Cast a Spell since the beginning of your last turn.
 

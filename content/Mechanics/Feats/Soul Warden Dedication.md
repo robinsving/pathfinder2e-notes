@@ -8,7 +8,6 @@ tags:
 ---
 
 # Soul Warden Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can take 10 minutes to emblazon [[Pharasma|Pharasma's]] holy sigil-a spiraling comet that represents the winding path a soul takes through its existence-upon a shield, tabard, banner, or other prominent object that your wear or wield. The symbol doesn't fade until 1 year has passed, but if you emblazon the symbol again, any symbol you previously emblazoned and any symbol already emblazoned on that item instantly disappears. The item becomes a religious symbol of Pharasma and can be used as a divine focus while emblazoned.
 

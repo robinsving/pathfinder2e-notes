@@ -8,6 +8,5 @@ tags:
 ---
 
 # Ceremony of Fortification
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your exoskeleton arranges itself into an optimal defensive shape. When you use your [[Ceremony of Protection]], you also gain resistance to either bludgeoning, piercing, or slashing damage equal to half your level against the next Strike that hits you and deals one of those types of damage until the start of your next turn.

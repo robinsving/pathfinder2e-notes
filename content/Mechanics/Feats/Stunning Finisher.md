@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stunning Finisher
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You attempt a dizzying blow. Make a melee Strike. If you hit, your foe must attempt a DC resolve fortitude save against your class DC with the following results; the save has the incapacitation trait.
 

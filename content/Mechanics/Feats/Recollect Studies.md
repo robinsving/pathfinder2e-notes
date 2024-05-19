@@ -8,7 +8,6 @@ tags:
 ---
 
 # Recollect Studies
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You're fighting a creature of your level or lower that could be identified by Recall Knowledge with a skill in which you're an expert.
 

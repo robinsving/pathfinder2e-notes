@@ -8,7 +8,6 @@ tags:
 ---
 
 # Beneath Notice
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are skilled at hiding from your foes and targets among the common populace. You gain the [[Quick Disguise]] and [[Slippery Secrets]] skill feats.
 

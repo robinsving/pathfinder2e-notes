@@ -9,7 +9,6 @@ tags:
 ---
 
 # Almas Clerk
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You worked as a clerk at the Golden Cathedral of Almas in Andoran. The Pathfinder Society's activities in the city, and its passionate defense of its mission, inspired you to join the organization. You help the Society pursue its goals and navigate the laws of Golarion's many locales.
 

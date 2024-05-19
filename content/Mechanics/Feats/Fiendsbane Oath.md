@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fiendsbane Oath
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've sworn an oath to banish the corruption of fiends to the dark planes they call home. You gain the following edict: "You must banish or slay fiends you come across as long as you have a reasonable chance of success; in the incredibly unlikely event you find a fiend that isn't unholy, you don't have to banish or kill it."
 

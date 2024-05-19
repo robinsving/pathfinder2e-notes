@@ -8,7 +8,6 @@ tags:
 ---
 
 # Elaborate Flourish
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You embellish your spellcasting with entrancing flourishes and grand pronouncements, making it harder to identify or counter.
 

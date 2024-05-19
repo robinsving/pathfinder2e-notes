@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wings Of Air
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Frequency** once per day
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Dedicated Delver
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Filled with predators, pitfalls, and other perils, the Darklands rightfully scares off most travelers. Not you! Whether you're a veteran Darklands caravanner, a cartographer seeking safer paths through dangerous territory, or just a spelunker who loves to escape the surface and hear the caverns sing, you're adept at navigating underground obstacles and finding your way back to civilization.
 

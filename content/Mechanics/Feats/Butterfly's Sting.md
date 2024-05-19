@@ -8,6 +8,5 @@ tags:
 ---
 
 # Butterfly's Sting
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain the [[Sneak Attack]] class feature. You don't increase the number of dice as you gain levels.

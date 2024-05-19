@@ -8,7 +8,6 @@ tags:
 ---
 
 # Voice of Elements
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can speak with the secret tones of elements you channel, finding words in the crackle of flame, the grinding of stone. Your kinetic aura grants you these three benefits while active.
 

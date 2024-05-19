@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wooden Palisade
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 Planks of wood, embellished with carvings, spring forth to form a wall. The palisade is up to 30 feet long, 20 feet high, and 1 inch thick. It must form in a straight line in an unbroken open space that doesn't pass through any creatures or objects, or the impulse fails. When you create the wall, you can choose to create ledges on one side of the wall, 4 feet from the top, with ladders reaching to them from the bottom of the wall.
 

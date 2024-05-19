@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lifesense
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have a limited ability to sense life force, like your psychopomp forebears.
 

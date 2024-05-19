@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wild Winds Gust
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are in _[[Wild Winds Stance]]_
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Group Coercion
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can strong-arm people effectively, even when you don't have them isolated. When you [[Coerce]], you can compare your Intimidation check result to the Will DCs of up to five targets instead of one.
 

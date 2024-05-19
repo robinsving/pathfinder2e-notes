@@ -8,7 +8,6 @@ tags:
 ---
 
 # Smite Evil
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your blade ally becomes an even more powerful tool against evildoers.
 

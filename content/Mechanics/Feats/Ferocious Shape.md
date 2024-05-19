@@ -8,6 +8,5 @@ tags:
 ---
 
 # Ferocious Shape
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've mastered the shape of dinosaurs. Add the shapes listed in [[Dinosaur Form]] to your untamed form list. Whenever you use [[Untamed Form]] to take a shape that grants you a specific Athletics modifier, you gain a +1 status bonus to your Athletics checks.

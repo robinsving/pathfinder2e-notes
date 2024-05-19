@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blade of Justice
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You call upon divine power and make a weapon or unarmed Strike against a foe you have witnessed harming an ally or innocent.
 

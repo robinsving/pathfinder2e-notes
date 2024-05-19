@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shatter Space
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The sheer power of your magic fractures reality. Use this amp in place of a psi cantrip's normal amp entry. The cantrip must be one that takes 2 or more actions to cast.
 

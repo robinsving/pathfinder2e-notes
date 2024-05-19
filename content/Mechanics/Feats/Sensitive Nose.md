@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sensitive Nose
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your large black nose isn't just for show. You gain imprecise scent with a range of 30 feet.
 

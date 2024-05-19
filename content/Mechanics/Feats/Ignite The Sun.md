@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ignite The Sun
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The fires of creation become yours to control. You create a miniature sun in a 5 foot burst within 500 feet. A creature takes 7d6 fire damage any time it's in the miniature sun, with a DC resolve reflex (and dim light for another 500 feet); this is sunlight for creatures with a particular vulnerability to sunlight.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Animal Trainer Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain the services of a young animal companion that travels with you and obeys simple commands as best as it can. This trained animal is trained in Performance instead of the skill listed for its type.
 

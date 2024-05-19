@@ -8,7 +8,6 @@ tags:
 ---
 
 # Elude Trouble
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A creature misses you with a melee attack.
 

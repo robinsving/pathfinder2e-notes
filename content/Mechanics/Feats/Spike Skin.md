@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spike Skin
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You touch a willing creature, causing its skin to harden and form spiky protrusions. The target gains resistance 4 to all physical damage (except adamantine). Whenever a creature damages the target with an unarmed attack or non-reach melee weapon, the attacking creature takes 2 piercing damage.
 

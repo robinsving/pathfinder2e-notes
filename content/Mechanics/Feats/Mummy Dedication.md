@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mummy Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Whether through natural processes or foul rituals, your body was mummified, and you've risen as an undead mummy. You gain the mummy and undead traits, as well as basic undead benefits.
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Litany Of Self-Interest
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You compel a creature to act toward its own ends rather than consider others. You can cast the _[[Litany of Self-Interest]]_ devotion spell. Increase the number of Focus Points in your focus pool by 1.

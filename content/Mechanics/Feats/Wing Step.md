@@ -8,6 +8,5 @@ tags:
 ---
 
 # Wing Step
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 With a sharp flap of your wings, you stay light on your feet as you move. You Step 5 feet twice.

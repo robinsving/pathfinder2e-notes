@@ -8,7 +8,6 @@ tags:
 ---
 
 # Advanced Runic Mind Smithing
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your mind can hold onto more complicated patterns than ever before. You can etch the greater forms of any runes on the list from the Runic Mind Smithing feat and add them to the list of options you can choose during your daily preparations, as well as the _anarchic_, _axiomatic_, _holy_, or _unholy_ runes.
 

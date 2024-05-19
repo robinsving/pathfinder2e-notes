@@ -8,7 +8,6 @@ tags:
 ---
 
 # Enduring Quickness
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You move as fast and as high as the wind itself. You're permanently [[Quickened]].
 

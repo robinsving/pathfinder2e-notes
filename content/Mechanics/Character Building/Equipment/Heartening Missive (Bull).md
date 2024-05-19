@@ -8,7 +8,6 @@ tags:
 ---
 
 # Heartening Missive (Bull)
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 **Activate** 2 envision, Interact
 

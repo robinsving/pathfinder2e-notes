@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Ancient Scale Azarketi
-![[systems-pf2e-icons-default-icons-heritage.svg|150]]
 
 Your lineage stems from azarketis who remain dedicated to their deep-sea roots. Divorced from land society, you're a foreigner to any world above a thousand fathoms deep. You gain [[Darkvision]].
 

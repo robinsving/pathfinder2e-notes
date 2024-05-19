@@ -8,7 +8,6 @@ tags:
 ---
 
 # Clinch Strike
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A creature you had [[Grabbed]] or [[Restrained]] successfully Escapes.
 

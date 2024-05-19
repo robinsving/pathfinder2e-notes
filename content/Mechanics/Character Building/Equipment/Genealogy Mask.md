@@ -8,7 +8,6 @@ tags:
 ---
 
 # Genealogy Mask
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 **Access** Alijae ethnicity
 

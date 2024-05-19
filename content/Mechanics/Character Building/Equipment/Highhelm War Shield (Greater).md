@@ -8,7 +8,6 @@ tags:
 ---
 
 # Highhelm War Shield (Greater)
-![[systems-pf2e-icons-default-icons-armor.svg|150]]
 
 This specialized [[Razor Disc]] was originally designed by the members of Clan Molgrade for use by Highhelm's soldiers. The integrated blades are etched with runes, making them a _+3 major striking weapon_.
 

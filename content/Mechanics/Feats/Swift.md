@@ -8,7 +8,6 @@ tags:
 ---
 
 # Swift
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You move with the wind always at your back. Your Speed increases by 5 feet.
 

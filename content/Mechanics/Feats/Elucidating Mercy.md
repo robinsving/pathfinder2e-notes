@@ -8,7 +8,6 @@ tags:
 ---
 
 # Elucidating Mercy
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your mercy grants clarity to those around you just when they need it most.
 

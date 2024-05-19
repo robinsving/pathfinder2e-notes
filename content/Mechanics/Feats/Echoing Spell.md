@@ -8,7 +8,6 @@ tags:
 ---
 
 # Echoing Spell
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You time the components of your spell with exacting precision, setting up a resonance that duplicates the spell's effects.
 

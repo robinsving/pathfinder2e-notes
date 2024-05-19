@@ -8,7 +8,6 @@ tags:
 ---
 
 # Alter Ego Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You make yourself into a living mirror, becoming a double of someone unremarkable, and you slip into exactly the role that can get you past security or into a sensitive facility. You become an expert in Deception. You gain the [[Assume a Role]] activity.
 

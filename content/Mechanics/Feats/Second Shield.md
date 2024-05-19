@@ -8,7 +8,6 @@ tags:
 ---
 
 # Second Shield
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** Your [[Shield Block]] causes your shield to break or be destroyed.
 

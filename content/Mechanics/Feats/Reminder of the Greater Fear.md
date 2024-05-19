@@ -8,7 +8,6 @@ tags:
 ---
 
 # Reminder of the Greater Fear
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Frequency** once per 10 minutes
 

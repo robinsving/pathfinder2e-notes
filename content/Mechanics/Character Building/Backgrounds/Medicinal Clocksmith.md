@@ -9,7 +9,6 @@ tags:
 ---
 
 # Medicinal Clocksmith
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 While others might have looked to clockwork as a mechanical innovation, you see the potential in the technology to improve the health of patients. You might be an experienced field medic who reached for a scrapped construct to help a wounded soldier, or a vanguard surgeon who's found replacing organs with clockwork more effective than repairing them. Perhaps you've also worked to "optimize" organic bodies with fine machinery, with or without the permission of your patients.
 

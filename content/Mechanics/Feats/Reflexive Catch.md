@@ -8,7 +8,6 @@ tags:
 ---
 
 # Reflexive Catch
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** The item or thrown weapon is of a Bulk you can Juggle. If the trigger was a thrown weapon attack targeting you, you can't be off-guard to the attack. If you were already Juggling, you can't be Juggling your maximum number of items.
 

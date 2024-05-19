@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Shrouded Step
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 When you move this delicately carved poplar wand, it looks indistinct, leaving a trail of afterimages in its wake.
 

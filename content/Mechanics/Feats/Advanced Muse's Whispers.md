@@ -8,7 +8,6 @@ tags:
 ---
 
 # Advanced Muse's Whispers
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain one bard feat. For the purpose of meeting its prerequisites, your bard level is equal to half your character level.
 

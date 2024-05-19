@@ -8,7 +8,6 @@ tags:
 ---
 
 # Azarketi Lore
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have learned the history and origins of your people and how to connect to both your land and sea heritage.
 

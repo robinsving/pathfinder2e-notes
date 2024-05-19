@@ -9,7 +9,6 @@ tags:
 ---
 
 # Iolite Trainee Hobgoblin
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 **Prerequisites** Hobgoblin Ancestry
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Halfling Weapon Familiarity
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You favor traditional halfling weapons, so you've learned how to use them more effectively. You gain access to all uncommon weapons with the halfling trait. You have familiarity with weapons with the halfling trait plus the sling and shortsword—for the purposes of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
 

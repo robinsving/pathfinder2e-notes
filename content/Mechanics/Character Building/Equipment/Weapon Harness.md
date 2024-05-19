@@ -8,7 +8,6 @@ tags:
 ---
 
 # Weapon Harness
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 A suit of armor with this adjustment incorporates short, flexible harnesses meant to connect weapons to each of its vambraces. These harnesses can each be connected to a melee weapon of light Bulk or less. Attaching or removing a weapon takes an Interact action. Someone else can attach or remove a weapon if you're willing to let them or you're unable to act. You must remove a weapon from its mount before you can completely Release or otherwise stow it.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Willowshore Urchin
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 As with any settlement, not all of Willowshore's citizens are born into easy lives. You grew up on the town streets, either as an orphan or hardscrabble youth who was forced at a young age to help provide for your family. You might technically have had a home of your own, but for various reasons, you had, or preferred, to live most of your childhood outside of those walls. You might have run with a gang of kids (some of whom might even be fellow PCs), or you could've been a loner who managed to survive against all odds. Regardless, your childhood was one of forced ingenuity, desperation, and physicality. Hardly a week would've passed without you having to jury-rig a solution to some problem or to simply use your reflexes or brawn to solve a situation quickly before things escalated. While you might have left your old life behind you now that you're all grown up, the time you spent on Willowshore's streets have made you the person you are today.
 

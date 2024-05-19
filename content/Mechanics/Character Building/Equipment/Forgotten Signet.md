@@ -8,7 +8,6 @@ tags:
 ---
 
 # Forgotten Signet
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 At the center of this silver ring gleams an obsidian gem, its surface emblazoned with a bloodred rune of forgetting. While wearing a _forgotten signet_, you're subjected to _[[Hidden Mind]]_ (+32 counteract bonus) and easily fade from others' memory. Sapient creatures must attempt a DC 42 will save each time you depart from their company or they forget you entirely.
 

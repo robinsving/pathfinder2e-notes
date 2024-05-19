@@ -8,7 +8,6 @@ tags:
 ---
 
 # Too Angry to Die
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** you stand up from [[Prone]] after waking up from being [[Unconscious]]
 

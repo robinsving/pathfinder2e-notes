@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vacate Vision
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You fail (but don't critically fail) a saving throw against an effect with the visual trait.
 

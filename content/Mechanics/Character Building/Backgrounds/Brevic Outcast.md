@@ -9,7 +9,6 @@ tags:
 ---
 
 # Brevic Outcast
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 One of your parents was a member of one of the great families of Brevoy, perhaps even of the line of Rogarvia itself. Yet you have no substantive proof of your nobility, and you've learned that claiming such without evidence is a fool's game. Whether a recent attempt to prove your heritage brought down the wrath of a noble family or you seek to prove the worth of the blood in your veins, you've joined an expedition into the Stolen Lands, hoping to make a name all your own.
 

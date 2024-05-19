@@ -8,7 +8,6 @@ tags:
 ---
 
 # Call Your Shot
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you successfully Play to the Crowd, add the following to the list of benefits you can choose from:
 

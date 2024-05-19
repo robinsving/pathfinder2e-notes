@@ -9,7 +9,6 @@ tags:
 ---
 
 # Doloras
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Perhaps the cruelest of Hell's divinities, the Sadistic Angel shares certain characteristics with the velstracs who once resided in Hell-most notably, a drive to inflict physical pain upon living creatures. She does not inflict her torments out of anger or retribution; she practices her art with an unparalleled detachment and absence of emotion. Her followers are sadists, torturers who relish their grisly work, and those diabolists who summon velstracs rather than devils. While she bears the title of Queen of the Night and commands power commensurate with the others, Our Lady in Pain is content with her station and holds no ambitions beyond ensuring she can continue her tortures uninterrupted.
 

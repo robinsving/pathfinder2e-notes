@@ -8,7 +8,6 @@ tags:
 ---
 
 # Discerning Gaze
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have a sense for when people are lying. You gain a +1 circumstance bonus on your secret Perception checks to Sense Motive.
 

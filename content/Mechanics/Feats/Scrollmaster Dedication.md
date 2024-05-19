@@ -8,7 +8,6 @@ tags:
 ---
 
 # Scrollmaster Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your experience chronicling adventures and discoveries grants you heightened discernment and memory. For 24 hours after learning a prominent fact-such as the name of an NPC you have met, the details of your mission briefing, and similar information-you can recall it without attempting a check, though this doesn't allow you to automatically memorize long strings of numbers or text. You also gain a +2 circumstance bonus to checks to remember a detail that has come up before in the current adventure, even if it was more than 24 hours ago.
 

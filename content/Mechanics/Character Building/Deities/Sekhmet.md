@@ -9,7 +9,6 @@ tags:
 ---
 
 # Sekhmet
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Edicts** Slaughter your enemies, drink the blood of defeated foes, heal battle injuries
 

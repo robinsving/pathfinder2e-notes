@@ -9,7 +9,6 @@ tags:
 ---
 
 # Szuriel
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 All Szuriel has ever known is war. In life she was first a paladin, then excommunicated from her church for heresy. In response, she slaughtered her way to power until she was crowned empress, then subsequently had every member of her former faith crucified. She went on to wage several brutal wars against neighboring kingdoms until an assassin's dagger found her heart. Sent to Abaddon, she rose quickly through the ranks of daemonkind, and when she saw weakness in the Horseman of War, she slew him in battle, claiming his title for herself.
 

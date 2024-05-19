@@ -8,7 +8,6 @@ tags:
 ---
 
 # Awesome Blow
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your attacks are so powerful, they can flatten your opponents. When you use [[Knockback]], you can attempt an athletics check against your target's Fortitude DC.
 

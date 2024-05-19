@@ -8,7 +8,6 @@ tags:
 ---
 
 # Flame Drake Snare
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 The snare takes the form of a Tiny, drake-like clockwork toy. When a creature enters its square the snare activates, causing the drake to spit a gout of fire in a 15 foot cone{15-foot cone} in the direction from which the creature entered.
 

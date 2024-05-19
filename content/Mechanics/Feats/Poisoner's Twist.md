@@ -8,7 +8,6 @@ tags:
 ---
 
 # Poisoner's Twist
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** Your last action was a successful melee Strike that dealt damage against a target that is afflicted by a poison, and you know which poison.
 

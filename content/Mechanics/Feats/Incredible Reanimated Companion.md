@@ -8,6 +8,5 @@ tags:
 ---
 
 # Incredible Reanimated Companion
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You imbue the necrotized flesh of your reanimated construct companion with strange chemicals and fine-tune the clockwork within, enhancing all its capabilities. It becomes an incredible construct companion.

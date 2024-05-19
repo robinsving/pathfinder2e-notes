@@ -8,6 +8,5 @@ tags:
 ---
 
 # Perfect Finisher
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You focus your panache into an impeccable assault. Make a Strike, rolling the attack roll twice and using the better result.

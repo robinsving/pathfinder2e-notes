@@ -8,7 +8,6 @@ tags:
 ---
 
 # Plant Shape
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can take the shape of a plant creature. If you don't have untamed form, you can cast [[Plant Form]] once per day, heightened to the same rank as your highest-rank druid spell slot.
 

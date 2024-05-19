@@ -8,7 +8,6 @@ tags:
 ---
 
 # Implausible Purchase (Investigator)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 It seems impossible, but you've analyzed every angle and are able to just keep pulling out exactly the item you need, even in far-flung locations.
 

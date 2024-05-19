@@ -8,7 +8,6 @@ tags:
 ---
 
 # Horrid Figurine
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Carved in a putrid jade, the color of disease, this figurine is a bloated humanoid mass of writhing vermin and serpents, all rendered in disgusting detail. The creeping pattern is carved so they seem to move and contort the more one views the figurine. When activated, the effect is amplified to a disgusting or horrifying degree. The figurine can be activated twice per day. If you try to activate it a third time during a day, it dissolves into a puddle of non-magical, putrid glue, causing you to become [[Sickened 1|Sickened 3]].
 

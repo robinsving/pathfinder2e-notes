@@ -9,7 +9,6 @@ tags:
 ---
 
 # Political Scion
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Like your parents and your parents before them, you initially followed the long path toward politics from an early age. Your close association with Absalom's upper echelons put you in touch with the city's various military or special operations units-the First Guard, the Wave Riders, the Varlokkur-though you avoided any actual duty with these groups. Thanks to your strict upbringing and the connections of your family, you soon became a lauded and highly respected member of Absalom's political elite. But you couldn't stifle a certain feeling that you were destined for more than simply filling the pointed shoes of your forebears. Despite your easily earned accolades and a relatively cushy life as a young lawyer or councilmember, you sought to do more with your diplomatic training and not live out the exact same life as your ancestors.
 

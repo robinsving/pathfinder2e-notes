@@ -8,6 +8,5 @@ tags:
 ---
 
 # Renewing Quills
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your spines grow back much faster than other shisks. You can use the [[Barbed Quills]] reaction once every 10 minutes.

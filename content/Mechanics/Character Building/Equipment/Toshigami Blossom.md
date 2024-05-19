@@ -8,7 +8,6 @@ tags:
 ---
 
 # Toshigami Blossom
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 **Perception** +30; precise vision (darkvision) 30 feet, imprecise hearing 30 feet
 

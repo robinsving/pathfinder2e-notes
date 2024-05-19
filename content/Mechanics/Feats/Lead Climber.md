@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lead Climber
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When climbing, you can prepare routes for others to follow, and you can pull your allies up to avoid disaster.
 

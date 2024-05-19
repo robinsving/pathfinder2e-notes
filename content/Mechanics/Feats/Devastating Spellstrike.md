@@ -8,7 +8,6 @@ tags:
 ---
 
 # Devastating Spellstrike
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are in Arcane Cascade stance and your Spellstrike is charged.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sanguivolent Roots
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Blood-drinking vines grow from the ground in a 15-Foot Burst within 120 feet. Each living enemy in the area has its blood drained, taking 3d6 piercing damage with a DC 0 Basic Fortitude save against your class DC. Each time the vines drink blood, living creatures in the area who aren't your enemies regain HP equal to half the damage a single creature took; calculate this using the highest damage a single creature took. This is a healing vitality effect. Your enemies with void healing in the area take vitality damage in the same amount as the healing.
 

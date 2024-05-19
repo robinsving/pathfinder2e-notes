@@ -8,7 +8,6 @@ tags:
 ---
 
 # Felicitous Riposte
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You take advantage of your foe's openings with uncanny odds.
 

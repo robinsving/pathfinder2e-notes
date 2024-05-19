@@ -8,6 +8,5 @@ tags:
 ---
 
 # Order Training
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain the lesser order benefit for the Hellknight order to which you belong.

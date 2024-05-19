@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tame Animal
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Animals born and raised far from humanoid settlements rarely get along with two-legged beings, whom they assume to be dangerous predators. In spite of this, you know how to approach and entreat a wild animal so that it's more receptive to your presence and requests.
 

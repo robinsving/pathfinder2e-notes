@@ -8,7 +8,6 @@ tags:
 ---
 
 # Garland Spell
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 If your next action is to Cast a Spell with the fungus or plant trait, a garland of plants grows in a 10 foot burst in the spell's range. The plants are difficult terrain and hazardous terrain, covered in your choice of thorns or poisonous vines. Any creature that moves into one of these squares or ends its turn in one takes 2d6 damage (2d6 piercing damage for thorns or 2d6 poison for vines). A creature can take this damage only once per turn. You and your familiar are immune to this damage.
 

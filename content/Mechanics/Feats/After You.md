@@ -8,7 +8,6 @@ tags:
 ---
 
 # After You
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You're about to roll initiative.
 

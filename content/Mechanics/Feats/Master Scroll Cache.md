@@ -8,7 +8,6 @@ tags:
 ---
 
 # Master Scroll Cache
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your scroll collection is incredible, brimming with eldritch power, and you can prepare far more of them than an ordinary scroll trickster.
 

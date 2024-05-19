@@ -9,7 +9,6 @@ tags:
 ---
 
 # Touch of the Sun
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Legends state that Chohar, Luhar, and Tlehar were the first sun-kings of Mzali, building the city as a safe haven for the people of the Expanse. Their might, leadership, and kindness earned them a place among the heavens, transforming them into the sun gods of Mzali. As gods, they met Sarenrae, another goddess of the sun, and for a time, all four worked together to help the people of Golarion. Eventually, whether intentionally or otherwise, the people of Mzali forgot their sun gods. The sun gods watched as the people of Mzali forgot prayers and songs to their former gods. The sun gods wept because their people could no longer see or hear them, but Sarenrae offered them words of encouragement: there would be a time when people remembered the sun gods once more.
 

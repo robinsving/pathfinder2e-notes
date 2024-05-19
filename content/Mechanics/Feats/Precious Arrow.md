@@ -8,7 +8,6 @@ tags:
 ---
 
 # Precious Arrow
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You enchant a piece of ammunition with the magical essence of a precious material, allowing you to leverage certain creatures' weaknesses.
 

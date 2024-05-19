@@ -8,6 +8,5 @@ tags:
 ---
 
 # Fey Magic
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can use faerie magic to hide yourself and expose hidden foes. You can cast _[[Faerie Fire]]_ and _[[Invisibility]]_ each once per day as primal innate spells.

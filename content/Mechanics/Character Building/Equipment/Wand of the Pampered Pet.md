@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of the Pampered Pet
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This extravagant wand is made of gold and capped with a large, sparkling gemstone. Its handle is wrapped in plush, padded fabric.
 

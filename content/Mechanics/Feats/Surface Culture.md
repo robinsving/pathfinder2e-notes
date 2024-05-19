@@ -8,7 +8,6 @@ tags:
 ---
 
 # Surface Culture
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Access** any surface dwarf ethnicity
 

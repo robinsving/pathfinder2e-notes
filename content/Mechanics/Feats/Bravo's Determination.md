@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bravo's Determination
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A foe's Strike reduces you to 0 Hit Points; you were not at 1 Hit Point and you would not be killed.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Arundhat (The Sacred Perfume)
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Arundhat is the god of blossoms and scent, most commonly worshipped in Vudra. While followers who worship deities of war or strength often consider Arundhat's portfolio a little lackluster, to those with the right knowledge, the humble flower can accomplish far more than a simple show of force. Arundhat's mastery of botanicals and scented oils can bring someone back from near death, sway a person to passion, or calm an agitated mob.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Faydhaan's Dallah
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Noble faydhaan shuyookhs serve coffee brewed in ornate dallahs such as this one to welcome guests in their courts. Most nobles have their kitchen staff import the beans at great expense from other planes then roast the beans with local ingredients gathered on the Plane of Water to create a brew unique to their locale. A _faydhaan's dallah_ has the name of a specific faydhaan shuyookh engraved on the bottom and typically comes with six drinking cups, a platter, and a selection of coffee beans.
 

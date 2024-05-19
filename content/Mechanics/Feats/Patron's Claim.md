@@ -8,6 +8,5 @@ tags:
 ---
 
 # Patron's Claim
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your patron partially manifests itself through your familiar to claim a foe's power for its own. Your familiar gains the [[Patron's Claim]] activity.

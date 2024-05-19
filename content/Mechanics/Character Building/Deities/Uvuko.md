@@ -9,7 +9,6 @@ tags:
 ---
 
 # Uvuko
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 The god Uvuko dances across the land, his body forming the boundary between earth and sky. His twisting tail churns the air into clouds, his creations spreading water to all those who thirst. His sliding scales till the earth, bringing forth plants that are nourished by Uvuko's rains. The worship of Uvuko is widespread in the Mwangi Expanse, found among many lizardfolk tribes, Mbe'ke and Taralu dwarves, and in the more cosmopolitan cities.
 

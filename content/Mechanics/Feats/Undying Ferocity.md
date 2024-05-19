@@ -8,6 +8,5 @@ tags:
 ---
 
 # Undying Ferocity
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You resist death's clutches with supernatural vigor, daring death to claim you while promising that any such attempt will surely fail. When you use [[Orc Ferocity]], you gain temporary Hit Points equal to your level.

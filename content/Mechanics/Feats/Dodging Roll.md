@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dodging Roll
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You take damage from an area effect that allows a Reflex save.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Followers of Fate
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 On the Material Plane, some mortals worship norns as deities, while others, especially witches and bards, admire them as patrons or muses. Those who uphold norns as deities are known as Followers of Fate. Norns do little to discourage this veneration, but neither do they go out of their way to support such worship. Clerics who venerate norns might worship a specific norn or norn triumvirate, or all norns as a whole, but they gain the same benefits regardless of their choice.
 

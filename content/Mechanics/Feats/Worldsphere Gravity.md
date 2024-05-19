@@ -8,7 +8,6 @@ tags:
 ---
 
 # Worldsphere Gravity
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Frequency** once per hour
 

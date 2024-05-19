@@ -8,6 +8,5 @@ tags:
 ---
 
 # Spine Stabber
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The quills on your arms are particularly sharp and sturdy. You gain a quills unarmed attack that deals 1d6 piercing damage. Your quills are in the knife weapon group and have the finesse and unarmed traits.

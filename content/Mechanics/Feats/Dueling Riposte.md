@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dueling Riposte
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A creature within your reach critically fails a Strike against you.
 

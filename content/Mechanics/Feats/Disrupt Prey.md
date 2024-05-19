@@ -8,7 +8,6 @@ tags:
 ---
 
 # Disrupt Prey
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** Your hunted prey is within your reach, and it uses a manipulate action, uses a move action, or leaves a square during a move action it's using.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Nimble Shield Hand
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are so used to wielding a shield that you can do so even while using the hand that's holding it for other purposes.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rough Rider
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are especially good at riding traditional goblin mounts. You gain the [[Ride]] feat, even if you don't meet the prerequisites. You gain a +1 circumstance bonus to Nature checks to use [[Command an Animal]] on a goblin dog or wolf mount.
 

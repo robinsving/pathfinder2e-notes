@@ -8,7 +8,6 @@ tags:
 ---
 
 # Disk Rider
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you cast floating disk, you can modify its duration to be sustained, up to 10 minutes. If you do, add the following heightened entry to its effects.
 

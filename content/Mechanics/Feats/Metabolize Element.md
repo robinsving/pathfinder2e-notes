@@ -8,7 +8,6 @@ tags:
 ---
 
 # Metabolize Element
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You take damage from a foe's spell or magical ability with a trait of one of the elements in your elemental philosophy.
 

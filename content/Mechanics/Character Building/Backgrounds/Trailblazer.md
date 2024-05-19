@@ -9,7 +9,6 @@ tags:
 ---
 
 # Trailblazer
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Uncharted realms have always intrigued you, and you've explored and mapped large territories in service to merchants, governments, or your own curiosity. Where some see a blank spot on a map, you see the potential for something new and undiscovered.
 

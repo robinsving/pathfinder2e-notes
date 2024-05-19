@@ -8,6 +8,5 @@ tags:
 ---
 
 # Prototype Companion
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have created a construct companion, and while it might not be an innovation, it serves as a trustworthy minion. You gain a prototype construct companion.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Eidolon's Wrath
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your eidolon gains the _eidolon's wrath_ focus spell, which it casts, instead of you. You determine the damage type when you gain the feat: acid, cold, electricity, fire, sonic, vitality, or void. If your eidolon is a celestial, fiend, or monitor with an alignment other than true neutral, you can choose a damage type in its alignment.
 

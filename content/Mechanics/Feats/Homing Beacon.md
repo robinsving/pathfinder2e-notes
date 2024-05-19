@@ -8,7 +8,6 @@ tags:
 ---
 
 # Homing Beacon
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 As your spell strikes a target, you plant a beacon in the target's mind that announces its presence to those nearby. Use this amp in place of a psi cantrip's normal amp entry. The amped cantrip must be one that has one or more targets and must either require a spell attack roll or have a saving throw.
 

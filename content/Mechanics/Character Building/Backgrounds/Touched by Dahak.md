@@ -9,7 +9,6 @@ tags:
 ---
 
 # Touched by Dahak
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 **\[Legacy - Age of Ashes\]**
 

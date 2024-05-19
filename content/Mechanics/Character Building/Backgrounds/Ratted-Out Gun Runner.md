@@ -9,7 +9,6 @@ tags:
 ---
 
 # Ratted-Out Gun Runner
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Sure, you've got a checkered past. Who doesn't? It's hard to make a living in the City of Smog, so you did what you could to put silvers in your pocket and food on the table. You made a good deal of money selling firearms from the Gunworks to people who perhaps shouldn't have had them. You even worked with wasteland marauders a few times, sticking up Ustradi barges plying the river between the Gunworks and Alkenstar. Of course, you never hurt any innocents or did anything truly heinous; your criminal career was always just a matter of money.
 

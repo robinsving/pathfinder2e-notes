@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rallying Charge
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your fearless charge into battle reinvigorates your allies to carry on the fight.
 

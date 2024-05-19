@@ -8,6 +8,5 @@ tags:
 ---
 
 # Fast Movement
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 While you are raging, you gain a +10-foot status bonus to your Speed.

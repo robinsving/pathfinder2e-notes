@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wall Run
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You defy gravity, traversing vertical planes as easily as the ground. Stride up to your Speed. You must start your movement on a horizontal surface.
 

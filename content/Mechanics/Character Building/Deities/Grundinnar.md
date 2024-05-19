@@ -9,7 +9,6 @@ tags:
 ---
 
 # Grundinnar
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Grundinnar is one of [[Torag]]'s many sons and is the dwarven god of friendship and loyalty. He is experienced at breaking up fights over his sister [[Bolka]], and has thus developed quite a strong sense of diplomacy. He uses this skill to end feuds, encourage neighborly conduct among his followers and works to ensure that dwarves remember friends they haven't seen in many years.
 

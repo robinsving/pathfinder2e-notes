@@ -8,7 +8,6 @@ tags:
 ---
 
 # Read The Roots
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are standing on the ground, and there are plants rooted in the ground within 100 feet of you.
 

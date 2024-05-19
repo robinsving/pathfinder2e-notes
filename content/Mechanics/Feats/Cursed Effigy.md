@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cursed Effigy
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** Your last action was a successful Strike against the target of your Exploit Vulnerability, and the Strike dealt physical damage.
 

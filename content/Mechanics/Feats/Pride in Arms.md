@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pride in Arms
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An ally within 30 feet brings a foe to 0 Hit Points.
 

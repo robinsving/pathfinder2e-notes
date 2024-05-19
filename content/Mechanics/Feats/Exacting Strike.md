@@ -8,7 +8,6 @@ tags:
 ---
 
 # Exacting Strike
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You make a controlled follow-up attack, fully accounting for your momentum. Make a Strike. The Strike gains the following failure effect.
 

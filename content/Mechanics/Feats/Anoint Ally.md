@@ -8,7 +8,6 @@ tags:
 ---
 
 # Anoint Ally
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You forge a mystical connection with an ally using your body as a focus, allowing them to benefit from your magic.
 

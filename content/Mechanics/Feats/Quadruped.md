@@ -8,7 +8,6 @@ tags:
 ---
 
 # Quadruped
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You were crafted in a form with four legs rather than two. Your Speed is 30 feet.
 

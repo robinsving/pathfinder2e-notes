@@ -9,7 +9,6 @@ tags:
 ---
 
 # Crystal Healer
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Mineral formations can be beautiful things, sparkling and arrayed in geometric configurations. To you, they are also potent natural healing aids. You may have taken up adventuring to prove yourself by healing the ailing or to find new crystals with unique properties to add to your growing collection.
 

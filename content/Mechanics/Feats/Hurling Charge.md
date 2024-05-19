@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hurling Charge
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You make a ranged Strikewith a thrown weapon you already have in your hand, Stride, and then [[Interact]] to draw another weapon.
 

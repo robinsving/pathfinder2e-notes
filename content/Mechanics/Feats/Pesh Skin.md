@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pesh Skin
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are transformed into a plant by a polymorph spell.
 

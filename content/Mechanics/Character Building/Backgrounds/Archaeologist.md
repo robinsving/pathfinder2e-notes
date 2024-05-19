@@ -9,7 +9,6 @@ tags:
 ---
 
 # Archaeologist
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You've excavated enough sites to know that ancient civilizations aren't lost; they're merely buried and waiting for the right scholar to unearth them and tell their story. You might have worked as a laborer or local guide before learning formal archaeological techniques.
 

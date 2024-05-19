@@ -8,7 +8,6 @@ tags:
 ---
 
 # Halcyon Heart
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This shekere features carved prayers barely visible under a fine silk net of colorful beads. The handheld percussion instrument grants a +3 item bonus to Performance checks while playing music with it. In addition, when you [[Perform]] with it, you can make it heard by any number of creatures within 100 miles. You can specify one or more specific creatures, or otherwise describe those who will hear it, such as all humans, or all inhabitants of a village. You can send a message through the music that the targets understand. Demons and creatures connected to demons (such as a creature whose deity is a demon lord or a sorcerer with the demonic bloodline) can't easily understand any messages conveyed in this way, even if you wish to send the message to them. They must attempt a Society check against your Performance DC or against DC 40, whichever is higher. If your Performance DC is higher than DC 40 and you want demons to be able to understand the message, you can choose to use DC 40 instead.
 

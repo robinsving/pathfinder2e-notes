@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gravesight
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can see in the darkness as easily as a psychopomp. You gain [[Darkvision]].
 

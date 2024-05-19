@@ -8,6 +8,5 @@ tags:
 ---
 
 # Channeling Block
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You pour divine energy into a desperate block. When you Shield Block, you can expend a [[Harm]] or [[Heal]] spell. Roll 1d8 for each rank of the spell, and increase the shield's Hardness by the total for this block.

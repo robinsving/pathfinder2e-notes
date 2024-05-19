@@ -8,7 +8,6 @@ tags:
 ---
 
 # Aquatic Eyes
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 As your connection to water grows, you can see more easily in places with less light, such as the depths of the ocean. You gain [[Low-Light Vision]], or you gain [[Darkvision]] if your ancestry already has low-light vision.
 

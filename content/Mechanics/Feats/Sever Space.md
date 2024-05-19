@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sever Space
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are wielding a weapon that deals slashing damage or have an unarmed Strike that deals slashing damage.
 

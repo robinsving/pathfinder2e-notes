@@ -8,7 +8,6 @@ tags:
 ---
 
 # Poison Sedum
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 This green-and-blue stalk is topped with a clump of small flowers resembling broccoli. It's covered in a mildly toxic resin that sticks to flesh, fur, and equipment alike, causing affected creatures to break out in an itchy rash.
 

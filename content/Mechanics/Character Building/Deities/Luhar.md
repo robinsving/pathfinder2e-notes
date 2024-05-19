@@ -9,7 +9,6 @@ tags:
 ---
 
 # Luhar
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 The old gods of the threefold sun were all but forgotten under the rule of [[Walkena]]-but Luhar did not mind being forgotten. It is Walkena's undeath that she finds offensive, for she had crafted him such a beautifully perfect eternal sleep. Now he not only rejects her gift, but instills so much fear in his followers that their rest is fitful and brief.
 

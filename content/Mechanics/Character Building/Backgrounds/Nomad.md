@@ -9,7 +9,6 @@ tags:
 ---
 
 # Nomad
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Traveling far and wide, you picked up basic tactics for surviving on the road and in unknown lands, getting by with few supplies and even fewer comforts. As an adventurer, you travel still, often into even more dangerous places.
 

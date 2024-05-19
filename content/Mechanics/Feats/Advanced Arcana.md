@@ -8,7 +8,6 @@ tags:
 ---
 
 # Advanced Arcana
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain one wizard feat. For the purpose of meeting its prerequisites, your wizard level is equal to half your character level.
 

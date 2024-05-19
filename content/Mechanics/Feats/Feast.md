@@ -8,7 +8,6 @@ tags:
 ---
 
 # Feast
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are adjacent to a [[Restrained]] or [[Unconscious]] creature, or a deceased creature that died in the past hour.
 

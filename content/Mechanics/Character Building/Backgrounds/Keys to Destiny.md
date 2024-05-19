@@ -9,7 +9,6 @@ tags:
 ---
 
 # Keys to Destiny
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 From as far back as you can remember, it seems you were always meant to enter a specific industry or profession, be it artistry, engineering, farming, herbalism, labor, merchantry, scribing, theater, or warfare. Perhaps your parents belonged to this profession and encouraged you to follow in their footsteps, or maybe a personal hero of yours inspired you to take up their calling in honor of their accomplishments. Whatever the reason, the skills associated with that profession came naturally to you, but as time wore on and you grew older, you began to realize that this profession, while interesting to you, isn't what you want to do with your life. The lure of glory and adventure beckons. You can always go back to the studio, farm, or stage once you retire, after all!
 

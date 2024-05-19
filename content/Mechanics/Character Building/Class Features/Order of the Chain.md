@@ -9,7 +9,6 @@ tags:
 ---
 
 # Order of the Chain
-![[systems-pf2e-icons-default-icons-feat.svg|150]]
 
 Members of the Order of the Chain are skilled at hunting down and capturing criminals, especially those who dare flee from justice.
 

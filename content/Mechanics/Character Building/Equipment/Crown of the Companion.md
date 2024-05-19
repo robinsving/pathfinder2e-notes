@@ -8,7 +8,6 @@ tags:
 ---
 
 # Crown of the Companion
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Stories tell of a forgotten king who once loved his subjects so much he was willing to give his own life energy for them, using an object like the _crown of the companion_. Whether true or not, this majestic wooden crown bears elaborate carvings depicting that tale with images of a regal figure giving more and more of themself to a throng of needy subjects. While wearing this crown, you gain a +1 item bonus to Diplomacy checks.
 

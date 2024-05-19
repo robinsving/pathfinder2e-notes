@@ -8,7 +8,6 @@ tags:
 ---
 
 # Repeating Hand Crossbow Training
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You become trained in the [[Repeating Hand Crossbow]] and gain access to repeating hand crossbows and [[Shootist Bandolier]]. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the repeating hand crossbow. If you're at least an expert in a repeating hand crossbow you're using, you gain access to its critical specialization effect. You can perform the [[Shootist's Draw]] action with repeating hand crossbows.
 

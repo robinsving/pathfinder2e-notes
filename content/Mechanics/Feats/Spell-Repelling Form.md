@@ -8,6 +8,5 @@ tags:
 ---
 
 # Spell-Repelling Form
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your eidolon evolves to protect itself from the danger posed by spells. It gains a +1 status bonus to all saving throws against magic.

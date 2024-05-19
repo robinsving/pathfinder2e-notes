@@ -8,7 +8,6 @@ tags:
 ---
 
 # Twilight Lantern (Lesser)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This elegant hooded lantern is made from onyx-black metal. In dim light, flecks of white metal speckled within the lantern's housing resemble stars in a night sky. The lantern uses oil as a standard hooded lantern, except that any light the lantern emits is converted into magical light similar to moonlight. This magical moonlight is always dim light.
 

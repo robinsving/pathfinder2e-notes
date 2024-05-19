@@ -9,7 +9,6 @@ tags:
 ---
 
 # Codebreaker
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Whether you're employed by a military organization to decipher coded messages sent by enemy factions or work independently to crack an enigma created by a past civilization, you have a head for patterns and linguistics. You might even use new clockwork devices to aid you in your efforts.
 

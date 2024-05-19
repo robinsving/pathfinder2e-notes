@@ -9,7 +9,6 @@ tags:
 ---
 
 # Student of Magic
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You are currently enrolled at a school of magic, where you're learning the fundamentals of your magical tradition. Whether your adventuring occurs during breaks between semesters, as part of a work study program, or even within the halls of the academy itself, you'll have to learn to juggle your dual life.
 

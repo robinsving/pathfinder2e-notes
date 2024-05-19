@@ -9,7 +9,6 @@ tags:
 ---
 
 # Sentinel Reflectance
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Either through witnessing their deeds and devout heroics firsthand, or through reading chronicles of their exploits, the Shining Sentinels of the Knights of Lastwall inspire you. You may idealize their philosophy or one day hope to join their ranks; the Shining Sentinels are your guiding star.
 

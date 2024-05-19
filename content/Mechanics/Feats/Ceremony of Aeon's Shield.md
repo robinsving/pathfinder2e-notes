@@ -8,6 +8,5 @@ tags:
 ---
 
 # Ceremony of Aeon's Shield
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your patron aeon graced you with powers of protection. You can cast _[[Resist Energy]]_ and _[[Share Life]]_ each once per day as 2nd-level divine innate spells.

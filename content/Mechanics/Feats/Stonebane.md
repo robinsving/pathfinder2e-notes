@@ -8,6 +8,5 @@ tags:
 ---
 
 # Stonebane
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your stonestrike attacks deal 1d6 additional damage against constructs, creatures with the earth trait, and earthen objects, such as a stone door.

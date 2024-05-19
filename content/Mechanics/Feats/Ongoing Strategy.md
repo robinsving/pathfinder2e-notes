@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ongoing Strategy
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You're constantly studying small aspects of everyone's movements, even if you don't have a stratagem in place ahead of time.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Vineshvakhi
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 In the pursuit of righteousness, one will suffer 10,000 little deaths. Those of purity will accept this torment and emerge knowing every danger the world might cast upon them, while those who flee like cowards from their task will know only their mortality. This truth was first claimed by Vineshvakhi, who even as a fledgling divinity couldn't begin to appreciate the gravity of his charge until he suffered pain and humiliation in its defense.
 

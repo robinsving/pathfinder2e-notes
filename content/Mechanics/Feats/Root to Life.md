@@ -8,7 +8,6 @@ tags:
 ---
 
 # Root to Life
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Marigold, spider lily, pennyroyal-many primal traditions connect flowers and plants with the boundary between life and death, and you can leverage this association to keep an ally on this side of the line. You place a small plant or similar symbol on an adjacent [[Dying]] creature, immediately stabilizing them; the creature is no longer dying and is instead [[Unconscious]] at 0 Hit Points.
 

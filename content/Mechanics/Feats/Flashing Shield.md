@@ -8,7 +8,6 @@ tags:
 ---
 
 # Flashing Shield
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You use the Shield Block reaction, and the opponent that triggered the Shield Block is undead and adjacent to you.
 

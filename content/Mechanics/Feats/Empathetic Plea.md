@@ -8,7 +8,6 @@ tags:
 ---
 
 # Empathetic Plea
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You are attacked by a creature that you haven't yet acted hostile toward. You must use this reaction before the creature rolls its attack.
 

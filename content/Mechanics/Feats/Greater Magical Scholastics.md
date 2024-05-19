@@ -8,7 +8,6 @@ tags:
 ---
 
 # Greater Magical Scholastics
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You broaden your magical studies, allowing you to find the right path, detect objects, and conceal those objects from unscrupulous rivals.
 

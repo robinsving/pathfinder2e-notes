@@ -8,7 +8,6 @@ tags:
 ---
 
 # Night's Shine
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your power from the moon and stars becomes strong enough to illuminate the night sky. You gain your choice of the _[[Asterism]]_ or _[[Touch of the Moon]]_ domain spell. Increase the number of Focus Points in your pool by 1.
 

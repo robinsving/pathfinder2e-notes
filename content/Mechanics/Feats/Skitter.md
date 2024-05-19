@@ -8,6 +8,5 @@ tags:
 ---
 
 # Skitter
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can scoot swiftly across the ground. You can [[Crawl]] up to half your Speed.

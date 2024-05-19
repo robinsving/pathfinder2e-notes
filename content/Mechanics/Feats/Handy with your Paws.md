@@ -8,6 +8,5 @@ tags:
 ---
 
 # Handy with your Paws
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain a +1 circumstance bonus to Crafting checks to [[Repair]] non-magical items, and you don't need a [[Repair Toolkit|Repair Kit]] for such repairs as long as you have any amount of junk, spare parts, or debris at your disposal.

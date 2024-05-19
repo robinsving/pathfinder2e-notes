@@ -8,7 +8,6 @@ tags:
 ---
 
 # One-Millimeter Punch
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your punches have incredible force and control. When you damage a target using One-Inch Punch, you can focus your ki to send the foe flying. If you do, the target must attempt a DC resolve fortitude save against your class DC.
 

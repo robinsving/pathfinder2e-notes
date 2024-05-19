@@ -9,7 +9,6 @@ tags:
 ---
 
 # Godless Graycloak
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You were a member of a church once, and you saw some things among Absalom's religious elite that put you off piety for good. Maybe it was one too many beggars turned away at the temple's front door, or maybe it was a high-ranking priests consistent abuses of power. What got to you most, though, was that according to just about every belief system out there, sinners and saints, priests and paupers were all alike in one key way: they never saw retribution or accolades until buried 6 feet under. You wanted more from Absalom. You wanted more from the world. You wanted justice now, on this plane, not in some indeterminate afterlife. So you left the church and wandered the city, a ghost of your former self.
 

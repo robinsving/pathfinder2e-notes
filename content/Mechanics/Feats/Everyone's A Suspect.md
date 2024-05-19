@@ -8,7 +8,6 @@ tags:
 ---
 
 # Everyone's A Suspect
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are so suspicious of everyone you meet that you keep mental notes on how to defeat them all-even your own allies.
 

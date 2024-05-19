@@ -8,7 +8,6 @@ tags:
 ---
 
 # Folklorist Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are a master archivist and entertainer, capable of pulling wisdom from the tales you tell and weaving your allies and enemies into a powerful narrative. You gain the [[Spin Tale]] action.
 

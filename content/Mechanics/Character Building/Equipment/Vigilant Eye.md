@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vigilant Eye
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Carved in this wooden disc is a humanoid eye, painted in muted shades that blend in with the wood. The eye's pupil continually twitches and moves, scanning its bearer's surroundings.
 

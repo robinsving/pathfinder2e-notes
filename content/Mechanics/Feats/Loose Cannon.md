@@ -8,7 +8,6 @@ tags:
 ---
 
 # Loose Cannon
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your unpredictable gunfire often catches enemies off guard or hits unprotected areas. Make a ranged Strike with a firearm against a creature that you haven't already attacked on this turn. You gain a circumstance bonus to damage on this Strike equal to the number of weapon damage dice. The Strike gains the following failure effect.
 

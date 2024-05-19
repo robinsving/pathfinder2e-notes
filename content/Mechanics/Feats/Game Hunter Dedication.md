@@ -8,7 +8,6 @@ tags:
 ---
 
 # Game Hunter Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are skilled at tracking big game animals and similar creatures. You gain the [[Hunt Prey]] action, but you can designate only animals, beasts, and dragons as prey. In addition to the other benefits of Hunt Prey, you gain a +2 circumstance bonus to Stealth checks against your hunted prey.
 

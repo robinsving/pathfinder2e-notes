@@ -8,6 +8,5 @@ tags:
 ---
 
 # Rokoan Arts
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Ancestral spirits have begun to bond themselves to you, granting you powers characteristic of a rokoa. You can cast _[[Speak with Animals]]_ and _[[Status]]_ as primal innate spells once per day each.

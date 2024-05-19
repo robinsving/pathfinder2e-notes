@@ -8,7 +8,6 @@ tags:
 ---
 
 # Twin Weakness
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You're holding an implement and a weapon, you are using Exploit Vulnerability with mortal weakness or personal antithesis, and the target creature is within reach of both your implement and weapon.
 

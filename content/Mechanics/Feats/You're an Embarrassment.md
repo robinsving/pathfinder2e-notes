@@ -8,7 +8,6 @@ tags:
 ---
 
 # You're an Embarrassment
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An ally within 30 feet fails a Will saving throw against an incapacitation effect.
 

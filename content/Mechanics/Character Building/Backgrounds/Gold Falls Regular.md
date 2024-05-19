@@ -9,7 +9,6 @@ tags:
 ---
 
 # Gold Falls Regular
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You've long been a regular of Gold Falls Inn, a tavern located near Droskar's Crag in the Darkmoon Vale region of Andoran. The establishment is a frequent gathering place for adventurers, storytellers, and folk heroes. You took note of the Pathfinder Society's growing reputation in the area and decided to join up and seek adventure and fame of your own.
 

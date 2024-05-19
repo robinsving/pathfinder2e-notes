@@ -8,7 +8,6 @@ tags:
 ---
 
 # Chronoskimmer Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You became partially unstuck from time and have learned how to manipulate your place in flow of time. When you roll initiative, you can choose one of three options: either do nothing and roll initiative normally, stabilize your timestream, or destabilize your timestream and send it into intense fluctuations. If you choose to stabilize your timestream, you don't roll initiative, and instead your initiative is equal to 10 + your initiative modifier. If you choose to destabilize your timestream, attempt a DC 11 flat. On a success, your initiative is equal to 19 + your initiative modifier, and on a failure, your initiative is equal to 1 + your initiative modifier. Both stabilizing and destabilizing your timestream are fortune effects.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Portable Hole
-![[systems-pf2e-icons-default-icons-backpack.svg|150]]
 
 Wispy, ethereal strands of carefully spun silk make up the substance of a portable hole, which sparkles with captive beams of starlight. It's linked to an extradimensional space in the shape of a pit, which can be accessed if the hole is fully opened.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vernai Training
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 To resurrect a creature you've slain, a spellcaster must counteract your influence on its death. The DC of this check is equal to your class DC or spell DC, whichever is higher.
 

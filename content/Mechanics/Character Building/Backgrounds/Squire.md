@@ -9,7 +9,6 @@ tags:
 ---
 
 # Squire
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You trained at the feet of a knight, maintaining their gear and supporting them at tourneys and in battle. Now you search for a challenge that will prove you worthy of full knighthood, or you've spurned pomp and ceremony to test yourself in honest, albeit less formal, combat.
 

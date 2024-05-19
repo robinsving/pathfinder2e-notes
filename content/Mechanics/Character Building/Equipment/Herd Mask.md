@@ -8,7 +8,6 @@ tags:
 ---
 
 # Herd Mask
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 All _herd masks_ are linked to at least one other herd mask and are usually sold in sets of multiple masks. Linked _herd masks_ look like one another, with only slight differences to tell them apart.
 

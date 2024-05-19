@@ -8,6 +8,5 @@ tags:
 ---
 
 # Ancestor's Rage
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You transform into an enormous otherworldly hyena. You can cast _[[Animal Form]]_ (canine form only) once per day as a 5th-level occult innate spell.

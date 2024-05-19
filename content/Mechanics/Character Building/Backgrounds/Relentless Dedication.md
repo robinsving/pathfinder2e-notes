@@ -9,7 +9,6 @@ tags:
 ---
 
 # Relentless Dedication
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Recruiters invite many candidates like you to train to be Knights of Lastwall, but only a select few make the cut. Whereas others lose heart, your perseverance paid off. Your commitment to the cause is so clear, it overcame whatever disqualified your previous attempts to join the new Shining Crusade.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Diver's Gloves (Lesser)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 These black leather gloves fit snuggly, running up the length of your arm to your elbow. Each glove has an angular fin running along the outside edge of your arms, which forms a narrow triangle when your hands meet in a diving position. While wearing the gloves, you gain a +1 item bonus to Athletics checks to [[Swim]].
 

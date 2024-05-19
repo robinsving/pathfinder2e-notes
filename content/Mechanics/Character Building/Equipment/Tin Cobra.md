@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tin Cobra
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 This clockwork cobra activates when a creature enters its square, at which point it lashes out and spits venom, dealing 3d6 poison damage. The target must attempt a DC 21 fortitude save.
 

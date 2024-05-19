@@ -8,6 +8,5 @@ tags:
 ---
 
 # Apex Companion
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can call upon the essence of every individual animal of a particular species to temporarily transform your animal into an exemplar of its kind. You learn the _[[Apex Companion]]_ order spell. Increase the number of Focus Points in your focus pool by 1.

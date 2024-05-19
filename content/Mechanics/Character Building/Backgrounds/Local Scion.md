@@ -9,7 +9,6 @@ tags:
 ---
 
 # Local Scion
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You're from Breachill and have lived there most, if not all, of your life. You might be the son or daughter of a well-known local adventuring family, or a family with a storied tradition of military or other martial service. You likely also have some sort of skill with your hands, as the people of Breachill are very self-sufficient.
 

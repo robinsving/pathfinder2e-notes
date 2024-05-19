@@ -8,7 +8,6 @@ tags:
 ---
 
 # Flesh Wound
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You fire to ensure that even if your shot doesn't land cleanly, it still lands close enough to deal some damage. Make a ranged Strike. It gains the following effect on a failure (though not a critical failure).
 

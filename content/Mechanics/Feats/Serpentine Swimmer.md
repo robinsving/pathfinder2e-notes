@@ -8,6 +8,5 @@ tags:
 ---
 
 # Serpentine Swimmer
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You undulate your body in a series of sinuous serpentine motions as you swim, drastically improving the speed at which you move through the water. Your swim Speed increases from 10 feet to 25 feet.

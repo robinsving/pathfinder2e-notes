@@ -8,7 +8,6 @@ tags:
 ---
 
 # Resounding Finale
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You or an ally benefiting from your composition spell would take sonic damage.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Steady Spellcasting (Magus)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Confident in your technique, you don't easily lose your concentration when you Cast a Spell.
 

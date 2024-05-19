@@ -8,6 +8,5 @@ tags:
 ---
 
 # Bonded Focus
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your connection to your bonded item increases your focus pool. Whenever you Refocus while your bonded item is in your possession, you completely refill your focus pool.

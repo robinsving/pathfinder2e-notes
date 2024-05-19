@@ -8,7 +8,6 @@ tags:
 ---
 
 # Nightbreeze Machine
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 The nightbreeze machine can turn a scorching hot room into a comfortable one with just the pull of a lever. Its outer shell is a brass cube half as tall as the average human that houses a series of flat metal "blades" in a circular arrangement. When placed on a flat surface, a creature within reach can Interact to flip the lever, turning the machine on. When the machine is active, the blades begin to spin rapidly, setting the air in the room into motion, which cools off the room's inhabitants. A front-mounted metal grate prevents anyone from coming into accidental contact with the spinning blades without impeding airflow.
 

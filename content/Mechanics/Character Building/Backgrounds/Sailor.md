@@ -9,7 +9,6 @@ tags:
 ---
 
 # Sailor
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You heard the call of the sea from a young age. Perhaps you signed onto a merchant's vessel, joined the navy, or even fell in with a crew of pirates and scalawags.
 

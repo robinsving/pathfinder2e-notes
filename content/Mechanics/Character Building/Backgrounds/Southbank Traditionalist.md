@@ -9,7 +9,6 @@ tags:
 ---
 
 # Southbank Traditionalist
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 The political faction of Southbank represents the original founders of Willowshore, a hearty band of settlers whose skills and focus tend toward the earthly and humble. While there are certainly those in this faction who regard Northridge as vapid urbanites, merchants, and power-hungry politicians, most in Southbank devote their energy to helping Willowshore stay fed, honoring its long-standing traditions, and remaining relatively self-sufficient. Your interests in Willowshore's history are closely tied to the traditions of farming and building what you need with your own two hands, as well as taking part in the shared oral history of the region. Whether it's enjoying discussions with local elders about the past or helping newcomers learn Willowshore's ways, you're always eager to help uphold the town's traditions.
 

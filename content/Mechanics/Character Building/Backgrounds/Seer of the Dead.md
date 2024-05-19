@@ -9,7 +9,6 @@ tags:
 ---
 
 # Seer of the Dead
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You have long been gifted with the ability to see and speak with the departed. This could have manifested at your birth or when a chance encounter linked you inextricably to the spirits of the dead. Their constant presence might feel like a curse, or it might provide you with welcome companionship.
 

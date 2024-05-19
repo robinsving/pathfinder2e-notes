@@ -8,7 +8,6 @@ tags:
 ---
 
 # Saurian Spike (Major)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This jagged, bony growth narrows to a sharp, pointed tip. Deep groves from some former battle scar its surface. The bearer of a _saurian spike_ often feels a sudden surge in power and confidence.
 

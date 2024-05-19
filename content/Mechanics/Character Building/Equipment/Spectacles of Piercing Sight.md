@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spectacles of Piercing Sight
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 With lenses set in a silver frame, spectacles of piercing sight grant you a +3 item bonus to visual Perception checks.
 

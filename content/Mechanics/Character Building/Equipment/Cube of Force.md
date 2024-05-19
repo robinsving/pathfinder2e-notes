@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cube of Force
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 A cube of force is an enchanted cube that measures an inch across. While made from any hard material, the sides of a cube of force are decorated so that they can be distinguished by touch.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Investigator Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain the [[On the Case]] class feature, which grants you both the [[Pursue a Lead]] activity and [[Clue In]] reaction. You become trained in Society and another skill of your choice. If you were already trained in Society, you instead become trained in an additional skill of your choice. You also become trained in investigator class DC.
 

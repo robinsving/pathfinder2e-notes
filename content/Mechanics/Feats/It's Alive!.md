@@ -8,6 +8,5 @@ tags:
 ---
 
 # It's Alive!
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've mastered the use of electrical energy to power your clockwork creations. Whenever your construct companion takes electricity damage, it gains temporary Hit Points equal to either half the electricity damage it took or your level, whichever is lower. These temporary Hit Points last for up to 1 minute.

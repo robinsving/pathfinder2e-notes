@@ -8,7 +8,6 @@ tags:
 ---
 
 # Void Mirror
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 **Usage** Mounted in frame
 

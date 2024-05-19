@@ -8,7 +8,6 @@ tags:
 ---
 
 # Elemental Bulwark
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An enemy is about to damage you with cold, electricity, or fire, or with a spell that has the air, earth, fire, or water trait.
 

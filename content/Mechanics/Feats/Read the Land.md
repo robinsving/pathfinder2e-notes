@@ -8,6 +8,5 @@ tags:
 ---
 
 # Read the Land
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've learned how to commune with the land to learn information. You learn the _[[Commune]]_ ritual if you didn't know it already. You can perform this ritual with a casting time of 1 hour instead of 1 day and without a secondary caster.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Starless Scope
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Even during the time of Thassilon, when the Order of the Starless Night still existed, _starless scopes_ were uncommon. Today, this final scope might well be the last one to survive the passage of time.
 

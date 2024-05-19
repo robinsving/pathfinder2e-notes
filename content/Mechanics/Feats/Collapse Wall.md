@@ -8,7 +8,6 @@ tags:
 ---
 
 # Collapse Wall
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A creature moves into the bombs' splash area.
 

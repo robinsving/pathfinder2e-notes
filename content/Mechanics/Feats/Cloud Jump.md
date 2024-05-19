@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cloud Jump
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You unparalleled athletic skill allows you to jump impossible distances. Triple the distance you [[Long Jump]] (so you could jump 60 feet on a successful DC 20 check). When you [[High Jump]], use the calculation for a Long Jump but don't triple the distance.
 

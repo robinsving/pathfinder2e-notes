@@ -8,6 +8,5 @@ tags:
 ---
 
 # Mental Buffer
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your mind deflects some amount of harm from attacks that induce pain or manipulate your mind directly. You gain resistance to mental damage equal to half your level (minimum 1). This resistance increases to equal to your level while your Psyche is Unleashed.

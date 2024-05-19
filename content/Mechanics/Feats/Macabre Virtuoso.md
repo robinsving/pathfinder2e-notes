@@ -8,7 +8,6 @@ tags:
 ---
 
 # Macabre Virtuoso
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Any necromancer can create zombies and skeletons, but you know the secrets behind the creation of far more advanced undead monstrosities. You learn the _[[Create Undead]]_ rituals to create two types of common undead for which you meet the prerequisites. (Your GM might give you access to additional types of undead.) You can't teach these rituals to anyone else and you can't participate in either ritual while allowing someone else to serve as the primary caster unless they also know the ritual. When you reach a new level, you can change either or both of these rituals to a different type of undead for which you now meet the prerequisites.
 

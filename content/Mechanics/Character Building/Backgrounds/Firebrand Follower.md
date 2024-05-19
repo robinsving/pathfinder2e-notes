@@ -9,7 +9,6 @@ tags:
 ---
 
 # Firebrand Follower
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You were once rescued or liberated from a hopeless situation by a group of Firebrands, and you have since aspired to become a Firebrand to continue their legacy. You still follow news of their adventures, and you hope to one day meet your heroes as comrades.
 

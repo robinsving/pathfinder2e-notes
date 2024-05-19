@@ -8,7 +8,6 @@ tags:
 ---
 
 # Charmed Life
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You attempt a saving throw, but you haven't rolled yet.
 

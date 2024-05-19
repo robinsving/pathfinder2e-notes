@@ -8,6 +8,5 @@ tags:
 ---
 
 # Cornered Fury
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When physically outmatched, you fight with unexpected ferocity. If a foe of a larger size than you critically hits and damages you, that foe is [[Off-Guard]] to you for 1 round.

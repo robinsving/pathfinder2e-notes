@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bergelmir
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 While some consider Fandarra to be the literal mother of all life, Bergelmir is the Mother of Memories. She's the tender of traditions and history, the keeper of wisdom, and the chronicler of lives and lineages. As the needle and thread that stitches a following together, she unites individuals with shared dreams, traditions, and values. Some view Bergelmir as the Founder of the Following and the creator of the primary way of life in the Realm.
 

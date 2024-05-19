@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ward Casting
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You attempt a flat check for Steady Spellcasting, but you haven't rolled yet.
 

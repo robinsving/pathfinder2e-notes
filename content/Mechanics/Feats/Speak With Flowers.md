@@ -8,6 +8,5 @@ tags:
 ---
 
 # Speak With Flowers
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 At your very heartwood, you're a flower animated by elder magic, and with a little effort, you can speak to your kindred. You can ask questions of, receive answers from, and use the Diplomacy skill with flowering plants of all types.

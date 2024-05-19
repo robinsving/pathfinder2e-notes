@@ -8,7 +8,6 @@ tags:
 ---
 
 # Miraculous Intervention
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An adjacent fiend or undead begins to use a reaction.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Greater Sun Blessing
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your connection to the Old Sun Gods grows stronger. You gain an advanced domain spell from a domain you chose with Blessing of the Sun Gods. Increase the number of Focus Points in your focus pool by 1.
 

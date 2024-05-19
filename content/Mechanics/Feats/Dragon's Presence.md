@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dragon's Presence
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 As a member of dragonkind, you project unflappable confidence (that collapses catastrophically against the deadliest foes).
 

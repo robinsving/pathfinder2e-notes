@@ -8,7 +8,6 @@ tags:
 ---
 
 # Critter Shape
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Once per hour, you can use [[Change Shape (Beastkin)|Change Shape]] to enter a critter shape. While in critter shape, you gain the effect of a 1st-level _[[Pest Form]]_, except you can only transform into an animal matching your inherent animal.
 

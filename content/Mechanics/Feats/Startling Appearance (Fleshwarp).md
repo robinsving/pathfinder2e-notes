@@ -8,6 +8,5 @@ tags:
 ---
 
 # Startling Appearance (Fleshwarp)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are trained in Intimidation (or another skill of your choice, if you were already trained in Intimidation) and gain the [[Intimidating Glare]] skill feat as a bonus feat.

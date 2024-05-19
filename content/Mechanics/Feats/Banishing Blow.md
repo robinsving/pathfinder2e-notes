@@ -8,7 +8,6 @@ tags:
 ---
 
 # Banishing Blow
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You use your champion's reaction, triggered by a fiend within your reach.
 

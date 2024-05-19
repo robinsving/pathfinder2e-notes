@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ghost Hunter
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your connection to the Boneyard ensures that your blows strike true against spectral beings.
 

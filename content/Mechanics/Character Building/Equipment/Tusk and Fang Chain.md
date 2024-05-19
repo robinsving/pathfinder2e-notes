@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tusk and Fang Chain
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 **Usage** affixed to armor
 

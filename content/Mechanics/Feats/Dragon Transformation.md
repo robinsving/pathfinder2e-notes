@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dragon Transformation
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You transform into a ferocious Large dragon, gaining the effects of 6th-level _[[Dragon Form]]_ except that you use your own AC and attack modifier, you apply your extra damage from Rage, and the Breath Weapon uses your class DC. The action to Dismiss the transformation gains the rage trait.
 

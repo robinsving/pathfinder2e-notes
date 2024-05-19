@@ -8,7 +8,6 @@ tags:
 ---
 
 # Chronomancer's Secrets
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The secrets of time peel back, revealing deeper truths. You gain either the _[[Stasis]]_ domain spell or the _[[Path of Least Resistance]]_ focus spell. Increase the number of Focus Points in your pool by 1.
 

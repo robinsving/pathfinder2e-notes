@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ensnaring Wrappings
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** Your Strike deals physical damage to a creature that is within reach of your arms and isn't more than one size larger than you.
 

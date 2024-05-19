@@ -8,7 +8,6 @@ tags:
 ---
 
 # Paragon Battle Medicine
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Kassi Aziril taught you her techniques that originated the modern use of Battle Medicine.
 

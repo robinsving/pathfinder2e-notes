@@ -9,7 +9,6 @@ tags:
 ---
 
 # Wished Alive
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Once you were a simple construct or inanimate doll, but due to a deeply felt wish, either yours or another's, you came to life, and so you're now a living, breathing creature.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rite of Reinforcement Exoskeleton
-![[systems-pf2e-icons-default-icons-armor.svg|150]]
 
 **Note** Conrasu Rite of Reinforcement Heritage Only
 

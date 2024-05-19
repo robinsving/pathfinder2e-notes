@@ -8,7 +8,6 @@ tags:
 ---
 
 # Grovel
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 With obsequious words and begging gestures, you convince your foe you're less of a threat.
 

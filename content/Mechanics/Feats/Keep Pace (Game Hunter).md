@@ -8,7 +8,6 @@ tags:
 ---
 
 # Keep Pace (Game Hunter)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When your hunted prey tries to bolt, you follow. You Stride up to your Speed, following your hunted prey and keeping it in reach throughout its movement until it stops moving or you've moved your full Speed.
 

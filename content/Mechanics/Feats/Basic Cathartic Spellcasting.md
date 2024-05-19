@@ -8,6 +8,5 @@ tags:
 ---
 
 # Basic Cathartic Spellcasting
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain the [[Spellcasting Archetypes#Basic Spellcasting Feat|Basic Spellcasting Feat]] benefits. Each time you gain a spell slot of a new rank from this archetype, add a spell of that spell rank from your chosen tradition to your repertoire-either a common spell or another spell you've learned or discovered.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cube of Recall
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This small cube has smooth matte sides. One side is black, the opposite side is white, and the other four are various shades of gray. Each side can be attuned to a location and then teleport you back to that spot in the blink of an eye.
 

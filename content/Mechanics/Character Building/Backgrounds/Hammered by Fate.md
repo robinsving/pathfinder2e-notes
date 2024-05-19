@@ -9,7 +9,6 @@ tags:
 ---
 
 # Hammered by Fate
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Your life has been difficult, in no small part due to the influence of all things fiendish in your past. You might be a tiefling whose heritage has resulted in you being shunned or ostracized by society, or you could be any ancestry who grew up in a land where fiendish influence lingers—such as devil-haunted Cheliax or the realm of Sarkoris Scar, where the influence of the Worldwound and its demonic invaders yet linger. Perhaps you carry an old scar or wound from a frightening encounter with a demon, have a fiend-related element as part of your class (such as a sorcerer bloodline or a fiendish patron whom you worship), or endured a long-term affliction from a fiendish source that only recently has been alleviated. Whatever the case, fate has thrown horror and terror at you at every turn, and that's taught you to always be ready for whatever those fiends might have in store for you next.
 

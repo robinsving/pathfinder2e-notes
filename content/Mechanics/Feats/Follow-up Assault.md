@@ -8,7 +8,6 @@ tags:
 ---
 
 # Follow-up Assault
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You used your previous action to make a melee Strike that missed.
 

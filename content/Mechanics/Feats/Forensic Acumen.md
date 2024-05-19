@@ -8,7 +8,6 @@ tags:
 ---
 
 # Forensic Acumen
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You understand the principles of forensic medicine, making you better at examining a body to determine the cause of death or injury.
 

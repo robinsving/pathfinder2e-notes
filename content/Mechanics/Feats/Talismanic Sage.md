@@ -8,7 +8,6 @@ tags:
 ---
 
 # Talismanic Sage
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have forgotten more about talismans than lesser warriors have ever known. Normally, affixing more than one talisman to an item causes the talismans to be suppressed, but when you [[Affix a Talisman]], you can specially treat one item you're working on, allowing it to have two active talismans at once.
 

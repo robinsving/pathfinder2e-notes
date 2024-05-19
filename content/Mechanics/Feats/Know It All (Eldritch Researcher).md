@@ -8,6 +8,5 @@ tags:
 ---
 
 # Know It All (Eldritch Researcher)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your knowledge of abstruse topics is unparalleled. When you succeed at a check to Recall Knowledge, you gain additional information or context. When you critically succeed at a Knowledge check, at the GM's discretion you might gain even more additional information or context than normal.

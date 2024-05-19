@@ -8,7 +8,6 @@ tags:
 ---
 
 # Incredible Scout
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you scout, you are particularly alert for danger, granting your allies precious moments to prepare to fight.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fey Influence
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have been exposed to powerful fey magic. You become trained in primal DCs and spell attack rolls. You gain the fey trait and one of the following features which grant an innate primal spell that can be used once per day.
 

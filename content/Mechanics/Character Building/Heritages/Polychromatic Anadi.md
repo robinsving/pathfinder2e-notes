@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Polychromatic Anadi
-![[systems-pf2e-icons-default-icons-heritage.svg|150]]
 
 Your body is covered with exceptionally colorful hairs that create vibrant, eye-catching patterns, some of which might even show in your human form. You become trained in Performance (or another skill if you were already trained in Performance), and you gain the [[Impressive Performance]] feat.
 

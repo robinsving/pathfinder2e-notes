@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vengeful Spirit Deck
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You have an active harrow omen.
 

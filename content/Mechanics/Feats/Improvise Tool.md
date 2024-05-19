@@ -8,7 +8,6 @@ tags:
 ---
 
 # Improvise Tool
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can jury-rig solutions when you don't have the proper tools on hand. You can attempt to [[Repair]] damaged items without a repair kit.
 

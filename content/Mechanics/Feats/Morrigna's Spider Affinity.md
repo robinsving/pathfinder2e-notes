@@ -8,6 +8,5 @@ tags:
 ---
 
 # Morrigna's Spider Affinity
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Much like morrignas, you feel an affinity for spiders. You can cast _[[Animal Messenger]]_, _[[Speak with Animals]]_, and _[[Gecko Grip]]_ each once per day as 2nd-level divine innate spells.

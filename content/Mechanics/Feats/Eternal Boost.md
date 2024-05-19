@@ -8,7 +8,6 @@ tags:
 ---
 
 # Eternal Boost
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your link with your eidolon is so intense that you continuously reinforce its abilities. You are permanently [[Quickened]]; you can use your extra action only to cast _boost eidolon_ or _reinforce eidolon_.
 

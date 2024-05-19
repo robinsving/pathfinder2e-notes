@@ -9,7 +9,6 @@ tags:
 ---
 
 # Scavenger
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You've made a living sorting through the things society throws away. You might have scavenged simply to survive, or plied a trade as a ragpicker, dung carter, or the like. While you've left that life behind, you still keep one eye on the ground out of habit.
 

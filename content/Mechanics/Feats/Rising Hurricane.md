@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rising Hurricane
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 A hurricane lifts your enemies into the air before bringing them crashing down in a bloody rain. Your hurricane appears in a cylinder that's 40 feet tall, has a 30-foot diameter, and is within 120 feet. All creatures in the area take 2d6 bludgeoning damage with a DC 0 Basic Fortitude save against your class DC. Lift any creature that fails its save to any height you choose within the area, move it up to 5 feet in any direction, then drop it. It takes falling damage normally unless it has a fly Speed.
 

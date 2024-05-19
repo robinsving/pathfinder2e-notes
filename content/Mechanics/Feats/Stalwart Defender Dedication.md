@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stalwart Defender Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Access** You are a dwarf or have undergone defender training in a dwarven settlement such as Highhelm.
 

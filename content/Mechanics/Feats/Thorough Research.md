@@ -8,6 +8,5 @@ tags:
 ---
 
 # Thorough Research
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you succeed at a [[Recall Knowledge]] check, you learn an additional fact about the subject. When you critically succeed at a Recall Knowledge check, you can gain even more additional information or context than normal, at the GM's discretion.

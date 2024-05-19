@@ -9,7 +9,6 @@ tags:
 ---
 
 # Spell Seeker
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Conventional magic can only hold your attention for so long. Instead, you've devoted yourself to understanding truly esoteric spells, which invariably draws you to explore the world and all its eldritch traditions.
 

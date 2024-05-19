@@ -8,6 +8,5 @@ tags:
 ---
 
 # Fleet
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You move more quickly on foot. Your Speed increases by 5 feet.

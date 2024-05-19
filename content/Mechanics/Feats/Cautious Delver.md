@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cautious Delver
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've studied the many ways that ancient architects and spellcasters protected their possessions, such as by implementing deadly traps and curses, and learned some magic to counteract them. You can cast dispel magic, knock, and resist energy as innate spells, each once per day. If you can already cast spells, these spells are of the same tradition.
 

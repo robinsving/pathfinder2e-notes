@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rejuvenating Touch
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your healing energies linger after you cast, providing continual benefits.
 

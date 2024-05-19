@@ -9,7 +9,6 @@ tags:
 ---
 
 # Laudinmio
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 ## **Laudinmio**, The Sovereign of Alchemy
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Efficient Alchemy (Alchemist)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Thanks to the time you've spent studying and experimenting, you know how to scale your formulas into larger batches that don't require any additional attention.
 

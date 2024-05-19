@@ -8,7 +8,6 @@ tags:
 ---
 
 # Smoke Fan
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 **Activate** a Interact
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Vibration Sense
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your eidolon gains [[Tremorsense]] as an imprecise sense with a range of 30 feet. If aquatic, it gains [[Wavesense]] as an imprecise sense with a range of 30 feet instead. If amphibious, it gains both.

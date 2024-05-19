@@ -8,7 +8,6 @@ tags:
 ---
 
 # Animal Companion (Ranger)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain the service of a young animal companion that travels with you and obeys simple commands. When you [[Hunt Prey]], your animal companion gains the action's benefits and your hunter's edge benefit if you have one.
 

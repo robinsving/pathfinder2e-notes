@@ -8,6 +8,5 @@ tags:
 ---
 
 # Additional Shadow Magic
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Choose an additional shadowdancer focus spell you haven't already selected from Shadow Magic. Increase the number of Focus Points in your pool by 1.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Emergency Targe
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An enemy hits you with a melee Strike or a melee spell attack roll, or you fail a save against an enemy's spell.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Framed in Ferrous Quarter
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Everyone knows that Ferrous Quarter isn't exactly the nicest part of Alkenstar. Hard-working laborers, gunsmiths suffering from black lung, and red-eyed tinkerers alike can toil their entire lives on these grimy streets and still wind up dead in an alley with nothing to show for it. You were once one of these humble artisans, until one day, out of nowhere, things broke bad.
 

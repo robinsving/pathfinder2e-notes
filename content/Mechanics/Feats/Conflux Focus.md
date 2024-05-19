@@ -8,7 +8,6 @@ tags:
 ---
 
 # Conflux Focus
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You imagine how you'll weave magic and combat into future battles, improving your focus.
 

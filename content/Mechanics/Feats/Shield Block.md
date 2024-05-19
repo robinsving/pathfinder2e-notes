@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shield Block
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** While you have your shield raised, you would take physical damage (bludgeoning, piercing, or slashing) from an attack.
 

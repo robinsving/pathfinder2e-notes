@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wind At Your Back
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This object can only be described as a gray, solidified, miniature cloud that feels spongy to the touch. The cloud is incredibly soft and can be easily lifted with little effort, though its ephemeral nature requires using two hands to ensure it doesn't slip from your grasp.
 

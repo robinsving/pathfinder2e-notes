@@ -9,7 +9,6 @@ tags:
 ---
 
 # Teacher
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You are incredibly knowledgeable, skilled, and perhaps even trained to teach children and adults about the world and its wonders. From books to classes, you're committed to imparting knowledge to all. Not everything can be taught or learned from a book, though, so you've become an adventurer to learn subjects more directly and bring that wisdom back to your students.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Secrets of Shadow
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your shadow's voice grows ever clearer; it whispers secrets of true power to you and shields your flesh from harm. Your shadow reservoir gains an additional spell 1 level below the highest level spell you can cast, in addition to the spells it already contains for all the levels below that.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Combat Grab
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You have one hand free, and your target is within reach of that hand.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Scout's Pounce
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are [[Hidden]] from or [[Undetected]] by all of your opponents, and you aren't within 10 feet of any enemy.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Adrenaline Rush
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 In the heat of battle, you are capable of amazing feats of strength.
 

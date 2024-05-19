@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fighting Horn
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can modify the size and shape of your horn over time using your mental powers. Choose two of the following weapon traits: disarm, grapple, shove, and trip. Your horn gains the chosen traits.
 

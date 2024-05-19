@@ -8,7 +8,6 @@ tags:
 ---
 
 # Just One More Thing
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** Your most recent action was to Feint, Request, or Demoralize, and you failed but didn't critically fail.
 

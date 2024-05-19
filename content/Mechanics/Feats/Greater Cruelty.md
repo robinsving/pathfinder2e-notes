@@ -8,7 +8,6 @@ tags:
 ---
 
 # Greater Cruelty
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The extent of the corruption within you does more than simply sap your foes' strength, it devastates their minds and reflexes.
 

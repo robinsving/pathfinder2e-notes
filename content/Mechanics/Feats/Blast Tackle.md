@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blast Tackle
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You're wielding a two-handed crossbow or a firearm that has the kickback or scatter trait.
 

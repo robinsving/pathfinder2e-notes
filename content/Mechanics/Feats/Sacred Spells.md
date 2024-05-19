@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sacred Spells
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Add _[[Void Warp]]_, _[[Death Ward]]_, _[[Vitality Lash]]_, _[[Infuse Vitality]]_, _[[Holy Cascade]]_, _[[Magic Stone]]_, and _[[Sunburst]]_ to your spell list. These are all necromancy spells for you, even if they normally have a different spell school. You can either prepare these spells or add them to your repertoire just like the spells normally on your tradition's spell list. When you gain this feat, you can retrain existing spells to replace them with ones on this list.
 

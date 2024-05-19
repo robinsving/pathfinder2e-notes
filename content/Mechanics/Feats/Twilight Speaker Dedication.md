@@ -8,7 +8,6 @@ tags:
 ---
 
 # Twilight Speaker Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have carefully studied the histories, customs, and etiquette of many of the younger peoples of Golarion. You become an expert in Society. At 7th level, you become a master in Society, and at 15th level, you become legendary in Society. You can use the Society skill instead of the Diplomacy skill when you attempt to [[Make an Impression]] on a non-elven intelligent humanoid creature.
 

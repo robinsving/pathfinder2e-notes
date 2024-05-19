@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mask Of Fear
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You start your turn with the [[Frightened]] condition.
 

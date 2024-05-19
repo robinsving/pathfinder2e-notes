@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cascading Ray
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** Your last action was a successful Spellstrike, and the spell you cast dealt energy damage (acid, cold, electricity, fire, force, sonic, vitality, or void).
 

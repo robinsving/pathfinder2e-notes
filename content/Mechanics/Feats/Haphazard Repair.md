@@ -8,7 +8,6 @@ tags:
 ---
 
 # Haphazard Repair
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You quickly fix your innovation, at the cost of its stability. You [[Repair]] your innovation almost immediately. You don't have to place the innovation on a flat surface, but you do need to be adjacent to it (including holding or wearing it), as well as having a repair kit as normal.
 

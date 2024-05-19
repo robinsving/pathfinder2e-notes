@@ -9,7 +9,6 @@ tags:
 ---
 
 # Dwarven Pantheon
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 The dwarven gods are one large family, with [[Torag]] as its patriarch. He is joined by his brothers [[Magrim]] (the Taskmaster) and [[Angradd]] (the Forge Fire), his half-sister [[Dranngvit]] (the Debt Minder), and his wife [[Folgrit]] (the Watchful Mother). His children are [[Bolka]] (the Golden Gift), [[Grundinnar]] (the Peacemaker), [[Kols]] (the Oath-Keeper), and [[Trudd]] (the Mighty). Torag's evil former student [[Droskar]] (the Dark Smith), though technically part of the dwarven pantheon, is rarely invoked by any save duergars.
 

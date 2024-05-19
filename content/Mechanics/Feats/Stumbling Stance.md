@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stumbling Stance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You enter a seemingly unfocused stance that mimics the movements of the inebriated-bobbing, weaving, leaving false openings, and distracting your enemies from your true movements.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Guardian's Embrace
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are adjacent to your spirit guide or it is sharing your space.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Necromancer's Apprentice
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You apprenticed under a necromancer-a hard education in a field where a cadaver you were dissecting could suddenly animate and every magical artifact seemed deadly. Now on your own, you're grateful you learned to identify magical threats quickly and thoroughly.
 

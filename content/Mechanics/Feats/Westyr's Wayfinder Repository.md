@@ -8,7 +8,6 @@ tags:
 ---
 
 # Westyr's Wayfinder Repository
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You have at least one 1st-level spell slot and a wayfinder.
 

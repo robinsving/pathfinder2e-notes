@@ -8,7 +8,6 @@ tags:
 ---
 
 # Consume Spell
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you successfully [[Counterspell (Spontaneous)|Counterspell]] a spell of the tradition that matches your bloodline, you consume it, replenishing yourself with its energy.
 

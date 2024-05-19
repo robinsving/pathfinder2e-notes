@@ -8,7 +8,6 @@ tags:
 ---
 
 # Phantasmal Doorknob (Greater)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This ornate doorknob can open doors both material and metaphysical, revealing dreams and nightmares. The spell DC of any spell cast by activating this item is 27.
 

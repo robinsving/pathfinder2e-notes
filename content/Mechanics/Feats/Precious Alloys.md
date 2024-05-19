@@ -8,7 +8,6 @@ tags:
 ---
 
 # Precious Alloys
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Choose cold iron or silver. Your melee unarmed attacks have the special properties of a weapon made of that metal. If you are at least 13th level, you can choose adamantine instead of just cold iron or silver.
 

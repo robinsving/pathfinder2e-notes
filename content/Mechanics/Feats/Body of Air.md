@@ -8,7 +8,6 @@ tags:
 ---
 
 # Body of Air
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An enemy you can observe targets you with an attack or other damaging effect (Only required for reaction)
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Restorative Strike
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You have a [[Harm]] or [[Heal]] spell you can cast.
 

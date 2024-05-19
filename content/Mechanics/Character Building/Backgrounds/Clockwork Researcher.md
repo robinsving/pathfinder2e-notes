@@ -9,7 +9,6 @@ tags:
 ---
 
 # Clockwork Researcher
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 New forms of clockwork technology are incredibly interesting to you, and you've been studying examples of them to see where else they might be best put to use. You might eventually develop a new prototype machine or find a way to make related technologies practical enough for everyone to benefit. Though before you do, you must continue your research!
 

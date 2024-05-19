@@ -8,7 +8,6 @@ tags:
 ---
 
 # Steal Essence
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** A magic item is within your reach.
 

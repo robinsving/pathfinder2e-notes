@@ -8,7 +8,6 @@ tags:
 ---
 
 # Masterful Warden
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your mastery of warden magic increases. You gain your choice of one warden spell from the master warden spells.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Snap Out Of It! (Marshal)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You give a quick shout, hoping to shake the fog clouding your ally's thoughts.
 

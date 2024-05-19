@@ -9,7 +9,6 @@ tags:
 ---
 
 # Yog-Sothoth
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Yog-Sothoth is, along with Azathoth, one of the greatest of the Outer Gods. In appearance, he is said to be a congeries of iridescent spheres-brilliant, foaming bubbles that constantly expand and collapse in upon themselves. He has other manifestations, however, including the Lurker on the Threshold, a mass of black tentacles that endlessly writhe, reach, and grow, and a mysterious humanoid figure hidden behind a shimmering veil.
 

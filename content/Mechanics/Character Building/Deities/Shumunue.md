@@ -9,7 +9,6 @@ tags:
 ---
 
 # Shumunue
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 ## The Carved Lady of Mimicry
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Pillars of Knowledge
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Edicts** Seek new knowledge, use your knowledge and skill to improve the world around you, protect knowledge from becoming lost
 

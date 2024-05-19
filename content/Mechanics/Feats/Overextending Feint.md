@@ -8,7 +8,6 @@ tags:
 ---
 
 # Overextending Feint
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You goad a foe into overextending. On a successful [[Feint]], you can use the following success and critical success effects instead of any other effects that would occur when you Feint.
 

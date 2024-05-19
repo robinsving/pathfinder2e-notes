@@ -8,6 +8,5 @@ tags:
 ---
 
 # Expert Drill Sergeant
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You know how to get the most out of your allies. While exploring, when you are leading and allies are [[Follow the Expert|Following the Expert]], you grant a +3 circumstance bonus instead of +2 if you're an expert in the applicable skill, and a +4 circumstance bonus if you're a master.

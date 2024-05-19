@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blood in the Air
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** An enemy you've damaged with a ranged weapon during the last minute is [[Concealed]] or [[Hidden]] from you.
 

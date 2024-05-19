@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hardwood Armor
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Wood and bark grow over your body like armor. This hardwood armor is medium armor but uses your highest armor proficiency. The wooden armor's statistics are: AC Bonus +3; Dex Cap +2; Check Penalty –2; Speed Penalty –5 feet; Strength 14; Bulk 1; Group wood TV . Any bonuses, runes, and magical abilities of your actual armor are suppressed, but any runes that could apply to the hardwood armor are replicated onto it.
 

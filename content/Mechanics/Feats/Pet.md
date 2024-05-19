@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pet
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have a pet—a Tiny animal of a type you choose, such as a cat, bird, or rodent. It has the minion trait, meaning it gains 2 actions during your turn if you use the Command an Animal action to command it; this replaces the usual effects of [[Command an Animal]], and you don't need to attempt a Nature check. A pet can't make Strikes.
 

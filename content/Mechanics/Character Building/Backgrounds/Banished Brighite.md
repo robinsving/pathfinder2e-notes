@@ -9,7 +9,6 @@ tags:
 ---
 
 # Banished Brighite
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Once, you were a dedicated and important priest of Brigh, goddess of clockwork and invention, based out of the largest church to your deity, the Temple of Brigh in Alkenstar. Here, you made important discoveries in the annals of your religion's canon and furthered the Bronze Lady's agendas of innovation and creation. Your future seemed bright, and you predicted that it was only a matter of time until you ascended to the rank of primary cog or, someday, grand cog.
 

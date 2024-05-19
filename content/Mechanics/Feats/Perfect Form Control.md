@@ -8,6 +8,5 @@ tags:
 ---
 
 # Perfect Form Control
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Thanks to magic and muscle memory, you can stay in your alternate shapes indefinitely. When you use [[Form Control]], instead of lasting 1 hour, [[Untamed Form]] duration is unlimited (you can still Dismiss it).

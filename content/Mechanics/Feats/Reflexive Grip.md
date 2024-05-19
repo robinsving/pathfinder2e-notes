@@ -8,6 +8,5 @@ tags:
 ---
 
 # Reflexive Grip
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You keep hold of your weapons even when knocked out. You gain a +2 circumstance bonus to your Reflex DC when defending against checks to Disarm you. In addition, when you fall unconscious, you don't drop any weapons that you're currently wielding, though somebody else can remove them from you.

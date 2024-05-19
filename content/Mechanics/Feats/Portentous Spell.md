@@ -8,7 +8,6 @@ tags:
 ---
 
 # Portentous Spell
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your spellcasting is rife with strange lights, esoteric gestures, and other captivating effects that befuddle your foes.
 

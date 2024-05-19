@@ -9,7 +9,6 @@ tags:
 ---
 
 # Droskari Disciple
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You grew up in the church of the Dark Smith, where you learned the value of hard work and achieving vocational mastery.
 

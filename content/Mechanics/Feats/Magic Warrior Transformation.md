@@ -8,6 +8,5 @@ tags:
 ---
 
 # Magic Warrior Transformation
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can transform fully into the animal your mask represents. You gain the _[[Magic Warrior Transformation]]_ focus spell.

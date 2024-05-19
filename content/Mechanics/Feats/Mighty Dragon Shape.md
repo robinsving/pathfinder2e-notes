@@ -8,6 +8,5 @@ tags:
 ---
 
 # Mighty Dragon Shape
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've practiced and increased your draconic might, allowing you to take your draconic form more often. You can use Shape of the Dragon once per hour instead of once per day.

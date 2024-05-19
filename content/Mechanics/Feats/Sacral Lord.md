@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sacral Lord
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 By right of ritual or sheer stubbornness, you have claimed rulership of the land. Claim a defined territory, such as a small section of forest or river, or a district of a larger city. Within its borders, you can cast _[[Detect Magic]]_, _[[Guidance]]_, and _[[Sigil]]_ as innate divine cantrips, and you gain a +1 circumstance bonus to _[[Make an Impression]]_ on creatures that have the celestial, fiend, fey, monitor, or spirit traits.
 

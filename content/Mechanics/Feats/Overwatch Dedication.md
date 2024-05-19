@@ -8,7 +8,6 @@ tags:
 ---
 
 # Overwatch Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have an innate knack for tactical observation, and you've innovated to apply that knack in a variety of ways that allow you to assist your allies. With the help of enhanced visual gear (such as a specially modified telescope, goggled visor, or binoculars), you're keenly aware of the movement of combatants on the battlefield. You quickly and efficiently disperse that information to your nearby allies so they can use it to direct their own observations and reactions to danger.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Watch This!
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An ally misses or critically misses an enemy you can see with their attack.
 

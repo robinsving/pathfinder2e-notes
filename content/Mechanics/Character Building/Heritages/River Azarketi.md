@@ -9,7 +9,6 @@ draft: true
 ---
 
 # River Azarketi
-![[systems-pf2e-icons-default-icons-heritage.svg|150]]
 
 You come from azarketis who abandoned the oceans for the fresh water of inland life. The varied geography of rivers required you to develop advanced physical skills to swim against rapids, leap through cascading waters, and deftly navigate shallow and narrow channels.
 

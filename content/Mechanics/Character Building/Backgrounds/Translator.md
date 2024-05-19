@@ -9,7 +9,6 @@ tags:
 ---
 
 # Translator
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 In your youth, you learned to transcribe books and translate scrolls to preserve knowledge or perhaps to aid wealthy merchants and politicians. Whether you set out to make your own fortune or are drawn to decipher the strangest codes, your linguistic training will guide your discoveries.
 

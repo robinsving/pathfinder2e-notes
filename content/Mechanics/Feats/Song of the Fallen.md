@@ -8,6 +8,5 @@ tags:
 ---
 
 # Song of the Fallen
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The moving power of your songs can stir the spirits of the dead to rise once more and fight alongside you. You learn the _[[Song of the Fallen]]_ composition spell. Increase the number of Focus Points in your focus pool by 1.

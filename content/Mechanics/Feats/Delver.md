@@ -8,6 +8,5 @@ tags:
 ---
 
 # Delver
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Subterranean life taught you to swim through the ground like water. You gain a burrow Speed of 10 feet through loose soil or dirt.

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Warden Human (BB)
-![[systems-pf2e-icons-default-icons-heritage.svg|150]]
 
 You and your family members are survivors, and you've learned how to take care of yourself. Pick one of the following benefits.
 

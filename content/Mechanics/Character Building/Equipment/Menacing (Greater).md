@@ -8,7 +8,6 @@ tags:
 ---
 
 # Menacing (Greater)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Common among brutes who use the magic to scare others into compliance, menacing runes lend you a formidable appearance, granting you a +2 item bonus to Intimidation checks to [[Coerce]] others.
 

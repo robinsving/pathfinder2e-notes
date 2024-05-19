@@ -9,7 +9,6 @@ tags:
 ---
 
 # Demon Bringers
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 The Mwangi Expanse is full of dangers. Of particular note are the various demons and other Abyssal creatures that roam the jungles. Many of these creatures are drawn to the Mwangi Expanse by the presence of Angazhan's or Lamashtu's might, while others are direct servitors of those faithful to the demonic. While the Mwangi Expanse is home to many demon hunters that keep these evil forces at bay, many of them work in independent groups. It's only with the combined efforts of the demon hunters that the Mwangi Expanse can be rid of this demonic presence and the people of the Mwangi Expanse can be safe.
 

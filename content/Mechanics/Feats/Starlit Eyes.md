@@ -8,7 +8,6 @@ tags:
 ---
 
 # Starlit Eyes
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Starlight shines in your sight, enhancing your perception and range.
 

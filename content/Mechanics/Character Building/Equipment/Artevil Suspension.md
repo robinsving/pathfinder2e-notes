@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Artevil Suspension
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 **Activate** [[Treat Poison]]
 

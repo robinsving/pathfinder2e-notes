@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stone Bones
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You are struck by a critical hit that deals physical damage.
 

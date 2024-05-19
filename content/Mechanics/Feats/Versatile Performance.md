@@ -8,7 +8,6 @@ tags:
 ---
 
 # Versatile Performance
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can rely on the grandeur of your performances rather than ordinary social skills. You can use Performance instead of Diplomacy to Make an Impression and instead of Intimidation to Demoralize. You can also use an acting Performance instead of Deception to Impersonate.
 

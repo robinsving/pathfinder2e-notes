@@ -8,7 +8,6 @@ tags:
 ---
 
 # Torrent in the Blood
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 A healing wave splashes across creatures in a 30 foot cone, its cleansing water driving afflictions from the body. Each creature in the area regains 3d8 HP and can attempt a new save against one poison or disease affliction affecting it; on a failed save, the condition doesn't worsen.
 

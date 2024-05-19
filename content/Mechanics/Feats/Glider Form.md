@@ -8,7 +8,6 @@ tags:
 ---
 
 # Glider Form
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your eidolon evolves wings, a buoyant body, or some other means to control descent.
 

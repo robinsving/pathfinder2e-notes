@@ -8,6 +8,5 @@ tags:
 ---
 
 # Reactive Striker
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain the [[Mechanics/Character Building/Actions/Reactive Strike]] reaction.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fire Lung
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 A lifetime of proximity to flames has inured your lungs and eyes to smoke. You can breathe normally in areas of ash and smoke without risk of suffocation, and you ignore the [[Concealed]] condition from smoke.
 

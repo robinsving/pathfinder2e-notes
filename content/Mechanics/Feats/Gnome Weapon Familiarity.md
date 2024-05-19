@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gnome Weapon Familiarity
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You favor unusual weapons tied to your people, such as blades with curved and peculiar shapes. You gain access to kukris and all uncommon weapons with the gnome trait. You have familiarity with weapons with the gnome trait plus the glaive and kukri—for the purposes of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
 

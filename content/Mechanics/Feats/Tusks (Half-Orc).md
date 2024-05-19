@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tusks (Half-Orc)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Most half-orcs have visible tusks, but yours are particularly large and sharp, capable of gouging deep wounds. You gain a jaws unarmed attack that deals 1d6 piercing damage.
 

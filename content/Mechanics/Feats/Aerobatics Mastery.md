@@ -8,7 +8,6 @@ tags:
 ---
 
 # Aerobatics Mastery
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You move with grace in flight and can perform amazing aerial stunts.
 

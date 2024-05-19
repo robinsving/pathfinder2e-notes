@@ -8,7 +8,6 @@ tags:
 ---
 
 # Step Lively
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A Large or larger enemy ends a move action adjacent to you.
 

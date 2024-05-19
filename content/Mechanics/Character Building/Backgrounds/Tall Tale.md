@@ -9,7 +9,6 @@ tags:
 ---
 
 # Tall Tale
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You've ridden a tornado, lassoed a river, mooned a dragon under a full moon, and shot six zombies with one bullet. That's what the stories say, anyway, and even if people don't strictly believe them, they are curious about you. Certainly, the stories keep spreading, and it would appear that you either have a unique destiny or are trying to convince the world that you do.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Wish for Riches
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 On the night of the Missing Moment, you saw visions of fabulous riches in the gate before you. Honestly, how someone could see anything but piles of jewels and gold is utterly baffling to you. Having pined for material wealth for as long as you could remember, you practically sprang into the portal in hopes of securing your fortune. The next moment, however, you were standing right where you'd just been, though indeterminate time had passed. The night's cold hardly bothered you; in fact, you soon discovered that you could absorb the very chill in the air, in the process changing the appearance of everything around you into a sheen of finest silver. You're no richer than before you walked through the gate, unfortunately, but perhaps you could use this new power somehow to pursue your avarice anew.
 

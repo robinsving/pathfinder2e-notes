@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bastion Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are particularly skilled at using a shield in combat. You gain the [[Reactive Shield]] feat. This fulfills any prerequisites requiring Reactive Shield as normal.
 

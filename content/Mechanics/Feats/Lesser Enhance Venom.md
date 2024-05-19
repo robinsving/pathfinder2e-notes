@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lesser Enhance Venom
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your venom grows deadlier and more plentiful. You upgrade the vishkanyan venom you can apply with [[Envenom]] to lesser vishkanyan venom. Envenom's frequency becomes once per hour.
 

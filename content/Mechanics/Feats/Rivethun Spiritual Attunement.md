@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rivethun Spiritual Attunement
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Access** Rivethun Adherent background or you are a member of the Rivethun
 

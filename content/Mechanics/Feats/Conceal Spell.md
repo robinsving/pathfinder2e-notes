@@ -8,7 +8,6 @@ tags:
 ---
 
 # Conceal Spell
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Witch** Through sheer mental effort, you can simplify the incantations  
 and gestures needed to spellcast, leaving them barely  

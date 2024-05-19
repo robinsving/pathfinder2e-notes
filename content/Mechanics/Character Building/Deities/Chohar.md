@@ -9,7 +9,6 @@ tags:
 ---
 
 # Chohar
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 The old gods of the threefold sun were all but forgotten under the rule of Walkena, the child god. The immortal tyrant punishes anyone who lacks faith with death, and there is no worse blasphemy than to worship a rival god in his city. But the freedom fighter Sihar and her followers, the Bright Lions, have spread the word of the old sun gods in secret, and now they are returning to the people.
 

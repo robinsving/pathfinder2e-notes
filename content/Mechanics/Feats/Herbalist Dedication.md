@@ -8,7 +8,6 @@ tags:
 ---
 
 # Herbalist Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can create remedies and other herbal products. You gain the basic alchemy benefits, though they apply only for herbal items: alchemical items with the healing trait, plus [[Antidote (Lesser)|Antidote]] and [[Antiplague (Lesser)|Antiplague]].
 

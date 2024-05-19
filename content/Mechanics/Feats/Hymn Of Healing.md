@@ -8,6 +8,5 @@ tags:
 ---
 
 # Hymn Of Healing
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You learn the _[[Hymn of Healing]]_ composition spell, which imbues your music with rich melodies that help your allies recover from harm.

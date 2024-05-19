@@ -8,7 +8,6 @@ tags:
 ---
 
 # Steadying Stone
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The earth has taught you how to remain unyielding and firm. If you roll a success on an Acrobatics check made to [[Balance]] on uneven ground composed of earth or rock, you get a critical success instead.
 

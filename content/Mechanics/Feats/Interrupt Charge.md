@@ -8,7 +8,6 @@ tags:
 ---
 
 # Interrupt Charge
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A foe within reach attempts to move away from you.
 

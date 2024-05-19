@@ -8,7 +8,6 @@ tags:
 ---
 
 # Splendid Skull Mask
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Prerequisite: [[Skull Creeper]].
 

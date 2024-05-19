@@ -8,6 +8,5 @@ tags:
 ---
 
 # Magic Warrior Aspect
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can alter your form to gain an aspect of the animal your mask represents. You gain the magic warrior aspect focus spell.

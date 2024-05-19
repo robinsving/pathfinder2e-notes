@@ -8,6 +8,5 @@ tags:
 ---
 
 # Spirit Familiar
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your familiar can subsume its body to become pure spirit. Your familiar gains the [[Shed Spirit]] activity.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Greater Enhance Venom
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You upgrade the vishkanyan venom you can apply with [[Envenom]] to greater vishkanyan venom. Envenom's frequency becomes once per minute.
 

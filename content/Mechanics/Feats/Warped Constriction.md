@@ -8,7 +8,6 @@ tags:
 ---
 
 # Warped Constriction
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You have a foe [[Grabbed]] or [[Restrained]].
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Legerdemain Handkerchief
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This frilled, silvery-gray handkerchief is a stylish tool for personal hygiene by all appearances, but it can be used to covertly make very small items vanish.
 

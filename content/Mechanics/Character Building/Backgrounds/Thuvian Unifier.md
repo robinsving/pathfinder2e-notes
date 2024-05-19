@@ -9,7 +9,6 @@ tags:
 ---
 
 # Thuvian Unifier
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 **Prerequisite** Region - Golden Road
 

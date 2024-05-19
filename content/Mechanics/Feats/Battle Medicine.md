@@ -8,7 +8,6 @@ tags:
 ---
 
 # Battle Medicine
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You're holding or wearing a healer's toolkit.
 

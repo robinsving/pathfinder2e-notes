@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wisp Chain (Greater)
-![[systems-pf2e-icons-default-icons-armor.svg|150]]
 
 This _+1 resilient chain shirt_ is made of small, interlocking currents of wind carefully woven together. While the links of air don't jingle against each other like chain links might, the tiny cyclones nevertheless create a blustering howl akin to standing at the center of a storm. A creature that ends its turn adjacent to you must attempt a DC 27 fortitude save. On a failure, it becomes [[Deafened]] until it moves away from you.
 

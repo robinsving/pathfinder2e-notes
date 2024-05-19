@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bandit
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Your past includes no small amount of rural banditry, robbing travelers on the road and scraping by. Whether your robbery was sanctioned by a local noble or you did so of your own accord, you eventually got caught up in the adventuring life.
 

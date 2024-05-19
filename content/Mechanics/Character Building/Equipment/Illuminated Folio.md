@@ -8,7 +8,6 @@ tags:
 ---
 
 # Illuminated Folio
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 The pages of this part-spellbook, part-bestiary are illustrated with all manner of creatures, magical and mundane. The illustrations shift and move around the page when examined.
 

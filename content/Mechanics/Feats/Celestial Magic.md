@@ -8,7 +8,6 @@ tags:
 ---
 
 # Celestial Magic
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You possess celestial magic. Choose two of the following spells: _[[Clear Mind]]_, _[[Everlight]]_, _[[Humanoid Form]]_, _[[Revealing Light]]_, _[[Share Life]]_, or _[[Sure Footing]]_. You can use each of the chosen spells once per day as 2nd-rank divine innate spells.
 

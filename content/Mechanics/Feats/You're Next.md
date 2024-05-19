@@ -8,7 +8,6 @@ tags:
 ---
 
 # You're Next
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You reduce an enemy to 0 Hit Points.
 

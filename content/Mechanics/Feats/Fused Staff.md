@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fused Staff
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you prepare a staff, you can hold it up to a weapon to merge the two items. You can switch the fused item's form from the weapon to the staff or vice versa as a single action, which has the concentrate trait. When the item is in staff form, you can Cast the Spells from the staff and benefit from any other abilities the staff grants. The staff and the weapon share their fundamental runes, using whichever _weapon potency_ and whichever _striking_ rune is higher level. They don't share any other runes or specific abilities.
 

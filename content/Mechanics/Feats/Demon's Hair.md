@@ -8,7 +8,6 @@ tags:
 ---
 
 # Demon's Hair
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your hair constantly wriggles and writhes like that of your rival, Syu Tak-nwa. Your damage die of your hair unarmed Strike increases by one step and it gains the reach and versatile slashing traits. Your familiar assumes partial control over your hair; as long as your familiar is alive and within 30 feet, you are permanently quickened, and you can use the extra action only to make a hair Strike.
 

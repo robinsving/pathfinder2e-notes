@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gossip's Eye
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 These discrete prosthetics have been the secret behind more than a few salacious rumors getting out among Taldan high society. This functions like a _magical prosthetic eye_, but with an added benefit.
 

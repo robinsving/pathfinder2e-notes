@@ -9,7 +9,6 @@ tags:
 ---
 
 # Kazutal
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Kazutal, also known as Mother Jaguar or Lady Jaguar, is an old deity, revered for thousands of years on the continent of Arcadia. Ages ago, she was worshipped in the Razatlani Empire as a goddess of might and protection in war. After the catastrophe of Earthfall, however, her edge softened; those who struggled to put the world back together called upon her to protect their neighbors and came together under her guidance to build strong bonds of community and support.
 

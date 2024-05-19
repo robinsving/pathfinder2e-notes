@@ -8,7 +8,6 @@ tags:
 ---
 
 # Thrasher Tail
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Kobolds admire well-designed objects, especially if it gives them an opportunity to pack it with traps and surprises. This prosthetic tail hides numerous blades and spikes, tensioned and wound around a spring-loaded trigger at the base of the prosthesis. Resetting and reattaching a sprung thrasher tail takes 10 minutes.
 

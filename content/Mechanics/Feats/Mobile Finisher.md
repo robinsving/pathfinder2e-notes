@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mobile Finisher
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You attack in motion. Stride and then Strike.
 

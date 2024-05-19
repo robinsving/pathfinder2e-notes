@@ -9,7 +9,6 @@ tags:
 ---
 
 # Anti-Magical
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Magic has never worked quite right around you. Perhaps you have become a magic-user in spite of that, or perhaps you use your unique ability to fight magic-users.
 

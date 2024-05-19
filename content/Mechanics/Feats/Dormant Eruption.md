@@ -8,6 +8,5 @@ tags:
 ---
 
 # Dormant Eruption
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 A sweltering heat and sparks of flame that take the form of tiny copies of you surround your body. You're hot to the touch, gaining resistance 5 to cold and fire. Whenever an adjacent creature Strikes you with a melee attack or touches you, it takes 1d6 persistent,fire damage. You gain the [[Thermal Eruption]] action.

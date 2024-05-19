@@ -8,7 +8,6 @@ tags:
 ---
 
 # Flying Blade
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've learned to apply your flashy techniques to thrown weapons as easily as melee attacks.
 

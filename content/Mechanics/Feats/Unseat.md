@@ -8,7 +8,6 @@ tags:
 ---
 
 # Unseat
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are riding your mount and wielding a jousting weapon.
 

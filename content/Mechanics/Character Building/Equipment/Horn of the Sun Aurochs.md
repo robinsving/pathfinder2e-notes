@@ -8,7 +8,6 @@ tags:
 ---
 
 # Horn of the Sun Aurochs
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 A horn of the sun aurochs grants a +2 item bonus to Performance checks when played as an instrument.
 

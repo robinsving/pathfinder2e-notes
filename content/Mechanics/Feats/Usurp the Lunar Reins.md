@@ -8,7 +8,6 @@ tags:
 ---
 
 # Usurp the Lunar Reins
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 The moon has always been connected to the tides, and now you can grasp that connection. You can create massive amounts of water and control these tides, subverting even the moon's sovereignty over the oceans and seas. Choose an area 50 feet long by 50 feet wide within 500 feet, and choose two different effects from the options provided below. The effects take place in the listed order.
 

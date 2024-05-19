@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sneaky
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Stealth is an important tool in your arsenal. You can move 5 feet farther when you take the Sneak action, up to your Speed.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Reclaimant Plea
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You call on the power of the Crimson Oath to gain magical aid. Choose one of the following spells: _[[Air Walk]]_, _[[Planar Tether]]_, __[[Unfettered Movement]]__, _[[Invisibility]]_, _[[Cleanse Affliction]]_, _[[Holy Light]]_. You can Cast that Spell once per day as a 4th-level divine innate spell. At 14th level, the spell heightens to 5th level, and at 16th level, the spell heightens to 6th level. If you anger the mysterious source of the Crimson Oath's power, you lose the ability to cast the spell until you atone.
 

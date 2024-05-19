@@ -8,7 +8,6 @@ tags:
 ---
 
 # Just The Facts
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You fundamentally understand everything to the point where your research can't possibly be wrong.
 

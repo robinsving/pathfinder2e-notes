@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Impersonator Android
-![[systems-pf2e-icons-default-icons-heritage.svg|150]]
 
 Your body was augmented with processes and an appearance intended to blend in with humans more easily.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Elemental Familiar (Earth)
-![[systems-pf2e-icons-default-icons-action.svg|150]]
 
 Your familiar gains the earth elemental trait.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Poultice Preparation
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you create an herbal elixir, you can prepare it as a poultice instead. A poultice gains the oil trait (but remains alchemical, not magical) and loses the elixir and ingested traits. You can apply a poultice by [[Interact|Interacting]] with one hand.
 

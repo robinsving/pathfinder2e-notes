@@ -8,6 +8,5 @@ tags:
 ---
 
 # Trailblazing Stride
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are used to moving through the wilderness. While moving on land, you ignore the effects of non-magical difficult terrain.

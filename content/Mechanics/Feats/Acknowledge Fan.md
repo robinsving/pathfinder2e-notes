@@ -8,7 +8,6 @@ tags:
 ---
 
 # Acknowledge Fan
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your reputation as a Firebrand precedes you, and you need only make a simple gesture or give a look of recognition to amaze those around you. You're so famous and beloved that even your enemies are fans, and they're shocked to see you here. Choose one target creature who can see you to acknowledge. The target must attempt a DC resolve will save against your class DC or spell DC, whichever is higher.
 

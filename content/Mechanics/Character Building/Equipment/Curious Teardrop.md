@@ -8,7 +8,6 @@ tags:
 ---
 
 # Curious Teardrop
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 **Perception** +26; precise vision 60 feet, imprecise hearing 30 feet
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rhyton of the Radiant Ifrit
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This exquisite, shimmering rhyton is made from volcanic glass and encrusted with rubies, garnets, and other red gemstones, with a blown glass sculpture of a snakelike fire elemental at its base. It was sculpted as part of a 10-piece set of drinking horns, created to match a powerful ifrit shuyookh's entertaining dinnerware, but it became separated from the rest of the collection. Whether for good or ill, the beautiful glass rhyton still carries tidings from its previous shuyookh owner, and you become their esteemed guest from afar whenever you hold it.
 

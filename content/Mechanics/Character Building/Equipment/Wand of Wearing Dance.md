@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Wearing Dance
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This colorfully painted wand has a few jingling bells tied to the pommel.
 

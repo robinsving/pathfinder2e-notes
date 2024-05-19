@@ -8,6 +8,5 @@ tags:
 ---
 
 # Performance Weapon Expert
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your experience has made you better with a wide variety of weapons. Your proficiency ranks for simple weapons and martial weapons increase to expert, as does your proficiency rank for your chosen advanced weapon.

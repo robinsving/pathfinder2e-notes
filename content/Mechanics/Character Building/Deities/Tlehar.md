@@ -9,7 +9,6 @@ tags:
 ---
 
 # Tlehar
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 The old gods of the threefold sun were all but forgotten under the rule of Walkena, the child god. But Tlehar never despaired, for the dawn must forever represent hope to all good people who gaze upon it. She holds the Bright Lions of Mzali especially dear in her heart, since they were a ray of hope to her people even when she couldn't be. Thanks to them, citizens of Mzali and beyond have been reminded of her loving embrace, and once again awaken with resolve in their hearts.
 

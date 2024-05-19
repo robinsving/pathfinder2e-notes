@@ -8,7 +8,6 @@ tags:
 ---
 
 # Impossible Snares
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can create endless shorter-lived snares, protecting your lair or using them against foes.
 

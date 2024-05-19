@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wortwitch
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have a particular affinity for leafy plants.
 

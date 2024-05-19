@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hydraulic Maneuvers
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You batter your foes with a torrent of water siphoned from your surroundings.
 

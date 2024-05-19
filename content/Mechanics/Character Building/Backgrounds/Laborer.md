@@ -9,7 +9,6 @@ tags:
 ---
 
 # Laborer
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You've spent years performing arduous physical labor. It was a difficult life, but you somehow survived. You may have embraced adventuring as an easier method to make your way in the world, or you might adventure under someone else's command.
 

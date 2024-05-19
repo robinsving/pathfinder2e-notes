@@ -8,7 +8,6 @@ tags:
 ---
 
 # Web Weaver
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can produce a soft silk to weave into useful items. You gain the [[Specialty Crafting]] feat with a specialty in weaving.
 

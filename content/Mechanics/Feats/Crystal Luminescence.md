@@ -8,7 +8,6 @@ tags:
 ---
 
 # Crystal Luminescence
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your horn glows with bioluminescent color, casting bright light in a 20 foot emanation (and dim light for the next 20 feet). This light can be any color. The most common colors are blue and purple, except for trogloshi, who normally shed white light. The light shuts off when you take this action again or fall [[Unconscious]].
 

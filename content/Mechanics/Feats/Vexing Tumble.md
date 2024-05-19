@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vexing Tumble
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You tumble around your foes, expertly avoiding their reactions. Stride up to half your Speed and roll an Acrobatics check. Compare the result to the Reflex DC of each foe whose reach you began in or enter during the movement, in sequence.
 

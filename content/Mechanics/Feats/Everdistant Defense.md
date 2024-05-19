@@ -8,7 +8,6 @@ tags:
 ---
 
 # Everdistant Defense
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A creature within your aura is targeted by a ranged attack or a creature moves through your aura.
 

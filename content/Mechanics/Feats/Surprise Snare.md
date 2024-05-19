@@ -8,7 +8,6 @@ tags:
 ---
 
 # Surprise Snare
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You install one of your snares prepared for quick deployment in a space that's occupied by an opponent. It must be a snare that normally takes 1 minute or less to [[Craft]].
 

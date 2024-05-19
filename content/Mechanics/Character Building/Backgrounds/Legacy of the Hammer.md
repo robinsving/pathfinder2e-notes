@@ -9,7 +9,6 @@ tags:
 ---
 
 # Legacy of the Hammer
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Your introduction to the criminal life was spurred forward by a seemingly innocuous hammer that provided you with all kinds of innovative criminal ideas. It has since left your possession, but every now and then you hear a faint whisper urging you toward crime.
 

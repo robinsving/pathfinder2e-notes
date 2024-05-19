@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dual Onslaught
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you lash out with both weapons, you leave no room for the target to escape your attack.
 

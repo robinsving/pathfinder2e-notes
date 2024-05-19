@@ -8,6 +8,5 @@ tags:
 ---
 
 # Silver's Refrain
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You learn the _[[Silver's Refrain]]_ composition cantrip, which aids you when fighting devils.

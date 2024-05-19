@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vicious Critique
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You are about to attempt to [[Coerce]] a merchant or crafter.
 

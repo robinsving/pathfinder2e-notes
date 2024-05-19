@@ -9,7 +9,6 @@ tags:
 ---
 
 # Insurgent
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You were more than a rebel; you were a revolutionary, fighting for the promise of a new or better country. You may or may not still believe in the cause, or perhaps victory or exile has led you on this new journey to trumpet your glory... or to escape the consequences of your defeat.
 

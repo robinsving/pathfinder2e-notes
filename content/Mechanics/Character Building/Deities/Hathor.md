@@ -9,7 +9,6 @@ tags:
 ---
 
 # Hathor
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Hathor** is a member of the pantheon often worshiped in Ancient Osirion.
 

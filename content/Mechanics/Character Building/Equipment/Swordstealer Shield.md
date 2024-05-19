@@ -8,6 +8,5 @@ tags:
 ---
 
 # Swordstealer Shield
-![[systems-pf2e-icons-default-icons-armor.svg|150]]
 
 This specialized steel shield features several wide metal hooks along its surface. These hooks help catch swords and other blades, reducing the impact of their incoming attacks.

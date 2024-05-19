@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cel Rau
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are a cel rau, child of a strigoi, one of the first vampires to walk Golarion. Your heritage ties you to the Shadow Plane and grants you strange resilience to light and darkness alike.
 

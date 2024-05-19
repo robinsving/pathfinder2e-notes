@@ -9,7 +9,6 @@ tags:
 ---
 
 # Pathfinder Recruiter
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 The Pathfinder Society's always on the lookout for talent, but that talent rarely just stumbles into the Grand Lodge. Whether you're professionally trained to encourage new recruits or the Society's own scouts identified your potential and raised you from childhood, you're committed to expanding the Society's roster.
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Practiced Paddler
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You're skilled at navigating bogs and marshes, even for a paddler shoony. You gain a swim Speed of 15 feet.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Elemental Explosion
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You're raging, and you haven't used this ability since you last Raged.
 

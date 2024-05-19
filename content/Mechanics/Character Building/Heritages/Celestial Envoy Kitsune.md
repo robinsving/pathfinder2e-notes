@@ -9,6 +9,5 @@ draft: true
 ---
 
 # Celestial Envoy Kitsune
-![[systems-pf2e-icons-default-icons-heritage.svg|150]]
 
 Whether due to Daikitsu's grace or faithful forebears, you have a strong connection to the divine, affording you certain protections. You gain the [[Invoke Celestial Privilege]] reaction. Your alternate form is a common Medium humanoid ancestry prevalent where you grew up (typically human), called a tailless form.

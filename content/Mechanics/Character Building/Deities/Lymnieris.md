@@ -9,7 +9,6 @@ tags:
 ---
 
 # Lymnieris
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Edicts** Help others achieve their desires, aid and protect sex workers, help others through difficult transitions
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Outrider
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 In your youth, you galloped on horseback over vast prairies, serving as a vanguard for your settlement, an army, or another group. Seeing so many different lands built a thirst in you to adventure and explore the world instead of just racing past it.
 

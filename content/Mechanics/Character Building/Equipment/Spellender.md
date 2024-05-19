@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spellender
-![[systems-pf2e-icons-default-icons-weapon.svg|150]]
 
 This knife is a _+1 striking returning dagger_ with a wide blade and thick wooden handle. A prayer for protection from evil magic is carved into the handle in tiny script, running around the handle in a spiral. The grooves of the carved prayer provide a good grip on the knife and make it easy to catch when it returns to your hand.
 

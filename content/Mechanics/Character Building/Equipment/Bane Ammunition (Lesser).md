@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Bane Ammunition (Lesser)
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 **Ammunition** any
 

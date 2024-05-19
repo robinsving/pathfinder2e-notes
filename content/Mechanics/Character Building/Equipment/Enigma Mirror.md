@@ -8,7 +8,6 @@ tags:
 ---
 
 # Enigma Mirror
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Mist fills the glass of this small circular hand mirror, creating strange patterns in the shifting gray wisps. The back of the mirror bears a flowing script engraving in an unknown language. The spell DC of any spell cast by activating this item is 23.
 

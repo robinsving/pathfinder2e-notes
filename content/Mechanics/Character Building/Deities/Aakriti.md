@@ -9,7 +9,6 @@ tags:
 ---
 
 # Aakriti
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 No one knows where and when Aakriti came into existence. Some divine scholars surmise they've always been a part of the primordial soup of creation. The most popular theory, as reflected in various religious iconography, is that Aakriti is the pupae of a primordial deity that took damage in their chrysalis state and became unable to molt into their final form.
 

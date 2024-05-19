@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dandy Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are a consummate student of dignity, etiquette, and fashion.
 

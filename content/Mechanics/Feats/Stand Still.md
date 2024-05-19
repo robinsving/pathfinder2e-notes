@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stand Still
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A creature within your reach uses a move action or leaves a square during a move action it's using
 

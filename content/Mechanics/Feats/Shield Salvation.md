@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shield Salvation
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can save your shield from total destruction, even after a devastating attack. If a shield would be destroyed due to damage taken during your [[Shield Block]], the shield remains intact at 1 Hit Point instead.
 

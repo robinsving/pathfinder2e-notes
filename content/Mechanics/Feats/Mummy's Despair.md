@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mummy's Despair
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Frequency** once per hour
 

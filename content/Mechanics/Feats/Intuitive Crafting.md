@@ -8,7 +8,6 @@ tags:
 ---
 
 # Intuitive Crafting
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your affinity with process and order makes you a natural artisan. You gain the trained proficiency rank in Crafting (or another skill of your choice, if you're already trained in Crafting). You gain the [[Specialty Crafting]] skill feat in a specialty of your choice.
 

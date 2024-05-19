@@ -8,7 +8,6 @@ tags:
 ---
 
 # Imbue Mindlessness
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You grasp the mind of an undead creature and temporarily wipe it as empty as a zombie's brain. You can target any undead with your divine innate _[[Harm]]_ spell, not just mindless undead. When you target one non-mindless undead creature with this spell, you can transform its effects. Instead of harm's normal effects, the target must attempt a Will save.
 

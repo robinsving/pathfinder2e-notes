@@ -8,7 +8,6 @@ tags:
 ---
 
 # Strategic Assessment
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You learn your foes' strengths and weaknesses by watching them move. When you critically hit a creature with a Strike on which you substituted your attack roll due to [[Devise a Stratagem|Devising a Strategem]], the GM chooses one of the following pieces of information about the enemy to tell you.
 

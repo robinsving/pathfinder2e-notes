@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shooting Stars Stance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You enter a stance that lets you throw shuriken with lightning speed.
 

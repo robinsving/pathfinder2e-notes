@@ -8,7 +8,6 @@ tags:
 ---
 
 # Group Aid
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your upbringing emphasized teamwork, and helping your allies comes naturally to you. After you [[Aid]] an ally at a skill check that doesn't have the attack trait, you can also Aid any other ally who attempts the same skill check for the same purpose that round. You do so as a free action rather than a reaction.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Clown
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Although you've spent time in greasepaint and colorful clothing to amuse crowds, your skills with buffoonery and physical comedy are exceptional whether or not you're in costume. In the employ of Mistress Dusklight's Celestial Menagerie, you spent too many routines distracting an audience from an ill-timed accident or evidence of abused animals or performers. You've had enough of that, and the Celestial Menagerie isn't your home any longer.
 

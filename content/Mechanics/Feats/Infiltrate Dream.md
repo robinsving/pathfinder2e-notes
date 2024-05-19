@@ -8,7 +8,6 @@ tags:
 ---
 
 # Infiltrate Dream
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Entering a dream is as natural to you as stepping through a doorway. If you're adjacent to a sleeping creature, you can enter a lucid dreamlike state, a process taking 10 minutes, to mentally walk into their dreamscape. While in the target's dream, you witness its contents, plots, and emotional experiences as an observer, though nothing within the dream can perceive or interact with you. Your target becomes temporarily immune to Infiltrate Dream for 1 week. You can't enter the dreams of a creature that doesn't have a conscious mind or doesn't dream.
 

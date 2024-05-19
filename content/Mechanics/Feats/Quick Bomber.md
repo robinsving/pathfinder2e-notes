@@ -8,6 +8,5 @@ tags:
 ---
 
 # Quick Bomber
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You keep your bombs in easy-to-reach pouches from which you draw without thinking. You [[Interact]] to draw a bomb, then Strike with it.

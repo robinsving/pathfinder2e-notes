@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wolf Stance
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are unarmored
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Librarian's Baton
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 A crystal pendulum hangs loosely from a delicate cord connecting the tips of this Y-shaped wooden baton. Such batons are often used by librarians who have problems with customers (or thieves) who can't be trusted to return the books they burrow, but they're equally valuable to wizards who are particularly worried about having their spell books stolen.
 

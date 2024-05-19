@@ -9,7 +9,6 @@ tags:
 ---
 
 # Alglenweis
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Alglenweis** is the daughter of Kostchtchie and one of the major deities formerly worshipped in Sarkoris. She teaches her followers to perfect their craft and protect works of art, and be ready to act if necessary.
 

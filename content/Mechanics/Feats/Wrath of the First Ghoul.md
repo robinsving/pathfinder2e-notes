@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wrath of the First Ghoul
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Frequency** Once per day
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lambent Perfume
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This ceramic incense burner is shaped like a three-headed ibis in the form of Atreia, spreading his wings and preparing to take flight; it hangs on a thin, golden chain.
 

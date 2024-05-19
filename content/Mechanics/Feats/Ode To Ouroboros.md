@@ -8,6 +8,5 @@ tags:
 ---
 
 # Ode To Ouroboros
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You learn the _[[Ode to Ouroboros]]_ composition spell, which enables you to temporarily spare your allies from death.

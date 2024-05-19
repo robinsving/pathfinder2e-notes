@@ -8,7 +8,6 @@ tags:
 ---
 
 # Reflexive Shield
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can use your shield to fend off explosions and the like. When you [[Raise a Shield|Raise your Shield]], you gain your shield's circumstance bonus to Reflex saves.
 

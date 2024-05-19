@@ -8,7 +8,6 @@ tags:
 ---
 
 # Heal Mount
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your devotion to your mount manifests as a surge of vitality energy.
 

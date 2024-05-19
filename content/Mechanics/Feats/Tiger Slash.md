@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tiger Slash
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are in [[Tiger Stance]]
 

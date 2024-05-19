@@ -8,6 +8,5 @@ tags:
 ---
 
 # Fancy Moves
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You show off your fighting style to discourage your foes. You can use Performance to [[Demoralize]].

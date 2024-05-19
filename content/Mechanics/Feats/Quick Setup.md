@@ -8,7 +8,6 @@ tags:
 ---
 
 # Quick Setup
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have learned to setup simple crafting jobs with ease. Your setup time for consumables that are at least 6 levels lower than you is 1 day, and your setup time for permanent items 6 levels lower than you is 3 days.
 

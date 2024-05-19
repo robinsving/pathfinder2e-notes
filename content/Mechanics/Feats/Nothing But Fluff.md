@@ -8,6 +8,5 @@ tags:
 ---
 
 # Nothing But Fluff
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your fluffy interior lacks specific organs and struts, with few weak spots to injure. You gain resistance to precision damage equal to half your level.

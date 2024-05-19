@@ -8,6 +8,5 @@ tags:
 ---
 
 # Pin to the Spot
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You Strike a target within reach. If you hit and deal damage, the target is also [[Restrained]] as if you had critically succeeded at an Athletics check to [[Grapple]].

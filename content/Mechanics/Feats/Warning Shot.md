@@ -8,7 +8,6 @@ tags:
 ---
 
 # Warning Shot
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You're wielding a loaded firearm.
 

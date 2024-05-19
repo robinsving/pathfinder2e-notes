@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bloody Debilitation
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your attacks slice arteries and veins. Add the following debilitation to the list you can choose from when you use Debilitating Strike.
 

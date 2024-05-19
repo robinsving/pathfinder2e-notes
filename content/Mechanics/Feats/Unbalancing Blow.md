@@ -8,6 +8,5 @@ tags:
 ---
 
 # Unbalancing Blow
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Interweaving attacks, you unbalance your foes. Whenever your Strike is a critical hit and deals damage, the target is [[Off-Guard]] against your attacks until the end of your next turn.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fabricated Connections
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can [[Lie]] about having taken an action so convincingly that you acquire all the tangible benefits of having successfully completed it.
 

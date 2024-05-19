@@ -8,7 +8,6 @@ tags:
 ---
 
 # Disarming Flair
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 It's harder for your foes to regain their grip when you knock their weapon partially out of their hands.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # I Meant to do That
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Frequency** once per hour
 

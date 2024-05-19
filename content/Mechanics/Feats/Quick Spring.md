@@ -8,6 +8,5 @@ tags:
 ---
 
 # Quick Spring
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Ishii Bunji is a skilled tumbler, and learning his technique allows you to propel yourself across the battlefield faster than your enemies can react. When you [[Tumble Through]], you Stride up to twice your Speed.

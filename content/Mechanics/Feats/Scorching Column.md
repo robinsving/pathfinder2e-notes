@@ -8,7 +8,6 @@ tags:
 ---
 
 # Scorching Column
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 With an upward gesture, you shape a vertical column of extreme heat. The cylinder is 10 feet in diameter and 30 feet high, and the bottom must be within 60 feet of you. Each creature in the area takes 1d6 fire damage with a DC 0 Basic Reflex save against your class DC.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Solar Detonation
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Blinding flames explode in a swirling sphere! The detonation fills a 20-Foot Burst within 60 feet of you. Each creature in the area takes 6d6 fire + 2d6 vitality damage, and can become Dazzled or Blinded depending on the result of its DC 0 Reflex save. The light from Solar Detonation is sunlight for creatures with a particular vulnerability to sunlight. Each creature that attempts a save becomes temporarily immune to being dazzled or blinded by Solar Detonation for 10 minutes, but not the impulse's other effects.
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Combat Climber
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your techniques allow you to fight as you climb. You're not [[Off-Guard]] while Climbing and can Climb with a hand occupied. You must still use another hand and both legs to Climb.

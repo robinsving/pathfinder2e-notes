@@ -8,7 +8,6 @@ tags:
 ---
 
 # Beasts of Slumbering Steel
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You conjure metal elemental mounts made of interlocking metal pieces. Target up to 5 Medium or smaller willing creatures within 30 feet. Large mounts appear underneath them, and the targets can immediately [[Mount]] the creatures. Each mount can take four different forms. One form has only a land Speed of 80 feet, and the other forms each have a land Speed of 30 feet with a climb, fly, or swim Speed of 60 feet. Each rider chooses the initial form and can change the form as a single action, which has the concentration trait.
 

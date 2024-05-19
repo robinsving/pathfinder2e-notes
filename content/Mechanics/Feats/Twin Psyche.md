@@ -8,6 +8,5 @@ tags:
 ---
 
 # Twin Psyche
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've segmented your psyche so it can operate in tandem. When you Unleash your Psyche, you can double its duration.

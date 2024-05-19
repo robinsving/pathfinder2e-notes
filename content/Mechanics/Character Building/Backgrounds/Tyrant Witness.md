@@ -9,7 +9,6 @@ tags:
 ---
 
 # Tyrant Witness
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 When Tar-Baphon broke free of Gallowspire, you saw him emerge. When the god-slaying lich obliterated Vigil and Roslar's Coffer, you scrambled to safety. And when necrotic rainfall swept through the lands and the Gallowgarden grew, you weathered the storms. Others talk of what the Whispering Tyrant's return did to Lastwall, but you were there. And it changed you.
 

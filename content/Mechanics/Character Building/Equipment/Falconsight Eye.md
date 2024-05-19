@@ -8,7 +8,6 @@ tags:
 ---
 
 # Falconsight Eye
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This prosthetic eye resembles that of a bird of prey. Along with the abilities of the _magical prosthetic eye_, it allows you to strike foes at greater range and with impressive accuracy.
 

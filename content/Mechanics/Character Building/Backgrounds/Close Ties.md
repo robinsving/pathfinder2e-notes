@@ -9,7 +9,6 @@ tags:
 ---
 
 # Close Ties
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You've forged a close friendship with one of Willowshore's notable citizens, and you have a long tradition of sharing tea with each other while chatting about shared interests, plans for the future, town gossip, or other matters of note.
 

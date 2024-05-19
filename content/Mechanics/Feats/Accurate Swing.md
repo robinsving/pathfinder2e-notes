@@ -8,6 +8,5 @@ tags:
 ---
 
 # Accurate Swing
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You strike cleanly with wide, sweeping attacks to inflict maximum damage, taking advantage of your judged foe's fear to land a felling blow. If you Strike a creature you condemned with Harsh Judgment that has the frightened condition with a sweep melee weapon or a sweep unarmed attack, you gain a circumstance bonus to the Strike's damage equal to the number of weapon damage dice your weapon deals.

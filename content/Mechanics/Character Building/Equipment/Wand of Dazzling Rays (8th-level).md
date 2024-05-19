@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Dazzling Rays (8th-level)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Solidified radiance comprises this slender, featureless wand. It sheds bright light in a 20-foot radius and dim light for the next 20 feet. After you Activate the wand, the light fades, so it only sheds dim light in a 20-foot radius. The wand returns to its original brightness each dawn.
 

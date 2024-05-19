@@ -8,7 +8,6 @@ tags:
 ---
 
 # Overcrowd
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your physiology is slight, and you can pack into small spaces with others of similar stature.
 

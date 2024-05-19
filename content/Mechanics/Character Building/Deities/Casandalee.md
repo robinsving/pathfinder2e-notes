@@ -9,7 +9,6 @@ tags:
 ---
 
 # Casandalee
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Casandalee is an unusual god, one who achieved divinity through a merging of advanced science and faith. Formerly an artificial intelligence cloned from the mind of an android from outer space, Casandalee gained her godhood in the heart of Numeria within the computer core of a crashed spaceship, becoming the patron of artificial life, free thinking, and intellectual apotheosis.
 

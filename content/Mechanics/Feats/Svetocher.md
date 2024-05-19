@@ -8,7 +8,6 @@ tags:
 ---
 
 # Svetocher
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You were born to one of the moroi, the most common vampires, and you share their supernatural fortitude and power of persuasion.
 

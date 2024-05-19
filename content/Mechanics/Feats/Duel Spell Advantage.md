@@ -8,7 +8,6 @@ tags:
 ---
 
 # Duel Spell Advantage
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you start a psychic duel, you gain a third natural psychic spell. You can't choose the same spell twice.
 

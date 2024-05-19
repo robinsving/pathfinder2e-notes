@@ -8,7 +8,6 @@ tags:
 ---
 
 # Targeting Finisher
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your attack harms and hinders your foe. Choose a particular part of your foe from the list below and Strike.
 

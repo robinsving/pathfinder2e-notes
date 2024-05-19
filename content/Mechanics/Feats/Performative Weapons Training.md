@@ -8,7 +8,6 @@ tags:
 ---
 
 # Performative Weapons Training
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You're skilled with flashy weapons. You are trained with the [[Bo Staff]], [[Dueling Cape]], [[Spiked Chain]], [[Sword Cane]], and [[Whip]].
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Palanquin of Night
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This small square of dark blue fabric appears to be painted with a depiction of the night sky, shifting each day to match the sky above Geb the previous night.
 

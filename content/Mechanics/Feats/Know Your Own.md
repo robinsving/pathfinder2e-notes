@@ -8,7 +8,6 @@ tags:
 ---
 
 # Know Your Own
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've spent countless hours studying the history of elves on your world and beyond and are a studied expert in your people's ways.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Grimoire of Unknown Necessities
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 The cover of this grimoire is bound in a strange crimson, pebbly leather that a DC 40 occultism check to Recall Knowledge identifies as the hide of a rare monster from the distant plane of Leng. The grimoire's spine is bound in copper and a spiral of shifting runes slowly swirls across its surface.
 

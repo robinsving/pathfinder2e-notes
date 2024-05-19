@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tales in Timber (Major)
-![[systems-pf2e-icons-default-icons-armor.svg|150]]
 
 Dozens of pictorial stories—told in wood carvings, painting, or pyrography—adorn every outer surface of this _+2 greater resilient wooden breastplate_. All are old, and many truly ancient, depicting tales set eons ago on the Plane of Wood. You gain a +3 item bonus to Nature checks to Recall Knowledge. If you know the _[[Collective Memories]]_ ritual, you can use Nature instead of Occultism if you're the primary caster.
 

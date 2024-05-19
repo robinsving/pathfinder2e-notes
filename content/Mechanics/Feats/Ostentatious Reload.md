@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ostentatious Reload
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You're wielding two one-handed firearms.
 

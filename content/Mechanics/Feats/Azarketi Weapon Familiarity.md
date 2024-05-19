@@ -8,7 +8,6 @@ tags:
 ---
 
 # Azarketi Weapon Familiarity
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are familiar with weapons that excel underwater. You are trained with [[Crossbow|Crossbows]], [[Hand Crossbow|Hand Crossbows]], [[Longspear|Longspears]], [[Spear|Spears]], and [[Trident|Tridents]].
 

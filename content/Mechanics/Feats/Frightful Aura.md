@@ -8,7 +8,6 @@ tags:
 ---
 
 # Frightful Aura
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You're surrounded by a palpable sense of menace and power that's terrifying to behold. The aura is a 15 foot emanation. An enemy that enters or ends its turn in the aura must attempt a DC resolve will save against the higher of your spell DC or class DC.
 

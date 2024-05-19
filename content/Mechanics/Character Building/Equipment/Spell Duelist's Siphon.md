@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spell Duelist's Siphon
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Metal clasps line the spine of this book, and diagrams displaying proper somatic casting forms are etched into its cover.
 

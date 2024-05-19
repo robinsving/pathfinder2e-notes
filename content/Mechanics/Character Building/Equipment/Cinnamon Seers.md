@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cinnamon Seers
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 Zippy, alchemically treated cinnamon suffuses cinnamon seers, a rock candy with a lively taste that provides a mental boost. A cinnamon seer remains in your mouth for 1 hour, its stimulating flavor granting you a +1 item bonus to checks to Recall Knowledge.
 

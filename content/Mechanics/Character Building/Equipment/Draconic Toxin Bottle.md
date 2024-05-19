@@ -8,7 +8,6 @@ tags:
 ---
 
 # Draconic Toxin Bottle
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 This glass bottle appears to be a dragon's breath potion of a specific dragon type (usually red) but has been polluted, making it toxic to use.
 

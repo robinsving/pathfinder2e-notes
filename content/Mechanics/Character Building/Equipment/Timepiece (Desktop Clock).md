@@ -8,7 +8,6 @@ tags:
 ---
 
 # Timepiece (Desktop Clock)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Clockwork timepieces come in a variety of sizes and aesthetic styles, but they're all designed to display the accurate time of day down to the second.
 

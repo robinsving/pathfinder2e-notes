@@ -8,6 +8,5 @@ tags:
 ---
 
 # Intimidating Strike
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your blow not only wounds creatures but also shatters their confidence. Make a melee Strike. If you hit and deal damage, the target is [[Frightened|Frightened 1]], or [[Frightened|Frightened 2]] on a critical hit.

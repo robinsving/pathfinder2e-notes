@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Hawthorn (8th-level)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Carved from a hawthorn branch, this wand has a smooth handle, but the shaft remains covered in bark and long thorns. Polished red stones, arranged like a cluster of berries, decorate the pommel.
 

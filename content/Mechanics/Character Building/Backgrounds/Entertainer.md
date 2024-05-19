@@ -9,7 +9,6 @@ tags:
 ---
 
 # Entertainer
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Through an education in the arts or sheer dogged practice, you learned to entertain crowds. You might have been an actor, a dancer, a musician, a street magician, or any other sort of performer.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Trampling Charge
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are riding a mount that has a melee Strike using its legs (claw, talons, hoof, etc.).
 

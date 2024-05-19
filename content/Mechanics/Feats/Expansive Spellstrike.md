@@ -8,7 +8,6 @@ tags:
 ---
 
 # Expansive Spellstrike
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've adapted a wider array of spells to work with your attacks. Rather than needing to use a spell that has a spell attack roll for a Spellstrike, you can use a harmful spell that can target a creature or that has an area of a burst, cone, or line (abiding by any other restrictions of Spellstrike). When you Cast a Spell that doesn't have a spell attack roll as part of a Spellstrike, it works in the following ways.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Osprey Fisher
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Fishing is Osprey Cove's number one profession, and you've apprenticed under the best of them: Elder Anlorgog. You're also a keen study of boats and ships, so Elder Ordwi wants you along on her trip to Iron Harbor to help her evaluate the strength and purpose of the village's fleet—particularly if they're building ships meant for war.
 

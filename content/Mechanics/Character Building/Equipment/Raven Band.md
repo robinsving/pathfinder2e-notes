@@ -8,7 +8,6 @@ tags:
 ---
 
 # Raven Band
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This armband is woven from overlapping raven feathers, including one large feather from a kadlaka. As long as you wear it, you understand what ravens are saying, but you can't speak to ravens unless you activate the _raven band_.
 

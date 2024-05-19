@@ -8,7 +8,6 @@ tags:
 ---
 
 # Oracle Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Choose a [[Mystery]]. You become trained in Religion and the mystery's skill; if you were already trained, you become trained in a skill of your choice.
 

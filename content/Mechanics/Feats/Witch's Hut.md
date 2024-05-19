@@ -8,7 +8,6 @@ tags:
 ---
 
 # Witch's Hut
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your home is an animated structure that obeys your commands. By performing a rite that takes 1 day, you create an animated object from a hut, small house, covered wagon, tent, or similar construction of up to Huge size.
 

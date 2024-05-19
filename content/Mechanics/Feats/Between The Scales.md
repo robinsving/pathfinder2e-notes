@@ -8,7 +8,6 @@ tags:
 ---
 
 # Between The Scales
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Underestimating you is a grave mistake, but it's one others keep making. You've learned to take advantage of slips in your foes' defenses.
 

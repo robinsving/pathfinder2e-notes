@@ -8,7 +8,6 @@ tags:
 ---
 
 # Moderate Enhance Venom
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You upgrade the vishkanyan venom you can apply with [[Envenom]] to moderate vishkanyan venom. Envenom's frequency becomes once per 10 minutes.
 

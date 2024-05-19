@@ -8,7 +8,6 @@ tags:
 ---
 
 # Flinging Blow
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You take a moment to center yourself, then unleash a powerful blow that sends your target tumbling away.
 

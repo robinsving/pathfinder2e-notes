@@ -8,6 +8,5 @@ tags:
 ---
 
 # Healing Hands
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your vitality is even more vibrant and restorative. When you cast [[Heal]], you roll d10s instead of d8s.

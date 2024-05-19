@@ -9,7 +9,6 @@ tags:
 ---
 
 # Thassilonian Delver
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 As archaeologists uncovered and explored ever-larger numbers of Thassilonian ruins, you were among the eager explorers who sought out the Runelords' ancient secrets. You may have been the apprentice to another Pathfinder who perished on an expedition, leaving you their discoveries and notes. Or perhaps you explored several of these sites yourself, quickly learning to parse the arcane secrets before lest the eldritch magic extinguish your life.
 

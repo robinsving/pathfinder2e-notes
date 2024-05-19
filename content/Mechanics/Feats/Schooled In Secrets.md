@@ -8,7 +8,6 @@ tags:
 ---
 
 # Schooled In Secrets
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You notice the signs and symbols that members of mystery cults and other secret societies use to declare their affiliation to fellow members. You can use Occultism in place of Diplomacy to [[Gather Information]] about such groups and in place of Deception to Impersonate a member of these groups.
 

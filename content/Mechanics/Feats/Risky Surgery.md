@@ -8,7 +8,6 @@ tags:
 ---
 
 # Risky Surgery
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your surgery can bring a patient back from the brink of death, but might push them over the edge. When you [[Treat Wounds]], you can deal 1d8 slashing damage to your patient just before applying the effects of Treat Wounds.
 

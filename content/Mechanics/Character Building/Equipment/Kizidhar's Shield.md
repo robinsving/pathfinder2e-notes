@@ -8,7 +8,6 @@ tags:
 ---
 
 # Kizidhar's Shield
-![[systems-pf2e-icons-default-icons-armor.svg|150]]
 
 This _standard-grade duskwood shield_ is perfectly symmetrical and incredibly sturdy despite its elaborate construction. These shields are typically given to the chosen emissaries of a kizidhar shuyookh, and the shuyookh's name and title are engraved in Muan behind the shield's handle.
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Titan Wrestler
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can attempt to [[Disarm]], [[Grapple]], [[Reposition]], [[Shove]], or [[Trip]] creatures up to two sizes larger than you, or up to three sizes larger than you if you're legendary in Athletics.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pact of Eldritch Eyes
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've sworn a pact with an entity beyond mortal comprehension, granting you distant visions and insights. You can cast _[[Scouting Eye]]_ as an occult innate spell once per hour, using the higher of your class DC and your spell DC to determine the DC.
 

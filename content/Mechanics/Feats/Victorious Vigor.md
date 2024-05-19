@@ -8,7 +8,6 @@ tags:
 ---
 
 # Victorious Vigor
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You bring a foe to 0 Hit Points
 

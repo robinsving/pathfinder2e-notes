@@ -8,7 +8,6 @@ tags:
 ---
 
 # Turnabout Shield
-![[systems-pf2e-icons-default-icons-armor.svg|150]]
 
 The face of this standard-grade silver salvo shield (Hardness 7, HP 28, BT 14) is polished to a mirror finish.
 

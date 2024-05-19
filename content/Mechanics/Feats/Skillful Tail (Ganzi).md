@@ -8,7 +8,6 @@ tags:
 ---
 
 # Skillful Tail (Ganzi)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have a tail or similar body part that is always willing to lend a hand (so to speak).
 

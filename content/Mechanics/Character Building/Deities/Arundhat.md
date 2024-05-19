@@ -9,7 +9,6 @@ tags:
 ---
 
 # Arundhat
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Arundhat** is a goddess of the Vudran pantheon known as the bringer of blossoms and scent.
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Tree Climber (Elf)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've spent much of your life among the treetops and have become an expert at quickly and safely climbing them. You gain a [[Climb]] Speed of 10 feet.

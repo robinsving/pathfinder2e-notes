@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ritualist Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have begun to master the difficult art of casting rituals. You gain a +2 circumstance bonus to all primary checks to perform a ritual.
 

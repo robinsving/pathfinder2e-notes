@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ghost Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have risen as a shell of your former self, a spirit of mist and anguish. You gain the ghost, spirit, and undead traits, and the [[Basic Undead Benefits]]. Your undead craving is to settle your unfinished business. You also gain the incorporeal trait, except you can't pass through solid objects unless you select the Pass Through feat. Being a ghost has the following major effects.
 

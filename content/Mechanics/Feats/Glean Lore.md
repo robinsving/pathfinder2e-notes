@@ -8,7 +8,6 @@ tags:
 ---
 
 # Glean Lore
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You tap into the collected lore of the divine, accessing a variety of potentially useful information.
 

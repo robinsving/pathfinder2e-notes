@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rampaging Form
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Once per day, when you Change Shape into a fox, you can instead gain the effects of both the canine form of 5th-level _[[Animal Form]]_ and 7th-level _[[Fiery Body]]_ for 1 minute or until you shift back, whichever comes first. You can cast _[[Produce Flame]]_ from the _fiery body_ effect even though you're in a battle form.
 

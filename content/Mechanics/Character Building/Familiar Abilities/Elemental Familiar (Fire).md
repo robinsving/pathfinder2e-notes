@@ -9,7 +9,6 @@ tags:
 ---
 
 # Elemental Familiar (Fire)
-![[systems-pf2e-icons-default-icons-action.svg|150]]
 
 Your familiar gains the fire elemental trait.
 

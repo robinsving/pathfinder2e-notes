@@ -8,6 +8,5 @@ tags:
 ---
 
 # Spare Wax Cylinder
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 A spare recording cylinder for the [[Clockwork Recorder]].

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Envenom Fangs
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Frequency** a number of times per day equal to your level
 

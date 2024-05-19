@@ -8,7 +8,6 @@ tags:
 ---
 
 # Emotional Push
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An enemy you're aware of fails its save against an emotion spell.
 

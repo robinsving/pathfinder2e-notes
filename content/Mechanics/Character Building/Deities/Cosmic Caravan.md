@@ -9,7 +9,6 @@ tags:
 ---
 
 # Cosmic Caravan
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 The Cosmic Caravan is known to astronomers and astrologers alike as a collection of constellations in the sky, said to travel forever in a circle around the star Cynosure. The association of a diverse array of gods and demigods thematically linked with the stars and the spaces between is a relatively new faith that first rose to prominence in western Avistan, particularly in Varisia, Nidal, and Ravounel. The deities worshiped by the faithful of the Cosmic Caravan include: Desna, Groetus, and Sarenrae; the empyreal lords Ashava, Black Butterfly, and Pulura; the elven god Ketephys; and the outer god Yog-Sothoth. This faith has been gaining ground particularly in Nidal, where the worship of the night is overwhelmingly associated with Zon-Kuthon, and a rising number of Cosmic Caravan worshipers seek to oppose or, one day, even overthrow the Midnight Lord's theocracy to reclaim the night from the implications that all who dwell in the dark are evil.
 

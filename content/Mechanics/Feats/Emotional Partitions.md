@@ -8,6 +8,5 @@ tags:
 ---
 
 # Emotional Partitions
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have created strong mental partitions in your mind to filter out negative emotional influences. You gain a +1 circumstance bonus on saving throws against emotion effects. If you roll a success on a saving throw against an emotion effect, you get a critical success instead.

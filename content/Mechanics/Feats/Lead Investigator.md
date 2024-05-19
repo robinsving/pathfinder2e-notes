@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lead Investigator
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You spend 1 minute briefing up to four allies about one lead you're pursuing.
 

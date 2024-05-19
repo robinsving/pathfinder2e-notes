@@ -8,7 +8,6 @@ tags:
 ---
 
 # Become Thought
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You shed some of your material form, becoming a being of pure thought. This has the following effects.
 

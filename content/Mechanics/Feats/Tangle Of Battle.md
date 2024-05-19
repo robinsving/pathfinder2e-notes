@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tangle Of Battle
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You critically hit an adjacent enemy.
 

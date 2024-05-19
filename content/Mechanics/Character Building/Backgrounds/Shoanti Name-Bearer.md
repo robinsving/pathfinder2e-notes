@@ -9,7 +9,6 @@ tags:
 ---
 
 # Shoanti Name-Bearer
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 **Prerequisite** Region - Saga Lands
 

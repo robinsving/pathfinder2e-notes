@@ -8,7 +8,6 @@ tags:
 ---
 
 # Train Animal
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You spend time teaching an animal to do a certain action. You can either select a basic action the animal already knows how to do (typically those listed in the [[Command an Animal]] action) or attempt to teach the animal a new basic action. The GM determines the DC of any check required and the amount of time the training takes (usually at least a week). It's usually impossible to teach an animal a trick that uses critical thinking. If you're expert, master, or legendary in Nature, you might be able to train more unusual creatures, at the GM's discretion.
 

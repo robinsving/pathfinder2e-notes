@@ -8,7 +8,6 @@ tags:
 ---
 
 # Log Roll
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You and an adjacent creature are both on a narrow surface or uneven ground and the other creature is off-guard.
 

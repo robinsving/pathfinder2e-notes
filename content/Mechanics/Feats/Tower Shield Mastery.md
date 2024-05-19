@@ -8,6 +8,5 @@ tags:
 ---
 
 # Tower Shield Mastery
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've learned how to maximize the defensive abilities of your tower shield. You are constantly [[Quickened]] and can use the additional action only to [[Take Cover]] behind your tower shield after you have Raised it.

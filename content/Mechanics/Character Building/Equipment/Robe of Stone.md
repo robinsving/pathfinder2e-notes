@@ -8,7 +8,6 @@ tags:
 ---
 
 # Robe of Stone
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 A _robe of stone_, decorated with patterns reminiscent of gems and geodes, constantly sheds tiny amounts of dust. While wearing it, you gain imprecise tremorsense in a radius of 10 feet, and you can speak and read Petran. Also, you can eat earth (soil, sand), gems (crystals, glass), and metal instead of food to meet your daily nutrition requirements. You find eating these materials as pleasant as food—the more valuable, the more delicious.
 

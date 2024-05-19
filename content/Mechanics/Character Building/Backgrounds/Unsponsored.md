@@ -9,7 +9,6 @@ tags:
 ---
 
 # Unsponsored
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You have aspirations of attending the Magaambya academy of magic, but fate seemed to thwart you at every turn. You were unable to obtain a sponsorship and lost a collection of helpful textbooks to unexpected insect damage. You nevertheless made the long trip to Nantambu through terrible weather, uncharacteristically bad roads, and indifferent fellow travelers. Yet you have persevered. Now that you are here, alone but determined, you won't let anything stand in your way.
 

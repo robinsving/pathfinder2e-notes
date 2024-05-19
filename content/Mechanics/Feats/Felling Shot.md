@@ -8,7 +8,6 @@ tags:
 ---
 
 # Felling Shot
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your ranged attacks can shoot an unprepared foe right out of the air. Make a ranged Strike against an [[Off-Guard]] creature. If the Strike is a success and deals damage, the target must attempt a DC resolve reflex save against your class DC.
 

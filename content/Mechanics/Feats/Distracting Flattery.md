@@ -8,7 +8,6 @@ tags:
 ---
 
 # Distracting Flattery
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You observe a target's attitude toward yourself or your allies decrease as a result of an ally's behavior.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Deadly Grace
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your graceful attacks are especially powerful.
 

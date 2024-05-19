@@ -9,7 +9,6 @@ tags:
 ---
 
 # Ymeri
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 The elemental lord of fire is Ymeri, Queen of the Inferno, lord of fire, heat, and smoke. The sole ruler of the Plane of Fire, Ymeri governs from her Auroric Palace, taking the form of a six-armed reptilian centaur with burning wings. She has systematically destroyed all record of her birth and true origins, claiming to have always existed, and she wages a never-ending war against the other denizens of the Plane of Fire and against the shaitans of the Plane of Earth.
 

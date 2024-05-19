@@ -9,7 +9,6 @@ tags:
 ---
 
 # Blessed
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You have been blessed by a divinity. For an unknown reason, and irrespective of your actual beliefs, a deity has granted you a boon to use for good or ill. Your blessing grants wisdom and insight to aid you in your struggles. You may or may not even know the identity of the being who blessed you, and the blessing might come with a cost you discover later on.
 

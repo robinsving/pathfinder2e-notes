@@ -9,7 +9,6 @@ tags:
 ---
 
 # Academy Dropout
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You were enrolled at a prestigious magical academy, but you've since dropped out. Maybe there was a momentous incident, maybe you had to return to other responsibilities, or perhaps it was just too much for you. Whatever the case, your exit from the academy has shaped your life as much as your entrance and led you to a life of adventure.
 

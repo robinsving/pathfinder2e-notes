@@ -8,7 +8,6 @@ tags:
 ---
 
 # Parry And Riposte
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your parries and finishers allow you to riposte with the slightest provocation.
 

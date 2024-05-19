@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fiendish Mount
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your steed ally manifests a suite of powerful and sinister gifts granted to it by your deity.
 

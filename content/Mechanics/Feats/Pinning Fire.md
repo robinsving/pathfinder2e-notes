@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pinning Fire
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You use [[Flurry of Blows]] to make two ranged piercing weapon Strikes against the same target.
 

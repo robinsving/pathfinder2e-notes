@@ -8,7 +8,6 @@ tags:
 ---
 
 # Redirect Elements
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** The spell attack roll for a foe's spell with an elemental trait targeting you fails or critically fails, and the elemental trait is in your elemental philosophy.
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Cremate Undead
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your overwhelming vitality sets undead alight. When you use a [[Heal]] spell to damage undead, each undead that takes damage also takes persistent fire damage equal to the spell's rank.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ceremony of Protection
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You manipulate your exoskeleton to overlap itself. You gain a +1 circumstance bonus to AC until the start of your next turn.
 

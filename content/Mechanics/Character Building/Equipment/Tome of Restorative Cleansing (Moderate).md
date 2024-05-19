@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tome of Restorative Cleansing (Moderate)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This book is dark blue on the night of the new moon, gradually shifting to bright red as the moon waxes.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Child of the Twin Village
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You were born in a village where everyone has a twin with a special link. You have moved to the wider world for reasons of your own, but you still have an unbreakable connection to your twin through your dreams.
 

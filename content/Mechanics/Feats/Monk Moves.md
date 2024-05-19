@@ -8,6 +8,5 @@ tags:
 ---
 
 # Monk Moves
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain a +10-foot status bonus to your Speed when you're not wearing armor.

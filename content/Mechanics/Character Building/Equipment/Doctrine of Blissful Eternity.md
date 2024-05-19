@@ -8,7 +8,6 @@ tags:
 ---
 
 # Doctrine of Blissful Eternity
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 The bones of small animals decorate the cover of this tome, creating a pattern that resembles a gross perversion of Pharasma's holy symbol.
 

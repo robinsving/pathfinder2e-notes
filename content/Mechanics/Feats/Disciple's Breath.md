@@ -8,6 +8,5 @@ tags:
 ---
 
 # Disciple's Breath
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You unleash your breath weapon without spending focus. This has the effects of your Dragon Breath sorcerer bloodline spell, though it deals 1d4 rounds.

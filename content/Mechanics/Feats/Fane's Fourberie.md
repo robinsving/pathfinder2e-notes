@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fane's Fourberie
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Stella Fane has perfected a technique for using playing cards as weapons that's one part sleight of hand and one part magic.
 

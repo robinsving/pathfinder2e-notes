@@ -8,7 +8,6 @@ tags:
 ---
 
 # Distant Wandering
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your body falls [[Unconscious]] and your spirit projects out of it. While in spirit form, you can't consciously move your body, and you are [[Invisible]] and inaudible, though a creature still might notice the signs of your presence and passing, just like for an invisible creature affected by _[[Silence]]_, or a _[[Scouting Eye]]_. You can freely move about, though you can't touch or move anything, cast spells, attack, or otherwise affect anything around you. Despite your ghostly form, you are not incorporeal and can't pass through barriers you couldn't in your body. Most effects can't harm your spirit form, though some spells, like _[[Spirit Blast]]_ and _[[Spirit Song]]_, explicitly damage a creature's spirit. You can return to your body as a free action. If you are in spirit form at the beginning of your turn, you must attempt another backlash check for your deviation, returning to your body if you fail.
 

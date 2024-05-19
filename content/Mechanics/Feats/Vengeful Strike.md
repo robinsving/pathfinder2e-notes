@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vengeful Strike
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A creature within your reach succeeds or critically succeeds at an attack against you.
 

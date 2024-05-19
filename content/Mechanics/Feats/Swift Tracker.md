@@ -8,7 +8,6 @@ tags:
 ---
 
 # Swift Tracker
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your keen eyes catch signs of passage even when you're moving. You can move at your full Speed while you [[Track]]. If you have master proficiency in Survival, you don't need to attempt a new Survival check every hour while Tracking. If you have legendary proficiency in Survival, you can use another exploration activity while Tracking.
 

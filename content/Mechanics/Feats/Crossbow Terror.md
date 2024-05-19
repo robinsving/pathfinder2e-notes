@@ -8,7 +8,6 @@ tags:
 ---
 
 # Crossbow Terror
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are a dynamo with the crossbow.
 

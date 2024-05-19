@@ -8,7 +8,6 @@ tags:
 ---
 
 # Clockwork Box Packer
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This handy clockwork device is too expensive for most warehouses and shipping docks to make use of it, but some nobles have purchased the item for their staff as a status symbol, and merchants who are in the shipping trade can afford to slowly reap the benefits of its usage. It takes 1 minute to wind a clockwork box packer; after which, it can function for up to 1 hour.
 

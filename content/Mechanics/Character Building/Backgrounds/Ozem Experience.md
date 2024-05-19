@@ -9,7 +9,6 @@ tags:
 ---
 
 # Ozem Experience
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You or someone close to you worked with the Knights of Ozem before Lastwall fell. In addition to knowledge of the organization's tenets and goals, you have germane understanding of the order's history. You believe there are valuable lessons in the Knights of Ozem's exploits.
 

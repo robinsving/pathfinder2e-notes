@@ -9,7 +9,6 @@ tags:
 ---
 
 # Returned
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You died and miraculously returned with knowledge of the realms beyond death and a stronger link to life. Some dead and undead souls might feel a strange, instinctual kinship with you.
 

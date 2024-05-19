@@ -9,7 +9,6 @@ tags:
 ---
 
 # Trelmarixian
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Before his mortal death, Trelmarixian had already destroyed an entire world. Born a daemonic-blooded tiefling, his hatred of those around him was an all-consuming hunger, and he never knew peace. During an eclipse, he performed a ritual so powerful it mummified every living creature on his world, and his heart was finally full. Dying from starvation but elated by his success, Trelmarixian heard a voice call out to him. The voice mocked him, exclaiming all he'd accomplished was insignificant compared to what awaited him next. Trelmarixian's last mortal memory was of staring into an eclipse.
 

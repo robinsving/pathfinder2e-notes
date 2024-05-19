@@ -8,6 +8,5 @@ tags:
 ---
 
 # Winter Cat Senses
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your eyes are keen and accustomed to winter conditions. You ignore concealment caused by ice and snow.

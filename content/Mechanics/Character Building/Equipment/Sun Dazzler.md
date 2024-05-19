@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sun Dazzler
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 **Activate** 1 Interact
 

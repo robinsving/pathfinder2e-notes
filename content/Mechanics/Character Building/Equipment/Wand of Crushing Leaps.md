@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Crushing Leaps
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This supple, light wooden wand drifts to the ground like a feather or leaf when dropped, landing unharmed. A thin coil of metal wraps around the wand's handle.
 

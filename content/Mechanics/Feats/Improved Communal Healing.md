@@ -8,7 +8,6 @@ tags:
 ---
 
 # Improved Communal Healing
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can direct excess channeled energy outward to benefit an ally.
 

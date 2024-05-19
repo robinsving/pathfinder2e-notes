@@ -8,6 +8,5 @@ tags:
 ---
 
 # Strand Strider
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your eight legs serve you well when climbing walls and webs alike. You gain a climb speed of 25 feet in your spider shape.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Assured Knowledge
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can procure information with confidence. Whenever you [[Recall Knowledge]] using any skill (including Bardic Lore), you can forgo rolling your check to instead receive a result of 10 + your proficiency bonus (don't apply any other bonuses, penalties, or modifiers).
 

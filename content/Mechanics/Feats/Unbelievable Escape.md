@@ -8,6 +8,5 @@ tags:
 ---
 
 # Unbelievable Escape
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your ability to narrowly evade danger defies all logic. You can use [[Lucky Escape]] once per hour instead of once per day.

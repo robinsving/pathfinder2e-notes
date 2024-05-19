@@ -8,6 +8,5 @@ tags:
 ---
 
 # Distant Cackle
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 It takes a very brave person to enter the laughter-haunted forest where you dwell. You can cast _[[Ventriloquism]]_ once per day as a 1st-level occult innate spell.

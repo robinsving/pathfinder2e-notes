@@ -8,6 +8,5 @@ tags:
 ---
 
 # Banshee Cry Display
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've learned how to pull off a sudden noisemaker at just the right moment in your display, a technique that can disrupt precise wording. You gain the [[Banshee Cry]] fireworks display.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cube of Nex
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 The Cube of Nex is an enchanted cube that measures an inch across. The sides of the Cube of Nex are decorated so that they can be distinguished by touch.
 

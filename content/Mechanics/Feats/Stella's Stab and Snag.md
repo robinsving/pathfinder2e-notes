@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stella's Stab and Snag
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are wielding a piercing or slashing melee weapon.
 

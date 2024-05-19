@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cartwheel Dodge
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You aren't [[Encumbered]] or overburdened.
 

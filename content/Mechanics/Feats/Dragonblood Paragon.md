@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dragonblood Paragon
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your draconic anatomy becomes especially pronounced. You increase the power of one of the following kobold heritages or feats you have.
 

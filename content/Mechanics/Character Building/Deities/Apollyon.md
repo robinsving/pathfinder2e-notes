@@ -9,7 +9,6 @@ tags:
 ---
 
 # Apollyon
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 The Prince of Plagues seized power for himself after the disappearance of the previous Horseman of Pestilence by obsessively eliminating all potential rivals. Apollyon commands his vast army of leukodaemons to spread oblivion like a virus. He wastes no time on trivial acts of violence and lacks the patience to wait for long-term schemes to come to fruition. Instead, his plagues carry oblivion through cities like lightning, decimating entire kingdoms in the span of a few days. His greatest creations have been diseases that corrupt the soul itself, ensuring that [[Pharasma]] sends his victims to Abaddon once they've succumbed.
 

@@ -68,5 +68,3 @@ name: Yianyin
 creatures:
   - 1: Yianyin
 ```
-
-![[Yianyin-20231218235116669.webp]]

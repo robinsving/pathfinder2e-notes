@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mountain's Stoutness
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your hardiness lets you withstand more punishment than most. Increase your maximum Hit Points by your level. When you have the [[Dying|Dying 1]] condition, the DC of your recovery checks is equal to 9 + your dying value (instead of 10 + your dying value).
 

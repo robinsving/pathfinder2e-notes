@@ -8,7 +8,6 @@ tags:
 ---
 
 # Nimble Roll
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You throw yourself into a roll to escape imminent danger. You can use [[Nimble Dodge]] before attempting a Reflex save in addition to its original trigger. If you do, the circumstance bonus applies to your Reflex save against the triggering effect.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Elven Aloofness
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 As much as you might care for them, you've come to terms with the ephemeral nature of non-elves, and it makes their threats feel less troublesome.
 

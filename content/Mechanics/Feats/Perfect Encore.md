@@ -8,6 +8,5 @@ tags:
 ---
 
 # Perfect Encore
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You develop another incredible creation. You gain an additional 10th-rank spell slot.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lingering Flames
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you cast fireball, you can modify its effects, decreasing the base damage to 5d6 and causing it to deal 2 persistent fire damage to creatures that fail their save, doubled as normal on a critical failure. If you do, replace its heightened entry with the following.
 

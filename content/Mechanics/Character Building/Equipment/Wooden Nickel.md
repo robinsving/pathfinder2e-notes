@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wooden Nickel
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 **Activate** 3 envision; Prerequisites You are a master in Deception.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Inertial Barrier
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your spell leaves behind barriers that reduce shock and motion. Use this amp in place of a psi cantrip's normal amp entry.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Impressive Landing
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You fall at least 10 feet and land on a solid surface.
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Grave's Voice
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can use your choice of Spirit Lore or Haunt Lore to Make an Impression or Request things of incorporeal creatures. At the GM's discretion, an incorporeal spirit might be willing to hear you out.

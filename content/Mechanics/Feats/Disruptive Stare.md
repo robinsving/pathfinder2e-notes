@@ -8,7 +8,6 @@ tags:
 ---
 
 # Disruptive Stare
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A creature within 30 feet attempts to Cast a Spell with the concentrate trait.
 

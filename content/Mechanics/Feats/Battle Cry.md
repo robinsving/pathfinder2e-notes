@@ -8,6 +8,5 @@ tags:
 ---
 
 # Battle Cry
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you roll initiative, you can yell a mighty battle cry and [[Demoralize]] an observed foe as a free action. If you're legendary in Intimidation, you can use a reaction to Demoralize your foe when you critically succeed at an attack roll.

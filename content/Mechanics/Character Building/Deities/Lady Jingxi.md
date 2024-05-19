@@ -9,7 +9,6 @@ tags:
 ---
 
 # Lady Jingxi
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Edicts** Create art with words, master the written language, display the soft beauty of natural colors
 

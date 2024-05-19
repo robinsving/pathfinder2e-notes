@@ -8,6 +8,5 @@ tags:
 ---
 
 # Lasting Coercion
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you successfully [[Coerce]] someone, the maximum time they comply increases to a week, still determined by the GM. If you're legendary, the maximum increases to a month.

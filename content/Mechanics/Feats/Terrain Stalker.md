@@ -8,7 +8,6 @@ tags:
 ---
 
 # Terrain Stalker
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Select one type of difficult terrain from the following list: rubble, snow, or underbrush. While undetected by all non-allies in that type of terrain, you can [[Sneak]] without attempting a Stealth check as long as you move no more than 5 feet and do not pass within 10 feet of an enemy during your movement.
 

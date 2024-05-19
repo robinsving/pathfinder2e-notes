@@ -8,7 +8,6 @@ tags:
 ---
 
 # Encouraging Words
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** The target ally lost Stamina Points within the last round.
 

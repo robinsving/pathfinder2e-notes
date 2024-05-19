@@ -8,7 +8,6 @@ tags:
 ---
 
 # Eerie Traces
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The tracks you leave behind are strange, somehow disconcerting and unnerving-they might travel backward, or through places no one would think to pass through. You change your tracks into eerie traces, moving up to half your travel speed as you do so. You don't need to attempt a Survival check to change your tracks, but anyone tracking you must attempt a DC resolve will save against the higher of your class DC or spell DC.
 

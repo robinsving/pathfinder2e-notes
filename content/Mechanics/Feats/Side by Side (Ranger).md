@@ -8,6 +8,5 @@ tags:
 ---
 
 # Side by Side (Ranger)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You and your animal companion fight in tandem. Whenever you and your animal companion are adjacent to the same foe, you are both flanking that foe with each other, regardless of your actual positions.

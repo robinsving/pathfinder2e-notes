@@ -8,7 +8,6 @@ tags:
 ---
 
 # Concealing Legerdemain
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Rather than hide an object somewhere the inspectors won't search, you're skilled at keeping the object on the move so it's never where they look.
 

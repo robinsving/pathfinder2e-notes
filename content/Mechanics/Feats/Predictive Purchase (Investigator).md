@@ -8,7 +8,6 @@ tags:
 ---
 
 # Predictive Purchase (Investigator)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have just the thing for the situation. You gain the [[Prescient Planner]] and [[Prescient Consumable]] feats.
 

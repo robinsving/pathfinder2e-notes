@@ -8,6 +8,5 @@ tags:
 ---
 
 # Spiritual Aid
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you call your spirit guide for aid, its presence bolsters your will and agility. You gain the [[Spiritual Aid]] reaction.

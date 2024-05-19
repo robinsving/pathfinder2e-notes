@@ -8,6 +8,5 @@ tags:
 ---
 
 # Primal Breadth
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Increase the spell slots you gain from druid archetype feats by 1 for each spell rank other than your two highest druid spell slots.

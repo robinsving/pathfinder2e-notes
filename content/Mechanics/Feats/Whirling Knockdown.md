@@ -8,7 +8,6 @@ tags:
 ---
 
 # Whirling Knockdown
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You're wielding a loaded one-handed firearm and a one-handed melee weapon.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Storm Chair
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This traveler's chair uses magic and Stasian technology, storing up power in its Stasian coils to arc lightning through your foes and grant brief spurts of flight.
 

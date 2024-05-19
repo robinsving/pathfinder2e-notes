@@ -8,7 +8,6 @@ tags:
 ---
 
 # Conductive Sphere
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 A floating metal ball forms in a space within 30 feet, flashing with electricity. It can't be targeted or damaged. Any of your allies adjacent to it gain resistance to electricity equal to your level and add the _[[Shock]]_ rune to all their Strikes with metal objects. The sphere lasts until the end of your next turn, but you can Sustain it up to 1 minute.
 

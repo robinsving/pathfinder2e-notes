@@ -8,7 +8,6 @@ tags:
 ---
 
 # You Failed to Account For... This!
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A creature you can see targets you with an attack against your AC.
 

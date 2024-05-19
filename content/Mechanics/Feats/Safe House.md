@@ -8,7 +8,6 @@ tags:
 ---
 
 # Safe House
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You establish a safe house-a secure space in which to hide your secrets from the outside world.
 

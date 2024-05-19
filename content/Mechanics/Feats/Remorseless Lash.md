@@ -8,6 +8,5 @@ tags:
 ---
 
 # Remorseless Lash
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You're skilled at beating a foe when their morale is already breaking. When you succeed at a melee weapon Strike against a [[Frightened]] foe, that foe can't reduce their frightened condition below 1 until the beginning of your next turn.

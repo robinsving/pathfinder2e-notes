@@ -8,7 +8,6 @@ tags:
 ---
 
 # Greater Physical Evolution
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You hold a deep understanding of the innate fundamental structures of the physical world, and you can enforce your will upon that structure as far as your own blood is concerned.
 

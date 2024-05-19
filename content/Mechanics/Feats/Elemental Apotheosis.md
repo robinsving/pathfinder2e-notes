@@ -8,6 +8,5 @@ tags:
 ---
 
 # Elemental Apotheosis
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You take on an elemental countenance, appearing like a type of elemental of your element. You gain any Speeds listed in the _[[Elemental Form]]_ spell for your element and gain _[[Darkvision]]_ if you don't already have it. You also gain the elemental trait and the trait of your chosen element.

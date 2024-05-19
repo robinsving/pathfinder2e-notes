@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gruesome Strike
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** Your Strikes currently deal extra damage from your champion's reaction.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # A Home In Every Port
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have a reputation in towns and villages you've visited, and residents are always willing to open their doors to you.
 

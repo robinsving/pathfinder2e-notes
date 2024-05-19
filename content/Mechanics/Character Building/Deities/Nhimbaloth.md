@@ -9,7 +9,6 @@ tags:
 ---
 
 # Nhimbaloth
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 An especially reclusive Outer God who hunts along the shores of the River of Souls, Nhimbaloth is a shapeless entity known as the Empty Death. She preys on those who hunt souls as they travel down the river, but she devours both hunter and soul indiscriminately; those she consumes have no afterlife or potential for resurrection. They are forever gone, and forever nothing.
 

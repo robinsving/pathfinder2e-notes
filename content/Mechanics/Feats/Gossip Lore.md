@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gossip Lore
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your time gossiping in fashionable salons keeps you informed on every topic.
 

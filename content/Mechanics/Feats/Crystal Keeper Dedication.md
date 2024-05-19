@@ -8,7 +8,6 @@ tags:
 ---
 
 # Crystal Keeper Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can use Arcana, Occultism, Religion, or Society to Decipher Writing by meditating before a crystal, regardless of the type of writing. When you Decipher Writing and roll a critical failure, you get a failure instead, and when you Decipher Writing and roll a success, you get a critical success instead.
 

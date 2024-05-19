@@ -8,6 +8,5 @@ tags:
 ---
 
 # Counter Perform
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain the _[[Counter Performance]]_ composition spell. This is a focus spell, granting you a focus pool or expanding that pool. You can Refocus by engaging your muse.

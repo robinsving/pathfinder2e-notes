@@ -9,7 +9,6 @@ tags:
 ---
 
 # Cursed
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You are the victim of a personal or hereditary curse. Through great effort and occult study, you have learned to fend off the curse's worst effects and, by extension, you can protect yourself against other harmful magic. However, the curse still hangs over you and sometimes manifests in dangerous ways.
 

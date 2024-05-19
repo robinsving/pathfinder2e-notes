@@ -9,7 +9,6 @@ tags:
 ---
 
 # Sandswept Survivor
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You were in the Sandswept Hall, the Pathfinder Society's lodge in Sothis, Osirion, when it came under attack from an unrelenting horde of undead. You endured the siege and forged new bonds with your fellow survivors, then joined the Society as a field agent.
 

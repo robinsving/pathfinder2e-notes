@@ -8,6 +8,5 @@ tags:
 ---
 
 # Summon Fire Elemental
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can summon an elemental ally. Once per day, you can cast _[[Summon Elemental]]_ as a 5th-level primal innate spell, but the elemental summoned must be a fire elemental.

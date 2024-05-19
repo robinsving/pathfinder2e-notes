@@ -8,6 +8,5 @@ tags:
 ---
 
 # Stone Communion
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain a unique communion with the earth and stones. You learn the Terran language and you can Activate your _ka stone_ with a 10-minute activation (envision) to cast _[[Speak with Stones]]_.

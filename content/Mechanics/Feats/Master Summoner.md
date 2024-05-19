@@ -8,6 +8,5 @@ tags:
 ---
 
 # Master Summoner
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 During daily preparations, you can designate one of your spell slots to become two summoning slots of the same spell level, from which you can cast only summoning or incarnate spells.

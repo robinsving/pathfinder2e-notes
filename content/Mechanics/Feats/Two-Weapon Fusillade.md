@@ -8,7 +8,6 @@ tags:
 ---
 
 # Two-Weapon Fusillade
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You're wielding two weapons, each in a different hand. At least one of these weapons must be a loaded firearm or loaded crossbow.
 

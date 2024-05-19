@@ -8,6 +8,5 @@ tags:
 ---
 
 # Courageous Onslaught
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You use your performance to orchestrate an onslaught against your enemies. If your next action is to cast the [[Courageous Anthem]] composition cantrip, one ally of your choice who gains a status bonus from the spell can immediately use their reaction to Stride and then make a melee Strike.

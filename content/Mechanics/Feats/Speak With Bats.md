@@ -8,6 +8,5 @@ tags:
 ---
 
 # Speak With Bats
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can ask questions of, receive answers from, and use the Diplomacy skill with bats. You gain a +2 circumstance bonus on all Diplomacy checks to Make an Impression on bats or Request something from bats.

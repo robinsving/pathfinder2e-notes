@@ -8,7 +8,6 @@ tags:
 ---
 
 # Courtier's Pillow Book
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This elegant journal has a detailed social dossier on the owner's acquaintances. When you make your daily preparations, you can inscribe a secret or embarrassing foible about a specific individual that you know to be true or have on good authority.
 

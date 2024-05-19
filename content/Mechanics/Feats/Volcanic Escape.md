@@ -8,7 +8,6 @@ tags:
 ---
 
 # Volcanic Escape
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An enemy in your kinetic aura damages you.
 

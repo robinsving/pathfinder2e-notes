@@ -9,7 +9,6 @@ tags:
 ---
 
 # Naderi
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Edicts** Comfort and encourage lovers, help the suffering escape their circumstances in life or in death
 

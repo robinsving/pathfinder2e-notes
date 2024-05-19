@@ -8,6 +8,5 @@ tags:
 ---
 
 # Scattered Fire
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you cast fireball, you can modify its area to be two non-overlapping 10 foot burst{10-foot bursts}.

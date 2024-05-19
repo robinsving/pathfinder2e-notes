@@ -8,7 +8,6 @@ tags:
 ---
 
 # Instinctive Strike
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You trust your instincts and your sense of smell, using all of your senses to pinpoint your opponent's location.
 

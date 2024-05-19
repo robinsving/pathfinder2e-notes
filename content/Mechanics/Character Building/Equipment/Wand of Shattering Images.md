@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Shattering Images
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Shattered pieces of a glass mirror, formed into a reflective mosaic, comprise the irregular shaft of this wand. The handle is black and polished smooth, the pommel capped with a tiny reflective orb.
 

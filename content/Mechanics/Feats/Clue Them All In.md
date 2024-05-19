@@ -8,6 +8,5 @@ tags:
 ---
 
 # Clue Them All In
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can clue in all your allies at once. When you use the [[Clue In]] reaction, any of your allies who are attempting the same check to investigate a lead receive the circumstance bonus from Clue In. If you use this ability during an encounter, they must attempt their check within 1 round of when you Clued them In.

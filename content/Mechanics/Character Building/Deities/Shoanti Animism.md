@@ -9,7 +9,6 @@ tags:
 ---
 
 # Shoanti Animism
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Most Shoanti belong to one of seven quahs, or clans, each with specific lands, notable strengths, and unique spiritual perspectives. Traditionally, each Shoanti undergoes a rite of passage into adulthood, during which time their particular totem manifests, and a Shoanti's first tattoo is an homage to that totem. The quahs and their most common totems are listed below:
 

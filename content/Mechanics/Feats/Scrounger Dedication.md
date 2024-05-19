@@ -8,7 +8,6 @@ tags:
 ---
 
 # Scrounger Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can [[Craft]] items even without appropriate tools or a workshop, though you take a -2 item penalty to your Crafting check.
 

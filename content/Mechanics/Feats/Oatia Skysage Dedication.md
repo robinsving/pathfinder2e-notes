@@ -8,7 +8,6 @@ tags:
 ---
 
 # Oatia Skysage Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your study of the stars unlocks supernatural insights and magic. You either become trained in Astronomy Lore or an expert in Occultism.
 

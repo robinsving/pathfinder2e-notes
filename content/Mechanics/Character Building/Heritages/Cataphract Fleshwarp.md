@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Cataphract Fleshwarp
-![[systems-pf2e-icons-default-icons-heritage.svg|150]]
 
 Your battle-hardened skeleton is laced with additional cartilage and muscle to help bear armor across vast areas of operation, and your skin is bedecked with tiny spurs of pliable, resilient keratin to optimize the grip and weight distribution of your armor. You gain the [[Armor Proficiency]] feat.
 

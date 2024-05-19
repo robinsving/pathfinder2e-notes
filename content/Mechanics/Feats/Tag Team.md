@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tag Team
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You or your spotter misses with a Strike against a creature, and the creature is within the other's melee reach or first range increment.
 

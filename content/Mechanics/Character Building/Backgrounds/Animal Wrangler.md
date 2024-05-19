@@ -9,7 +9,6 @@ tags:
 ---
 
 # Animal Wrangler
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You have a long history of working with large circus animals for the Celestial Menagerie, such as performing in an animal act, jostling animals back into their cages, or even sweeping dung out of squalid pens. Mistress Dusklight's ongoing mistreatment of her animals compelled you to quit, and you now strive to ensure animals aren't abused.
 

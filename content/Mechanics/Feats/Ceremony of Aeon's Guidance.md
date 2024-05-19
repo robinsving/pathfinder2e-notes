@@ -8,6 +8,5 @@ tags:
 ---
 
 # Ceremony of Aeon's Guidance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your patron aeon has allowed you to call upon their gifts to serve their ends. You can cast _[[Augury]]_ and _[[Calm]]_ each once per day as 2nd-level divine innate spells.

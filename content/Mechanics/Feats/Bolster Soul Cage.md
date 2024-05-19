@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bolster Soul Cage
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your constant efforts to augment and perfect your soul cage have bolstered its efficiency. Your soul cage has Hardness equal to your level and HP equal to four times your level. The time it takes your soul cage to rebuild your body is reduced to 1d6 days rather than 1d10 days.
 

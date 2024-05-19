@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pact of the Final Breath
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've sworn a pact with a powerful psychopomp-typically an olethros advocate or yamaraj judge-granting you a reprieve before your soul will be collected in exchange for respect for the dead and assistance against the undead. As long as you keep your end of the bargain, you live twice as long as you normally would before dying of natural causes. Additionally, the first time each day that you would be reduced to 0 Hit Points and gain the dying condition, you instead regain a number of Hit Points equal to twice your level (starting from 0 HP), remain conscious, and gain fast healing equal to your level for 3 rounds.
 

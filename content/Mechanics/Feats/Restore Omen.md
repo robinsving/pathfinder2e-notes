@@ -8,7 +8,6 @@ tags:
 ---
 
 # Restore Omen
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You do not have an active harrow omen.
 

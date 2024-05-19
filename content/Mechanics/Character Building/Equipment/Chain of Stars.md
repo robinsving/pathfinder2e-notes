@@ -8,7 +8,6 @@ tags:
 ---
 
 # Chain of Stars
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 **Activate** f envision
 

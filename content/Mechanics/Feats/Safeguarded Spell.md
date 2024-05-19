@@ -8,6 +8,5 @@ tags:
 ---
 
 # Safeguarded Spell
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You bring the magical wavelengths of your spell into sync with the ones produced by your own body. If the next action you take is to [[Cast a Spell]] with an area, you aren't affected by the spell even if you are within the area.

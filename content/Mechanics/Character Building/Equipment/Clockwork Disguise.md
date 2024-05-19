@@ -8,7 +8,6 @@ tags:
 ---
 
 # Clockwork Disguise
-![[systems-pf2e-icons-default-icons-armor.svg|150]]
 
 Sometimes, just disguising one's face just isn't convincing enough. Clockwork disguises were invented to supplement regular disguise kits, which are used all across Golarion. For example, if a spy wants to infiltrate a military camp, they must be wearing the same type of armor as the soldiers stationed there-or else have a very good explanation for their commander as to why they're out of proper uniform!
 

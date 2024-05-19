@@ -9,6 +9,5 @@ tags:
 ---
 
 # Divine Smite
-![[systems-pf2e-icons-default-icons-feat.svg|150]]
 
 Your [[Champion's Reaction]] improves. See your cause for details.

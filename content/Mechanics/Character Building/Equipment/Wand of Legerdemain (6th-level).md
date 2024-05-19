@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Legerdemain (6th-level)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This wand of lacquered black wood has a handle wrapped in interwoven colorful ribbons. A silver bell caps the wand's tasseled pommel.
 

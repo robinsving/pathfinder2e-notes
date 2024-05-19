@@ -8,7 +8,6 @@ tags:
 ---
 
 # Arcane Eye
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your eye has been magically enhanced to pierce darkness. You gain darkvision.
 

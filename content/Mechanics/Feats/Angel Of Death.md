@@ -8,7 +8,6 @@ tags:
 ---
 
 # Angel Of Death
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 All your [[Strike|Strikes ]] against a creature you have [[Mark for Death|Marked for Death]] have the death trait, causing the mark to be instantly killed when reduced to 0 Hit Points.
 

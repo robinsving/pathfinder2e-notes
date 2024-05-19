@@ -9,7 +9,6 @@ tags:
 ---
 
 # Scion of Slayers
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You were born into a lineage of undead slayers. No mere occupation, in your family slaying is a mantle of almost mystic responsibility passed from parent to child. Over the generations, this single-minded focus has begun to manifest in uncanny ways during combat.
 

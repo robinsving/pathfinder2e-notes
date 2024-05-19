@@ -8,6 +8,5 @@ tags:
 ---
 
 # Mug
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You make a quick attack and rob your foe in the process. Make a melee Strike against an adjacent enemy. If you hit and deal sneak attack damage, you can also attempt to [[Steal]] from the target, even if the target is in combat.

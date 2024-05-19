@@ -8,7 +8,6 @@ tags:
 ---
 
 # Minion Guise
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you are in your social identity, you can also grant a social identity to an animal companion, familiar, or other minion you gained from a class feature.
 

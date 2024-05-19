@@ -8,7 +8,6 @@ tags:
 ---
 
 # Catchy Tune
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You create a tune so catchy, your foes can't help but dance along. Attempt a performance  check against the Will DCs of all enemies in a 30 foot emanation.
 

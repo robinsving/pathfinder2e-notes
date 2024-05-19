@@ -8,6 +8,5 @@ tags:
 ---
 
 # Mysterious Breadth
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Increase the spell slots you gain from oracle archetype feats by 1 for each spell level other than your two highest spell levels.

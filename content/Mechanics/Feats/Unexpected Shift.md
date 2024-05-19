@@ -8,7 +8,6 @@ tags:
 ---
 
 # Unexpected Shift
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You would take damage from an attack, spell, or other effect.
 

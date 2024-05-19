@@ -8,7 +8,6 @@ tags:
 ---
 
 # Extra Squishy
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your rubbery physique makes it easier for you to wedge yourself into tight spaces and more difficult for your enemies to dislodge you.
 

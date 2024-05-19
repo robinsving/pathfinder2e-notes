@@ -8,7 +8,6 @@ tags:
 ---
 
 # Advanced Warden
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You unlock more powerful primal spells. You gain your choice of one warden spell from the advanced warden spells.
 

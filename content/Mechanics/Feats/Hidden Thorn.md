@@ -8,6 +8,5 @@ tags:
 ---
 
 # Hidden Thorn
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Some flowers can hide their thorns, and yours happen to be hidden along your arms. You gain a thorns unarmed attack that deals 1d6 piercing damage. Your thorns are in the knife weapon group and have the finesse and unarmed traits.

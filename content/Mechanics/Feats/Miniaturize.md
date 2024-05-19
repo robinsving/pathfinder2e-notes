@@ -8,6 +8,5 @@ tags:
 ---
 
 # Miniaturize
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your eidolon can shrink even further. When using Shrink Down, your eidolon can reduce its size to Tiny

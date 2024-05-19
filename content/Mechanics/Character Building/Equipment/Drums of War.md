@@ -8,7 +8,6 @@ tags:
 ---
 
 # Drums of War
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This handheld snare drum is adorned with garish scenes of battle and triumph. When played, no matter what rhythm, it always gives the impression of a marching beat, invoking armies on the move. While playing the drums, you gain a +1 item bonus to Performance checks and a +5-foot status bonus to your Speed.
 

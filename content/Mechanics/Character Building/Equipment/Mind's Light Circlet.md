@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mind's Light Circlet
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Gemstones of many colors adorn the silver of a _mind's light circlet_. When you're charged with mental power, the jewels scintillate with light, with different gems resonating based on your emotions. If you have at least 1 Focus Point, the gems cast dim light in a 10-foot radius. When you amp a spell, the light increases to bright light in a 20-foot radius (and dim light to the next 20 feet) until the start of your next turn.
 

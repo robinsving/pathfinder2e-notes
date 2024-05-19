@@ -8,7 +8,6 @@ tags:
 ---
 
 # Folktales Lore
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can pull bits of wisdom from any tale. You become trained in Folktales Lore, a special Lore skill that can be used only to Recall Knowledge, but on any topic. If you fail a check to Recall Knowledge with Folktales Lore, you get the effects of the [[Dubious Knowledge]] skill feat.
 

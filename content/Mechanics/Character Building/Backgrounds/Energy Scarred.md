@@ -9,7 +9,6 @@ tags:
 ---
 
 # Energy Scarred
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Exposure to a significant magical event overloaded you with magical energy. Perhaps you were exposed to dangerous levels of magical energy that left you near death, or it built up over long-term exposure to a powerful source of magic.
 

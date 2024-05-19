@@ -8,7 +8,6 @@ tags:
 ---
 
 # Determined Dash
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Nothing can keep you from your enemy. Stride twice. During this movement you ignore difficult terrain, greater difficult terrain, and any effects that would impose a penalty to Speed.
 

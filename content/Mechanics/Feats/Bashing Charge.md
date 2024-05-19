@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bashing Charge
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You smash, bust, and charge through solid obstacles without hesitation. Stride twice.
 

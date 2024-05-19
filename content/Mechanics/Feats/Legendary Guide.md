@@ -8,7 +8,6 @@ tags:
 ---
 
 # Legendary Guide
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You know the wilderness so well that you can help your party travel through it with ease.
 

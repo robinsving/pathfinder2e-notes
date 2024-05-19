@@ -8,7 +8,6 @@ tags:
 ---
 
 # Additional Recollection
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You succeed or critically succeed at a check to [[Recall Knowledge]] on your hunted prey.
 

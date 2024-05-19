@@ -9,7 +9,6 @@ tags:
 ---
 
 # Deputy
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 While your life may have taken some twists and turns in the intervening years, you were once deputized as the lawful protector of a community. While the role was temporary and you've since turned in your badge, that responsibility shaped you. Whenever a community is in trouble, and the sheriff is nowhere to be found, residents call on you to capture a criminal, rescue the mayor's offspring from bandits, or go toe to toe with outlaws.
 

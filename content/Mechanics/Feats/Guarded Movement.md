@@ -8,6 +8,5 @@ tags:
 ---
 
 # Guarded Movement
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your guard is up, even while moving. You gain a +4 circumstance bonus to AC against reactions triggered by your movement.

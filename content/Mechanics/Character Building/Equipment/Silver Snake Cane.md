@@ -8,7 +8,6 @@ tags:
 ---
 
 # Silver Snake Cane
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This shimmery metal cane is both an assistive device and a popular companion for many zuhras. The cane's possessor can spend 1 minute feeding the cane an elixir or a dose of ingested or injury poison to fill its venom sac. The cane can store only one such alchemical item at a time, and it expels the alchemical item when either 24 hours pass or it's fed a new alchemical item.
 

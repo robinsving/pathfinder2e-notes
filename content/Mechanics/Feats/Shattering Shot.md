@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shattering Shot
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You're wielding a loaded firearm or loaded crossbow and are wearing or holding an alchemical bomb.
 

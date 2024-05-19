@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Choking Mist (Obscuring Mist)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This blackened wood wand has a smoldering tip, emitting a slight trail of steam.
 

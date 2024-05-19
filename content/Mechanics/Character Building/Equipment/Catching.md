@@ -8,7 +8,6 @@ tags:
 ---
 
 # Catching
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 A _catching rune_ creates a small, magical vacuum that attempts to pull weapons away from opponents. If you can attempt to [[Disarm]] as part of a Shield Block, such as with the Disarming Block feat or this rune's activated ability, a catching shield grants you a +1 circumstance bonus to such Disarm attempts.
 

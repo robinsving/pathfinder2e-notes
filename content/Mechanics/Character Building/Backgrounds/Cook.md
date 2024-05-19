@@ -9,7 +9,6 @@ tags:
 ---
 
 # Cook
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You grew up in the kitchens of a tavern or other dining establishment and excelled there, becoming an exceptional cook. Baking, cooking, a little brewing on the side--you've spent lots of time out of sight. It's about time you went out into the world to catch some sights for yourself.
 

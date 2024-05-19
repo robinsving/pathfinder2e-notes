@@ -8,6 +8,5 @@ tags:
 ---
 
 # One with Earth
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've learned to harness your connection to the earth to travel through it. You gain a burrow Speed of 15 feet.

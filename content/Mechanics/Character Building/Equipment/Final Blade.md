@@ -8,7 +8,6 @@ tags:
 ---
 
 # Final Blade
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 A Large or smaller restrained or willing creature can be executed by a final blade.
 

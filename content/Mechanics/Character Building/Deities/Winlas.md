@@ -9,7 +9,6 @@ tags:
 ---
 
 # Winlas
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Edicts** Serve leaders of ceremonies, craft ceremonial arms and armor, lead a congregation
 

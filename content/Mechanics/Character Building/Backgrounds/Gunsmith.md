@@ -9,7 +9,6 @@ tags:
 ---
 
 # Gunsmith
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 From a young age, you apprenticed to an experienced gunsmith and over time your skill and knowledge rose to match that of your master. Today, you can easily repair, modify, or improve nearly any firearm you've seen before, and even if you haven't seen it, you'll break it down to learn about what makes it tick in no time. You've taken those skills on the road, using them to assist yourself and your allies as an adventurer when it comes to maintaining their weapons, shields, armor, and more.
 

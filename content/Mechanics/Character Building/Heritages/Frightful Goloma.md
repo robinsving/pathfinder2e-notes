@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Frightful Goloma
-![[systems-pf2e-icons-default-icons-heritage.svg|150]]
 
 Your face has a particularly off-putting appearance. You are trained in Intimidation (or another skill of your choice if you were already trained in Intimidation) and gain the [[Intimidating Glare]] skill feat as a bonus feat.
 

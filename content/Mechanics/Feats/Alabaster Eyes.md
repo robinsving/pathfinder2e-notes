@@ -8,7 +8,6 @@ tags:
 ---
 
 # Alabaster Eyes
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 In place of the normal vishkanyan golden eyes, you were born with especially perceptive snow-white eyes. You gain darkvision.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Defend Mount
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An enemy makes an attack roll against your mount while you're riding it.
 

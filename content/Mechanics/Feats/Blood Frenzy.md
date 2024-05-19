@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blood Frenzy
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** Your eidolon's last action dealt bleed damage to a living creature.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Catfolk Weapon Familiarity
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You favor weapons that you can use with quick, darting slashes like a cat's claws. You are trained with the [[Hatchet]], [[Kama]], [[Kukri]], [[Scimitar]], and [[Sickle]].
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Maw of Hungry Shadows
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Shadows swirl around this soot-black tome, swallowing up any light that touches them. A faint whispering emanates from the grimoire's pages when opened.
 

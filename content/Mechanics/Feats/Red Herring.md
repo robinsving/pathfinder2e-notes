@@ -8,7 +8,6 @@ tags:
 ---
 
 # Red Herring
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have a keen sense for avoiding spurious lines of inquiry. When you [[Pursue a Lead]], the GM tells you if the lead you chose is inconsequential.
 

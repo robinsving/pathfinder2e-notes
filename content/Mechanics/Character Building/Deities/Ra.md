@@ -9,7 +9,6 @@ tags:
 ---
 
 # Ra
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Edicts** Bring order to places of chaos, kill evil monsters and fiends, encourage just laws, provide warmth where needed
 

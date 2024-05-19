@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mammoth Lord Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've undertaken the ultimate challenge of the Mammoth Lords and tamed a megafauna. You gain a megafauna you tamed as a young animal companion. Your megafauna animal companion must be a megafauna appropriate to the Realm of the Mammoth Lords;. While an animal companion usually starts as Small, you can begin with a Medium version of that animal (changing no statistics other than its size).
 

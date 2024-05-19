@@ -8,6 +8,5 @@ tags:
 ---
 
 # Past Life
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Flashes of your life become clearer and more frequent, allowing you to apply skills you developed while alive. You become trained in a skill of your choice and gain the [[Additional Lore]] feat for a Lore subcategory tied to your life.

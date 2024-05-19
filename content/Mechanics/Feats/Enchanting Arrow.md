@@ -8,7 +8,6 @@ tags:
 ---
 
 # Enchanting Arrow
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 With a single whisper carried on the wind, you enchant your ammunition to make a foe more vulnerable to your attacks.
 

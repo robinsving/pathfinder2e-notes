@@ -8,7 +8,6 @@ tags:
 ---
 
 # Graceful Guidance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can demonstrate how to quickly twist out of the way of dangerous effects.
 

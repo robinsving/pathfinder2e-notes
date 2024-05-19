@@ -8,6 +8,5 @@ tags:
 ---
 
 # Incredible Familiar (Familiar Master)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your familiar is infused with even more magic than other familiars. You can select six familiar or master abilities each day, instead of four.

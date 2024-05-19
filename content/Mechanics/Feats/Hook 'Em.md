@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hook 'Em
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** A rope is within your reach, or you have a rope or grappling weapon in your hand.
 

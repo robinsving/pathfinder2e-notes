@@ -8,7 +8,6 @@ tags:
 ---
 
 # Read Disaster
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You spend 10 minutes and open yourself to the divine mysteries of the world, peering into the most sinister portents of the future.
 

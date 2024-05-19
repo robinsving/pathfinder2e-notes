@@ -9,7 +9,6 @@ tags:
 ---
 
 # Willing Host
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You speak to spirits only you can perceive: wispy shreds of lost souls, household guardians, ancestral spirits, and other entities. You can negotiate with these beings, allowing them into your body to impart knowledge or aid in a task for the price of a favor.
 

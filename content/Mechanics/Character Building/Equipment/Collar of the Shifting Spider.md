@@ -8,7 +8,6 @@ tags:
 ---
 
 # Collar of the Shifting Spider
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 **Activate** f Interact
 

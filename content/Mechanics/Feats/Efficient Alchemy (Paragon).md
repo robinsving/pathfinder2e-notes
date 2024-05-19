@@ -8,6 +8,5 @@ tags:
 ---
 
 # Efficient Alchemy (Paragon)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your daily preparations are particularly efficient and plentiful. When using your infused reagents to create alchemical items during your daily preparations, you make a batch of three of a given item instead of a batch of two, or a batch of four if your field normally lets you create three of that item.

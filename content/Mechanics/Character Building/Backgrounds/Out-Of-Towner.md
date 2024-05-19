@@ -9,7 +9,6 @@ tags:
 ---
 
 # Out-Of-Towner
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You've never been to Breachill, nor do you have roots in the town, but as chance has it you find yourself visiting. You might be here traveling with a friend, visiting an old acquaintance, or merely here to see a new part of the world. Before coming to town, though, you spent many years living with an ancestry other than your own, and your diverse childhood has left you with an open mind and a curious nature.
 

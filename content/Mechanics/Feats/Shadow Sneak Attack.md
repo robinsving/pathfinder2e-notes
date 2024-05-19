@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shadow Sneak Attack
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain the [[Sneak Attack]] class feature, except you deal 1d6 precision damage regardless of your level.
 

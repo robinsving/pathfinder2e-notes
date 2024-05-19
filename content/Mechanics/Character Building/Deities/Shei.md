@@ -9,7 +9,6 @@ tags:
 ---
 
 # Shei
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Edicts** Empower local communities, learn from elders, share and teach from experiences
 

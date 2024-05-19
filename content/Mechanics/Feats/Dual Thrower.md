@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dual Thrower
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You know how to throw two weapons as easily as Strike with them.
 

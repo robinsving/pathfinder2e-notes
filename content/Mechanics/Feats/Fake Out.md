@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fake Out
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An ally is about to use an action that requires an attack roll, targeting a creature within your weapon's first range increment.
 

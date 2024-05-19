@@ -9,7 +9,6 @@ tags:
 ---
 
 # Wadjet
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Edicts** Defend your homelands and your people, aid childbirths, grow papyrus, protect sources of clean water
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Prophecies of Kalistrade
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 The secular prophecies of Kalistrade are famously centered on a single principle: amassing personal wealth both in search of and as evidence of personal enlightenment. The prophets of Kalistrade, often referred to as Kalistocrats, believe that achieving purity of body, mind, and spirit will lead to financial success, and thus they avoid certain foods and eschew contact with most persons and objects as impure. To avoid contamination and contact with nonbelievers they wear long, white gloves, and they wear distinctive, all-white clothing to represent their purity-often incorporating their symbol, a circle inside a triangle that is itself inscribed in a larger circle.
 

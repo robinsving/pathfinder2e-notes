@@ -8,7 +8,6 @@ tags:
 ---
 
 # Warding Light
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain a tattoo that serves as a special ward to defend you against Walkena's forces.
 

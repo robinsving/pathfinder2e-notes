@@ -8,6 +8,5 @@ tags:
 ---
 
 # Dogfang Bite
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can swing your beak to slash your foes when piercing attacks won't do. Your beak unarmed attack gains the versatile S weapon trait.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Watch and Learn
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An ally you can see succeeds or critically succeeds at a Strength- or Dexterity-based skill check, using a skill in which you are untrained.
 

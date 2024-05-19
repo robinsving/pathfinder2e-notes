@@ -8,7 +8,6 @@ tags:
 ---
 
 # Emergency Medical Assistance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** An adjacent ally is suffering persistent damage.
 

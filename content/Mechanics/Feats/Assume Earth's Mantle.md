@@ -8,7 +8,6 @@ tags:
 ---
 
 # Assume Earth's Mantle
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Enormous pieces of rock cluster around your body. You can Dismiss this impulse.
 

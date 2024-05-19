@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shadow Blending
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A creature attempts a flat check to target you while you're [[Concealed]] or [[Hidden]] due to dim light or darkness.
 

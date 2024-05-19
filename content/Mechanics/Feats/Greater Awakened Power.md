@@ -8,7 +8,6 @@ tags:
 ---
 
 # Greater Awakened Power
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your power undergoes yet another awakening. You gain one awakening benefit for a deviant feat of 10th level or lower.
 

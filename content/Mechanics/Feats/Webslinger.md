@@ -8,7 +8,6 @@ tags:
 ---
 
 # Webslinger
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Frequency** once per 10 minutes
 

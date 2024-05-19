@@ -8,7 +8,6 @@ tags:
 ---
 
 # Brain Cylinder
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 **Perception** +15; vision (precise) 30 feet, hearing (imprecise) 30 feet
 

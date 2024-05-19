@@ -8,6 +8,5 @@ tags:
 ---
 
 # Catfolk Weapon Rake
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You know how to efficiently use weapons that rake across your enemies. Whenever you critically hit using a catfolk weapon or one of the weapons listed in [[Catfolk Weapon Familiarity]], you apply the weapon's critical specialization effect.

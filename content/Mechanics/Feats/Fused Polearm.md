@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fused Polearm
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** Your arcane bonded item is a polearm.
 

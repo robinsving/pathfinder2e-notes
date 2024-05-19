@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mounted Shield
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've trained with your shield to defend both yourself and your mount. When you [[Raise a Shield]] while mounted, both you and your mount gain the shield's circumstance bonus to AC.
 

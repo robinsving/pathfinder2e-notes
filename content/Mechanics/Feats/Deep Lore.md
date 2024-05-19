@@ -8,6 +8,5 @@ tags:
 ---
 
 # Deep Lore
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your repertoire is vast, containing far more spells than usual. Add one spell to your repertoire of each spell rank you can cast.

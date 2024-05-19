@@ -8,7 +8,6 @@ tags:
 ---
 
 # Forest Stealth
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are in a forest or jungle environment near an environmental feature that would allow you to Take Cover.
 

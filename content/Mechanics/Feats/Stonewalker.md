@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stonewalker
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have a deep reverence for and connection to stone. You can cast [[One with Stone]] as a 3rd-rank divine innate spell once per day.
 

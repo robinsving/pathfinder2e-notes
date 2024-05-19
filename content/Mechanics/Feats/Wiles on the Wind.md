@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wiles on the Wind
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 Speaking lies, you set them loose upon a drifting wind. You create an auditory illusion that comes from a square within 500 feet and can be as loud as four normal humans talking. The sound can be intricate, including speech or music, though the GM might require you to attempt a check or know a language for it to be convincing. The illusion lasts until the end of your next turn, and you can Sustain the impulse.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # All In My Head
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You would take damage from a Strike or spell that doesn't have the death trait or otherwise cause instant death (such as _[[Disintegrate]]_).
 

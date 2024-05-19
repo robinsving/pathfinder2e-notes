@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vicious Debilitations
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 The debilitations you dish out seriously impair your foes. Add the following debilitations to the list you can choose from when you use Debilitating Strike.
 

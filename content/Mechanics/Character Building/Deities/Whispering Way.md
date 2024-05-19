@@ -9,7 +9,6 @@ tags:
 ---
 
 # Whispering Way
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 These cultists believe undeath is the truest form of existence, and life is meant to be spent in preparation for transition to a more glorious unlife after death.
 

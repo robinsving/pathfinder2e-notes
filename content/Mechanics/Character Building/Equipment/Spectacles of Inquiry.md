@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spectacles of Inquiry
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Anything viewed through these thin spectacles looks crisp and clear, and the earpieces accentuate sounds around you. You gain a +2 item bonus to Perception checks.
 

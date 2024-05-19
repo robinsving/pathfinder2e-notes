@@ -8,7 +8,6 @@ tags:
 ---
 
 # Conundrum Spectacles (Greater)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 These wire spectacles have been fitted with circular glass lenses. While wearing the spectacles, you gain a +2 item bonus to [[Decipher Writing]].
 

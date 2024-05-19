@@ -8,6 +8,5 @@ tags:
 ---
 
 # Gloomseer
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Gloom holds few terrors for you, and the pall of darkness over Nidal has made you comfortable in dim light. You gain [[Low-Light Vision]].

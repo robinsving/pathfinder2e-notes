@@ -8,7 +8,6 @@ tags:
 ---
 
 # Heat Wave
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An effect would deal fire damage to you, even if you resist all the damage.
 

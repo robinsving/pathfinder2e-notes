@@ -8,7 +8,6 @@ tags:
 ---
 
 # Snap Out Of It! (Pathfinder Agent)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Pathfinders are trained to help each other be safe and successful, and you know how to jolt your allies back to their senses. Attempt a Medicine check on an adjacent ally who is fascinated, frightened, stunned, or stupefied and choose one of those conditions. The DC is the DC for the effect that caused the condition.
 

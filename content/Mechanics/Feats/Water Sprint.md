@@ -8,7 +8,6 @@ tags:
 ---
 
 # Water Sprint
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 Experience and training have taught you that water has just enough surface tension for a master sprinter to traverse the surface.
 

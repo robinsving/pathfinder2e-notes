@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cresset of Grisly Interrogation
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This iron cresset appears as a cage-like basket with a metal bowl fitted into its base-a bowl sized perfectly to hold the severed head of a Medium or Small humanoid.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Mechanical Symbiosis
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Whether you purposefully took it on or had it thrust upon you, a bronze, clockwork object latched onto some part of your body. It may have sunk its needles into you or locked its spidery legs around your neck, torso, or upper arm. Some entity or spirit lives in this collection of gears and wires-whether or not other people hear its whispers is up to you. The entity may be an ancient, terrible being that has razed villages with its hosts, or it may be a brilliant, starry-eyed child who barely understands you're not part of its own body.
 

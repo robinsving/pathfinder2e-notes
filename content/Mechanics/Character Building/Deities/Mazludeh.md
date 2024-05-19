@@ -9,7 +9,6 @@ tags:
 ---
 
 # Mazludeh
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Mazludeh was once one among many empyreal lords, responsible for the domains of community stewardship and loving sacrifice. However, her actions during Earthfall and the Age of Darkness saved untold lives in Mwangi. Dismayed by the chaos and loss of life, Mazludeh spurred her fellow empyreal lords into action, forming a divine concordance that protected the Garundi nation of Holomog from devastation. Mazludeh's efforts elevated her to true divinity and the status of the matron goddess of the nation of Holomog. Now the goddess of negotiations and treaties, her followers often travel with merchants and ambassadors. She is also considered the diplomat to the other empyreal lords, able to pass on prayers to those most suited to answer them and persuade celestial beings to see to their fulfillment. Throughout the Mwangi, worshippers of Mazludeh have developed a reputation for being brave, empathetic, and fair even to their enemies.
 

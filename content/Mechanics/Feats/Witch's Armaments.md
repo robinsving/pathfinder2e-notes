@@ -8,7 +8,6 @@ tags:
 ---
 
 # Witch's Armaments
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your patron's power changes your body to ensure you are never defenseless. You gain one of the following unarmed attacks.
 

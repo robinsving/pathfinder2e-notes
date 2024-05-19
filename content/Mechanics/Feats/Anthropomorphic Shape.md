@@ -8,6 +8,5 @@ tags:
 ---
 
 # Anthropomorphic Shape
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Humanoids' supposed place apart from animals is folly—taking on their forms just requires some extra practice. You add the shapes listed in [[Humanoid Form]] to your [[Untamed Form]] list.

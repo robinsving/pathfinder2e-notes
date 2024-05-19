@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spot Translate
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** Another creature within 60 feet uses a linguistic effect in a language you understand.
 

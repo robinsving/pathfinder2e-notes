@@ -8,6 +8,5 @@ tags:
 ---
 
 # Improved Hijack Undead
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Undead creatures find it all but impossible to resist your commands. When you use Hijack Undead, if the undead fails its save, it becomes your minion for 10 minutes. If it critically fails, it becomes your minion for 24 hours.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cantrip Expansion
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Bard, Oracle, Sorcerer** Study broadens your range of simple spells.
 

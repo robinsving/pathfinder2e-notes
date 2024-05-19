@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bolka
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Bolka is the dwarven goddess of marriage. She is the daughter of the dwarven god Torag and his wife Folgrit. Bolka is said to be a beautiful dwarven maiden. As the dwarves' goddess of marriage she helps reluctant suitors summon the courage to ask out their partner and helps foster love between the partners in an arranged marriage.
 

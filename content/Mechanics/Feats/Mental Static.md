@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mental Static
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You roll a critical success on a Will save against a mental effect from a creature.
 

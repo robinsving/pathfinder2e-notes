@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ghoul Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have succumbed to ghoul fever, dying and returning as a ghoul, an undead cursed with a never-ending hunger for dead flesh that slowly overrides your reason and willpower until you would do anything for the meal you crave. In addition to the personality changes, your body changes as well. Your ears become pointed, and your skin grows blueish and pale. Your fingernails sharpen into claws; your teeth become razor sharp, ready to tear flesh off the bone; and your tongue grows long and pointed.
 

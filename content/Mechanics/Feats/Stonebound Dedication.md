@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stonebound Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You bind yourself to the very essence of stone. You become trained in Plane of Earth Lore and learn the Terran language. If you are already trained in Plane of Earth Lore, you become trained in a skill of your choice. If you already speak Terran, you learn a common language of your choice. Increase your maximum Hit Points by your level.
 

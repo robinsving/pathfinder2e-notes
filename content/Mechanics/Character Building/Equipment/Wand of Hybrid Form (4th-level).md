@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Hybrid Form (4th-level)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 The grain of this simple wooden wand forms shifting images of sharp claws, snapping jaws, and countless creatures.
 

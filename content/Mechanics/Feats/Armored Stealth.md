@@ -8,7 +8,6 @@ tags:
 ---
 
 # Armored Stealth
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have learned techniques to adjust and modify your armor and movements to reduce the noise you make.
 

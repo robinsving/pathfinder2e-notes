@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rock Rampart
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Drawing on your connection to the Plane of Earth, you form a wall of rock and earth. This has the effect of _[[Wall of Stone]]_, but the wall's maximum length is 40 feet. The wall lasts until the end of your next turn, but you can Sustain it up to 1 minute.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Courier
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 In your youth, you earned coin running messages for persons of wealth and influence, darting through crowded cobblestone streets. Your dogged commitment to deliver your message was good training for the life of an adventurer.
 

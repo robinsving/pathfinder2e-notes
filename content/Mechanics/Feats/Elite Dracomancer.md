@@ -8,7 +8,6 @@ tags:
 ---
 
 # Elite Dracomancer
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your magic rivals that of lesser dragons. Choose one 3rd-level spell and one 4th-level spell from those listed for a dragon spellcaster of your draconic exemplar's type (such as _[[Paralyze]]_ and _[[Stinking Cloud]]_ for a black dragon exemplar).
 

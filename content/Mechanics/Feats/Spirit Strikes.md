@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spirit Strikes
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your connection to the Boneyard empowers you to bring death to all forms of life and unlife, exploiting their weaknesses.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Extra Lung
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 An _extra lung_ is a waterproofed bladder of air worn in an underarm holster, connected to the wearer's nose by a long tube. You can use it as a source of air instead of breathing in the air around you. It can hold 5 rounds' worth of breathable air, and can be refilled if the _extra lung_ is left open for 10 minutes in an environment with suitable air.
 

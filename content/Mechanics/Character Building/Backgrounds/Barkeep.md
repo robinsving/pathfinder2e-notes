@@ -9,7 +9,6 @@ tags:
 ---
 
 # Barkeep
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You have five specialties: hefting barrels, drinking, polishing steins, drinking, and drinking. You worked in a bar, where you learned how to hold your liquor and rowdily socialize.
 

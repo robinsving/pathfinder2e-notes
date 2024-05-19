@@ -8,7 +8,6 @@ tags:
 ---
 
 # Instrument Of Slaughter
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your blade ally thirsts for the blood of your foes.
 

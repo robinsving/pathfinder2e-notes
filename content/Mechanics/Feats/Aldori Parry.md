@@ -8,7 +8,6 @@ tags:
 ---
 
 # Aldori Parry
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are wielding only an Aldori dueling sword and have your other hand or hands free.
 

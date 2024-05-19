@@ -8,7 +8,6 @@ tags:
 ---
 
 # Say That Again!
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An opponent gets a critical failure when attempting to [[Demoralize]] you or Lie to you.
 

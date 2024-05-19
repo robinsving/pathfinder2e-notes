@@ -8,6 +8,5 @@ tags:
 ---
 
 # Expert Beast Gunner Spellcasting
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've learned the deeper secrets of beast guns, making you an expert in the magic they grant you. You gain the [[Spellcasting Archetypes#Expert Spellcasting Feat|Expert Spellcasting Feat]] benefits.

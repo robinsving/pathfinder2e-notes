@@ -8,7 +8,6 @@ tags:
 ---
 
 # Perfect Shot
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are wielding a loaded ranged weapon with reload 1 or more, and you have not reloaded your weapon since your last turn.
 

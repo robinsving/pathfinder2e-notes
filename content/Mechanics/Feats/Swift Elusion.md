@@ -8,7 +8,6 @@ tags:
 ---
 
 # Swift Elusion
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A foe ends its movement adjacent to you.
 

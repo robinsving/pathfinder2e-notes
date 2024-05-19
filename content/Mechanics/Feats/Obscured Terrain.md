@@ -8,6 +8,5 @@ tags:
 ---
 
 # Obscured Terrain
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you cast obscuring mist, you can modify the spell to replace its standard effects with the following: You cause a cloud of thick fog to blanket the area, making it difficult to see the ground. The area within the fog is difficult terrain for creatures that can't see through fog or mist. You can Dismiss the cloud.

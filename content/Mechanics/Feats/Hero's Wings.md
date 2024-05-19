@@ -8,6 +8,5 @@ tags:
 ---
 
 # Hero's Wings
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have begun the final steps to reaching your full potential. Your wings are always in their majestic form without you needing to use [[Energize Wings]], granting you a permanent fly Speed. Furthermore, sprites recognize you as a powerful hero (or villain) by your unique wings and are appropriately impressed. You gain a +2 circumstance bonus on all Diplomacy and Intimidation checks against sprites and gain the benefits of the [[Glad-Hand]] skill feat against other sprites, without taking a -5 penalty to your Diplomacy check.

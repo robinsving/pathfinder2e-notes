@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Mercy (4th-level)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 The pommel of this rose quartz wand resembles the stylized wings of an angel. When you cast its spell and choose not to make it nonlethal, the crystal deepens to blood red. The color reverts to rose when you cast the spell from the wand nonlethally.
 

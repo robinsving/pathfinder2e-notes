@@ -8,7 +8,6 @@ tags:
 ---
 
 # Acclimatization
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your time spent in the hostile parts of the world has inured you to extreme climates.
 

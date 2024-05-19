@@ -8,7 +8,6 @@ tags:
 ---
 
 # Brain Drain
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 With a wresting of will, you siphon off a creature's mental energy to replenish your own. One non-mindless creature within 30 feet must attempt a DC resolve will save against your spell DC.
 

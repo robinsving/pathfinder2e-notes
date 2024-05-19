@@ -8,7 +8,6 @@ tags:
 ---
 
 # Clinging Ooze Snare
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 Complex traps that incorporate ooze monsters into their ingenious construction have long been a favorite of those who seek devious ways to protect their hidden laboratories, and it is from this tradition that the clinging ooze snare takes its inspiration. With its ingenious mixture of rare reagents, dried protoplasm harvested from ooze creatures, and a little pinch of alchemy, this snare triggers into an ooze-like hazard that temporarily mimics the dangers presented by a creature like a sewer ooze or other carnivorous protoplasmic monster.
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Natural Skill
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your ingenuity allows you to learn a wide variety of skills. You gain the trained proficiency rank in two skills of your choice.

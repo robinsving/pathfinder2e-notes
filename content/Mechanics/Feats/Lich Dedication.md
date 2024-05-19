@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lich Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 After years of study and careful planning, you finally completed a soul cage to house your soul and successfully performed a ritual to transform yourself into a lich. Now, neither death nor time can prevent you from pursuing your studies and achieving your grand ambitions. You gain the undead trait and the basic undead benefits. Your undead craving is for knowledge.
 

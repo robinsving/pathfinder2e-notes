@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ghostly Resistance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your ghostly form becomes innately weaker but also gains resistance to many forms of damage. Your maximum HP is reduced by your level. You gain resistance 1 to all damage except for force, vitality, and any damage done by a weapon with the ghost touch rune (or any other source that acts like a ghost touch rune). This resistance increases to 2 if the source is non-magical.
 

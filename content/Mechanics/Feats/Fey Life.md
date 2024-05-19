@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fey Life
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 There are some fates worse than death-and you worked to save a fey from one such fate. In return, your life became bound to theirs. Fey magic has since become a part of you, bringing the vibrant colors of the First World to you and all that surrounds you. Your skin, hair, all that you touch, and anything within 5 feet of you changes to the most brilliant hues possible, though the colors fade as you cease to touch an object or you move away. You gain the ability to cast _[[Summon Fey]]_ as a 7th-level primal innate spell once per day. At 18th level the spell heightens to 8th level, and at 20th level it heightens to 9th level.
 

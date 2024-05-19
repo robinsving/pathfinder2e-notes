@@ -8,7 +8,6 @@ tags:
 ---
 
 # Crown of the Kobold King
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Originally, this magical crown was to be known as the Crown of Toil-a magic item crafted by the dwarven priest named Gristogar. He intended for the crown to bolster his ability to rule and herald in a new era of a dwarven kingdom that followed the teachings of Droskar. Yet Gristogar wasn't equal to his own ambitions, and before he could complete the Crown of Toil, his cult died out and he ended his own life. For centuries, the incomplete crown lay dormant, but over that time, fragments of Gristogar's soul infused it-not enough to transform it into a truly intelligent item, but enough to give it a rudimentary need and desire to be completed.
 

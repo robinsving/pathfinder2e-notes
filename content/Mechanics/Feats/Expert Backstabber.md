@@ -8,7 +8,6 @@ tags:
 ---
 
 # Expert Backstabber
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you Strike an [[Off-Guard]] foe with a weapon that has the backstabber weapon trait, you deal 2 extra precision damage instead of 1.
 

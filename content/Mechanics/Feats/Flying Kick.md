@@ -8,7 +8,6 @@ tags:
 ---
 
 # Flying Kick
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You launch yourself at a foe. Make a [[Leap]] or attempt a [[High Jump]] or [[Long Jump]].
 

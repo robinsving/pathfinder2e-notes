@@ -8,7 +8,6 @@ tags:
 ---
 
 # Linguist Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have studied languages and their development. You become trained in Society; if you were already trained in Society, you instead become an expert in Society. You gain the [[Multilingual]] skill feat twice.
 

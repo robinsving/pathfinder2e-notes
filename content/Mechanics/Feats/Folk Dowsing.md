@@ -8,7 +8,6 @@ tags:
 ---
 
 # Folk Dowsing
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can find what you're looking for using a dowsing rod or pendulum. If you Search while wielding a dowsing rod or pendulum, in addition to the normal checks for Searching, the GM rolls a secret Survival check for you to detect the largest source of water, oil, or another natural non-bodily fluid in the area. Even if the liquid is [[Concealed]] from you-for example, if it stems from an underground spring or is piped through a wall-this technique points you in the right direction. The GM determines the DC, which is usually the trained simple DC with a hard or very hard adjustment if the source of water is small.
 

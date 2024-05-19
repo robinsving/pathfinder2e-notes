@@ -9,7 +9,6 @@ tags:
 ---
 
 # Tax Collector
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Reviled but required, you were sent when taxes were due. Performing your job might have required travel and persuasion, or perhaps you were responsible for collecting taxes on trade. Either way, it sometimes meant dirty hands, and adventuring seemed the next logical step to you.
 

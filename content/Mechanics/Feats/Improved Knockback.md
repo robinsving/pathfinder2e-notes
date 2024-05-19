@@ -8,7 +8,6 @@ tags:
 ---
 
 # Improved Knockback
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you successfully [[Shove]] a creature, increase both the distance you can push the creature and the distance you can move to follow along with the target by 5 feet on a success or 10 feet on a critical success.
 

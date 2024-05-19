@@ -8,7 +8,6 @@ tags:
 ---
 
 # Volatile Grease
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you cast grease, you can modify its target to be 1 creature. If you do, replace the spell's standard effects with the following: You splash the target with combustible grease. The target must attempt a Reflex save.
 

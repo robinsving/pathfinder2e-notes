@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ultimate Flexibility
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your experience keeps you on your toes, helping you adopt complex strategies on the fly and face the most dangerous challenges. When you gain a fighter feat using combat flexibility, you gain three fighter feats instead of two. While the first feat must still be 8th level or lower, the second feat can be up to 14th level, and the third feat can be up to 18th level.
 

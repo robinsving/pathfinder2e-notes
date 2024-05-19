@@ -9,7 +9,6 @@ tags:
 ---
 
 # Friend of Greensteeples
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You're a good friend of Benedet, the majordomo of Greensteeples Manor in Egorian, Cheliax. You've learned a thing or two about surviving against all odds thanks to your close association with House Jeggare and the clandestine Pathfinder Society operations based out of Greensteeples.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Voice Cold as Death
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are not [[Fatigued]].
 

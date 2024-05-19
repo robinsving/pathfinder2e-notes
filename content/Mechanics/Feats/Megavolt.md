@@ -8,7 +8,6 @@ tags:
 ---
 
 # Megavolt
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You bleed off some electric power from your innovation in the shape of a damaging bolt. Creatures in a 20 foot line from your innovation take 3d4 electricity damage, with a DC resolve reflex{leveled electricity damage}
 

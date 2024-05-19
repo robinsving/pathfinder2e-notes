@@ -8,7 +8,6 @@ tags:
 ---
 
 # Elven Weapon Familiarity
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You favor bows and other elegant weapons. You gain access to all uncommon weapons with the elf trait. You have familiarity with weapons with the elf trait plus [[Longbow|Longbows]], [[Composite Longbow|Composite Longbows]], [[Rapier|Rapiers]], [[Shortbow|Shortbows]], and [[Composite Shortbow|Composite Shortbows]]—for the purposes of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
 

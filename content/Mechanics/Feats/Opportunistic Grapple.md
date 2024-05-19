@@ -8,7 +8,6 @@ tags:
 ---
 
 # Opportunistic Grapple
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** Your prey is within your reach, you have at least one free hand, and your target is no more than one size larger than you.
 

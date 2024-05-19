@@ -9,7 +9,6 @@ tags:
 ---
 
 # Wards of the Pharaoh
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Edicts** Use magic to defend yourself and your allies, maintain magical wards, seek greater magical knowledge
 

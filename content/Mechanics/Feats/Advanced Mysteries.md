@@ -8,7 +8,6 @@ tags:
 ---
 
 # Advanced Mysteries
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain one oracle feat. For meeting its prerequisites, your oracle level is equal to half your level.
 

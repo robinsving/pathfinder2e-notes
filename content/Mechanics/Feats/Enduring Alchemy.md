@@ -8,7 +8,6 @@ tags:
 ---
 
 # Enduring Alchemy
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've learned how to make your personal energy last just a little bit longer when quickly brewing ad hoc concoctions.
 

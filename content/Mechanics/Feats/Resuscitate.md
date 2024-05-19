@@ -8,7 +8,6 @@ tags:
 ---
 
 # Resuscitate
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are holding a [[Healer's Toolkit]] or are wearing them and have a hand free. Also, the target's body is mostly intact.
 

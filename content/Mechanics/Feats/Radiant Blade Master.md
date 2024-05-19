@@ -8,7 +8,6 @@ tags:
 ---
 
 # Radiant Blade Master
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your divine ally turns your chosen weapon into a paragon of its type.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Target of Psychic Ire
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your magic saturates your surroundings with hateful psychic energy. Use this amp in place of a psi cantrip's normal amp entry. The cantrip must be one that takes 2 or more actions to cast and targets a creature.
 

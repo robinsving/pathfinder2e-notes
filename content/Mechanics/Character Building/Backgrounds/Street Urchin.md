@@ -9,7 +9,6 @@ tags:
 ---
 
 # Street Urchin
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You eked out a living by picking pockets on the streets of a major city, never knowing where you'd find your next meal. While some adventure for the glory, you do so to survive.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Field Medic
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 In the chaotic rush of battle, you learned to adapt to rapidly changing conditions as you administered to battle casualties. You patched up soldiers, guards, or other combatants, and learned a fair amount about the logistics of war.
 

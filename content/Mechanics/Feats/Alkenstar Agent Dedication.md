@@ -8,7 +8,6 @@ tags:
 ---
 
 # Alkenstar Agent Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Access** You have been initiated by the grand duchess of Alkenstar or one of her agents.
 

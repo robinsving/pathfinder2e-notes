@@ -8,7 +8,6 @@ tags:
 ---
 
 # Strident Command
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The common folk heed your demands, and though your true foes rarely bend to your commands, when they do the hesitation can cost them the battle. You can cast _[[Command]]_ once every 10 minutes as a 1st-level occult innate spell.
 

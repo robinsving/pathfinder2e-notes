@@ -8,7 +8,6 @@ tags:
 ---
 
 # Swift River
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** Your turn ends and you have a status penalty to your Speed or are [[Immobilized]] or [[Slowed|Slowed]]
 

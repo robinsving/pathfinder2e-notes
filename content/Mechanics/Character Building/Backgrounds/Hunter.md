@@ -9,7 +9,6 @@ tags:
 ---
 
 # Hunter
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You stalked and took down animals and other creatures of the wild. Skinning animals, harvesting their flesh, and cooking them were also part of your training, all of which can give you useful resources while you adventure.
 

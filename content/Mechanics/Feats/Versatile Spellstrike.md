@@ -8,7 +8,6 @@ tags:
 ---
 
 # Versatile Spellstrike
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can channel the entire realm of possibilities of your spellbook into an attack.
 

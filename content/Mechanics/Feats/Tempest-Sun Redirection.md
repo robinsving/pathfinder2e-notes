@@ -8,6 +8,5 @@ tags:
 ---
 
 # Tempest-Sun Redirection
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 If the next action you use is to Cast a Spell from your spell slots that damages other creatures, you can bend some of that spell's offensive energy, protecting allies in the area and boosting your own defenses against certain foes. Select any number of targets of the spell and reduce the spell's damage to those targets by an amount equal to the spell's level. Until your next turn, when one of those targets damages you, that damage is reduced by twice the spell's level.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Carver-cutter (True)
-![[systems-pf2e-icons-default-icons-weapon.svg|150]]
 
 Many of the experienced woodcarvers of the Plane of Wood learn to fight as well, the better to travel into hazardous areas in search of rare and beautiful types of wood for their craft. A _carver-cutter_ serves a dual role as a weapon and a tool for felling trees and engraving wood. The _+3 keen greater striking battle axe_ looks like an exquisitely made woodcutting axe.
 

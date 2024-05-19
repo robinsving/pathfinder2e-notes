@@ -8,6 +8,5 @@ tags:
 ---
 
 # Greater Merciful Elixir
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your additives contain panaceas that can remedy a plethora of maladies. When you use [[Merciful Elixir]], your elixir can instead attempt to counteract the [[Blinded]], [[Deafened]], [[Sickened 1|Sickened]], or [[Slowed|Slowed]] condition.

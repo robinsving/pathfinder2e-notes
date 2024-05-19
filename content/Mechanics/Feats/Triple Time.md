@@ -8,6 +8,5 @@ tags:
 ---
 
 # Triple Time
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You learn the _[[Triple Time]]_ composition cantrip, which speeds up you and your allies for a round.

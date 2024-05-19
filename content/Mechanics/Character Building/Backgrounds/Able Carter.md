@@ -9,7 +9,6 @@ tags:
 ---
 
 # Able Carter
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You worked for many years as a hauler within Geb, either on your own or with a larger operation that shipped goods across Geb's ancient roads. In either case, you were loosely affiliated with the Carters Consortium, and you might have even been part of that faction when allegations of Pharasma worship among its leaders caused the faction's sharp drop in significance.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Eclectic Sword Training
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You were always taught that you needed to be able to use whatever weapon came your way. You can change any of the swords designated in your Tengu Weapon Familiarity to different swords that meet the same specifications.
 

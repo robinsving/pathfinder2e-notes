@@ -9,7 +9,6 @@ tags:
 ---
 
 # The Prismatic Ray
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Edicts** Create works that inspire good acts, defend those who cannot defend themselves, pursue evil
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dragonslayer Oath
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've sworn to slay wicked and nefarious dragons. You gain following edict: "You must slay dragons whose actions are in direct opposition to your deity's edicts when you encounter them as long as you have a reasonable chance of success."
 

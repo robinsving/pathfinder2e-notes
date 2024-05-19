@@ -8,6 +8,5 @@ tags:
 ---
 
 # Ultimate Polymath
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can flexibly cast all of your spells, granting a dizzying array of possible options. All of the spells in your repertoire are signature spells for you.

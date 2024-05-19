@@ -8,7 +8,6 @@ tags:
 ---
 
 # Debilitating Venom
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your venom is particularly potent, affecting targets in different ways. When you gain this feat, select one of the following debilitations. When you use Envenom, you can choose to apply a debilitation to your venom to adjust its effects. The changes to each stage of the venom are listed. You can apply only one debilitation to your venom.
 

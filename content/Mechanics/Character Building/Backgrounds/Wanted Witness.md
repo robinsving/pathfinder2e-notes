@@ -9,7 +9,6 @@ tags:
 ---
 
 # Wanted Witness
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You saw something you shouldn't have, plain and simple. The shame is that you don't even know what it is, exactly, that you saw.
 

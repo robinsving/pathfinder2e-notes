@@ -8,7 +8,6 @@ tags:
 ---
 
 # Kaldemash's Lament
-![[systems-pf2e-icons-default-icons-weapon.svg|150]]
 
 Resembling little more than a simple iron pipe with a handle, _Kaldemash's Lament_ is one of the most well-known star guns in all of Arcadia. Legends state the Crowned Regent Kaldemash helped forge one of the first star guns millennia ago. While the star gun served Kaldemash as a powerful weapon, its most notable achievement was the accidental killing of one of Kaldemash's greatest friends. This death is what caused the regent to recognize the true destructive power of the star guns and led to him developing the Star Code, a set of rules of engagement and proper use of firearms still in use in Arcadia today. Although Kaldemash never named the weapon himself, all legends that mention the weapon refer to it as _Kaldemash's Lament_.
 

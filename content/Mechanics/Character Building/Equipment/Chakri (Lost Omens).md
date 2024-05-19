@@ -8,6 +8,5 @@ tags:
 ---
 
 # Chakri (Lost Omens)
-![[systems-pf2e-icons-default-icons-weapon.svg|150]]
 
 A chakri is a small, circular throwing weapon with a sharp outer edge.

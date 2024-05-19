@@ -8,6 +8,5 @@ tags:
 ---
 
 # Scaling Poppet
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your construction integrates ropes, hooks, or other tools to help you move across steep surfaces. You gain a climb Speed of 15 feet.

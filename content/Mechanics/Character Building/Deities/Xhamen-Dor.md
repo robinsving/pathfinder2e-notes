@@ -9,7 +9,6 @@ tags:
 ---
 
 # Xhamen-Dor
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Xhamen-Dor, the living cancer, was born in the sewers beneath Carcosa, the alien city that is the home of [[Hastur]]. Somehow, this Great Old One was transported to Golarion within a comet, crashing into the bottom of a lake during the devastation of Earthfall. Physically, it manifests as a twisting and vaguely serpentine-shaped mass of bone, hair, and fungus.
 

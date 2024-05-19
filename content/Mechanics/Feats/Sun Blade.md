@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sun Blade
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Access** The following class feat is available to Knights of Lastwall.
 

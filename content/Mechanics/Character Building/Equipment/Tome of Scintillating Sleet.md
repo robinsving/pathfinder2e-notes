@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tome of Scintillating Sleet
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 The first 12 pages of this tome tell the same story in two languages: 6 pages in Skald and 6 pages in the ancient Jotun dialect used by saumen kar, a species of ice-dwelling humanoids. The story is a tale of a saumen kar stricken with snow blindness after spending too long under the sun building snow giants.
 

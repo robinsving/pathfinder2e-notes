@@ -8,6 +8,5 @@ tags:
 ---
 
 # Gnoll Weapon Familiarity
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You were taught to be a hunter and a raider. You are trained with [[Flail]], [[Khopesh]], [[Mambele]], [[Spear]], and [[War Flail]].

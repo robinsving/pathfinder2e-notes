@@ -8,6 +8,5 @@ tags:
 ---
 
 # Vanth's Weapon Familiarity
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You seek to emulate vanth reapers' fighting styles. You are trained with [[Bo Staff|Bo Staves]], [[Longbow|Longbows]], [[Composite Longbow|Composite Longbows]], [[Scythe|Scythes]], and [[Staff|Staves]].

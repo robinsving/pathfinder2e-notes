@@ -9,7 +9,6 @@ tags:
 ---
 
 # Folklore Enthusiast
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Willowshore is a small town in a rural part of Shenmen, but that doesn't exempt it from the world of the strange and unexplained. There are plenty of mysterious events and haunting legends about Willowshore or its hinterlands, and as a result of your upbringing, you've become particularly interested in learning more about them. While much of the regional folklore comes from one of Willowshore's many religions and local faiths (of which you might be a practicing member or perhaps instead have a secular interest in the lore), you've noticed that these beliefs also influence artisans and crafters in ways they might not even realize. You're convinced that many of these local beliefs have roots in a deeper, historical event of great significance and hope one day to learn more about Willowshore's true history.
 

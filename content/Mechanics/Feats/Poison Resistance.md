@@ -8,7 +8,6 @@ tags:
 ---
 
 # Poison Resistance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Alchemist** Repeated exposure to toxic reagents has fortified your body against poisons of all kinds.
 

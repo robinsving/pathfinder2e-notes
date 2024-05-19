@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mobile Magical Combat
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You're wielding a melee weapon and have Cast a Spell requiring at least 1 action this turn.
 

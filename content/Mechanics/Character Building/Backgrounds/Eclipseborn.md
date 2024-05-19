@@ -9,7 +9,6 @@ tags:
 ---
 
 # Eclipseborn
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You were born at the exact moment of a solar or lunar eclipse. At the eclipse's junction, or not long after, a catastrophe fell upon the area of your birth-perhaps it affected only the people around you, a city, or even spanned the entire region. Whatever the scope, those present at your arrival came to believe the eclipse was the omen of ill fortune, and you were its harbinger. You grew up distinctly aware others viewed you as a child of misfortune and, to a certain extent, they were right.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Reclaim Spell
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have learned to manipulate reflections of magic, similar to the resonant reflections. You reclaim the magic of an ongoing spell, using it reprepare a spell with a duration.
 

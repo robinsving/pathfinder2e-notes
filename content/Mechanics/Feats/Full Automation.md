@@ -8,7 +8,6 @@ tags:
 ---
 
 # Full Automation
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You become so entwined with your innovations that you can use them without a second thought. You're permanently [[Quickened]]. How you can use the extra action depends on your innovation.
 

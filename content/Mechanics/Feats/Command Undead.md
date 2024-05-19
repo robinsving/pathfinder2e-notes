@@ -8,7 +8,6 @@ tags:
 ---
 
 # Command Undead
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You grasp the animating force within an undead creature and bend it to your will.
 

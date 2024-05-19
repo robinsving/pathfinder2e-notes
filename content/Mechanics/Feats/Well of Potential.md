@@ -8,7 +8,6 @@ tags:
 ---
 
 # Well of Potential
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Frequency** once per day
 

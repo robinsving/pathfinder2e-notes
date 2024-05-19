@@ -9,7 +9,6 @@ tags:
 ---
 
 # Money Counter
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 The wealthiest of all the factions in Geb is the Tax Collectors Union, but it's the money counters in its banks and vaults that keep the numbers tallied. You used to work as one of these drudges who counted other people's money all day, until you decided to slip some unaccounted coins into your own pocket. You weren't caught, but you knew it would only be a matter of time before you felt the Union's wrath if you remained employed. You took the next opportunity to leave with both your official and unofficial final payments.
 

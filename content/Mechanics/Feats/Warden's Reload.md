@@ -8,7 +8,6 @@ tags:
 ---
 
 # Warden's Reload
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Frequency** once per round
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Entities From Afar
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can call in aberrations to fight for you or to answer questions. You can cast _[[Summon Entity]]_ as an innate occult spell once per day. If you couldn't already cast occult spells, these spells use Intelligence as your spellcasting ability, and you become trained in spell attack rolls and spell DCs for occult spells; if you could already cast occult spells, your proficiency in spell attack rolls and spell DCs for occult spells increases to expert.
 

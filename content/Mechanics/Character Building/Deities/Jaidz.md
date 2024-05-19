@@ -9,7 +9,6 @@ tags:
 ---
 
 # Jaidz
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Jaidz** is a powerful agathion Empyreal lord who seeks to inspire courage in the cowardly and immature through compassion and guidance.
 

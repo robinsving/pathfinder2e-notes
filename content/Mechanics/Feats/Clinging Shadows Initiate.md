@@ -8,7 +8,6 @@ tags:
 ---
 
 # Clinging Shadows Initiate
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You learn a mystical stance that transforms your ki into sticky smoke that shrouds your limbs, clinging to everything you touch.
 

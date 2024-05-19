@@ -8,7 +8,6 @@ tags:
 ---
 
 # Empathy Charm
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This charm, usually placed on an animal companion's collar, contains a single strand of your hair, as well as one of your animal companion's, creating a link that better transmits emotional cues to a trained psychological assistance animal.
 

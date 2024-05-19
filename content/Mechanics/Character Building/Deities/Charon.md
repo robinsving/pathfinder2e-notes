@@ -9,7 +9,6 @@ tags:
 ---
 
 # Charon
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 The First Horseman, eldest of his counterparts and the Boatman of the Styx, is a patient and cunning figure. Content to allow plans to take hold over time, Charon freely offers his power only to collect on his bargain decades or even centuries later. As the Horseman of Death, Charon concerns himself with miserable, pointless deaths that are devoid of any faith, mercy, or meaning, dragging those who perish in the depths of hopelessness and nihilism down into Abaddon and oblivion.
 

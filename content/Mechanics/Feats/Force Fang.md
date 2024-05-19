@@ -8,7 +8,6 @@ tags:
 ---
 
 # Force Fang
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can turn your attack into an unerring blur of force. You learn the _[[Force Fang]]_ conflux spell.
 

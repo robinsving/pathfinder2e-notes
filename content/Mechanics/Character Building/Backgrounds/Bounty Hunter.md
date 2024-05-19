@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bounty Hunter
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Bringing in lawbreakers lined your pockets. Maybe you had an altruistic motive and sought to bring in criminals to make the streets safer, or maybe the coin was motivation enough. Your techniques for hunting down criminals transfer easily to the life of an adventurer.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Poisoner Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You make a point of always having a few toxins near at hand-you never know when some arsenic or the like might prove useful.
 

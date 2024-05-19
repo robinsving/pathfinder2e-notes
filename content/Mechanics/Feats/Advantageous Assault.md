@@ -8,7 +8,6 @@ tags:
 ---
 
 # Advantageous Assault
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 After compromising your enemy's movement, you deliver a more deadly blow. Make a Strike against a creature that is [[Grabbed]], [[Prone]], or [[Restrained]]. You gain a circumstance bonus to damage on this Strike equal to the number of weapon damage dice, or that number + 2 if you're wielding the weapon in two hands. The Strike gains the following failure effect.
 

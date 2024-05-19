@@ -8,7 +8,6 @@ tags:
 ---
 
 # Peafowl Stance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are wielding a sword that has the monk trait in one hand.
 

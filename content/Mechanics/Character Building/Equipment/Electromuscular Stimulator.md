@@ -8,7 +8,6 @@ tags:
 ---
 
 # Electromuscular Stimulator
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 **Activate**d Interact
 

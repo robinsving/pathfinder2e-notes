@@ -8,7 +8,6 @@ tags:
 ---
 
 # Loremaster Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've compiled a vast repository of information that touches on nearly every subject. You are trained in Loremaster Lore, a special Lore skill that can be used only to [[Recall Knowledge]], but on any topic.
 

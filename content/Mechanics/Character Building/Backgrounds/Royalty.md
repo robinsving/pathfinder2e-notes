@@ -9,7 +9,6 @@ tags:
 ---
 
 # Royalty
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You are a prominent member of a royal family. You have taken up the life of an adventurer-perhaps you're a deposed queen hoping to regain her throne, a prince seeking a more exciting life, or a princess on a secret mission.
 

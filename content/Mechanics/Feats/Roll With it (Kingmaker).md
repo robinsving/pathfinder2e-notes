@@ -8,7 +8,6 @@ tags:
 ---
 
 # Roll With it (Kingmaker)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** Your hunted prey, which must be a giant, hits you with a melee attack.
 

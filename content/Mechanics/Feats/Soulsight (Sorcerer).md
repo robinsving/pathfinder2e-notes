@@ -8,7 +8,6 @@ tags:
 ---
 
 # Soulsight (Sorcerer)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The spiritual essence in your blood has opened your senses to the world beyond. You gain spiritsense as an imprecise sense with a range of 60 feet.
 

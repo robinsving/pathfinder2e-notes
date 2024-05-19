@@ -8,7 +8,6 @@ tags:
 ---
 
 # Topple Foe
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An ally succeeds at a melee Strike against an opponent you are both adjacent to.
 

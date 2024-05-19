@@ -9,7 +9,6 @@ tags:
 ---
 
 # Savior of Air
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Upon securing the _Untouchable Opal_, an artifact of extraordinary power, the Pathfinder Society endeavored to free the benevolent demigod Ranginori, who was trapped within the virtually unbreakable prison. You might have joined the Pathfinder Society in its expeditions to the Elemental Planes, or you might have lived on one of those planes before learning of the Society from these Pathfinder agents. You are no stranger to navigating precarious terrain as a result.
 

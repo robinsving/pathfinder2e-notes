@@ -8,7 +8,6 @@ tags:
 ---
 
 # Multilingual Cipher
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You use multiple languages to create and break codes. You gain a +1 circumstance bonus to [[Decipher Writing]].
 

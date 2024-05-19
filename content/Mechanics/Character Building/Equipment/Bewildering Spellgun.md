@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Bewildering Spellgun
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 **Activate** 2 Interact, Strike
 

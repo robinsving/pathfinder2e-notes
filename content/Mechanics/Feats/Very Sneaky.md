@@ -8,7 +8,6 @@ tags:
 ---
 
 # Very Sneaky
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 Taller folk rarely pay attention to the shadows at their feet, and you take full advantage of this. You can move 5 feet farther when you take the [[Sneak]] action, up to your Speed.
 

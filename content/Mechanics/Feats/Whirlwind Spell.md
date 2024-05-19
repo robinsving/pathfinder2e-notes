@@ -8,7 +8,6 @@ tags:
 ---
 
 # Whirlwind Spell
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** Your Spellstrike is charged.
 

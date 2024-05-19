@@ -8,6 +8,5 @@ tags:
 ---
 
 # Double Prey
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can focus on two foes at once, hunting both of them down. When you use the [[Hunt Prey]] action, you can pick two creatures as your prey.

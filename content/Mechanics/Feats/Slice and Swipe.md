@@ -8,7 +8,6 @@ tags:
 ---
 
 # Slice and Swipe
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Access** Help either the Washboard Dogs or the Diobel Sweepers destroy their rival.
 

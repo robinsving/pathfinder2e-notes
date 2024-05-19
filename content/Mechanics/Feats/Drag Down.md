@@ -8,7 +8,6 @@ tags:
 ---
 
 # Drag Down
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 While swimming in water at least 10 feet deep, you grab an adjacent creature (on nearby land or in the water) and pull it below the surface.
 

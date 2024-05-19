@@ -8,6 +8,5 @@ tags:
 ---
 
 # Energy Resistance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your eidolon has stronger resistance. Its resistance from Energy Heart and Dual Energy Heart increase to your level.

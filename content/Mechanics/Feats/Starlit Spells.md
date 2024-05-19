@@ -8,6 +8,5 @@ tags:
 ---
 
 # Starlit Spells
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The stars reveal and punish your enemies. You can cast _[[Faerie Fire]]_ and 3rd-level _[[Holy Light]]_ as occult innate spells, each once per day.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Death's Drums
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your life has been spent challenging death itself, and proximity to that implacable foe only makes your heart beat harder.
 

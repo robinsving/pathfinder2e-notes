@@ -8,6 +8,5 @@ tags:
 ---
 
 # Scamper Underfoot
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are used to ducking under foes and can scurry around the battlefield with ease. You gain a +1 circumstance bonus to Acrobatics checks to [[Tumble Through]] the spaces of Medium or larger enemies, and the presence of an enemy doesn't make the squares difficult terrain.

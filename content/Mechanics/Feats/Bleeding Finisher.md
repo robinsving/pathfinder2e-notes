@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bleeding Finisher
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your blow inflicts profuse bleeding. Make a slashing or piercing Strike with a weapon or unarmed attack that allows you to add your precise strike damage.
 

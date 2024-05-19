@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bleachguard Doll
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 **Perception** +16; precise vision (low-light) 30 feet, imprecise hearing 30 feet
 

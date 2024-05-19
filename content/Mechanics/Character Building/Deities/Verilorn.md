@@ -9,7 +9,6 @@ tags:
 ---
 
 # Verilorn
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 ## Custodian Of Oak And Ash
 

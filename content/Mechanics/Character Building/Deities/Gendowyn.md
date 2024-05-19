@@ -9,7 +9,6 @@ tags:
 ---
 
 # Gendowyn
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Gendowyn** is the queen of the fey Accressiel court in the Fangwood.
 

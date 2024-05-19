@@ -8,6 +8,5 @@ tags:
 ---
 
 # Bone Investiture
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You encase yourself in spiritual dinosaur bones to become a Huge dinosaur. You can cast _[[Dinosaur Form]]_ on yourself as a 5th-level primal innate spell once per day.

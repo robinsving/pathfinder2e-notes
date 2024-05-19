@@ -9,7 +9,6 @@ tags:
 ---
 
 # Eritrice
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 The Heart-Speaker Eritrice represents honest debate, opinions, and truth. Facts and information are important to Eritrice, but truths and wisdom gained through discussion are far more valuable to her than those gained through books. She maintains there is nothing wrong with disagreeing so long as the disagreement is respectful, and that it is crucial to be open to discussion, willing to consider new information, and receptive to forming new opinions. Opinions are valuable in that they help understand other views, but Eritrice reminds her followers that opinions are not facts and can be incorrect and even harmful. When lies are spoken or become the rule of the land, those that follow Eritrice work through networks of like-minded individuals to spread the truth using messages sent to all who will listen.
 

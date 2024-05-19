@@ -8,7 +8,6 @@ tags:
 ---
 
 # Focused Fascination
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you use Fascinating Performance in a combat encounter, you need only a success, rather than a critical success, to [[Fascinated|Fascinate]] your target. This works only if you're attempting to fascinate one target.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spike Launcher
-![[systems-pf2e-icons-default-icons-weapon.svg|150]]
 
 Built from the spiked tail of a manticore, a _spike launcher_ is designed to launch large, spear-like projectiles. A _spike launcher_ is a _+1 striking_ weapon. It's a distinct type of martial firearm that deals 1d8 piercing damage. It has the backstabber, fatal aim d12, and kickback traits with a range increment of 120 feet and reload 2. It uses the critical specialization of the bow weapon group, rather than the firearm critical specialization.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Transpose
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You switch places with your eidolon. You each teleport to the other's position.
 

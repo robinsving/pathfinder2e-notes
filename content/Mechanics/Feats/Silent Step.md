@@ -8,6 +8,5 @@ tags:
 ---
 
 # Silent Step
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You vanish with silent treads. You [[Step]], then [[Hide]] or [[Sneak]]. You still need to meet the requirements to Hide or Sneak, as normal.

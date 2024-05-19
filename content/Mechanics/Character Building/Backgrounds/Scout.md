@@ -9,7 +9,6 @@ tags:
 ---
 
 # Scout
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You called the wilderness home as you found trails and guided travelers. Your wanderlust could have called you to the adventuring life, or perhaps you served as a scout for soldiers and found you liked battle.
 

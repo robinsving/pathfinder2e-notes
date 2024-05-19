@@ -8,6 +8,5 @@ tags:
 ---
 
 # Spiritual Flurry
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you use Spiritual Strike, hit targets become [[Off-Guard]] until the end of your current turn. In addition, the additional force damage dealt by the Strike increases by 2d6.

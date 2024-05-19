@@ -8,7 +8,6 @@ tags:
 ---
 
 # Astral Blink
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've attuned your core to allow you to phase in and out of the Astral Plane, allowing you to teleport periodically. You can cast _[[Translocate]]_ once per hour as a 4th-level innate arcane spell.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Work Yourself Up
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You have a reaction available and aren't prevented from using [[Catharsis]].
 

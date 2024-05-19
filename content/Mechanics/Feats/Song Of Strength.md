@@ -8,6 +8,5 @@ tags:
 ---
 
 # Song Of Strength
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your performances inspire strength in your allies to aid them at physical tasks. You learn the _[[Song of Strength]]_ composition cantrip.

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Refugee (APG)
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You come from a land very distant from the one you now find yourself in, driven by war, plague, or simply in the pursuit of opportunity. Regardless of your origin or the reason you left your home, you find yourself an outsider in this new land. Adventuring is a way to support yourself while offering hope to those who need it most.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Paper Shredder
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Whether it's a parchment with ominous pentagrams and dangerous magical symbols inscribed upon it, incriminating legal documents, or just simply paper waste, sometimes you just need to make sure a document is completely destroyed in a way that makes it nearly impossible to read afterwards. Enter the paper shredder, a clockwork device that performs exactly this function.
 

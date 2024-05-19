@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hedge Maze
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You sculpt a manicured maze of hedges. You create a wall of shrubs in a square 30 feet on a side, with 15-foot- high walls. You can place up to four more walls inside, each 10 feet wide and 15 feet high. The hedge lasts until the end of your next turn, and you can Sustain the impulse up to 1 minute.
 

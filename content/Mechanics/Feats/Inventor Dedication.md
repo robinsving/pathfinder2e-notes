@@ -8,7 +8,6 @@ tags:
 ---
 
 # Inventor Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You become trained in Crafting and inventor class DC. You gain the [[Inventor]] skill feat, even if you don't meet the skill feat's requirements. Choose an innovation. You gain that [[Innovation]], though you don't gain any other abilities that modify or use that innovation, such as modifications or Explode.
 

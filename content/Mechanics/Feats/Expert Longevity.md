@@ -8,7 +8,6 @@ tags:
 ---
 
 # Expert Longevity
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've continued to refine the knowledge and skills you've gained through your life. When you choose a skill in which to become trained with [[Ancestral Longevity]], you can also choose a skill in which you are already trained and become an expert in that skill. This lasts until your Ancestral Longevity expires.
 

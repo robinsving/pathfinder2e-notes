@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ceremony of the Evened Hand
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have cultivated your exoskeleton's form for close combat, using knots, whorls, and reinforced branches. When you select this feat, you gain a claws unarmed attack that deals 1d4 slashing damage and has the agile and finesse traits or a branch unarmed attack that deals 1d6 bludgeoning damage and has the backswing trait. Each of these unarmed attacks is in the brawling weapon group and uses one of your hands.
 

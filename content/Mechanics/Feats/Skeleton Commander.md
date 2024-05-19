@@ -8,7 +8,6 @@ tags:
 ---
 
 # Skeleton Commander
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain the ability to summon your own skeletal minions. You learn the _[[Create Undead]]_ rituals to create three types of undead for which you meet the prerequisites. These undead must have the skeleton trait or be other skeletal undead the GM agrees to. You can't teach these rituals to anyone else, and you can't participate in either ritual while allowing someone else to serve as the primary caster unless they also know the ritual.
 

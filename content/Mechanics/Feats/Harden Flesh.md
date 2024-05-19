@@ -8,7 +8,6 @@ tags:
 ---
 
 # Harden Flesh
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You're standing on earthen or stone ground.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gorilla Stance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You lower yourself to the ground and take an imposing, knuckle - walking stance.
 

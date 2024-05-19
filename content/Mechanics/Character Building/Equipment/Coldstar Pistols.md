@@ -8,7 +8,6 @@ tags:
 ---
 
 # Coldstar Pistols
-![[systems-pf2e-icons-default-icons-weapon.svg|150]]
 
 One dueling pistol in this paired set is etched with flames along its barrel, while the other is etched with icicles. In these separate forms, one gun comprising the _Coldstar Pistols_ functions as a _+3 greater striking greater flaming dueling pistol_ and the other as a _+3 greater striking greater frost dueling pistol_. When joined, the guns form a double-barreled weapon that functions as a _+4 major striking greater flaming greater frost dueling pistol._ The combined form has a range increment of 120 feet. In either form, the _Coldstar Pistols_ have the agile, concealable, concussive, and fatal d10 traits. As star guns, the _Coldstar Pistols_ run on magic and don't use ammunition or black powder.
 

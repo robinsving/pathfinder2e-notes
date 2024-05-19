@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tangled Forest Rake
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are in Tangled Forest Stance.
 

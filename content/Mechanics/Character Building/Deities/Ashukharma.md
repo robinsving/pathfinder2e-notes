@@ -9,7 +9,6 @@ tags:
 ---
 
 # Ashukharma
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Ashukharma is the Vudran goddess of canyons and cliffs. She is the jilted lover of Dinehdal, god of mountain peaks, and lover of Matravash, goddess of the Matra River; her tale draws prayers from scorned lovers and those dealing with rifts between themselves and their friends or families.
 

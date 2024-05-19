@@ -8,6 +8,5 @@ tags:
 ---
 
 # Crone's Cruelty
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Filled with rancor and hate, you rend the minds of those who displease you. You can cast _[[Warp Mind]]_ once per day as an occult innate spell.

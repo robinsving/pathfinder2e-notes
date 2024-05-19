@@ -8,6 +8,5 @@ tags:
 ---
 
 # Kizidhar Magic
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can wield the arcane magic of a kizidhar, casting _entangling flora_ and _one with plants_ once per day each as 2nd-rank arcane innate spells.

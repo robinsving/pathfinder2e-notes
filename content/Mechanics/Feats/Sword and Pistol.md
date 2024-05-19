@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sword and Pistol
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You're comfortable wielding a firearm or crossbow in one hand and a melee weapon in the other, combining melee attacks with shots from the firearm. When you make a successful ranged Strike against an enemy within your reach with your one-handed firearm or one-handed crossbow, that enemy is [[Off-Guard]] against your next melee attack with a one-handed melee weapon.
 

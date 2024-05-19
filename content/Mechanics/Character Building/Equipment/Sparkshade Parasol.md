@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sparkshade Parasol
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This large magical parasol shields you from the heat in hot environments, no matter whether the heat comes from above, like the beating sun, or below, like roiling lava. While holding the _sparkshade parasol_, you gain resistance 10 to fire and are protected from mild, severe, and extreme environmental heat.
 

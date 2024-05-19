@@ -8,7 +8,6 @@ tags:
 ---
 
 # Steel Your Resolve
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Cost** 1 Resolve Point
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Beacon Mark
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you cast sigil, you can modify the spell to add the following heightened entry.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Eldritch Archer Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You blend magic with your archery, leading to powerful results.
 

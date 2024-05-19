@@ -9,7 +9,6 @@ tags:
 ---
 
 # Quick Refugee
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 The living residents of Geb are known as the quick, and it is not, overall, a very pleasant thing to be. While some of the quick choose to make the best of their lot, or even thrive in Geb's undead-dominated society, you decided that whatever terrors the outside world holds, they pale in comparison to those that make up the Gebbite upper class. And considering that escape means braving the Mana Wastes, you must have been very, very certain indeed.
 

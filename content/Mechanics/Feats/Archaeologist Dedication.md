@@ -8,7 +8,6 @@ tags:
 ---
 
 # Archaeologist Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are a student of peoples and their histories, and are in constant pursuit of knowledge and artifacts from the past. You become an expert in Society and Thievery, and you gain a +1 circumstance bonus to [[Recall Knowledge]] about ancient history, peoples, and cultures.
 

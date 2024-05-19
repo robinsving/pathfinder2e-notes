@@ -8,7 +8,6 @@ tags:
 ---
 
 # No!!!
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A non-minion ally within 60 feet is reduced to 0 Hit Points.
 

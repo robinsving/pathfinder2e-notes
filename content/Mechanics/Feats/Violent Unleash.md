@@ -8,7 +8,6 @@ tags:
 ---
 
 # Violent Unleash
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You Unleash your Psyche.
 

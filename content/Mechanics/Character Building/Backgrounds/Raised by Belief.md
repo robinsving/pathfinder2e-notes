@@ -9,7 +9,6 @@ tags:
 ---
 
 # Raised by Belief
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Whether in a monastery, a religious household, or just as part of your everyday life, your upbringing was steeped in the traditions of a particular deity. You might remain committed or you may have turned from your childhood creed, but your skills are still founded in your devotion.
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Quick Draw
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You draw your weapon and attack with the same motion. You Interact to draw a weapon, then Strike with that weapon.

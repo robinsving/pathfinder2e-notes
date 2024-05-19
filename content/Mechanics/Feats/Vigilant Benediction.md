@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vigilant Benediction
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 Unwilling to be outdone by the Crimson Reclaimers and their oath, you've petitioned the gods of good for a sliver of divine magic. Choose one of the following deities whose requirements you meet-for the Any Deity option below, you can select a deity the GM deems appropriate-and one of the listed spells. You can Cast that Spell once per day as a 4th-level divine innate spell, and you become trained in divine spell DCs and divine spell attack rolls. At 14th level, the spell heightens to 5th level; at 16th level, the spell heightens to 6th level. Once you've selected a deity and a spell, you can't change this selection. You don't need to worship the deity as your patron deity, as they are willing to grant this boon on behalf of your worthy cause. You must refrain from performing your deity's anathema or lose the ability to cast this spell until you atone.
 

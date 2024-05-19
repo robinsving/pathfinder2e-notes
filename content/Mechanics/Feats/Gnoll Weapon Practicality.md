@@ -8,6 +8,5 @@ tags:
 ---
 
 # Gnoll Weapon Practicality
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Whenever you critically hit using [[Flail]], [[Khopesh]], [[Mambele]], [[Spear]], and [[War Flail]], you apply the weapon's critical specialization effect.

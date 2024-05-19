@@ -8,6 +8,5 @@ tags:
 ---
 
 # Steal the Sky
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can take away the air that keeps a flying foe aloft. You gain the _[[Steal the Sky]]_ ki spell. Increase the number of Focus Points in your focus pool by 1.

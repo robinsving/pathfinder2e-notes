@@ -8,7 +8,6 @@ tags:
 ---
 
 # Draconic Scent
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your sense of smell is uncanny, much like a dragon's. You gain imprecise scent with a range of 30 feet.
 

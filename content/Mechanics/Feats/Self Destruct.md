@@ -8,7 +8,6 @@ tags:
 ---
 
 # Self Destruct
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** Your reanimated clockwork companion is reduced to 0 Hit Points.
 

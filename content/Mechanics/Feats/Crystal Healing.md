@@ -8,7 +8,6 @@ tags:
 ---
 
 # Crystal Healing
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You know how to stimulate a body's natural healing abilities through the application of resonant crystals. Doing so requires you to use at least two semiprecious stones with a total value of 5 gp or more in place of healer's tools, which allows you to attempt to [[Treat Disease]] or [[Treat Poison]] using Occultism rather than Medicine.
 

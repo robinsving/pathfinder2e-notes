@@ -8,7 +8,6 @@ tags:
 ---
 
 # Specialized Beastmaster Companion
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your nimble and savage animal companions become cunning enough to become specialized. Each companion gains one specialization of your choice (_Core Rulebook_ 217, choose separately).
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Cantrip Casting
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You increase your ability to cast simple spells. You gain two additional cantrips from the tradition matching your trait.

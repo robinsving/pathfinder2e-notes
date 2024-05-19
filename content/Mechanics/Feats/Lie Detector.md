@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lie Detector
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You're adept at noticing the tells of a liar - sweat, flushing, a quavering voice, a quickening pulse.
 

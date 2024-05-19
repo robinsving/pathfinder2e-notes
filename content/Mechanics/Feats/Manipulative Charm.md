@@ -8,7 +8,6 @@ tags:
 ---
 
 # Manipulative Charm
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Against humanoids, you gain a +1 circumstance bonus to Deception checks to [[Lie]], and to Diplomacy checks to [[Gather Information]] and [[Make an Impression]].
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wyrmbane Aura
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** Dragonslayer Oath
 

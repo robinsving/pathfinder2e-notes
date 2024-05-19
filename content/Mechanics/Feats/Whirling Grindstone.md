@@ -8,7 +8,6 @@ tags:
 ---
 
 # Whirling Grindstone
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 A whirling grindstone made of flint appears in an unoccupied square within 30 feet. The grindstone shreds flesh and shoots sparks. Attempt an impulse{impulse attack} roll against the AC of a creature adjacent to the grindstone. On a hit, the creature takes 2d6 slashing + 1d6 fire  damage (or double damage on a critical hit). The grindstone lasts until the end of your next turn, and you can Sustain the impulse up to 1 minute. On subsequent turns, the first time you Sustain the impulse that turn, you can roll the grindstone up to 20 feet and can repeat the attack.
 

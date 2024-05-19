@@ -8,7 +8,6 @@ tags:
 ---
 
 # Android Lore
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have a keen interest in the origins of your people.
 

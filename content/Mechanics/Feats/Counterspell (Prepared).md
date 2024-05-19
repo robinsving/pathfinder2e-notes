@@ -8,7 +8,6 @@ tags:
 ---
 
 # Counterspell (Prepared)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A creature Casts a Spell that you have prepared
 

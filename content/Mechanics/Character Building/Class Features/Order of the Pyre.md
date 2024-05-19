@@ -9,7 +9,6 @@ tags:
 ---
 
 # Order of the Pyre
-![[systems-pf2e-icons-default-icons-feat.svg|150]]
 
 **Favored Weapon** [[Glaive]]
 

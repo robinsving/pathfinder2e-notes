@@ -9,7 +9,6 @@ tags:
 ---
 
 # Kelizandri
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Kelizandri, the elemental lord of water, oversees the deep sea, waves, and drowning. The Brackish Emperor claims to be the offspring of an ancient god and a brine dragon, and he usually takes the form of an immense aquatic dragon with metallic scales and crystalline talons. He spends much of his time slumbering in his magnificent Palace of Salt and Bones, entertaining himself with rampages of wanton destruction and conquest whenever he wakes.
 

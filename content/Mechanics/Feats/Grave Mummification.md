@@ -8,7 +8,6 @@ tags:
 ---
 
 # Grave Mummification
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Exposure to the elements, magic, alchemy, and other phenomena intensified the changes from your mummification. You gain the [[Advanced Undead Benefits]].
 

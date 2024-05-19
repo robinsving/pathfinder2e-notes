@@ -8,7 +8,6 @@ tags:
 ---
 
 # Certain Strike
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Even when you don't hit squarely, you can still score a glancing blow. Make a melee Strike. It gains the following failure effect.
 

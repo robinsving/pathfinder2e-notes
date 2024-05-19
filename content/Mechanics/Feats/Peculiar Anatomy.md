@@ -8,7 +8,6 @@ tags:
 ---
 
 # Peculiar Anatomy
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your circulatory system contains viscous protoplasmic fluid instead of ordinary blood. You gain a +2 circumstance bonus to saving throws against disease and poison, and resistance to poison damage equal to half your level.
 

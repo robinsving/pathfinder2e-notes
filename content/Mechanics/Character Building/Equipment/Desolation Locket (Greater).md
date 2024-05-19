@@ -8,7 +8,6 @@ tags:
 ---
 
 # Desolation Locket (Greater)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 The surface of this golden, heart-shaped locket is nearly worn through with cracks. If opened, it reveals a portrait of someone the bearer loved dearly and has lost. The spell DC of any spell cast by activating this item is 30.
 

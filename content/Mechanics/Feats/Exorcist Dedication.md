@@ -8,7 +8,6 @@ tags:
 ---
 
 # Exorcist Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've learned to attract, quell, and purify spirits, housing them in a special receptacle called a _spirit dwelling_ until they're ready to move on. Through the power of prayers or ritual incantations, one mundane object in your possession becomes a _spirit dwelling_. Your _spirit dwelling_ functions as a lure for lost spirits weakened by their time on the Material Plane. Each day during your daily preparations, your _spirit dwelling_ attracts a spirit wisp who comes to dwell inside. If your _spirit dwelling_ contains no wisps, you can spend 10 minutes in a minor ritual to cast your _spirit dwelling_ around an area and attract another wisp. You can also capture stronger spirit remnants from vanquished undead spirits. As long as your _spirit dwelling_ contains any spirits, it glows faintly, casting dim light in a 10-foot radius.
 

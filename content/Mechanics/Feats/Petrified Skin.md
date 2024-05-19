@@ -8,7 +8,6 @@ tags:
 ---
 
 # Petrified Skin
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 It might have been a medusa, dracolisk, or even a fossil golem; regardless of the source, you were the target of some petrifying effect, and an element of that stony gaze has remained with you, both protecting and slowly consuming you. Your limbs are coated with a layer of stone that rests atop your skin and covers more of your body as you lose health. You gain a stone fist unarmed attack that deals 1d8 bludgeoning damage, has the shove trait, and is in the brawling weapon group (unlike a normal fist, it doesn't have the agile or finesse traits).
 

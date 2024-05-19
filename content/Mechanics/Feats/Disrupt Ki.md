@@ -8,7 +8,6 @@ tags:
 ---
 
 # Disrupt Ki
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Make an unarmed Strike. If it deals damage to a living creature, you block that creature's inner life force.
 

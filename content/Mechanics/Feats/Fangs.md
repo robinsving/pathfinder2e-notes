@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fangs
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your incisors have grown into true fangs: long, sharp, and well-suited to drawing blood.
 

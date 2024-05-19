@@ -8,7 +8,6 @@ tags:
 ---
 
 # Undertaker's Manifest
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This grim collection of spreadsheets is used both by undertakers who occasionally need to avoid the notice of their more restless clients, and by industrious necromancers looking to avoid catching the notice of cemetery guards and vigilant undertakers.
 

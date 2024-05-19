@@ -8,7 +8,6 @@ tags:
 ---
 
 # Nocturnal Kindred
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have an innate connection with other creatures of the night and understand some of them. You can ask questions of, receive answers from, and use Diplomacy with bats, rats, and wolves. You also gain a +1 circumstance bonus to [[Make an Impression]] on such animals.
 

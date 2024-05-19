@@ -9,7 +9,6 @@ tags:
 ---
 
 # Eyes That Watch
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 This strange trio of feline eyes is the Forsaken patron of inferiority, cats, and strangers.
 

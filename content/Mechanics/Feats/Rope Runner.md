@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rope Runner
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You run and climb across ropes and rigging almost as easily as on the ground. You gain a [[Climb]] Speed of 15 feet, but only on ship's rigging or similar ropes.
 

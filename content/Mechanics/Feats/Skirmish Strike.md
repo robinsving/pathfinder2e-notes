@@ -8,6 +8,5 @@ tags:
 ---
 
 # Skirmish Strike
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your feet and weapon move in tandem. Either Step and then Strike, or Strike and then Step.

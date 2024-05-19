@@ -8,6 +8,5 @@ tags:
 ---
 
 # Improved Poison Weapon
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You deliver poisons in ways that maximize their harmful effects. When you apply a simple poison with [[Poison Weapon]], the poison deals 2d4 poison damage instead of 1d4 poison damage. You don't waste a poison you apply with Poison Weapon on a critically failed attack roll.

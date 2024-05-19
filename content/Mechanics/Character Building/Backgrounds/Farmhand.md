@@ -9,7 +9,6 @@ tags:
 ---
 
 # Farmhand
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 With a strong back and an understanding of seasonal cycles, you tilled the land and tended crops. Your farm could have been razed by invaders, you could have lost the family tying you to the land, or you might have simply tired of the drudgery, but at some point, you became an adventurer.
 

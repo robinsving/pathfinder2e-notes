@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Bargainer's Instrument
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 **Activate** 1 hour (envision, Interact)
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Communication Pendants
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Each of these matching necklaces has been constructed using one half of a purple teardrop-shaped gem, split in two. These pendants function only with the other pendant in their pair and must be crafted together. If one pendant becomes broken, the other shatters into non-magical shards. The price listed above is for a pair of pendants.
 

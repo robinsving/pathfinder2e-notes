@@ -8,7 +8,6 @@ tags:
 ---
 
 # Violin of the Waves
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This violin is crafted from finely wrought rosewood that emits a strong, but pleasant, smell of salt water and ocean life. It's engraved with images of sailors working and waves gently rolling. When you make a Performance check using the _violin of the waves_, you gain a +2 item bonus to the check. This bonus increases to +3 if the performer is currently aboard a ship, walking on the ocean, or otherwise immediately adjacent to ocean water.
 

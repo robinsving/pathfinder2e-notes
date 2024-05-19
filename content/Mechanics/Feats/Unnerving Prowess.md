@@ -8,7 +8,6 @@ tags:
 ---
 
 # Unnerving Prowess
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You critically succeed at a Strike or Disarm with your Aldori dueling sword.
 

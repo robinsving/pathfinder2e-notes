@@ -8,7 +8,6 @@ tags:
 ---
 
 # Predictable!
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 By observing an opponent, you can get a sense of their next move and prepare to counter or resist it. Choose one target and attempt a Perception check to [[Sense Motive]] against the foe's Deception DC or a hard DC of the foe's level, whichever is higher.
 

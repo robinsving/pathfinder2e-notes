@@ -9,7 +9,6 @@ tags:
 ---
 
 # Warrior
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 In your younger days, you waded into battle as a mercenary, a warrior defending a nomadic people, or a member of a militia or army. You might have wanted to break away from the regimented structure of these forces, or you could have always been as independent a warrior as you are now.
 

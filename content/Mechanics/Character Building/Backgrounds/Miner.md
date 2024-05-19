@@ -9,7 +9,6 @@ tags:
 ---
 
 # Miner
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You earned a living wrenching precious minerals from the lightless depths of the earth. Adventuring might have seemed lucrative or glamorous compared to this backbreaking labor--and if you have to head back underground, this time you plan to do so armed with a real weapon instead of a miner's pick.
 

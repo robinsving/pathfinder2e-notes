@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tlil Mask
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Colorful, beaded _tlil masks_ are commonly found on the distant continent of Arcadia, but trade between the two regions means that they can also be found in the Mwangi Expanse as curiosities. These masks usually bear floral patterns and attune your senses to plants of all varieties.
 

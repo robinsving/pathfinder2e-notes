@@ -8,7 +8,6 @@ tags:
 ---
 
 # Selfless Parry
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You protect those near you with a flash of steel. When you're benefiting from Dueling Parry, allies adjacent to you gain a +1 circumstance bonus to AC.
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Ash Gown (Greater)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 _Greater ash gowns_ are formal wear spun from smoke, ash, and char collected from the Plane of Fire. Typically, they're voluminous floor-length dresses or three-piece suits, but regardless of their specific tailoring, _greater ash gowns_ are always an ostentatious display of wealth and loyalty to the powers of the Plane of Fire. They're exceptionally popular in the courts of the Elemental Lords and among the high society of Medina Mudii'a. The gown grants you resistance 10 to fire and a +2 item bonus to Intimidation checks.
 

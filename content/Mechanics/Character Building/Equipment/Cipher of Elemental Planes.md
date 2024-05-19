@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cipher of Elemental Planes
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This device is made from two metal discs, one slightly smaller than the other, each bearing a variety of runes and symbols along their outer edges. The center ring typically shows a rune for each elemental plane, and many older ciphers include only the planes of air, earth, fire, and water. A thick, golden pin in the center of both discs holds them together.
 

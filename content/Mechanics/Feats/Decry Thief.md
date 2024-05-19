@@ -8,7 +8,6 @@ tags:
 ---
 
 # Decry Thief
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you attempt to Demoralize, you can make it harder for the target to flee, in place of the action's normal effects.
 

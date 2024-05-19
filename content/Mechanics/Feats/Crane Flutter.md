@@ -8,7 +8,6 @@ tags:
 ---
 
 # Crane Flutter
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You are targeted with a melee attack by an attacker you can see.
 

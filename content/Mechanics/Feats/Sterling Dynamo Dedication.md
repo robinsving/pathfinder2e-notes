@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sterling Dynamo Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You obtain a sterling dynamo prosthetic, which allows you to replace or augment a limb, or even add a simple new non-prehensile limb, such as a tail. While your sterling dynamo prosthetic can replace a missing prehensile limb, such as an arm, choosing to add a new limb can never increases your character's number of hands or prehensile limbs beyond two, even in combination with other abilities or effects.
 

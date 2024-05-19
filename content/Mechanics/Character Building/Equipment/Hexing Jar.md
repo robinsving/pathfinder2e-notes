@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hexing Jar
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Dangling from a simple cord, a _hexing jar_ houses rich soil. When a witch who has invested the jar wears it overnight, a miniature thing grows from the soil. Your patron chooses the form, commonly including glowing mushrooms, venus flytraps, mandragora roots, or undead hands reaching up. The thing whispers secrets it learned from your patron, giving you a +2 item bonus to your patron skill.
 

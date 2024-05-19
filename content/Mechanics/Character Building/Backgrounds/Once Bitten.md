@@ -9,7 +9,6 @@ tags:
 ---
 
 # Once Bitten
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 After an altercation with an undead creature, you feared you might be infected. Either through medical intervention, luck, or misunderstanding how undeath spreads, your fears abated. However, your brush with living death taught you the value of life. You do whatever you can to avoid the end you thought you'd been fated.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Enkaar, the Malformed Prisoner
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 This mutilated horror is the Forsaken patron of fetters, lethargy, and physical corruption.
 

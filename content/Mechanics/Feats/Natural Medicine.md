@@ -8,7 +8,6 @@ tags:
 ---
 
 # Natural Medicine
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can apply natural cures to heal your allies. You can use Nature instead of Medicine to [[Treat Wounds]], including higher Nature proficiency letting you attempt more difficult checks. It doesn't replace Medicine for uses of the skill other than Treat Wounds or for feat prerequisites.
 

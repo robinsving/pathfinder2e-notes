@@ -8,7 +8,6 @@ tags:
 ---
 
 # Phase Out
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your eidolon phases out of reality slightly, gaining resistance to all damage (except force and negative) equal to half your level. It's not incorporeal, but it can't use Strikes or actions that require a fully physical form, such as [[Grapple]], [[Shove]], or [[Trip]].
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Reactive Pursuit
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An adjacent foe moves away from you, and you can reach at least one space adjacent to the foe with a Stride action.
 

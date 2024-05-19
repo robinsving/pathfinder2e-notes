@@ -8,7 +8,6 @@ tags:
 ---
 
 # Striker's Scroll
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can attach a scroll to your weapon or _[[Handwraps of Mighty Blows]]_ to blend its spell into an attack, carefully folding it around a part of the weapon or sealing it to the weapon's surface. Attaching a scroll requires using the [[Affix a Talisman]] action. You can have only one scroll affixed to a weapon at a time, and you can't have both a talisman and scroll attached.
 

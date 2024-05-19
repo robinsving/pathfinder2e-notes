@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tentacle Cannon
-![[systems-pf2e-icons-default-icons-weapon.svg|150]]
 
 A _tentacle cannon_ is a _+1 striking_ weapon, built using components from squids, krakens, and sometimes even stranger tentacled creatures like alghollthu. It's a distinct type of martial firearm that deals 1d8 piercing damage. It has the capacity 5, concussive, and fatal d12 traits, a range increment of 30 feet, and reload 2. The weapon itself resembles a five-barreled handheld cannon with each barrel made from a hollowed out tentacle.
 

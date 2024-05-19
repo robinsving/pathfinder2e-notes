@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bloodhammer Reserve Select
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 This strong, rich red-brown home brew has no listed ingredients, but smells of earth and is both smoky and surprisingly bitter. Although Skogg Bloodhammer insists that the drink doesn't exist, it's somewhat of an open secret among his close friends. He prefers to share this drink at backroom gatherings with these trusted friends, and usually broaches the idea of sharing with a full mug and a question: "You ever thought about being a frog?"
 

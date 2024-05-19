@@ -9,7 +9,6 @@ tags:
 ---
 
 # Jaidi
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Jaidi** is a goddess of agriculture worshiped by the people of ancient Azlant. She represents the pleasure that one feels when contributing hard work for the community as a whole.
 

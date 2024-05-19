@@ -8,7 +8,6 @@ tags:
 ---
 
 # Greater Deathly Secrets
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your undead secrets grow stronger still. You learn either the _[[Malignant Sustenance]]_ or _[[Grasping Grave]]_ focus spell. Your focus pool increases by 1 point.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Immonhiel
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Immonhiel is an angel and patron goddess of medicine, herbs, and healing. Her teachings are widespread throughout the Realm of the Mammoth Lords, even among followings who don't revere the goddess herself. Immonhiel's worship is particularly prevalent among followings who eschew magic, as her balms are entirely natural, using only alterations of the natural world to work miracles.
 

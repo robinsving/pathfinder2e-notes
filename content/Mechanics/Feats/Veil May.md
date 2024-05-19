@@ -8,7 +8,6 @@ tags:
 ---
 
 # Veil May
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 Born of a blood hag, a fiery blood drinker hidden behind a false skin, you have one blood-red eye and the ability to slough off your appearance in an instant.
 

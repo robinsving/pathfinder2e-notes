@@ -8,6 +8,5 @@ tags:
 ---
 
 # Share Eidolon Magic
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your eidolon shares innate spells with you. You can cast the innate spells your eidolon gained from Magical Understudy, Magical Adept, and Magical Master. You and your eidolon share the same daily uses of these innate spells.

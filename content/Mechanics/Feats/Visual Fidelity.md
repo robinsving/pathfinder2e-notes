@@ -8,7 +8,6 @@ tags:
 ---
 
 # Visual Fidelity
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've found a way to use a hodgepodge combination of devices to enhance your visual abilities in every situation. You gain darkvision and low-light vision, and you can see [[Invisible]] creatures and objects as translucent shapes, though these shapes are indistinct enough to be [[Concealed]] to you.
 

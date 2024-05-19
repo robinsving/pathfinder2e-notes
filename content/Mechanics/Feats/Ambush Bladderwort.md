@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ambush Bladderwort
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You plant the seed of a giant bladderwort in an unoccupied square of ground or water within 30 feet. It lasts for 10 minutes. Using this impulse again ends any previous one. If a creature enters its square, the seed erupts into a voluminous, translucent plant that seals tight around the triggering creature and fills with water. Unless the creature succeeds at a DC resolve reflex save against your class DC, it's [[Immobilized]] within the bladderwort and must hold its breath or begin drowning. The [[Escape]] DC is also your class DC. The plant has AC 10 and 50 Hit Points.
 

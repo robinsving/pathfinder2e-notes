@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sheltering Cave
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You're standing on ground composed of earth, stone, or a similar material.
 

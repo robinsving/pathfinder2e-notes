@@ -8,7 +8,6 @@ tags:
 ---
 
 # Globe of Shrouds
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 The body of this censer is made of transparent crystal banded with dark iron. This globe hangs from a sturdy chain attached to a simple steel rod with a smooth grip.
 

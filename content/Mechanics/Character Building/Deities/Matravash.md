@@ -9,7 +9,6 @@ tags:
 ---
 
 # Matravash
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Edicts** Aid the persecuted, accommodate and facilitate others, practice contemplation and restraint
 

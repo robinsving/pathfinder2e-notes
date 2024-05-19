@@ -8,7 +8,6 @@ tags:
 ---
 
 # Living Bonfire
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Roots and branches of living wood writhe in elemental fire at your command, forming a bonfire fearsome enough to scare off predators in the night. You conjure a bonfire in an unoccupied 10-foot-square space within 30 feet. The bonfire burns for 10 hours, providing all the benefits of a normal campfire. If you use this impulse again, any previous one ends.
 

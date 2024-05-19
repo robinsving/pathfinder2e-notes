@@ -8,7 +8,6 @@ tags:
 ---
 
 # Enervating Wail
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You release a terrible wail that tears at the spirits of all nearby. All living creatures in a 20 foot emanation take void damage with a DC resolve fortitude save. The damage is 4d6, plus 1d6 for every level you have beyond 6th.
 

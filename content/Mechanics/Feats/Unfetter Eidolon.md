@@ -8,7 +8,6 @@ tags:
 ---
 
 # Unfetter Eidolon
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can allow your eidolon to travel far from your side.
 

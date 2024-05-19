@@ -8,7 +8,6 @@ tags:
 ---
 
 # Goblin Song
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You sing annoying goblin songs, distracting your foes with silly and repetitive lyrics. Attempt a performance check against the Will DC of a single enemy within 30 feet. This has all the usual traits and restrictions of a Performance check to sing.
 

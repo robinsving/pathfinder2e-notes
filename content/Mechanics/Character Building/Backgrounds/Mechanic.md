@@ -9,7 +9,6 @@ tags:
 ---
 
 # Mechanic
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 The intricate inner workings of machines are no stranger to you. Whether they are mundane devices or complex clockworks, you know what makes them tick and how to maintain them. An adventuring group might keep you around to repair their equipment, or you might travel around to offer your rare services to those in need-for a price, of course!
 

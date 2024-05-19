@@ -8,7 +8,6 @@ tags:
 ---
 
 # Focus Ally
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An adjacent ally fails, but doesn't critically fail, a saving throw against an effect with the incapacitation trait.
 

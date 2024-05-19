@@ -8,6 +8,5 @@ tags:
 ---
 
 # Sink and Swim
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your body looks like it's made of flowing water, clear and pristine, providing a natural grace to all your movements. You gain a swim Speed equal to your land Speed. If you already had a swim Speed, it's increased by 10 feet. You gain the [[Water Transfer]] activity, which enables you to teleport through a body of water.

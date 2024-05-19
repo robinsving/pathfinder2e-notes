@@ -8,7 +8,6 @@ tags:
 ---
 
 # Chromotherapy
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You firmly believe in the technique of strengthening one's life force, spiritual energies, and bodily fluids through the application of colored light. When using a torch, lantern, or other artificial light source to illuminate an area of dim light or darker, you use a combination of alchemical reagents, medicinal components, and colored lenses to turn that light one of seven colors, allowing you to help an ally recover from persistent damage. You give that target an assisted recovery, but the target can be anywhere within the bright light of the light source instead of needing to be adjacent to you. Ambient bright light (like sunlight) drowns out your artificial illumination and prevents you from using Chromotherapy. The color of the light you choose determines the type of persistent damage from which you help the target recover.
 

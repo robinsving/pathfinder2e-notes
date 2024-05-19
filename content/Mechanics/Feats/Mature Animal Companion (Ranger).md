@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mature Animal Companion (Ranger)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your animal companion becomes a mature animal companion and gains additional capabilities.
 

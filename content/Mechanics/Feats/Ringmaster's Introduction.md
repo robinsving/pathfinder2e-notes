@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ringmaster's Introduction
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** The ally hasn't acted in the current combat.
 

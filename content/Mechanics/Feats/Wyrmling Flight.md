@@ -8,6 +8,5 @@ tags:
 ---
 
 # Wyrmling Flight
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your draconic wings have grown large and strong enough for flight. You gain a fly Speed equal to your Speed, using your wings to stay aloft.

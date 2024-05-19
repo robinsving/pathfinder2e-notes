@@ -8,7 +8,6 @@ tags:
 ---
 
 # Extradimensional Stash
-![[systems-pf2e-icons-default-icons-backpack.svg|150]]
 
 Granted by [[Extradimensional Stash]]
 

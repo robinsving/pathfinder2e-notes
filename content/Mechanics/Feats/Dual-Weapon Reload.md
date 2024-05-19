@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dual-Weapon Reload
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You're wielding two one-handed weapons, each in a different hand, one of which is a ranged weapon.
 

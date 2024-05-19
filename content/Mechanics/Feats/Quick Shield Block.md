@@ -8,6 +8,5 @@ tags:
 ---
 
 # Quick Shield Block
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can bring your shield into place with hardly a thought. At the start of each of your turns, you gain an additional reaction that you can use only to [[Shield Block]].

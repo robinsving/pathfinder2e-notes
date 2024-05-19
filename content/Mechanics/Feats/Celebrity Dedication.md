@@ -8,7 +8,6 @@ tags:
 ---
 
 # Celebrity Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The more people you have looking at you, the more content you are, and you take every opportunity to show up others when their performances are less than perfect.
 

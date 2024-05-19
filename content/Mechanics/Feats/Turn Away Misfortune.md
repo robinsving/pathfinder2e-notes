@@ -8,7 +8,6 @@ tags:
 ---
 
 # Turn Away Misfortune
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You would attempt a roll affected by a misfortune effect.
 

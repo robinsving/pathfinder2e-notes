@@ -8,6 +8,5 @@ tags:
 ---
 
 # Quick Unlock
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can [[Pick a Lock]] using 1 action instead of 2.

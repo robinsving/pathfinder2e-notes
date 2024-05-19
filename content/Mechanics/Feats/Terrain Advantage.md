@@ -8,6 +8,5 @@ tags:
 ---
 
 # Terrain Advantage
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can take advantage of the terrain to bypass foes' defenses. Non-lizardfolk creatures in difficult terrain are [[Off-Guard]] to you. If you have a swim Speed, non-lizardfolk creatures that are in water and lack a swim Speed are also off-guard to you.

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Mystic Seer
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You delight crowds by reading minds, telling futures, and contacting spirits. Although much of your work is misdirection and showmanship, your cons have inadvertently awakened a genuine awareness of magic in your mind. This new sense is both thrilling and frightening, and you hope that you can hone it further in the Circus of Wayward Wonders.
 

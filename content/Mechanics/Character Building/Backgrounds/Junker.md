@@ -9,7 +9,6 @@ tags:
 ---
 
 # Junker
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You live on the outskirts of civilization, combing through the detritus left behind for interesting trinkets to sell or use in your own crafting. Though you have a preferred terrain to search, you know that the greatest treasures occur where people make greater use of technology.
 

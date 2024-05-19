@@ -8,6 +8,5 @@ tags:
 ---
 
 # House of Imaginary Walls
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You erect an imaginary barrier others believe to be real. You learn the _[[House of Imaginary Walls]]_ composition cantrip.

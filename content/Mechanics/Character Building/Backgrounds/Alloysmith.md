@@ -9,7 +9,6 @@ tags:
 ---
 
 # Alloysmith
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Blacksmithing might be an ancient profession, but you are its cutting edge. You've studied the properties of different metals, experimented with them by combining them, exposing them to different elements and processes, and have even delved into the metaphysical nature of metal in your quest to master it. You might have taken up adventuring to acquire more funding and materials or to test your designs.
 

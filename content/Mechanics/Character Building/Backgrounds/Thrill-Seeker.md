@@ -9,7 +9,6 @@ tags:
 ---
 
 # Thrill-Seeker
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You once survived a life-or-death situation and found it surprisingly exhilarating, so now you chase that feeling of invincibility you only get when dancing with death. Your desire for exhilaration has you scaling buildings, leaping off rooftops, jumping chasms, and performing other deathdefying stunts.
 

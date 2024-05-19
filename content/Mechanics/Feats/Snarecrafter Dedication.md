@@ -8,7 +8,6 @@ tags:
 ---
 
 # Snarecrafter Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've learned to create a limited number of snares at no cost. Each day during your daily preparations, you can prepare four snares from your formula book for quick deployment; if they normally take 1 minute to [[Craft]], you can Craft them with 3 [[Interact]] actions. The number of snares increases to six if you're a master in Crafting and eight if you're legendary.
 

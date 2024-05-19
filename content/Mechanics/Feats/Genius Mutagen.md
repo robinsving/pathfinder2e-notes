@@ -8,7 +8,6 @@ tags:
 ---
 
 # Genius Mutagen
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Specialized tweaks to your body's chemical composition considerably broaden the benefits you gain from cognitive mutagens.
 

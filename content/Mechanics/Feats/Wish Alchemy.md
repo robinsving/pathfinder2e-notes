@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wish Alchemy
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have learned Artokus Kirran's most hidden secrets, granting you the ability to create alchemy infused with the power of wishes.
 

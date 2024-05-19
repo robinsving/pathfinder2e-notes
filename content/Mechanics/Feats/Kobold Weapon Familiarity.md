@@ -8,7 +8,6 @@ tags:
 ---
 
 # Kobold Weapon Familiarity
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've trained with weapons ideal for subterranean efficiency. You are trained with the [[Crossbow]], [[Greatpick]], [[Light Pick]], [[Pick]], and [[Spear]].
 

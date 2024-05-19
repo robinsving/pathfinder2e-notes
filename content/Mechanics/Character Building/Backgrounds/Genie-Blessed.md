@@ -9,7 +9,6 @@ tags:
 ---
 
 # Genie-Blessed
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You've sought out a powerful genie and requested their blessing, hoping to increase your fortune. Your wish was vague, but fortune and the genie favored you with a more powerful effect than an ordinary wish, granting you bits of wish-twisted luck throughout the rest of your life. Meanwhile, other genies of the same kind recognize you as one blessed by one of their most powerful nobles, and might treat you with greater respect or envy.
 

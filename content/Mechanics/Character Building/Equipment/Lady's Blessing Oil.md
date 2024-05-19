@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lady's Blessing Oil
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 **Activate** [[Administer First Aid]]
 

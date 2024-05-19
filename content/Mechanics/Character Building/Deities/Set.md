@@ -9,7 +9,6 @@ tags:
 ---
 
 # Set
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Set is the most reviled of all the Ancient Osirian pantheon. He is the encroaching desert, the invader, the sandstorm destroying everything in its path, as well as the dead who rise from their graves.
 

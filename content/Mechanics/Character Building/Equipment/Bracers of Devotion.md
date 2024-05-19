@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bracers of Devotion
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Champions adorn these bracers with the symbol of their deity or the text of the tenets they follow. While they're clasped around your forearms, reassuring focus and devotion flow into you through them. Each time you spend a Focus Point to cast a devotion spell, your divine ally gains a benefit until the start of your next turn, depending on its type.
 

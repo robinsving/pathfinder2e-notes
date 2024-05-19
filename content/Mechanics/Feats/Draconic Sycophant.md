@@ -8,7 +8,6 @@ tags:
 ---
 
 # Draconic Sycophant
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have an affect that dragonkind find unusually pleasing—and when that fails, you know when to duck. You gain a +2 circumstance bonus to Perception checks and saving throws against dragons.
 

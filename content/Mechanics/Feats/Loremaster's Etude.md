@@ -8,6 +8,5 @@ tags:
 ---
 
 # Loremaster's Etude
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You magically unlock memories, making them easier to recall. You learn the _[[Loremaster's Etude]]_ composition spell.

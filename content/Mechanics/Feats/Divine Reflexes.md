@@ -8,6 +8,5 @@ tags:
 ---
 
 # Divine Reflexes
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 At the start of each of your turns, you gain an additional reaction that you can use only for your champion's reaction.

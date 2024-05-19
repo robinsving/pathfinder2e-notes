@@ -8,7 +8,6 @@ tags:
 ---
 
 # Enhanced Psychopomp Familiar
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your psychopomp's continued service in Pharasma's name brings it favor from the goddess. It might change appearance to look like a different, more powerful kind of psychopomp. You can select four familiar or master abilities each day, instead of two, but two must be from the Psychopomp Familiar feat or the following ability.
 

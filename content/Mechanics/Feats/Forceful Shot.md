@@ -8,7 +8,6 @@ tags:
 ---
 
 # Forceful Shot
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your ranged attacks push your foes away from your allies. Make a ranged Strike, adding the following effects in addition to the normal effects of the Strike.
 

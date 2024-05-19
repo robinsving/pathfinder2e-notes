@@ -9,7 +9,6 @@ tags:
 ---
 
 # Reshmit of the Heavy Voice
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Taking the form of a massive shadow, Reshmit is the Forsaken patron of broken things, forgetting, and unexpected violence.
 

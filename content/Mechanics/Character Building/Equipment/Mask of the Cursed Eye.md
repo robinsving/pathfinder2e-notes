@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mask of the Cursed Eye
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 A _mask of the cursed eye_ is decorated with at least one wide, staring eye. The first time each day a creature on your plane that you can't perceive targets you with a divination spell, the creature must attempt a DC 24 will save. This effect is automatic and does not require you to Activate the item.
 

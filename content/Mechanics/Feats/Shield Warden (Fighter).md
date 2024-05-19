@@ -8,6 +8,5 @@ tags:
 ---
 
 # Shield Warden (Fighter)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you have a shield raised, you can use your [[Shield Block]] reaction when an attack is made against an ally adjacent to you. If you do, the shield prevents that ally from taking damage instead of preventing you from taking damage, following the normal rules for Shield Block.

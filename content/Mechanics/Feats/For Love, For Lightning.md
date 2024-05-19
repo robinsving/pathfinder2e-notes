@@ -8,7 +8,6 @@ tags:
 ---
 
 # For Love, For Lightning
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Access** A character who performs a specialized mission for Clarethe Iomedar has access to this option.
 

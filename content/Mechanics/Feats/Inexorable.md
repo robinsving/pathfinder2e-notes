@@ -8,7 +8,6 @@ tags:
 ---
 
 # Inexorable
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You imbue yourself with the resilience of the cave worm. When you gain the [[Paralyzed]], [[Slowed|Slowed]], or [[Stunned 1|Stunned]] condition, roll a DC 15 flat. On a success you ignore the condition.
 

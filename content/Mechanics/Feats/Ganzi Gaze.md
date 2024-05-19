@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ganzi Gaze
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have unusual sensory abilities passed down from your chaotic forebears. You gain [[Low-Light Vision]]. If you already have low-light vision, you gain [[Darkvision]] instead.
 

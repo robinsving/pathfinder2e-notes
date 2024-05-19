@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Beastmaster's Sigil (Major)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This silver disc displays an ever-changing etching of an animal. When you affix the _beastmaster's sigil_, the animal settles into a single form based on where you affix it, showing the animal the item can summon when affixed that way. The spell DC of any spell cast by activating this item is 25. A weapon can benefit from only the melee weapon benefit or ranged weapon benefit. A thrown melee weapon gets the melee weapon benefit, and a combination weapon gets only one benefit, which you choose when you affix the spellheart. If it's unclear which one should apply, the GM decides.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Tapestry Refugee
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Within her magnificent museum demiplane, the sorcerer Hao Jin extracted and preserved countless sites and cultures. The demiplane's unraveling magic forced the Pathfinder Society to evacuate the many inhabitants recently, and you were among the refugees who returned to the Material Plane after centuries of isolation. Whether you joined the Society out of gratitude, curiosity, or desperation, you are hardened by your harrowing flight from your doomed home.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ki Channeling Beads
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 As you move your body, ki flows into _ki-channeling beads_ you wear and have invested, making them one with your life force. In their usual form, beads are spheres of wood, but versions customized to different martial orders are common. You gain a +2 item bonus to Religion checks.
 

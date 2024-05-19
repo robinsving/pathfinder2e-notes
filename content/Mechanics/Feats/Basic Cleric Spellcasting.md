@@ -8,6 +8,5 @@ tags:
 ---
 
 # Basic Cleric Spellcasting
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain the [[Spellcasting Archetypes#Basic Spellcasting Feat|Basic Spellcasting Feat]] benefits. You can prepare your deity's spells in your spell slots of the appropriate rank from the cleric archetype.

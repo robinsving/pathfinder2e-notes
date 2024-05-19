@@ -8,7 +8,6 @@ tags:
 ---
 
 # Aura of Life
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your aura protects against necromantic effects. You and all allies within 15 feet gain resistance 5 to void energy and a +1 status bonus to saves against necromancy effects.
 

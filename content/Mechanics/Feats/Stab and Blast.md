@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stab and Blast
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You're wielding a firearm with an attached bayonet or reinforced stock, a fire lance, or a combination weapon.
 

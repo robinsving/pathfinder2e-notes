@@ -8,6 +8,5 @@ tags:
 ---
 
 # Dire Form
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your hybrid shape is a hulking beast. While in your hybrid shape, you gain the effects of _[[Enlarge]]_.

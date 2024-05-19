@@ -8,7 +8,6 @@ tags:
 ---
 
 # Talisman Dabbler Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are trained in the use of talismans and similar magical paraphernalia. This training might have occurred in a formal classroom or been an agglomeration of folk magic picked up over time. You can craft talismans and know the formulas for all common talismans in the _Core Rulebook_ of your level or lower. You remember talisman formulas and don't need a formula book for them.
 

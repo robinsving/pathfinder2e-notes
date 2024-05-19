@@ -8,7 +8,6 @@ tags:
 ---
 
 # Express Rider
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You know how to encourage your mount to cover ground quickly.
 

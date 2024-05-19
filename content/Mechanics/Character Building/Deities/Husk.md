@@ -9,7 +9,6 @@ tags:
 ---
 
 # Husk
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 This androgynous creature is the Forsaken patron of emptiness, loneliness, and narcissism.
 

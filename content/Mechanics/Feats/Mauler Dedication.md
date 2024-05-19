@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mauler Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You specialize in weapons that require two hands. You become trained in all simple and martial melee weapons that require two hands to wield or have the two-hand trait.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ghosthand's Comet
-![[systems-pf2e-icons-default-icons-weapon.svg|150]]
 
 The barrel of this long rifle is translucent in places, forming a swirled pattern along the metal, and its stock is formed of crimson wood. Ghosthand's Comet is a _+4 major striking beast-bane greater impactful_ advanced firearm with a range increment of 300 feet. It deals 5d8 force and has the backstabber, concussive, kickback, and fatal d12 traits. As a star gun, _Ghosthand's Comet_ runs on magic and doesn't use ammunition or black powder. The weapon is silent when fired.
 

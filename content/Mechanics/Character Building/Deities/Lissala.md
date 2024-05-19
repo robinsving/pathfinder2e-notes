@@ -9,7 +9,6 @@ tags:
 ---
 
 # Lissala
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Edicts** Work hard and demand others do so as well, cooperate or avoid conflict with ophidian creatures
 

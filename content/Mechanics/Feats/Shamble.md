@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shamble
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You may be slower than you were in life, but your pace is unfaltering. Stride twice, or three times if you spent 3 actions to Shamble. During this movement, you ignore difficult terrain and greater difficult terrain.
 

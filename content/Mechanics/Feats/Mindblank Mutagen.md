@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mindblank Mutagen
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 With the right mindset, consuming a serene mutagen grants you special mental protections.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Knowledge is Power
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you critically succeed at a Recall Knowledge check about a creature, you gain a +1 circumstance bonus to your next attack roll against the creature, to your AC against its next attack roll, and to your save against its next effect requiring a save.
 

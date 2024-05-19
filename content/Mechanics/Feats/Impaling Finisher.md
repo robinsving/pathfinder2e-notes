@@ -8,7 +8,6 @@ tags:
 ---
 
 # Impaling Finisher
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You stab two foes with a single thrust or bash them together with one punch.
 

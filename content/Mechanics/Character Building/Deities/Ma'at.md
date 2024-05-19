@@ -9,7 +9,6 @@ tags:
 ---
 
 # Ma'at
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Edicts** Defend civilization from chaos, live an honest and just life, be impartial in judgment and reveal the truth
 

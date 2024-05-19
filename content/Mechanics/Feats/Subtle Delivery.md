@@ -8,7 +8,6 @@ tags:
 ---
 
 # Subtle Delivery
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can capably deliver toxins with a [[Blowgun]]. Your blowgun [[Strike|Strikes]] can apply injury poisons even if they deal no damage due to a creature's resistance.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tracker's Stew
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 **Activate** 10 minutes (Interact)
 

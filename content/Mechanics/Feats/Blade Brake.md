@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blade Brake
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You would be moved by a forced movement effect.
 

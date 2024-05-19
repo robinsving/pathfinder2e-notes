@@ -8,7 +8,6 @@ tags:
 ---
 
 # Axiomatic Lore
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You possess a strong understanding of process among mortals and lawful outsiders alike. The source of this knowledge might be intuition, study, or a childhood spent among other aphorites.
 

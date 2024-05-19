@@ -8,6 +8,5 @@ tags:
 ---
 
 # Expanded Domain Initiate
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have long venerated one of your deity's lesser-known aspects. Select one domain from your deity's alternate domains. You gain access to that domain and an initial domain spell for that domain.

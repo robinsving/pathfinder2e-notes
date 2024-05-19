@@ -8,7 +8,6 @@ tags:
 ---
 
 # Turpin Rowe Lumberjack Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Access** You must befriend at least one Turpin Rowe logger.
 

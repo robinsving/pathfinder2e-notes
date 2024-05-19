@@ -8,7 +8,6 @@ tags:
 ---
 
 # Aeon Resonance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain the resonant power of one embedded _aeon stone_ as if it were placed in a wayfinder. While you can embed multiple _aeon stones_ in your flesh, you can gain the resonance power from only one embedded stone at a time, selected each day when you make your daily preparations.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Whirlwind Stance
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are wielding your staff, which must have the parry trait.
 

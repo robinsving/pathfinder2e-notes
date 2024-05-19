@@ -9,7 +9,6 @@ tags:
 ---
 
 # Ashava
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Ashava, the True Spark, embodies moonlight, dancing, and lonely spirits. Dancing is Ashava's true love, and she encourages her followers to dance often. For some, she is little more than a patron of that art, but Ashava is also a guide, both in spirit and in the physical world. For the living, she leads the lonely out of their difficult times, her lights guiding lost wanderers back to safety. For the dead, her haunting moonlit dances lead lost and lonely spirits onward to their eternal judgment. She encourages her followers to steer those who are lost-whether in the wilderness or in their hearts-to where they need to go. Priests of Ashava are the dancing light that guides the way, but will-o'-wisps are anathema to Ashava, and her followers destroy these creatures wherever they are found.
 

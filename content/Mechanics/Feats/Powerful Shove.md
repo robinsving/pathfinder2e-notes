@@ -8,7 +8,6 @@ tags:
 ---
 
 # Powerful Shove
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can push larger foes around with your attack. You can use [[Aggressive Block]] or [[Brutish Shove]] against a creature up to two sizes larger than you.
 

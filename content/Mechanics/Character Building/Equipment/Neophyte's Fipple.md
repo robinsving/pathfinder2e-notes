@@ -8,7 +8,6 @@ tags:
 ---
 
 # Neophyte's Fipple
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 **Activate** 1 [[Perform]]
 

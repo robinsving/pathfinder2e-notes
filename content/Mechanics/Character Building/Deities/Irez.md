@@ -9,7 +9,6 @@ tags:
 ---
 
 # Irez
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Cards, glyphs, scribes, and spells are all the purview of the Lady of Inscribed Wonder. She holds knowledge and understanding of the great power and symbolism behind runes. In particular, Irez understands how runes can supplement and empower arcane magic. It's through this understanding that Irez is able to make enigmatic predictions on events in the distant future, which more often than not come to pass. Many of her followers are calligraphers, gamblers, harrow readers and others who regularly handle cards and symbols, be they for an arcane purpose, prophetic practices, or their more mundane applications.
 

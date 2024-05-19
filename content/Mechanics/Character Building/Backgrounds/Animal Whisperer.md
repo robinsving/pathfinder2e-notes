@@ -9,7 +9,6 @@ tags:
 ---
 
 # Animal Whisperer
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You have always felt a connection to animals, and it was only a small leap to learn to train them. As you travel, you continuously encounter different creatures, befriending them along the way.
 

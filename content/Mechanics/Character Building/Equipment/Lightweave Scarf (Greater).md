@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lightweave Scarf (Greater)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 The first of these strips of glittering cloth was worn by a monk from Jinin who would interweave it into his _handwraps of mighty blows_. The spell DC of any spell cast by activating this item is 34.
 

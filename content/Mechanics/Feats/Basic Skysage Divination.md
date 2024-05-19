@@ -8,7 +8,6 @@ tags:
 ---
 
 # Basic Skysage Divination
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The stars move, granting you a sliver of their magic. Choose a 1st-level spell from any spell list to add to your spell repertoire. You can Cast this Spell as an occult Oatia skysage spell.
 

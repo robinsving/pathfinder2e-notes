@@ -8,7 +8,6 @@ tags:
 ---
 
 # Glean Contents
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are adept at quickly scanning loose papers and carefully discerning the contents of sealed letters without damaging the seal.
 

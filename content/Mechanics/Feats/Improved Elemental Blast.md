@@ -8,7 +8,6 @@ tags:
 ---
 
 # Improved Elemental Blast
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The power of your elemental blast improves. The damage of your elemental blast increases by one die.
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Summon Wood Elemental
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your connection to the Plane of Wood allows you to summon elemental allies. Once per day, you can cast _[[Summon Elemental]]_ as a 5th-rank primal innate spell, but the elemental must be a wood elemental.

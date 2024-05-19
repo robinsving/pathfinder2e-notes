@@ -8,6 +8,5 @@ tags:
 ---
 
 # Tumble Behind (Rogue)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You tumble under and behind your foe, your rapid movement letting you catch them off guard. When you successfully [[Tumble Through]], the foe whose space you passed through is [[Off-Guard]] against the next attack you make before the end of your turn.

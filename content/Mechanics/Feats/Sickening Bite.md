@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sickening Bite
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your saliva causes severe nausea and mild fever in the living, weakening them so that you can more easily finish them off. When you critically hit a creature with your jaws, the creature is [[Sickened 1]]. This is a disease effect.
 

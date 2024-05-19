@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Toxic Blades (6th-level)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This slender metal wand is tinted green and small images of bladed weapons are etched on its surface.
 

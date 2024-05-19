@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shadowmist Cape
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This black cape flows more like a vaporous liquid than fabric. The cape grants you a +3 item bonus to Stealth checks. When you invest the cape, you either increase your Dexterity score by 2 or increase it to 18, whichever is higher.
 

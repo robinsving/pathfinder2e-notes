@@ -8,7 +8,6 @@ tags:
 ---
 
 # Student Of The Dueling Arts
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have studied a great many combat techniques, which you can review each day. During your daily preparations, you can swap out any number of your duelist archetype feats for other duelist archetype feats of the appropriate level for which you are qualified. You can't swap out Duelist Dedication or Student of the Dueling Arts in this way.
 

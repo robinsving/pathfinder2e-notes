@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wormskin
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your flesh grows thick and bloated, protecting you against harm. You gain resistance equal to half your level versus one of the following types of damage, chosen when you take the feat: fire, cold, or bludgeoning. This choice cannot be changed.
 

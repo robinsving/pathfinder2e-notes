@@ -8,6 +8,5 @@ tags:
 ---
 
 # The Harder They Fall (Kingmaker)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You know how to make a larger creature hurt when it falls to the ground. If you successfully [[Trip]] a foe that's larger than you, it takes 1d8 bludgeoning damage (or 2d8 bludgeoning damage on a critical success). If you are master in Athletics, the damage increases to 2d8 bludgeoning damage (or 4d8 bludgeoning damage on a critical success).

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Jann's Prism
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Light always seems to be refracting through this simple prism, creating a hazy multicolor aura that surrounds the glass. When exposed to direct sunlight, the prism radiates a beam of light that shifts in color. This beam spells out the name of the jann shuyookh for whom the prism was designed. While holding the prism to your eye, your vision becomes overwhelmed with colors that guide your eye, granting you a +2 item bonus to visual Perception checks. If you look through the prism while you [[Seek]], you can scan or search an area twice as large as normal (a 60 foot cone, 30 foot burst, or 20-foot square) as the varying colors help you distinguish between your surroundings.
 

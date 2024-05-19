@@ -8,7 +8,6 @@ tags:
 ---
 
 # Arcane Camouflage
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have developed magical techniques to aid you with stalking your prey. You can cast _[[Blur]]_ and _[[Invisibility]]_ each once per day as 2nd-level arcane innate spells.
 

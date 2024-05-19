@@ -8,7 +8,6 @@ tags:
 ---
 
 # Skill Training
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You become trained in the skill of your choice.
 

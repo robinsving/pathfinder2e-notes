@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sentinel Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have trained carefully to maximize the protective qualities of your armor.
 

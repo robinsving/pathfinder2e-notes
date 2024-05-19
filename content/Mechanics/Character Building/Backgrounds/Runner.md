@@ -9,7 +9,6 @@ tags:
 ---
 
 # Runner
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You served as a messenger for a specific faction, guild, house, or individual, often running those messages on a short timeline. Finding the quickest path from point A to point B is your specialty and you've learned to make the most of your athleticism and navigational skill.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Deflecting Branch
-![[systems-pf2e-icons-default-icons-weapon.svg|150]]
 
 This massive branch has been cut into a general club shape but still bears several knots and has a number of runes carved along its length. The _deflecting branch_ is a _+2 greater striking greatclub_.
 

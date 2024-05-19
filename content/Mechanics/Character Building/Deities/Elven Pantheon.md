@@ -9,7 +9,6 @@ tags:
 ---
 
 # Elven Pantheon
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 The traditional deities of the elven pantheon are [[Calistria]], [[Desna]], [[Findeladlara]] (goddess of twilight and traditional art and architecture), [[Ketephys]] (god of hunting and the moon), and [[Yuelral]] (goddess of gems, craft, and magic). Elves have also adopted [[Alseta]], a minor goddess of doors and transitions, as their patron of teleportation and aiudara (commonly known as elf gates). Most elves value magic, beauty, freedom, and friendship as part of a fulfilling life and tend to worship all of the deities together as exemplars of these values. Alongside full-blooded elves, many half-elves-whether raised by elves or seeking a closer connection to their elven heritage- worship the elven pantheon.
 

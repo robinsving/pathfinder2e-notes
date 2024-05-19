@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tremorsensors
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 These small, metallic devices resemble squashed spheres. They each contain a tiny gyroscope that's incredibly sensitive to vibrations in the earth. While typically worn on one's footwear, the device can be affixed to any part of your armor.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Predict Weather
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 By observing often subtle indicators in the environment, you may try to predict the day's weather. Spend 10 minutes outdoors then attempt a DC 20 survival if conditions are poor, such as attempting to predict weather with impaired visibility). Once you make an attempt to Predict the Weather, you cannot attempt to do so again for 24 hours.
 

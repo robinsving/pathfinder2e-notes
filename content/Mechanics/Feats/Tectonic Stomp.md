@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tectonic Stomp
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You cause minor tremors that topple your enemies. All creatures in a 30 foot emanation who are standing on the ground take 1d6 bludgeoning damage for every 2 levels you have, with a DC resolve reflex save. A creature that fails its save also falls [[Prone]].
 

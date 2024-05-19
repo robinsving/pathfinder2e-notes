@@ -8,7 +8,6 @@ tags:
 ---
 
 # Everair Mask (Greater)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This simple, mass-produced gaiter mask is standard issue for miners working in deep, dangerous mines. While wearing the mask, you gain a +1 item bonus to Fortitude saving throws against inhaled poisons. An _everair mask_ makes use of magical runes related to the Plane of Air to create breathable air.
 

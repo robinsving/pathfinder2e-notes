@@ -9,7 +9,6 @@ tags:
 ---
 
 # Ragdya
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 According to the teachings of Ragdya, at the center of the universe lies the great mountain of Bahmenu. It was upon these slopes that Ragdya was born and where he now again resides as the Sage on the Mountain. Ragdya spent much time in his younger days getting involved in the matters of the other Vudrani gods, giving rise to a repeating number of escapades featuring other deities such as Likha and Chamidu. In spite of his antics, Ragdya is much beloved, as he brings with him an infectious aura of mirth and excitement for all things in life.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Burning Jet
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 A condensed burst of flame shoots behind you, propelling you forward with its sheer force. Stride up to 40 feet in a straight line. Movement from this impulse ignores difficult terrain and doesn't trigger reactions.
 

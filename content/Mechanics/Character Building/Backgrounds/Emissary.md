@@ -9,7 +9,6 @@ tags:
 ---
 
 # Emissary
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 As a diplomat or messenger, you traveled to lands far and wide. Communicating with new people and forming alliances were your stock and trade.
 

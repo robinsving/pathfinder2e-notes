@@ -8,7 +8,6 @@ tags:
 ---
 
 # Fossil Fragment (Amber Mosquito)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 A fossil fragment is a piece of a fossil creature, typically a smaller bone from a larger specimen.
 

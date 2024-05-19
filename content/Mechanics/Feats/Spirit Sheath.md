@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spirit Sheath
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've magically constructed an extradimensional sheath for your weapon that you access through your clothing, typically through a pocket, sleeve, or seam. This sheath is hard to notice, granting a +2 circumstance bonus to your Stealth checks to [[Conceal an Object|Conceal]] an Item within it. A spirit sheath can hold only one weapon at a time, and the weapon must be 1 Bulk or less.
 

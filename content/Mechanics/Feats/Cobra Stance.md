@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cobra Stance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You enter a tight stance, coiled up like a lashing cobra with your hands poised as venomous fangs.
 

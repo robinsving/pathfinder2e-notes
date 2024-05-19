@@ -8,6 +8,5 @@ tags:
 ---
 
 # Abundant Step
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can teleport yourself a short distance. You gain the _[[Abundant Step]]_ ki spell. Increase the number of Focus Points in your focus pool by 1.

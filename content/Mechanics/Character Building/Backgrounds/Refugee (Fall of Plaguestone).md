@@ -9,7 +9,6 @@ tags:
 ---
 
 # Refugee (Fall of Plaguestone)
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 The fighting around the Lake Encarthan region has forced many of the people residing there to flee from the violence. Although your home is gone, you have managed to survive and are making your way south in search of a better life. When play begins, you are riding along in a caravan taking you to what might be either a new home in Andoran or simply another waypoint in your journey.
 

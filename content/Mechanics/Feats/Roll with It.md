@@ -8,7 +8,6 @@ tags:
 ---
 
 # Roll with It
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A foe hits you with a melee weapon or unarmed attack.
 

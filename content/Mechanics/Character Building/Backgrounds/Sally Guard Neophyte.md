@@ -9,7 +9,6 @@ tags:
 ---
 
 # Sally Guard Neophyte
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You joined the Sally Guard, Westgate's guard precinct, at an early age, bringing with you the requisite steel armor, sword, and lance, though your gear is of dubious make. The other guards may have suspected that you were a novice with less combat experience than them; if so, you proved their suspicions on your first day of training when your mount immediately threw you in the mud. A supervisor took mercy on you and offered to transfer you to another guard unit in the city, promising that you'd have a place on the Sally Guard when you decided you were ready for the challenge.
 

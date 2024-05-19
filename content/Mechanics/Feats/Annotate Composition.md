@@ -8,7 +8,6 @@ tags:
 ---
 
 # Annotate Composition
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 By putting composition to paper, you can create a source of stirring words or song that others can read and understand. You spend 10 minutes and 1 Focus Point to transpose a composition spell on a special scroll that you or another creature can later activate. This composition spell must take a single action to cast. If the chosen composition spell requires a Performance check as part of the casting, the GM rolls this check as a secret check when you annotate your score.
 

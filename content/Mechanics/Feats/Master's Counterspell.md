@@ -8,7 +8,6 @@ tags:
 ---
 
 # Master's Counterspell
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A creature Casts a Spell that you have prepared, and that spell was cast or created with a tradition of magic in which you have master proficiency in spell attack rolls and spell DCs.
 

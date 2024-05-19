@@ -9,7 +9,6 @@ tags:
 ---
 
 # Magical Merchant
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Selling magic items isn't like being an ordinary merchant. The wares you buy and sell are expensive, making each sale rare and lucrative. You've developed knowledge of expert handiwork to ensure you don't fall for a scam, since buying a single counterfeit item can lead to bankruptcy. Whether you went out of business and had to find alternative employment, or took up adventuring to acquire new merchandise, you've taken to adventuring yourself.
 

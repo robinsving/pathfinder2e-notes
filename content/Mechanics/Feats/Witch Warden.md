@@ -8,7 +8,6 @@ tags:
 ---
 
 # Witch Warden
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Access** Kellid ethnicity
 

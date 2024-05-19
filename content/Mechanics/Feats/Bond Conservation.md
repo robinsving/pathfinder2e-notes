@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bond Conservation
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** The last action you used was to Cast a Spell enabled by [[Drain Bonded Item]].
 

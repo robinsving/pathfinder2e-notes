@@ -8,7 +8,6 @@ tags:
 ---
 
 # Juggler Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You become trained in Performance; if you were already trained in Performance, you instead become trained in a skill of your choice. You also gain the [[Juggle]] skill feat, even if you don't meet its prerequisites.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ward Mind
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You're currently affected by a mental effect that you gained by failing, but not critically failing, a saving throw.
 

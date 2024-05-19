@@ -9,7 +9,6 @@ tags:
 ---
 
 # Sky Keepers
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 The only thing more expansive than the Mwangi jungles, mountains, and rivers are the skies that rest above them. There are many who would seek to take control of the skies and there are others who seek to keep the skies free for all. From evil spellcasters looking to wield the weather for their own wicked whims to deadly monsters that make them dangerous to travel, the skies are never truly safe. Thankfully, an unlikely alliance of gods works together to keep the skies over the Expanse safe.
 

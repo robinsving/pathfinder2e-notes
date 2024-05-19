@@ -8,7 +8,6 @@ tags:
 ---
 
 # Screech Shooter
-![[systems-pf2e-icons-default-icons-weapon.svg|150]]
 
 Built from the larynx of an owlbear, terror shrike, or similar animal that possesses a frightening screech or similar special ability, a _screech shooter_ is a special _+1 striking harmona gun_ designed to fire terrifying blasts of sound. A _screech shooter_ deals sonic damage but can otherwise be used like a normal harmona gun.
 

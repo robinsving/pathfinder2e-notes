@@ -8,7 +8,6 @@ tags:
 ---
 
 # Demolition Charge
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can rig your bombs to inanimate objects in order to cause destruction to the surrounding area.
 

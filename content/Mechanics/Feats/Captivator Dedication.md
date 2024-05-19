@@ -8,7 +8,6 @@ tags:
 ---
 
 # Captivator Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your ability to captivate others borders on the preternatural. You are seldom at a loss in social situations, and you can create minor enchantments or illusions. Choose Deception or Diplomacy. You become trained in that skill, or become an expert if you were already trained.
 

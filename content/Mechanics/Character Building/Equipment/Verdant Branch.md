@@ -8,7 +8,6 @@ tags:
 ---
 
 # Verdant Branch
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Woody vines and branches curl and twist around each other, growing small twigs, leaves, and flowers across the surface of this prosthetic arm or leg.
 

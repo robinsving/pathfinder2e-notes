@@ -8,6 +8,5 @@ tags:
 ---
 
 # Old Soul
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your immortal lineage has granted you a lifespan much longer than most mortals, and you've learned a lot along the way. You become trained in two skills of your choice.

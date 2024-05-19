@@ -9,7 +9,6 @@ tags:
 ---
 
 # Alkenstar Outlaw
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You're an outlaw whose first crime was stealing the guns from Alkenstar's Gunworks which allowed you to commence a crime spree of epic proportions. You don't know where your road ends, but it's probably going to be a bloody affair. The life of an adventurer might even be a relief compared to a life forever on the run from Alkenstar authorities and their allies.
 

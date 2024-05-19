@@ -8,7 +8,6 @@ tags:
 ---
 
 # Foresee Danger
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A creature targets you with an attack and you can see the attacker.
 

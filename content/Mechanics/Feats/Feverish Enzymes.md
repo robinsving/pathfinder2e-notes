@@ -8,7 +8,6 @@ tags:
 ---
 
 # Feverish Enzymes
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your claws and fangs exude an infectious enzyme, related to the necrotic effects of ghoul fever, that causes a creature's wounds to heal slowly. Strike with your claw or jaws. This attack deals void damage instead of its normal type; on a hit, the target halves any healing it receives until the start of your next turn. The target or an adjacent ally can spend two interact actions to squeeze the enzymes from the wound and remove the effect.
 

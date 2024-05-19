@@ -8,7 +8,6 @@ tags:
 ---
 
 # Undead Slayer Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your training has prepared you to recognize most undead on sight. You become trained in two Lore skills, each about a specific type of undead, or become an expert if you were already trained. You gain the [[Slayer's Identification]] free action.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Overwhelming Breath
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You control your breathing and align it with your ki, exhaling with controlled force in order to overcome your opponent's resistance.
 

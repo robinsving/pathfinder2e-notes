@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hobgoblin Weapon Familiarity
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are trained with [[Composite Longbow|Composite Longbows]], [[Composite Shortbow|Composite Shortbows]], [[Glaive|Glaives]], [[Longbow|Longbows]], [[Longsword|Longswords]], and [[Shortbow|Shortbows]].
 

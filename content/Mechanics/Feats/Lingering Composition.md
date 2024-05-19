@@ -8,6 +8,5 @@ tags:
 ---
 
 # Lingering Composition
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 By adding a flourish, you make your compositions last longer. You learn the _[[Lingering Composition]]_ focus spell.

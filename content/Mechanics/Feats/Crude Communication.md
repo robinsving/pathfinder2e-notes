@@ -8,7 +8,6 @@ tags:
 ---
 
 # Crude Communication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Even if you don't speak a creature's language, you can rely on inflection, root words, and body language to infer rudimentary meaning.
 

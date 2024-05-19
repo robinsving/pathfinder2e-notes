@@ -8,6 +8,5 @@ tags:
 ---
 
 # Judgement of the Monolith
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can use the oaths bound in your ka stone to compel the truth from the living and the dead. You can activate your ka stone to target a single living creature, causing that creature to experience the effects of being in a _[[Ring of Truth]]_. You can also activate it with a 10-minute activation (envision) to cast _[[Talking Corpse]]_.

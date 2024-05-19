@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sudden Mindfulness
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You roll a success on a saving throw against an effect that would make you [[Fascinated]] or [[Dazzled]].
 

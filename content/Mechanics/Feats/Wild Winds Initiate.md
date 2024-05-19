@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wild Winds Initiate
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You learn a mystical stance that lets you attack from a distance. You gain the _[[Wild Winds Stance]]_ ki spell. Increase the number of Focus Points in your focus pool by 1.
 

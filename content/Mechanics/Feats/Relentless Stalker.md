@@ -8,7 +8,6 @@ tags:
 ---
 
 # Relentless Stalker
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An adjacent creature you are hunting attempts to move away from you using an action that has the move trait
 

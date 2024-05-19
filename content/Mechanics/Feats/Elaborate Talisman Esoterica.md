@@ -8,7 +8,6 @@ tags:
 ---
 
 # Elaborate Talisman Esoterica
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 As you continue to collect talismanic esoterica, you improve your ability to create temporary talismans. You can create four temporary talismans each day instead of two.
 

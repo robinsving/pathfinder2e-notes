@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sure-Step Crampons
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 _Sure-step crampons_ are sturdy leather boots with warm fur lining and magically augmented steel crampons that offer the wearer purchase on even the slipperiest ice slicks. They allow you to walk across ice without difficulty, ignoring the uneven ground and difficult terrain caused by ice, and reducing greater difficult terrain caused by ice to difficult terrain.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sacrifice Armor
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You are hit by a Strike that deals physical damage.
 

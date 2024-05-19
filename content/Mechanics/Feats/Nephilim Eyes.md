@@ -8,6 +8,5 @@ tags:
 ---
 
 # Nephilim Eyes
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your eyes can see through darkness with visual acuity akin to that possessed by most extraplanar beings. You gain darkvision.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spiral Chimes
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 _Spiral chimes_ are a set of small metal bells decorated with spiraling designs that hang on thin wires from a carved statue of a storm cloud or air elemental. Each bell in the _spiral chimes_ rings at a different tone, and when caught in the turbulent winds of a storm, the bells combine to create deep, full songs.
 

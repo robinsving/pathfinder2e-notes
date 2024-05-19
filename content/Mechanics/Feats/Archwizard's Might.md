@@ -8,6 +8,5 @@ tags:
 ---
 
 # Archwizard's Might
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have mastered the greatest secrets of arcane magic. You gain an additional 10th-rank spell slot.

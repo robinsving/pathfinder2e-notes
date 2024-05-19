@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tengu Feather Fan
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've learned to bind some of your feathers together into a fan to focus your ancestral magic. You gain a _tengu feather fan_: a magic item of light Bulk with a level equal to your level and the evocation and primal traits. You (and only you) can use the _tengu feather fan_ to cast tengu magic. If your fan is lost or destroyed, you can create a replacement during your daily preparations; if you do so, your previous fan falls apart into mundane feathers. Further feats might grant you additional activations of your _tengu feather fan_, but you can never have more than three activations per day, no matter how many such feats you have. The DC for spells you cast with your _tengu feather fan_ is your class DC or spell DC, whichever is higher. You can cast the 1st-level _[[Gust of Wind]]_ spell by activating your _tengu feather fan_. DC resolve fortitude{Fortitude saving throw}
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Symphony Of Blood
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You call forth the blood of your foes to grant you vigor. Once per day, you can cast _[[Vampiric Exsanguination]]_ as a 7th-level divine innate spell.

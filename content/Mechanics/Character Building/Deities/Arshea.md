@@ -9,7 +9,6 @@ tags:
 ---
 
 # Arshea
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Appearing in art more than any of the other empyreal lords, the Spirit of Abandon represents freedom, physical beauty, and sexuality. More than anything else, freedom is what matters to Arshea. For many this is most commonly seen as freedom for sexual expression, but Arshea represents the freedom to experience all that is good in the world, be it an ideology or a specific emotional or physical expression. So long as it doesn't harm others, Arshea believes creatures should do, think, and feel as they will. They encourage their followers to try new things, to think in new ways, and to wear new forms.
 

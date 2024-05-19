@@ -8,7 +8,6 @@ tags:
 ---
 
 # Lucky Kitchen Witch
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This small doll in the shape of a witch is made from sticks and clad in a simple dress, bonnet, and wooden shoes. It sits astride a miniature straw broom. When hung in a kitchen, the witch brings good luck and protects a cook from malicious spirits. The _lucky kitchen witch_ must hang in a kitchen for a week to give any benefit.
 

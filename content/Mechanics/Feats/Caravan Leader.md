@@ -8,7 +8,6 @@ tags:
 ---
 
 # Caravan Leader
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You know how to get the most effort out of your allies on the road.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Inured to Alchemy
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Access** You're from Alkenstar or the Mana Wastes.
 

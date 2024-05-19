@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shisk Lore
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You hoard knowledge like a dragon hoards gold. You gain the trained proficiency rank in three Lore skills of your choice. You also become trained in Shisk Lore.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bloodline Mutation
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You permanently mutate to become more like the creatures of your bloodline. You gain the appropriate trait or traits for those types of creatures (aberration for aberrant, angel and celestial for angelic, psychopomp and monitor for psychopomp, and so on).
 

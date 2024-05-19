@@ -8,6 +8,5 @@ tags:
 ---
 
 # Impossible Striker
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Nothing can prevent you from making a sneak attack, even if your opponent can see every blow coming. Instead of dealing the damage from [[Sly Striker]], you can deal your full sneak attack damage to a target even if the target isn't [[Off-Guard]].

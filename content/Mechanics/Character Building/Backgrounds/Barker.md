@@ -9,7 +9,6 @@ tags:
 ---
 
 # Barker
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You're skilled at shouting to catch and keep the attention of passersby. A few well-timed and forcefully spoken words not only get people to notice you but also engage them to respond to you. You may have previously worked as a crier or in a more formal barker capacity with Mistress Dusklight's Celestial Menagerie. Either way, your ability to bully a crowd is impressive.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sapping Symbol
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** While you have your symbol raised, you are about to take damage from a melee attack.
 

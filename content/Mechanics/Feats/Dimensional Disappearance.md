@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dimensional Disappearance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You take advantage of teleportation to better hide your position. When you cast _[[Dimensional Assault]]_, you're affected by an _[[Invisibility]]_ spell at the end of the teleport.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Agile Shield Grip
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are wielding a shield with a shield boss or shield spikes in one hand.
 

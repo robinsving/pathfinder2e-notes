@@ -8,7 +8,6 @@ tags:
 ---
 
 # Archaeologist's Warning
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You are about to roll a Perception, Society, or Thievery check for initiative.
 

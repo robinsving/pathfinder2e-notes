@@ -8,7 +8,6 @@ tags:
 ---
 
 # Push Back the Dead!
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You call to your ally and strengthen their resolve and abilities to defend against the horrific tricks undead bring to bear. The ally gains a +2 circumstance bonus to saves against effects originating from undead. It also gains resistance to damage from Strikes made by undead creatures equal to half your Charisma modifier.
 

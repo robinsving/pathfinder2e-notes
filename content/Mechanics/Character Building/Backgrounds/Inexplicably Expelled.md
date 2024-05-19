@@ -9,7 +9,6 @@ tags:
 ---
 
 # Inexplicably Expelled
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Gaining admission to Blythir College is a difficult task, even for Alkenstar's most well-to-do families. In the magic-warped Mana Wastes, it's next to impossible to fake arcane talents or alchemical aptitude. So when you were accepted to the school, it was one of the most triumphant moments of your life.
 

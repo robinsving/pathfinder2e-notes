@@ -8,7 +8,6 @@ tags:
 ---
 
 # Reflecting Shard (Greater)
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 **Activate** r command
 

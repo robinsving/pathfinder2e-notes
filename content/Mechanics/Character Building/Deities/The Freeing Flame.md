@@ -9,7 +9,6 @@ tags:
 ---
 
 # The Freeing Flame
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Local stories say that the people of Vidrian had the support of the gods when the time came for revolution. Lubaiko provided the first flames of rebellion, literally igniting the first cart that led to the initial confrontation at a plantation on the outskirts of Eleder. The tales then note that the casks on the cart erupted as the first blow was struck, creating a massive explosion that woke everyone on the plantation. Many say this was Cayden Cailean's way of showing his support. As everyone stirred about and watched those first servants and slaves fight, others were fearful of the consequences. It was the touch of hope that Milani granted them that finally gave them the strength to rise up and fight for freedom.
 

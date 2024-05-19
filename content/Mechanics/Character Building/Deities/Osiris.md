@@ -9,7 +9,6 @@ tags:
 ---
 
 # Osiris
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Edicts** Ensure the health of crops and vegetation, protect the bodies and souls of the worthy dead, avenge the wrongly murdered
 

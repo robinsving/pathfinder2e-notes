@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sticky Poison
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 A combination of additional viscosity and careful application keeps your weapons poisoned even when suffering significant wear and tear.
 

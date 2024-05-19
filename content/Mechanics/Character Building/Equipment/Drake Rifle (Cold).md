@@ -8,7 +8,6 @@ tags:
 ---
 
 # Drake Rifle (Cold)
-![[systems-pf2e-icons-default-icons-weapon.svg|150]]
 
 A drake rifle is a firearm made from the saliva glands of a drake. The firearm launches small bursts of empowered spittle instead of typical rounds of ammunition. A drake rifle is a +1 weapon. It's a distinct type of martial firearm that deals 1d10 acid damage with a range increment of 150 feet and reload 1. On a critical hit, the spittle clings to the target and they take persistent damage of the same type as the weapon equal to 1d4 + the number of weapon damage dice. A drake rifle does not add critical specialization effects.
 

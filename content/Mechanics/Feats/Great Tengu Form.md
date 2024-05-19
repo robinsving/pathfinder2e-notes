@@ -8,7 +8,6 @@ tags:
 ---
 
 # Great Tengu Form
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You take on the imposing form of a large, winged oni.
 

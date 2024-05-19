@@ -8,7 +8,6 @@ tags:
 ---
 
 # Warden's Signet
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This symbol shows your dedication to the magic practiced by some rangers. Most rangers wear it on an amulet, ring, or piercing. You gain a +2 item bonus to Nature checks.
 

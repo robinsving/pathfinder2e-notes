@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blessed Medicine
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You fail a check to Treat a Disease that was inflicted by an undead (such as ghoul fever or mummy rot).
 

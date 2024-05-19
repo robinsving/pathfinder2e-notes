@@ -8,7 +8,6 @@ tags:
 ---
 
 # Worm Sense
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You emulate the senses of the cave worm. You gain darkvision and tremorsense as an imprecise sense within 5 feet.
 

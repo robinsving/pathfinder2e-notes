@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shining Oath
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've sworn an oath to put the undead to rest. You gain the following edict: "You must end the existence of undead you encounter as long as you have a reasonable chance of success; in the unlikely event you find an undead that isn't unholy, you can try to work out a more peaceful way to help it recover from its undead state rather than destroying it in combat, such as helping it complete its unfinished business and find peace."
 

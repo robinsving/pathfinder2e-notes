@@ -9,7 +9,6 @@ tags:
 ---
 
 # Undertaker
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 People die. This is the unfortunate fact of life on which you've founded your business, because wherever people die, there is a demand for mortuary services. You might be a Pharasmin priest or a secular professional, but your job is seeing to the body, comforting the bereaved, and making sure that the deceased goes to their ultimate reward with all due dignity. Of course, someone in your position sees a lot of strange deaths, and chances are one of them set you on the road to adventure.
 

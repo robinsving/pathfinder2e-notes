@@ -8,7 +8,6 @@ tags:
 ---
 
 # Natural Magnetism
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your connection with elemental iron grants you a natural field of weak magnetic attraction. You can cast _[[Magnetic Attraction]]_ and _[[Magnetic Repulsion]]_ once per day each as 2nd-rank primal innate spells.
 

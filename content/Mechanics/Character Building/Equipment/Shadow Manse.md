@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shadow Manse
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This miniature dollhouse is made of dark wood with steep eaves and wide windows. Close inspection through the open windows reveals the inside to be elaborately decorated with fine furniture and ebony accoutrements.
 

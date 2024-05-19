@@ -8,7 +8,6 @@ tags:
 ---
 
 # Command Attention
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You command the attention of all around you with style, ensuring their gaze falls only upon you until the end of your next turn.
 

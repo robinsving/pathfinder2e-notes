@@ -8,7 +8,6 @@ tags:
 ---
 
 # Energy Fusion
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You fuse two spells together, combining their energy types.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Redirecting Shot
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An ally misses with a ranged attack that uses a thrown weapon or ammunition. The ally must be willing to accept your assistance, you must see the attack's target, and the attack's target must be within the first range increment of your firearm or crossbow.
 

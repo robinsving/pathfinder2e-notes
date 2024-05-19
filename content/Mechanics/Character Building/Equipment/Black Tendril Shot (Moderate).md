@@ -8,7 +8,6 @@ tags:
 ---
 
 # Black Tendril Shot (Moderate)
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 **Ammunition** any
 

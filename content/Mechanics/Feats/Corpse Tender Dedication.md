@@ -8,7 +8,6 @@ tags:
 ---
 
 # Corpse Tender Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have a connection to mindless undead that allows you to communicate your intentions to them on a rudimentary level. You can use Diplomacy to [[Make an Impression]] on mindless undead and to make very simple [[Request|Requests]] of them; their mindless trait doesn't grant immunity to these mental effects. Most mindless undead are likely hostile toward you by default and must be kept at a safe distance to give you time to Make an Impression.
 

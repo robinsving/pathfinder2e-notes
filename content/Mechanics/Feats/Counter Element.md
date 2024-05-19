@@ -8,7 +8,6 @@ tags:
 ---
 
 # Counter Element
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You're targeted by or in the area of an effect that has the trait matching your kinetic element and originates from an enemy or hazard.
 

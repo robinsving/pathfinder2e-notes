@@ -8,6 +8,5 @@ tags:
 ---
 
 # Esoteric Reflexes
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your bond to your implements is so strong that you can use their reactive abilities almost by instinct. At the start of your turn, you gain an additional reaction, which you can use for only the reactions granted by your implements.

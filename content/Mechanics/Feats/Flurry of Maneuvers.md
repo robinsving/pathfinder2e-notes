@@ -8,6 +8,5 @@ tags:
 ---
 
 # Flurry of Maneuvers
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You flurry is a combination of maneuvers. You can replace one or both of your attacks during a Flurry of Blows with [[Grapple|Grapples]], [[Shove|Shoves]], or [[Trip|Trips]].

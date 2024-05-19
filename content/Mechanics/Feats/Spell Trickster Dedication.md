@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spell Trickster Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your experience with magic and its traditions lets you specialize in the casting of certain spells, customizing familiar spells to create novel effects. Whenever you gain a feat from this archetype, you either learn to modify the effects of a single spell, or you change one of the modifications from a previous feat. Each time you Cast the Spell corresponding to the feat you chose, you decide whether to cast its normal or modified version. You can only apply one modification to a spell at a time, even if you know more than one modification for that spell. Besides modifications mentioned in the feat, the spell functions as normal.
 

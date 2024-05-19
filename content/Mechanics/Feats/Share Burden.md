@@ -8,7 +8,6 @@ tags:
 ---
 
 # Share Burden
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An ally within 60 feet would be affected by a curse or misfortune effect, and you wouldn't be affected but you are an eligible target for the effect.
 

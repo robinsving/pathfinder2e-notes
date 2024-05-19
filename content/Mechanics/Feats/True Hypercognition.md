@@ -8,6 +8,5 @@ tags:
 ---
 
 # True Hypercognition
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your mind works at an incredible pace. You instantly use up to five Recall Knowledge actions. If you have any special abilities or free actions that would normally be triggered when you [[Recall Knowledge]], you can't use them for these actions.

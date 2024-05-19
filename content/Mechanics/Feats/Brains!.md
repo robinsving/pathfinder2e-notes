@@ -8,7 +8,6 @@ tags:
 ---
 
 # Brains!
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You Feast upon a humanoid's brain. The humanoid can't be mindless (or, if you're Feasting on a corpse, can't have been mindless while alive).
 

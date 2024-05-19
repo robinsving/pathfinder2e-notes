@@ -9,7 +9,6 @@ tags:
 ---
 
 # Artist
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Your art is your greatest passion, whatever form it takes. Adventuring might help you find inspiration, or simply be a way to survive until you become a world-famous artist.
 

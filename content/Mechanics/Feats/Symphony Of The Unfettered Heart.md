@@ -8,6 +8,5 @@ tags:
 ---
 
 # Symphony Of The Unfettered Heart
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You learn the _[[Symphony of the Unfettered Heart]]_ composition spell, which enables you to protect an ally against incapacitating conditions.

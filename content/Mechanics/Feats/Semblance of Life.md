@@ -8,7 +8,6 @@ tags:
 ---
 
 # Semblance of Life
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You deal damage to a living creature with your fist Strike or with Desiccating Inhalation.
 

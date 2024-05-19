@@ -8,7 +8,6 @@ tags:
 ---
 
 # Expert Scroll Cache
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your scroll collection is more powerful.
 

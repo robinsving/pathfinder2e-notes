@@ -8,6 +8,5 @@ tags:
 ---
 
 # Spellstriker
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain the magus's [[Spellstrike]] activity. You can recharge it only as an activity that takes 1 minute. This restriction applies even if you gain another ability that recharges Spellstrike.

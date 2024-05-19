@@ -8,7 +8,6 @@ tags:
 ---
 
 # Predatory Claws
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your nails grow into sharp claws, perfect for seizing and tearing your prey. You gain a claw unarmed attack that deals 1d4 slashing damage. Your claws are in the brawling group and have the agile, finesse, and unarmed traits.
 

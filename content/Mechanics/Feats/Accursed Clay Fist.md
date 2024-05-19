@@ -8,7 +8,6 @@ tags:
 ---
 
 # Accursed Clay Fist
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have replaced one of your forearms with one made of clay and infused with cursed arcane magic. When you make an unarmed Strike with your clay fist and hit, your target takes a -2 status penalty to saving throws against curse effects for 1 hour.
 

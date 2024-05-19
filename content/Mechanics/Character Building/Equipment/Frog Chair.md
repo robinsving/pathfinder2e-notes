@@ -8,7 +8,6 @@ tags:
 ---
 
 # Frog Chair
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This clockwork traveler's chair is shaped like a wheeled frog, with springs attached to the bottom and an extensible tongue on the front.
 

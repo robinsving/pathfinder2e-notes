@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sleepwalker Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've learned to manipulate states of consciousness, beginning with your own. You can send yourself into a half-awake, daydreaming state and gain the [[Daydream Trance]] action.
 

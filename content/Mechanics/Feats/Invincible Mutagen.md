@@ -8,7 +8,6 @@ tags:
 ---
 
 # Invincible Mutagen
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Repeated exposure to fortifying additives in mutagens makes your juggernaut form impervious.
 

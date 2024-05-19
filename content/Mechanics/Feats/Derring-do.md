@@ -8,7 +8,6 @@ tags:
 ---
 
 # Derring-do
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you compound [[Panache]] with even more derring-do, it somehow tends to work out.
 

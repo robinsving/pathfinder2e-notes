@@ -8,6 +8,5 @@ tags:
 ---
 
 # Shory Aerialist
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Unique in Golarion's history, the Shory people developed fighting styles dedicated to combat in the air. You gain a +2 circumstance bonus to Acrobatics checks to Maneuver in Flight and a +5-foot status bonus to your fly Speed whenever you are flying via magic.

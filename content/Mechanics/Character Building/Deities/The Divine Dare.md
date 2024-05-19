@@ -9,7 +9,6 @@ tags:
 ---
 
 # The Divine Dare
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Just as a group of rowdy friends may throw outlandish challenges at each other around a campfire or tavern table, the gods of the Divine Dare urge each other, and their followers, into performing daring acts that most would quail at. Kurgess favors dares for athletic prowess that push competitors to their utmost ability. The empyreal lord Marishi's festivals are frequent gathering places for worshippers of the entire pantheon, and many a friendly wager is exchanged over games of chance and tests of skill. Jin Li encourages all to persevere through risky challenges with strength and creativity. Cayden Cailean blesses any challenge that will lead to glory and adventure.
 

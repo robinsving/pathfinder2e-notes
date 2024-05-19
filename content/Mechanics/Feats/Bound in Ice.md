@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bound in Ice
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You become a hybrid of your ancestry and a saumen kar. Your size increases to Large, and your reach becomes 10 feet. Your cold resistance increases to be equal to your level, and you gain fire resistance equal to half your level.
 

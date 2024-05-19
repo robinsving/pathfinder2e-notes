@@ -9,7 +9,6 @@ tags:
 ---
 
 # Ferrumnestra
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 ## **Ferrumnestra**, The Lady of Rust
 

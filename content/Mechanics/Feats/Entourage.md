@@ -8,7 +8,6 @@ tags:
 ---
 
 # Entourage
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have a small group of admirers who tend to follow you around while you're in civilized settlements.
 

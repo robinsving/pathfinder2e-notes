@@ -8,7 +8,6 @@ tags:
 ---
 
 # Superior Propulsion
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 By experimenting with the effects of momentum gained from your signature vehicle's movement, you have learned to get more from propulsion than just speed when the pilot pushes the vehicle to its limit. Each time the pilot Drives your signature vehicle as a 2- or 3-action activity and succeeds at the Piloting check, the vehicle produces an additional effect, depending on its method of propulsion. If your signature vehicle has more than one propulsion method, the pilot can select which benefit to gain each time they succeed at the Piloting check to Drive the vehicle as a 2- or 3-action activity.
 

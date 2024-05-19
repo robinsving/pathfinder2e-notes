@@ -8,7 +8,6 @@ tags:
 ---
 
 # Take the Wheel
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are adjacent to a vehicle's point of entry.
 

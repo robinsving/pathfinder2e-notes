@@ -8,7 +8,6 @@ tags:
 ---
 
 # Scholar's Drop
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 University students in Katapesh first used the scholar's drop to gain an edge over their academic rivals, but the candy has since spread across Golarion. The flavor of this hard, sugar-coated candy is highly refreshing and based on lemon and green tea. For 1 hour, you gain a +1 item bonus to saving throws against effects that could render you [[Fatigued]].
 

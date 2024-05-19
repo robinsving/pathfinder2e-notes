@@ -8,6 +8,5 @@ tags:
 ---
 
 # Stitched Familiar
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your familiar can shed its material form, becoming a mass of animated magic. Your familiar gains the [[Stitching Strike]] activity.

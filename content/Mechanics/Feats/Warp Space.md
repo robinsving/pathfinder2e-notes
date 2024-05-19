@@ -8,7 +8,6 @@ tags:
 ---
 
 # Warp Space
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You use your magic to bend space, causing your spell to strike from a strange vector. Use this amp in place of a psi cantrip's normal amp entry. The amped psi cantrip must have a range.
 

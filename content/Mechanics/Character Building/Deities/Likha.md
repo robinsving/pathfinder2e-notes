@@ -9,7 +9,6 @@ tags:
 ---
 
 # Likha
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 The Teller has existed ever since the first sound of existence emanated from the focal point of the cosmos, blessing all of creation with the capacity for perception. She uttered the concept of language, she sang in echo with all that would be, and in hubris that would color all her sorrows, she thought to make that which emanated truth. In doing so, she birthed deception. The Teller watched the acts of the progenitor, Vudravati, and of her twin lovers Obari and Embaral.
 

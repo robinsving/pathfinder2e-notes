@@ -8,7 +8,6 @@ tags:
 ---
 
 # Breath Blaster (Greater)
-![[systems-pf2e-icons-default-icons-weapon.svg|150]]
 
 A _greater breath blaster_ is a _+2 greater striking blunderbuss_ most commonly crafted from the trachea of a dragon, though other creatures with breath weapons or the ability to spit energy are occasionally used. The implementation of the dragon's trachea allows the firearm to unleash a torrent of pure energy in the form of gouts of flame or bolts of electricity.
 

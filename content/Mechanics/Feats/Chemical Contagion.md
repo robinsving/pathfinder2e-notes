@@ -8,7 +8,6 @@ tags:
 ---
 
 # Chemical Contagion
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A creature within 30 feet critically fails its initial saving throw against a poison you created.
 

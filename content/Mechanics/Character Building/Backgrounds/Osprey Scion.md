@@ -9,7 +9,6 @@ tags:
 ---
 
 # Osprey Scion
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You are the birth or adopted child of one of the five elders of Osprey Cove, and your parent or guardian volunteers you to accompany Elder Ordwi on her trip to Iron Harbor, hoping to get an unbiased account of events. If your parent or guardian is Ordwi, then she values your companionship and insight and wants you along on this important mission.
 

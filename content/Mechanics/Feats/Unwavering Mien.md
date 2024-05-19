@@ -8,7 +8,6 @@ tags:
 ---
 
 # Unwavering Mien
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your mystic control and meditations allow you to resist external influences upon your consciousness. Whenever you are affected by a mental effect that lasts at least 2 rounds, you can reduce the duration by 1 round.
 

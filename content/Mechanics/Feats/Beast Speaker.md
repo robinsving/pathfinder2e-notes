@@ -8,6 +8,5 @@ tags:
 ---
 
 # Beast Speaker
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You constantly have the effects of speak with animals as a 2nd-level innate primal spell. You gain a +2 circumstance bonus to Diplomacy checks to Make a Request of animals while this spell is active.

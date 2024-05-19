@@ -9,7 +9,6 @@ tags:
 ---
 
 # Kitumu
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 If any fervent devotees of the monstrous firefly goddess exist, they don't venture into civilization. The closest Kitumu has to servants or worshipers are those willing to placate the goddess in order to satisfy her demands and hungers.
 

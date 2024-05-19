@@ -9,7 +9,6 @@ tags:
 ---
 
 # Unremarkable
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Your face is particularly unremarkable, even if your presence or actions may not be. You know how to use this to your advantage, making it difficult for people to identify and collect information about you.
 

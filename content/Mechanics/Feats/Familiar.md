@@ -8,7 +8,6 @@ tags:
 ---
 
 # Familiar
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Magus, Sorcerer** An animal serves you and assists your spellcasting.
 

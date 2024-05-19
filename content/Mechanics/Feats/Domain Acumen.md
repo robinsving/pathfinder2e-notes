@@ -8,7 +8,6 @@ tags:
 ---
 
 # Domain Acumen
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Every oracle's mystery touches on a divine domain of the deities that fuel it; you can access that power.
 

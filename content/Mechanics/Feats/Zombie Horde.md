@@ -8,7 +8,6 @@ tags:
 ---
 
 # Zombie Horde
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You built your reanimated construct companion of modular components from various corpses. Its unique makeup enables your companion to split into dozens or even hundreds of much smaller corpse constructs. Acting as one, this shambling swarm can overwhelm your enemies.
 

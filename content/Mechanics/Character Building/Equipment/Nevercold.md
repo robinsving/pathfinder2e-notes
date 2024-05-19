@@ -8,7 +8,6 @@ tags:
 ---
 
 # Nevercold
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 **Activate** Cast a Spell (add 1 action)
 

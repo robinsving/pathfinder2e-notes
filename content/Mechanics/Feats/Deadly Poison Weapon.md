@@ -8,7 +8,6 @@ tags:
 ---
 
 # Deadly Poison Weapon
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your poisons are devastatingly potent. When you apply a simple poison with [[Poison Weapon]], the poison deals 4d4 poison damage instead of 1d4 poison damage.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hellknight Order Cross-Training
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain the lesser order benefit of a Hellknight order other than the one to which you belong. This represents your time spent training with members of that order to learn their techniques and teachings. If you aren't in good standing with a given order, you can't receive their training.
 

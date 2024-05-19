@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dueling Dance (Swashbuckler)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are wielding only a single one-handed melee weapon and have your other hand or hands free.
 

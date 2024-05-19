@@ -8,7 +8,6 @@ tags:
 ---
 
 # Well-Groomed
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are fastidious about keeping yourself clean, whether licking your fur or carefully using traditional catfolk hygiene products, to salubrious effect.
 

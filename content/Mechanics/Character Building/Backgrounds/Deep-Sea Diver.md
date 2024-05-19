@@ -9,7 +9,6 @@ tags:
 ---
 
 # Deep-Sea Diver
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 The sapphire depths of the seas and the mysteries they hold beneath their surface have always piqued your interest. Your obsession with the ocean depths cannot be contained to one world alone, and you've read tomes and journals about the source of all water, everywhere, hoping to one day understand the watery secrets of the great unknown.
 

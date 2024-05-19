@@ -8,6 +8,5 @@ tags:
 ---
 
 # Syu Tak-nwa's Deadly Hair
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your hair unarmed attack deals 1d6 bludgeoning damage and gains the grapple trait.

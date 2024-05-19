@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dragging Strike
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You aim your weapon to snag a foe's armor, clothing, or flesh to pull them closer.
 

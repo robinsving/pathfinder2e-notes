@@ -9,6 +9,5 @@ draft: true
 ---
 
 # Spindly Anadi
-![[systems-pf2e-icons-default-icons-heritage.svg|150]]
 
 Your limbs are exceptionally long in both forms, allowing you to skitter about with surprising agility. Your Speed increases from 25 to 30 feet.

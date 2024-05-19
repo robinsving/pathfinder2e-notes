@@ -9,7 +9,6 @@ tags:
 ---
 
 # Fogfen Tale-Teller
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You know there are monstrous things out in the swamp known as Fogfen; you've seen these things through the mist, gliding through the murky water and heaving themselves over sodden bits of land. No one in Otari believes your tales of swamp monsters from the depths, even when you embellish the creatures of your stories with fangs, wings, or tentacles. You'll just have to prove to them that there are truly monsters out there, and that they were wrong to doubt you.
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Familiar Foe
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You regularly face off against undead and can identify many with a glance. You gain a +1 circumstance bonus on skill checks to Recall Knowledge about undead. Whenever you roll a critical failure on a check to Recall Knowledge about undead, you get a failure instead.

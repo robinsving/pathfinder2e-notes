@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tengu Weapon Familiarity
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've trained with a blade and other tengu weapons ever since you hatched. You gain access to [[Khakkhara|Khakkharas]].
 

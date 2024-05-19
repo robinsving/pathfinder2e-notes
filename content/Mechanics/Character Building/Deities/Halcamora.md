@@ -9,7 +9,6 @@ tags:
 ---
 
 # Halcamora
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Halcamora** is an agathion empyreal lord who watches over gardens, parks, and wineries.
 

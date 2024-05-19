@@ -9,7 +9,6 @@ tags:
 ---
 
 # Awful Scab
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Prior to the Evisceration of 4707, the district of V'drysha was a lovely borough on the southern edge of Ecanus. Now, it's the Awful, a vast morass of spell-resistant flesh and sinew, ever threatening to engulf the city. You were once a Scab working to push back its influence. It's a nasty, dangerous job, and poorly paid as well, but at least you learned enough to mimic a viscerasuit, the enchanted, airtight suit that protected you from the poisons and plagues of the Awful.
 

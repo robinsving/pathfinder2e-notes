@@ -8,7 +8,6 @@ tags:
 ---
 
 # Friendform
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The shared bond between you and your allies allows you to act on their behalf.
 

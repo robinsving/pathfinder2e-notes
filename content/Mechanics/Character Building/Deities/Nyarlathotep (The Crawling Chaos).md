@@ -9,7 +9,6 @@ tags:
 ---
 
 # Nyarlathotep (The Crawling Chaos)
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Nyarlathotep is a being of a thousand shapes, each of which has a name, such as the Haunter of the Dark or the Black Pharaoh. Because he has walked the world in mortal form, Nyarlathotep is unique among the Outer Gods for appearing comprehensible and understandable-but this is a facade. The Crawling Chaos, as he is also known, appears humanlike not because he identifies with mortal concerns or cares for his mortal followers, but because a mortal shape makes it easier for him to do his work: spreading the influence of the Outer Gods.
 

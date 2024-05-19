@@ -8,7 +8,6 @@ tags:
 ---
 
 # Investigator's Stratagem
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You play out battles in your head, allowing you to Strike when the time is right. You gain the [[Devise a Stratagem|Devise a Strategem]] action; however, when you substitute its result for your attack roll, you can't use your Intelligence modifier in place of your Strength or Dexterity modifier.
 

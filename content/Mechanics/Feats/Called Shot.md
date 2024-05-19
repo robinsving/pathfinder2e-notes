@@ -8,7 +8,6 @@ tags:
 ---
 
 # Called Shot
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You target a specific area of your foe's anatomy to debilitating effect. Declare a part of your foe's anatomy to target and make a ranged weapon Strike. If you hit and deal damage, the target takes one of the following effects, based on the body part you targeted. The GM should use the stated effects as a guideline when attacking creatures with stranger anatomy-for instance, applying the “arms” effect to a creature's tentacles if those are what the creature uses to attack.
 

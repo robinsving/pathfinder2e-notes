@@ -8,7 +8,6 @@ tags:
 ---
 
 # Advanced Elemental Spell
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your connection to one of the great elemental aspects of nature deepens, allowing you further control over its powers.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Runescarred Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Access** You are from the Saga Lands.
 

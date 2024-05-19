@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sheltering Slab
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The stone around you is your ally, and you have learned to use it to shore up your weaknesses.
 

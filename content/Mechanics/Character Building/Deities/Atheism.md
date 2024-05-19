@@ -9,7 +9,6 @@ tags:
 ---
 
 # Atheism
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 While most concede that the gods exist, some do not view them as worthy of worship, and a few even deny their presence altogether.
 

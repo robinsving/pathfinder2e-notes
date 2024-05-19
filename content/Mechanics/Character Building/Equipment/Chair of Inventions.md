@@ -8,7 +8,6 @@ tags:
 ---
 
 # Chair of Inventions
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This wheelchair is outfitted with a variety of tools and devices to assist with the creation and production of a number of mechanical implements. While seated in a chair of inventions, you have a worn superb repair kit that doesn't count against your Bulk limit or maximum worn items.
 

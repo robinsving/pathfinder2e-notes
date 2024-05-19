@@ -8,6 +8,5 @@ tags:
 ---
 
 # Finned Ridges
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The ridges and flaps of your skin steer you through the water. You gain a swim Speed of 15 feet.

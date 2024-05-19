@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mystery Conduit
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The power of your mystery enables you to cast more than just revelation spells.
 

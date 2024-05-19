@@ -8,7 +8,6 @@ tags:
 ---
 
 # Advanced Devotion
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain one champion feat. For the purpose of meeting its prerequisites, your champion level is equal to half your character level.
 

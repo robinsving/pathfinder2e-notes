@@ -8,6 +8,5 @@ tags:
 ---
 
 # Snare Crafting
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can use the Craft activity to create snares. When you select this feat, you add the formulas for four common snares to your formula book.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Weight Of Stone
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 A packed cloud of thundering boulders descends from the sky, beating down everyone in its path. The rain of stone falls in a cylinder 20 feet in diameter and 80 feet high, and the bottom must be within 120 feet of you. Each creature in the area takes 4d8 bludgeoning  damage and might be pushed downward, depending on its DC reflex save against your class DC.
 

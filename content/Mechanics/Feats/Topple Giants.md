@@ -8,7 +8,6 @@ tags:
 ---
 
 # Topple Giants
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you observe an ally try and fail to execute a strategic maneuver against your enemies, you coordinate with your other allies to finish the job, using the opening from the first attempt to keep your foe off-balance and ensure your eventual success.
 

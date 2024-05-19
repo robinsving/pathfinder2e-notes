@@ -9,7 +9,6 @@ tags:
 ---
 
 # Sobek
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Edicts** Take what you want, indulge in base desires, feast on luxurious food, kill demons and evil creatures
 

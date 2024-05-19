@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gravelands Herbalist
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Access** Knights of Lastwall have access to this feat.
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Incredible Initiative
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You react more quickly than others can. You gain a +2 circumstance bonus to initiative rolls.

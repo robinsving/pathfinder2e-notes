@@ -8,6 +8,5 @@ tags:
 ---
 
 # Spellshape Mastery
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your mastery of magic ensures that you can alter your spells just as easily as you can cast them normally. You can use spellshape single actions as free actions.

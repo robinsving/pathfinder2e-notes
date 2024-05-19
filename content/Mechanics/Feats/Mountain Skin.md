@@ -8,6 +8,5 @@ tags:
 ---
 
 # Mountain Skin
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You become trained in medium and heavy armor. Whenever you gain a class feature that grants you expert or greater proficiency in any armor (but not unarmored defense), you also gain that proficiency rank in the armor types granted to you by this feat.

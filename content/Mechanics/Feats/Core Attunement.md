@@ -8,7 +8,6 @@ tags:
 ---
 
 # Core Attunement
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your core allows you to draw more power from it. Select one 1st-level arcane spell and one 2nd-level or lower arcane spell, to which you have access. You can cast your chosen spells as arcane innate spells each once per day.
 

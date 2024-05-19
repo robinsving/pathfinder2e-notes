@@ -8,6 +8,5 @@ tags:
 ---
 
 # Basic Wizard Spellcasting
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain the [[Spellcasting Archetypes#Basic Spellcasting Feat|Basic Spellcasting Feat]] benefits. Each time you gain a spell slot of a new rank from the wizard archetype, add two common spells of that rank to your spellbook.

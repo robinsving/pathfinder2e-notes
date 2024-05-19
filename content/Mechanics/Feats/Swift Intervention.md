@@ -8,7 +8,6 @@ tags:
 ---
 
 # Swift Intervention
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An ally within your overwatch field fails in their attempt to Arrest a Fall, Balance, Grab a Ledge, or Maneuver in Flight
 

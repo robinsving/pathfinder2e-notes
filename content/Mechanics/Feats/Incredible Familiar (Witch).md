@@ -8,7 +8,6 @@ tags:
 ---
 
 # Incredible Familiar (Witch)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your familiar is imbued with even more magic than other familiars. You can select a base of six familiar or master abilities each day, instead of four.
 

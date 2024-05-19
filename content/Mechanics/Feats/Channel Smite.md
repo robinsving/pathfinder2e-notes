@@ -8,7 +8,6 @@ tags:
 ---
 
 # Channel Smite
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Cost** Expend a _[[Harm]]_ or _[[Heal]]_ spell.
 

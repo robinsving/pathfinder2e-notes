@@ -8,6 +8,5 @@ tags:
 ---
 
 # Tongue of Sun and Moon
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have transcended the barriers between words and meaning. You can speak and understand all spoken languages.

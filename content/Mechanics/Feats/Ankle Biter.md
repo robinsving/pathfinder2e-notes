@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ankle Biter
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You fight just as well on the ground as you do standing up. While you are [[Prone]], you are always [[Take Cover|Taking Cover]] against ranged attacks, you ignore the status penalty on your attack rolls from being prone, and you gain a +1 circumstance bonus to Athletics checks to [[Trip]].
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sidestep
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** The attack roll for a Strike targeting you fails or critically fails.
 

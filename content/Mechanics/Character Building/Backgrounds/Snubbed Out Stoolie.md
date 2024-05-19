@@ -9,7 +9,6 @@ tags:
 ---
 
 # Snubbed Out Stoolie
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You were once a distinguished informant for the shieldmarshals, working deep undercover to infiltrate gangs of bootleggers and assassins. Then, one day, you discovered that the records of your service had all been completely destroyed. In an instant, you were no longer an elite spy impersonating a criminal-you were just a plain criminal.
 

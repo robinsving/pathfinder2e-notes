@@ -8,6 +8,5 @@ tags:
 ---
 
 # Corpse Tender's Font
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You easily tend to the wounds of the dead. You can cast _[[Harm]]_ as a divine innate spell once per day. This spell is heightened to half your level, rounded up. You can target only mindless undead with this spell.

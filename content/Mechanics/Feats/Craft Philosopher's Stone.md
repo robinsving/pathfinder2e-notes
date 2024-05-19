@@ -8,6 +8,5 @@ tags:
 ---
 
 # Craft Philosopher's Stone
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your research has paid off, culminating in the legendary philosopher's stone. You learn the formula for the [[Philosopher's Stone]] and can add it to your formula book.

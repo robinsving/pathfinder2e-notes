@@ -8,6 +8,5 @@ tags:
 ---
 
 # Perfect Ki Adept
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain the appropriate ki spell for your School of Perfection: _[[Unblinking Flame Revelation]]_ for Unblinking Flame, _[[Unbreaking Wave Advance]]_ for Unbreaking Waves, _[[Unfolding Wind Rush]]_ for Unfolding Wind, or _[[Untwisting Iron Buffer]]_ for Untwisting Iron. Increase the number of Focus Points in your focus pool by 1.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Anarchic Arcana
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The magic in your blood is unpredictable. When you make your daily preparations, roll `dice: 1d12` twice and consult the following list:
 

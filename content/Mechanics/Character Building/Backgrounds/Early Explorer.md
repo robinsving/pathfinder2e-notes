@@ -9,7 +9,6 @@ tags:
 ---
 
 # Early Explorer
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 In the past decade, the Pathfinder Society has clashed with demonic armies, meddled in politics, and more, but you joined the organization before everything seemed so complicated. Whether you're a dedicated scholar of ruins or an explorer who just longs for months-long expeditions into the wilderness, you're a Pathfinder to explore, report, and cooperate.
 

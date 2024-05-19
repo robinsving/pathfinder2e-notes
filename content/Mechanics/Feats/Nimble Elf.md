@@ -8,6 +8,5 @@ tags:
 ---
 
 # Nimble Elf
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your muscles are tightly honed. Your Speed increases by 5 feet.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Alchemical Savant
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can identify alchemical items quickly. When using the Crafting skill to [[Identify Alchemy]] on an alchemical item you hold, you can do so as a single action, which has the concentrate and manipulate traits, instead of spending 10 minutes.
 

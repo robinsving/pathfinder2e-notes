@@ -8,6 +8,5 @@ tags:
 ---
 
 # Master Spotter
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your incredible perception and trusty enhanced visual gear allow you to see things others miss. Your proficiency rank in Perception increases to master.

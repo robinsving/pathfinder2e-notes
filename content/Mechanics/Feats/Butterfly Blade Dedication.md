@@ -8,7 +8,6 @@ tags:
 ---
 
 # Butterfly Blade Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Access** Defeat a member of the Butterfly Blades in a sanctioned bout.
 

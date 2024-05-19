@@ -8,7 +8,6 @@ tags:
 ---
 
 # Greater Revelation
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You learn a greater revelation spell associated with your mystery.
 

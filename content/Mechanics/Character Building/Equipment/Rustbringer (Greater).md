@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rustbringer (Greater)
-![[systems-pf2e-icons-default-icons-weapon.svg|150]]
 
 The handle, chain, and spiked ball of this _+3 greater striking greater corrosive flail_ are all made of iron so rusted that the weapon appears nonfunctional at first glance. On Strikes against a creature that's primarily made of metal, it gains the deadly d10 trait.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Harrow Spellcards
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Crafted of sturdy paper, each card of this [[Harrow Deck (Common)|Harrow Deck]] showcases a beautiful watercolor illustration with space to inscribe a spell below. When shuffled, its cards seem to fly between one another of their own accord.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gear Up
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Whether it's wooden stakes, _[[Holy Water]]_, or more unusual tools, you always have just the right thing to handle an undead's unusual weaknesses and vulnerabilities. You gain the [[Prescient Planner]] and [[Prescient Consumable]] feats. When using Prescient Planner specifically to pull out an item you need to deal with an undead's weakness or vulnerability, you can pull out the item as a 2-action activity to remove your backpack (or similar container) and draw the item, rather than taking 1 minute.
 

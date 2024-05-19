@@ -8,7 +8,6 @@ tags:
 ---
 
 # Detective's Readiness
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you're on a case, you stay watchful and resolute to avoid tricks your suspect might pull.
 

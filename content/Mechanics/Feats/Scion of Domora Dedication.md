@@ -8,7 +8,6 @@ tags:
 ---
 
 # Scion of Domora Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain a spirit guide ally. Your familiar takes on the form of a spirit guide specific familiar.
 

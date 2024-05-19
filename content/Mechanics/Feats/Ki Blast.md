@@ -8,6 +8,5 @@ tags:
 ---
 
 # Ki Blast
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can unleash an impactful cone of force by channeling your ki. You gain the _[[Ki Blast]]_ ki spell. Increase the number of Focus Points in your focus pool by 1.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ember's Eyes
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your eyes blaze with inner flame. You gain [[Low-Light Vision]], or you gain [[Darkvision]] if your ancestry already has low-light vision.
 

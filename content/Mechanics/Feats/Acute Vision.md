@@ -8,6 +8,5 @@ tags:
 ---
 
 # Acute Vision
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you are raging, your visual senses improve, granting you darkvision.

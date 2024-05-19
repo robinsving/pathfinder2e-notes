@@ -9,7 +9,6 @@ tags:
 ---
 
 # Northridge Scholar
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 The political faction of Northridge is focused on modern pragmatism and urban growth. While there are certainly those in this faction who regard those of Southshore as rubes, bumbling yokels, or stubborn traditionalists who would prefer Willowshore never grow, most of those following this local faction instead put their energy into developing Willowshore, envisioning a time when the town might grow into an important hub for trade. Your interests lie more along the concept of Willowshore as a place for learning—a school, library, or even small university could do so much for your town! Of course, as invigorating as it is to study and learn, you also understand that expanding Willowshore in such a way will require lots of hard work, and your childhood helping to lay foundations or raise buildings has given you a physique that eludes the typical scholar.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bloodline Robe
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Each _bloodline robe_ has a design that befits a particular sorcerer bloodline, depicting creatures of that bloodline or using styles common among them. You gain a +2 item bonus to each of your bloodline skills.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Coffin Bound
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You bind your spirit to a coffin filled with soil of your homeland, making it a place of recovery. If you rest inside your coffin for 10 minutes, you regain Hit Points equal to your Constitution modifier x half your level. You can still be healed in other ways during that time, though you're [[Unconscious]] and therefore unable to heal yourself. The GM might allow you to Refocus while resting, depending on whether it's a type of Refocusing you can achieve while you slumber.
 

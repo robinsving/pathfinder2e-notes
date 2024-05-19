@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Traitorous Thoughts
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 When you hold this sleek, shiny gray wand, you hear a faint chorus of overlapping whispers.
 

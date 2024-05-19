@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spider Gun (Major)
-![[systems-pf2e-icons-default-icons-weapon.svg|150]]
 
 A _major spider gun_ is a _+2 greater striking weapon_. It's a distinct type of martial firearm made from the fangs and spinneret of a Large spider. It deals 1d10 poison damage with a range increment of 30 feet and reload 1. On a critical hit, the venom clings to the target and they take Persistent Poison Damage equal to 1d4 + 3 persistent poison. A spider gun does not add critical specialization effects. The gun can be activated to fire webbing that hampers other creatures.
 

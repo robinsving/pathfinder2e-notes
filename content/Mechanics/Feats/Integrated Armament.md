@@ -8,7 +8,6 @@ tags:
 ---
 
 # Integrated Armament
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your mechanical body houses a weapon or shield that you can quickly draw and stow, leaving you prepared for combat at all times.
 

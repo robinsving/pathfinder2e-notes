@@ -9,7 +9,6 @@ tags:
 ---
 
 # Narakaas
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Edicts** Help others through painful changes, offer harsh punishments to the penitent, seek and allow redemption
 

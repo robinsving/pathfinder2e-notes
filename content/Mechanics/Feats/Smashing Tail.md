@@ -8,6 +8,5 @@ tags:
 ---
 
 # Smashing Tail
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have a tail that serves as a potent weapon. You gain a tail unarmed attack that deals 1d6 bludgeoning damage, has the sweep trait, and is in the brawling weapon group.

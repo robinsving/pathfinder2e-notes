@@ -9,7 +9,6 @@ tags:
 ---
 
 # Elemental Familiar (Wood)
-![[systems-pf2e-icons-default-icons-action.svg|150]]
 
 Your familiar gains the wood elemental trait.
 

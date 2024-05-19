@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ghost Lantern
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Crafted from cold iron, this black hooded lantern has gray glass and lenses that emit a pale gray light when the lantern is lit. Anything this light falls on looks gray or desaturated. The lantern uses oil as a standard hooded lantern. The lantern's light shines within the Ethereal Plane as well as the Material Plane. On any other plane, the light functions as a normal hooded lantern.
 

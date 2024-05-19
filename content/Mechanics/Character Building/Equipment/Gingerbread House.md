@@ -8,7 +8,6 @@ tags:
 ---
 
 # Gingerbread House
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 A gingerbread house is made of magical gingerbread sweetened with honey and spices, and further decorated with candies and icing. Its roof tiles are made of sugar. It can be held safely in one hand but is very delicate; it's often stored within a wooden box of 1 Bulk.
 

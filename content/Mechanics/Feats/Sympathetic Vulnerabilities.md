@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sympathetic Vulnerabilities
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you apply your will to invoke a vulnerability, the result is more powerful, and the vulnerability ripples out in a web from your main target to affect a broader range of creatures. This has one of two effects, based on the type of vulnerability you invoked.
 

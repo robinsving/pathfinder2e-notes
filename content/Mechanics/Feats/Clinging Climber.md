@@ -8,6 +8,5 @@ tags:
 ---
 
 # Clinging Climber
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You climb like a spider. You gain a climb Speed of 15 feet.

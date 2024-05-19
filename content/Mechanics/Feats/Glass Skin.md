@@ -8,7 +8,6 @@ tags:
 ---
 
 # Glass Skin
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Prerequisites** You were present at the death of the medusa Alethsia, whose vitrumantic powers were passed on to you in the wake of her destruction.
 

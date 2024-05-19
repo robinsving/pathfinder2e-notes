@@ -8,7 +8,6 @@ tags:
 ---
 
 # Clockwork Reanimator Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can animate corpses through cunning engineering. You gain a prototype construct companion to serve as a minion. Unlike normal construct companions, yours is a corpse animated by clockwork gears and technological prowess.
 

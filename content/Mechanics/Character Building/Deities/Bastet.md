@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bastet
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Bastet is the patron of rogues and bards. She is particularly popular among women, and most of her clerics are female. They usually keep cats as pets, and when these cats die, they are mummified and buried with their owners.
 

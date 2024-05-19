@@ -8,7 +8,6 @@ tags:
 ---
 
 # Illusory Identity
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 There are times when skills or looks are not enough to convince someone of your identity, and you instead require adequate documentation. Replicating the methods of the Sapphire Butterfly, you've learned to use magic to forge a new identity as you need it. During your daily preparations, you can choose a blank piece of paper, journal, badge, or similar item normally used to display authority, to magically invest. You can use an Interact action to mentally outline the basic information that is displayed when that item is presented to another creature, such as a name, a title, connection to an existing group or agency, and other basic details. A more complex outline requires more time, at the GM's discretion. That creature must attempt a DC resolve will save against your Deception DC. This item only works while you are holding it and appears blank if anyone else attempts to use it, though you can include others within the details of your outline.
 

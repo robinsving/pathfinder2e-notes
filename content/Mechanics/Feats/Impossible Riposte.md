@@ -8,7 +8,6 @@ tags:
 ---
 
 # Impossible Riposte
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your ripostes can deflect attacks back at their source.
 

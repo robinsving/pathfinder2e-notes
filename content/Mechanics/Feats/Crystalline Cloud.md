@@ -8,7 +8,6 @@ tags:
 ---
 
 # Crystalline Cloud
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you use [[Crystalline Dust]], you can spend one additional action to disperse the motes as a 10 foot emanation{10-foot-radius} cloud centered on you instead of as haze; the activity gains the concentrate trait.
 

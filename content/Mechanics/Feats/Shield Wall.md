@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shield Wall
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** Your shield is raised and an adjacent ally Raises a Shield.
 

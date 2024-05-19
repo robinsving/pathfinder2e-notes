@@ -8,6 +8,5 @@ tags:
 ---
 
 # Witch's Communion
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can keep watch over multiple charges. Each day during your preparations, you can designate a number of charges equal to your Intelligence modifier instead of just one.

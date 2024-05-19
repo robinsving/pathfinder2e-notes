@@ -8,7 +8,6 @@ tags:
 ---
 
 # Boneyard's Call
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have a powerful connection to the Boneyard and its courts, granting you the ability to travel to and from the Boneyard. You gain _[[Interplanar Teleport]]_ as a divine innate spell. You can cast it twice per week.
 

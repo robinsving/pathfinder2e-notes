@@ -9,7 +9,6 @@ tags:
 ---
 
 # Lubaiko
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Fires and explosions of all kinds are Lubaiko's passion, from an ember that ignites a flour mill to an outrage that rips through a nation. She is the powder keg whose fuse has burned down, erupting into something momentous, be it for better or for worse. Roaming throughout the sky above Golarion, she delights in throwing her bolts into the fields and the minds of people, whenever conditions permit and wherever they may fall. Some believe the smoke from Lubaiko's fires are curses and misfortune flying up into the air to spread throughout the land. Yet Lubaiko's blazes also often clear the way for new growth.
 

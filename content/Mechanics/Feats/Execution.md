@@ -8,7 +8,6 @@ tags:
 ---
 
 # Execution
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You have condemned a foe with Harsh Judgment.
 

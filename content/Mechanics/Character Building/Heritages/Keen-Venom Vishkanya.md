@@ -9,6 +9,5 @@ draft: true
 ---
 
 # Keen-Venom Vishkanya
-![[systems-pf2e-icons-default-icons-heritage.svg|150]]
 
 You're practiced with using your venom in combat, allowing you to employ your venom at a moment's notice. Your [[Envenom]] action doesn't trigger reactions that normally trigger on a manipulate action. Additionally, you gain the [[Venom Draw]] action.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Delay Trap
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A trap within your reach is triggered.
 

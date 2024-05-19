@@ -8,6 +8,5 @@ tags:
 ---
 
 # Juggernaut's Fortitude
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your proficiency rank in Fortitude saves increases to master.

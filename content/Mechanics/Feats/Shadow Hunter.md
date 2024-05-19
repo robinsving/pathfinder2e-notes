@@ -8,6 +8,5 @@ tags:
 ---
 
 # Shadow Hunter
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You blend in to your surroundings so well that others have trouble telling you apart from the terrain. While in natural terrain, you're always [[Concealed]] from all foes if you choose to be, except for your hunted prey.

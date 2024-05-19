@@ -8,6 +8,5 @@ tags:
 ---
 
 # Adamantine Fists
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You imbue your unarmed strikes with one of the strongest metals. Your stonestrike attacks are treated as adamantine.

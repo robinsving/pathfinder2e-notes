@@ -8,6 +8,5 @@ tags:
 ---
 
 # Improved Elemental Bulwark
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain resistance 10 from Elemental Bulwark instead of 5.

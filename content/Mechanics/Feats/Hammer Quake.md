@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hammer Quake
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You're wielding a non-finesse melee weapon in two hands.
 

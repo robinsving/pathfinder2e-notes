@@ -8,7 +8,6 @@ tags:
 ---
 
 # Limestone Shield
-![[systems-pf2e-icons-default-icons-armor.svg|150]]
 
 This tower shield is a slab of limestone, shaved to a portable size and weight. The shield has Hardness 7 and 28 Hit Points.
 

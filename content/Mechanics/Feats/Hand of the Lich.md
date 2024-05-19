@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hand of the Lich
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Void energy intensifies your undead form and makes your very touch the antithesis of life. You gain the [[Advanced Undead Benefits]] The damage die for your fist increases to 1d6 instead of 1d4, it deals void damage instead of bludgeoning damage, and it loses the nonlethal trait. Your fist becomes magical.
 

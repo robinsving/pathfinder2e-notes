@@ -8,7 +8,6 @@ tags:
 ---
 
 # Genie Weapon Familiarity
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've trained with weapons used by your genie ancestors. You are trained with [[Falchion|Falchions]], [[Ranseur|Ranseurs]], [[Scimitar|Scimitars]], and [[Trident|Tridents]].
 

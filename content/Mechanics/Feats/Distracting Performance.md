@@ -8,7 +8,6 @@ tags:
 ---
 
 # Distracting Performance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your performances are especially distracting, allowing your allies to sneak away with ease.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Preternatural Parry
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You're targeted by a Strike or a spell attack roll, or you're about to roll a saving throw against a spell effect.
 

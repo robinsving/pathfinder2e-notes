@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Tormented Slumber
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 The carved talon of an unidentifiable beast comprises this wand. Blood-stained cloth wraps the thicker part of the talon, which acts as a handle.
 

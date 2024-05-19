@@ -8,7 +8,6 @@ tags:
 ---
 
 # Nimble Hooves
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You possess hooves, ankle wings, or some other feature that hastens your movement. Your Speed increases by 5 feet.
 

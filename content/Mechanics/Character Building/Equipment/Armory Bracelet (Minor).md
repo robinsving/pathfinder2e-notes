@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Armory Bracelet (Minor)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Several small charms shaped like weapons hang from an _armory bracelet_, which is often brass. The bracelet has one charm each for the groups bow, brawling, club, dart, flail, hammer, knife, pick, polearm, shield, sling, spear, and sword. Rare versions of the armory bracelet include charms for firearms.
 

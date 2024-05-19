@@ -8,7 +8,6 @@ tags:
 ---
 
 # First Revelation
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain your mystery's initial revelation spell. Casting this spell progresses your [[Oracular Curse]]. Use the minor curse from your mystery, but when you progress it again, instead of your mystery's moderate curse effect, you become [[Off-Guard]] in addition to the effects of the minor curse.
 

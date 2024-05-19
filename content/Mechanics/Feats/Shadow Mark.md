@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shadow Mark
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have learned special tricks that help you follow individuals without them noticing you.
 

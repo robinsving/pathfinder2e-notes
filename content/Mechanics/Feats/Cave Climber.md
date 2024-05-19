@@ -8,6 +8,5 @@ tags:
 ---
 
 # Cave Climber
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 After years of clambering through caverns, you can climb easily anywhere you go. You gain a climb Speed of 10 feet.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Goblin Scuttle
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An ally ends a move action adjacent to you.
 

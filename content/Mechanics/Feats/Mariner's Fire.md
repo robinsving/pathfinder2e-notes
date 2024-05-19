@@ -8,6 +8,5 @@ tags:
 ---
 
 # Mariner's Fire
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You conjure uncanny orbs of spiritual flame that float above or below the water's surface. You can cast the _[[Produce Flame]]_ cantrip as a primal innate spell at will, heightened to a spell level equal to half your level rounded up. You can cast this cantrip underwater.

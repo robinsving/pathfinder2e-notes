@@ -8,7 +8,6 @@ tags:
 ---
 
 # Rejuvenation Token
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You tie yourself to the Material Plane by implanting a piece of your consciousness into a weapon, piece of armor, or other item that's precious to you. As long as this object is intact, even if your body is destroyed, you can be restored to the exact state you were in the last time you made daily preparations with this object in your possession. The soulbound object can be used as a special focus for _[[Raise Dead]]_, _[[Resurrect]]_, or similar magic. This warps the spell to bring you back in your skeletal undead state rather than bringing you back to life. Pharasma can't prevent you from returning when the spell is modified in this way.
 

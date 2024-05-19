@@ -8,7 +8,6 @@ tags:
 ---
 
 # Galvanic Mortal Coil
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This porous steel coil wraps around a shard of onyx, supplementing the closely guarded science of galvaspheres with the magic of necromancy. When embedded in a body comprised of flesh, the blood and other fluids catalyze electrical pulses within the coil, activating the necromantic energies. In living creatures, this causes a dangerous surge that can damage the heart. In corpses, however, this can create a limited window of reanimation, with access to the corpse's final memories. _Galvanic mortal coils_ are even rarer than other galvaspheres, and thought by most to be merely hypothetical.
 

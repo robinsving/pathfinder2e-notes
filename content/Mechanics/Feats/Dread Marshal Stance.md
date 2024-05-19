@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dread Marshal Stance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Putting on a grim face for the battle ahead, you encourage your allies to strike fear into their foes with vicious attacks.
 

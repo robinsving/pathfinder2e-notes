@@ -8,7 +8,6 @@ tags:
 ---
 
 # Instinctive Support
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You Cast a non-cantrip spell that targets only your animal companion.
 

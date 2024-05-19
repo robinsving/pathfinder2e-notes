@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tough Skin
-![[systems-pf2e-icons-default-icons-armor.svg|150]]
 
 **Note** Tough Skin ancestry feat only
 

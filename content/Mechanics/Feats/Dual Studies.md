@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dual Studies
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You and your eidolon have some skills you practice on your own.
 

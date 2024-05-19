@@ -8,6 +8,5 @@ tags:
 ---
 
 # Light Step
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You aren't bothered by tricky footing. When you Stride or Step, you can ignore difficult terrain.

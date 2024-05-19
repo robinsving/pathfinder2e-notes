@@ -8,6 +8,5 @@ tags:
 ---
 
 # Tumble Behind (Swashbuckler)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your tumbling catches your foe off guard. When you [[Tumble Through]] successfully, the foe you Tumbled Through is [[Off-Guard]] against the next attack you make before the end of your turn.

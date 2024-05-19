@@ -8,6 +8,5 @@ tags:
 ---
 
 # Omnikinesis
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can realign your kinetic gate with a thought. Replace one of your impulse feats using the same process as reflow elements. You can replace only one, even if you have double reflow.

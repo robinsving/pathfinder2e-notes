@@ -8,6 +8,5 @@ tags:
 ---
 
 # Kobold Weapon Innovator
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've learned devious tactics with your kobold weapons. Whenever you critically hit with a crossbow, greatpick, light pick, pick, spear, or kobold weapon, you apply the weapon's critical specialization effect.

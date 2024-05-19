@@ -9,7 +9,6 @@ tags:
 ---
 
 # Prisoner
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You have been imprisoned or punished for crimes (whether you were guilty or not). Now that your sentence has ended or you've escaped, you take full advantage of the newfound freedom of your adventuring life.
 

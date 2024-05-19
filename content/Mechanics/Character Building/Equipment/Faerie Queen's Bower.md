@@ -8,7 +8,6 @@ tags:
 ---
 
 # Faerie Queen's Bower
-![[systems-pf2e-icons-default-icons-armor.svg|150]]
 
 **Perception** +23; precise vision (darkvision) 60 feet, imprecise hearing 30 feet
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Enticing Dwelling
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your spirit dwelling is particularly inviting to spirit wisps. During your daily preparations, and whenever you spend 10 minutes to find more wisps, you entice two wisps into your spirit dwelling instead of one.

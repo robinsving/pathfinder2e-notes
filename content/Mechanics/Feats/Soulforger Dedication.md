@@ -8,7 +8,6 @@ tags:
 ---
 
 # Soulforger Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can manifest the power of your spirit in combat to realize your motivations. You manifest an armor, shield, or weapon as a soulforged armament. Choose one essence power for the armament. Changing an essence power requires 1 week of retraining, and you can't retrain it while you have _soulforged corruption_.
 

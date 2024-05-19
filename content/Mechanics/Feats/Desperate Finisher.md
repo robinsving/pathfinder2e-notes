@@ -8,7 +8,6 @@ tags:
 ---
 
 # Desperate Finisher
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You complete the last action on your turn, and your turn has not ended yet.
 

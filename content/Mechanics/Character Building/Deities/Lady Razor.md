@@ -9,7 +9,6 @@ tags:
 ---
 
 # Lady Razor
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 This stern magistrate forbids showing kindness or mercy to family members. Lady Razor is the Forsaken patron of family strife, suspicion, and vengeance.
 

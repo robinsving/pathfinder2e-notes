@@ -8,7 +8,6 @@ tags:
 ---
 
 # Second Thoughts
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You cast a mental spell that targets one creature, and it critically succeeds at its Will save.
 

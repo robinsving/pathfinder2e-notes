@@ -8,7 +8,6 @@ tags:
 ---
 
 # Armored Rebuff
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An adjacent foe critically fails an attack roll to Strike you with a melee weapon or unarmed attack.
 

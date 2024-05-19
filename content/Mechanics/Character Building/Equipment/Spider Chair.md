@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spider Chair
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This clockwork traveler's chair has spinnerets and spider legs that allow it to roll up walls, fire web lines to pull you to a location, and obstruct foes with webs. While using the chair, you gain a climb Speed equal to your Speed.
 

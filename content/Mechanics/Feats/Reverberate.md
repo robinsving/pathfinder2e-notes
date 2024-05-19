@@ -8,7 +8,6 @@ tags:
 ---
 
 # Reverberate
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A creature or hazard would deal sonic damage to you.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pilgrim's Token
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 A small token of protection from a site holy to your faith, or you touched your religious symbol to a relic or altar at such a site. So long as this token is in your possession, when you tie an adversary's initiative roll, you go first.
 

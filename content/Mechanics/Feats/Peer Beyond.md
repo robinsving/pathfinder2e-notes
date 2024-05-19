@@ -8,7 +8,6 @@ tags:
 ---
 
 # Peer Beyond
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have uncanny insight into the way ghosts and haunts manifest, manipulate the mind, and rejuvenate. You gain a +2 circumstance bonus to saving throws against mental effects caused by incorporeal undead and haunts, and you can roll a Spirit Lore or Haunt Lore check for initiative if you know that an incorporeal undead or a haunt is present.
 

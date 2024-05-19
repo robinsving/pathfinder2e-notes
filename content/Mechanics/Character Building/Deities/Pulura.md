@@ -9,7 +9,6 @@ tags:
 ---
 
 # Pulura
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Dancing through the northern sky, the Shimmering Maiden represents constellations, homesickness, and northern lights. Pulura understands that the constellations are the guide with which mortals navigate their world, lighting the way so that those who travel or explore can always find their way home. The stories of the constellations not only entertain with tales of goodness and light and strength, but they are also a tool for helping others learn and remember the stars. This ensures that the map in the sky is easy to read and never forgotten. To learn this map and to guide those who are lost or otherwise in need of direction are exceptional callings, but even more so is to teach a petitioner to navigate the skies themself on the journey.
 

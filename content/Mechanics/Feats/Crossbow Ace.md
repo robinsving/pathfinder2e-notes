@@ -8,7 +8,6 @@ tags:
 ---
 
 # Crossbow Ace
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are wielding a crossbow with reload 1 or higher.
 

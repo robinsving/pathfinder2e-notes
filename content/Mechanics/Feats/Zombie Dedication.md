@@ -8,7 +8,6 @@ tags:
 ---
 
 # Zombie Dedication
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 Despite your death and subsequent reanimation as a rotting corpse, you retain most of your mind and identity. Yet, it's always there: the hunger for the flesh and organs of the living. You gain the undead and zombie traits, and the basic undead benefits. Unlike a typical zombie, you're not mindless. Reduce all your Speeds by 5 feet. Your fist loses the nonlethal trait.
 

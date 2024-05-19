@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Animal Repellent (Major)
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 Animal repellent is a noxious alchemical substance that makes you repulsive to a certain kind of animal. You can, for example, make ape repellent, bear repellent, or snake repellent, but not a repellent that affects all animals. The repellent doesn't work on creatures that are similar to the kind of animal, but not actually animals—for example, bear repellent wouldn't work on werebears. Animal repellent is ineffective against animals with an Intelligence modifier of –3 or higher, such as awakened animals. When you initially learn the formula for animal repellent, you learn the formulas for all common animals. If no animals of a kind are common, such as sea serpents, you must learn the formula for that kind separately, and it has the same rarity as the least-rare creature of that kind.
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Implement Initiate
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain your implement's initiate benefit. If the benefit affects the target of Exploit Vulnerability, for you it affects the target of Glimpse Vulnerability instead.

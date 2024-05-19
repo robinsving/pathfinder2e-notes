@@ -8,6 +8,5 @@ tags:
 ---
 
 # Ranger's Bramble
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can cause plants to grow and trap your foes with thorns. You gain the _[[Ranger's Bramble]]_ warden spell. Increase the number of Focus Points in your focus pool by 1.

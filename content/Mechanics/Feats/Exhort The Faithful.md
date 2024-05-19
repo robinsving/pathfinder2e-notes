@@ -8,7 +8,6 @@ tags:
 ---
 
 # Exhort The Faithful
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your knowledge of the tenets of your faith gives you insight into the best ways to get others of your faith to help you or to follow your directions.
 

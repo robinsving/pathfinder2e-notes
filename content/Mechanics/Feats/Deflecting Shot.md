@@ -8,7 +8,6 @@ tags:
 ---
 
 # Deflecting Shot
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An ally within the first range increment of your firearm or crossbow is hit by an attack, and you can see the attacker.
 

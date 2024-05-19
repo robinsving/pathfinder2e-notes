@@ -9,7 +9,6 @@ tags:
 ---
 
 # Former Aspis Agent
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 For more than a century, the Pathfinder Society has clashed with the avaricious and underhanded Aspis Consortium, and several years ago the Society dealt its rival a decisive blow. You may be one of the few survivors of a doomed Aspis expedition, or perhaps you chafed at the Consortium's villainous practices and defected to the Pathfinders. No matter your reasons, you know how to be efficient and ruthless when the circumstances demand.
 

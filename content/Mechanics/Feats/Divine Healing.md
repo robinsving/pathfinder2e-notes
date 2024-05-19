@@ -8,7 +8,6 @@ tags:
 ---
 
 # Divine Healing
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Although you aren't a proper champion of your faith, your deity still recognizes your efforts and provides you with a small divine ability to help others. You gain the _[[Lay on Hands]]_ devotion spell.
 

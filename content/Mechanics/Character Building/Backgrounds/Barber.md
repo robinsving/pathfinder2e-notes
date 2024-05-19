@@ -9,7 +9,6 @@ tags:
 ---
 
 # Barber
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Haircuts, dentistry, bloodletting, and surgery-if it takes a steady hand and a razor, you do it. You may have taken to the road to expand your skills, or to test yourself against a world that leaves your patients so battered and bruised.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Korada
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Korada, the Open Hand of Harmony, is concerned with foresight, forgiveness, and peace. In particular, he believes that although the tireless fight against wickedness is admirable, the ultimate triumph over evil will come in the form of redemption rather than destruction. Korada's dedication to peace is such that he and his followers refuse to cause harm to their attackers, instead using their martial skills only to defend themselves. Many Koradans seek greater wisdom through study or meditation in hopes of better understanding their foes so as to guide them toward redemption. This dedication to self-awareness, philosophy, and introspection is said to have allowed Korada greater insight into the workings of the universe, granting him the great gift of foresight. Korada rarely acts on his visions, however, believing the struggle that comes with true change is always worthwhile, whether or not such a change is successful.
 

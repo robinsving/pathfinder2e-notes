@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mobile Shot Stance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your shots become nimble and deadly. While you're in this stance, your ranged Strikes don't trigger Reactive Strike or other reactions that are triggered by a ranged attack.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tree of Duality
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 An ephemeral tree bursts forth, floating on air in an unoccupied square of your choice within 60 feet. Blooming flowers and fungal growths shed pollen and spores, which a swirling gust of air spreads in a 10 foot emanation around it. The tree lasts until the end of your next turn, and you can Sustain it up to 1 minute.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Whirling Blade Stance
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You enter a mindful stance that creates a deep connection between you and your monk weapons, allowing you to manipulate them with your ki even at a distance.
 

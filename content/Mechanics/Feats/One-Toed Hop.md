@@ -8,6 +8,5 @@ tags:
 ---
 
 # One-Toed Hop
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Assuming a peculiar stance, you make a short hop on each toe. You make a vertical [[Leap]] without triggering reactions that can be triggered by move actions or upon leaving or entering a square.

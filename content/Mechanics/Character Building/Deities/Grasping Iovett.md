@@ -9,7 +9,6 @@ tags:
 ---
 
 # Grasping Iovett
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 A beautiful form of indescribable variety, Iovett is the Forsaken patron of accidents, parasites, and reckless lust.
 

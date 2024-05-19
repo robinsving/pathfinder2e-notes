@@ -8,7 +8,6 @@ tags:
 ---
 
 # Living Vessel Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Whether willingly or not, you've become a vessel for a being of unimaginable power. You and your GM should work together to determine the being's nature and decide how much you know and how much remains a mystery to you for now. Some decisions might influence your options later. You might need to decide whether the entity is a demon, for instance, to know if you qualify for later feats.
 

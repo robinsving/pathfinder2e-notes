@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spell Relay
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An ally [[Cast a Spell|Casts a Spell]] and you are within that spell's range.
 

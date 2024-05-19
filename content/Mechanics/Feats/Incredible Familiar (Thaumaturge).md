@@ -8,6 +8,5 @@ tags:
 ---
 
 # Incredible Familiar (Thaumaturge)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 By taking the best parts of each magical tradition, you've found a way to grant your familiar even more abilities than other familiars. You can select a base of six familiar or master abilities each day, instead of four.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Squawk!
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You critically fail a Deception, Diplomacy, or Intimidation check against a creature that doesn't have the tengu trait.
 

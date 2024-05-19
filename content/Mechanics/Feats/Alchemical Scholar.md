@@ -8,7 +8,6 @@ tags:
 ---
 
 # Alchemical Scholar
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You learn formulas more easily. You gain four common 1st-level alchemical formulas when you take this feat, and each time you gain a level, you gain a common alchemical formula of that level. You still need [[Alchemical Crafting]] to Craft alchemical items.
 

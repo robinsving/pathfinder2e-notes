@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mega Bomb
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are holding an infused alchemical bomb you crafted, with a level at least 3 lower than your advanced alchemy level
 

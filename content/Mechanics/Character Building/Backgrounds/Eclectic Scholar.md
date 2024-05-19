@@ -9,7 +9,6 @@ tags:
 ---
 
 # Eclectic Scholar
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Understanding history isn't just about translating old laws and reading about who invaded whom; it's also packed with magical outbursts, extraplanar interventions, and unexplained oddities not yet understood by modern science. You have a knack for absorbing esoteric trivia and unraveling past supernatural events. Your studies recently drew you to the dwarven city of Tar-Kazmukh, whose Blue Warders maintain an eclectically magical library. Perusing its shelves didn't answer your most burning questions, but it did earn you some friends, expose you to a dizzying array of dwarven religious lore, and introduce you to some intriguing mysteries buried in Highhelm's history.
 

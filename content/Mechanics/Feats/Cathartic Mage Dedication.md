@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cathartic Mage Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've learned to harness a particular emotion and mix it into your magic. Choose an emotion to be your catharsis emotion.
 

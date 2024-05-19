@@ -9,7 +9,6 @@ tags:
 ---
 
 # Shory Seeker
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You've dedicated your life to unraveling the secrets of the ancient Shory Empire, either through meticulous research or by traveling into dangerous and distant ruins to track down long-lost artifacts.
 

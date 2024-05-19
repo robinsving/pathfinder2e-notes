@@ -8,7 +8,6 @@ tags:
 ---
 
 # Worm Form
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You take on the form of a purple worm or transform into a humanoid-worm hybrid, retaining your own head but with a worm's body, transforming into a Huge battle form. You must have enough space to expand into or the ability is lost. While in this form, you gain the animal trait. You can Dismiss the form.
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Iron Repercussions
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Disobeying your [[Iron Command]] has lasting consequences. If an enemy refuses to kneel to you, you can deal [[Persistent Damage|Persistent Mental Damage]] instead of normal mental damage. You must decide whether the mental damage will be persistent before your enemy chooses whether to kneel or not. The amount of damage is unchanged.

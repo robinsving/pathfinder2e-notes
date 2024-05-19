@@ -9,7 +9,6 @@ tags:
 ---
 
 # Saboteur
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Whether you do it for personal enjoyment or at the behest of a mercenary company or military organization, you have a knack for destroying things. You have a sense for an object or structure's weak spots and know where to deliver a hammer strike or alchemical bomb. You adventure to hone your skills or complete a particular mission.
 

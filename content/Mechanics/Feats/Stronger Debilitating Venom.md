@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stronger Debilitating Venom
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Add one of the following to the debilitations from which you can choose when you Envenom. These debilitations reduce the damage of all stages as noted.
 

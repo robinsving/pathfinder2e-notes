@@ -9,7 +9,6 @@ tags:
 ---
 
 # Brevic Noble
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You claim a tangential but legitimate connection to one of Brevoy's noble families. If you aren't human, you were adopted by one of Brevoy's nobles or were perhaps a favored servant or even a childhood friend of a noble scion. Whatever the case, you've had a comfortable life, though still a far cry from the one your distant cousins or close associates know. An expedition into the storied Stolen Lands seems like just the test to see if you really are worthy of the "noble" title.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Bes
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Bes is a member of the pantheon often worshiped in Ancient Osirion.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Clear as Air
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Compact layers of air diffract and bend light around your body, making you appear as clear as the sky on a perfect day. You become [[Invisible]] until the end of your next turn. You can Sustain the impulse. If you use a hostile action, the impulse ends after that action is completed. If you activate your kinetic aura, the impulse conceals its elements, though any special effects of your aura might give away your location.
 

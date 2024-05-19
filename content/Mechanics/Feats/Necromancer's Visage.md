@@ -8,7 +8,6 @@ tags:
 ---
 
 # Necromancer's Visage
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Necromantic energy demonstrates your power over undead, creating a demeanor that commands their fear and respect. Undead creatures can immediately sense your Necromancer's Visage and tend to act accordingly. If you take a hostile action against an undead creature, it becomes permanently immune to your Necromancer's Visage, and your Necromancer's Visage ends. You can spend 10 minutes to restore your Necromancer's Visage, though any creatures that became permanently immune remain so. Each time an undead creature 2 or more levels lower than you attacks you, it must attempt a Will save against your spell DC. If you're also affected by sanctuary or a similar effect, only one affects the attacker (you choose which).
 

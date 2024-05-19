@@ -8,7 +8,6 @@ tags:
 ---
 
 # Resonating Fork
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This two-pronged fork of metal emits a constant low hum, vibrating slightly when touched. The spell attack roll of any spell cast by activating this item is +9, and the spell DC is 19.
 

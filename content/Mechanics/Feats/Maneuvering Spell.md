@@ -8,7 +8,6 @@ tags:
 ---
 
 # Maneuvering Spell
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You begin to Cast a Spell that requires at least 2 actions to cast.
 

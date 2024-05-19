@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mask Of Pain
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You succeed at a Demoralize check.
 

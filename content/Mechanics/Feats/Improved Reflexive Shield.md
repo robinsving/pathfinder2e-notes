@@ -8,6 +8,5 @@ tags:
 ---
 
 # Improved Reflexive Shield
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your shield can help save nearby allies. When you use [[Shield Block]] against damage resulting from a Reflex save, adjacent allies who would take damage due to Reflex saves against the same effect also benefit from the damage reduction.

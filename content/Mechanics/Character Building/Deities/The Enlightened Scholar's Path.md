@@ -9,7 +9,6 @@ tags:
 ---
 
 # The Enlightened Scholar's Path
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 This broad and erudite pantheon is a favorite in universities and academies across the Inner Sea. Its adherents unite the optimism and art of Shelyn with the vast knowledge of Thoth to inspire their investigations and writings of artistic, scientific, historical, and magical knowledge. They look to Andoletta, Grandmother Crow, for aid in teaching and instilling knowledge and virtue as well as to Likha to support their efforts to teach (especially with a wide historical perspective), perform plays, and organize recitals and lectures in the name of learning.
 

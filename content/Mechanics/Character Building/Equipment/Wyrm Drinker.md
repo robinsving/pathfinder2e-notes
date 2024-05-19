@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wyrm Drinker
-![[systems-pf2e-icons-default-icons-weapon.svg|150]]
 
 This staff is made from the femur of a gold dragon wrapped in the multicolored scales of every type of chromatic and metallic dragon. When wielding this staff, you gain a +1 circumstance bonus to skill checks to [[Coerce]], [[Make an Impression]], [[Request]], or [[Lie]] to dragons and creatures with strong draconic ties (such as kobolds, dragon instinct barbarians, and draconic sorcerers).
 

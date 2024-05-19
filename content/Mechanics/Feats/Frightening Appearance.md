@@ -8,7 +8,6 @@ tags:
 ---
 
 # Frightening Appearance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your dramatic appearances can frighten bystanders.
 

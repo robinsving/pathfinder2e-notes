@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mature Animal Companion (Druid)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your animal companion has grown up over the course of your adventures, becoming a mature animal companion and gaining additional capabilities.
 

@@ -9,6 +9,5 @@ draft: true
 ---
 
 # Battle-Ready Orc
-![[systems-pf2e-icons-default-icons-heritage.svg|150]]
 
 You descend from a line of terrifying battlefield commanders. You become trained in Intimidation, and you gain the [[Intimidating Glare]] skill feat.

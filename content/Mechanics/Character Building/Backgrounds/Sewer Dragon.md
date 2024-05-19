@@ -9,7 +9,6 @@ tags:
 ---
 
 # Sewer Dragon
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 **Prerequisites** Kobold Ancestry
 

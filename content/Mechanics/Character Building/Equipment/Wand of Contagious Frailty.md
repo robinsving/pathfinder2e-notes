@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Contagious Frailty
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 Cracks and healed fractures spiderweb the shaft of this bone wand, worsening each time the wand is used. The bone's worn epiphysis forms the wand's pommel, and black leather wraps around the handle.
 

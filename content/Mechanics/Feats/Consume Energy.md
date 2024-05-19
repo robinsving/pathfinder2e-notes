@@ -8,7 +8,6 @@ tags:
 ---
 
 # Consume Energy
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An enemy within 60 feet uses an ability that has the trait corresponding to your deviation damage type.
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Gaze of Veracity
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can channel your mask's power to pierce through lies and see the truth in any situation. Increase the number of Focus Points in your focus pool by 1. While wearing your mask, you can cast the _[[Glimpse the Truth]]_ cleric domain spell as a divine focus spell.

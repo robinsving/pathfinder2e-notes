@@ -8,6 +8,5 @@ tags:
 ---
 
 # Callow May
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are among the most common of changelings—those born to sweet hags—and a vibrant green eye signifies that parentage. Your mother's manipulative nature and versatile voice gives you an edge when deceiving others. You gain the [[Charming Liar]] skill feat. If you roll Deception for initiative, foes in that combat encounter that haven't acted yet are [[Off-Guard]] against you.

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Legendary Tattoo Artist
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your craftsmanship at decorating flesh is unparalleled. You become legendary in Crafting. Whenever you craft a magical tattoo whose level is at least 3 lower than your level, increase all attack roll and DC values of the tattoo's activated abilities by 1, and increase all resistances granted by the tattoo by 1.

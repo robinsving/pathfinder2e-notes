@@ -8,7 +8,6 @@ tags:
 ---
 
 # Unstable Concoction
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can create extraordinary-albeit volatile-alchemical wonders, though they have an unfortunate tendency to violently explode when you use them.
 

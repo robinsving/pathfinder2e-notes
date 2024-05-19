@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of the Ash Puppet
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This wand is composed of ash that has been compressed, shaped, and sealed with a clear lacquer. When you trace the wand's tip along a solid surface, it leaves a black trail of charcoal. Writing with the wand in this way never damages or wears the wand down.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Diabolic Certitude
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** Your turn begins and you can observe a devil.
 

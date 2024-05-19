@@ -9,7 +9,6 @@ tags:
 ---
 
 # Feral Child
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You spent your youth in the wilderness, living close to or perhaps raised by animals. You have a close, mystical connection with these animals and gained certain abilities from them, though this limited your well-roundedness in mental pursuits.
 

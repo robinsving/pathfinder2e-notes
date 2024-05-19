@@ -8,7 +8,6 @@ tags:
 ---
 
 # Crackling Bubble Gum (Major)
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 This tangy gum cracks and pops in your mouth as you chew it. While you're chewing crackling bubble gum, for up to 10 minutes, you have a +3 item bonus to saving throws against auditory and sonic effects.
 

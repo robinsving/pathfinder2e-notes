@@ -8,6 +8,5 @@ tags:
 ---
 
 # Pushing Attack
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your eidolon has an attack that pushes away enemies. Choose one of the eidolon's unarmed attacks with the shove trait. It gains the [[Push]] action for that attack.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Never Tire
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You would gain the [[Fatigued]] condition.
 

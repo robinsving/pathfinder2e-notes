@@ -9,7 +9,6 @@ tags:
 ---
 
 # God Calling
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 The ancient art of god calling was once the predominant religious practice in Sarkoris, long before the Worldwound erupted and demons drove most of the native Sarkorians from their homelands. This art, one part magical theory and one part religion, allows certain Sarkorians to summon unusual and unique beings from the Great Beyond who protect their clans and guide their people. These creatures are typically referred to as gods by those who revere them, and they continue to return and guide their people generation after generation, so long as someone trained by a previous god caller or otherwise educated in the practice of communing with a particular god is alive to form a tether to the Material Plane so that the god can manifest. These god callers may have unique titles or names among the people of their clan, and such monikers differ from clan to clan, but most of the clans of Sarkoris are able to distinguish a god caller by their unique dress or glyph that ties the caller to their god.
 

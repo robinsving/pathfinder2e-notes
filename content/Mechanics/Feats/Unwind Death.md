@@ -8,7 +8,6 @@ tags:
 ---
 
 # Unwind Death
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** The target's body must be mostly intact.
 

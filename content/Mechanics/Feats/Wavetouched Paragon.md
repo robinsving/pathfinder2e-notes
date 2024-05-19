@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wavetouched Paragon
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have been blessed by the sea, granting you the ability to swim like a fish. You gain a 15-foot swim Speed.
 

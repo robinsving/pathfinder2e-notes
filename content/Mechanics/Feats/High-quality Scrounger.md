@@ -8,7 +8,6 @@ tags:
 ---
 
 # High-quality Scrounger
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you [[Craft]] a temporary item using Scrounger Dedication, it can be an item of up to 3rd level (though the item must still be a weapon, armor, or a nonconsumable piece of adventuring gear).
 

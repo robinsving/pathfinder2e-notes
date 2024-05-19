@@ -8,7 +8,6 @@ tags:
 ---
 
 # Swift Leap
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your undead physiology allows you to leap quickly toward or away from your opponent. You [[Leap]]. This movement doesn't trigger reactions.
 

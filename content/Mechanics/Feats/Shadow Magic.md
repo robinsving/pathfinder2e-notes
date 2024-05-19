@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shadow Magic
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain the ability to fuse and play with shadows by using focus spells specific to shadowdancers.
 

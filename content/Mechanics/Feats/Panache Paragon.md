@@ -8,7 +8,6 @@ tags:
 ---
 
 # Panache Paragon
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You find opportunities to perform stylish feats in the moments between others' heartbeats and eye blinks. You are permanently [[Quickened]].
 

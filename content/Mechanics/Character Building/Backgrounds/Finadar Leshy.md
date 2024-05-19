@@ -9,7 +9,6 @@ tags:
 ---
 
 # Finadar Leshy
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 **Prerequisites** Leshy ancestry
 

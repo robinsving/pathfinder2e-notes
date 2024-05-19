@@ -8,7 +8,6 @@ tags:
 ---
 
 # Additional Companion
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Another animal joins you in your travels. It is a young animal companion that has the minion trait. See Beastmaster Animal Companions (in Beastmaster Dedication) for rules on how having multiple animal companions works.
 

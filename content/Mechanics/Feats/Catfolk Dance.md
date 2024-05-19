@@ -8,7 +8,6 @@ tags:
 ---
 
 # Catfolk Dance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have a habit of always being in the way when other creatures attempt to move. Attempt an acrobatics check against an adjacent creature's Reflex DC.
 

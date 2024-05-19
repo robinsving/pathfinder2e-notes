@@ -8,7 +8,6 @@ tags:
 ---
 
 # Morphing Weapon
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 In its base form, this armament looks like a smooth bar of soft, gleaming metal shaped like a horseshoe. Its ability to adjust to any battle situation makes it a popular weapon for elite warriors of the Plane of Metal. It can be shaped into a melee weapon using its shifting rune, but it can shift only into weapons primarily made of metal or back to its base shape. In weapon form, it's a _+1 striking shifting_ weapon.
 

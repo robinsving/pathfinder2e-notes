@@ -8,7 +8,6 @@ tags:
 ---
 
 # Legendary Summoner
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your ability to summon extends past your other spellcasting. When you sacrifice a 9th-level spell slot to gain two summoning slots using Master Summoner, you can use those slots to cast summoning spells heightened to 10th level.
 

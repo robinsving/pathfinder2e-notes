@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vigilante Dedication
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have two identities, each with its own name, alignment, and abilities. Your social identity is an upstanding member of society, while your vigilante identity is a skilled and cunning warrior. Neither of these identities is a false front; you really are both of these people, and as such, your two identities can be at most one alignment step from each other (for instance, you could be neutral in one identity and neutral evil in the other, but not chaotic evil in the other).
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Smash From The Air
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your expertise enables you to knock away spells. You can use [[Cut from the Air]] against ranged spell attacks.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Liberating Stride
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Instead of you taking a Step at the end of your [[Liberating Step]], the triggering ally can Stride up to half their Speed.
 

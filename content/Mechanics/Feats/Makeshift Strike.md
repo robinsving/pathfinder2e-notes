@@ -8,7 +8,6 @@ tags:
 ---
 
 # Makeshift Strike
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You quickly snatch up whatever's nearby and then attack with it as an improvised weapon.
 

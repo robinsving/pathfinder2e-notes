@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cruelty
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The harm you deal with your corrupting touch saps the strength from your enemy's body.
 

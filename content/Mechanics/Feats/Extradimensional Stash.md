@@ -8,7 +8,6 @@ tags:
 ---
 
 # Extradimensional Stash
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you perform sleight of hand, you fold space so that objects really do disappear. You create a small extradimensional space somewhere within in your clothing that can hold up to 5 Bulk worth of objects. The space functions as a bag of holding, but can hold only up to 5 Bulk, has no Bulk of its own, and can be Interacted with using only one hand.
 

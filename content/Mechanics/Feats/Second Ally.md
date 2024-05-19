@@ -8,6 +8,5 @@ tags:
 ---
 
 # Second Ally
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your inner grace attracts the attention of a second protective spirit. Choose a second type of divine ally and gain its benefits.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Reaching (9th-level)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This long, slender wand is constructed of silver, polished to a mirror shine.
 

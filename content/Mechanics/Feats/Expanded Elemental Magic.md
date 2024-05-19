@@ -8,6 +8,5 @@ tags:
 ---
 
 # Expanded Elemental Magic
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You reach new understandings of the elements, taking an expansive view. Add to your elemental philosophy any of the following elements it doesn't already include: air, earth, fire, metal, water, and wood.

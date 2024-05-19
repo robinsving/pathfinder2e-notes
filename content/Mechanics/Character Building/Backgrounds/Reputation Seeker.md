@@ -9,7 +9,6 @@ tags:
 ---
 
 # Reputation Seeker
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You're likely from Breachill, but unlike the Local Scion, your family has no notable legacy in the area. You might not even have much of a family at all to call your own, and could be an orphan. You've seen so many people make names for themselves that you set out on your own and spent some time abroad in the jungles or deserts of Garund or in the upper reaches of the Darklands-regions that proved too dangerous to remain in for long on your own. You returned home with more caution and knowledge of the world beyond Breachill's borders, but still determined to win fame.
 

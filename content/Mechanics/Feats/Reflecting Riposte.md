@@ -8,7 +8,6 @@ tags:
 ---
 
 # Reflecting Riposte
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An opponent casts a spell and you critically succeed at a saving throw against it.
 

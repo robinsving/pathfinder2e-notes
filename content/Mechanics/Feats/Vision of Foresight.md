@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vision of Foresight
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You're in a Daydream Trance
 

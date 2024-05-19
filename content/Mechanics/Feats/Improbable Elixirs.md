@@ -8,7 +8,6 @@ tags:
 ---
 
 # Improbable Elixirs
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your mastery of alchemical secrets enables you to replicate effects most believe can be achieved only via magic.
 

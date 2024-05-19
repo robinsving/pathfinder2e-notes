@@ -8,6 +8,5 @@ tags:
 ---
 
 # Captivating Curiosity
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can snare the attentions of onlookers with your unique appearance. You can cast _[[Enthrall]]_ as a 3rd-level occult innate spell once per day.

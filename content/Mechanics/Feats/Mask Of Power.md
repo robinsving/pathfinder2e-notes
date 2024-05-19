@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mask Of Power
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your _warmask_ sharpens your connection to the source of your mask's power. During your daily preparations, choose _[[Fear]]_, _[[Phantom Pain]]_, or _[[Sure Strike]]_.
 

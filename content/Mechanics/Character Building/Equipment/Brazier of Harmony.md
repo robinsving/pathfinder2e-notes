@@ -8,7 +8,6 @@ tags:
 ---
 
 # Brazier of Harmony
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 The _brazier of harmony_ is a circular, orb-shaped censer etched with celebrating creatures shaking hands and dancing. The brazier contains a pleasant-smelling potpourri of dried flowers and incenses, designed to create a calm atmosphere that encourages meditation, thoughtfulness, and camaraderie. While holding the lit censer, you gain a +1 item bonus to Diplomacy checks, whether the censer is activated or not.
 

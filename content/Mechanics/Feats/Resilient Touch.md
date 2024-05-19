@@ -8,7 +8,6 @@ tags:
 ---
 
 # Resilient Touch
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your healing energies create an aura of protection that defends your allies against more than just blades and arrows.
 

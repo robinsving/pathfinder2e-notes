@@ -9,7 +9,6 @@ tags:
 ---
 
 # Borderlands Pioneer
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You have long lived along the southern border of Brevoy, in the shadow of the wilderness known as the Stolen Lands. Life has been hard, but through hunting, trapping, trading, and coaxing crops from the ground, you've learned how to survive on the rugged frontier. Whether because of your personal expertise and familiarity with the borderlands or in order to reclaim your family's land, you've joined the expedition into the Stolen Lands.
 

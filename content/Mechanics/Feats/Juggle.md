@@ -8,7 +8,6 @@ tags:
 ---
 
 # Juggle
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can Juggle items and still use your hands between tosses. You can use the Juggle action in several ways.
 

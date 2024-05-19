@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Clinging Rime (9th-level)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 A thin layer of frost coats this gnarled holly wand.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Blood Component Substitution
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can bypass the need for incantations and gestures by drawing energy directly from your blood, causing you to visibly glow the color of your blood and crackle with magical energy. When you [[Cast a Spell]], you can replace all verbal, material, or somatic spellcasting components with a blood component.
 

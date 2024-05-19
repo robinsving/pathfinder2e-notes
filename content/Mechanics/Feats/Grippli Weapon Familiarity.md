@@ -8,7 +8,6 @@ tags:
 ---
 
 # Grippli Weapon Familiarity
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've trained with weapons ideally suited to marshes and dense forests. You are trained with [[Blowgun|Blowguns]], [[Hatchet|Hatchets]], [[Scythe|Scythes]], [[Shortbow|Shortbows]], and [[Composite Shortbow|Composite Shortbows]].
 

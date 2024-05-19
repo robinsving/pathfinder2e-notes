@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cauterize
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You're wielding a loaded firearm and you or an adjacent ally are taking persistent bleed damage.
 

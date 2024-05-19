@@ -8,7 +8,6 @@ tags:
 ---
 
 # Reveal True Name
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You attempt to get a creature to do as you wish by threatening them with your knowledge of their true name. You must know and speak the creature's true name and say what you want the creature to do. Attempt an intimidation check against the target's Will DC.
 

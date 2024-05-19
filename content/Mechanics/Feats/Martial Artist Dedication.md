@@ -8,7 +8,6 @@ tags:
 ---
 
 # Martial Artist Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have trained to use your fists as deadly weapons. The damage die for your fist unarmed attacks becomes `dice: 1d6` instead of `dice: 1d4`. You don't take the -2 circumstance penalty for making a lethal attack with your nonlethal unarmed attacks.
 

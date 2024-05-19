@@ -8,7 +8,6 @@ tags:
 ---
 
 # All in Your Head
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You're about to attempt a Fortitude save or a Reflex save.
 

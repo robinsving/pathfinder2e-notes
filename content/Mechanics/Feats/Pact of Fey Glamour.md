@@ -8,7 +8,6 @@ tags:
 ---
 
 # Pact of Fey Glamour
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've sworn a pact with fey powers, granting you the otherworldly appearance of your dreams in exchange for oaths of hospitality. As long as you keep your end of the bargain, your base appearance changes indefinitely to any one appearance you wish that's within the bounds of possibility for your ancestry; this effect can't be counteracted or removed except by violating the pact. Additionally, you can cast _[[Illusory Disguise]]_ as a primal innate spell once per hour, using the higher of your class DC and your spell DC to determine the DC.
 

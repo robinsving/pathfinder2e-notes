@@ -8,6 +8,5 @@ tags:
 ---
 
 # Ghoran Weapon Practice
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 With plenty of practice, the memories of previous fights from previous lives come flooding back. Whenever you critically hit using a glaive, greatclub, hatchet, scythe, sickle, or ghoran weapon, you apply the weapon's critical specialization effect.

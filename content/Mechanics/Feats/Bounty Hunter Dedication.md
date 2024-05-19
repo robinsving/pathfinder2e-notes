@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bounty Hunter Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When focused on finding your quarry, you're relentless. You gain the [[Hunt Prey]] action. You can use Hunt Prey to designate only a creature that you've seen, heard about, or learned about through some other means, such as a bounty board or wanted poster. In addition to the other benefits of Hunt Prey, you gain a +2 circumstance bonus to checks to [[Gather Information]] regarding your prey.
 

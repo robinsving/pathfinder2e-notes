@@ -9,7 +9,6 @@ tags:
 ---
 
 # Final Blade Survivor
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 **Prerequisite** Region - Shining Kingdoms
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Bark and Tendril
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You wield primal magic. You can cast [[Entangling Flora]] and [[Oaken Resilience]] as 2nd-rank primal innate spells once per day each.

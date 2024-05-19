@@ -9,7 +9,6 @@ tags:
 ---
 
 # Tinker
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Creating all sorts of minor inventions scratches your itch for problem-solving. Your engineering skills take a particularly creative bent, and no one know what you'll come up with next. It might be a genius device with tremendous potential or it might explode.
 

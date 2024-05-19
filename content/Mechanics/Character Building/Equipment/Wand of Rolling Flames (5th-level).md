@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wand of Rolling Flames (5th-level)
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 The luminous design of red-orange cracks on this black obsidian wand suggests cooling lava.
 

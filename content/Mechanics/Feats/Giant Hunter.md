@@ -8,7 +8,6 @@ tags:
 ---
 
 # Giant Hunter
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have studied giants and hunt them with efficiency. When you roll initiative and can see a giant, you can [[Hunt Prey]] as a free action, designating that enemy as your prey.
 

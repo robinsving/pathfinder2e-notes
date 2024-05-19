@@ -8,7 +8,6 @@ tags:
 ---
 
 # Inspiring Marshal Stance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You become a brilliant example of dedication and poise in battle, encouraging your allies to follow suit.
 

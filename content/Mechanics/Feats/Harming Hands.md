@@ -8,6 +8,5 @@ tags:
 ---
 
 # Harming Hands
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The mordant power of your void energy grows. When you cast [[Harm]], you roll d10s instead of d8s.

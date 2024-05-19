@@ -8,7 +8,6 @@ tags:
 ---
 
 # Divine Rebuttal
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** Your ally is about to roll a saving throw against a magical ability of a creature you're adjacent to.
 

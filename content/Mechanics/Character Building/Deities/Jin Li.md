@@ -9,7 +9,6 @@ tags:
 ---
 
 # Jin Li
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Jin Li, deity of persistence, hard-work, and daring, never stops once he sets his mind to something, be it swallowing a whole lake dry or leaping to the top of a waterfall to prove to Sun Wukong just how much the carp valued their friendship. Though some may shake their heads and consider Jin Li's repetitive attempts foolish, there is strategy and discipline in each of Jin Li's leaps. He is aware that to reach higher heights, he must reduce his mass, yet cannot do so at the expense of losing strength. To train for the task, he must build up endurance and patience. Though the decision to take up the challenge may have been spontaneous, and the first few attempts were hasty and impulsive, failure is the mother of success, and for those who worship Jin Li, the success in the end often transcends even what they envisioned in the first place.
 

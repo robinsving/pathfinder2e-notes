@@ -8,7 +8,6 @@ tags:
 ---
 
 # Quick Fix
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can attach a talisman using only a bit of glue and some string. You gain the [[Rapid Affixture]] skill feat, even if you don't meet the prerequisites. When you use it, you can affix or remove up to four talismans in 1 minute instead of just one.
 

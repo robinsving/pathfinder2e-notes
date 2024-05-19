@@ -8,7 +8,6 @@ tags:
 ---
 
 # Flamboyant Cruelty
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You love to kick your enemies when they're down, and you look fabulous when you do.
 

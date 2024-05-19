@@ -9,7 +9,6 @@ tags:
 ---
 
 # Gambler
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 The thrill of the win drew you into games of chance. This might have been a lucrative sideline that paled in comparison to the real risks of adventuring, or you might have fallen on hard times due to your gambling and pursued adventuring as a way out of a spiral.
 

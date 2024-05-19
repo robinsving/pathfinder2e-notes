@@ -8,7 +8,6 @@ tags:
 ---
 
 # Quicksoul
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The elemental metal in your bloodline literally courses through your veins in the form of liquid metals like mercury, rubidium, gallium, and djezet, giving your actions a languid fluidity. You gain the trained proficiency rank in Acrobatics. If you would automatically become trained in Acrobatics (from your background or class, for example), you instead become trained in a skill of your choice. As these metals are largely toxic to organic life, you also gain the Toxic Touch action.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Arqueros
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Areas of Concern** bodyguards, protection, watchfulness
 

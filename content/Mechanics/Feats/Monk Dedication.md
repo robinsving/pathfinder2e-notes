@@ -8,7 +8,6 @@ tags:
 ---
 
 # Monk Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You become trained in unarmed attacks and gain the [[Powerful Fist]] class feature. You become trained in your choice of Acrobatics or Athletics; if you are already trained in both of these skills, you become trained in a skill of your choice. You become trained in monk class DC.
 

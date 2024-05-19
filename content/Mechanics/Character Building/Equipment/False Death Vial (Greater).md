@@ -8,7 +8,6 @@ tags:
 ---
 
 # False Death Vial (Greater)
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 **Activate** f envision
 

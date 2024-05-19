@@ -9,7 +9,6 @@ tags:
 ---
 
 # Picoperi
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 Picoperi, the eternal trickster, finds joy in even the simplest joke or prank. He delights in the surprises of daily life, always seeking the next thrill. Never content with regular schedules, his days vary wildly from one to the next. One evening, he may try to tickle Asmodeus's nose with a feather and the next morning, he may bump Artokus Kirran's arm as the famous alchemist works in his lab. No one is too important or mundane for his jests.
 

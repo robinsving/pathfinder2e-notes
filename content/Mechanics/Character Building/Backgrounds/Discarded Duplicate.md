@@ -9,7 +9,6 @@ tags:
 ---
 
 # Discarded Duplicate
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Someone created you for a specific purpose. Some important person, be they a storied royal, a contentious politician, or a stark military leader, needed a body double for their most dangerous appearances. Using a mixture of fringe science and magic, you were commissioned and trained to emulate this person in every way, and have stood in for them in countless deadly circumstances. You may or may not know the reason behind your decommissioning, but whoever discarded you didn't finish you off. Now, the world is yours to explore-but "you" may have a bold or brutish reputation, or the individual you were duplicating may be long dead. Regardless of the fate of this individual, your way of life has changed drastically.
 

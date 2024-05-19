@@ -8,7 +8,6 @@ tags:
 ---
 
 # Esoteric Oath
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've sworn an oath to slay the alien abominations that lurk in the remote corners of Golarion and prey on the weak. You gain following edict: "You must slay aberrations whose actions are in direct opposition to your deity's edicts when you encounter them as long as you have a reasonable chance of success."
 

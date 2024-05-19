@@ -8,7 +8,6 @@ tags:
 ---
 
 # Muscle Mimicry
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An enemy makes a successful [[Disarm]], [[Escape]], [[Grapple]], [[Shove]], or [[Trip]] attempt.
 

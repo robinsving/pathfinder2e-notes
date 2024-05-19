@@ -8,7 +8,6 @@ tags:
 ---
 
 # Quick Mount
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are adjacent to a creature that is at least one size larger than you and is willing to be your mount.
 

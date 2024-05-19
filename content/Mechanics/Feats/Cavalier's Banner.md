@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cavalier's Banner
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You have pledged your service to a specific organization or ideal (see Cavalier Pledges, below).
 

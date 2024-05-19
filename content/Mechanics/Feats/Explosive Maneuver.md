@@ -8,7 +8,6 @@ tags:
 ---
 
 # Explosive Maneuver
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** Your last action was a successful Strike against a foe using your weapon innovation.
 

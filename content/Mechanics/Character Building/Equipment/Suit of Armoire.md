@@ -8,7 +8,6 @@ tags:
 ---
 
 # Suit of Armoire
-![[systems-pf2e-icons-default-icons-armor.svg|150]]
 
 **Price** An indeterminate amount of one's lifespan, spent driving to the magic item warehouse, navigating its labyrinthine corridors, and consuming meatballs. Also some gold.
 

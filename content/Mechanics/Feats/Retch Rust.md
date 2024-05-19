@@ -8,7 +8,6 @@ tags:
 ---
 
 # Retch Rust
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You exhale tendrils formed from flakes of rusted metal. All creatures in a 30-Foot Cone take 4d10 slashing damage with a DC 0 Basic Fortitude save against your class DC. A metal creature that fails its save also takes 2d4 persistent slashing damage.
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Achaekek's Grip
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You sense if a creature you have slain in the last year has been restored to life, as long as you and that creature are on the same plane. You also gain the _[[Achaekek's Clutch]]_ focus spell. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can Refocus by praying to Achaekek or researching your assigned kill.

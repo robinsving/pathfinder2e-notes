@@ -8,6 +8,5 @@ tags:
 ---
 
 # Ongoing Investigation
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You're always investigating what's around you, even as you perform other activities. You can move at full Speed while using the [[Investigate]] exploration activity, and you can use another exploration activity while Investigating.

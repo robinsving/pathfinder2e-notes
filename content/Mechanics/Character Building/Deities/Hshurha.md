@@ -9,7 +9,6 @@ tags:
 ---
 
 # Hshurha
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Hshurha**, Duchess of All Winds, is the elemental lord of air, last breaths, and windstorms. She rules the Plane of Air from her translucent palace, Verglas Precessional, surrounded by her court of air elementals, planar dignitaries, and favored guests. The Duchess is naturally invisible, and her true form-if she even has such a thing-is a mystery. Cruel and tyrannical, Hshurha enjoys toying with outsiders in her realm, and she is known to be especially vicious toward creatures with solid forms. She creates and destroys magnificent ice and dust sculptures according to her tumultuous whims, and her machinations often seem convoluted and nonsensical, even to her inner circle. Most on the plane both respect and fear her.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Divine Effusion
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The power of your mystery surges through you like a font of divine energy, even when your own magic dwindles.
 

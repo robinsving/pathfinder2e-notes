@@ -8,6 +8,5 @@ tags:
 ---
 
 # Basic Beast Gunner Spellcasting
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've unlocked the first secrets of beast guns, granting you the power of their synergistic magic. You gain the [[Spellcasting Archetypes#Basic Spellcasting Feat|Basic Spellcasting Feat]] benefits. Each time you gain a spell slot of a new rank from this archetype, add a spell of the appropriate spell rank to your repertoire, either a common spell of your chosen tradition or another spell of that tradition you've learned or discovered.

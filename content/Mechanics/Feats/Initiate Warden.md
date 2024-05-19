@@ -8,7 +8,6 @@ tags:
 ---
 
 # Initiate Warden
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've trained with one of the ranger sects known as wardens, who practice a specialized type of primal magic. You gain your choice of one warden spell from these initial warden spells (or another you have access to).
 

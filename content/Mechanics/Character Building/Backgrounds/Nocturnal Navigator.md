@@ -9,7 +9,6 @@ tags:
 ---
 
 # Nocturnal Navigator
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You have a great affinity for the night skies. You watch the stars, and you feel they speak secret messages specifically to you, which help you navigate your surroundings or perhaps determine your next course of action. Often, the stars have led you to places of great adventure, where you find new experiences and challenges. You might have come to make use of your talents as a guide for traveling groups, or maybe you preferred using your talents in pursuing a star-driven journey for personal enlightenment.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Triumphant Inspiration
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You critically hit a foe with a melee weapon Strike or a melee unarmed attack.
 

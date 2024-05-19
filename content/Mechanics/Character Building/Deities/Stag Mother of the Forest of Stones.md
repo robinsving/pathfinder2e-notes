@@ -9,7 +9,6 @@ tags:
 ---
 
 # Stag Mother of the Forest of Stones
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Edicts** Provide shelter and succor for women and children in need, act as a responsible steward of your environment
 

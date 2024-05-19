@@ -8,7 +8,6 @@ tags:
 ---
 
 # Conductor's Redirection
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You are hit by an attack, spell, or other effect that deals electricity damage.
 

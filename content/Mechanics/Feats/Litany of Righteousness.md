@@ -8,7 +8,6 @@ tags:
 ---
 
 # Litany of Righteousness
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You call upon righteousness to expose an evil foe's weakness.
 

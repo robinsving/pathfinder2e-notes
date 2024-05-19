@@ -8,7 +8,6 @@ tags:
 ---
 
 # Spell Shroud
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your spell shrouds you in a billowing cloud. If your next action is to [[Cast a Spell]] that targets you, you surround yourself in a 15 foot emanation of dense magical mist that lasts until the start of your next turn.
 

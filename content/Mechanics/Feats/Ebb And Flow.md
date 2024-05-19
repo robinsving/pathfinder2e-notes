@@ -8,6 +8,5 @@ tags:
 ---
 
 # Ebb And Flow
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can pull forth both vitality and the void simultaneously to harm your enemies and heal your allies. If your next action is to cast a 1-action or 2-action [[Heal]] or [[Harm]] spell, choose one creature in range that would be harmed by the spell, and choose another creature within range that would be healed by the spell. Your _heal_ or _harm_ targets both creatures.

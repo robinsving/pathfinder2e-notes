@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sense Alignment
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You read the body language of an intelligent creature within 30 feet and pick up on subtle cues to detect its general propensity for good or evil and law or chaos. The GM rolls a secret perception check, comparing the result against the target's Deception DC.
 

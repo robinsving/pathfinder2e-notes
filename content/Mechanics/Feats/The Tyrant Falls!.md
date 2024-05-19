@@ -8,7 +8,6 @@ tags:
 ---
 
 # The Tyrant Falls!
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've reached the apex of the Crimson Oath's power. The oath's power is overwhelming—too much for a mortal frame—but victory is worth any price. When you use this feat, you cry out the final line of the Crimson Oath, unleashing unbridled power for 1 minute. You can Dismiss this effect. While this effect is active, you gain the following effects:
 

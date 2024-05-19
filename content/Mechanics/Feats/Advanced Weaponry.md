@@ -8,7 +8,6 @@ tags:
 ---
 
 # Advanced Weaponry
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your eidolon's attack evolves.
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Marsh Runner
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are adept at moving through marshy terrain. When you use the [[Step]] action, you can ignore difficult terrain caused by flooding, swamps, or quicksand. In addition, when you use the Acrobatics skill to [[Balance]] on narrow surfaces or uneven marshy ground, you aren't [[Off-Guard]], and if you roll a success on the Acrobatics check, you get a critical success instead.

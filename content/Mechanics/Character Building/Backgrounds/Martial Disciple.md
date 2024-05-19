@@ -9,7 +9,6 @@ tags:
 ---
 
 # Martial Disciple
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You dedicated yourself to intense training and rigorous study to become a great warrior. The school you attended might have been a traditionalist monastery, an elite military academy, or the local branch of a prestigious mercenary organization.
 

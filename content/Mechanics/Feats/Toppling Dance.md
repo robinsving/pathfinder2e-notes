@@ -8,6 +8,5 @@ tags:
 ---
 
 # Toppling Dance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 While sharing a creature's space using Dance Underfoot, your melee weapons and unarmed attacks gain the trip trait, but only against the creature whose space you share. You can be in the same space as a Large or larger [[Prone]] creature, even if it's not your ally.

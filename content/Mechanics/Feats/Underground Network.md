@@ -8,7 +8,6 @@ tags:
 ---
 
 # Underground Network
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You're connected to groups that know what's going on in the streets, and you can get information out of them quickly. When you use Society to [[Gather Information]] in an area where you have a network (typically a settlement where you've spent at least a week or spent a day of downtime to build a network faster), you can contact a member of these groups to get information directly from them. This usually takes about an hour, and it doesn't draw as much attention as Gathering Information in public might. The check and information gained otherwise follow the normal rules for Gather Information.
 

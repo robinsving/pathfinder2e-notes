@@ -8,7 +8,6 @@ tags:
 ---
 
 # Prevailing Position
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You are targeted by an attack or attempt a Reflex saving throw against a damaging effect, and you are in a stance.
 

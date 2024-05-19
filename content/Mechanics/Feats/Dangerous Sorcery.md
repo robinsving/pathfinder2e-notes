@@ -8,6 +8,5 @@ tags:
 ---
 
 # Dangerous Sorcery
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your legacy grants you great destructive power. When you Cast a Spell from your spell slots, if the spell deals damage and doesn't have a duration, you gain a status bonus to that spell's damage equal to the spell's level.

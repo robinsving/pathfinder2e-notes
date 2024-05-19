@@ -8,7 +8,6 @@ tags:
 ---
 
 # Greater Spiritual Evolution
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your magical blood is rich with spiritual essence, and this infusion within you allows your spells to be fully effective against incorporeal creatures, spirits, and creatures on the Ethereal Plane.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Learned Guard Prodigy
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 For some, the nuts and bolts of keeping the peace are practically second nature. Such is the case for you, a member of the Learned Guard with an incredible mind for investigation as well as a gift for understanding magic. You probably aren't a hit with your peers, who find your intellect and natural gift of deduction perhaps a bit off-putting, but when left to your own devices you excel, and you get along well with professors and mages such as those who work in Forae Logos or the Arcanamirium.
 

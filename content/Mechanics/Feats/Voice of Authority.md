@@ -8,7 +8,6 @@ tags:
 ---
 
 # Voice of Authority
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You easily command the attention of others, and when the time comes to turn threats into action, your authoritative voice causes foes to falter.
 

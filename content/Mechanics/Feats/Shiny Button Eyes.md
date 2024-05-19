@@ -8,6 +8,5 @@ tags:
 ---
 
 # Shiny Button Eyes
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've polished your eyes to reflect the smallest details in dimmest light. You gain the [[Canny Acumen]] skill feat as a bonus feat, but you must choose Perception. Additionally, you gain a +1 circumstance bonus to Perception checks against visual illusions.

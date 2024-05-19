@@ -8,6 +8,5 @@ tags:
 ---
 
 # Ceremony of Knowledge
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You tap into aeon knowledge. You gain the [[Untrained Improvisation]] general feat. In addition, you can attempt skill actions that normally require you to be trained, even if you are untrained.

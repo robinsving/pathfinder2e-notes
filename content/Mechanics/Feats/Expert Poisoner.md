@@ -8,6 +8,5 @@ tags:
 ---
 
 # Expert Poisoner
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your [[Advanced Alchemy]] level for poison increases to your level -3.

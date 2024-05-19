@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hongbao of Many Things
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This enchanted long, red envelope is decorated with beautiful illustrations in gold ink. The hongbao holds twelve slips safely within.
 

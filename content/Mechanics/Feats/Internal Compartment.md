@@ -8,7 +8,6 @@ tags:
 ---
 
 # Internal Compartment
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can hide a small object of up to light Bulk inside a hollow cavity on one of your forearms. It takes three [[Interact]] actions to store an object in this way.
 

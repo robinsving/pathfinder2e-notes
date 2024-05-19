@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cleave
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** Your melee Strike kills a creature or knocks it unconscious, and another foe is adjacent to that creature.
 

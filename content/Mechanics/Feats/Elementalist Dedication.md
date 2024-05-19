@@ -8,7 +8,6 @@ tags:
 ---
 
 # Elementalist Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Each day when you make your daily preparations, you can attune yourself to one element of your choice from your elemental philosophy.
 

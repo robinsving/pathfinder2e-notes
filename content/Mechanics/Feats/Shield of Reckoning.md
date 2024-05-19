@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shield of Reckoning
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A foe's attack against an ally matches the trigger for both your Shield Block reaction and your champion's reaction
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Miracle Worker
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Frequency** once every 10 minutes
 

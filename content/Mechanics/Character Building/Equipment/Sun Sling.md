@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sun Sling
-![[systems-pf2e-icons-default-icons-weapon.svg|150]]
 
 A sun sling is a small staff with a head of woven netting. The staff is small enough to hold in a single hand, making it useful for hit-and-run tactics, but once loaded with ammunition, it requires two hands to properly swing and fire. This is a martial ranged weapon.
 

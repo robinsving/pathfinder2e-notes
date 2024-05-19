@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vivacious Afterimage
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You have panache.
 

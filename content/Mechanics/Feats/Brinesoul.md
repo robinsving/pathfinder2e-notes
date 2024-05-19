@@ -8,6 +8,5 @@ tags:
 ---
 
 # Brinesoul
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your elemental ancestor's legacy asserts itself as brackish water, like the seawater of the ocean. You gain the [[Salt Wound]] reaction.

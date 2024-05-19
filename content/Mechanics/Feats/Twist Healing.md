@@ -8,6 +8,5 @@ tags:
 ---
 
 # Twist Healing
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your connection to both life and undeath lets you twist the healing power of magic items to suit your own needs and aims. Whenever you Activate an Item to cast a _[[Heal]]_ spell, you can invert its energy to produce the effects of an equivalent _[[Harm]]_ spell instead.

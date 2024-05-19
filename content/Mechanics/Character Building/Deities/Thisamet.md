@@ -9,7 +9,6 @@ tags:
 ---
 
 # Thisamet
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 The Blithe Spirit, Thisamet, exemplifies the warmth of celebration. In her merriment, she takes many forms and adjusts each to match the event. Often, she appears as a middle-aged woman with laugh lines worn deep in her face. She delights in attending events without fanfare, walking amongst mortal celebrants and immersing herself in the crowd. It's only as she leaves that the other celebrants notice the sheen of divinity remaining.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Grizzled Muckrucker
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You've served on the Muckruckers, the unofficial guards of the flooded Puddles district. The pay's no good, the conditions are squalid, and you've seen things during your time on the force that've made you question your career entirely. Perhaps you joined the group out of a sense of duty to your fellow Absalomians, or maybe you felt an obligation to help restore your apocalyptic home district to some semblance of normalcy. Either way, the traumas you've endured, the double-crossers who've betrayed you, the wretched monsters that have crawled out of the muck to assail you-it's enough to turn an officer to weary cynicism or self-destruction through merciful drink.
 

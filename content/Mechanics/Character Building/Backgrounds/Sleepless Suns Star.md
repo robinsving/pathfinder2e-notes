@@ -9,7 +9,6 @@ tags:
 ---
 
 # Sleepless Suns Star
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Among your fellow guards who patrol the Foreign Quarter, you're something of a big deal. Your good work and big personality have made a big enough splash that word has gotten out about your status as a rising star among the watchdogs of Absalom. Your popularity has also earned you the trust of many citizens of the Foreign Quarter.
 

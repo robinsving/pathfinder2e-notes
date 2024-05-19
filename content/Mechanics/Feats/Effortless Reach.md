@@ -8,6 +8,5 @@ tags:
 ---
 
 # Effortless Reach
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Focusing the powers of your ki to augment your blows, you stretch and lengthen your body in ways that defy logic. Your unarmed attacks gain the reach trait.

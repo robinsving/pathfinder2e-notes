@@ -8,7 +8,6 @@ tags:
 ---
 
 # Elemental Familiar
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your familiar becomes an elemental spirit capable of taking on aspects of the elements. Other than taking the form of an elemental instead of an animal, this familiar continues to use all the same rules as other familiars.
 

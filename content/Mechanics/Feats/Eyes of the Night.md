@@ -8,7 +8,6 @@ tags:
 ---
 
 # Eyes of the Night
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can see in the darkness as easily as a true vampire. You gain [[Darkvision]].
 

@@ -8,6 +8,5 @@ tags:
 ---
 
 # Barrier Shield
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 When you cast shield, you can modify the spell to create a solid barrier you can use for cover, but not for blocking. You can't use the Shield Block reaction when the spell is modified in this way, but you (and only you) can spend an action to Take Cover to gain standard cover from it.

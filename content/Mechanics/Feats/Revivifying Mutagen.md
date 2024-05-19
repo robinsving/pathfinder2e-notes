@@ -8,7 +8,6 @@ tags:
 ---
 
 # Revivifying Mutagen
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 While under the effect of a mutagen, you can metabolize that mutagen's power to heal yourself.
 

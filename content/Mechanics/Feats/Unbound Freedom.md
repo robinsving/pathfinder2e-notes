@@ -8,6 +8,5 @@ tags:
 ---
 
 # Unbound Freedom
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your future is no other person's to control, and the cycles of your fate sometimes step in to protect you when that control would be taken from you. Whenever you would gain the controlled condition, you can attempt a DC 17 flat. On a success, you don't gain the condition.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Forge-Day's Rest
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Access** underground dwarf ethnicity
 

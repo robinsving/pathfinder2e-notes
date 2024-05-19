@@ -8,7 +8,6 @@ tags:
 ---
 
 # Advanced Thoughtform
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain one psychic feat. For the purpose of meeting its prerequisites, your psychic level is equal to half your character level.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Beast Blessed
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You once freed a magical beast from captivity and, whether it was intentional or a byproduct of another action, the grateful creature bestowed a blessing of freedom upon you. Your blessing manifests physically, perhaps as elongated canines, fingernails that grow to a sharp point, excess body hair, or some other feature. This physical manifestation is cosmetic and provides no benefit.
 

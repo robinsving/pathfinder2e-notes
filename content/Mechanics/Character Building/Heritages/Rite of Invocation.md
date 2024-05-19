@@ -9,6 +9,5 @@ draft: true
 ---
 
 # Rite of Invocation
-![[systems-pf2e-icons-default-icons-heritage.svg|150]]
 
 You augmented your exoskeleton with magic. You gain one cantrip from the arcane or occult spell list. You can cast this spell as an innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Hair Trigger
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Prerequisites** initial deed that allows you to Interact to draw a weapon
 

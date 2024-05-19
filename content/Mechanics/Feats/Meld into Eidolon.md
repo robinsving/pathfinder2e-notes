@@ -8,7 +8,6 @@ tags:
 ---
 
 # Meld into Eidolon
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your physical form can combine with that of your eidolon, granting benefits but limiting your capabilities.
 

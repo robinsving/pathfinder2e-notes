@@ -8,6 +8,5 @@ tags:
 ---
 
 # Specialized Companion (Animal Trainer)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The animal companion you gain from the Animal Trainer Dedication feat gains one specialization of your choice. Increase its proficiency rank in Performance to legendary instead of one of the specialization's skill increases.

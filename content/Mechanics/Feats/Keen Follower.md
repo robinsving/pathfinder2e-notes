@@ -8,7 +8,6 @@ tags:
 ---
 
 # Keen Follower
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your keen observation of your allies has made you better at following their lead.
 

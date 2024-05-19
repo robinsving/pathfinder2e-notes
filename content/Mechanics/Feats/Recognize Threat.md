@@ -8,7 +8,6 @@ tags:
 ---
 
 # Recognize Threat
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You have master proficiency in a skill to identify the triggering creature.
 

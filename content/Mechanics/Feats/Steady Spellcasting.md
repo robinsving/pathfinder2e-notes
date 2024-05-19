@@ -8,6 +8,5 @@ tags:
 ---
 
 # Steady Spellcasting
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Confident in your technique, you don't lose spells easily. If a reaction would disrupt your spellcasting action, attempt a DC 15 flat. If you succeed, your action isn't disrupted.

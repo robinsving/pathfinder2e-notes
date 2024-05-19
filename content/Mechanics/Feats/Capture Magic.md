@@ -8,7 +8,6 @@ tags:
 ---
 
 # Capture Magic
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You succeed at your save against a foe's harmful spell, or a foe fails a spell attack roll against you from a harmful spell.
 

@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Battle-Trained Human (BB)
-![[systems-pf2e-icons-default-icons-heritage.svg|150]]
 
 Your family has trained in battle for generations, granting you advantages in a fight. You are trained in all martial weapons..
 

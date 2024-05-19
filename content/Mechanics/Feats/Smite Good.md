@@ -8,7 +8,6 @@ tags:
 ---
 
 # Smite Good
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your blade ally shares your lust for the blood of good creatures.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Sponsored by Family
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Several members of your family have studied at the Magaambya, although not all of them have graduated as lore-speakers (or even advanced past initiates to become attendants). Your family has decided that you're an excellent candidate to join their ranks. Although lore-speakers of the Magaambya know they are supported by the strength of thousands of graduates who have come before them, you can take the smaller, more personal comfort in the support of your family.
 

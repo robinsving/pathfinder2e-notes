@@ -8,7 +8,6 @@ tags:
 ---
 
 # Alchemical Shot
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You have an alchemical bomb worn or in one hand, and are wielding a firearm or crossbow in the other.
 

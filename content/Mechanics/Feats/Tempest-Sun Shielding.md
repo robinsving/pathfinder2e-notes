@@ -8,7 +8,6 @@ tags:
 ---
 
 # Tempest-Sun Shielding
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You or an ally within 30 feet takes damage.
 

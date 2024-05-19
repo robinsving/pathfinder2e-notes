@@ -8,7 +8,6 @@ tags:
 ---
 
 # Runic Impression
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can temporarily replicate the effects of a property rune for your weapon or unarmed attacks. You learn the _[[Runic Impression]]_ conflux spell.
 

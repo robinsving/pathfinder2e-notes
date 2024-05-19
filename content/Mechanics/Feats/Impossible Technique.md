@@ -8,7 +8,6 @@ tags:
 ---
 
 # Impossible Technique
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An enemy's attack hits you or you fail a saving throw against an enemy's ability.
 

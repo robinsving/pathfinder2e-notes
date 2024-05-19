@@ -9,7 +9,6 @@ tags:
 ---
 
 # Hellknight Historian
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 The various Hellknight Orders intrigue you, whether you seek to become one of their number yourself, wish to oppose their goals at every turn, or are merely inspired by or curious to learn more about them. You've heard that when the Order of the Nail abandoned Citadel Altaerein, they left behind the deed to the castle so anyone brave enough to explore the ruins and the defenses no doubt left behind would be rewarded with ownership of the abandoned fortress.
 

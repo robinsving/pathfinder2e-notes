@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cracked Mountain
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You would be reduced to 0 Hit Points but not immediately killed.
 

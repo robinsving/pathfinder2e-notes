@@ -8,7 +8,6 @@ tags:
 ---
 
 # Curse Maelstrom Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 A horrible curse has left a lingering stain on your soul, and its effects continue to plague you even if the curse's other effects have ended. You can choose to suppress it, but if you instead let it manifest, you can channel its power in your favor. During an encounter, when you succeed at a check, the GM can offer to have you roll again, taking the second result. This is a misfortune effect. If you do so, you enter a curse maelstrom state. If the misfortune effect is somehow canceled or negated (by a fortune effect, for example), you don't enter a curse maelstrom state.
 

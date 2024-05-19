@@ -8,7 +8,6 @@ tags:
 ---
 
 # Ebon Marionette
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This puppet is carved out of ebony wood and affixed to violet strings for easy manipulation.
 

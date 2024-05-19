@@ -8,6 +8,5 @@ tags:
 ---
 
 # Foil Senses
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are adept at foiling creatures' special senses and cautious enough to safeguard against them at all times. Whenever you use the [[Avoid Notice]], [[Hide]], or [[Sneak]] actions, you are always considered to be taking precautions against special senses.

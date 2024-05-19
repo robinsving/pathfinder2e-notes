@@ -8,7 +8,6 @@ tags:
 ---
 
 # Upset Balance
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You are damaged by a melee Strike.
 

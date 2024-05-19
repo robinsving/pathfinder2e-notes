@@ -8,7 +8,6 @@ tags:
 ---
 
 # Armor Assist
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 After your service aiding armored combatants, you are practiced in helping yourself and others don heavy gear.
 

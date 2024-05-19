@@ -8,7 +8,6 @@ tags:
 ---
 
 # Mysterious Repertoire
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your mystery holds unknowable depths of magic not always associated with the divine. You can have one spell in your spell repertoire not on the divine spell list, in addition to spells you've added to your spell list from feats like Divine Access. You cast that spell as a divine spell.
 

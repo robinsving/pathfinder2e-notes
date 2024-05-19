@@ -8,7 +8,6 @@ tags:
 ---
 
 # We're on the List
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An ally you can see and hear is about to attempt a Deception check to [[Impersonate]] someone or [[Lie]].
 

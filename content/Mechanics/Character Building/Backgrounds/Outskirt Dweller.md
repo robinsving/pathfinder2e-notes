@@ -9,7 +9,6 @@ tags:
 ---
 
 # Outskirt Dweller
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 While Willowshore is a lovely small town, even a population of 200 is a bit much for you. Whether you grew up in the town's outskirts, or you grew frustrated and overwhelmed with town life and decided to move to the fringes, you're only really at home when you're surrounded by nature. You don't look down on those who live in town, and you might be among the hunters, trappers, fishers, or herbalists who provide important support to those who lack such forestry skills. Your home is on the outskirts of Willowshore and might not even be represented by an actual building on the map. With the GM's permission, you might even dwell in a small building further out in the Willowshore hinterlands, but no further than a couple of miles from town.
 

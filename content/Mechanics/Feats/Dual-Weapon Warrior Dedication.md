@@ -8,7 +8,6 @@ tags:
 ---
 
 # Dual-Weapon Warrior Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You're exceptional in your use of two weapons. You gain the [[Double Slice]] fighter feat. This serves as Double Slice for the purpose of meeting prerequisites.
 

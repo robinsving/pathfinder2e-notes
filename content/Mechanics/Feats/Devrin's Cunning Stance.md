@@ -8,7 +8,6 @@ tags:
 ---
 
 # Devrin's Cunning Stance
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've learned Devrin Arlos's guileful ways, and his sly teachings help you remind your allies to keep their wits about them. When you use this action, attempt a deception check. The DC is usually a standard-difficulty DC of your level, but the GM can assign a different DC based on the circumstances. The effect depends on the result of your check.
 

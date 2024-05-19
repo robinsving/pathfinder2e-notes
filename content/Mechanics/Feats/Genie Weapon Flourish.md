@@ -8,6 +8,5 @@ tags:
 ---
 
 # Genie Weapon Flourish
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Whenever you critically hit using a [[Falchion]], [[Ranseur]], [[Scimitar]], [[Trident]], or a geniekin weapon, you apply the weapon's critical specialization effect.

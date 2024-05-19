@@ -8,7 +8,6 @@ tags:
 ---
 
 # Snare Commando
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A creature fails or critically fails a save against your snare.
 

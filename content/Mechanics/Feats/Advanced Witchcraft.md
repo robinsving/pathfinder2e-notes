@@ -8,7 +8,6 @@ tags:
 ---
 
 # Advanced Witchcraft
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain one witch feat. For the purpose of meeting its prerequisites, your witch level is equal to half your character level.
 

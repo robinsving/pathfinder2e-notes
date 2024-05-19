@@ -8,7 +8,6 @@ tags:
 ---
 
 # Kreighton's Cognitive Crossover
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You gain no information from a Recall Knowledge check (usually because you failed the secret check) using one of the two skills you chose for this feat.
 

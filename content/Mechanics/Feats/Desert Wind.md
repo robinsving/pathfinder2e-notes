@@ -8,7 +8,6 @@ tags:
 ---
 
 # Desert Wind
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 A vortex of sand and dust surrounds you. Each creature inside your kinetic aura (including you) is [[Concealed]] from any creature outside your kinetic aura, and creatures outside the aura are concealed from creatures inside the aura other than you. Your air impulses carry sands that cut at great speed.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Cayden's Tankard
-![[systems-pf2e-icons-default-icons-weapon.svg|150]]
 
 This ordinary-looking silver tankard functions as a _+4 major striking hopeful returning light hammer_ when wielded as a weapon. Imbued with Cayden Cailean's courage, you are immune to fear effects. Any liquid poured into the tankard transforms into a strong, alcoholic ambrosia that remains contained safely within until you drink it. Drinking the ambrosia Activates the tankard, with one of the following effects. If you aren't the one blessed to borrow the tankard, you are [[Drained 1|Drained 4]] and [[Enfeebled 1|Enfeebled 4]] while holding it, and its magic doesn't function for you.
 

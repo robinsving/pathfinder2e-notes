@@ -9,7 +9,6 @@ tags:
 ---
 
 # Acrobat
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 In a circus or on the streets, you earned your pay by performing as an acrobat. You might have turned to adventuring when the money dried up, or simply decided to put your skills to better use.
 

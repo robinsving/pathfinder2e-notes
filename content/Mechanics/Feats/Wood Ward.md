@@ -8,7 +8,6 @@ tags:
 ---
 
 # Wood Ward
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A creature targets you with an attack.
 

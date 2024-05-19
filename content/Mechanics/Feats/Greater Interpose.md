@@ -8,7 +8,6 @@ tags:
 ---
 
 # Greater Interpose
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your divine grace empowers you to avoid hits when you otherwise could not.
 

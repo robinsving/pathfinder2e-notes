@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shattering Strike (Weapon Improviser)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An improvised weapon that you are wielding becomes broken as a result of a critical success on an Improvised Pummel.
 

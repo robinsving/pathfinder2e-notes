@@ -8,7 +8,6 @@ tags:
 ---
 
 # Frightful Condemnation
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You hit your condemned foe with a melee Strike in the same turn during which you condemned it with Harsh Judgment.
 

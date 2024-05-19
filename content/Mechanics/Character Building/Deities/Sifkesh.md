@@ -9,7 +9,6 @@ tags:
 ---
 
 # Sifkesh
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Edicts** Spread doubt among the faithful, ruin the reputation of religions, provoke wrongdoers to suicide instead of allowing for redemption
 

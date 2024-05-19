@@ -8,7 +8,6 @@ tags:
 ---
 
 # Bullet Dancer Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've learned how to synchronize traditional martial arts and guns. You gain the [[Bullet Dancer Stance]] action. Whenever your proficiency in any weapon increases to expert or beyond, you gain that new proficiency with bayonets, reinforced stocks, simple firearms and unarmed attacks.
 

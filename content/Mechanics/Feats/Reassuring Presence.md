@@ -8,7 +8,6 @@ tags:
 ---
 
 # Reassuring Presence
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** An ally within 30 feet gains the frightened condition.
 

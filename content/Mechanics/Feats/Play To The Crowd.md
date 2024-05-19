@@ -8,7 +8,6 @@ tags:
 ---
 
 # Play To The Crowd
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You reduce an enemy to 0 Hit Points during a non-trivial combat encounter with spectators.
 

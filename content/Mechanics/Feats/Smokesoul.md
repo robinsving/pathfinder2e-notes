@@ -8,6 +8,5 @@ tags:
 ---
 
 # Smokesoul
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have a connection to smoke and haze. You gain the [[Smoke Blending]] reaction.

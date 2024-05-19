@@ -8,7 +8,6 @@ tags:
 ---
 
 # Azarketi Purification
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You can cast _[[Cleanse Cuisine]]_ as a primal innate spell, but only on liquids. You can cast this spell once every 10 minutes.
 

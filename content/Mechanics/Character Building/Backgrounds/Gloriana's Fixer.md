@@ -9,7 +9,6 @@ tags:
 ---
 
 # Gloriana's Fixer
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You used to run certain "errands" for Gloriana Morilla, a close confidante of Grand Princess Eutropia Stavian, the ruler of Taldor. Gloriana took note of your skills and suggested you join the Pathfinder Society, a group she's heavily involved in herself.
 

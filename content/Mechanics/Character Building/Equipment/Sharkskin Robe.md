@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sharkskin Robe
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This sandy-textured robe comes with sleeves that resemble dorsal fins. It's believed to have been developed by frustrated alchemists from the Universe for trips to the Plane of Water. The _sharkskin robe_ grants you a swim Speed equal to your land Speed and a +2 item bonus to Athletics checks.
 

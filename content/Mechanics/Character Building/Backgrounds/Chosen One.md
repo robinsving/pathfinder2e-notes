@@ -9,7 +9,6 @@ tags:
 ---
 
 # Chosen One
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Your birth has fulfilled a prediction, and people close to you are counting on you to do great things. There's intense pressure on you to be up to the task, and the fickle nature of prophecy complicates your path.
 

@@ -9,7 +9,6 @@ tags:
 ---
 
 # Post Guard of All Trades
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Not all cops are passionate about their jobs. For some, the pursuit of justice is just another way to pay the bills. Honestly, it was probably the Post Guard's generous time-off policy that drew you to their service, and during your yearly sabbaticals you've dabbled in hobbies as diverse as fishing, baking, or even stand-up comedy. Even while on duty, you're probably idly fiddling with a lucky coin or practicing magic tricks with a deck of cards. You probably irritate your fellow guards a bit with your non sequiturs, casual attitude, and tendency to daydream, but results don't lie, and more often than not you prove your worth when the chips are down.
 

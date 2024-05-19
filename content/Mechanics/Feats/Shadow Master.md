@@ -8,7 +8,6 @@ tags:
 ---
 
 # Shadow Master
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 The shadows protect you better than any armor can, and they give you power to plunge others into darkness.
 

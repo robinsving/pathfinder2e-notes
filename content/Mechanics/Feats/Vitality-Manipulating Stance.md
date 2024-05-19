@@ -8,7 +8,6 @@ tags:
 ---
 
 # Vitality-Manipulating Stance
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have learned to attack meridians and pressure points like your rival Shino Hakusa. You gain a vitality blast ranged unarmed Strike that deals 1d4 void damage, has a range of 30 feet, and has the unarmed and versatile vitality traits.
 

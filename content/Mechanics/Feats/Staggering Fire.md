@@ -8,6 +8,5 @@ tags:
 ---
 
 # Staggering Fire
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You've learned how to fire at enemies to slow them down, allowing innocents and fellow knights alike time to escape. Make a ranged Strike with a weapon in the bow weapon group. On a hit, the target takes a -5-foot circumstance penalty to its Speed until the end of its turn, or a -10-foot circumstance penalty on a critical hit.

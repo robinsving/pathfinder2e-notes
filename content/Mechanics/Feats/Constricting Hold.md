@@ -8,7 +8,6 @@ tags:
 ---
 
 # Constricting Hold
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** Your eidolon has a creature [[Grabbed]] or [[Restrained]].
 

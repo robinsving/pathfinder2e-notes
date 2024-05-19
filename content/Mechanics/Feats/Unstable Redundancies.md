@@ -8,7 +8,6 @@ tags:
 ---
 
 # Unstable Redundancies
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You would attempt the flat check for an unstable action, but you haven't rolled the flat check yet.
 

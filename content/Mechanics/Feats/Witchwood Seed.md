@@ -8,7 +8,6 @@ tags:
 ---
 
 # Witchwood Seed
-![[icons-sundries-books-book-red-exclamation.webp|150]]
 
 You touch a creature to implant a malignant seed in its body. The creature takes 5d10 piercing damage and other effects depending on its DC 0 Fortitude save against your class DC. The creature is then temporarily immune for 24 hours. Creatures with the fungus, plant, or wood trait are immune.
 

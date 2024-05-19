@@ -8,7 +8,6 @@ tags:
 ---
 
 # Reactive Distraction
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** You would be hit by an attack or targeted by an effect, or you are within an effect's area.
 

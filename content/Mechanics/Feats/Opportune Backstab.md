@@ -8,7 +8,6 @@ tags:
 ---
 
 # Opportune Backstab
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** A creature within your melee reach is hit by a melee attack from one of your allies.
 

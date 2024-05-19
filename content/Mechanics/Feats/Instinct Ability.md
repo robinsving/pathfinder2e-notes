@@ -8,6 +8,5 @@ tags:
 ---
 
 # Instinct Ability
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain the instinct ability for the instinct you chose for Barbarian Dedication.

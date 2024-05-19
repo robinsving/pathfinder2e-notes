@@ -9,7 +9,6 @@ tags:
 ---
 
 # Pillar
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 Not every Knight of Lastwall contributes to the crusade through combat. Pillars provide essential upkeep and service at camps, enjoying the same rank of knight as the crusaders and strategists for which the knights are known. You spent time as an assistant among the pillars, learning how noncombatants provide for the physical and mental wellbeing of an army.
 

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Harrower Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You become trained in Occultism; if you are already trained in this skill, you become trained in a different skill of your choice instead. You also become trained in Fortune-Telling Lore, and you learn the _[[Harrowing]]_ ritual.
 

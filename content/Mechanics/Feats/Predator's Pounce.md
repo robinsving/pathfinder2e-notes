@@ -8,7 +8,6 @@ tags:
 ---
 
 # Predator's Pounce
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Requirements** You are unarmored or wearing light armor
 

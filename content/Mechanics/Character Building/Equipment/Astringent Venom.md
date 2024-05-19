@@ -9,7 +9,6 @@ draft: true
 ---
 
 # Astringent Venom
-![[systems-pf2e-icons-default-icons-consumable.svg|150]]
 
 **Activate** 3 Interact
 

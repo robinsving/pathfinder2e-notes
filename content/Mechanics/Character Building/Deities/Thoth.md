@@ -9,7 +9,6 @@ tags:
 ---
 
 # Thoth
-![[systems-pf2e-icons-default-icons-deity.svg|150]]
 
 **Edicts** Maintain order in society and the multiverse, innovate scientific and magical knowledge, record events
 

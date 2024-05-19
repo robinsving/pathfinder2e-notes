@@ -8,7 +8,6 @@ tags:
 ---
 
 # Jahan Waystone
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 This enormous stone glows with a pale light and emits a quiet hum. Each _Jahan waystone_ is part of a paired link. The paired stones correspond in the color of the light they emit, as well as the specific tone at which they hum.
 

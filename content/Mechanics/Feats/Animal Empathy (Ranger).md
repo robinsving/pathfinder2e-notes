@@ -8,6 +8,5 @@ tags:
 ---
 
 # Animal Empathy (Ranger)
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You have a connection to the creatures of the natural world that allows you to communicate with them on a rudimentary level. You can use Diplomacy to [[Make an Impression]] on animals and to make very simple [[Request|Requests]] of them. In most cases, wild animals will give you time to make your case.

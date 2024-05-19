@@ -8,6 +8,5 @@ tags:
 ---
 
 # Grasping Limbs
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your eidolon grabs enemies. Choose one of the eidolon's unarmed attacks with the grapple trait. It gains the [[Grab]] action on that unarmed attack.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Sixth Sense
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your psychic abilities also allow you to detect the lingering thoughts of spirits and similar entities. While you're exploring but not [[Search|Searching]], the GM rolls a secret check for you to find haunts that usually require Searching, as well as spirits, creatures on the Ethereal Plane, and beings made entirely of spiritual essence, such as celestials, fiends, and monitors.
 

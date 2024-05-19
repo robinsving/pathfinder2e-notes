@@ -8,7 +8,6 @@ tags:
 ---
 
 # Aerial Boomerang
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 A blade of shearing wind races away from you in a 60 foot line. Each creature in the area takes 2d4 slashing  damage with a DC resolve reflex save against your class DC. In the final square of the line, the boomerang whirls in place until the end of your next turn. Any creature that ends its turn in that square has to save against the boomerang.
 

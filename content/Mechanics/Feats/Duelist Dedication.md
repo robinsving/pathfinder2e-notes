@@ -8,7 +8,6 @@ tags:
 ---
 
 # Duelist Dedication
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You are always ready to draw your weapon and begin a duel, no matter the circumstances. You gain the [[Quick Draw]] ranger feat, enabling you to both draw and attack with a weapon as 1 action. This serves as Quick Draw for the purpose of meeting prerequisites.
 

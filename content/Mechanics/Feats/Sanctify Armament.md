@@ -10,7 +10,6 @@ tags:
 ---
 
 # Sanctify Armament
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150 lp right]]
 
 You touch a weapon and bring it into concordance with your deity. For 1 round, that weapon gains your holy or unholy trait. It also deals an additional 2d6 spirit damage to creatures of the opposed trait. For example, if you are holy, the weapon would deal an extra 2d6 spirit damage to unholy creatures.
 

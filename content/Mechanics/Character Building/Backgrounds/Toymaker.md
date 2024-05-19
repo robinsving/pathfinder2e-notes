@@ -9,7 +9,6 @@ tags:
 ---
 
 # Toymaker
-![[systems-pf2e-icons-default-icons-background.svg|150]]
 
 You delight in making little trinkets for children of all ages, and seeing their faces light up thanks to one of your creations brings joy to your heart. Perhaps you sell your wares from a particular shop or from the back of a wagon as you travel from town to town.
 

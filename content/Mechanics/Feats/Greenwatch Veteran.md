@@ -8,7 +8,6 @@ tags:
 ---
 
 # Greenwatch Veteran
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 **Trigger** Your turn starts, and you're in combat against a creature you spent at least 10 minutes [[Track|Tracking]].
 

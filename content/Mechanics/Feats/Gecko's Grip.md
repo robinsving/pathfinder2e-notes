@@ -8,6 +8,5 @@ tags:
 ---
 
 # Gecko's Grip
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You stick to walls with a preternatural grip. You gain a climb Speed of 15 feet.

@@ -8,7 +8,6 @@ tags:
 ---
 
 # Kobold Breath
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You channel your draconic exemplar's power into a gout of energy that manifests as a 30 foot line or a 15 foot cone, dealing 1d4 damage. Each creature in the area must attempt a basic saving throw against the higher of your class DC or spell DC. You can't use this ability again for 1d4 rounds.
 

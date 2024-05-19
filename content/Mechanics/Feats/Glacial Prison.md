@@ -8,7 +8,6 @@ tags:
 ---
 
 # Glacial Prison
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Intense cold swirls around your foe, covering it in frost that slows it down and turns its body to ice. Target a creature you can observe within 120 feet. It must attempt a DC resolve fortitude save against your class DC. The creature is then temporarily immune for 24 hours.
 

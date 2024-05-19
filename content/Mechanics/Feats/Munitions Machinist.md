@@ -8,6 +8,5 @@ tags:
 ---
 
 # Munitions Machinist
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You're particularly adept at crafting ammunition and bombs. Your advanced alchemy level for ammunition and bombs increases to your level - 3.

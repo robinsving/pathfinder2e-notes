@@ -8,6 +8,5 @@ tags:
 ---
 
 # Scuttle Up
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your environment requires you to climb cave walls or tree trunks with great regularity. You gain a Climb speed of 10 feet.

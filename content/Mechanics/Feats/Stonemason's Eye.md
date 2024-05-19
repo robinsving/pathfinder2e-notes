@@ -8,7 +8,6 @@ tags:
 ---
 
 # Stonemason's Eye
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You understand the intricacies of stonework. You become trained in Crafting. If you're already trained in Crafting, you instead gain the [[Specialty Crafting]] skill feat for stonemasonry.
 

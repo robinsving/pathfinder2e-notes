@@ -8,7 +8,6 @@ tags:
 ---
 
 # Executioner Weapon Training
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 Your Gray Gardener training has made you deeply skilled with the weapons that execute with a swift chop to the neck. You become trained with the following weapons: [[Battle Axe]], [[Falchion]], [[Greataxe]], and [[Scimitar]].
 

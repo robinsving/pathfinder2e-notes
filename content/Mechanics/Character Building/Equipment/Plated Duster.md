@@ -8,7 +8,6 @@ tags:
 ---
 
 # Plated Duster
-![[systems-pf2e-icons-default-icons-equipment.svg|150]]
 
 These loose-fitting long coats of canvas or leather are lined with metal plates, offering wearers respite from Alkenstar's dust storms and smog stains as well as modest protection against bullets and knives. While these dusters can't turn away gunfire entirely, their utility, affordability, and comfort ensure their popularity, especially among the city's shieldmarshals, who have adopted them as a sort of unofficial uniform.
 

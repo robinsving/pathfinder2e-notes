@@ -8,7 +8,6 @@ tags:
 ---
 
 # Terrain Scout
-![[Mechanics/Character Building/Feats/zz_asset-files/icons-sundries-books-book-red-exclamation.webp|150]]
 
 You gain the [[Terrain Stalker]] skill feat twice, choosing a different terrain each time.
 
