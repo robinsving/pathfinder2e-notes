@@ -1,5 +1,6 @@
 ---
 title: "Lightning Dash"
+draft: true
 noteType: ":luggage:"
 aliases: "Lightning Dash"
 foundryId: Item.U4WQv3gPrgmOcZgm

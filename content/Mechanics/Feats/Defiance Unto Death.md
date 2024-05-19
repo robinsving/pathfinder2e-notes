@@ -1,5 +1,6 @@
 ---
 title: "Defiance Unto Death"
+draft: true
 noteType: ":luggage:"
 aliases: "Defiance Unto Death"
 foundryId: Item.ymu9r8Io5HfsOEQW

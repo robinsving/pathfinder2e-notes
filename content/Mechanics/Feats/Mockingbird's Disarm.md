@@ -1,5 +1,6 @@
 ---
 title: "Mockingbird's Disarm"
+draft: true
 noteType: ":luggage:"
 aliases: "Mockingbird's Disarm"
 foundryId: Item.sFh2obSkjdly5p7k

@@ -1,5 +1,6 @@
 ---
 title: "Willing Death"
+draft: true
 noteType: ":luggage:"
 aliases: "Willing Death"
 foundryId: Item.uQgG57k4WyZ8slW8

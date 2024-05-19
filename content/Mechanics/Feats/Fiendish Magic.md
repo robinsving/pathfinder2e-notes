@@ -1,5 +1,6 @@
 ---
 title: "Fiendish Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Fiendish Magic"
 foundryId: Item.FAIcZFsaeAtirih6

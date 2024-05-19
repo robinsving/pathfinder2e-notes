@@ -1,5 +1,6 @@
 ---
 title: "Mysterious Repertoire"
+draft: true
 noteType: ":luggage:"
 aliases: "Mysterious Repertoire"
 foundryId: Item.Dy2OU5fHVUDOWMZu

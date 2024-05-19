@@ -1,5 +1,6 @@
 ---
 title: "Scorching Column"
+draft: true
 noteType: ":luggage:"
 aliases: "Scorching Column"
 foundryId: Item.FEhwEax8zJPswVnR

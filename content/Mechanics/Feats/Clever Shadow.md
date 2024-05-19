@@ -1,5 +1,6 @@
 ---
 title: "Clever Shadow"
+draft: true
 noteType: ":luggage:"
 aliases: "Clever Shadow"
 foundryId: Item.LpxvEe6dByTscIro

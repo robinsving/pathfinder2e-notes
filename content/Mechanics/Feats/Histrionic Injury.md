@@ -1,5 +1,6 @@
 ---
 title: "Histrionic Injury"
+draft: true
 noteType: ":luggage:"
 aliases: "Histrionic Injury"
 foundryId: Item.IuqelpMy5YS29P6T

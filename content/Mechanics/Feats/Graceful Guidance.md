@@ -1,5 +1,6 @@
 ---
 title: "Graceful Guidance"
+draft: true
 noteType: ":luggage:"
 aliases: "Graceful Guidance"
 foundryId: Item.nR8v79UNzHFJGyAX

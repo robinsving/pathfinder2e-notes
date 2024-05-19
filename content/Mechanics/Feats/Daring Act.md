@@ -1,5 +1,6 @@
 ---
 title: "Daring Act"
+draft: true
 noteType: ":luggage:"
 aliases: "Daring Act"
 foundryId: Item.m1EKRULK5EFf3uF3

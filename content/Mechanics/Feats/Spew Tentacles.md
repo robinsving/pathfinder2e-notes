@@ -1,5 +1,6 @@
 ---
 title: "Spew Tentacles"
+draft: true
 noteType: ":luggage:"
 aliases: "Spew Tentacles"
 foundryId: Item.bTVIfN0PjZazLjQA

@@ -1,5 +1,6 @@
 ---
 title: "Shield Wall"
+draft: true
 noteType: ":luggage:"
 aliases: "Shield Wall"
 foundryId: Item.58Vy6Jg95FQKMYjD

@@ -1,5 +1,6 @@
 ---
 title: "Zealous Rush"
+draft: true
 noteType: ":luggage:"
 aliases: "Zealous Rush"
 foundryId: Item.SWURcCBPmmnOeTbi

@@ -1,5 +1,6 @@
 ---
 title: "Tengu Weapon Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Tengu Weapon Expertise"
 foundryId: Item.QQDYOeKwV1m2bMDN

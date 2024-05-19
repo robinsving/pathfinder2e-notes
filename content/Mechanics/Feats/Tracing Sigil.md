@@ -1,5 +1,6 @@
 ---
 title: "Tracing Sigil"
+draft: true
 noteType: ":luggage:"
 aliases: "Tracing Sigil"
 foundryId: Item.gqGvCgLHnzcZZHx6

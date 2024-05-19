@@ -1,5 +1,6 @@
 ---
 title: "Beastmaster Bond"
+draft: true
 noteType: ":luggage:"
 aliases: "Beastmaster Bond"
 foundryId: Item.9M6yDesr9IjVBPMa

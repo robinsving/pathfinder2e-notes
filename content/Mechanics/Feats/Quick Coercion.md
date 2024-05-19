@@ -1,5 +1,6 @@
 ---
 title: "Quick Coercion"
+draft: true
 noteType: ":luggage:"
 aliases: "Quick Coercion"
 foundryId: Item.xKkqeHNRvsoDgHzD

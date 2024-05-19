@@ -1,5 +1,6 @@
 ---
 title: "Paragon's Guard"
+draft: true
 noteType: ":luggage:"
 aliases: "Paragon's Guard"
 foundryId: Item.aH13ImxwkPjqpIA1

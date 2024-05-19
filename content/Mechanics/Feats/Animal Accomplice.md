@@ -1,5 +1,6 @@
 ---
 title: "Animal Accomplice"
+draft: true
 noteType: ":luggage:"
 aliases: "Animal Accomplice"
 foundryId: Item.vfCyu08gG4kN3DTI

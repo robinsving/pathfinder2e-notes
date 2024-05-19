@@ -1,5 +1,6 @@
 ---
 title: "Sympathetic Vulnerabilities"
+draft: true
 noteType: ":luggage:"
 aliases: "Sympathetic Vulnerabilities"
 foundryId: Item.OYX64NI4W3jskvaj

@@ -1,5 +1,6 @@
 ---
 title: "Pact of the Final Breath"
+draft: true
 noteType: ":luggage:"
 aliases: "Pact of the Final Breath"
 foundryId: Item.lMp7S7byFgHkDRPq

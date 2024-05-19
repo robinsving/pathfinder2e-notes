@@ -1,5 +1,6 @@
 ---
 title: "Celestial Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Celestial Magic"
 foundryId: Item.50eqHGup6gNXutc1

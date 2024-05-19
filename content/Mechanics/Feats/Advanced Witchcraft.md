@@ -1,5 +1,6 @@
 ---
 title: "Advanced Witchcraft"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Witchcraft"
 foundryId: Item.b3rbcjg21IcxxEeR

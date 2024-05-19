@@ -1,5 +1,6 @@
 ---
 title: "Close Quarters"
+draft: true
 noteType: ":luggage:"
 aliases: "Close Quarters"
 foundryId: Item.LiDtz7J2MYnxFwjB

@@ -1,5 +1,6 @@
 ---
 title: "Dragon Spit"
+draft: true
 noteType: ":luggage:"
 aliases: "Dragon Spit"
 foundryId: Item.8HycvrDslpEgNlSs

@@ -1,5 +1,6 @@
 ---
 title: "Stage Fighting"
+draft: true
 noteType: ":luggage:"
 aliases: "Stage Fighting"
 foundryId: Item.veBhEM8j4qYB7bFu

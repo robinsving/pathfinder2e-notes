@@ -1,5 +1,6 @@
 ---
 title: "Elemental Evolution"
+draft: true
 noteType: ":luggage:"
 aliases: "Elemental Evolution"
 foundryId: Item.NR7rjprQ03Vk4mHM

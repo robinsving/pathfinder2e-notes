@@ -1,5 +1,6 @@
 ---
 title: "Quickened Casting"
+draft: true
 noteType: ":luggage:"
 aliases: "Quickened Casting"
 foundryId: Item.yDEgjeMPfBPCfhv0

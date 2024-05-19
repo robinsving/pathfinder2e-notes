@@ -1,5 +1,6 @@
 ---
 title: "Divine Aegis"
+draft: true
 noteType: ":luggage:"
 aliases: "Divine Aegis"
 foundryId: Item.WKTDBKy0rt23F1kH

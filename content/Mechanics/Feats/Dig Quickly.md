@@ -1,5 +1,6 @@
 ---
 title: "Dig Quickly"
+draft: true
 noteType: ":luggage:"
 aliases: "Dig Quickly"
 foundryId: Item.y2NjwYBGD1MMuPvQ

@@ -1,5 +1,6 @@
 ---
 title: "Flailtongue"
+draft: true
 noteType: ":luggage:"
 aliases: "Flailtongue"
 foundryId: Item.nZcHEEbfY1bPes5V

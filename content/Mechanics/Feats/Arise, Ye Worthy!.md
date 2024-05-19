@@ -1,5 +1,6 @@
 ---
 title: "Arise, Ye Worthy!"
+draft: true
 noteType: ":luggage:"
 aliases: "Arise, Ye Worthy!"
 foundryId: Item.3KzwIX2sfXJEqZRf

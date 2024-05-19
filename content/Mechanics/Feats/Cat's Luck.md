@@ -1,5 +1,6 @@
 ---
 title: "Cat's Luck"
+draft: true
 noteType: ":luggage:"
 aliases: "Cat's Luck"
 foundryId: Item.qgk83GYpzY89B7vJ

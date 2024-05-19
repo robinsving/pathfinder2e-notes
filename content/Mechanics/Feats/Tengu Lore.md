@@ -1,5 +1,6 @@
 ---
 title: "Tengu Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Tengu Lore"
 foundryId: Item.gRN0kXtzavKeMg7p

@@ -1,5 +1,6 @@
 ---
 title: "Ghostly Grasp (Deviant)"
+draft: true
 noteType: ":luggage:"
 aliases: "Ghostly Grasp (Deviant)"
 foundryId: Item.biLNFHgwPQJQGA6q

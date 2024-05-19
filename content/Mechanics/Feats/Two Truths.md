@@ -1,5 +1,6 @@
 ---
 title: "Two Truths"
+draft: true
 noteType: ":luggage:"
 aliases: "Two Truths"
 foundryId: Item.4df69xtmsCkpCXOO

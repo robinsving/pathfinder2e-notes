@@ -1,5 +1,6 @@
 ---
 title: "Prismatic Scales"
+draft: true
 noteType: ":luggage:"
 aliases: "Prismatic Scales"
 foundryId: Item.9CyF4dbZg9C7GG1o

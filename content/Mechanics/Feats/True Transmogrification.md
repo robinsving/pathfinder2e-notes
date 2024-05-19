@@ -1,5 +1,6 @@
 ---
 title: "True Transmogrification"
+draft: true
 noteType: ":luggage:"
 aliases: "True Transmogrification"
 foundryId: Item.wuat2sSWzziwz2er

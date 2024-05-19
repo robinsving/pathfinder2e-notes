@@ -1,5 +1,6 @@
 ---
 title: "Tengu Feather Fan"
+draft: true
 noteType: ":luggage:"
 aliases: "Tengu Feather Fan"
 foundryId: Item.Rh4nD3v4Xhx2m0Pa

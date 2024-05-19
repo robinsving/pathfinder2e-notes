@@ -1,5 +1,6 @@
 ---
 title: "Advanced School Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced School Spell"
 foundryId: Item.v9n05blnyKtzHAnf

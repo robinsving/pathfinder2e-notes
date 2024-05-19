@@ -1,5 +1,6 @@
 ---
 title: "Play Dead"
+draft: true
 noteType: ":luggage:"
 aliases: "Play Dead"
 foundryId: Item.iYDzzpWrszOSbxVA

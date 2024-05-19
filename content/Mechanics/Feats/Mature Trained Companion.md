@@ -1,5 +1,6 @@
 ---
 title: "Mature Trained Companion"
+draft: true
 noteType: ":luggage:"
 aliases: "Mature Trained Companion"
 foundryId: Item.LH3JIXy9YUzLsCGu

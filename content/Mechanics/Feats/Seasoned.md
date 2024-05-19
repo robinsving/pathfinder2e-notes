@@ -1,5 +1,6 @@
 ---
 title: "Seasoned"
+draft: true
 noteType: ":luggage:"
 aliases: "Seasoned"
 foundryId: Item.wJQJOWaviZB4jimB

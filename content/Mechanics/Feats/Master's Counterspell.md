@@ -1,5 +1,6 @@
 ---
 title: "Master's Counterspell"
+draft: true
 noteType: ":luggage:"
 aliases: "Master's Counterspell"
 foundryId: Item.MabZpqU3wDYpiwhu

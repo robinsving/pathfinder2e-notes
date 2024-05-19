@@ -1,5 +1,6 @@
 ---
 title: "Deadly Aim"
+draft: true
 noteType: ":luggage:"
 aliases: "Deadly Aim"
 foundryId: Item.smuoWYkyaZwA0fNN

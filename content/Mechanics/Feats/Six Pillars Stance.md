@@ -1,5 +1,6 @@
 ---
 title: "Six Pillars Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Six Pillars Stance"
 foundryId: Item.dHiUUrGhgMrFCLek

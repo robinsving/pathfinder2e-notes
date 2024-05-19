@@ -1,5 +1,6 @@
 ---
 title: "Daywalker"
+draft: true
 noteType: ":luggage:"
 aliases: "Daywalker"
 foundryId: Item.SvprMHVOp7sf4oLI

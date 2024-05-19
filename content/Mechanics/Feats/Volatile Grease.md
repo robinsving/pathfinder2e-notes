@@ -1,5 +1,6 @@
 ---
 title: "Volatile Grease"
+draft: true
 noteType: ":luggage:"
 aliases: "Volatile Grease"
 foundryId: Item.tNXbllUdD1d13NCr

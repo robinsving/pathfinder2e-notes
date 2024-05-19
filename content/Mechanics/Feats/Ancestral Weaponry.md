@@ -1,5 +1,6 @@
 ---
 title: "Ancestral Weaponry"
+draft: true
 noteType: ":luggage:"
 aliases: "Ancestral Weaponry"
 foundryId: Item.2NhSAjfp8BUYCD4D

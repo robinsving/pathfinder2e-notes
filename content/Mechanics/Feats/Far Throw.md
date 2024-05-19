@@ -1,5 +1,6 @@
 ---
 title: "Far Throw"
+draft: true
 noteType: ":luggage:"
 aliases: "Far Throw"
 foundryId: Item.Pu6y4qGLiFM0ek6l

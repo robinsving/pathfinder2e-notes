@@ -1,5 +1,6 @@
 ---
 title: "Lightslayer Oath"
+draft: true
 noteType: ":luggage:"
 aliases: "Lightslayer Oath"
 foundryId: Item.3T3uTGH0M5vVPCLV

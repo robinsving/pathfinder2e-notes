@@ -1,5 +1,6 @@
 ---
 title: "True Gaze"
+draft: true
 noteType: ":luggage:"
 aliases: "True Gaze"
 foundryId: Item.lj9sqeBQjv4P09pl

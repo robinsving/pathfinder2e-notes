@@ -1,5 +1,6 @@
 ---
 title: "Dueling Riposte"
+draft: true
 noteType: ":luggage:"
 aliases: "Dueling Riposte"
 foundryId: Item.TbiMQaxM1gZPFTyJ

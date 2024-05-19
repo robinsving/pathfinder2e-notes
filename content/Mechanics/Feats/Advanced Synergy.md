@@ -1,5 +1,6 @@
 ---
 title: "Advanced Synergy"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Synergy"
 foundryId: Item.5NdPd72yvc1Q6fJ4

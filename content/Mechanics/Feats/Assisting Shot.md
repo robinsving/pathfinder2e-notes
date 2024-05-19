@@ -1,5 +1,6 @@
 ---
 title: "Assisting Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Assisting Shot"
 foundryId: Item.WoN4Et0Idm9Gloc4

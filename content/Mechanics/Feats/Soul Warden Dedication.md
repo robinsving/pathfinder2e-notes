@@ -1,5 +1,6 @@
 ---
 title: "Soul Warden Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Soul Warden Dedication"
 foundryId: Item.EJpdzthlqNtCPMMC

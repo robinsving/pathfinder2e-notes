@@ -1,5 +1,6 @@
 ---
 title: "Pinning Fire"
+draft: true
 noteType: ":luggage:"
 aliases: "Pinning Fire"
 foundryId: Item.KWw3xj3cnIxRtGEh

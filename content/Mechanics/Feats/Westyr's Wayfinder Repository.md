@@ -1,5 +1,6 @@
 ---
 title: "Westyr's Wayfinder Repository"
+draft: true
 noteType: ":luggage:"
 aliases: "Westyr's Wayfinder Repository"
 foundryId: Item.1whTUgsMeM6fkrKn

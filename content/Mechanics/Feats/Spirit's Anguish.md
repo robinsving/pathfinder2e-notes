@@ -1,5 +1,6 @@
 ---
 title: "Spirit's Anguish"
+draft: true
 noteType: ":luggage:"
 aliases: "Spirit's Anguish"
 foundryId: Item.2BuG4XibBe9CUOuQ

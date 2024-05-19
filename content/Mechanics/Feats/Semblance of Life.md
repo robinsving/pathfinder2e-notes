@@ -1,5 +1,6 @@
 ---
 title: "Semblance of Life"
+draft: true
 noteType: ":luggage:"
 aliases: "Semblance of Life"
 foundryId: Item.SPs2ql6AqGgqe1De

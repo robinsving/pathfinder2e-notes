@@ -1,5 +1,6 @@
 ---
 title: "Artillerist Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Artillerist Dedication"
 foundryId: Item.bolEYdhA2RDFAGd0

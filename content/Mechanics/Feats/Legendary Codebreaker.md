@@ -1,5 +1,6 @@
 ---
 title: "Legendary Codebreaker"
+draft: true
 noteType: ":luggage:"
 aliases: "Legendary Codebreaker"
 foundryId: Item.UW1J79qim3RkcUit

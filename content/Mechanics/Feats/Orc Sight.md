@@ -1,5 +1,6 @@
 ---
 title: "Orc Sight"
+draft: true
 noteType: ":luggage:"
 aliases: "Orc Sight"
 foundryId: Item.94d9Yx9wBMXXiukS

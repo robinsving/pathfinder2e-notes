@@ -1,5 +1,6 @@
 ---
 title: "Elemental Familiar"
+draft: true
 noteType: ":luggage:"
 aliases: "Elemental Familiar"
 foundryId: Item.wtjffVXp8ehBMcdX

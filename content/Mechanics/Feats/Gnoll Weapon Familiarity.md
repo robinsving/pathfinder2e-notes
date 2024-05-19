@@ -1,5 +1,6 @@
 ---
 title: "Gnoll Weapon Familiarity"
+draft: true
 noteType: ":luggage:"
 aliases: "Gnoll Weapon Familiarity"
 foundryId: Item.xRJb5whe2bjiRJD5

@@ -1,5 +1,6 @@
 ---
 title: "Devoted Guardian"
+draft: true
 noteType: ":luggage:"
 aliases: "Devoted Guardian"
 foundryId: Item.uf4IetnAis8HFokr

@@ -1,5 +1,6 @@
 ---
 title: "Sow Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Sow Spell"
 foundryId: Item.JAQt7agAQVT70VzR

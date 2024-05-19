@@ -1,5 +1,6 @@
 ---
 title: "Tree Climber (Goblin)"
+draft: true
 noteType: ":luggage:"
 aliases: "Tree Climber (Goblin)"
 foundryId: Item.1YsutXTMV6BVZ6S7

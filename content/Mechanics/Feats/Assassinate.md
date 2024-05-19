@@ -1,5 +1,6 @@
 ---
 title: "Assassinate"
+draft: true
 noteType: ":luggage:"
 aliases: "Assassinate"
 foundryId: Item.wjKEiwhjpeF8PO88

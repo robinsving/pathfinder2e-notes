@@ -1,5 +1,6 @@
 ---
 title: "Specialized Companion (Druid)"
+draft: true
 noteType: ":luggage:"
 aliases: "Specialized Companion (Druid)"
 foundryId: Item.cVqwMbwxJFHdwrgz

@@ -1,5 +1,6 @@
 ---
 title: "Headshot"
+draft: true
 noteType: ":luggage:"
 aliases: "Headshot"
 foundryId: Item.FsGD8RlJXiq93Thi

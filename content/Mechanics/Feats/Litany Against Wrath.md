@@ -1,5 +1,6 @@
 ---
 title: "Litany Against Wrath"
+draft: true
 noteType: ":luggage:"
 aliases: "Litany Against Wrath"
 foundryId: Item.TyRLiixZVrpBEhZ5

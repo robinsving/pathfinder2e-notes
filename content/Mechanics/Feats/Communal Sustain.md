@@ -1,5 +1,6 @@
 ---
 title: "Communal Sustain"
+draft: true
 noteType: ":luggage:"
 aliases: "Communal Sustain"
 foundryId: Item.bRNZhf71kDkArUuY

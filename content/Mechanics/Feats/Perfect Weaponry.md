@@ -1,5 +1,6 @@
 ---
 title: "Perfect Weaponry"
+draft: true
 noteType: ":luggage:"
 aliases: "Perfect Weaponry"
 foundryId: Item.pMC5hiQJjyQvUbrx

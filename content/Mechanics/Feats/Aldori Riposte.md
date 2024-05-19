@@ -1,5 +1,6 @@
 ---
 title: "Aldori Riposte"
+draft: true
 noteType: ":luggage:"
 aliases: "Aldori Riposte"
 foundryId: Item.CL4WHX7At8fC8Aw1

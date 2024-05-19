@@ -1,5 +1,6 @@
 ---
 title: "Stave off Catastrophe"
+draft: true
 noteType: ":luggage:"
 aliases: "Stave off Catastrophe"
 foundryId: Item.aym2o3jpvEoo7RJl

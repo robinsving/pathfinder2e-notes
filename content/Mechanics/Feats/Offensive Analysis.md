@@ -1,5 +1,6 @@
 ---
 title: "Offensive Analysis"
+draft: true
 noteType: ":luggage:"
 aliases: "Offensive Analysis"
 foundryId: Item.iPZEcoKojSXFeDh2

@@ -1,5 +1,6 @@
 ---
 title: "Advanced Thoughtform"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Thoughtform"
 foundryId: Item.USpzqSWu0GOfOABh

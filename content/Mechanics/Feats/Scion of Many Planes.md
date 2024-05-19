@@ -1,5 +1,6 @@
 ---
 title: "Scion of Many Planes"
+draft: true
 noteType: ":luggage:"
 aliases: "Scion of Many Planes"
 foundryId: Item.Fl9dG37agMy4E4tV

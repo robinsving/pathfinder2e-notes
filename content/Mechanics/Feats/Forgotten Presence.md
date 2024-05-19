@@ -1,5 +1,6 @@
 ---
 title: "Forgotten Presence"
+draft: true
 noteType: ":luggage:"
 aliases: "Forgotten Presence"
 foundryId: Item.06SyRzCq8LnoDp3u

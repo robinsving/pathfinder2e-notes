@@ -1,5 +1,6 @@
 ---
 title: "Murderer's Circle"
+draft: true
 noteType: ":luggage:"
 aliases: "Murderer's Circle"
 foundryId: Item.mCtbNbtsvNHc0PrR

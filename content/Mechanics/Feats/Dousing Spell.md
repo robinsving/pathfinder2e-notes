@@ -1,5 +1,6 @@
 ---
 title: "Dousing Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Dousing Spell"
 foundryId: Item.0cSCUnWZRRtS5WiU

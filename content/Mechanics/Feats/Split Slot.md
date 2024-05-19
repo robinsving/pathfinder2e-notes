@@ -1,5 +1,6 @@
 ---
 title: "Split Slot"
+draft: true
 noteType: ":luggage:"
 aliases: "Split Slot"
 foundryId: Item.pWsZGbrXbvm05mDs

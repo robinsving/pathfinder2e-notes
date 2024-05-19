@@ -1,5 +1,6 @@
 ---
 title: "Corpse Stench"
+draft: true
 noteType: ":luggage:"
 aliases: "Corpse Stench"
 foundryId: Item.9SZd14Xm5QcLF4pI

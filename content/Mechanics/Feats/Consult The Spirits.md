@@ -1,5 +1,6 @@
 ---
 title: "Consult The Spirits"
+draft: true
 noteType: ":luggage:"
 aliases: "Consult The Spirits"
 foundryId: Item.JHE9RheptctnUPRa

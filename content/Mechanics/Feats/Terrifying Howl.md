@@ -1,5 +1,6 @@
 ---
 title: "Terrifying Howl"
+draft: true
 noteType: ":luggage:"
 aliases: "Terrifying Howl"
 foundryId: Item.Hs8a3yZlRjdT2KJm

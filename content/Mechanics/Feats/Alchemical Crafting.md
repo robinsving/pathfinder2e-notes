@@ -1,5 +1,6 @@
 ---
 title: "Alchemical Crafting"
+draft: true
 noteType: ":luggage:"
 aliases: "Alchemical Crafting"
 foundryId: Item.LFnYy17Ns4v6usfv

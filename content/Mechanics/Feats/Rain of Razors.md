@@ -1,5 +1,6 @@
 ---
 title: "Rain of Razors"
+draft: true
 noteType: ":luggage:"
 aliases: "Rain of Razors"
 foundryId: Item.ZEIRjTv3bgzThcpo

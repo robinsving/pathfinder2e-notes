@@ -1,5 +1,6 @@
 ---
 title: "Gaze of Veracity"
+draft: true
 noteType: ":luggage:"
 aliases: "Gaze of Veracity"
 foundryId: Item.3R1CaxhV2phmOHVp

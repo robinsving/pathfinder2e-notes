@@ -1,5 +1,6 @@
 ---
 title: "Ganzi Gaze"
+draft: true
 noteType: ":luggage:"
 aliases: "Ganzi Gaze"
 foundryId: Item.lwf18NfxKND07IpZ

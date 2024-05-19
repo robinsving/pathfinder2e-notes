@@ -1,5 +1,6 @@
 ---
 title: "Power Slide"
+draft: true
 noteType: ":luggage:"
 aliases: "Power Slide"
 foundryId: Item.XQgMC6mwcrNtZcZ1

@@ -1,5 +1,6 @@
 ---
 title: "Vanth's Weapon Familiarity"
+draft: true
 noteType: ":luggage:"
 aliases: "Vanth's Weapon Familiarity"
 foundryId: Item.Tdylve9ZWZE12DNZ

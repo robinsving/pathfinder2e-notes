@@ -1,5 +1,6 @@
 ---
 title: "Repurposed Parts"
+draft: true
 noteType: ":luggage:"
 aliases: "Repurposed Parts"
 foundryId: Item.HNVArduz3dUscpPe

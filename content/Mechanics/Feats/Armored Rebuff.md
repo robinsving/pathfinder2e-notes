@@ -1,5 +1,6 @@
 ---
 title: "Armored Rebuff"
+draft: true
 noteType: ":luggage:"
 aliases: "Armored Rebuff"
 foundryId: Item.iT9KBf5jOKFOLJop

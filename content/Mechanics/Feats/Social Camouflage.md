@@ -1,5 +1,6 @@
 ---
 title: "Social Camouflage"
+draft: true
 noteType: ":luggage:"
 aliases: "Social Camouflage"
 foundryId: Item.gYr2huE4vFDYnuxC

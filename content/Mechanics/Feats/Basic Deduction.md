@@ -1,5 +1,6 @@
 ---
 title: "Basic Deduction"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Deduction"
 foundryId: Item.Vna4uiIvxsd4VHSb

@@ -1,5 +1,6 @@
 ---
 title: "Dual-Form Weapon"
+draft: true
 noteType: ":luggage:"
 aliases: "Dual-Form Weapon"
 foundryId: Item.DFKOKD5HuYQHhM6u

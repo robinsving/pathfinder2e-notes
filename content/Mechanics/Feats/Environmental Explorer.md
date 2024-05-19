@@ -1,5 +1,6 @@
 ---
 title: "Environmental Explorer"
+draft: true
 noteType: ":luggage:"
 aliases: "Environmental Explorer"
 foundryId: Item.0ITBEiSmFBZyHK1m

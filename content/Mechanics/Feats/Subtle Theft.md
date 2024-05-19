@@ -1,5 +1,6 @@
 ---
 title: "Subtle Theft"
+draft: true
 noteType: ":luggage:"
 aliases: "Subtle Theft"
 foundryId: Item.a9sVeQjOUYGtaWs7

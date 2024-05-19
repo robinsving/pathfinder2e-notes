@@ -1,5 +1,6 @@
 ---
 title: "Sound Mirror"
+draft: true
 noteType: ":luggage:"
 aliases: "Sound Mirror"
 foundryId: Item.hs1Wl9ZzaIkh54HF

@@ -1,5 +1,6 @@
 ---
 title: "Eternal Blessing"
+draft: true
 noteType: ":luggage:"
 aliases: "Eternal Blessing"
 foundryId: Item.Dq0huAA1pcX8FaJe

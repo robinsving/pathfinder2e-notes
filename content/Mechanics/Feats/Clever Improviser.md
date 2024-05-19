@@ -1,5 +1,6 @@
 ---
 title: "Clever Improviser"
+draft: true
 noteType: ":luggage:"
 aliases: "Clever Improviser"
 foundryId: Item.PXpUHdJa6wh22Ly7

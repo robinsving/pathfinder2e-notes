@@ -1,5 +1,6 @@
 ---
 title: "Quivering Palm"
+draft: true
 noteType: ":luggage:"
 aliases: "Quivering Palm"
 foundryId: Item.ZH0aXNXvXthkpNxm

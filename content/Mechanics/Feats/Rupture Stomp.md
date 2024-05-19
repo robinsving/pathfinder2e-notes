@@ -1,5 +1,6 @@
 ---
 title: "Rupture Stomp"
+draft: true
 noteType: ":luggage:"
 aliases: "Rupture Stomp"
 foundryId: Item.QhcxCPtjuB8nXkvc

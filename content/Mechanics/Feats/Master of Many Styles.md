@@ -1,5 +1,6 @@
 ---
 title: "Master of Many Styles"
+draft: true
 noteType: ":luggage:"
 aliases: "Master of Many Styles"
 foundryId: Item.rTharXo6e8VMEzuC

@@ -1,5 +1,6 @@
 ---
 title: "Perfect Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Perfect Shot"
 foundryId: Item.cFoIZ6um3RvKyJ6b

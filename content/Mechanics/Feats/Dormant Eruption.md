@@ -1,5 +1,6 @@
 ---
 title: "Dormant Eruption"
+draft: true
 noteType: ":luggage:"
 aliases: "Dormant Eruption"
 foundryId: Item.eHKOIt9kHmX9wwEF

@@ -1,5 +1,6 @@
 ---
 title: "Butterfly Blade Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Butterfly Blade Dedication"
 foundryId: Item.IZ9AtEGq3slngPqJ

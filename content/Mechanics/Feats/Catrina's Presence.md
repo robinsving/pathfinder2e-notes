@@ -1,5 +1,6 @@
 ---
 title: "Catrina's Presence"
+draft: true
 noteType: ":luggage:"
 aliases: "Catrina's Presence"
 foundryId: Item.5ckM9Kv2qvXjL3k6

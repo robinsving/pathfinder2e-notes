@@ -1,5 +1,6 @@
 ---
 title: "Crude Communication"
+draft: true
 noteType: ":luggage:"
 aliases: "Crude Communication"
 foundryId: Item.eKrYayOmCeHpR5kk

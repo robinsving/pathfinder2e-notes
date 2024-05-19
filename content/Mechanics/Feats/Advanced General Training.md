@@ -1,5 +1,6 @@
 ---
 title: "Advanced General Training"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced General Training"
 foundryId: Item.wUUW6RA2YYC41BX9

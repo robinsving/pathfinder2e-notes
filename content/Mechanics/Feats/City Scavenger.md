@@ -1,5 +1,6 @@
 ---
 title: "City Scavenger"
+draft: true
 noteType: ":luggage:"
 aliases: "City Scavenger"
 foundryId: Item.eFJHncZGL1KSH7CI

@@ -1,5 +1,6 @@
 ---
 title: "Terrifying Countenance"
+draft: true
 noteType: ":luggage:"
 aliases: "Terrifying Countenance"
 foundryId: Item.B1dZ6ZUq5t3GjAY2

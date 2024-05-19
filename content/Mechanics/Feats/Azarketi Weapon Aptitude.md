@@ -1,5 +1,6 @@
 ---
 title: "Azarketi Weapon Aptitude"
+draft: true
 noteType: ":luggage:"
 aliases: "Azarketi Weapon Aptitude"
 foundryId: Item.vWvB74knHEraemq8

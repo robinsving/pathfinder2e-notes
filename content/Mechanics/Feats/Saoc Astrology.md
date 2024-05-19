@@ -1,5 +1,6 @@
 ---
 title: "Saoc Astrology"
+draft: true
 noteType: ":luggage:"
 aliases: "Saoc Astrology"
 foundryId: Item.7Qm2hzItlrNfdXKS

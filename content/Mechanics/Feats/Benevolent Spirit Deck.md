@@ -1,5 +1,6 @@
 ---
 title: "Benevolent Spirit Deck"
+draft: true
 noteType: ":luggage:"
 aliases: "Benevolent Spirit Deck"
 foundryId: Item.uyEmjVtLk2mG1JDn

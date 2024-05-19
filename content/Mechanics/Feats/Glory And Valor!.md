@@ -1,5 +1,6 @@
 ---
 title: "Glory And Valor!"
+draft: true
 noteType: ":luggage:"
 aliases: "Glory And Valor!"
 foundryId: Item.ukyVaRO0CuqNo3Tp

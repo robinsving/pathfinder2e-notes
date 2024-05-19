@@ -1,5 +1,6 @@
 ---
 title: "Night Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Night Magic"
 foundryId: Item.WgnlxMMERxvAY2X4

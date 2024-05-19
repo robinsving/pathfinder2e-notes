@@ -1,5 +1,6 @@
 ---
 title: "Web Hunter"
+draft: true
 noteType: ":luggage:"
 aliases: "Web Hunter"
 foundryId: Item.OROxOoP0eS6IL2BD

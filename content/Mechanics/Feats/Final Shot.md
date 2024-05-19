@@ -1,5 +1,6 @@
 ---
 title: "Final Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Final Shot"
 foundryId: Item.XgC2ZxQxAGcN8Ybd

@@ -1,5 +1,6 @@
 ---
 title: "Kobold Weapon Innovator"
+draft: true
 noteType: ":luggage:"
 aliases: "Kobold Weapon Innovator"
 foundryId: Item.a5ldbIlEXV0w91Et

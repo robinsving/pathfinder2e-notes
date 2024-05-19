@@ -1,5 +1,6 @@
 ---
 title: "Monastic Weaponry"
+draft: true
 noteType: ":luggage:"
 aliases: "Monastic Weaponry"
 foundryId: Item.l3j9MfcXSf8QBQUS

@@ -1,5 +1,6 @@
 ---
 title: "Resilient Shell"
+draft: true
 noteType: ":luggage:"
 aliases: "Resilient Shell"
 foundryId: Item.fDgWB1c7JhJGEOby

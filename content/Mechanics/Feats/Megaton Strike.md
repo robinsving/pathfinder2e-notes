@@ -1,5 +1,6 @@
 ---
 title: "Megaton Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Megaton Strike"
 foundryId: Item.FVgtrQAjYUCvtzwP

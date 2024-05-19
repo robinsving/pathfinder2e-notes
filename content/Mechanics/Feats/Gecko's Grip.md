@@ -1,5 +1,6 @@
 ---
 title: "Gecko's Grip"
+draft: true
 noteType: ":luggage:"
 aliases: "Gecko's Grip"
 foundryId: Item.scEb4f7Y0sByMm7x

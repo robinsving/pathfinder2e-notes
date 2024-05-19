@@ -1,5 +1,6 @@
 ---
 title: "Bone Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Bone Magic"
 foundryId: Item.SMsWQ8gm129YOPqH

@@ -1,5 +1,6 @@
 ---
 title: "Reloading Trick"
+draft: true
 noteType: ":luggage:"
 aliases: "Reloading Trick"
 foundryId: Item.Zq0QOWQPQWqnzlFc

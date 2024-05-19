@@ -1,5 +1,6 @@
 ---
 title: "Banishing Blow"
+draft: true
 noteType: ":luggage:"
 aliases: "Banishing Blow"
 foundryId: Item.ssREmhN69kR1wi1p

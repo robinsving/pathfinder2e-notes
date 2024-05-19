@@ -1,5 +1,6 @@
 ---
 title: "Bloodline Resistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Bloodline Resistance"
 foundryId: Item.j5DCqhl8Mil57WkG

@@ -1,5 +1,6 @@
 ---
 title: "Catfolk Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Catfolk Lore"
 foundryId: Item.IIIqsN2Q4bNeAIMR

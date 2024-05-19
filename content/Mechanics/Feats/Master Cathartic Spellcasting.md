@@ -1,5 +1,6 @@
 ---
 title: "Master Cathartic Spellcasting"
+draft: true
 noteType: ":luggage:"
 aliases: "Master Cathartic Spellcasting"
 foundryId: Item.zKif82zfnFR3vegt

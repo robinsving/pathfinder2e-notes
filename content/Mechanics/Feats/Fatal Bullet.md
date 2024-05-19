@@ -1,5 +1,6 @@
 ---
 title: "Fatal Bullet"
+draft: true
 noteType: ":luggage:"
 aliases: "Fatal Bullet"
 foundryId: Item.artTGuKATyFJrl3I

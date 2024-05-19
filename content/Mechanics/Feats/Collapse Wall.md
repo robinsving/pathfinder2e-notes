@@ -1,5 +1,6 @@
 ---
 title: "Collapse Wall"
+draft: true
 noteType: ":luggage:"
 aliases: "Collapse Wall"
 foundryId: Item.6zr1U460E2AOwJeR

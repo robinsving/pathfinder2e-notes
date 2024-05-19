@@ -1,5 +1,6 @@
 ---
 title: "Blazing Streak"
+draft: true
 noteType: ":luggage:"
 aliases: "Blazing Streak"
 foundryId: Item.oGqeoWRfYvHLtx2D

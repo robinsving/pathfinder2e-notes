@@ -1,5 +1,6 @@
 ---
 title: "Too Angry to Die"
+draft: true
 noteType: ":luggage:"
 aliases: "Too Angry to Die"
 foundryId: Item.DKRnCvt6sJZVA9O4

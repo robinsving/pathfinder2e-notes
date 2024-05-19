@@ -1,5 +1,6 @@
 ---
 title: "Inventive Offensive"
+draft: true
 noteType: ":luggage:"
 aliases: "Inventive Offensive"
 foundryId: Item.YUkxEDL0KRFcHBDN

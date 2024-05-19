@@ -1,5 +1,6 @@
 ---
 title: "Shattering Strike (Monk)"
+draft: true
 noteType: ":luggage:"
 aliases: "Shattering Strike (Monk)"
 foundryId: Item.lkL3RZWdYFF3WAxO

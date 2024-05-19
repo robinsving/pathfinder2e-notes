@@ -1,5 +1,6 @@
 ---
 title: "Folktales Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Folktales Lore"
 foundryId: Item.3DzuMW6lDlQpwSpM

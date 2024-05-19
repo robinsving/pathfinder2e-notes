@@ -1,5 +1,6 @@
 ---
 title: "Group Coercion"
+draft: true
 noteType: ":luggage:"
 aliases: "Group Coercion"
 foundryId: Item.fHXKW8l8InE0Yw7b

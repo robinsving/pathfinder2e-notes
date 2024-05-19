@@ -1,5 +1,6 @@
 ---
 title: "Blessed One Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Blessed One Dedication"
 foundryId: Item.YbxOyeVt49wnFdfl

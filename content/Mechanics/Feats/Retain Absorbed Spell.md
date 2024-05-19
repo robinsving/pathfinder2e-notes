@@ -1,5 +1,6 @@
 ---
 title: "Retain Absorbed Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Retain Absorbed Spell"
 foundryId: Item.ZrARA85ByQ8uenpv

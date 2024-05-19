@@ -1,5 +1,6 @@
 ---
 title: "Frightful Condemnation"
+draft: true
 noteType: ":luggage:"
 aliases: "Frightful Condemnation"
 foundryId: Item.dLwclEWJRbFrDkTS

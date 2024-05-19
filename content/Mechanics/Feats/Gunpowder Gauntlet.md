@@ -1,5 +1,6 @@
 ---
 title: "Gunpowder Gauntlet"
+draft: true
 noteType: ":luggage:"
 aliases: "Gunpowder Gauntlet"
 foundryId: Item.4SEucmE0ACRjizll

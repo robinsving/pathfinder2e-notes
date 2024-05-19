@@ -1,5 +1,6 @@
 ---
 title: "Song of the Fallen"
+draft: true
 noteType: ":luggage:"
 aliases: "Song of the Fallen"
 foundryId: Item.BUfs5mGb8ImzF9om

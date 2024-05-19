@@ -1,5 +1,6 @@
 ---
 title: "Agile Shield Grip"
+draft: true
 noteType: ":luggage:"
 aliases: "Agile Shield Grip"
 foundryId: Item.gulsv3XU1ko1wqyi

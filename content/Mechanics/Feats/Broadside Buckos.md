@@ -1,5 +1,6 @@
 ---
 title: "Broadside Buckos"
+draft: true
 noteType: ":luggage:"
 aliases: "Broadside Buckos"
 foundryId: Item.BQOiagiRY9GUENKp

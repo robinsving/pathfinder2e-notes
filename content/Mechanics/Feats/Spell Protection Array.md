@@ -1,5 +1,6 @@
 ---
 title: "Spell Protection Array"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Protection Array"
 foundryId: Item.UjmDqIdANAlJNn5p

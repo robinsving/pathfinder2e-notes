@@ -1,5 +1,6 @@
 ---
 title: "Potent Poisoner"
+draft: true
 noteType: ":luggage:"
 aliases: "Potent Poisoner"
 foundryId: Item.Ts7MV7WLXmHNfHiL

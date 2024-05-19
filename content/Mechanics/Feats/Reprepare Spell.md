@@ -1,5 +1,6 @@
 ---
 title: "Reprepare Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Reprepare Spell"
 foundryId: Item.KhLwimkqoZckTpjb

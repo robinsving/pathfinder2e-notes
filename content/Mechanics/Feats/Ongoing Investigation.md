@@ -1,5 +1,6 @@
 ---
 title: "Ongoing Investigation"
+draft: true
 noteType: ":luggage:"
 aliases: "Ongoing Investigation"
 foundryId: Item.cF7KSHGcDTPY6IG2

@@ -1,5 +1,6 @@
 ---
 title: "Conductor's Redirection"
+draft: true
 noteType: ":luggage:"
 aliases: "Conductor's Redirection"
 foundryId: Item.Z20Au637BGm4thkZ

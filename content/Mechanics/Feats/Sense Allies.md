@@ -1,5 +1,6 @@
 ---
 title: "Sense Allies"
+draft: true
 noteType: ":luggage:"
 aliases: "Sense Allies"
 foundryId: Item.6nl0dury5JEVmexb

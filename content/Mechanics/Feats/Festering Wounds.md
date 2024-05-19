@@ -1,5 +1,6 @@
 ---
 title: "Festering Wounds"
+draft: true
 noteType: ":luggage:"
 aliases: "Festering Wounds"
 foundryId: Item.PFlwAaowfPQmSd5V

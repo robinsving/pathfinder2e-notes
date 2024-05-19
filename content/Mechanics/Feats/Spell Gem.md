@@ -1,5 +1,6 @@
 ---
 title: "Spell Gem"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Gem"
 foundryId: Item.PWaC9gx2otNKDPTw

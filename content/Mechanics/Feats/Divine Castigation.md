@@ -1,5 +1,6 @@
 ---
 title: "Divine Castigation"
+draft: true
 noteType: ":luggage:"
 aliases: "Divine Castigation"
 foundryId: Item.NwBoHikXqXhgQqH3

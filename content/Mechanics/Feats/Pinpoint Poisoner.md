@@ -1,5 +1,6 @@
 ---
 title: "Pinpoint Poisoner"
+draft: true
 noteType: ":luggage:"
 aliases: "Pinpoint Poisoner"
 foundryId: Item.FOd4WedzpQiiCadj

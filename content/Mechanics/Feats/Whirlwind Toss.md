@@ -1,5 +1,6 @@
 ---
 title: "Whirlwind Toss"
+draft: true
 noteType: ":luggage:"
 aliases: "Whirlwind Toss"
 foundryId: Item.J8G7K0bHzDo5ZxFn

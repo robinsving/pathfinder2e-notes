@@ -1,5 +1,6 @@
 ---
 title: "Ceremony of the Evened Hand"
+draft: true
 noteType: ":luggage:"
 aliases: "Ceremony of the Evened Hand"
 foundryId: Item.kIOwq3B74SNDkb99

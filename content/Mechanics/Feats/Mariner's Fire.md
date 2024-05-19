@@ -1,5 +1,6 @@
 ---
 title: "Mariner's Fire"
+draft: true
 noteType: ":luggage:"
 aliases: "Mariner's Fire"
 foundryId: Item.dgHKLXGZza7wbTrD

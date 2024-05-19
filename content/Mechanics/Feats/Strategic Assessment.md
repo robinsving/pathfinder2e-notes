@@ -1,5 +1,6 @@
 ---
 title: "Strategic Assessment"
+draft: true
 noteType: ":luggage:"
 aliases: "Strategic Assessment"
 foundryId: Item.FplMbuiPWpzNAWM6

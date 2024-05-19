@@ -1,5 +1,6 @@
 ---
 title: "Inoculation Subroutine"
+draft: true
 noteType: ":luggage:"
 aliases: "Inoculation Subroutine"
 foundryId: Item.lp2GUdsTbYBMIZeY

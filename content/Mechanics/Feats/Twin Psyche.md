@@ -1,5 +1,6 @@
 ---
 title: "Twin Psyche"
+draft: true
 noteType: ":luggage:"
 aliases: "Twin Psyche"
 foundryId: Item.5eWiv86OkqWRrVUi

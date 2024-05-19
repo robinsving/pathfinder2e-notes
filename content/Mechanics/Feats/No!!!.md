@@ -1,5 +1,6 @@
 ---
 title: "No!!!"
+draft: true
 noteType: ":luggage:"
 aliases: "No!!!"
 foundryId: Item.xlNRYTOQUnU5V3vq

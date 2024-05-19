@@ -1,5 +1,6 @@
 ---
 title: "Familiar Oddities"
+draft: true
 noteType: ":luggage:"
 aliases: "Familiar Oddities"
 foundryId: Item.UnLfRV6gzC6SO56Q

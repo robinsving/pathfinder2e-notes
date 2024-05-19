@@ -1,5 +1,6 @@
 ---
 title: "Vicious Snares"
+draft: true
 noteType: ":luggage:"
 aliases: "Vicious Snares"
 foundryId: Item.VwhNDIohgy3SSP35

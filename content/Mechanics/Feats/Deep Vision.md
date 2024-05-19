@@ -1,5 +1,6 @@
 ---
 title: "Deep Vision"
+draft: true
 noteType: ":luggage:"
 aliases: "Deep Vision"
 foundryId: Item.bhxsaHEgZ8sfIXhP

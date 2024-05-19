@@ -1,5 +1,6 @@
 ---
 title: "Advanced Domain"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Domain"
 foundryId: Item.NVvgpLt4VHlcBd9W

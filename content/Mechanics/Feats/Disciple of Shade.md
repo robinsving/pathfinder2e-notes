@@ -1,5 +1,6 @@
 ---
 title: "Disciple of Shade"
+draft: true
 noteType: ":luggage:"
 aliases: "Disciple of Shade"
 foundryId: Item.HfvLALGduVtrJlYE

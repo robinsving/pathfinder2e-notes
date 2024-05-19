@@ -1,5 +1,6 @@
 ---
 title: "Flexible Ritualist"
+draft: true
 noteType: ":luggage:"
 aliases: "Flexible Ritualist"
 foundryId: Item.DhtuRCmyhKp9NAZq

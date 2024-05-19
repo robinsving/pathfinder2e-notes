@@ -1,5 +1,6 @@
 ---
 title: "Greater Interpose"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Interpose"
 foundryId: Item.j7T8f0MlIcm6sheP

@@ -1,5 +1,6 @@
 ---
 title: "Vicious Debilitations"
+draft: true
 noteType: ":luggage:"
 aliases: "Vicious Debilitations"
 foundryId: Item.TJbcmrJIwF7Xh7KV

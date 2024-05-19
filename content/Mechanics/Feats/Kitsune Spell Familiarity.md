@@ -1,5 +1,6 @@
 ---
 title: "Kitsune Spell Familiarity"
+draft: true
 noteType: ":luggage:"
 aliases: "Kitsune Spell Familiarity"
 foundryId: Item.rTI4KpwN3j5dHRkc

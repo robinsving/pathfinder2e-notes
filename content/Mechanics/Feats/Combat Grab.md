@@ -1,5 +1,6 @@
 ---
 title: "Combat Grab"
+draft: true
 noteType: ":luggage:"
 aliases: "Combat Grab"
 foundryId: Item.Krym9rQtV5RXZp29

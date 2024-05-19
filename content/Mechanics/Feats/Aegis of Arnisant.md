@@ -1,5 +1,6 @@
 ---
 title: "Aegis of Arnisant"
+draft: true
 noteType: ":luggage:"
 aliases: "Aegis of Arnisant"
 foundryId: Item.KYQEhoXbydMU1BPj

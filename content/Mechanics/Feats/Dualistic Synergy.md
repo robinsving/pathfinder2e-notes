@@ -1,5 +1,6 @@
 ---
 title: "Dualistic Synergy"
+draft: true
 noteType: ":luggage:"
 aliases: "Dualistic Synergy"
 foundryId: Item.qby8FKf6mnbo97ZS

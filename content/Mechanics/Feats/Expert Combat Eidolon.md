@@ -1,5 +1,6 @@
 ---
 title: "Expert Combat Eidolon"
+draft: true
 noteType: ":luggage:"
 aliases: "Expert Combat Eidolon"
 foundryId: Item.aBmLPvP5bOYlelvW

@@ -1,5 +1,6 @@
 ---
 title: "Wave Spiral"
+draft: true
 noteType: ":luggage:"
 aliases: "Wave Spiral"
 foundryId: Item.EXNeN8l6dItsRs7h

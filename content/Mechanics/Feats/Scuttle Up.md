@@ -1,5 +1,6 @@
 ---
 title: "Scuttle Up"
+draft: true
 noteType: ":luggage:"
 aliases: "Scuttle Up"
 foundryId: Item.HR3l8ZvyiiMrlXV7

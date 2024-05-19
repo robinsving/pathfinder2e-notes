@@ -1,5 +1,6 @@
 ---
 title: "Irresistible Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Irresistible Magic"
 foundryId: Item.RIsUkjt7tkXOH5ln

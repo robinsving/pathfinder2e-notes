@@ -1,5 +1,6 @@
 ---
 title: "Advanced Maneuver"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Maneuver"
 foundryId: Item.e5YApyuvhKAtmQAl

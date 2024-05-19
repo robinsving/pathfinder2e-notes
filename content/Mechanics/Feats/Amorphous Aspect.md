@@ -1,5 +1,6 @@
 ---
 title: "Amorphous Aspect"
+draft: true
 noteType: ":luggage:"
 aliases: "Amorphous Aspect"
 foundryId: Item.FvCSVKasUo7QAc9L

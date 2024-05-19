@@ -1,5 +1,6 @@
 ---
 title: "Deny the Songs of War"
+draft: true
 noteType: ":luggage:"
 aliases: "Deny the Songs of War"
 foundryId: Item.rJYOtpswBsNYRqTk

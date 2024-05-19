@@ -1,5 +1,6 @@
 ---
 title: "Plague Sniffer"
+draft: true
 noteType: ":luggage:"
 aliases: "Plague Sniffer"
 foundryId: Item.Ms8PqQZX58kGayNl

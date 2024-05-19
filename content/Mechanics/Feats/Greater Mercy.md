@@ -1,5 +1,6 @@
 ---
 title: "Greater Mercy"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Mercy"
 foundryId: Item.Zhhk5iUWgSGH1WHR

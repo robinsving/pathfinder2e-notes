@@ -1,5 +1,6 @@
 ---
 title: "Minion Guise"
+draft: true
 noteType: ":luggage:"
 aliases: "Minion Guise"
 foundryId: Item.FRvea8SBSpnUakLl

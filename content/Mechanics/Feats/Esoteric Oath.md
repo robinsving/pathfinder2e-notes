@@ -1,5 +1,6 @@
 ---
 title: "Esoteric Oath"
+draft: true
 noteType: ":luggage:"
 aliases: "Esoteric Oath"
 foundryId: Item.GGhvhrjo0mNp39KU

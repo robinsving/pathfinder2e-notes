@@ -1,5 +1,6 @@
 ---
 title: "Aquatic Eyes"
+draft: true
 noteType: ":luggage:"
 aliases: "Aquatic Eyes"
 foundryId: Item.9XeTUDindyo9AsXb

@@ -1,5 +1,6 @@
 ---
 title: "Offensive Subroutine"
+draft: true
 noteType: ":luggage:"
 aliases: "Offensive Subroutine"
 foundryId: Item.mZy54K23VGK9mvBH

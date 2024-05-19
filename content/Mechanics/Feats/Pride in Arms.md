@@ -1,5 +1,6 @@
 ---
 title: "Pride in Arms"
+draft: true
 noteType: ":luggage:"
 aliases: "Pride in Arms"
 foundryId: Item.Nt3vy2rClI8fisd1

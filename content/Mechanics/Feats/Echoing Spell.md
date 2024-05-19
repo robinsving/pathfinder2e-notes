@@ -1,5 +1,6 @@
 ---
 title: "Echoing Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Echoing Spell"
 foundryId: Item.0LZOaDtET4KeqkqC

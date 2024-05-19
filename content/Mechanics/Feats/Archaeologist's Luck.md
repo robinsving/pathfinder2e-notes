@@ -1,5 +1,6 @@
 ---
 title: "Archaeologist's Luck"
+draft: true
 noteType: ":luggage:"
 aliases: "Archaeologist's Luck"
 foundryId: Item.DvDbiwO4A2iKDbFd

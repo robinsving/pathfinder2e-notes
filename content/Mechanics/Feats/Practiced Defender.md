@@ -1,5 +1,6 @@
 ---
 title: "Practiced Defender"
+draft: true
 noteType: ":luggage:"
 aliases: "Practiced Defender"
 foundryId: Item.KMV6e3wDMUOsBxux

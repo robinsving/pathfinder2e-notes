@@ -1,5 +1,6 @@
 ---
 title: "Vibrant Display"
+draft: true
 noteType: ":luggage:"
 aliases: "Vibrant Display"
 foundryId: Item.bDpJJ4I97cyUHqth

@@ -1,5 +1,6 @@
 ---
 title: "Worm's Feast"
+draft: true
 noteType: ":luggage:"
 aliases: "Worm's Feast"
 foundryId: Item.vS3KIDbaYJ9iGBfc

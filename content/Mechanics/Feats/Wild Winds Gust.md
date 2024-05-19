@@ -1,5 +1,6 @@
 ---
 title: "Wild Winds Gust"
+draft: true
 noteType: ":luggage:"
 aliases: "Wild Winds Gust"
 foundryId: Item.1wg7lOn3ZLfjqbl0

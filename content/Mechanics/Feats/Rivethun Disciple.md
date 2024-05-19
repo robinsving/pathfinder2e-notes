@@ -1,5 +1,6 @@
 ---
 title: "Rivethun Disciple"
+draft: true
 noteType: ":luggage:"
 aliases: "Rivethun Disciple"
 foundryId: Item.50vuQfViInAhLA2w

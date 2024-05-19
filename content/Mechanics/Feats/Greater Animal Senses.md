@@ -1,5 +1,6 @@
 ---
 title: "Greater Animal Senses"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Animal Senses"
 foundryId: Item.wuXTpDIzQ3tM1JCG

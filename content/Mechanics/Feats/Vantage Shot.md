@@ -1,5 +1,6 @@
 ---
 title: "Vantage Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Vantage Shot"
 foundryId: Item.zE4qexneYoNVjcLe

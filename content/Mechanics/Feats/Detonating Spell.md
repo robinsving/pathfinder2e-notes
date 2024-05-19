@@ -1,5 +1,6 @@
 ---
 title: "Detonating Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Detonating Spell"
 foundryId: Item.iUlbJ9poRHo3xd9m

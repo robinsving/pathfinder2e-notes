@@ -1,5 +1,6 @@
 ---
 title: "Crossbow Ace"
+draft: true
 noteType: ":luggage:"
 aliases: "Crossbow Ace"
 foundryId: Item.zlTyxPgSlKvXvSH3

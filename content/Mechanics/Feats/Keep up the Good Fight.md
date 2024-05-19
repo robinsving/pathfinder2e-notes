@@ -1,5 +1,6 @@
 ---
 title: "Keep up the Good Fight"
+draft: true
 noteType: ":luggage:"
 aliases: "Keep up the Good Fight"
 foundryId: Item.rpg0Ei8YrmWnZ3Vt

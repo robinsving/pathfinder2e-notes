@@ -1,5 +1,6 @@
 ---
 title: "Zombie Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Zombie Dedication"
 foundryId: Item.gOADYGKXsDMpvV4b

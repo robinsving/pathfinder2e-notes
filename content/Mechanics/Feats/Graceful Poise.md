@@ -1,5 +1,6 @@
 ---
 title: "Graceful Poise"
+draft: true
 noteType: ":luggage:"
 aliases: "Graceful Poise"
 foundryId: Item.3CLtllf6fPUswqIp

@@ -1,5 +1,6 @@
 ---
 title: "Meld into Eidolon"
+draft: true
 noteType: ":luggage:"
 aliases: "Meld into Eidolon"
 foundryId: Item.Yt2W7Ar2Ekt0Nvbn

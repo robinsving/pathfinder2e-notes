@@ -1,5 +1,6 @@
 ---
 title: "Ricochet Stance (Fighter)"
+draft: true
 noteType: ":luggage:"
 aliases: "Ricochet Stance (Fighter)"
 foundryId: Item.nmISX4PDSGu4kBTu

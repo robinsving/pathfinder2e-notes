@@ -1,5 +1,6 @@
 ---
 title: "Sudden Mindfulness"
+draft: true
 noteType: ":luggage:"
 aliases: "Sudden Mindfulness"
 foundryId: Item.tpyCjoq2fvxcc8K5

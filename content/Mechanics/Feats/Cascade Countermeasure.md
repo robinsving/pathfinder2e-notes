@@ -1,5 +1,6 @@
 ---
 title: "Cascade Countermeasure"
+draft: true
 noteType: ":luggage:"
 aliases: "Cascade Countermeasure"
 foundryId: Item.zkq8iA4ZtHwxvSVm

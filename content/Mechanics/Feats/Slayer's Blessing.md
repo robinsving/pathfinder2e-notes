@@ -1,5 +1,6 @@
 ---
 title: "Slayer's Blessing"
+draft: true
 noteType: ":luggage:"
 aliases: "Slayer's Blessing"
 foundryId: Item.fXpfSDkNSmlsb6I4

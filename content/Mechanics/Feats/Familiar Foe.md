@@ -1,5 +1,6 @@
 ---
 title: "Familiar Foe"
+draft: true
 noteType: ":luggage:"
 aliases: "Familiar Foe"
 foundryId: Item.gSPFxZzBEgf7YDij

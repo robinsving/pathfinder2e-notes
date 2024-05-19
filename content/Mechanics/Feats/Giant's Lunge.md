@@ -1,5 +1,6 @@
 ---
 title: "Giant's Lunge"
+draft: true
 noteType: ":luggage:"
 aliases: "Giant's Lunge"
 foundryId: Item.TUc6ff9CZLsqVefu

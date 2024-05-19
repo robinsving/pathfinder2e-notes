@@ -1,5 +1,6 @@
 ---
 title: "Basic Psychic Spellcasting"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Psychic Spellcasting"
 foundryId: Item.vfT9AYxCpUH5PWIB

@@ -1,5 +1,6 @@
 ---
 title: "Narrative Conduit"
+draft: true
 noteType: ":luggage:"
 aliases: "Narrative Conduit"
 foundryId: Item.Nty7fOgwWHNDz1kV

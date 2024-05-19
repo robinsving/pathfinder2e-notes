@@ -1,5 +1,6 @@
 ---
 title: "Ignite The Sun"
+draft: true
 noteType: ":luggage:"
 aliases: "Ignite The Sun"
 foundryId: Item.g1gxbCOUrU5mAdP6

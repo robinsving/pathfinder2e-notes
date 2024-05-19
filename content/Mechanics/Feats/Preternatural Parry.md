@@ -1,5 +1,6 @@
 ---
 title: "Preternatural Parry"
+draft: true
 noteType: ":luggage:"
 aliases: "Preternatural Parry"
 foundryId: Item.tuIPY3mhYqXy0wVS

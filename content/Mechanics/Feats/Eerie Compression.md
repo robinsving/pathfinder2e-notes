@@ -1,5 +1,6 @@
 ---
 title: "Eerie Compression"
+draft: true
 noteType: ":luggage:"
 aliases: "Eerie Compression"
 foundryId: Item.b0S6wdABUTSCgSGf

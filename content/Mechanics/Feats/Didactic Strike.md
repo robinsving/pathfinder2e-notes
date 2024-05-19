@@ -1,5 +1,6 @@
 ---
 title: "Didactic Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Didactic Strike"
 foundryId: Item.5nB385XpvqubQoEU

@@ -1,5 +1,6 @@
 ---
 title: "Grand Scroll Esoterica"
+draft: true
 noteType: ":luggage:"
 aliases: "Grand Scroll Esoterica"
 foundryId: Item.Sy1Z1MN1dudF6Ot6

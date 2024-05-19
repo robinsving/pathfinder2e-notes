@@ -1,5 +1,6 @@
 ---
 title: "Moment of Clarity"
+draft: true
 noteType: ":luggage:"
 aliases: "Moment of Clarity"
 foundryId: Item.BYhQK4m4YH29PK69

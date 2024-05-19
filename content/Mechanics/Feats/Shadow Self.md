@@ -1,5 +1,6 @@
 ---
 title: "Shadow Self"
+draft: true
 noteType: ":luggage:"
 aliases: "Shadow Self"
 foundryId: Item.rfB3iUjfvJ1kWbcc

@@ -1,5 +1,6 @@
 ---
 title: "Raging Thrower"
+draft: true
 noteType: ":luggage:"
 aliases: "Raging Thrower"
 foundryId: Item.3VhtYX8o1VvbV0tT

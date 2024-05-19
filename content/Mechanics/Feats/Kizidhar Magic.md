@@ -1,5 +1,6 @@
 ---
 title: "Kizidhar Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Kizidhar Magic"
 foundryId: Item.pKK6tQdu5TIizgH7

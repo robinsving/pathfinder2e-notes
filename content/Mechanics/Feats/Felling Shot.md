@@ -1,5 +1,6 @@
 ---
 title: "Felling Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Felling Shot"
 foundryId: Item.tirPv2tgjXN6oCy8

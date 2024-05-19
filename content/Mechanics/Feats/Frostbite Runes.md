@@ -1,5 +1,6 @@
 ---
 title: "Frostbite Runes"
+draft: true
 noteType: ":luggage:"
 aliases: "Frostbite Runes"
 foundryId: Item.Mr1mUP1NOTItKKt2

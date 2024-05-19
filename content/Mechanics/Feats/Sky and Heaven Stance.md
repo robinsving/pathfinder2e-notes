@@ -1,5 +1,6 @@
 ---
 title: "Sky and Heaven Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Sky and Heaven Stance"
 foundryId: Item.K0cCznUl3eV5auKb

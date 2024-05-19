@@ -1,5 +1,6 @@
 ---
 title: "Living Vessel Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Living Vessel Dedication"
 foundryId: Item.0kTONen6U1TFbuRs

@@ -1,5 +1,6 @@
 ---
 title: "Vigilante Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Vigilante Dedication"
 foundryId: Item.hqB9b3zDfLGA9Xzg

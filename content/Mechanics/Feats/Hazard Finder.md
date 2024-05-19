@@ -1,5 +1,6 @@
 ---
 title: "Hazard Finder"
+draft: true
 noteType: ":luggage:"
 aliases: "Hazard Finder"
 foundryId: Item.omFjOEuX6v0ypXO6

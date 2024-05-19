@@ -1,5 +1,6 @@
 ---
 title: "Climbing Claws"
+draft: true
 noteType: ":luggage:"
 aliases: "Climbing Claws"
 foundryId: Item.PMnGA4hJJMarpWEw

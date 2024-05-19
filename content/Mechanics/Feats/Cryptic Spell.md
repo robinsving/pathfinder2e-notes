@@ -1,5 +1,6 @@
 ---
 title: "Cryptic Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Cryptic Spell"
 foundryId: Item.TKZeSKiuWZy5Ps6z

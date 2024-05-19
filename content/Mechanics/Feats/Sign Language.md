@@ -1,5 +1,6 @@
 ---
 title: "Sign Language"
+draft: true
 noteType: ":luggage:"
 aliases: "Sign Language"
 foundryId: Item.vamDuYgIqkLxR5XC

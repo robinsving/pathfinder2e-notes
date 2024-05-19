@@ -1,5 +1,6 @@
 ---
 title: "Warden's Focus"
+draft: true
 noteType: ":luggage:"
 aliases: "Warden's Focus"
 foundryId: Item.Q5h4ZhQXhA71fNXh

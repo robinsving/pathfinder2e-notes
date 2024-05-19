@@ -1,5 +1,6 @@
 ---
 title: "Blazing Talon Surge"
+draft: true
 noteType: ":luggage:"
 aliases: "Blazing Talon Surge"
 foundryId: Item.kNvSJxjBjQOuthfQ

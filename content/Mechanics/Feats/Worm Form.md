@@ -1,5 +1,6 @@
 ---
 title: "Worm Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Worm Form"
 foundryId: Item.eHhCqsWBo5pI7eMB

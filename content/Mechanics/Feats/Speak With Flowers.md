@@ -1,5 +1,6 @@
 ---
 title: "Speak With Flowers"
+draft: true
 noteType: ":luggage:"
 aliases: "Speak With Flowers"
 foundryId: Item.K7aW4zkzJgBN3NbL

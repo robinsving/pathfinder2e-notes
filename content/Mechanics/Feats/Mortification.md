@@ -1,5 +1,6 @@
 ---
 title: "Mortification"
+draft: true
 noteType: ":luggage:"
 aliases: "Mortification"
 foundryId: Item.K7cVEeQL77dGQIuZ

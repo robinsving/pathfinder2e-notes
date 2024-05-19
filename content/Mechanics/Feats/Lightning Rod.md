@@ -1,5 +1,6 @@
 ---
 title: "Lightning Rod"
+draft: true
 noteType: ":luggage:"
 aliases: "Lightning Rod"
 foundryId: Item.tRaW4qX1k8soKfdw

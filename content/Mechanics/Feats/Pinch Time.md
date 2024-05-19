@@ -1,5 +1,6 @@
 ---
 title: "Pinch Time"
+draft: true
 noteType: ":luggage:"
 aliases: "Pinch Time"
 foundryId: Item.5PscIuJmDfobxdxL

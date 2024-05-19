@@ -1,5 +1,6 @@
 ---
 title: "Play To The Crowd"
+draft: true
 noteType: ":luggage:"
 aliases: "Play To The Crowd"
 foundryId: Item.Xe8Kul3RyriJIQ3M

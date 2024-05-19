@@ -1,5 +1,6 @@
 ---
 title: "Conrasu Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Conrasu Lore"
 foundryId: Item.sw4XugfURCAzytzA

@@ -1,5 +1,6 @@
 ---
 title: "Summoner Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Summoner Dedication"
 foundryId: Item.tog6COOtT0ScPK3E

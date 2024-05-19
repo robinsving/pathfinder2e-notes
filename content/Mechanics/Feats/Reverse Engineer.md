@@ -1,5 +1,6 @@
 ---
 title: "Reverse Engineer"
+draft: true
 noteType: ":luggage:"
 aliases: "Reverse Engineer"
 foundryId: Item.jpMucgUG0OFJLcUK

@@ -1,5 +1,6 @@
 ---
 title: "Living Stone"
+draft: true
 noteType: ":luggage:"
 aliases: "Living Stone"
 foundryId: Item.eWHVBTHQUqomYnzV

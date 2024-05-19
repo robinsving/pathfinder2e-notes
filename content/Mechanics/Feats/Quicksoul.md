@@ -1,5 +1,6 @@
 ---
 title: "Quicksoul"
+draft: true
 noteType: ":luggage:"
 aliases: "Quicksoul"
 foundryId: Item.Ai6UKj2T1GHjGFa7

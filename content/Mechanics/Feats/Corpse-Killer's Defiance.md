@@ -1,5 +1,6 @@
 ---
 title: "Corpse-Killer's Defiance"
+draft: true
 noteType: ":luggage:"
 aliases: "Corpse-Killer's Defiance"
 foundryId: Item.A1v7Dd3B8ybD6pyV

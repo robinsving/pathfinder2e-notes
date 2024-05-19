@@ -1,5 +1,6 @@
 ---
 title: "Spiral Sworn"
+draft: true
 noteType: ":luggage:"
 aliases: "Spiral Sworn"
 foundryId: Item.2TphojDY8J8p25xD

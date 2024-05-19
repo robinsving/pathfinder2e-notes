@@ -1,5 +1,6 @@
 ---
 title: "Ancestral Paragon"
+draft: true
 noteType: ":luggage:"
 aliases: "Ancestral Paragon"
 foundryId: Item.Gdf0RYaD9fVECoA3

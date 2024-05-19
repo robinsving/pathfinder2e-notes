@@ -1,5 +1,6 @@
 ---
 title: "Resounding Cascade"
+draft: true
 noteType: ":luggage:"
 aliases: "Resounding Cascade"
 foundryId: Item.gZVe7sZXXsTIFD0G

@@ -1,5 +1,6 @@
 ---
 title: "Shattering Strike (Weapon Improviser)"
+draft: true
 noteType: ":luggage:"
 aliases: "Shattering Strike (Weapon Improviser)"
 foundryId: Item.R1Qpndlr51jyzjS7

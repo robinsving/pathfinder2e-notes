@@ -1,5 +1,6 @@
 ---
 title: "Daredevil's Gambit"
+draft: true
 noteType: ":luggage:"
 aliases: "Daredevil's Gambit"
 foundryId: Item.PMHyAB7vGNScT9Ku

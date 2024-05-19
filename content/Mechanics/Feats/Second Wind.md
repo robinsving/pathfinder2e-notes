@@ -1,5 +1,6 @@
 ---
 title: "Second Wind"
+draft: true
 noteType: ":luggage:"
 aliases: "Second Wind"
 foundryId: Item.mjd3kFwyKKrS2gEd

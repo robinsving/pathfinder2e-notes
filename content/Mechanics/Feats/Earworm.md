@@ -1,5 +1,6 @@
 ---
 title: "Earworm"
+draft: true
 noteType: ":luggage:"
 aliases: "Earworm"
 foundryId: Item.TA5rbpUoCxV2eScK

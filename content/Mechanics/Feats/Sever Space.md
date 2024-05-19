@@ -1,5 +1,6 @@
 ---
 title: "Sever Space"
+draft: true
 noteType: ":luggage:"
 aliases: "Sever Space"
 foundryId: Item.gcY3pvNaLG0LQDGF

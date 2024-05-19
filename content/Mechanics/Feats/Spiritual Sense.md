@@ -1,5 +1,6 @@
 ---
 title: "Spiritual Sense"
+draft: true
 noteType: ":luggage:"
 aliases: "Spiritual Sense"
 foundryId: Item.8GgCnBALda6KRdYr

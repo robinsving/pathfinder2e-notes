@@ -1,5 +1,6 @@
 ---
 title: "Survivor of Desolation"
+draft: true
 noteType: ":luggage:"
 aliases: "Survivor of Desolation"
 foundryId: Item.ifpYrJN17iXWbTF3

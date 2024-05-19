@@ -1,5 +1,6 @@
 ---
 title: "Scavenger's Search"
+draft: true
 noteType: ":luggage:"
 aliases: "Scavenger's Search"
 foundryId: Item.ivEwwu9jKAS8yR51

@@ -1,5 +1,6 @@
 ---
 title: "Skirt The Light"
+draft: true
 noteType: ":luggage:"
 aliases: "Skirt The Light"
 foundryId: Item.gn1zU0ZhILkPckiY

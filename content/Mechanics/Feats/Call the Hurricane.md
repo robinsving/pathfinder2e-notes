@@ -1,5 +1,6 @@
 ---
 title: "Call the Hurricane"
+draft: true
 noteType: ":luggage:"
 aliases: "Call the Hurricane"
 foundryId: Item.XNX2opd6hc5Gt6aV

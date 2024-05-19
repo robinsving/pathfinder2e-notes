@@ -1,5 +1,6 @@
 ---
 title: "Call of the Wild"
+draft: true
 noteType: ":luggage:"
 aliases: "Call of the Wild"
 foundryId: Item.9byJYeXb97WVjL67

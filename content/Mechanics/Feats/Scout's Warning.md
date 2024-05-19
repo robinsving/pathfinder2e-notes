@@ -1,5 +1,6 @@
 ---
 title: "Scout's Warning"
+draft: true
 noteType: ":luggage:"
 aliases: "Scout's Warning"
 foundryId: Item.c7oUniqlgla9DHvh

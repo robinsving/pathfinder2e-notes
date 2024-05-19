@@ -1,5 +1,6 @@
 ---
 title: "Perfect Dive"
+draft: true
 noteType: ":luggage:"
 aliases: "Perfect Dive"
 foundryId: Item.c5aB5bvMSbmzxDI3

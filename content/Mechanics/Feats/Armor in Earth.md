@@ -1,5 +1,6 @@
 ---
 title: "Armor in Earth"
+draft: true
 noteType: ":luggage:"
 aliases: "Armor in Earth"
 foundryId: Item.I4HrUfV5NfRNOjSh

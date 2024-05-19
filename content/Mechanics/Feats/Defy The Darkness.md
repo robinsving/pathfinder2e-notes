@@ -1,5 +1,6 @@
 ---
 title: "Defy The Darkness"
+draft: true
 noteType: ":luggage:"
 aliases: "Defy The Darkness"
 foundryId: Item.Ya01KQzdA1GHQI55

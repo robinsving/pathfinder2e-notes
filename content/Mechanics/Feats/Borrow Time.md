@@ -1,5 +1,6 @@
 ---
 title: "Borrow Time"
+draft: true
 noteType: ":luggage:"
 aliases: "Borrow Time"
 foundryId: Item.1mQrsEYecrefdCZi

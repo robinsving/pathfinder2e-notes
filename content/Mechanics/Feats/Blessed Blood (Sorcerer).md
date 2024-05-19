@@ -1,5 +1,6 @@
 ---
 title: "Blessed Blood (Sorcerer)"
+draft: true
 noteType: ":luggage:"
 aliases: "Blessed Blood (Sorcerer)"
 foundryId: Item.Froz6fZto2E0Rdsh

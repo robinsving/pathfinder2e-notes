@@ -1,5 +1,6 @@
 ---
 title: "Ironblood Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Ironblood Stance"
 foundryId: Item.k3LFwKsffabtpCyv

@@ -1,5 +1,6 @@
 ---
 title: "Strain Mind"
+draft: true
 noteType: ":luggage:"
 aliases: "Strain Mind"
 foundryId: Item.YWq841WCkuvrc7Ic

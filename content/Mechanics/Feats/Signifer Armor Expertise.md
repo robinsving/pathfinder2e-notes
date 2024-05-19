@@ -1,5 +1,6 @@
 ---
 title: "Signifer Armor Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Signifer Armor Expertise"
 foundryId: Item.CZydYoO3Su4R5sAW

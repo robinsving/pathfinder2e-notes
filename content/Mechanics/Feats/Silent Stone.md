@@ -1,5 +1,6 @@
 ---
 title: "Silent Stone"
+draft: true
 noteType: ":luggage:"
 aliases: "Silent Stone"
 foundryId: Item.NA54pdvFyzVP8GIB

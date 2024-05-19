@@ -1,5 +1,6 @@
 ---
 title: "Pack Rat"
+draft: true
 noteType: ":luggage:"
 aliases: "Pack Rat"
 foundryId: Item.ydqwrPKhTjUHLK68

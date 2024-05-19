@@ -1,5 +1,6 @@
 ---
 title: "Mature Animal Companion (Druid)"
+draft: true
 noteType: ":luggage:"
 aliases: "Mature Animal Companion (Druid)"
 foundryId: Item.ufpGboZDy1stg8qB

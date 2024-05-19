@@ -1,5 +1,6 @@
 ---
 title: "Explosive Death Drop"
+draft: true
 noteType: ":luggage:"
 aliases: "Explosive Death Drop"
 foundryId: Item.gjVbLd39urtWFvAf

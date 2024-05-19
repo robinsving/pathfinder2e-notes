@@ -1,5 +1,6 @@
 ---
 title: "Multishot Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Multishot Stance"
 foundryId: Item.J92M357vjz4fYxVl

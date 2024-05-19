@@ -1,5 +1,6 @@
 ---
 title: "Ceremony of Aeon's Guidance"
+draft: true
 noteType: ":luggage:"
 aliases: "Ceremony of Aeon's Guidance"
 foundryId: Item.6XGJgjA5iXFBkcP1

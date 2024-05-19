@@ -1,5 +1,6 @@
 ---
 title: "Blazing Wave"
+draft: true
 noteType: ":luggage:"
 aliases: "Blazing Wave"
 foundryId: Item.c3Nk0etZqrooBKxo

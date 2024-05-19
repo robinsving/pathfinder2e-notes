@@ -1,5 +1,6 @@
 ---
 title: "Shadow Illusion"
+draft: true
 noteType: ":luggage:"
 aliases: "Shadow Illusion"
 foundryId: Item.lUKbfccSUhgmYb5k

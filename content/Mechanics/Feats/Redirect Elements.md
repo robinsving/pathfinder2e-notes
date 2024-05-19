@@ -1,5 +1,6 @@
 ---
 title: "Redirect Elements"
+draft: true
 noteType: ":luggage:"
 aliases: "Redirect Elements"
 foundryId: Item.QcaGb0sUaDoXX3nG

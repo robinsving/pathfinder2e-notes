@@ -1,5 +1,6 @@
 ---
 title: "Nephilim Resistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Nephilim Resistance"
 foundryId: Item.C3oFru5dQQY5lOhl

@@ -1,5 +1,6 @@
 ---
 title: "Torch Goblin"
+draft: true
 noteType: ":luggage:"
 aliases: "Torch Goblin"
 foundryId: Item.ogm7Add6bQZIKCQi

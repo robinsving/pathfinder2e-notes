@@ -1,5 +1,6 @@
 ---
 title: "Enthralling Allure"
+draft: true
 noteType: ":luggage:"
 aliases: "Enthralling Allure"
 foundryId: Item.2IBOGlGoOas1qCel

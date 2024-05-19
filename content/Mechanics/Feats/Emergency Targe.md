@@ -1,5 +1,6 @@
 ---
 title: "Emergency Targe"
+draft: true
 noteType: ":luggage:"
 aliases: "Emergency Targe"
 foundryId: Item.ijrEeSSlWKt7hbCv

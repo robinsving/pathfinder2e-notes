@@ -1,5 +1,6 @@
 ---
 title: "Hilt Hammer"
+draft: true
 noteType: ":luggage:"
 aliases: "Hilt Hammer"
 foundryId: Item.6ejDMvKaiY0WIfKc

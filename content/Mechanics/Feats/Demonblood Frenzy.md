@@ -1,5 +1,6 @@
 ---
 title: "Demonblood Frenzy"
+draft: true
 noteType: ":luggage:"
 aliases: "Demonblood Frenzy"
 foundryId: Item.TTc3UrOxeTutZ5RH

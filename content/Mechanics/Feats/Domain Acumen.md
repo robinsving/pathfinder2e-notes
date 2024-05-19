@@ -1,5 +1,6 @@
 ---
 title: "Domain Acumen"
+draft: true
 noteType: ":luggage:"
 aliases: "Domain Acumen"
 foundryId: Item.c2bRfIQza9d9q2Eg

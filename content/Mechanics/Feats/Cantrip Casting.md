@@ -1,5 +1,6 @@
 ---
 title: "Cantrip Casting"
+draft: true
 noteType: ":luggage:"
 aliases: "Cantrip Casting"
 foundryId: Item.lUPtaNlHchG3Lvav

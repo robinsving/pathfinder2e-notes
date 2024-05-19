@@ -1,5 +1,6 @@
 ---
 title: "Aura of Faith"
+draft: true
 noteType: ":luggage:"
 aliases: "Aura of Faith"
 foundryId: Item.Cy4FwhFWzTlP4jf1

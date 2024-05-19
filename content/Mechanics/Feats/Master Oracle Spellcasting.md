@@ -1,5 +1,6 @@
 ---
 title: "Master Oracle Spellcasting"
+draft: true
 noteType: ":luggage:"
 aliases: "Master Oracle Spellcasting"
 foundryId: Item.wcRSbGBgNtxPOA5l

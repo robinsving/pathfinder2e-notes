@@ -1,5 +1,6 @@
 ---
 title: "Add Element"
+draft: true
 noteType: ":luggage:"
 aliases: "Add Element"
 foundryId: Item.YDbOx2pXOOr9Ok7c

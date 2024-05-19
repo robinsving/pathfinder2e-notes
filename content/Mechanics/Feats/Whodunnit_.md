@@ -1,5 +1,6 @@
 ---
 title: "Whodunnit?"
+draft: true
 noteType: ":luggage:"
 aliases: "Whodunnit?"
 foundryId: Item.2i4yGRFIpujIF5zA

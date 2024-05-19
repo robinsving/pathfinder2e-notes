@@ -1,5 +1,6 @@
 ---
 title: "Marid Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Marid Magic"
 foundryId: Item.8IX8W4WuqxiJ2VqZ

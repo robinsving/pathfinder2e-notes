@@ -1,5 +1,6 @@
 ---
 title: "Vengeful Spirit Deck"
+draft: true
 noteType: ":luggage:"
 aliases: "Vengeful Spirit Deck"
 foundryId: Item.p1wx9B5nDt2Yhm1C

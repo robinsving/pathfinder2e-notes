@@ -1,5 +1,6 @@
 ---
 title: "Goloma Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Goloma Lore"
 foundryId: Item.ic4q1Vvo9MYQlO7M

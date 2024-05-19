@@ -1,5 +1,6 @@
 ---
 title: "Mindblank Mutagen"
+draft: true
 noteType: ":luggage:"
 aliases: "Mindblank Mutagen"
 foundryId: Item.kYU6SCXlOHQfNtlI

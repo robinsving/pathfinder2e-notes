@@ -1,5 +1,6 @@
 ---
 title: "Avenge Ally"
+draft: true
 noteType: ":luggage:"
 aliases: "Avenge Ally"
 foundryId: Item.ZoQhqRsu6muO0Le4

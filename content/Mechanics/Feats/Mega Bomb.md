@@ -1,5 +1,6 @@
 ---
 title: "Mega Bomb"
+draft: true
 noteType: ":luggage:"
 aliases: "Mega Bomb"
 foundryId: Item.06KNuGixPGLt9raE

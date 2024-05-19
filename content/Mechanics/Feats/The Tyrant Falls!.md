@@ -1,5 +1,6 @@
 ---
 title: "The Tyrant Falls!"
+draft: true
 noteType: ":luggage:"
 aliases: "The Tyrant Falls!"
 foundryId: Item.E9hgxWfg3IRMnKEw

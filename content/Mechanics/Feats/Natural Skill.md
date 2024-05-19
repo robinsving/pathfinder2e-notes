@@ -1,5 +1,6 @@
 ---
 title: "Natural Skill"
+draft: true
 noteType: ":luggage:"
 aliases: "Natural Skill"
 foundryId: Item.f6ngDpJhhFNBYKrs

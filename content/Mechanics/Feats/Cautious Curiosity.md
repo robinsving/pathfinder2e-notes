@@ -1,5 +1,6 @@
 ---
 title: "Cautious Curiosity"
+draft: true
 noteType: ":luggage:"
 aliases: "Cautious Curiosity"
 foundryId: Item.yBeq6kHN6COwgw5m

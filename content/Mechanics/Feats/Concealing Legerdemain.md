@@ -1,5 +1,6 @@
 ---
 title: "Concealing Legerdemain"
+draft: true
 noteType: ":luggage:"
 aliases: "Concealing Legerdemain"
 foundryId: Item.WYgYEBnDsAgjJVxq

@@ -1,5 +1,6 @@
 ---
 title: "No Cause For Alarm"
+draft: true
 noteType: ":luggage:"
 aliases: "No Cause For Alarm"
 foundryId: Item.jwOorPTskzxtfbpa

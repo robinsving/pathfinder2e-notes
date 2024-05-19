@@ -1,5 +1,6 @@
 ---
 title: "Persistent Mutagen"
+draft: true
 noteType: ":luggage:"
 aliases: "Persistent Mutagen"
 foundryId: Item.AFSwpi4uHIaALzsJ

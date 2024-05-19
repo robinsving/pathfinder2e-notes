@@ -1,5 +1,6 @@
 ---
 title: "Goading Feint"
+draft: true
 noteType: ":luggage:"
 aliases: "Goading Feint"
 foundryId: Item.eo50a6cidFgrjp4x

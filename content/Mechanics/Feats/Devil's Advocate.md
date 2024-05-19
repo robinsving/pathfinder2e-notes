@@ -1,5 +1,6 @@
 ---
 title: "Devil's Advocate"
+draft: true
 noteType: ":luggage:"
 aliases: "Devil's Advocate"
 foundryId: Item.v84JszjXwWUHHgS6

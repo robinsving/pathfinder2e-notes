@@ -1,5 +1,6 @@
 ---
 title: "Desperate Finisher"
+draft: true
 noteType: ":luggage:"
 aliases: "Desperate Finisher"
 foundryId: Item.DlfraBcGN5a0wXbI

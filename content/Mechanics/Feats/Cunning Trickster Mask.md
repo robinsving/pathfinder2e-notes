@@ -1,5 +1,6 @@
 ---
 title: "Cunning Trickster Mask"
+draft: true
 noteType: ":luggage:"
 aliases: "Cunning Trickster Mask"
 foundryId: Item.azNN4xK4GY7Y3SmS

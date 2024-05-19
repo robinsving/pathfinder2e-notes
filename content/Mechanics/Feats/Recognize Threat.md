@@ -1,5 +1,6 @@
 ---
 title: "Recognize Threat"
+draft: true
 noteType: ":luggage:"
 aliases: "Recognize Threat"
 foundryId: Item.gl5MydpCUtvqXtzL

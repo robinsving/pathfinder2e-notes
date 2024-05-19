@@ -1,5 +1,6 @@
 ---
 title: "Serpent's Tongue"
+draft: true
 noteType: ":luggage:"
 aliases: "Serpent's Tongue"
 foundryId: Item.J0efGOSXWPYHPimW

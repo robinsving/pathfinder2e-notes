@@ -1,5 +1,6 @@
 ---
 title: "Constricting Hold"
+draft: true
 noteType: ":luggage:"
 aliases: "Constricting Hold"
 foundryId: Item.ECPoIvsoAHMSKdug

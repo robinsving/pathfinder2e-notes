@@ -1,5 +1,6 @@
 ---
 title: "Hypnotic Lure"
+draft: true
 noteType: ":luggage:"
 aliases: "Hypnotic Lure"
 foundryId: Item.7aFeX1b13pM9LxwI

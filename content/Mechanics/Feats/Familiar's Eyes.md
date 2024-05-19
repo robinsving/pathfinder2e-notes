@@ -1,5 +1,6 @@
 ---
 title: "Familiar's Eyes"
+draft: true
 noteType: ":luggage:"
 aliases: "Familiar's Eyes"
 foundryId: Item.jRtlFI8yV4aawJ21

@@ -1,5 +1,6 @@
 ---
 title: "Athletic Might"
+draft: true
 noteType: ":luggage:"
 aliases: "Athletic Might"
 foundryId: Item.sM7ZdO67ACY3QmYP

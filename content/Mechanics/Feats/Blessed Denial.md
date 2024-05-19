@@ -1,5 +1,6 @@
 ---
 title: "Blessed Denial"
+draft: true
 noteType: ":luggage:"
 aliases: "Blessed Denial"
 foundryId: Item.eJ0r6LYNudjuFIRU

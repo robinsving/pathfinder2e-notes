@@ -1,5 +1,6 @@
 ---
 title: "Guiding Finish"
+draft: true
 noteType: ":luggage:"
 aliases: "Guiding Finish"
 foundryId: Item.3OXJUe2qiHA4uKwi

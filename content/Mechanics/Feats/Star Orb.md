@@ -1,5 +1,6 @@
 ---
 title: "Star Orb"
+draft: true
 noteType: ":luggage:"
 aliases: "Star Orb"
 foundryId: Item.eAjg7wqMCSHpEVns

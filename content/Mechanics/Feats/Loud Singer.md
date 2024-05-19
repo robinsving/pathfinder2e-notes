@@ -1,5 +1,6 @@
 ---
 title: "Loud Singer"
+draft: true
 noteType: ":luggage:"
 aliases: "Loud Singer"
 foundryId: Item.v73SYl4eRKEcvI2z

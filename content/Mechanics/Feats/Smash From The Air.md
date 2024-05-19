@@ -1,5 +1,6 @@
 ---
 title: "Smash From The Air"
+draft: true
 noteType: ":luggage:"
 aliases: "Smash From The Air"
 foundryId: Item.eigcRqhgz9akfQ3i

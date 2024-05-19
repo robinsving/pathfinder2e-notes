@@ -1,5 +1,6 @@
 ---
 title: "Trapsmith Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Trapsmith Dedication"
 foundryId: Item.K2zgwET75V3n3zJv

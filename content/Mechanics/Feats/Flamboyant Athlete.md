@@ -1,5 +1,6 @@
 ---
 title: "Flamboyant Athlete"
+draft: true
 noteType: ":luggage:"
 aliases: "Flamboyant Athlete"
 foundryId: Item.4vLheXmcyeS1QGhM

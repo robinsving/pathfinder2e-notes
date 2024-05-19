@@ -1,5 +1,6 @@
 ---
 title: "Energize Wings"
+draft: true
 noteType: ":luggage:"
 aliases: "Energize Wings"
 foundryId: Item.7oKOaRsw3lJPoPOc

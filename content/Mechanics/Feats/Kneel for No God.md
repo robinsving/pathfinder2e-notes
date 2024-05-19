@@ -1,5 +1,6 @@
 ---
 title: "Kneel for No God"
+draft: true
 noteType: ":luggage:"
 aliases: "Kneel for No God"
 foundryId: Item.FcQndYpWp8U8h5Sz

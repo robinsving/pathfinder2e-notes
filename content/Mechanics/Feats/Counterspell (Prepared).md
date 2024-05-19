@@ -1,5 +1,6 @@
 ---
 title: "Counterspell (Prepared)"
+draft: true
 noteType: ":luggage:"
 aliases: "Counterspell (Prepared)"
 foundryId: Item.JeFqe9ALB7lTC0n1

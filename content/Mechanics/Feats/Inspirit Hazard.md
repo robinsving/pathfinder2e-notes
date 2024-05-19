@@ -1,5 +1,6 @@
 ---
 title: "Inspirit Hazard"
+draft: true
 noteType: ":luggage:"
 aliases: "Inspirit Hazard"
 foundryId: Item.Lhw1QlYXeXYFwLNl

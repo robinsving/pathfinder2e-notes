@@ -1,5 +1,6 @@
 ---
 title: "Vicious Vengeance"
+draft: true
 noteType: ":luggage:"
 aliases: "Vicious Vengeance"
 foundryId: Item.ccKKWvOUP2CdaqMr

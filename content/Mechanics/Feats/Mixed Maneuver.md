@@ -1,5 +1,6 @@
 ---
 title: "Mixed Maneuver"
+draft: true
 noteType: ":luggage:"
 aliases: "Mixed Maneuver"
 foundryId: Item.592lCw6vdQVOE242

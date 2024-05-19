@@ -1,5 +1,6 @@
 ---
 title: "Just The Facts"
+draft: true
 noteType: ":luggage:"
 aliases: "Just The Facts"
 foundryId: Item.zbgy2MzMRHfYjkJ8

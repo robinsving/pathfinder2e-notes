@@ -1,5 +1,6 @@
 ---
 title: "Irrepressible (Ganzi)"
+draft: true
 noteType: ":luggage:"
 aliases: "Irrepressible (Ganzi)"
 foundryId: Item.kTu1TsCKSsYY7FAO

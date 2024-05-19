@@ -1,5 +1,6 @@
 ---
 title: "Leshy Superstition"
+draft: true
 noteType: ":luggage:"
 aliases: "Leshy Superstition"
 foundryId: Item.HGUeSFRCXcxk32lD

@@ -1,5 +1,6 @@
 ---
 title: "Enlarge Companion"
+draft: true
 noteType: ":luggage:"
 aliases: "Enlarge Companion"
 foundryId: Item.dJwz5HRcjjiNSTiv

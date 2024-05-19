@@ -1,5 +1,6 @@
 ---
 title: "Prescient Consumable"
+draft: true
 noteType: ":luggage:"
 aliases: "Prescient Consumable"
 foundryId: Item.ATaKaYVIHuYBXuZI

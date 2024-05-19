@@ -1,5 +1,6 @@
 ---
 title: "Disruptive Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Disruptive Stance"
 foundryId: Item.7TKmTWCglSRNqSRi

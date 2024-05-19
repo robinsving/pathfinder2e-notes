@@ -1,5 +1,6 @@
 ---
 title: "Cindersoul"
+draft: true
 noteType: ":luggage:"
 aliases: "Cindersoul"
 foundryId: Item.QPJBjq0v6oTFiL1m

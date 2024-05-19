@@ -1,5 +1,6 @@
 ---
 title: "Clan's Edge"
+draft: true
 noteType: ":luggage:"
 aliases: "Clan's Edge"
 foundryId: Item.xHYTM81mXXWxGnP8

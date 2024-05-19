@@ -1,5 +1,6 @@
 ---
 title: "Subjective Truth"
+draft: true
 noteType: ":luggage:"
 aliases: "Subjective Truth"
 foundryId: Item.twOwYoAzHXvI7NsM

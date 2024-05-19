@@ -1,5 +1,6 @@
 ---
 title: "Monster Warden"
+draft: true
 noteType: ":luggage:"
 aliases: "Monster Warden"
 foundryId: Item.DFmEIKwzKeQYcIWG

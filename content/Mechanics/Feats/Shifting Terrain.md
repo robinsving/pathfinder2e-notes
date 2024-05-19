@@ -1,5 +1,6 @@
 ---
 title: "Shifting Terrain"
+draft: true
 noteType: ":luggage:"
 aliases: "Shifting Terrain"
 foundryId: Item.WmvPKLlDfCg3spTf

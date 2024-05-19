@@ -1,5 +1,6 @@
 ---
 title: "Fulminating Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Fulminating Shot"
 foundryId: Item.T7EvnTgzSO1xrcLF

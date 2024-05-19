@@ -1,5 +1,6 @@
 ---
 title: "Spell Runes"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Runes"
 foundryId: Item.XM9SH6RL2aKP9R7w

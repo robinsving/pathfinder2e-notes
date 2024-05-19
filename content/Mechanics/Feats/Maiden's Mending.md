@@ -1,5 +1,6 @@
 ---
 title: "Maiden's Mending"
+draft: true
 noteType: ":luggage:"
 aliases: "Maiden's Mending"
 foundryId: Item.M4CPdWv5gGYIA5tZ

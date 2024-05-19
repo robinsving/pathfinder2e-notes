@@ -1,5 +1,6 @@
 ---
 title: "Martial Exercise"
+draft: true
 noteType: ":luggage:"
 aliases: "Martial Exercise"
 foundryId: Item.ycCTrPBrz8bTdNLA

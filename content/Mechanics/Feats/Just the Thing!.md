@@ -1,5 +1,6 @@
 ---
 title: "Just the Thing!"
+draft: true
 noteType: ":luggage:"
 aliases: "Just the Thing!"
 foundryId: Item.TLNKZ1zyy0ClmpHb

@@ -1,5 +1,6 @@
 ---
 title: "Eerie Flicker"
+draft: true
 noteType: ":luggage:"
 aliases: "Eerie Flicker"
 foundryId: Item.FnMMesGUbngIKIXP

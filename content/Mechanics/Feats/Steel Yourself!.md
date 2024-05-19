@@ -1,5 +1,6 @@
 ---
 title: "Steel Yourself!"
+draft: true
 noteType: ":luggage:"
 aliases: "Steel Yourself!"
 foundryId: Item.1K3retdMM2bXtcyw

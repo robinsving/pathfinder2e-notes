@@ -1,5 +1,6 @@
 ---
 title: "Advanced Bow Training"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Bow Training"
 foundryId: Item.vD5GXTuCxwsYgY4i

@@ -1,5 +1,6 @@
 ---
 title: "Aldori Duelist Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Aldori Duelist Dedication"
 foundryId: Item.4XSgQJCJQGVEk4E4

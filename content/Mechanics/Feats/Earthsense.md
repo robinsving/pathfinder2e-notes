@@ -1,5 +1,6 @@
 ---
 title: "Earthsense"
+draft: true
 noteType: ":luggage:"
 aliases: "Earthsense"
 foundryId: Item.zRqluMQcnleFLTKH

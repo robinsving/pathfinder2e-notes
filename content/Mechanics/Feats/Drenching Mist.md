@@ -1,5 +1,6 @@
 ---
 title: "Drenching Mist"
+draft: true
 noteType: ":luggage:"
 aliases: "Drenching Mist"
 foundryId: Item.EZmDBVcNvOeikIuT

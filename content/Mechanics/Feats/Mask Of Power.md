@@ -1,5 +1,6 @@
 ---
 title: "Mask Of Power"
+draft: true
 noteType: ":luggage:"
 aliases: "Mask Of Power"
 foundryId: Item.PXjDl7s07wKb4XDa

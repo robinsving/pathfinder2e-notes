@@ -1,5 +1,6 @@
 ---
 title: "Parthenogenic Hatchling"
+draft: true
 noteType: ":luggage:"
 aliases: "Parthenogenic Hatchling"
 foundryId: Item.gISHlYxw426KZX6L

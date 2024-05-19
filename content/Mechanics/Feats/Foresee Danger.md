@@ -1,5 +1,6 @@
 ---
 title: "Foresee Danger"
+draft: true
 noteType: ":luggage:"
 aliases: "Foresee Danger"
 foundryId: Item.q3ZJiZ7YjqhIAGDD

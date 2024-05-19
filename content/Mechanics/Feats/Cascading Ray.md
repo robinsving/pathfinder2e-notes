@@ -1,5 +1,6 @@
 ---
 title: "Cascading Ray"
+draft: true
 noteType: ":luggage:"
 aliases: "Cascading Ray"
 foundryId: Item.vaX8aOnJCSkRfRkq

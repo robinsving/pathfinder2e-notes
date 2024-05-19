@@ -1,5 +1,6 @@
 ---
 title: "Ultimate Mercy"
+draft: true
 noteType: ":luggage:"
 aliases: "Ultimate Mercy"
 foundryId: Item.eu8sPW2XeEhTrY9S

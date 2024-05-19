@@ -1,5 +1,6 @@
 ---
 title: "Head of the Night Parade"
+draft: true
 noteType: ":luggage:"
 aliases: "Head of the Night Parade"
 foundryId: Item.6NAPxVVy2HX8CJ3K

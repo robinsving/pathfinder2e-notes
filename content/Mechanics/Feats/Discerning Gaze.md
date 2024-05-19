@@ -1,5 +1,6 @@
 ---
 title: "Discerning Gaze"
+draft: true
 noteType: ":luggage:"
 aliases: "Discerning Gaze"
 foundryId: Item.c0e0Jhwn9aE5U5tU

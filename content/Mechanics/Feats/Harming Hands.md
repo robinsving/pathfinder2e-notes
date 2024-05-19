@@ -1,5 +1,6 @@
 ---
 title: "Harming Hands"
+draft: true
 noteType: ":luggage:"
 aliases: "Harming Hands"
 foundryId: Item.WNKbbzpoKHGf0KA8

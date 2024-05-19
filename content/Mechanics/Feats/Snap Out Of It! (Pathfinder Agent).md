@@ -1,5 +1,6 @@
 ---
 title: "Snap Out Of It! (Pathfinder Agent)"
+draft: true
 noteType: ":luggage:"
 aliases: "Snap Out Of It! (Pathfinder Agent)"
 foundryId: Item.WGO7W3f3bv5JGsVx

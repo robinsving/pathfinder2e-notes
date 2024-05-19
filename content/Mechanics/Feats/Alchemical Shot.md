@@ -1,5 +1,6 @@
 ---
 title: "Alchemical Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Alchemical Shot"
 foundryId: Item.i2E5vqmmFmzyrJ6I

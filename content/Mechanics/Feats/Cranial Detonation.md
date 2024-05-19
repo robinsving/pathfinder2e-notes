@@ -1,5 +1,6 @@
 ---
 title: "Cranial Detonation"
+draft: true
 noteType: ":luggage:"
 aliases: "Cranial Detonation"
 foundryId: Item.PgpqG4aO9R6J4B5i

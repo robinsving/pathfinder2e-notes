@@ -1,5 +1,6 @@
 ---
 title: "Scour The Library"
+draft: true
 noteType: ":luggage:"
 aliases: "Scour The Library"
 foundryId: Item.FfPdmzSpT4dLhZNE

@@ -1,5 +1,6 @@
 ---
 title: "Frighten Undead"
+draft: true
 noteType: ":luggage:"
 aliases: "Frighten Undead"
 foundryId: Item.qxdOXfuvHsovBTkZ

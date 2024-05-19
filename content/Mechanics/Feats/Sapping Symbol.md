@@ -1,5 +1,6 @@
 ---
 title: "Sapping Symbol"
+draft: true
 noteType: ":luggage:"
 aliases: "Sapping Symbol"
 foundryId: Item.n55qYcaxfxc79yHD

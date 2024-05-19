@@ -1,5 +1,6 @@
 ---
 title: "Sickening Bite"
+draft: true
 noteType: ":luggage:"
 aliases: "Sickening Bite"
 foundryId: Item.QR6u4Kglhu3zWBdq

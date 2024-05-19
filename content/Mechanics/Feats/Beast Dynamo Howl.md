@@ -1,5 +1,6 @@
 ---
 title: "Beast Dynamo Howl"
+draft: true
 noteType: ":luggage:"
 aliases: "Beast Dynamo Howl"
 foundryId: Item.zo7w8vk8Im5xoSpj

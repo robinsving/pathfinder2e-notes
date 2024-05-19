@@ -1,5 +1,6 @@
 ---
 title: "Spiritual Guides"
+draft: true
 noteType: ":luggage:"
 aliases: "Spiritual Guides"
 foundryId: Item.PqTrKXhOT4Fe0J4R

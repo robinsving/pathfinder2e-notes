@@ -1,5 +1,6 @@
 ---
 title: "Survey Wildlife"
+draft: true
 noteType: ":luggage:"
 aliases: "Survey Wildlife"
 foundryId: Item.Q9MYhaLfYza0GfMQ

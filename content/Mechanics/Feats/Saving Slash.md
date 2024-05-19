@@ -1,5 +1,6 @@
 ---
 title: "Saving Slash"
+draft: true
 noteType: ":luggage:"
 aliases: "Saving Slash"
 foundryId: Item.jRcyjwo7MSiTOIuJ

@@ -1,5 +1,6 @@
 ---
 title: "Sacred Armaments"
+draft: true
 noteType: ":luggage:"
 aliases: "Sacred Armaments"
 foundryId: Item.zsP2rPnRQyhA6Gzv

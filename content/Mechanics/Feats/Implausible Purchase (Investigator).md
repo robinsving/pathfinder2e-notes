@@ -1,5 +1,6 @@
 ---
 title: "Implausible Purchase (Investigator)"
+draft: true
 noteType: ":luggage:"
 aliases: "Implausible Purchase (Investigator)"
 foundryId: Item.3Sboqc8ZUJgWCduS

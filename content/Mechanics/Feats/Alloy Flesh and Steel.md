@@ -1,5 +1,6 @@
 ---
 title: "Alloy Flesh and Steel"
+draft: true
 noteType: ":luggage:"
 aliases: "Alloy Flesh and Steel"
 foundryId: Item.AHjC6LNj7r2lNuEv

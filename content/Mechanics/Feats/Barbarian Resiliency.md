@@ -1,5 +1,6 @@
 ---
 title: "Barbarian Resiliency"
+draft: true
 noteType: ":luggage:"
 aliases: "Barbarian Resiliency"
 foundryId: Item.mTxlXi7pdNJ7zBto

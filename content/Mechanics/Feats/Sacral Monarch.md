@@ -1,5 +1,6 @@
 ---
 title: "Sacral Monarch"
+draft: true
 noteType: ":luggage:"
 aliases: "Sacral Monarch"
 foundryId: Item.EkHza6sK0WjVNOEv

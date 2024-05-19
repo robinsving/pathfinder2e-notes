@@ -1,5 +1,6 @@
 ---
 title: "Victorious Vigor"
+draft: true
 noteType: ":luggage:"
 aliases: "Victorious Vigor"
 foundryId: Item.dYJWeLgDC7zJguYb

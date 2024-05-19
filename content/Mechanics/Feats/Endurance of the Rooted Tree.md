@@ -1,5 +1,6 @@
 ---
 title: "Endurance of the Rooted Tree"
+draft: true
 noteType: ":luggage:"
 aliases: "Endurance of the Rooted Tree"
 foundryId: Item.bTUorZv6dXA8mzDO

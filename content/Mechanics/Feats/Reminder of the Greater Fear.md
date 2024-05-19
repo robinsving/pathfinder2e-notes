@@ -1,5 +1,6 @@
 ---
 title: "Reminder of the Greater Fear"
+draft: true
 noteType: ":luggage:"
 aliases: "Reminder of the Greater Fear"
 foundryId: Item.gJo2KxOe3lkclONV

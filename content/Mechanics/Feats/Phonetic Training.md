@@ -1,5 +1,6 @@
 ---
 title: "Phonetic Training"
+draft: true
 noteType: ":luggage:"
 aliases: "Phonetic Training"
 foundryId: Item.rLLjnVUunj2pFzp5

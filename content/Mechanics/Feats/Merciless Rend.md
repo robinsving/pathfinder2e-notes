@@ -1,5 +1,6 @@
 ---
 title: "Merciless Rend"
+draft: true
 noteType: ":luggage:"
 aliases: "Merciless Rend"
 foundryId: Item.QxGLns6dnxJwQiuj

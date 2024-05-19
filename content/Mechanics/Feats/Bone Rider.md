@@ -1,5 +1,6 @@
 ---
 title: "Bone Rider"
+draft: true
 noteType: ":luggage:"
 aliases: "Bone Rider"
 foundryId: Item.K5Sb5bvowJn0a8Ql

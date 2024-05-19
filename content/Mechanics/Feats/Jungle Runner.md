@@ -1,5 +1,6 @@
 ---
 title: "Jungle Runner"
+draft: true
 noteType: ":luggage:"
 aliases: "Jungle Runner"
 foundryId: Item.wLvYhtQqyRmEmAZi

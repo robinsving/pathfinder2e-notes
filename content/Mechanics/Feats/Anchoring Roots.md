@@ -1,5 +1,6 @@
 ---
 title: "Anchoring Roots"
+draft: true
 noteType: ":luggage:"
 aliases: "Anchoring Roots"
 foundryId: Item.p5VI3MewpyXZY9YU

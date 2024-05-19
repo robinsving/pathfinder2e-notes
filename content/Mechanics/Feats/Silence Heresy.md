@@ -1,5 +1,6 @@
 ---
 title: "Silence Heresy"
+draft: true
 noteType: ":luggage:"
 aliases: "Silence Heresy"
 foundryId: Item.0CUTIUChdEeeCpGY

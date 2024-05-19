@@ -1,5 +1,6 @@
 ---
 title: "Arcane Shroud"
+draft: true
 noteType: ":luggage:"
 aliases: "Arcane Shroud"
 foundryId: Item.Ua9SoQN9XXWaHMr5

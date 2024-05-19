@@ -1,5 +1,6 @@
 ---
 title: "Swipe"
+draft: true
 noteType: ":luggage:"
 aliases: "Swipe"
 foundryId: Item.z9lMq9ZmXwDcdWJ8

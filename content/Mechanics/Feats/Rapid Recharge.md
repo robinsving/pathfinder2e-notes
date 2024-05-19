@@ -1,5 +1,6 @@
 ---
 title: "Rapid Recharge"
+draft: true
 noteType: ":luggage:"
 aliases: "Rapid Recharge"
 foundryId: Item.RWXdHC47ybAXMHSF

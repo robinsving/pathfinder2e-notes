@@ -1,5 +1,6 @@
 ---
 title: "Deflecting Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Deflecting Shot"
 foundryId: Item.AfmVQrnowBrME24z

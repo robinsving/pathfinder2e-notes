@@ -1,5 +1,6 @@
 ---
 title: "Corpse Tender Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Corpse Tender Dedication"
 foundryId: Item.SYLMYIlN8czWPhgk

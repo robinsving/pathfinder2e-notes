@@ -1,5 +1,6 @@
 ---
 title: "Finned Ridges"
+draft: true
 noteType: ":luggage:"
 aliases: "Finned Ridges"
 foundryId: Item.dKNfxenzoBGaoMVH

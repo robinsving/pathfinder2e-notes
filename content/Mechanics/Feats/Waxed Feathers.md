@@ -1,5 +1,6 @@
 ---
 title: "Waxed Feathers"
+draft: true
 noteType: ":luggage:"
 aliases: "Waxed Feathers"
 foundryId: Item.ZjXDniqQfXv6FDUx

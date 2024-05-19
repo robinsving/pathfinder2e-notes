@@ -1,5 +1,6 @@
 ---
 title: "Hobgoblin Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Hobgoblin Lore"
 foundryId: Item.jPrg053tOJSZBUG8

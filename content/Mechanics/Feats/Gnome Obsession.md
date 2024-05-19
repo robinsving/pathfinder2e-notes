@@ -1,5 +1,6 @@
 ---
 title: "Gnome Obsession"
+draft: true
 noteType: ":luggage:"
 aliases: "Gnome Obsession"
 foundryId: Item.cYRu3JyYkPNxrHln

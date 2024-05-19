@@ -1,5 +1,6 @@
 ---
 title: "Champion's Sacrifice"
+draft: true
 noteType: ":luggage:"
 aliases: "Champion's Sacrifice"
 foundryId: Item.V0ZWc5KQY7vUKpPZ

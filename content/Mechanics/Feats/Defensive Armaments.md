@@ -1,5 +1,6 @@
 ---
 title: "Defensive Armaments"
+draft: true
 noteType: ":luggage:"
 aliases: "Defensive Armaments"
 foundryId: Item.FaP1zsqSZnK3d5k4

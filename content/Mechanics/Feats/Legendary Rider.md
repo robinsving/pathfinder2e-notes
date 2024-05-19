@@ -1,5 +1,6 @@
 ---
 title: "Legendary Rider"
+draft: true
 noteType: ":luggage:"
 aliases: "Legendary Rider"
 foundryId: Item.XOMeq18OIeKyEgcn

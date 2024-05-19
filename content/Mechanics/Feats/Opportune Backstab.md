@@ -1,5 +1,6 @@
 ---
 title: "Opportune Backstab"
+draft: true
 noteType: ":luggage:"
 aliases: "Opportune Backstab"
 foundryId: Item.sHYg7cclRMiFTEWR

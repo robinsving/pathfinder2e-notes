@@ -1,5 +1,6 @@
 ---
 title: "Menacing Prowess"
+draft: true
 noteType: ":luggage:"
 aliases: "Menacing Prowess"
 foundryId: Item.H2MRPr4YK8htePAl

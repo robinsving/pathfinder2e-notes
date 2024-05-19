@@ -1,5 +1,6 @@
 ---
 title: "Expert Skysage Divination"
+draft: true
 noteType: ":luggage:"
 aliases: "Expert Skysage Divination"
 foundryId: Item.WwuWPVUZ8xLZVmtc

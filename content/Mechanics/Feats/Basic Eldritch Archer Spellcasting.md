@@ -1,5 +1,6 @@
 ---
 title: "Basic Eldritch Archer Spellcasting"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Eldritch Archer Spellcasting"
 foundryId: Item.TmhyejmnVDA2fcOQ

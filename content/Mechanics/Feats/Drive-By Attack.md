@@ -1,5 +1,6 @@
 ---
 title: "Drive-By Attack"
+draft: true
 noteType: ":luggage:"
 aliases: "Drive-By Attack"
 foundryId: Item.Cylb1E8m6J3CNnXB

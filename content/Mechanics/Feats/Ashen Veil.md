@@ -1,5 +1,6 @@
 ---
 title: "Ashen Veil"
+draft: true
 noteType: ":luggage:"
 aliases: "Ashen Veil"
 foundryId: Item.bPqdtMs180vBwD7w

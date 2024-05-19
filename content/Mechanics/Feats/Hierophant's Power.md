@@ -1,5 +1,6 @@
 ---
 title: "Hierophant's Power"
+draft: true
 noteType: ":luggage:"
 aliases: "Hierophant's Power"
 foundryId: Item.2OucOdEzyc0cyUHW

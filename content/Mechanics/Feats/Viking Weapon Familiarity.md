@@ -1,5 +1,6 @@
 ---
 title: "Viking Weapon Familiarity"
+draft: true
 noteType: ":luggage:"
 aliases: "Viking Weapon Familiarity"
 foundryId: Item.HP7nmRvdK7eLg7Es

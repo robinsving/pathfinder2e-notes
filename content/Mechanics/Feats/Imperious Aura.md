@@ -1,5 +1,6 @@
 ---
 title: "Imperious Aura"
+draft: true
 noteType: ":luggage:"
 aliases: "Imperious Aura"
 foundryId: Item.hZzhVBfmHr0Ij7Kr

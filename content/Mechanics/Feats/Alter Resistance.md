@@ -1,5 +1,6 @@
 ---
 title: "Alter Resistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Alter Resistance"
 foundryId: Item.vfK6oVXPW79AZNgp

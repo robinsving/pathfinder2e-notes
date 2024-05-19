@@ -1,5 +1,6 @@
 ---
 title: "Energetic Resonance"
+draft: true
 noteType: ":luggage:"
 aliases: "Energetic Resonance"
 foundryId: Item.ydck2ACg0dwAZJM0

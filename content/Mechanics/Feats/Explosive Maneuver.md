@@ -1,5 +1,6 @@
 ---
 title: "Explosive Maneuver"
+draft: true
 noteType: ":luggage:"
 aliases: "Explosive Maneuver"
 foundryId: Item.raVufCs1WrWSlQqX

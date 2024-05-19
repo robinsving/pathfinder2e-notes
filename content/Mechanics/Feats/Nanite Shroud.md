@@ -1,5 +1,6 @@
 ---
 title: "Nanite Shroud"
+draft: true
 noteType: ":luggage:"
 aliases: "Nanite Shroud"
 foundryId: Item.DKc3v0FRkh1a8biB

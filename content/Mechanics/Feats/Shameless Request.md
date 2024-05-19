@@ -1,5 +1,6 @@
 ---
 title: "Shameless Request"
+draft: true
 noteType: ":luggage:"
 aliases: "Shameless Request"
 foundryId: Item.PSM3PvWvtbWalh7r

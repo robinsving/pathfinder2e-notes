@@ -1,5 +1,6 @@
 ---
 title: "Bear Empathy"
+draft: true
 noteType: ":luggage:"
 aliases: "Bear Empathy"
 foundryId: Item.GCPHXig0EUAOM6yz

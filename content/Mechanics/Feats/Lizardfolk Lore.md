@@ -1,5 +1,6 @@
 ---
 title: "Lizardfolk Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Lizardfolk Lore"
 foundryId: Item.4YaLj0FuyhsWt1oW

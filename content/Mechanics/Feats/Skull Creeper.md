@@ -1,5 +1,6 @@
 ---
 title: "Skull Creeper"
+draft: true
 noteType: ":luggage:"
 aliases: "Skull Creeper"
 foundryId: Item.dZhSQT5udAk7BU4A

@@ -1,5 +1,6 @@
 ---
 title: "Magic Sense (Magus)"
+draft: true
 noteType: ":luggage:"
 aliases: "Magic Sense (Magus)"
 foundryId: Item.jMp8C9TrFx7bxBO5

@@ -1,5 +1,6 @@
 ---
 title: "Shield of Faith"
+draft: true
 noteType: ":luggage:"
 aliases: "Shield of Faith"
 foundryId: Item.LNyudqEOoZvr7nPC

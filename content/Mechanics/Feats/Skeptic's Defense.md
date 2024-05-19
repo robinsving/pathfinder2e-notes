@@ -1,5 +1,6 @@
 ---
 title: "Skeptic's Defense"
+draft: true
 noteType: ":luggage:"
 aliases: "Skeptic's Defense"
 foundryId: Item.jTViI8adO6jhzEK2

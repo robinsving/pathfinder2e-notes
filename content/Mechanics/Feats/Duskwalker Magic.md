@@ -1,5 +1,6 @@
 ---
 title: "Duskwalker Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Duskwalker Magic"
 foundryId: Item.ECO518lRG7dOiZTG

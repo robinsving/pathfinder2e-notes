@@ -1,5 +1,6 @@
 ---
 title: "Call And Response"
+draft: true
 noteType: ":luggage:"
 aliases: "Call And Response"
 foundryId: Item.FJhKSdgeQaukO1e0

@@ -1,5 +1,6 @@
 ---
 title: "Mighty Dragon Shape"
+draft: true
 noteType: ":luggage:"
 aliases: "Mighty Dragon Shape"
 foundryId: Item.ZX8FWrfbE8Q2SFL4

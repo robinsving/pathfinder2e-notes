@@ -1,5 +1,6 @@
 ---
 title: "Frightful Moan"
+draft: true
 noteType: ":luggage:"
 aliases: "Frightful Moan"
 foundryId: Item.bf7rwM4RlfWSj0QH

@@ -1,5 +1,6 @@
 ---
 title: "Directed Poison"
+draft: true
 noteType: ":luggage:"
 aliases: "Directed Poison"
 foundryId: Item.eQSfMtZfzqP476nO

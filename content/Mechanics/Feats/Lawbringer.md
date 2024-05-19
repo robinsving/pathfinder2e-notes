@@ -1,5 +1,6 @@
 ---
 title: "Lawbringer"
+draft: true
 noteType: ":luggage:"
 aliases: "Lawbringer"
 foundryId: Item.cL8YGHu7qeBCEdOV

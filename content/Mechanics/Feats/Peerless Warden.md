@@ -1,5 +1,6 @@
 ---
 title: "Peerless Warden"
+draft: true
 noteType: ":luggage:"
 aliases: "Peerless Warden"
 foundryId: Item.a8zlJzq3VDfL5eMv

@@ -1,5 +1,6 @@
 ---
 title: "Diving Armor"
+draft: true
 noteType: ":luggage:"
 aliases: "Diving Armor"
 foundryId: Item.CCUjtaPtsth3KWbX

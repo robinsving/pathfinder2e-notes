@@ -1,5 +1,6 @@
 ---
 title: "Axuma's Vigor"
+draft: true
 noteType: ":luggage:"
 aliases: "Axuma's Vigor"
 foundryId: Item.SrpHtzRgOiiKRv5H

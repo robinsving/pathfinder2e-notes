@@ -1,5 +1,6 @@
 ---
 title: "Crawling Fire"
+draft: true
 noteType: ":luggage:"
 aliases: "Crawling Fire"
 foundryId: Item.ZYRsHPCEEyxcaoZq

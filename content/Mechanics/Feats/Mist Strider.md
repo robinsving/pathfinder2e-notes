@@ -1,5 +1,6 @@
 ---
 title: "Mist Strider"
+draft: true
 noteType: ":luggage:"
 aliases: "Mist Strider"
 foundryId: Item.Qh64cMlJVZIpBrpj

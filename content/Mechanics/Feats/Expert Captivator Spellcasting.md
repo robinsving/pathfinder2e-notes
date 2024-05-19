@@ -1,5 +1,6 @@
 ---
 title: "Expert Captivator Spellcasting"
+draft: true
 noteType: ":luggage:"
 aliases: "Expert Captivator Spellcasting"
 foundryId: Item.bcolSI9wcixh6YA8

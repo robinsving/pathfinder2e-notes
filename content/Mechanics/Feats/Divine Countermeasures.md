@@ -1,5 +1,6 @@
 ---
 title: "Divine Countermeasures"
+draft: true
 noteType: ":luggage:"
 aliases: "Divine Countermeasures"
 foundryId: Item.zgR7k0K1C94KxIuM

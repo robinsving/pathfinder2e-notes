@@ -1,5 +1,6 @@
 ---
 title: "Nagaji Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Nagaji Lore"
 foundryId: Item.KDnW8gfMJsxiTnTl

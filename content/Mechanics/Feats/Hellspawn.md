@@ -1,5 +1,6 @@
 ---
 title: "Hellspawn"
+draft: true
 noteType: ":luggage:"
 aliases: "Hellspawn"
 foundryId: Item.BcMSCsFL3WWkGDsJ

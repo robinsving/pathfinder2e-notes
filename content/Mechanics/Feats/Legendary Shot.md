@@ -1,5 +1,6 @@
 ---
 title: "Legendary Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Legendary Shot"
 foundryId: Item.hDJWoTxLUcegq2FT

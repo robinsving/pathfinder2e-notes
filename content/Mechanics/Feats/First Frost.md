@@ -1,5 +1,6 @@
 ---
 title: "First Frost"
+draft: true
 noteType: ":luggage:"
 aliases: "First Frost"
 foundryId: Item.oyVaH0qI5vYHQcpw

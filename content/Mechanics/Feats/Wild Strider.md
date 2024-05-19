@@ -1,5 +1,6 @@
 ---
 title: "Wild Strider"
+draft: true
 noteType: ":luggage:"
 aliases: "Wild Strider"
 foundryId: Item.UxKW9yvTv8lrnId7

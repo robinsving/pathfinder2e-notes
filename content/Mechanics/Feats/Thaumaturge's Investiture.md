@@ -1,5 +1,6 @@
 ---
 title: "Thaumaturge's Investiture"
+draft: true
 noteType: ":luggage:"
 aliases: "Thaumaturge's Investiture"
 foundryId: Item.5XelcXFVxVlBDEr8

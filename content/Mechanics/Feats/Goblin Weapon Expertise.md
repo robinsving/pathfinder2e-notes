@@ -1,5 +1,6 @@
 ---
 title: "Goblin Weapon Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Goblin Weapon Expertise"
 foundryId: Item.lloMNhMWXZsuPwgY

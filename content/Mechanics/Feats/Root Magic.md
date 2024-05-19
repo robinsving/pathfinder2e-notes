@@ -1,5 +1,6 @@
 ---
 title: "Root Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Root Magic"
 foundryId: Item.9uEga4tw6midMt0O

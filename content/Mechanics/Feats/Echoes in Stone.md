@@ -1,5 +1,6 @@
 ---
 title: "Echoes in Stone"
+draft: true
 noteType: ":luggage:"
 aliases: "Echoes in Stone"
 foundryId: Item.PvU0ySsn6QZsXNne

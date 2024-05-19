@@ -1,5 +1,6 @@
 ---
 title: "Blast Resistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Blast Resistance"
 foundryId: Item.25g5KW57KhSmpP3o

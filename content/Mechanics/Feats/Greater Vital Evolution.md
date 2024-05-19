@@ -1,5 +1,6 @@
 ---
 title: "Greater Vital Evolution"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Vital Evolution"
 foundryId: Item.QVpI99lcMPOGciF0

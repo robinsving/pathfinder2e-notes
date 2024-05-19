@@ -1,5 +1,6 @@
 ---
 title: "Shore Step"
+draft: true
 noteType: ":luggage:"
 aliases: "Shore Step"
 foundryId: Item.L10UqRDaZEjxhCQS

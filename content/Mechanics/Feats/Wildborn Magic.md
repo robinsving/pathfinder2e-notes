@@ -1,5 +1,6 @@
 ---
 title: "Wildborn Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Wildborn Magic"
 foundryId: Item.oRBw3eiLqtVP7P6X

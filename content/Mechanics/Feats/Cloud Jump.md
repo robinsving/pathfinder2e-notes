@@ -1,5 +1,6 @@
 ---
 title: "Cloud Jump"
+draft: true
 noteType: ":luggage:"
 aliases: "Cloud Jump"
 foundryId: Item.0VpcObjyw3B1jeDC

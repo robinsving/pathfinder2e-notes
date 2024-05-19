@@ -1,5 +1,6 @@
 ---
 title: "Bristle"
+draft: true
 noteType: ":luggage:"
 aliases: "Bristle"
 foundryId: Item.K440mHpfVUnYe9f1

@@ -1,5 +1,6 @@
 ---
 title: "Irrepressible (Halfling)"
+draft: true
 noteType: ":luggage:"
 aliases: "Irrepressible (Halfling)"
 foundryId: Item.63DBFVnBFO4vtTyq

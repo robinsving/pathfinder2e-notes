@@ -1,5 +1,6 @@
 ---
 title: "Pass Through"
+draft: true
 noteType: ":luggage:"
 aliases: "Pass Through"
 foundryId: Item.KXTPAuIlng9yO4VW

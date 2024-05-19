@@ -1,5 +1,6 @@
 ---
 title: "Slag May"
+draft: true
 noteType: ":luggage:"
 aliases: "Slag May"
 foundryId: Item.IJyspzvv8nVxDj5U

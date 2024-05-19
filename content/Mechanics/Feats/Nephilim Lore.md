@@ -1,5 +1,6 @@
 ---
 title: "Nephilim Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Nephilim Lore"
 foundryId: Item.czj2uLhJaD2otiCu

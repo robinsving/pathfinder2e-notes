@@ -1,5 +1,6 @@
 ---
 title: "Advanced Revelation"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Revelation"
 foundryId: Item.MaikAWIB3C02Zfg3

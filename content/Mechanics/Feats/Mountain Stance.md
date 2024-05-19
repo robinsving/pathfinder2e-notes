@@ -1,5 +1,6 @@
 ---
 title: "Mountain Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Mountain Stance"
 foundryId: Item.pYt2KXfuaatbNQLs

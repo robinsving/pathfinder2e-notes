@@ -1,5 +1,6 @@
 ---
 title: "Breached Defenses"
+draft: true
 noteType: ":luggage:"
 aliases: "Breached Defenses"
 foundryId: Item.fPCgnr4dbYSYvngv

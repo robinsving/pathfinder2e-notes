@@ -1,5 +1,6 @@
 ---
 title: "Enduring Debilitation"
+draft: true
 noteType: ":luggage:"
 aliases: "Enduring Debilitation"
 foundryId: Item.2M6U7QSv6Tku4ofc

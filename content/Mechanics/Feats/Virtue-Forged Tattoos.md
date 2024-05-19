@@ -1,5 +1,6 @@
 ---
 title: "Virtue-Forged Tattoos"
+draft: true
 noteType: ":luggage:"
 aliases: "Virtue-Forged Tattoos"
 foundryId: Item.rbpIiKZcmWVvxHlv

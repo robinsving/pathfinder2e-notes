@@ -1,5 +1,6 @@
 ---
 title: "Patron's Truth"
+draft: true
 noteType: ":luggage:"
 aliases: "Patron's Truth"
 foundryId: Item.kMJjacqOJuCoLt2r

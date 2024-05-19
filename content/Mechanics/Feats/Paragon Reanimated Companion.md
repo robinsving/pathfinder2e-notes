@@ -1,5 +1,6 @@
 ---
 title: "Paragon Reanimated Companion"
+draft: true
 noteType: ":luggage:"
 aliases: "Paragon Reanimated Companion"
 foundryId: Item.YhxzCN6EFTwY9iBO

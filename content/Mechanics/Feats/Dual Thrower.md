@@ -1,5 +1,6 @@
 ---
 title: "Dual Thrower"
+draft: true
 noteType: ":luggage:"
 aliases: "Dual Thrower"
 foundryId: Item.XNR5QgBkJllbv7Fg

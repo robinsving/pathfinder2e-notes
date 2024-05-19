@@ -1,5 +1,6 @@
 ---
 title: "Reverberating Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Reverberating Spell"
 foundryId: Item.BHqOWUrhEAgGGRvp

@@ -1,5 +1,6 @@
 ---
 title: "Wind God's Fan"
+draft: true
 noteType: ":luggage:"
 aliases: "Wind God's Fan"
 foundryId: Item.diiMmcAGiOvELHVp

@@ -1,5 +1,6 @@
 ---
 title: "Shooting Stars Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Shooting Stars Stance"
 foundryId: Item.jDW87AL0Mv2KH8z5

@@ -1,5 +1,6 @@
 ---
 title: "Warden's Boon"
+draft: true
 noteType: ":luggage:"
 aliases: "Warden's Boon"
 foundryId: Item.bvjJXBAoL4B7hT13

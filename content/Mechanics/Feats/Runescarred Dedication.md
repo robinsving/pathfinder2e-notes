@@ -1,5 +1,6 @@
 ---
 title: "Runescarred Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Runescarred Dedication"
 foundryId: Item.Fl1ISU0DIdHAvOo1

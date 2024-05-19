@@ -1,5 +1,6 @@
 ---
 title: "Necromancer's Visage"
+draft: true
 noteType: ":luggage:"
 aliases: "Necromancer's Visage"
 foundryId: Item.5npgAKZc8YCxiMtZ

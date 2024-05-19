@@ -1,5 +1,6 @@
 ---
 title: "Trickster's Ace"
+draft: true
 noteType: ":luggage:"
 aliases: "Trickster's Ace"
 foundryId: Item.O6aMmMeGbyQCyXCT

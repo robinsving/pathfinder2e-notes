@@ -1,5 +1,6 @@
 ---
 title: "Farabellus Flip"
+draft: true
 noteType: ":luggage:"
 aliases: "Farabellus Flip"
 foundryId: Item.nC7tn2ddyNNiCiYi

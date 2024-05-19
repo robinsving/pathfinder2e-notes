@@ -1,5 +1,6 @@
 ---
 title: "Deadly Butterfly"
+draft: true
 noteType: ":luggage:"
 aliases: "Deadly Butterfly"
 foundryId: Item.Z2Tlb5Jwpxmdr3oI

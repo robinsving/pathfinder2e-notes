@@ -1,5 +1,6 @@
 ---
 title: "Uncanny Awareness"
+draft: true
 noteType: ":luggage:"
 aliases: "Uncanny Awareness"
 foundryId: Item.GZLrAZz0qYNeCFfM

@@ -1,5 +1,6 @@
 ---
 title: "Share Burden"
+draft: true
 noteType: ":luggage:"
 aliases: "Share Burden"
 foundryId: Item.IhbgO9gKLDwBYF6c

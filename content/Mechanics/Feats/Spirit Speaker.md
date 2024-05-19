@@ -1,5 +1,6 @@
 ---
 title: "Spirit Speaker"
+draft: true
 noteType: ":luggage:"
 aliases: "Spirit Speaker"
 foundryId: Item.Tt10vdSrYvUr897T

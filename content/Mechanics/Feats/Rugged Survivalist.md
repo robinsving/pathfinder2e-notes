@@ -1,5 +1,6 @@
 ---
 title: "Rugged Survivalist"
+draft: true
 noteType: ":luggage:"
 aliases: "Rugged Survivalist"
 foundryId: Item.UYWuabV7a9kByi07

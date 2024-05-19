@@ -1,5 +1,6 @@
 ---
 title: "Underhanded Assault"
+draft: true
 noteType: ":luggage:"
 aliases: "Underhanded Assault"
 foundryId: Item.rZtrTJbVMlnGXKQ6

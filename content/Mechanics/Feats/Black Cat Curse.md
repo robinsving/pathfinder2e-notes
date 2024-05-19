@@ -1,5 +1,6 @@
 ---
 title: "Black Cat Curse"
+draft: true
 noteType: ":luggage:"
 aliases: "Black Cat Curse"
 foundryId: Item.dJOjl9KzjBbm5aV1

@@ -1,5 +1,6 @@
 ---
 title: "Two-Weapon Fusillade"
+draft: true
 noteType: ":luggage:"
 aliases: "Two-Weapon Fusillade"
 foundryId: Item.IpCNlVGKPYrB2kUR

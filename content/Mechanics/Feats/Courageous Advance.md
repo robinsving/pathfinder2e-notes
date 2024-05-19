@@ -1,5 +1,6 @@
 ---
 title: "Courageous Advance"
+draft: true
 noteType: ":luggage:"
 aliases: "Courageous Advance"
 foundryId: Item.Uk7DWOy7lafDOnfk

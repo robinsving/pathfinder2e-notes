@@ -1,5 +1,6 @@
 ---
 title: "Greater Mental Evolution"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Mental Evolution"
 foundryId: Item.GvcHEK75T9Ai9xpB

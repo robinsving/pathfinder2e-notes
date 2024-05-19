@@ -1,5 +1,6 @@
 ---
 title: "Elude the Divine"
+draft: true
 noteType: ":luggage:"
 aliases: "Elude the Divine"
 foundryId: Item.R8LrXghLr4bBg2kw

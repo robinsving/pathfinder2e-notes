@@ -1,5 +1,6 @@
 ---
 title: "Pickpocket"
+draft: true
 noteType: ":luggage:"
 aliases: "Pickpocket"
 foundryId: Item.AFk9QZHOHMPs4Q0n

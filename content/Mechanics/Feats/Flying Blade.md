@@ -1,5 +1,6 @@
 ---
 title: "Flying Blade"
+draft: true
 noteType: ":luggage:"
 aliases: "Flying Blade"
 foundryId: Item.RBnDmPZUxjKclgjK

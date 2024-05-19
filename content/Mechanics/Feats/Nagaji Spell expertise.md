@@ -1,5 +1,6 @@
 ---
 title: "Nagaji Spell expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Nagaji Spell expertise"
 foundryId: Item.YbPTooFMQoqMfrLq

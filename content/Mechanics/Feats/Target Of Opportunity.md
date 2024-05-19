@@ -1,5 +1,6 @@
 ---
 title: "Target Of Opportunity"
+draft: true
 noteType: ":luggage:"
 aliases: "Target Of Opportunity"
 foundryId: Item.T8Peryj5EryR4P9f

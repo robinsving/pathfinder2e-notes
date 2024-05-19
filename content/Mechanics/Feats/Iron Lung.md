@@ -1,5 +1,6 @@
 ---
 title: "Iron Lung"
+draft: true
 noteType: ":luggage:"
 aliases: "Iron Lung"
 foundryId: Item.K5AUvgQrW2c1VzNz

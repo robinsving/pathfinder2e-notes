@@ -1,5 +1,6 @@
 ---
 title: "Dashing Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Dashing Strike"
 foundryId: Item.1S84LDgn5od6vOzZ

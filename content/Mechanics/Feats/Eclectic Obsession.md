@@ -1,5 +1,6 @@
 ---
 title: "Eclectic Obsession"
+draft: true
 noteType: ":luggage:"
 aliases: "Eclectic Obsession"
 foundryId: Item.rabsjP48JCaytVN7

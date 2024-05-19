@@ -1,5 +1,6 @@
 ---
 title: "Guided Skill"
+draft: true
 noteType: ":luggage:"
 aliases: "Guided Skill"
 foundryId: Item.sQtcrgg7mEHf6hBB

@@ -1,5 +1,6 @@
 ---
 title: "Beneath Notice"
+draft: true
 noteType: ":luggage:"
 aliases: "Beneath Notice"
 foundryId: Item.FMiF8KrVOmIWi7ZX

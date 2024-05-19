@@ -1,5 +1,6 @@
 ---
 title: "Physical Training"
+draft: true
 noteType: ":luggage:"
 aliases: "Physical Training"
 foundryId: Item.a5OePgtRavYvPEMr

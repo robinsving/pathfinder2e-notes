@@ -1,5 +1,6 @@
 ---
 title: "Ghosts in the Storm"
+draft: true
 noteType: ":luggage:"
 aliases: "Ghosts in the Storm"
 foundryId: Item.ocdPwaHOeZum8i3w

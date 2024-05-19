@@ -1,5 +1,6 @@
 ---
 title: "Striking Retribution"
+draft: true
 noteType: ":luggage:"
 aliases: "Striking Retribution"
 foundryId: Item.2wWR2PD77WBOJggG

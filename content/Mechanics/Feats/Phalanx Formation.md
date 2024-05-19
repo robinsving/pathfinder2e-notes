@@ -1,5 +1,6 @@
 ---
 title: "Phalanx Formation"
+draft: true
 noteType: ":luggage:"
 aliases: "Phalanx Formation"
 foundryId: Item.YDuhJNAHCVpSSouY

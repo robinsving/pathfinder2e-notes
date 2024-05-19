@@ -1,5 +1,6 @@
 ---
 title: "Effortless Impulse"
+draft: true
 noteType: ":luggage:"
 aliases: "Effortless Impulse"
 foundryId: Item.uDakZphfPNvZsJ7Z

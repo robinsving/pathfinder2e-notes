@@ -1,5 +1,6 @@
 ---
 title: "Countercharm"
+draft: true
 noteType: ":luggage:"
 aliases: "Countercharm"
 foundryId: Item.DFJO7yA4Lz2W893v

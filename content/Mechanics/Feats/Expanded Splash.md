@@ -1,5 +1,6 @@
 ---
 title: "Expanded Splash"
+draft: true
 noteType: ":luggage:"
 aliases: "Expanded Splash"
 foundryId: Item.loMP9bqtRbR6fNTz

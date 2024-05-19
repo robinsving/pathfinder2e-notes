@@ -1,5 +1,6 @@
 ---
 title: "Elemental Shape"
+draft: true
 noteType: ":luggage:"
 aliases: "Elemental Shape"
 foundryId: Item.1YFMUojBtxnzG5AJ

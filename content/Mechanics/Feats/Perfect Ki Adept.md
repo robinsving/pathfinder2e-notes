@@ -1,5 +1,6 @@
 ---
 title: "Perfect Ki Adept"
+draft: true
 noteType: ":luggage:"
 aliases: "Perfect Ki Adept"
 foundryId: Item.rPVI73xaYg4dpe5j

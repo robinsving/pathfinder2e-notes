@@ -1,5 +1,6 @@
 ---
 title: "Distracting Performance"
+draft: true
 noteType: ":luggage:"
 aliases: "Distracting Performance"
 foundryId: Item.2g8bKYZfaGwtMJMq

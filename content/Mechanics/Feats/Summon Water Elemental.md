@@ -1,5 +1,6 @@
 ---
 title: "Summon Water Elemental"
+draft: true
 noteType: ":luggage:"
 aliases: "Summon Water Elemental"
 foundryId: Item.ffRoLpdg3fMdgI1Z

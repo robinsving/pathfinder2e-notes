@@ -1,5 +1,6 @@
 ---
 title: "Reverse Curse"
+draft: true
 noteType: ":luggage:"
 aliases: "Reverse Curse"
 foundryId: Item.QRTMcFyOYfzrqJLZ

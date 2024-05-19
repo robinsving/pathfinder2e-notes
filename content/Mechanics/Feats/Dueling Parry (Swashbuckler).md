@@ -1,5 +1,6 @@
 ---
 title: "Dueling Parry (Swashbuckler)"
+draft: true
 noteType: ":luggage:"
 aliases: "Dueling Parry (Swashbuckler)"
 foundryId: Item.2wPqjzt8aJohTqgH

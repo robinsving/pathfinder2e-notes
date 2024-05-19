@@ -1,5 +1,6 @@
 ---
 title: "Quick Snares"
+draft: true
 noteType: ":luggage:"
 aliases: "Quick Snares"
 foundryId: Item.PoYJGXj2VHKFnvWb

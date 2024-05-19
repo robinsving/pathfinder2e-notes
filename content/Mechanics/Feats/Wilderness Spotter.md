@@ -1,5 +1,6 @@
 ---
 title: "Wilderness Spotter"
+draft: true
 noteType: ":luggage:"
 aliases: "Wilderness Spotter"
 foundryId: Item.YR4dQfZkv2OzXsbi

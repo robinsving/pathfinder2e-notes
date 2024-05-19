@@ -1,5 +1,6 @@
 ---
 title: "Abundant Step"
+draft: true
 noteType: ":luggage:"
 aliases: "Abundant Step"
 foundryId: Item.JA6ulCYsNkPaQNhk

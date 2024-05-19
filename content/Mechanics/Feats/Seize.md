@@ -1,5 +1,6 @@
 ---
 title: "Seize"
+draft: true
 noteType: ":luggage:"
 aliases: "Seize"
 foundryId: Item.cfrO3e1JJxFlqfFA

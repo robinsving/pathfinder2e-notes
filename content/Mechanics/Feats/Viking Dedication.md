@@ -1,5 +1,6 @@
 ---
 title: "Viking Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Viking Dedication"
 foundryId: Item.oDFngKHMtkp4EWME

@@ -1,5 +1,6 @@
 ---
 title: "Sever Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Sever Magic"
 foundryId: Item.bvGmueNwlDkKDmxv

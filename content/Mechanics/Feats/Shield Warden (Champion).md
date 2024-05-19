@@ -1,5 +1,6 @@
 ---
 title: "Shield Warden (Champion)"
+draft: true
 noteType: ":luggage:"
 aliases: "Shield Warden (Champion)"
 foundryId: Item.4zTLL1q3rjV29Wl9

@@ -1,5 +1,6 @@
 ---
 title: "Iruxi Glide"
+draft: true
 noteType: ":luggage:"
 aliases: "Iruxi Glide"
 foundryId: Item.PWZuJZMr25VNuW2F

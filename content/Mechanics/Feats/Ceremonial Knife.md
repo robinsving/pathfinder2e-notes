@@ -1,5 +1,6 @@
 ---
 title: "Ceremonial Knife"
+draft: true
 noteType: ":luggage:"
 aliases: "Ceremonial Knife"
 foundryId: Item.SJ1USZMuZEed7hRA

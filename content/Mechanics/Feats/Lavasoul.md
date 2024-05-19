@@ -1,5 +1,6 @@
 ---
 title: "Lavasoul"
+draft: true
 noteType: ":luggage:"
 aliases: "Lavasoul"
 foundryId: Item.bvDyTLr714SxSZeV

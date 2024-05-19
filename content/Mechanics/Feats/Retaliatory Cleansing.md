@@ -1,5 +1,6 @@
 ---
 title: "Retaliatory Cleansing"
+draft: true
 noteType: ":luggage:"
 aliases: "Retaliatory Cleansing"
 foundryId: Item.ItqBB2GVRDG6WubX

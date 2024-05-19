@@ -1,5 +1,6 @@
 ---
 title: "Melodious Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Melodious Spell"
 foundryId: Item.eLVjHbvz2Ep58bIm

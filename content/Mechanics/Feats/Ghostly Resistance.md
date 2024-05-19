@@ -1,5 +1,6 @@
 ---
 title: "Ghostly Resistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Ghostly Resistance"
 foundryId: Item.9gZJYxGeQBEpSQRt

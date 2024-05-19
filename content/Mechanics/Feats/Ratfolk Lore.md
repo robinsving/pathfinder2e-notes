@@ -1,5 +1,6 @@
 ---
 title: "Ratfolk Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Ratfolk Lore"
 foundryId: Item.N4rlKRcZXxIWg5FC

@@ -1,5 +1,6 @@
 ---
 title: "Necromantic Deflection"
+draft: true
 noteType: ":luggage:"
 aliases: "Necromantic Deflection"
 foundryId: Item.mlGkyl2TCKiwmWLL

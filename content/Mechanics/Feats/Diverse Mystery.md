@@ -1,5 +1,6 @@
 ---
 title: "Diverse Mystery"
+draft: true
 noteType: ":luggage:"
 aliases: "Diverse Mystery"
 foundryId: Item.VLZvfGsB2jdTJ1sg

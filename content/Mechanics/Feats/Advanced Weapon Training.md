@@ -1,5 +1,6 @@
 ---
 title: "Advanced Weapon Training"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Weapon Training"
 foundryId: Item.vTLp4LAS2H1V3o6i

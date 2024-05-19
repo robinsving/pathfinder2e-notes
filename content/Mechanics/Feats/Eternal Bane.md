@@ -1,5 +1,6 @@
 ---
 title: "Eternal Bane"
+draft: true
 noteType: ":luggage:"
 aliases: "Eternal Bane"
 foundryId: Item.JoxV77GQbBGkyTl2

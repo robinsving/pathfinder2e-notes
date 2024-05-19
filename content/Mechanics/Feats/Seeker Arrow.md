@@ -1,5 +1,6 @@
 ---
 title: "Seeker Arrow"
+draft: true
 noteType: ":luggage:"
 aliases: "Seeker Arrow"
 foundryId: Item.k2Im81xE7TN2Y9Fh

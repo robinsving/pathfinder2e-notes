@@ -1,5 +1,6 @@
 ---
 title: "Spell Shroud"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Shroud"
 foundryId: Item.5GjCMojpSVSx6MZz

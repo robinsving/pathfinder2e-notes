@@ -1,5 +1,6 @@
 ---
 title: "Gnoll Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Gnoll Lore"
 foundryId: Item.jR7bJ4R899YICaWn

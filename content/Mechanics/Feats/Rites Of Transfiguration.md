@@ -1,5 +1,6 @@
 ---
 title: "Rites Of Transfiguration"
+draft: true
 noteType: ":luggage:"
 aliases: "Rites Of Transfiguration"
 foundryId: Item.IWJRuNWZGj5k6LV7

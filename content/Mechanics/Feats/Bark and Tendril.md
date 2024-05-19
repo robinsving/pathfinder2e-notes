@@ -1,5 +1,6 @@
 ---
 title: "Bark and Tendril"
+draft: true
 noteType: ":luggage:"
 aliases: "Bark and Tendril"
 foundryId: Item.lFlUPZs8AJ1A62J5

@@ -1,5 +1,6 @@
 ---
 title: "Cleansing Subroutine"
+draft: true
 noteType: ":luggage:"
 aliases: "Cleansing Subroutine"
 foundryId: Item.ndirs1I1hNO2b7dD

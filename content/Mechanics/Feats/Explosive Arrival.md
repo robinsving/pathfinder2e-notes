@@ -1,5 +1,6 @@
 ---
 title: "Explosive Arrival"
+draft: true
 noteType: ":luggage:"
 aliases: "Explosive Arrival"
 foundryId: Item.h7FyeMHPtDugEosP

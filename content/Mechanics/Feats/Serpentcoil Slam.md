@@ -1,5 +1,6 @@
 ---
 title: "Serpentcoil Slam"
+draft: true
 noteType: ":luggage:"
 aliases: "Serpentcoil Slam"
 foundryId: Item.VoYgr0xBiKrcndM5

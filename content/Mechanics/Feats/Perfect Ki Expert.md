@@ -1,5 +1,6 @@
 ---
 title: "Perfect Ki Expert"
+draft: true
 noteType: ":luggage:"
 aliases: "Perfect Ki Expert"
 foundryId: Item.Pt24CWrBg9x95MKO

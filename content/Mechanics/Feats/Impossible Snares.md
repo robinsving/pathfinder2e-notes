@@ -1,5 +1,6 @@
 ---
 title: "Impossible Snares"
+draft: true
 noteType: ":luggage:"
 aliases: "Impossible Snares"
 foundryId: Item.NXVPzFKOk130rn4W

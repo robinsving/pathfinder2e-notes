@@ -1,5 +1,6 @@
 ---
 title: "Oracular Providence"
+draft: true
 noteType: ":luggage:"
 aliases: "Oracular Providence"
 foundryId: Item.V4S12yJJrM0uujuH

@@ -1,5 +1,6 @@
 ---
 title: "Slip The Grasp"
+draft: true
 noteType: ":luggage:"
 aliases: "Slip The Grasp"
 foundryId: Item.NqMwfxBWELBg1FRu

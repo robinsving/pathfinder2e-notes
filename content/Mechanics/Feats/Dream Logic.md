@@ -1,5 +1,6 @@
 ---
 title: "Dream Logic"
+draft: true
 noteType: ":luggage:"
 aliases: "Dream Logic"
 foundryId: Item.uuw0Yqh4slbjgShB

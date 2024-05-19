@@ -1,5 +1,6 @@
 ---
 title: "Bloody Blows"
+draft: true
 noteType: ":luggage:"
 aliases: "Bloody Blows"
 foundryId: Item.CCxNPOQ0L6ynrfcg

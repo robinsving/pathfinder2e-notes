@@ -1,5 +1,6 @@
 ---
 title: "Undaunted"
+draft: true
 noteType: ":luggage:"
 aliases: "Undaunted"
 foundryId: Item.afjtHrkeHxuP6MNT

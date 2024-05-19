@@ -1,5 +1,6 @@
 ---
 title: "Well-Armed"
+draft: true
 noteType: ":luggage:"
 aliases: "Well-Armed"
 foundryId: Item.yZnlRzUCrWNIcB9P

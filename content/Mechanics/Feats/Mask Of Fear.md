@@ -1,5 +1,6 @@
 ---
 title: "Mask Of Fear"
+draft: true
 noteType: ":luggage:"
 aliases: "Mask Of Fear"
 foundryId: Item.TYWQaPZtbEarBMY5

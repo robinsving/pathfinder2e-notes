@@ -1,5 +1,6 @@
 ---
 title: "Snap Out Of It! (Marshal)"
+draft: true
 noteType: ":luggage:"
 aliases: "Snap Out Of It! (Marshal)"
 foundryId: Item.XjCfLrJzbCGuE8bZ

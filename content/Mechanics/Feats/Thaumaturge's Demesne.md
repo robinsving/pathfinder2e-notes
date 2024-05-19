@@ -1,5 +1,6 @@
 ---
 title: "Thaumaturge's Demesne"
+draft: true
 noteType: ":luggage:"
 aliases: "Thaumaturge's Demesne"
 foundryId: Item.MYNLvxPqjBJrWy1Z

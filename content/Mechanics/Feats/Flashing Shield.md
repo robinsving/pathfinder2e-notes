@@ -1,5 +1,6 @@
 ---
 title: "Flashing Shield"
+draft: true
 noteType: ":luggage:"
 aliases: "Flashing Shield"
 foundryId: Item.Pv06F5nPCbEAveRT

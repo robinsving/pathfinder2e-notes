@@ -1,5 +1,6 @@
 ---
 title: "Shared Dream"
+draft: true
 noteType: ":luggage:"
 aliases: "Shared Dream"
 foundryId: Item.ivcLuQyoCCCtMgWi

@@ -1,5 +1,6 @@
 ---
 title: "Shadow of the Wilds"
+draft: true
 noteType: ":luggage:"
 aliases: "Shadow of the Wilds"
 foundryId: Item.ITp2FARP3Vi29TU4

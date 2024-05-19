@@ -1,5 +1,6 @@
 ---
 title: "Reliable Squire"
+draft: true
 noteType: ":luggage:"
 aliases: "Reliable Squire"
 foundryId: Item.p8WmKJIA3sZp284r

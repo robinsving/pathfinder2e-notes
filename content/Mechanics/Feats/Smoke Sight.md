@@ -1,5 +1,6 @@
 ---
 title: "Smoke Sight"
+draft: true
 noteType: ":luggage:"
 aliases: "Smoke Sight"
 foundryId: Item.SgxYoyYSMGAQ1SBi

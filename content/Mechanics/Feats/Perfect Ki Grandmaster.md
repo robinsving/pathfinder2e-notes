@@ -1,5 +1,6 @@
 ---
 title: "Perfect Ki Grandmaster"
+draft: true
 noteType: ":luggage:"
 aliases: "Perfect Ki Grandmaster"
 foundryId: Item.44LNsAnzQokETnJ4

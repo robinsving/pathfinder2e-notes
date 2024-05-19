@@ -1,5 +1,6 @@
 ---
 title: "Resounding Finale"
+draft: true
 noteType: ":luggage:"
 aliases: "Resounding Finale"
 foundryId: Item.HQ5P0BalgNUwgF1U

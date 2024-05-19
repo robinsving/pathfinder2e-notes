@@ -1,5 +1,6 @@
 ---
 title: "Blessed Blood (Nephilim)"
+draft: true
 noteType: ":luggage:"
 aliases: "Blessed Blood (Nephilim)"
 foundryId: Item.oqNvt5Ou3TmRGqnM

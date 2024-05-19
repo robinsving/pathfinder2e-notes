@@ -1,5 +1,6 @@
 ---
 title: "Agonizing Rebuke"
+draft: true
 noteType: ":luggage:"
 aliases: "Agonizing Rebuke"
 foundryId: Item.KFGW1sXW0i11Sqb8

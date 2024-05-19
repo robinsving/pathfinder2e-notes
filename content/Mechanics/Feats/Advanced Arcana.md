@@ -1,5 +1,6 @@
 ---
 title: "Advanced Arcana"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Arcana"
 foundryId: Item.2QyrQVKoxWPcGyOf

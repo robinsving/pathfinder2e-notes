@@ -1,5 +1,6 @@
 ---
 title: "Merciful Elixir"
+draft: true
 noteType: ":luggage:"
 aliases: "Merciful Elixir"
 foundryId: Item.kUxxQ9RjkuRKm5F8

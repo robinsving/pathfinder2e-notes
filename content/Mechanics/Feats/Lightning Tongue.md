@@ -1,5 +1,6 @@
 ---
 title: "Lightning Tongue"
+draft: true
 noteType: ":luggage:"
 aliases: "Lightning Tongue"
 foundryId: Item.XVfXVpp1J0DWJ1uU

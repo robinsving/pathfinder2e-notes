@@ -1,5 +1,6 @@
 ---
 title: "Favorable Winds"
+draft: true
 noteType: ":luggage:"
 aliases: "Favorable Winds"
 foundryId: Item.988fzd1QS9SQCcmG

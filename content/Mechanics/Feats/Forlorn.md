@@ -1,5 +1,6 @@
 ---
 title: "Forlorn"
+draft: true
 noteType: ":luggage:"
 aliases: "Forlorn"
 foundryId: Item.5gE87dV8PiFnXAHL

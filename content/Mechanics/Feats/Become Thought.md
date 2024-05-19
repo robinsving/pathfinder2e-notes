@@ -1,5 +1,6 @@
 ---
 title: "Become Thought"
+draft: true
 noteType: ":luggage:"
 aliases: "Become Thought"
 foundryId: Item.yz7D9VdIOJqIEJYT

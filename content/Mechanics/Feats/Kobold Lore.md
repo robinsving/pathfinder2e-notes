@@ -1,5 +1,6 @@
 ---
 title: "Kobold Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Kobold Lore"
 foundryId: Item.S1i3AQpStytFpMKc

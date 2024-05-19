@@ -1,5 +1,6 @@
 ---
 title: "Butterfly's Sting"
+draft: true
 noteType: ":luggage:"
 aliases: "Butterfly's Sting"
 foundryId: Item.ZTo3C18ISwnx4z3v

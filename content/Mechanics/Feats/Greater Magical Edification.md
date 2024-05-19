@@ -1,5 +1,6 @@
 ---
 title: "Greater Magical Edification"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Magical Edification"
 foundryId: Item.eb9hlMeVkXwe88pO

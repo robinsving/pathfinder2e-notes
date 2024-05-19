@@ -1,5 +1,6 @@
 ---
 title: "Knight in Shining Armor"
+draft: true
 noteType: ":luggage:"
 aliases: "Knight in Shining Armor"
 foundryId: Item.PudQFeH3dQZeCUFV

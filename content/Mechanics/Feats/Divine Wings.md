@@ -1,5 +1,6 @@
 ---
 title: "Divine Wings"
+draft: true
 noteType: ":luggage:"
 aliases: "Divine Wings"
 foundryId: Item.9xuOPmjDoGtNbmsz

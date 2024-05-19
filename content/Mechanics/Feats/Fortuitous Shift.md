@@ -1,5 +1,6 @@
 ---
 title: "Fortuitous Shift"
+draft: true
 noteType: ":luggage:"
 aliases: "Fortuitous Shift"
 foundryId: Item.0TUZ71H2aduHGjv4

@@ -1,5 +1,6 @@
 ---
 title: "Helt's Spelldance"
+draft: true
 noteType: ":luggage:"
 aliases: "Helt's Spelldance"
 foundryId: Item.crTsVYO85j7nDK9H

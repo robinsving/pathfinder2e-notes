@@ -1,5 +1,6 @@
 ---
 title: "Fortified Flesh"
+draft: true
 noteType: ":luggage:"
 aliases: "Fortified Flesh"
 foundryId: Item.8dxBhtsNSYRRKa4K

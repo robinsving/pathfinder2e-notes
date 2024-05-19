@@ -1,5 +1,6 @@
 ---
 title: "Night's Warning"
+draft: true
 noteType: ":luggage:"
 aliases: "Night's Warning"
 foundryId: Item.TwvMw7k3C5sagPqi

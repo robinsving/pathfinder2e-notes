@@ -1,5 +1,6 @@
 ---
 title: "Group Aid"
+draft: true
 noteType: ":luggage:"
 aliases: "Group Aid"
 foundryId: Item.NFszQ6r8BVvhhlNX

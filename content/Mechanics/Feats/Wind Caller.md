@@ -1,5 +1,6 @@
 ---
 title: "Wind Caller"
+draft: true
 noteType: ":luggage:"
 aliases: "Wind Caller"
 foundryId: Item.c3Ij45PCsRugRHeb

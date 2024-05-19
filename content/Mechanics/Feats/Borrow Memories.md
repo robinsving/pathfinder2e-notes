@@ -1,5 +1,6 @@
 ---
 title: "Borrow Memories"
+draft: true
 noteType: ":luggage:"
 aliases: "Borrow Memories"
 foundryId: Item.qkXrdBFD1I3FS8Qi

@@ -1,5 +1,6 @@
 ---
 title: "Marshal Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Marshal Dedication"
 foundryId: Item.eWvhEzejgrJjmFO7

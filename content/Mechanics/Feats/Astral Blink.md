@@ -1,5 +1,6 @@
 ---
 title: "Astral Blink"
+draft: true
 noteType: ":luggage:"
 aliases: "Astral Blink"
 foundryId: Item.tFqBFUrOaygjVjoI

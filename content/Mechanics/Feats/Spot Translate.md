@@ -1,5 +1,6 @@
 ---
 title: "Spot Translate"
+draft: true
 noteType: ":luggage:"
 aliases: "Spot Translate"
 foundryId: Item.a4HAsHkXm3vKeP7N

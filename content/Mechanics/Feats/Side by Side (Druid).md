@@ -1,5 +1,6 @@
 ---
 title: "Side by Side (Druid)"
+draft: true
 noteType: ":luggage:"
 aliases: "Side by Side (Druid)"
 foundryId: Item.rVgbsVc2orC8thJ8

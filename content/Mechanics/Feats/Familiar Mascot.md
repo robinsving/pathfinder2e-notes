@@ -1,5 +1,6 @@
 ---
 title: "Familiar Mascot"
+draft: true
 noteType: ":luggage:"
 aliases: "Familiar Mascot"
 foundryId: Item.P31yHWfCjSQJfBdq

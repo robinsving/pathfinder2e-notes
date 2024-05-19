@@ -1,5 +1,6 @@
 ---
 title: "Spirit Familiar"
+draft: true
 noteType: ":luggage:"
 aliases: "Spirit Familiar"
 foundryId: Item.ZQWWai7ihhcTAWTD

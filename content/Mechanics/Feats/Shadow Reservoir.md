@@ -1,5 +1,6 @@
 ---
 title: "Shadow Reservoir"
+draft: true
 noteType: ":luggage:"
 aliases: "Shadow Reservoir"
 foundryId: Item.Xaf87j28FeJm2Tyw

@@ -1,5 +1,6 @@
 ---
 title: "Shepherd of Desolation"
+draft: true
 noteType: ":luggage:"
 aliases: "Shepherd of Desolation"
 foundryId: Item.jfFTFNlqCUg7szlM

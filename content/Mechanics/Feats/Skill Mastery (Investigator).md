@@ -1,5 +1,6 @@
 ---
 title: "Skill Mastery (Investigator)"
+draft: true
 noteType: ":luggage:"
 aliases: "Skill Mastery (Investigator)"
 foundryId: Item.JAF1f2nx7EnXgiGL

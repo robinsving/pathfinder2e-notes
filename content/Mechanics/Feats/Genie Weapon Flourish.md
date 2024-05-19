@@ -1,5 +1,6 @@
 ---
 title: "Genie Weapon Flourish"
+draft: true
 noteType: ":luggage:"
 aliases: "Genie Weapon Flourish"
 foundryId: Item.frbKCYG0kMUoaIN5

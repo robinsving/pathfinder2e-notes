@@ -1,5 +1,6 @@
 ---
 title: "Spore Cloud"
+draft: true
 noteType: ":luggage:"
 aliases: "Spore Cloud"
 foundryId: Item.HMb6X1AoVaTWW3vI

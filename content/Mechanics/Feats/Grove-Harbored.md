@@ -1,5 +1,6 @@
 ---
 title: "Grove-Harbored"
+draft: true
 noteType: ":luggage:"
 aliases: "Grove-Harbored"
 foundryId: Item.VE8H9hofcJtwTqlY

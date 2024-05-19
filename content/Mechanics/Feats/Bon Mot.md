@@ -1,5 +1,6 @@
 ---
 title: "Bon Mot"
+draft: true
 noteType: ":luggage:"
 aliases: "Bon Mot"
 foundryId: Item.F94RPHjfY5HhlxvX

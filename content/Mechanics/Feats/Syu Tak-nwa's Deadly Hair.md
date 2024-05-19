@@ -1,5 +1,6 @@
 ---
 title: "Syu Tak-nwa's Deadly Hair"
+draft: true
 noteType: ":luggage:"
 aliases: "Syu Tak-nwa's Deadly Hair"
 foundryId: Item.REeJn4xqmQyOb4IJ

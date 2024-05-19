@@ -1,5 +1,6 @@
 ---
 title: "Advanced Trickery"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Trickery"
 foundryId: Item.j1wl1lPeDUgfet6W

@@ -1,5 +1,6 @@
 ---
 title: "Turn the Wheel of Seasons"
+draft: true
 noteType: ":luggage:"
 aliases: "Turn the Wheel of Seasons"
 foundryId: Item.0vyHoEZf5X3bm07K

@@ -1,5 +1,6 @@
 ---
 title: "Soaring Shape"
+draft: true
 noteType: ":luggage:"
 aliases: "Soaring Shape"
 foundryId: Item.qPf7KfxVzj0KUezG

@@ -1,5 +1,6 @@
 ---
 title: "Gear Up"
+draft: true
 noteType: ":luggage:"
 aliases: "Gear Up"
 foundryId: Item.p0Pd7cMGdMqNiDx2

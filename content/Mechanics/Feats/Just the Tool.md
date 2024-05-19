@@ -1,5 +1,6 @@
 ---
 title: "Just the Tool"
+draft: true
 noteType: ":luggage:"
 aliases: "Just the Tool"
 foundryId: Item.wYPaxrVBIYsKcyul

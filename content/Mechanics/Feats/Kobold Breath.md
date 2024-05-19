@@ -1,5 +1,6 @@
 ---
 title: "Kobold Breath"
+draft: true
 noteType: ":luggage:"
 aliases: "Kobold Breath"
 foundryId: Item.1LXdo2wMnqUDnFTC

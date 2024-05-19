@@ -1,5 +1,6 @@
 ---
 title: "Axiomatic Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Axiomatic Lore"
 foundryId: Item.4IfLyjRiZt5VrJxq

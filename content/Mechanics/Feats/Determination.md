@@ -1,5 +1,6 @@
 ---
 title: "Determination"
+draft: true
 noteType: ":luggage:"
 aliases: "Determination"
 foundryId: Item.Bq9x0Y9iczh5w9KY

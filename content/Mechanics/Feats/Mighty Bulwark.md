@@ -1,5 +1,6 @@
 ---
 title: "Mighty Bulwark"
+draft: true
 noteType: ":luggage:"
 aliases: "Mighty Bulwark"
 foundryId: Item.kInEACXez6V6N84l

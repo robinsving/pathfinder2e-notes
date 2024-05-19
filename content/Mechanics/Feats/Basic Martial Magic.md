@@ -1,5 +1,6 @@
 ---
 title: "Basic Martial Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Martial Magic"
 foundryId: Item.Aq5kY1aRjDdGwg6I

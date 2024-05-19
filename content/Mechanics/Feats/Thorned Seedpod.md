@@ -1,5 +1,6 @@
 ---
 title: "Thorned Seedpod"
+draft: true
 noteType: ":luggage:"
 aliases: "Thorned Seedpod"
 foundryId: Item.hz12OQcBVOvP0H33

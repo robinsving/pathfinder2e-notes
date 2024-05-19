@@ -1,5 +1,6 @@
 ---
 title: "Coughing Dragon Display"
+draft: true
 noteType: ":luggage:"
 aliases: "Coughing Dragon Display"
 foundryId: Item.Fjc1kGB2kOyNSEwd

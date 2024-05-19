@@ -1,5 +1,6 @@
 ---
 title: "Wish Alchemy"
+draft: true
 noteType: ":luggage:"
 aliases: "Wish Alchemy"
 foundryId: Item.1c5dCoME1iHBmuyK

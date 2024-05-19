@@ -1,5 +1,6 @@
 ---
 title: "Weapon Infusion"
+draft: true
 noteType: ":luggage:"
 aliases: "Weapon Infusion"
 foundryId: Item.LR69Pk3gXV4qsdbi

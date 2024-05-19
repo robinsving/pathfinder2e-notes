@@ -1,5 +1,6 @@
 ---
 title: "Flexible Studies"
+draft: true
 noteType: ":luggage:"
 aliases: "Flexible Studies"
 foundryId: Item.zWYq0ylkkZRpi526

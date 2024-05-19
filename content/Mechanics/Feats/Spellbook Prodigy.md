@@ -1,5 +1,6 @@
 ---
 title: "Spellbook Prodigy"
+draft: true
 noteType: ":luggage:"
 aliases: "Spellbook Prodigy"
 foundryId: Item.tJ2pauicXDadKlkA

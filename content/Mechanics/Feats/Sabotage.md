@@ -1,5 +1,6 @@
 ---
 title: "Sabotage"
+draft: true
 noteType: ":luggage:"
 aliases: "Sabotage"
 foundryId: Item.h40gQL3gaqh7JNbv

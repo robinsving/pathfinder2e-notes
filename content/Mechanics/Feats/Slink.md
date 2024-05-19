@@ -1,5 +1,6 @@
 ---
 title: "Slink"
+draft: true
 noteType: ":luggage:"
 aliases: "Slink"
 foundryId: Item.4HQTzg7QGqAmwxMO

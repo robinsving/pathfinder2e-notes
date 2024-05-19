@@ -1,5 +1,6 @@
 ---
 title: "Advanced Wilding"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Wilding"
 foundryId: Item.4NcbVqMt8kRPrk73

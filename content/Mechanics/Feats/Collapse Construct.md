@@ -1,5 +1,6 @@
 ---
 title: "Collapse Construct"
+draft: true
 noteType: ":luggage:"
 aliases: "Collapse Construct"
 foundryId: Item.Fazze6vGqlggivZF

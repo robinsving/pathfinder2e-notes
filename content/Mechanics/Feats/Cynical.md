@@ -1,5 +1,6 @@
 ---
 title: "Cynical"
+draft: true
 noteType: ":luggage:"
 aliases: "Cynical"
 foundryId: Item.sBQJrOMILgRCia1z

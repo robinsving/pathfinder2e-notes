@@ -1,5 +1,6 @@
 ---
 title: "Delay Trap"
+draft: true
 noteType: ":luggage:"
 aliases: "Delay Trap"
 foundryId: Item.kBuaphInV729d1oM

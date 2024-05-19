@@ -1,5 +1,6 @@
 ---
 title: "Intercorporate"
+draft: true
 noteType: ":luggage:"
 aliases: "Intercorporate"
 foundryId: Item.AohOTOkD1lI7rrJb

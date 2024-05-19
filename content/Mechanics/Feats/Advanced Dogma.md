@@ -1,5 +1,6 @@
 ---
 title: "Advanced Dogma"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Dogma"
 foundryId: Item.PuS6wOGYk8ixDIqP

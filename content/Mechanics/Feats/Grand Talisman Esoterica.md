@@ -1,5 +1,6 @@
 ---
 title: "Grand Talisman Esoterica"
+draft: true
 noteType: ":luggage:"
 aliases: "Grand Talisman Esoterica"
 foundryId: Item.YwKsnqvFNWOcS30e

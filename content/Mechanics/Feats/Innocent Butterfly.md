@@ -1,5 +1,6 @@
 ---
 title: "Innocent Butterfly"
+draft: true
 noteType: ":luggage:"
 aliases: "Innocent Butterfly"
 foundryId: Item.b6p8CRX0rN43mH68

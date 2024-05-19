@@ -1,5 +1,6 @@
 ---
 title: "Intuitive Illusions"
+draft: true
 noteType: ":luggage:"
 aliases: "Intuitive Illusions"
 foundryId: Item.PcAfGvQvKi7vJk4J

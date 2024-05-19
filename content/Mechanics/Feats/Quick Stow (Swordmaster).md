@@ -1,5 +1,6 @@
 ---
 title: "Quick Stow (Swordmaster)"
+draft: true
 noteType: ":luggage:"
 aliases: "Quick Stow (Swordmaster)"
 foundryId: Item.ur0p9aEPVBCz7Dnz

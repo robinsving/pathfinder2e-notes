@@ -1,5 +1,6 @@
 ---
 title: "Shadow Spells"
+draft: true
 noteType: ":luggage:"
 aliases: "Shadow Spells"
 foundryId: Item.uSEbUeA0wfzRCdFJ

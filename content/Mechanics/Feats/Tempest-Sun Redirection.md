@@ -1,5 +1,6 @@
 ---
 title: "Tempest-Sun Redirection"
+draft: true
 noteType: ":luggage:"
 aliases: "Tempest-Sun Redirection"
 foundryId: Item.y6Dcz75vX1uzF8jR

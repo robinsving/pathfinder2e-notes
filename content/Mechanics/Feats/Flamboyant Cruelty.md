@@ -1,5 +1,6 @@
 ---
 title: "Flamboyant Cruelty"
+draft: true
 noteType: ":luggage:"
 aliases: "Flamboyant Cruelty"
 foundryId: Item.m127eQ7zDNo7HuMB

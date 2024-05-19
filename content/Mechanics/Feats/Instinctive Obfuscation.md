@@ -1,5 +1,6 @@
 ---
 title: "Instinctive Obfuscation"
+draft: true
 noteType: ":luggage:"
 aliases: "Instinctive Obfuscation"
 foundryId: Item.R3cV8JF7rJgnfMqB

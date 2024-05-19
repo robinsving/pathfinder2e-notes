@@ -1,5 +1,6 @@
 ---
 title: "Ancestral Mage"
+draft: true
 noteType: ":luggage:"
 aliases: "Ancestral Mage"
 foundryId: Item.FkeWrESQjTXCQ4tV

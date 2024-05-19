@@ -1,5 +1,6 @@
 ---
 title: "Perfect Debilitation"
+draft: true
 noteType: ":luggage:"
 aliases: "Perfect Debilitation"
 foundryId: Item.q1pcl78MwSRoFmcE

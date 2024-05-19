@@ -1,5 +1,6 @@
 ---
 title: "All of the Animal"
+draft: true
 noteType: ":luggage:"
 aliases: "All of the Animal"
 foundryId: Item.CnNDcf2EmI6mxftN

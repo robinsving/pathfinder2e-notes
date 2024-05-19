@@ -1,5 +1,6 @@
 ---
 title: "Stoked Flame Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stoked Flame Stance"
 foundryId: Item.BLskKdyTDAU4jkqs

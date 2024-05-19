@@ -1,5 +1,6 @@
 ---
 title: "Thaumaturgic Ritualist"
+draft: true
 noteType: ":luggage:"
 aliases: "Thaumaturgic Ritualist"
 foundryId: Item.rLKEZSqLeHWYGdI5

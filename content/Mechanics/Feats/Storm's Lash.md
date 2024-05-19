@@ -1,5 +1,6 @@
 ---
 title: "Storm's Lash"
+draft: true
 noteType: ":luggage:"
 aliases: "Storm's Lash"
 foundryId: Item.gGYleHvQiGWpCIMs

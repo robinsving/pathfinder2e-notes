@@ -1,5 +1,6 @@
 ---
 title: "Nourishing Gate"
+draft: true
 noteType: ":luggage:"
 aliases: "Nourishing Gate"
 foundryId: Item.9wbeCSDdQ799i5mc

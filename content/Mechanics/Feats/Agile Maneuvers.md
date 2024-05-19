@@ -1,5 +1,6 @@
 ---
 title: "Agile Maneuvers"
+draft: true
 noteType: ":luggage:"
 aliases: "Agile Maneuvers"
 foundryId: Item.XOL3iEkLgmdv6Khs

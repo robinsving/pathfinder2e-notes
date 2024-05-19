@@ -1,5 +1,6 @@
 ---
 title: "Legendary Professional"
+draft: true
 noteType: ":luggage:"
 aliases: "Legendary Professional"
 foundryId: Item.IIgMpSRn6zVDRylj

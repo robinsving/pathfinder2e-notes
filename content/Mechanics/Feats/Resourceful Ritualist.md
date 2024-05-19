@@ -1,5 +1,6 @@
 ---
 title: "Resourceful Ritualist"
+draft: true
 noteType: ":luggage:"
 aliases: "Resourceful Ritualist"
 foundryId: Item.kRAnEwKJTRWAm1rQ

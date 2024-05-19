@@ -1,5 +1,6 @@
 ---
 title: "Eagle Eye"
+draft: true
 noteType: ":luggage:"
 aliases: "Eagle Eye"
 foundryId: Item.c6xGLCAsXnvxPtxj

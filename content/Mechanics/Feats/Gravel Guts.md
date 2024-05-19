@@ -1,5 +1,6 @@
 ---
 title: "Gravel Guts"
+draft: true
 noteType: ":luggage:"
 aliases: "Gravel Guts"
 foundryId: Item.zwvDUOwAz6Mn58Gn

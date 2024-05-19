@@ -1,5 +1,6 @@
 ---
 title: "Recognize Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Recognize Spell"
 foundryId: Item.KEjeaWK2HqlPmct8

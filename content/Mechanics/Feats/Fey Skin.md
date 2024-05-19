@@ -1,5 +1,6 @@
 ---
 title: "Fey Skin"
+draft: true
 noteType: ":luggage:"
 aliases: "Fey Skin"
 foundryId: Item.HLQ5EnTxVMeg4nUa

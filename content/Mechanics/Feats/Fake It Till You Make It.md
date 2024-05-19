@@ -1,5 +1,6 @@
 ---
 title: "Fake It Till You Make It"
+draft: true
 noteType: ":luggage:"
 aliases: "Fake It Till You Make It"
 foundryId: Item.FRqksVPPnEdbt5G9

@@ -1,5 +1,6 @@
 ---
 title: "Energized Font"
+draft: true
 noteType: ":luggage:"
 aliases: "Energized Font"
 foundryId: Item.OdSo1V2kKNGFGRRY

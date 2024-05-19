@@ -1,5 +1,6 @@
 ---
 title: "Metabolize Element"
+draft: true
 noteType: ":luggage:"
 aliases: "Metabolize Element"
 foundryId: Item.wU1er2XIXiKZTJ9q

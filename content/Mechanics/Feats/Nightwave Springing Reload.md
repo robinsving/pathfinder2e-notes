@@ -1,5 +1,6 @@
 ---
 title: "Nightwave Springing Reload"
+draft: true
 noteType: ":luggage:"
 aliases: "Nightwave Springing Reload"
 foundryId: Item.KgIO1MxeJZycEypV

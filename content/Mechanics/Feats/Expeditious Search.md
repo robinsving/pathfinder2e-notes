@@ -1,5 +1,6 @@
 ---
 title: "Expeditious Search"
+draft: true
 noteType: ":luggage:"
 aliases: "Expeditious Search"
 foundryId: Item.DIPtubyfeSmRALVt

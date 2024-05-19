@@ -1,5 +1,6 @@
 ---
 title: "Read Disaster"
+draft: true
 noteType: ":luggage:"
 aliases: "Read Disaster"
 foundryId: Item.IOFK6pr7jPQ04WDc

@@ -1,5 +1,6 @@
 ---
 title: "Forge-Day's Rest"
+draft: true
 noteType: ":luggage:"
 aliases: "Forge-Day's Rest"
 foundryId: Item.Yj4DnzUbMDCC0Uih

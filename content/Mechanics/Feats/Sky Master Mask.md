@@ -1,5 +1,6 @@
 ---
 title: "Sky Master Mask"
+draft: true
 noteType: ":luggage:"
 aliases: "Sky Master Mask"
 foundryId: Item.j9WPysHzO03TTrPE

@@ -1,5 +1,6 @@
 ---
 title: "Progenitor Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Progenitor Lore"
 foundryId: Item.us4a5pNqhAnzl6Fr

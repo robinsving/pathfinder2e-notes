@@ -1,5 +1,6 @@
 ---
 title: "Spell Relay"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Relay"
 foundryId: Item.e2xdbnP4QLxCtJF7

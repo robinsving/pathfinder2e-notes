@@ -1,5 +1,6 @@
 ---
 title: "What Could Have Been"
+draft: true
 noteType: ":luggage:"
 aliases: "What Could Have Been"
 foundryId: Item.Wdna1fbHj2iTmioK

@@ -1,5 +1,6 @@
 ---
 title: "Viking Shieldbearer"
+draft: true
 noteType: ":luggage:"
 aliases: "Viking Shieldbearer"
 foundryId: Item.GRBfBkTPSiRtuLTx

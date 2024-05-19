@@ -1,5 +1,6 @@
 ---
 title: "Perpetual Scout"
+draft: true
 noteType: ":luggage:"
 aliases: "Perpetual Scout"
 foundryId: Item.88g1RiEM52aX5lvX

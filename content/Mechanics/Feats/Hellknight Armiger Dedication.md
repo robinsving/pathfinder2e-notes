@@ -1,5 +1,6 @@
 ---
 title: "Hellknight Armiger Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Hellknight Armiger Dedication"
 foundryId: Item.tDaGxIIoDTFJ5sLU

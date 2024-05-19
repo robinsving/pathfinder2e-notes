@@ -1,5 +1,6 @@
 ---
 title: "Proximity Alert"
+draft: true
 noteType: ":luggage:"
 aliases: "Proximity Alert"
 foundryId: Item.OTg3ayCnj7BGfiWT

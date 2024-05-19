@@ -1,5 +1,6 @@
 ---
 title: "Reveal Beasts"
+draft: true
 noteType: ":luggage:"
 aliases: "Reveal Beasts"
 foundryId: Item.c9XPhGjIJDbDGj5g

@@ -1,5 +1,6 @@
 ---
 title: "Ritual Reversion"
+draft: true
 noteType: ":luggage:"
 aliases: "Ritual Reversion"
 foundryId: Item.4pzdwcfMEQ2LEGwp

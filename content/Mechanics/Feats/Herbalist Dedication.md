@@ -1,5 +1,6 @@
 ---
 title: "Herbalist Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Herbalist Dedication"
 foundryId: Item.XK64533yzbsDQmBu

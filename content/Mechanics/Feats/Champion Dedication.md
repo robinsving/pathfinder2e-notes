@@ -1,5 +1,6 @@
 ---
 title: "Champion Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Champion Dedication"
 foundryId: Item.fly5q07U1CDQ2Fdl

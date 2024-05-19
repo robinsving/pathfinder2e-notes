@@ -1,5 +1,6 @@
 ---
 title: "Strange Script"
+draft: true
 noteType: ":luggage:"
 aliases: "Strange Script"
 foundryId: Item.JQ8YfAIk07vKcc25

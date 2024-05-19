@@ -1,5 +1,6 @@
 ---
 title: "Pistol Phenom Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Pistol Phenom Dedication"
 foundryId: Item.axXoHR44UIB6iWMs

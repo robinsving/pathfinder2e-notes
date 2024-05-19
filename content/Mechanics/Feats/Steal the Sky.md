@@ -1,5 +1,6 @@
 ---
 title: "Steal the Sky"
+draft: true
 noteType: ":luggage:"
 aliases: "Steal the Sky"
 foundryId: Item.Y3SNBsCv8enWSt5D

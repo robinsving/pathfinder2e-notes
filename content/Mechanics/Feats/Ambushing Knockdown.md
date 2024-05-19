@@ -1,5 +1,6 @@
 ---
 title: "Ambushing Knockdown"
+draft: true
 noteType: ":luggage:"
 aliases: "Ambushing Knockdown"
 foundryId: Item.l0RbJw6RWlfipbjI

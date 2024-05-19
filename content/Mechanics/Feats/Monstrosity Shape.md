@@ -1,5 +1,6 @@
 ---
 title: "Monstrosity Shape"
+draft: true
 noteType: ":luggage:"
 aliases: "Monstrosity Shape"
 foundryId: Item.p13dK34aCmdzgbo7

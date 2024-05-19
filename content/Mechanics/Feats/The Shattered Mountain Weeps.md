@@ -1,5 +1,6 @@
 ---
 title: "The Shattered Mountain Weeps"
+draft: true
 noteType: ":luggage:"
 aliases: "The Shattered Mountain Weeps"
 foundryId: Item.aL8AxGxCpchCuup5

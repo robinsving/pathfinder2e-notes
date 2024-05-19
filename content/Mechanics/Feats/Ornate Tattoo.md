@@ -1,5 +1,6 @@
 ---
 title: "Ornate Tattoo"
+draft: true
 noteType: ":luggage:"
 aliases: "Ornate Tattoo"
 foundryId: Item.pWs1SUzFbedW8J9f

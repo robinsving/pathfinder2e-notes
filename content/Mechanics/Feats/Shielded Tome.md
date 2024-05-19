@@ -1,5 +1,6 @@
 ---
 title: "Shielded Tome"
+draft: true
 noteType: ":luggage:"
 aliases: "Shielded Tome"
 foundryId: Item.hK1TvDvg1GXxe3gZ

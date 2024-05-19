@@ -1,5 +1,6 @@
 ---
 title: "Blessed Medicine"
+draft: true
 noteType: ":luggage:"
 aliases: "Blessed Medicine"
 foundryId: Item.ZggsL0dbtL1rVVle

@@ -1,5 +1,6 @@
 ---
 title: "Worldsphere Gravity"
+draft: true
 noteType: ":luggage:"
 aliases: "Worldsphere Gravity"
 foundryId: Item.aHrtIjWK3O8pbuLW

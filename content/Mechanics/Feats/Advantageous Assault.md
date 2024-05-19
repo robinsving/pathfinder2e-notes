@@ -1,5 +1,6 @@
 ---
 title: "Advantageous Assault"
+draft: true
 noteType: ":luggage:"
 aliases: "Advantageous Assault"
 foundryId: Item.NW2U7VpCOY2eXBC7

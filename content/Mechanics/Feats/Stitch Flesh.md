@@ -1,5 +1,6 @@
 ---
 title: "Stitch Flesh"
+draft: true
 noteType: ":luggage:"
 aliases: "Stitch Flesh"
 foundryId: Item.GdYcO9iRheBFOIW3

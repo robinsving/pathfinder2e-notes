@@ -1,5 +1,6 @@
 ---
 title: "Otherworldly Acumen"
+draft: true
 noteType: ":luggage:"
 aliases: "Otherworldly Acumen"
 foundryId: Item.9txGMr2Cq06XRSdv

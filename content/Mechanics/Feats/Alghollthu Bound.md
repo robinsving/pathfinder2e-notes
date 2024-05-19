@@ -1,5 +1,6 @@
 ---
 title: "Alghollthu Bound"
+draft: true
 noteType: ":luggage:"
 aliases: "Alghollthu Bound"
 foundryId: Item.6FtHT3R65SQpH6uf

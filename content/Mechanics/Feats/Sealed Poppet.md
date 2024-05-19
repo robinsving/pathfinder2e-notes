@@ -1,5 +1,6 @@
 ---
 title: "Sealed Poppet"
+draft: true
 noteType: ":luggage:"
 aliases: "Sealed Poppet"
 foundryId: Item.3lyUdOSkmJC5yx7P

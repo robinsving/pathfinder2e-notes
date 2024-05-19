@@ -1,5 +1,6 @@
 ---
 title: "Supreme Psychic Center"
+draft: true
 noteType: ":luggage:"
 aliases: "Supreme Psychic Center"
 foundryId: Item.v1XiNxjUr4Ez7hHi

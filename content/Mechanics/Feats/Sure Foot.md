@@ -1,5 +1,6 @@
 ---
 title: "Sure Foot"
+draft: true
 noteType: ":luggage:"
 aliases: "Sure Foot"
 foundryId: Item.JLyxnw3kHKPYVADw

@@ -1,5 +1,6 @@
 ---
 title: "Fetchling Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Fetchling Lore"
 foundryId: Item.5WhbXSWZq2Six8an

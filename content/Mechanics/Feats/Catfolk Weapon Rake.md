@@ -1,5 +1,6 @@
 ---
 title: "Catfolk Weapon Rake"
+draft: true
 noteType: ":luggage:"
 aliases: "Catfolk Weapon Rake"
 foundryId: Item.2115y2v8hts27UGq

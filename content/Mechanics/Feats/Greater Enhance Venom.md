@@ -1,5 +1,6 @@
 ---
 title: "Greater Enhance Venom"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Enhance Venom"
 foundryId: Item.uQhmOLKUMYDPslb5

@@ -1,5 +1,6 @@
 ---
 title: "Incredible Ferocity"
+draft: true
 noteType: ":luggage:"
 aliases: "Incredible Ferocity"
 foundryId: Item.ihcfIt8lnVZw1HLx

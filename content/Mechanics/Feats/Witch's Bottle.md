@@ -1,5 +1,6 @@
 ---
 title: "Witch's Bottle"
+draft: true
 noteType: ":luggage:"
 aliases: "Witch's Bottle"
 foundryId: Item.2hlwiUzGCnmmQlzp

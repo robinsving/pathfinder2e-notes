@@ -1,5 +1,6 @@
 ---
 title: "Elemental Trade"
+draft: true
 noteType: ":luggage:"
 aliases: "Elemental Trade"
 foundryId: Item.ztKPjTgnrEI9zzhc

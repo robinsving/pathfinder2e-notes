@@ -1,5 +1,6 @@
 ---
 title: "Lightless Litheness"
+draft: true
 noteType: ":luggage:"
 aliases: "Lightless Litheness"
 foundryId: Item.HhlbQpEqfZRsYcaj

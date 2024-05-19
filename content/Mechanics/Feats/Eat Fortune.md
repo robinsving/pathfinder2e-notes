@@ -1,5 +1,6 @@
 ---
 title: "Eat Fortune"
+draft: true
 noteType: ":luggage:"
 aliases: "Eat Fortune"
 foundryId: Item.KzRM6k0NpIl1Newd

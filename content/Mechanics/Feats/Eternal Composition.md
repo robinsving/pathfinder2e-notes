@@ -1,5 +1,6 @@
 ---
 title: "Eternal Composition"
+draft: true
 noteType: ":luggage:"
 aliases: "Eternal Composition"
 foundryId: Item.RfX6GGUbgnQfEDxZ

@@ -1,5 +1,6 @@
 ---
 title: "Heaven's Thunder"
+draft: true
 noteType: ":luggage:"
 aliases: "Heaven's Thunder"
 foundryId: Item.De1OAw5d8go4Y07w

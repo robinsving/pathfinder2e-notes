@@ -1,5 +1,6 @@
 ---
 title: "Necromantic Tenacity"
+draft: true
 noteType: ":luggage:"
 aliases: "Necromantic Tenacity"
 foundryId: Item.JvcrdgSrba0QomWw

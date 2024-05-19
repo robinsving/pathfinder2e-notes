@@ -1,5 +1,6 @@
 ---
 title: "Oversized Throw"
+draft: true
 noteType: ":luggage:"
 aliases: "Oversized Throw"
 foundryId: Item.xjH0eBpWjrPZR4Y6

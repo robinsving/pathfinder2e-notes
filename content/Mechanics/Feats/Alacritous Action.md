@@ -1,5 +1,6 @@
 ---
 title: "Alacritous Action"
+draft: true
 noteType: ":luggage:"
 aliases: "Alacritous Action"
 foundryId: Item.RuII1VbTwIyZ7rNb

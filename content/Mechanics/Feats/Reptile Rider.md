@@ -1,5 +1,6 @@
 ---
 title: "Reptile Rider"
+draft: true
 noteType: ":luggage:"
 aliases: "Reptile Rider"
 foundryId: Item.Rw3oEVGsEL6HPPkb

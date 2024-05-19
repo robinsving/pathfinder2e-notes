@@ -1,5 +1,6 @@
 ---
 title: "Basic Scroll Cache"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Scroll Cache"
 foundryId: Item.j6fuPsVSqovHNREC

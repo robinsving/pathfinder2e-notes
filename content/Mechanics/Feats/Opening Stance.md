@@ -1,5 +1,6 @@
 ---
 title: "Opening Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Opening Stance"
 foundryId: Item.GRow8ch5WdhODlYS

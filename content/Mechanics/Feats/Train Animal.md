@@ -1,5 +1,6 @@
 ---
 title: "Train Animal"
+draft: true
 noteType: ":luggage:"
 aliases: "Train Animal"
 foundryId: Item.ABpVD09RAo6GYOjt

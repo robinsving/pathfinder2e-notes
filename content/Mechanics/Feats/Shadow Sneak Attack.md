@@ -1,5 +1,6 @@
 ---
 title: "Shadow Sneak Attack"
+draft: true
 noteType: ":luggage:"
 aliases: "Shadow Sneak Attack"
 foundryId: Item.6tpofQc4gcnSMNmu

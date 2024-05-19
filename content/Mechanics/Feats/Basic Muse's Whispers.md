@@ -1,5 +1,6 @@
 ---
 title: "Basic Muse's Whispers"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Muse's Whispers"
 foundryId: Item.X4bITRBzBi80HIbz

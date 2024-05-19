@@ -1,5 +1,6 @@
 ---
 title: "Magical Edification"
+draft: true
 noteType: ":luggage:"
 aliases: "Magical Edification"
 foundryId: Item.HzqiFNY65hlnjsya

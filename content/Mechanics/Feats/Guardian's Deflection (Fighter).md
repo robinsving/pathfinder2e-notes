@@ -1,5 +1,6 @@
 ---
 title: "Guardian's Deflection (Fighter)"
+draft: true
 noteType: ":luggage:"
 aliases: "Guardian's Deflection (Fighter)"
 foundryId: Item.aAfSivIcrJqPJ6Xj

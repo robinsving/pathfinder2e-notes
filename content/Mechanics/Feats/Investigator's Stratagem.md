@@ -1,5 +1,6 @@
 ---
 title: "Investigator's Stratagem"
+draft: true
 noteType: ":luggage:"
 aliases: "Investigator's Stratagem"
 foundryId: Item.1j1QvHyY9gWxQj8q

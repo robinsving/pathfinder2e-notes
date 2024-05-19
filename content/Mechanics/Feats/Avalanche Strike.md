@@ -1,5 +1,6 @@
 ---
 title: "Avalanche Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Avalanche Strike"
 foundryId: Item.rYzvHSVo80NEU3F3

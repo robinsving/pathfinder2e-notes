@@ -1,5 +1,6 @@
 ---
 title: "Warding Light"
+draft: true
 noteType: ":luggage:"
 aliases: "Warding Light"
 foundryId: Item.gEvwHsYoGpzO8PE9

@@ -1,5 +1,6 @@
 ---
 title: "Harden Flesh"
+draft: true
 noteType: ":luggage:"
 aliases: "Harden Flesh"
 foundryId: Item.jNeOecphWsY9SvCB

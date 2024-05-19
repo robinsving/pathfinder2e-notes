@@ -1,5 +1,6 @@
 ---
 title: "Ravel Of Thorns"
+draft: true
 noteType: ":luggage:"
 aliases: "Ravel Of Thorns"
 foundryId: Item.ySk41HhgV8tTHMH2

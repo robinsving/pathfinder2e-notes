@@ -1,5 +1,6 @@
 ---
 title: "Elemental Explosion"
+draft: true
 noteType: ":luggage:"
 aliases: "Elemental Explosion"
 foundryId: Item.udegU9Ywx7VYqzpp

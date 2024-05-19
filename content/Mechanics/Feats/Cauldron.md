@@ -1,5 +1,6 @@
 ---
 title: "Cauldron"
+draft: true
 noteType: ":luggage:"
 aliases: "Cauldron"
 foundryId: Item.JATx2Yquw6dAKGhw

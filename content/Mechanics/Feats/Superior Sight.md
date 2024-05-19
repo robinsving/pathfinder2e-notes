@@ -1,5 +1,6 @@
 ---
 title: "Superior Sight"
+draft: true
 noteType: ":luggage:"
 aliases: "Superior Sight"
 foundryId: Item.8MV52ofmtE1i8k81

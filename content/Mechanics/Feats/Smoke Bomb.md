@@ -1,5 +1,6 @@
 ---
 title: "Smoke Bomb"
+draft: true
 noteType: ":luggage:"
 aliases: "Smoke Bomb"
 foundryId: Item.vUidTEtZ8SlupyLS

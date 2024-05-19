@@ -1,5 +1,6 @@
 ---
 title: "Winter's Embrace"
+draft: true
 noteType: ":luggage:"
 aliases: "Winter's Embrace"
 foundryId: Item.0vXD8DILwHN0wG3J

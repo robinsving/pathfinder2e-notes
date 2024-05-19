@@ -1,5 +1,6 @@
 ---
 title: "Avatar's Protection"
+draft: true
 noteType: ":luggage:"
 aliases: "Avatar's Protection"
 foundryId: Item.nXNGrygAlRh0WAgQ

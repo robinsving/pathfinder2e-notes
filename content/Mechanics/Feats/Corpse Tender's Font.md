@@ -1,5 +1,6 @@
 ---
 title: "Corpse Tender's Font"
+draft: true
 noteType: ":luggage:"
 aliases: "Corpse Tender's Font"
 foundryId: Item.x6J74sABbVGZMWWK

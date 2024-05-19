@@ -1,5 +1,6 @@
 ---
 title: "Blade of Justice"
+draft: true
 noteType: ":luggage:"
 aliases: "Blade of Justice"
 foundryId: Item.IZ1jCgNa4Ku7EfAk

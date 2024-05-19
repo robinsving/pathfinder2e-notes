@@ -1,5 +1,6 @@
 ---
 title: "Showstopper"
+draft: true
 noteType: ":luggage:"
 aliases: "Showstopper"
 foundryId: Item.LJ0TGXN3XGkHi5Re

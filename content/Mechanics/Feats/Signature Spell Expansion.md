@@ -1,5 +1,6 @@
 ---
 title: "Signature Spell Expansion"
+draft: true
 noteType: ":luggage:"
 aliases: "Signature Spell Expansion"
 foundryId: Item.iTnp3xJeHK08AlGD

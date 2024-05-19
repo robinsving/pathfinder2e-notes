@@ -1,5 +1,6 @@
 ---
 title: "Tengu Weapon Study"
+draft: true
 noteType: ":luggage:"
 aliases: "Tengu Weapon Study"
 foundryId: Item.MWlFQTSDse1YAn03

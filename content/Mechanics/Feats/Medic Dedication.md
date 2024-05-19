@@ -1,5 +1,6 @@
 ---
 title: "Medic Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Medic Dedication"
 foundryId: Item.dYwtTYjVSg1gg3h0

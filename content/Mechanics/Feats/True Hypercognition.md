@@ -1,5 +1,6 @@
 ---
 title: "True Hypercognition"
+draft: true
 noteType: ":luggage:"
 aliases: "True Hypercognition"
 foundryId: Item.gztR8BK00dCrKglw

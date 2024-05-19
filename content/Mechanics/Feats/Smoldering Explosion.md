@@ -1,5 +1,6 @@
 ---
 title: "Smoldering Explosion"
+draft: true
 noteType: ":luggage:"
 aliases: "Smoldering Explosion"
 foundryId: Item.L1EOqZx6rPrZTWVy

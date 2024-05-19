@@ -1,5 +1,6 @@
 ---
 title: "Conrasu Weapon Familiarity"
+draft: true
 noteType: ":luggage:"
 aliases: "Conrasu Weapon Familiarity"
 foundryId: Item.faP1jcteFwdt9n0V

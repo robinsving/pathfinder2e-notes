@@ -1,5 +1,6 @@
 ---
 title: "Deadly Strikes"
+draft: true
 noteType: ":luggage:"
 aliases: "Deadly Strikes"
 foundryId: Item.fiFLoV0H5O4zb2if

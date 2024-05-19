@@ -1,5 +1,6 @@
 ---
 title: "Advanced Kata"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Kata"
 foundryId: Item.W8bsLQGez5OW67fo

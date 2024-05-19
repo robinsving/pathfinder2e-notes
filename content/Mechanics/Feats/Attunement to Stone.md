@@ -1,5 +1,6 @@
 ---
 title: "Attunement to Stone"
+draft: true
 noteType: ":luggage:"
 aliases: "Attunement to Stone"
 foundryId: Item.QbBNvcznY3xW3yUX

@@ -1,5 +1,6 @@
 ---
 title: "Enervating Wail"
+draft: true
 noteType: ":luggage:"
 aliases: "Enervating Wail"
 foundryId: Item.aghEmKN0hGokNutc

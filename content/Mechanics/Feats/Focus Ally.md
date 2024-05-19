@@ -1,5 +1,6 @@
 ---
 title: "Focus Ally"
+draft: true
 noteType: ":luggage:"
 aliases: "Focus Ally"
 foundryId: Item.OtOBcPc3LosfG3tN

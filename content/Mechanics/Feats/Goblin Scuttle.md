@@ -1,5 +1,6 @@
 ---
 title: "Goblin Scuttle"
+draft: true
 noteType: ":luggage:"
 aliases: "Goblin Scuttle"
 foundryId: Item.c8tHnyvb5IAPmJJN

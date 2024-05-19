@@ -1,5 +1,6 @@
 ---
 title: "Quick Contacts"
+draft: true
 noteType: ":luggage:"
 aliases: "Quick Contacts"
 foundryId: Item.DoqP4WU8y02KjSmT

@@ -1,5 +1,6 @@
 ---
 title: "Snow Step"
+draft: true
 noteType: ":luggage:"
 aliases: "Snow Step"
 foundryId: Item.RXqBEx05aLgpST8n

@@ -1,5 +1,6 @@
 ---
 title: "Disarming Assault"
+draft: true
 noteType: ":luggage:"
 aliases: "Disarming Assault"
 foundryId: Item.ohYJr8WE3VpSmSbU

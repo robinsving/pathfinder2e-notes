@@ -1,5 +1,6 @@
 ---
 title: "Energy Ward"
+draft: true
 noteType: ":luggage:"
 aliases: "Energy Ward"
 foundryId: Item.83Ws5byCskn6NF3Z

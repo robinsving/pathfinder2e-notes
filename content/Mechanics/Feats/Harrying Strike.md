@@ -1,5 +1,6 @@
 ---
 title: "Harrying Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Harrying Strike"
 foundryId: Item.R9q87F4iKypDWiwL

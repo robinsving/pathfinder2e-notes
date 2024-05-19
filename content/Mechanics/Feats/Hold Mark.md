@@ -1,5 +1,6 @@
 ---
 title: "Hold Mark"
+draft: true
 noteType: ":luggage:"
 aliases: "Hold Mark"
 foundryId: Item.6B1NpKqNMXW8agaz

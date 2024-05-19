@@ -1,5 +1,6 @@
 ---
 title: "Command Corpse"
+draft: true
 noteType: ":luggage:"
 aliases: "Command Corpse"
 foundryId: Item.UZb1NpujGkpkWedX

@@ -1,5 +1,6 @@
 ---
 title: "Molten Wire"
+draft: true
 noteType: ":luggage:"
 aliases: "Molten Wire"
 foundryId: Item.txbyxocetbXdCOmH

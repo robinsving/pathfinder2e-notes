@@ -1,5 +1,6 @@
 ---
 title: "Lasting Coercion"
+draft: true
 noteType: ":luggage:"
 aliases: "Lasting Coercion"
 foundryId: Item.4grbaHsVPv8CmX2K

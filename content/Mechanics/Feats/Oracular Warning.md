@@ -1,5 +1,6 @@
 ---
 title: "Oracular Warning"
+draft: true
 noteType: ":luggage:"
 aliases: "Oracular Warning"
 foundryId: Item.B2D5RD8Glqrlbs2w

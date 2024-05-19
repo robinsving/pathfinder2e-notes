@@ -1,5 +1,6 @@
 ---
 title: "Precise Debilitations"
+draft: true
 noteType: ":luggage:"
 aliases: "Precise Debilitations"
 foundryId: Item.qrcIoi4lwd69NLAu

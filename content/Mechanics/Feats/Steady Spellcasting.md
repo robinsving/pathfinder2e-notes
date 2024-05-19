@@ -1,5 +1,6 @@
 ---
 title: "Steady Spellcasting"
+draft: true
 noteType: ":luggage:"
 aliases: "Steady Spellcasting"
 foundryId: Item.Fy3TqRx1afpo2kvn

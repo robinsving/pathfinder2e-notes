@@ -1,5 +1,6 @@
 ---
 title: "Toughness"
+draft: true
 noteType: ":luggage:"
 aliases: "Toughness"
 foundryId: Item.BLDB96xoWPZ6R9UA

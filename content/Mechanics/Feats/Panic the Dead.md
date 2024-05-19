@@ -1,5 +1,6 @@
 ---
 title: "Panic the Dead"
+draft: true
 noteType: ":luggage:"
 aliases: "Panic the Dead"
 foundryId: Item.uRW5Ke2WNEJgrZJu

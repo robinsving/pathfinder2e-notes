@@ -1,5 +1,6 @@
 ---
 title: "Methodical Debilitations"
+draft: true
 noteType: ":luggage:"
 aliases: "Methodical Debilitations"
 foundryId: Item.CXLojqCj84LgVnGB

@@ -1,5 +1,6 @@
 ---
 title: "Shift Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Shift Spell"
 foundryId: Item.njLEqwuiwMbsffd8

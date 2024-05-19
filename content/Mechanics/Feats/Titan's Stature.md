@@ -1,5 +1,6 @@
 ---
 title: "Titan's Stature"
+draft: true
 noteType: ":luggage:"
 aliases: "Titan's Stature"
 foundryId: Item.H7xPPMC5WBj2X44f

@@ -1,5 +1,6 @@
 ---
 title: "Clear as Air"
+draft: true
 noteType: ":luggage:"
 aliases: "Clear as Air"
 foundryId: Item.mM8VZ2wbD5WuUmS4

@@ -1,5 +1,6 @@
 ---
 title: "Rouse the Forest's Fury"
+draft: true
 noteType: ":luggage:"
 aliases: "Rouse the Forest's Fury"
 foundryId: Item.AJBl8ZFBXxsEShke

@@ -1,5 +1,6 @@
 ---
 title: "Martial Artist Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Martial Artist Dedication"
 foundryId: Item.4qtCLvw05ASpVTRk

@@ -1,5 +1,6 @@
 ---
 title: "Bouncy Goblin"
+draft: true
 noteType: ":luggage:"
 aliases: "Bouncy Goblin"
 foundryId: Item.Q8niEkmsySbGs0WO

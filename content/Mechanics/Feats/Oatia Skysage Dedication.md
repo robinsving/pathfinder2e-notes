@@ -1,5 +1,6 @@
 ---
 title: "Oatia Skysage Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Oatia Skysage Dedication"
 foundryId: Item.0NIqHc6TZdoNEk2f

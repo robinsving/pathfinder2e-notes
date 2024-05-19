@@ -1,5 +1,6 @@
 ---
 title: "Educated Assessment"
+draft: true
 noteType: ":luggage:"
 aliases: "Educated Assessment"
 foundryId: Item.7P9Q6Aav1s6Qke8Y

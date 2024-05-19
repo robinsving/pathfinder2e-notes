@@ -1,5 +1,6 @@
 ---
 title: "Lore Seeker"
+draft: true
 noteType: ":luggage:"
 aliases: "Lore Seeker"
 foundryId: Item.vf42c3FSoxuYLZTC

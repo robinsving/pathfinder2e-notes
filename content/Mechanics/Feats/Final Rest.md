@@ -1,5 +1,6 @@
 ---
 title: "Final Rest"
+draft: true
 noteType: ":luggage:"
 aliases: "Final Rest"
 foundryId: Item.jEoXgsg8MsI8B69f

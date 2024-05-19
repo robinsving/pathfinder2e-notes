@@ -1,5 +1,6 @@
 ---
 title: "Talismanic Sage"
+draft: true
 noteType: ":luggage:"
 aliases: "Talismanic Sage"
 foundryId: Item.HNHEyoUah4otf4Ps

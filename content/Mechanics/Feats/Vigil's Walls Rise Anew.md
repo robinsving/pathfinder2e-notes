@@ -1,5 +1,6 @@
 ---
 title: "Vigil's Walls Rise Anew"
+draft: true
 noteType: ":luggage:"
 aliases: "Vigil's Walls Rise Anew"
 foundryId: Item.WfekF7RkxdQrCBKI

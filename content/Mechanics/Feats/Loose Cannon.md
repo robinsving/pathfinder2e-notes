@@ -1,5 +1,6 @@
 ---
 title: "Loose Cannon"
+draft: true
 noteType: ":luggage:"
 aliases: "Loose Cannon"
 foundryId: Item.skGXIubDZXJdm3az

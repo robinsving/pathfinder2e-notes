@@ -1,5 +1,6 @@
 ---
 title: "Water Strider"
+draft: true
 noteType: ":luggage:"
 aliases: "Water Strider"
 foundryId: Item.qPftliXoqoVF3WJC

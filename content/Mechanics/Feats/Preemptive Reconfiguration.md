@@ -1,5 +1,6 @@
 ---
 title: "Preemptive Reconfiguration"
+draft: true
 noteType: ":luggage:"
 aliases: "Preemptive Reconfiguration"
 foundryId: Item.f0LKlQ5lIobn7pQl

@@ -1,5 +1,6 @@
 ---
 title: "Flesh Wound"
+draft: true
 noteType: ":luggage:"
 aliases: "Flesh Wound"
 foundryId: Item.47HcQrjMMJ8LzbGe

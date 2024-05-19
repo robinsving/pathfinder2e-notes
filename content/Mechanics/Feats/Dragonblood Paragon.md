@@ -1,5 +1,6 @@
 ---
 title: "Dragonblood Paragon"
+draft: true
 noteType: ":luggage:"
 aliases: "Dragonblood Paragon"
 foundryId: Item.86Eh8gnGx3qDFw44

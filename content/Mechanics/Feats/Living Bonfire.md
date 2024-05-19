@@ -1,5 +1,6 @@
 ---
 title: "Living Bonfire"
+draft: true
 noteType: ":luggage:"
 aliases: "Living Bonfire"
 foundryId: Item.B0CNc2WKqdGH7KgB

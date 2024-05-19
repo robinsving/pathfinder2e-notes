@@ -1,5 +1,6 @@
 ---
 title: "Reveal Machinations"
+draft: true
 noteType: ":luggage:"
 aliases: "Reveal Machinations"
 foundryId: Item.LisnaiSkiDl8K2Ek

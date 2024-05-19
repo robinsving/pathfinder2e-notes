@@ -1,5 +1,6 @@
 ---
 title: "Feathered Cloak"
+draft: true
 noteType: ":luggage:"
 aliases: "Feathered Cloak"
 foundryId: Item.4JGvrANAqxdpX8G1

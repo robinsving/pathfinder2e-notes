@@ -1,5 +1,6 @@
 ---
 title: "Legendary Size"
+draft: true
 noteType: ":luggage:"
 aliases: "Legendary Size"
 foundryId: Item.IFLW2YvxGUSb8QgP

@@ -1,5 +1,6 @@
 ---
 title: "Steam Knight"
+draft: true
 noteType: ":luggage:"
 aliases: "Steam Knight"
 foundryId: Item.YNldpUdrFcG6GRjr

@@ -1,5 +1,6 @@
 ---
 title: "Nosoi's Mask"
+draft: true
 noteType: ":luggage:"
 aliases: "Nosoi's Mask"
 foundryId: Item.9muYo7klmr4PDvK8

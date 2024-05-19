@@ -1,5 +1,6 @@
 ---
 title: "Provocator Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Provocator Dedication"
 foundryId: Item.92i5ptiDQ3rtdhk9

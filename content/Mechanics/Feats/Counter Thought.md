@@ -1,5 +1,6 @@
 ---
 title: "Counter Thought"
+draft: true
 noteType: ":luggage:"
 aliases: "Counter Thought"
 foundryId: Item.djVpKLtAblyNvLLi

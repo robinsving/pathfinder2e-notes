@@ -1,5 +1,6 @@
 ---
 title: "Steel Your Resolve"
+draft: true
 noteType: ":luggage:"
 aliases: "Steel Your Resolve"
 foundryId: Item.qfcWuJc05V2EGuZF

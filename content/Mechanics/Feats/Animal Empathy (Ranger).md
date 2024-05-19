@@ -1,5 +1,6 @@
 ---
 title: "Animal Empathy (Ranger)"
+draft: true
 noteType: ":luggage:"
 aliases: "Animal Empathy (Ranger)"
 foundryId: Item.BN82LQ8KsS3AOe6M

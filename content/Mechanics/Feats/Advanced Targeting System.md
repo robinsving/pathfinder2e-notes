@@ -1,5 +1,6 @@
 ---
 title: "Advanced Targeting System"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Targeting System"
 foundryId: Item.89oh3hRe4V5LenOQ

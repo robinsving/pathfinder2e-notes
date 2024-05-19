@@ -1,5 +1,6 @@
 ---
 title: "Shield of Grace"
+draft: true
 noteType: ":luggage:"
 aliases: "Shield of Grace"
 foundryId: Item.VET28VUkwdC9k3p5

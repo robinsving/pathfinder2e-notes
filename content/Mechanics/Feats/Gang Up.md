@@ -1,5 +1,6 @@
 ---
 title: "Gang Up"
+draft: true
 noteType: ":luggage:"
 aliases: "Gang Up"
 foundryId: Item.yakh8LdXIHUxAkpk

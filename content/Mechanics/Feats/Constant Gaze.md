@@ -1,5 +1,6 @@
 ---
 title: "Constant Gaze"
+draft: true
 noteType: ":luggage:"
 aliases: "Constant Gaze"
 foundryId: Item.pXEP5wzyIi95yZaX

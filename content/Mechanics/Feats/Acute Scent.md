@@ -1,5 +1,6 @@
 ---
 title: "Acute Scent"
+draft: true
 noteType: ":luggage:"
 aliases: "Acute Scent"
 foundryId: Item.UE4vHGKhbZDSULpu

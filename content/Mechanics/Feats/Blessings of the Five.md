@@ -1,5 +1,6 @@
 ---
 title: "Blessings of the Five"
+draft: true
 noteType: ":luggage:"
 aliases: "Blessings of the Five"
 foundryId: Item.HhSj3urCTSJAI4wQ

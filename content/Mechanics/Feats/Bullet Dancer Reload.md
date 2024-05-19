@@ -1,5 +1,6 @@
 ---
 title: "Bullet Dancer Reload"
+draft: true
 noteType: ":luggage:"
 aliases: "Bullet Dancer Reload"
 foundryId: Item.S53Zegw6iyUvNxXM

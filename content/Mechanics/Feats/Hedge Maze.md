@@ -1,5 +1,6 @@
 ---
 title: "Hedge Maze"
+draft: true
 noteType: ":luggage:"
 aliases: "Hedge Maze"
 foundryId: Item.VJVQjmM3mZqOUtm5

@@ -1,5 +1,6 @@
 ---
 title: "Cautious Delver"
+draft: true
 noteType: ":luggage:"
 aliases: "Cautious Delver"
 foundryId: Item.mKOHdGWcky2oFJHV

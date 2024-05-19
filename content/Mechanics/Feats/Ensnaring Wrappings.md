@@ -1,5 +1,6 @@
 ---
 title: "Ensnaring Wrappings"
+draft: true
 noteType: ":luggage:"
 aliases: "Ensnaring Wrappings"
 foundryId: Item.f8rjY5FCSdV64X4m

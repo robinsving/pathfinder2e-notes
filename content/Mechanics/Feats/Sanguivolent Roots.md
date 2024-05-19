@@ -1,5 +1,6 @@
 ---
 title: "Sanguivolent Roots"
+draft: true
 noteType: ":luggage:"
 aliases: "Sanguivolent Roots"
 foundryId: Item.4VXk0yY2afsHNh5F

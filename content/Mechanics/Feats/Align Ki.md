@@ -1,5 +1,6 @@
 ---
 title: "Align Ki"
+draft: true
 noteType: ":luggage:"
 aliases: "Align Ki"
 foundryId: Item.hdf8zmNESwe5Lk2C

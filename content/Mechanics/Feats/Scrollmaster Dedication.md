@@ -1,5 +1,6 @@
 ---
 title: "Scrollmaster Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Scrollmaster Dedication"
 foundryId: Item.aqHfUs9aaXRxrWGH

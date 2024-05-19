@@ -1,5 +1,6 @@
 ---
 title: "Psychic Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Psychic Dedication"
 foundryId: Item.OlFUJNbnsY7B3flc

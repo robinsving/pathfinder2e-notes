@@ -1,5 +1,6 @@
 ---
 title: "Wellspring Control"
+draft: true
 noteType: ":luggage:"
 aliases: "Wellspring Control"
 foundryId: Item.GmhLB4RYnnmBjIUC

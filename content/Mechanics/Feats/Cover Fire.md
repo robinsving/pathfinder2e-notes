@@ -1,5 +1,6 @@
 ---
 title: "Cover Fire"
+draft: true
 noteType: ":luggage:"
 aliases: "Cover Fire"
 foundryId: Item.yQqVIxN0LzWWWM3x

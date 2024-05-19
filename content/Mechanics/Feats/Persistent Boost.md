@@ -1,5 +1,6 @@
 ---
 title: "Persistent Boost"
+draft: true
 noteType: ":luggage:"
 aliases: "Persistent Boost"
 foundryId: Item.vSkFnMrltJCjZYWT

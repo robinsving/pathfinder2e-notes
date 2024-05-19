@@ -1,5 +1,6 @@
 ---
 title: "Brutal Bully"
+draft: true
 noteType: ":luggage:"
 aliases: "Brutal Bully"
 foundryId: Item.5jUhUwjiaHjivHmq

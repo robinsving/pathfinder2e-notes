@@ -1,5 +1,6 @@
 ---
 title: "Daring Flourish"
+draft: true
 noteType: ":luggage:"
 aliases: "Daring Flourish"
 foundryId: Item.wSlG822t931HXaLY

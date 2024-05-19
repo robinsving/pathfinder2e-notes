@@ -1,5 +1,6 @@
 ---
 title: "Shared Synergy"
+draft: true
 noteType: ":luggage:"
 aliases: "Shared Synergy"
 foundryId: Item.DyX5hYPkBmv5HjDF

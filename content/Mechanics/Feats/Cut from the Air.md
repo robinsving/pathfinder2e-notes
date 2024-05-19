@@ -1,5 +1,6 @@
 ---
 title: "Cut from the Air"
+draft: true
 noteType: ":luggage:"
 aliases: "Cut from the Air"
 foundryId: Item.z7j1tKN1fGL5rypz

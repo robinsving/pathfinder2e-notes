@@ -1,5 +1,6 @@
 ---
 title: "Legendary Medic"
+draft: true
 noteType: ":luggage:"
 aliases: "Legendary Medic"
 foundryId: Item.KIbKgDR7MjjBuWAn

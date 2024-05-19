@@ -1,5 +1,6 @@
 ---
 title: "Lorefinder"
+draft: true
 noteType: ":luggage:"
 aliases: "Lorefinder"
 foundryId: Item.Shr3qkeuUIYiNuQv

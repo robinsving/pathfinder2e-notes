@@ -1,5 +1,6 @@
 ---
 title: "Ferocious Gust"
+draft: true
 noteType: ":luggage:"
 aliases: "Ferocious Gust"
 foundryId: Item.cVd5cNK9PlGcqWBH

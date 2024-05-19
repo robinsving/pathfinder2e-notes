@@ -1,5 +1,6 @@
 ---
 title: "Seedpod"
+draft: true
 noteType: ":luggage:"
 aliases: "Seedpod"
 foundryId: Item.0ErliwFADxWzhBBt

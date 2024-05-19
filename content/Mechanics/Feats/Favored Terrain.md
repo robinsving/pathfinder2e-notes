@@ -1,5 +1,6 @@
 ---
 title: "Favored Terrain"
+draft: true
 noteType: ":luggage:"
 aliases: "Favored Terrain"
 foundryId: Item.cPXwYz5lWaQt6w5g

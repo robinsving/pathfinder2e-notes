@@ -1,5 +1,6 @@
 ---
 title: "Mortal Healing"
+draft: true
 noteType: ":luggage:"
 aliases: "Mortal Healing"
 foundryId: Item.vJiFygH9aDfnki4e

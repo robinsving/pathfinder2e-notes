@@ -1,5 +1,6 @@
 ---
 title: "Impossible Riposte"
+draft: true
 noteType: ":luggage:"
 aliases: "Impossible Riposte"
 foundryId: Item.aIBFGNm1mmSJgJQ4

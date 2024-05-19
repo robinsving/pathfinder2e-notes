@@ -1,5 +1,6 @@
 ---
 title: "Second Shield"
+draft: true
 noteType: ":luggage:"
 aliases: "Second Shield"
 foundryId: Item.iiRCzO5qtGf72lIb

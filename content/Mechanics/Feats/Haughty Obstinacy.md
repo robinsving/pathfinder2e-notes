@@ -1,5 +1,6 @@
 ---
 title: "Haughty Obstinacy"
+draft: true
 noteType: ":luggage:"
 aliases: "Haughty Obstinacy"
 foundryId: Item.A9xQIDsqQXUyow01

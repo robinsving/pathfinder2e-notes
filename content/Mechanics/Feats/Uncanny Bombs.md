@@ -1,5 +1,6 @@
 ---
 title: "Uncanny Bombs"
+draft: true
 noteType: ":luggage:"
 aliases: "Uncanny Bombs"
 foundryId: Item.LkJTehnPHxHCfIgo

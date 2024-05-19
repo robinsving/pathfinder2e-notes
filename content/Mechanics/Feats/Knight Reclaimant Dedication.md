@@ -1,5 +1,6 @@
 ---
 title: "Knight Reclaimant Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Knight Reclaimant Dedication"
 foundryId: Item.YX3IqB47MNYqWUpq

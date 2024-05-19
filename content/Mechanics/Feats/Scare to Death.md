@@ -1,5 +1,6 @@
 ---
 title: "Scare to Death"
+draft: true
 noteType: ":luggage:"
 aliases: "Scare to Death"
 foundryId: Item.lKOFyDZWmtRSfmgO

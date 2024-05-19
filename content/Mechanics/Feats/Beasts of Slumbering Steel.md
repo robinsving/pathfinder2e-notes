@@ -1,5 +1,6 @@
 ---
 title: "Beasts of Slumbering Steel"
+draft: true
 noteType: ":luggage:"
 aliases: "Beasts of Slumbering Steel"
 foundryId: Item.ft6ZZwbiAGuSCQU9

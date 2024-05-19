@@ -1,5 +1,6 @@
 ---
 title: "Competitive Eater"
+draft: true
 noteType: ":luggage:"
 aliases: "Competitive Eater"
 foundryId: Item.rufx5mb0OAJCAJhH

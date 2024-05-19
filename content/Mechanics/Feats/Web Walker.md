@@ -1,5 +1,6 @@
 ---
 title: "Web Walker"
+draft: true
 noteType: ":luggage:"
 aliases: "Web Walker"
 foundryId: Item.1eWo2rNgndK5b3Fs

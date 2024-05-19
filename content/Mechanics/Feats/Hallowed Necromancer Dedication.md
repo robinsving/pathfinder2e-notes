@@ -1,5 +1,6 @@
 ---
 title: "Hallowed Necromancer Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Hallowed Necromancer Dedication"
 foundryId: Item.2fiH13cm8277g1cB

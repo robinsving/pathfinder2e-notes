@@ -1,5 +1,6 @@
 ---
 title: "Unusual Treatment"
+draft: true
 noteType: ":luggage:"
 aliases: "Unusual Treatment"
 foundryId: Item.CPT8WdTRRTbnCRpH

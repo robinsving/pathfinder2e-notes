@@ -1,5 +1,6 @@
 ---
 title: "Counter Element"
+draft: true
 noteType: ":luggage:"
 aliases: "Counter Element"
 foundryId: Item.PDKZzMb2fkkElfmB

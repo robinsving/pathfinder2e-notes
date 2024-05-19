@@ -1,5 +1,6 @@
 ---
 title: "Magic Hide"
+draft: true
 noteType: ":luggage:"
 aliases: "Magic Hide"
 foundryId: Item.VgQBtOnkDDefWfyd

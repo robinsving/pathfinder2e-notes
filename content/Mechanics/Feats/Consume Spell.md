@@ -1,5 +1,6 @@
 ---
 title: "Consume Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Consume Spell"
 foundryId: Item.Q595uzUCKFqNCZ9h

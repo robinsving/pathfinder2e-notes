@@ -1,5 +1,6 @@
 ---
 title: "Leshy Glide"
+draft: true
 noteType: ":luggage:"
 aliases: "Leshy Glide"
 foundryId: Item.RugEfgmdQdqrzrw7

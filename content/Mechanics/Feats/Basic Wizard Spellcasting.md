@@ -1,5 +1,6 @@
 ---
 title: "Basic Wizard Spellcasting"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Wizard Spellcasting"
 foundryId: Item.JT3jynqMjIMQutaY

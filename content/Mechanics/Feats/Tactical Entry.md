@@ -1,5 +1,6 @@
 ---
 title: "Tactical Entry"
+draft: true
 noteType: ":luggage:"
 aliases: "Tactical Entry"
 foundryId: Item.IvMfNVNnj7dzC91M

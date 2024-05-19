@@ -1,5 +1,6 @@
 ---
 title: "Echoing Channel"
+draft: true
 noteType: ":luggage:"
 aliases: "Echoing Channel"
 foundryId: Item.I6GE0tFqQyGdKziB

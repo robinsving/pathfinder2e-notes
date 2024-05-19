@@ -1,5 +1,6 @@
 ---
 title: "Infiltrate Dream"
+draft: true
 noteType: ":luggage:"
 aliases: "Infiltrate Dream"
 foundryId: Item.3TFRRxhUTn39UAS4

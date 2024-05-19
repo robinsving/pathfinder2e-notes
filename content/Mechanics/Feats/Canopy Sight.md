@@ -1,5 +1,6 @@
 ---
 title: "Canopy Sight"
+draft: true
 noteType: ":luggage:"
 aliases: "Canopy Sight"
 foundryId: Item.DN0Oi3EyGMr6hv6E

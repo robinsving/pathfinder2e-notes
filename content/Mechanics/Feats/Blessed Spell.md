@@ -1,5 +1,6 @@
 ---
 title: "Blessed Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Blessed Spell"
 foundryId: Item.QPTVzt4fE1jfK3G6

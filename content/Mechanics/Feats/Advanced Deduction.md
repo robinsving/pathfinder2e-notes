@@ -1,5 +1,6 @@
 ---
 title: "Advanced Deduction"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Deduction"
 foundryId: Item.9Jdaskcew00AQmWT

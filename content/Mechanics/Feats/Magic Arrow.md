@@ -1,5 +1,6 @@
 ---
 title: "Magic Arrow"
+draft: true
 noteType: ":luggage:"
 aliases: "Magic Arrow"
 foundryId: Item.RNQbJXGqWMCfVLFv

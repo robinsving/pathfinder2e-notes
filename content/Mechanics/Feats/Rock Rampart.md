@@ -1,5 +1,6 @@
 ---
 title: "Rock Rampart"
+draft: true
 noteType: ":luggage:"
 aliases: "Rock Rampart"
 foundryId: Item.oL6sphm1umXN3xAU

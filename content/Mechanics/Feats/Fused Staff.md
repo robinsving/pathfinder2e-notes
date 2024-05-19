@@ -1,5 +1,6 @@
 ---
 title: "Fused Staff"
+draft: true
 noteType: ":luggage:"
 aliases: "Fused Staff"
 foundryId: Item.2OcNbBSczM6cHrE2

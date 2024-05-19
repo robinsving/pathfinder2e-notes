@@ -1,5 +1,6 @@
 ---
 title: "Caterwaul"
+draft: true
 noteType: ":luggage:"
 aliases: "Caterwaul"
 foundryId: Item.Pg8m2wDVA2T7wMjw

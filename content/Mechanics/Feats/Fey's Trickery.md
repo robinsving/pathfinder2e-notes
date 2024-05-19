@@ -1,5 +1,6 @@
 ---
 title: "Fey's Trickery"
+draft: true
 noteType: ":luggage:"
 aliases: "Fey's Trickery"
 foundryId: Item.3HpdwqKvPhlmzDPh

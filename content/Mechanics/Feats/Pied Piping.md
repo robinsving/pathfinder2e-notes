@@ -1,5 +1,6 @@
 ---
 title: "Pied Piping"
+draft: true
 noteType: ":luggage:"
 aliases: "Pied Piping"
 foundryId: Item.noC1RCJrNYZPS1tW

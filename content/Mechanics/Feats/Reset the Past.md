@@ -1,5 +1,6 @@
 ---
 title: "Reset the Past"
+draft: true
 noteType: ":luggage:"
 aliases: "Reset the Past"
 foundryId: Item.4D4Cwg2gdcXtwu5Q

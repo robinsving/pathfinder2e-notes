@@ -1,5 +1,6 @@
 ---
 title: "Impose Order (Psychic)"
+draft: true
 noteType: ":luggage:"
 aliases: "Impose Order (Psychic)"
 foundryId: Item.VnotMEQgQ5Z24rKT

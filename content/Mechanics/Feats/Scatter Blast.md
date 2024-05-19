@@ -1,5 +1,6 @@
 ---
 title: "Scatter Blast"
+draft: true
 noteType: ":luggage:"
 aliases: "Scatter Blast"
 foundryId: Item.Y7JAisbF8QkQVK8V

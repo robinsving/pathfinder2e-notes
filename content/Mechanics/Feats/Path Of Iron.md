@@ -1,5 +1,6 @@
 ---
 title: "Path Of Iron"
+draft: true
 noteType: ":luggage:"
 aliases: "Path Of Iron"
 foundryId: Item.cTG5qcALzrN1dEXF

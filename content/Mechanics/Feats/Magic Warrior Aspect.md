@@ -1,5 +1,6 @@
 ---
 title: "Magic Warrior Aspect"
+draft: true
 noteType: ":luggage:"
 aliases: "Magic Warrior Aspect"
 foundryId: Item.TuxNCZGj9diP3CgX

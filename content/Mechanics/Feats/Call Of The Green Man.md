@@ -1,5 +1,6 @@
 ---
 title: "Call Of The Green Man"
+draft: true
 noteType: ":luggage:"
 aliases: "Call Of The Green Man"
 foundryId: Item.OIP1RiOlbMjxKVsb

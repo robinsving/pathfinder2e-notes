@@ -1,5 +1,6 @@
 ---
 title: "Allegro"
+draft: true
 noteType: ":luggage:"
 aliases: "Allegro"
 foundryId: Item.ocJszsHVpBkl8saB

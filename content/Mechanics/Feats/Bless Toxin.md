@@ -1,5 +1,6 @@
 ---
 title: "Bless Toxin"
+draft: true
 noteType: ":luggage:"
 aliases: "Bless Toxin"
 foundryId: Item.yumG4ndKvSVDB95W

@@ -1,5 +1,6 @@
 ---
 title: "Viking Weapon Specialist"
+draft: true
 noteType: ":luggage:"
 aliases: "Viking Weapon Specialist"
 foundryId: Item.2oODCWyAC7caetKo

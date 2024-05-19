@@ -1,5 +1,6 @@
 ---
 title: "Internal Respirator"
+draft: true
 noteType: ":luggage:"
 aliases: "Internal Respirator"
 foundryId: Item.25xrY3nMoeAiD7EH

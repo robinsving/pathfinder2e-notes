@@ -1,5 +1,6 @@
 ---
 title: "Ghost Flight"
+draft: true
 noteType: ":luggage:"
 aliases: "Ghost Flight"
 foundryId: Item.baT7iB337cG5DRPs

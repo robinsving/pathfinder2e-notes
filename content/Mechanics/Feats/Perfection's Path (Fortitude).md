@@ -1,5 +1,6 @@
 ---
 title: "Perfection's Path (Fortitude)"
+draft: true
 noteType: ":luggage:"
 aliases: "Perfection's Path (Fortitude)"
 foundryId: Item.ro4aWEA1929P7v5o

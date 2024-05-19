@@ -1,5 +1,6 @@
 ---
 title: "Geomancer Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Geomancer Dedication"
 foundryId: Item.6IXiBIuP9ChIVBCs

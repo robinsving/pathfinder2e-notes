@@ -1,5 +1,6 @@
 ---
 title: "Skittering Sneak"
+draft: true
 noteType: ":luggage:"
 aliases: "Skittering Sneak"
 foundryId: Item.AwZesnVuqshzsTcx

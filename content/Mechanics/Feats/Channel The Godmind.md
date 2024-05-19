@@ -1,5 +1,6 @@
 ---
 title: "Channel The Godmind"
+draft: true
 noteType: ":luggage:"
 aliases: "Channel The Godmind"
 foundryId: Item.DBsysDnCrrbKo3X1

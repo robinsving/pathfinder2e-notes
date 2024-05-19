@@ -1,5 +1,6 @@
 ---
 title: "Garland Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Garland Spell"
 foundryId: Item.LrMNvuxyOJJw1hyi

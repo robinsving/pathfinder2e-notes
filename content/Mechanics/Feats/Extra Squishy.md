@@ -1,5 +1,6 @@
 ---
 title: "Extra Squishy"
+draft: true
 noteType: ":luggage:"
 aliases: "Extra Squishy"
 foundryId: Item.rPo5SZFWC2c6Y9we

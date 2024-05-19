@@ -1,5 +1,6 @@
 ---
 title: "Wormskin"
+draft: true
 noteType: ":luggage:"
 aliases: "Wormskin"
 foundryId: Item.LPH7GPlFlwm1ywvz

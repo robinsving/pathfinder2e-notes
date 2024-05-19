@@ -1,5 +1,6 @@
 ---
 title: "Natural Magnetism"
+draft: true
 noteType: ":luggage:"
 aliases: "Natural Magnetism"
 foundryId: Item.Li2dOogcDJrcSFTC

@@ -1,5 +1,6 @@
 ---
 title: "Orc Warmask"
+draft: true
 noteType: ":luggage:"
 aliases: "Orc Warmask"
 foundryId: Item.r5Zezdgim1F6i2EA

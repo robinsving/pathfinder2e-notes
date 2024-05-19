@@ -1,5 +1,6 @@
 ---
 title: "Cracked Mountain"
+draft: true
 noteType: ":luggage:"
 aliases: "Cracked Mountain"
 foundryId: Item.lx5z1BMXQWkOvYHi

@@ -1,5 +1,6 @@
 ---
 title: "Greater Crossblooded Evolution"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Crossblooded Evolution"
 foundryId: Item.GcjvjMkwU4ngyRDn

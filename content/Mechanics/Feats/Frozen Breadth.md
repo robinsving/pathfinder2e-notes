@@ -1,5 +1,6 @@
 ---
 title: "Frozen Breadth"
+draft: true
 noteType: ":luggage:"
 aliases: "Frozen Breadth"
 foundryId: Item.awStQxyjhEIRidxe

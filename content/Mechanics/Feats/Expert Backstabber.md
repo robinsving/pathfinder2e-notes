@@ -1,5 +1,6 @@
 ---
 title: "Expert Backstabber"
+draft: true
 noteType: ":luggage:"
 aliases: "Expert Backstabber"
 foundryId: Item.LBTBzUmhA92N66Sw

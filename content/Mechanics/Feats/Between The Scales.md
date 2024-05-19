@@ -1,5 +1,6 @@
 ---
 title: "Between The Scales"
+draft: true
 noteType: ":luggage:"
 aliases: "Between The Scales"
 foundryId: Item.66Rf2PpBHb2fyEPq

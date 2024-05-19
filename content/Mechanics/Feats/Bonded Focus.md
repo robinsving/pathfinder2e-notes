@@ -1,5 +1,6 @@
 ---
 title: "Bonded Focus"
+draft: true
 noteType: ":luggage:"
 aliases: "Bonded Focus"
 foundryId: Item.c8TPeJoIHQR5ah7F

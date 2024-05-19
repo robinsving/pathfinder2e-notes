@@ -1,5 +1,6 @@
 ---
 title: "Life-Giving Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Life-Giving Magic"
 foundryId: Item.AGduQKx8hzlLvXvk

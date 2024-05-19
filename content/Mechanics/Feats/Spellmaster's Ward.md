@@ -1,5 +1,6 @@
 ---
 title: "Spellmaster's Ward"
+draft: true
 noteType: ":luggage:"
 aliases: "Spellmaster's Ward"
 foundryId: Item.8wD0m3bBD2sxT31L

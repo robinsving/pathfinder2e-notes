@@ -1,5 +1,6 @@
 ---
 title: "It's Alive!"
+draft: true
 noteType: ":luggage:"
 aliases: "It's Alive!"
 foundryId: Item.GGzZ01wRwq7Vb7CM

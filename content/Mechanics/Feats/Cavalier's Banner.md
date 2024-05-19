@@ -1,5 +1,6 @@
 ---
 title: "Cavalier's Banner"
+draft: true
 noteType: ":luggage:"
 aliases: "Cavalier's Banner"
 foundryId: Item.7fTDpzIIhob91mAG

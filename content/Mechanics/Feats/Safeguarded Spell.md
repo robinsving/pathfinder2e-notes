@@ -1,5 +1,6 @@
 ---
 title: "Safeguarded Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Safeguarded Spell"
 foundryId: Item.o5jJ9eCBJuBdKQXQ

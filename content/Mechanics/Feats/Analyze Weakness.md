@@ -1,5 +1,6 @@
 ---
 title: "Analyze Weakness"
+draft: true
 noteType: ":luggage:"
 aliases: "Analyze Weakness"
 foundryId: Item.QOepsnT5Gh1HXO98

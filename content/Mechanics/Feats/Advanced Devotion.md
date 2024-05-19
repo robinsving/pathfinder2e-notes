@@ -1,5 +1,6 @@
 ---
 title: "Advanced Devotion"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Devotion"
 foundryId: Item.gHepV53gqysAi59Y

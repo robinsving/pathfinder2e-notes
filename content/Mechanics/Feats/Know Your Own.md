@@ -1,5 +1,6 @@
 ---
 title: "Know Your Own"
+draft: true
 noteType: ":luggage:"
 aliases: "Know Your Own"
 foundryId: Item.mhYMg0gN6cVxp54B

@@ -1,5 +1,6 @@
 ---
 title: "Dragon Grip"
+draft: true
 noteType: ":luggage:"
 aliases: "Dragon Grip"
 foundryId: Item.HuGkacJpEE9CyRgm

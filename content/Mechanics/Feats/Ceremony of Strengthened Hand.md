@@ -1,5 +1,6 @@
 ---
 title: "Ceremony of Strengthened Hand"
+draft: true
 noteType: ":luggage:"
 aliases: "Ceremony of Strengthened Hand"
 foundryId: Item.x5PCJrrrVtqJI9lh

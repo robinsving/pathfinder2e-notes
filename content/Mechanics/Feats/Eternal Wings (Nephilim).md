@@ -1,5 +1,6 @@
 ---
 title: "Eternal Wings (Nephilim)"
+draft: true
 noteType: ":luggage:"
 aliases: "Eternal Wings (Nephilim)"
 foundryId: Item.ypDvvSr8GxzaU22q

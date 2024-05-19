@@ -1,5 +1,6 @@
 ---
 title: "Aura of Unbreakable Virtue"
+draft: true
 noteType: ":luggage:"
 aliases: "Aura of Unbreakable Virtue"
 foundryId: Item.gxxB0vkjtBajelq5

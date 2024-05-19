@@ -1,5 +1,6 @@
 ---
 title: "Step Lively"
+draft: true
 noteType: ":luggage:"
 aliases: "Step Lively"
 foundryId: Item.JRqK0bqG7HbGQ1ai

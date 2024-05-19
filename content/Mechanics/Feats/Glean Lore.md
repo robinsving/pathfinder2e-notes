@@ -1,5 +1,6 @@
 ---
 title: "Glean Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Glean Lore"
 foundryId: Item.RAETLOW16zbenpFC

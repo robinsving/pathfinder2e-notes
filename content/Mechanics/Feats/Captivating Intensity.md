@@ -1,5 +1,6 @@
 ---
 title: "Captivating Intensity"
+draft: true
 noteType: ":luggage:"
 aliases: "Captivating Intensity"
 foundryId: Item.GG9rDfZ7BQPEcapJ

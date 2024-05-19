@@ -1,5 +1,6 @@
 ---
 title: "Spark of Independence"
+draft: true
 noteType: ":luggage:"
 aliases: "Spark of Independence"
 foundryId: Item.2YEwpVwa3mtsa9Sk

@@ -1,5 +1,6 @@
 ---
 title: "Quick Disguise"
+draft: true
 noteType: ":luggage:"
 aliases: "Quick Disguise"
 foundryId: Item.gLecvDUc5jL2avYj

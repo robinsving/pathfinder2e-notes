@@ -1,5 +1,6 @@
 ---
 title: "Ultimate Polymath"
+draft: true
 noteType: ":luggage:"
 aliases: "Ultimate Polymath"
 foundryId: Item.BZ7eM4BQr0PnBkC9

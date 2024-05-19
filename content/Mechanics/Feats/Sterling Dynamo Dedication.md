@@ -1,5 +1,6 @@
 ---
 title: "Sterling Dynamo Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Sterling Dynamo Dedication"
 foundryId: Item.DliRiXqG6oiogLU9

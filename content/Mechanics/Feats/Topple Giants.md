@@ -1,5 +1,6 @@
 ---
 title: "Topple Giants"
+draft: true
 noteType: ":luggage:"
 aliases: "Topple Giants"
 foundryId: Item.7bQjsvp9rNhftLIl

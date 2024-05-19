@@ -1,5 +1,6 @@
 ---
 title: "Spell Trickster Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Trickster Dedication"
 foundryId: Item.y5iTEIJ4s0VksUFp

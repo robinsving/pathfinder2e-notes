@@ -1,5 +1,6 @@
 ---
 title: "Empty Body"
+draft: true
 noteType: ":luggage:"
 aliases: "Empty Body"
 foundryId: Item.seFNBzwgXZEO7yZ1

@@ -1,5 +1,6 @@
 ---
 title: "Shackles of Law"
+draft: true
 noteType: ":luggage:"
 aliases: "Shackles of Law"
 foundryId: Item.E1tTtGiDX5OB0lzm

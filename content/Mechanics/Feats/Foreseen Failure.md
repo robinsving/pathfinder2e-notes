@@ -1,5 +1,6 @@
 ---
 title: "Foreseen Failure"
+draft: true
 noteType: ":luggage:"
 aliases: "Foreseen Failure"
 foundryId: Item.rPUEjOws1rR401wz

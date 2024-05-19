@@ -1,5 +1,6 @@
 ---
 title: "Lab Rat"
+draft: true
 noteType: ":luggage:"
 aliases: "Lab Rat"
 foundryId: Item.dGRLryfgZNTXfleL

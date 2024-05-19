@@ -1,5 +1,6 @@
 ---
 title: "Macabre Virtuoso"
+draft: true
 noteType: ":luggage:"
 aliases: "Macabre Virtuoso"
 foundryId: Item.FUXtv5MuVsNBPJJD

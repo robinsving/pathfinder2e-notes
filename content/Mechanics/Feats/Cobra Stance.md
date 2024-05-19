@@ -1,5 +1,6 @@
 ---
 title: "Cobra Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Cobra Stance"
 foundryId: Item.MDcCkBWg7mQE8pF3

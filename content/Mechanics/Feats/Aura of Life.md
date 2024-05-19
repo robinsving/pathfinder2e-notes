@@ -1,5 +1,6 @@
 ---
 title: "Aura of Life"
+draft: true
 noteType: ":luggage:"
 aliases: "Aura of Life"
 foundryId: Item.Mo8es6oMssuZpvBj

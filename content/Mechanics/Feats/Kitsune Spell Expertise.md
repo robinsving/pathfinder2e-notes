@@ -1,5 +1,6 @@
 ---
 title: "Kitsune Spell Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Kitsune Spell Expertise"
 foundryId: Item.SoSu34R62HVop8xU

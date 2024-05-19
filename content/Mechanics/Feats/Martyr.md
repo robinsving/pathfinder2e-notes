@@ -1,5 +1,6 @@
 ---
 title: "Martyr"
+draft: true
 noteType: ":luggage:"
 aliases: "Martyr"
 foundryId: Item.DOdurJoCt68Rerg8

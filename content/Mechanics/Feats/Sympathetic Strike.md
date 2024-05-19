@@ -1,5 +1,6 @@
 ---
 title: "Sympathetic Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Sympathetic Strike"
 foundryId: Item.LIONo6JPzezpiVqU

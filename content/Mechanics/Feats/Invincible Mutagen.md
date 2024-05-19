@@ -1,5 +1,6 @@
 ---
 title: "Invincible Mutagen"
+draft: true
 noteType: ":luggage:"
 aliases: "Invincible Mutagen"
 foundryId: Item.8ArPuOsbAo8dr1Ya

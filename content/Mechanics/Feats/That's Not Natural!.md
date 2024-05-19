@@ -1,5 +1,6 @@
 ---
 title: "That's Not Natural!"
+draft: true
 noteType: ":luggage:"
 aliases: "That's Not Natural!"
 foundryId: Item.fFGNUxrrWXKXQnVZ

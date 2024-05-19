@@ -1,5 +1,6 @@
 ---
 title: "Ranger's Bramble"
+draft: true
 noteType: ":luggage:"
 aliases: "Ranger's Bramble"
 foundryId: Item.ghVTgV8TDNtaOqk6

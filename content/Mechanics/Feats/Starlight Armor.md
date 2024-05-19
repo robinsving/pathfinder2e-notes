@@ -1,5 +1,6 @@
 ---
 title: "Starlight Armor"
+draft: true
 noteType: ":luggage:"
 aliases: "Starlight Armor"
 foundryId: Item.YrZsO0Vlp8lm4dqA

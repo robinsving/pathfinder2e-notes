@@ -1,5 +1,6 @@
 ---
 title: "Quick Juggler"
+draft: true
 noteType: ":luggage:"
 aliases: "Quick Juggler"
 foundryId: Item.Lh7ZaaFVKSjeWeJM

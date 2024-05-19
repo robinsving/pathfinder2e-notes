@@ -1,5 +1,6 @@
 ---
 title: "Wyrmling Flight"
+draft: true
 noteType: ":luggage:"
 aliases: "Wyrmling Flight"
 foundryId: Item.gcqqPDlzq8Kg2NtD

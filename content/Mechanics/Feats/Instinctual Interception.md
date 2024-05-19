@@ -1,5 +1,6 @@
 ---
 title: "Instinctual Interception"
+draft: true
 noteType: ":luggage:"
 aliases: "Instinctual Interception"
 foundryId: Item.g0NDqTlekYpng61U

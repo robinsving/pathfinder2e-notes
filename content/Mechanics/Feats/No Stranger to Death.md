@@ -1,5 +1,6 @@
 ---
 title: "No Stranger to Death"
+draft: true
 noteType: ":luggage:"
 aliases: "No Stranger to Death"
 foundryId: Item.Bt8CN7QeisswTplD

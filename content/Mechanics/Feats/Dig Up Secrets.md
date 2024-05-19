@@ -1,5 +1,6 @@
 ---
 title: "Dig Up Secrets"
+draft: true
 noteType: ":luggage:"
 aliases: "Dig Up Secrets"
 foundryId: Item.u2spZQSVpMdWhkvk

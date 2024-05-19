@@ -1,5 +1,6 @@
 ---
 title: "Arrow of Death"
+draft: true
 noteType: ":luggage:"
 aliases: "Arrow of Death"
 foundryId: Item.kCgzZvbxdjH0UZwa

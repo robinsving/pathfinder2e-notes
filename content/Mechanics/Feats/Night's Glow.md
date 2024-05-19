@@ -1,5 +1,6 @@
 ---
 title: "Night's Glow"
+draft: true
 noteType: ":luggage:"
 aliases: "Night's Glow"
 foundryId: Item.NtGvWL3C1CitqXCS

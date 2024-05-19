@@ -1,5 +1,6 @@
 ---
 title: "Wayfinder Resonance Tinkerer"
+draft: true
 noteType: ":luggage:"
 aliases: "Wayfinder Resonance Tinkerer"
 foundryId: Item.PQnBaeVt9LQ8Rize

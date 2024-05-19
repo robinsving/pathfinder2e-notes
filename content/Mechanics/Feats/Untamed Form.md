@@ -1,5 +1,6 @@
 ---
 title: "Untamed Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Untamed Form"
 foundryId: Item.uJTxHkH9OTEUHuCD

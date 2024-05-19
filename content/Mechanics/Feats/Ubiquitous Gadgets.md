@@ -1,5 +1,6 @@
 ---
 title: "Ubiquitous Gadgets"
+draft: true
 noteType: ":luggage:"
 aliases: "Ubiquitous Gadgets"
 foundryId: Item.HTNyR1OTCjdyuf5k

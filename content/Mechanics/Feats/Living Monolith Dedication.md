@@ -1,5 +1,6 @@
 ---
 title: "Living Monolith Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Living Monolith Dedication"
 foundryId: Item.PgcWUJOEBcmKz4x1

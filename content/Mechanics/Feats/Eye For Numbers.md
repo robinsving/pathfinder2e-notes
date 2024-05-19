@@ -1,5 +1,6 @@
 ---
 title: "Eye For Numbers"
+draft: true
 noteType: ":luggage:"
 aliases: "Eye For Numbers"
 foundryId: Item.28yqZ5oHQAigKqOn

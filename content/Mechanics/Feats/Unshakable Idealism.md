@@ -1,5 +1,6 @@
 ---
 title: "Unshakable Idealism"
+draft: true
 noteType: ":luggage:"
 aliases: "Unshakable Idealism"
 foundryId: Item.PZPUZmsK6q1ztmHv

@@ -1,5 +1,6 @@
 ---
 title: "Diamond Soul"
+draft: true
 noteType: ":luggage:"
 aliases: "Diamond Soul"
 foundryId: Item.fsZGCmhSgAyNYugH

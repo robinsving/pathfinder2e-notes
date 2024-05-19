@@ -1,5 +1,6 @@
 ---
 title: "Fascinating Performance"
+draft: true
 noteType: ":luggage:"
 aliases: "Fascinating Performance"
 foundryId: Item.ICeoNB1xBBTztLgG

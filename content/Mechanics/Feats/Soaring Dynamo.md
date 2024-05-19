@@ -1,5 +1,6 @@
 ---
 title: "Soaring Dynamo"
+draft: true
 noteType: ":luggage:"
 aliases: "Soaring Dynamo"
 foundryId: Item.ZgowRGBTwH0QcDja

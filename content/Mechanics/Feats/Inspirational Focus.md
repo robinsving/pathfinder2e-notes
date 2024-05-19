@@ -1,5 +1,6 @@
 ---
 title: "Inspirational Focus"
+draft: true
 noteType: ":luggage:"
 aliases: "Inspirational Focus"
 foundryId: Item.83OGl0awoPW38xAM

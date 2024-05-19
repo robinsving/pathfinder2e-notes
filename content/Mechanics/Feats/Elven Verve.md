@@ -1,5 +1,6 @@
 ---
 title: "Elven Verve"
+draft: true
 noteType: ":luggage:"
 aliases: "Elven Verve"
 foundryId: Item.ZHuNoAxOCBmORs4w

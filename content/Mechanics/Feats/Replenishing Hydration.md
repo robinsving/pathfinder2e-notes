@@ -1,5 +1,6 @@
 ---
 title: "Replenishing Hydration"
+draft: true
 noteType: ":luggage:"
 aliases: "Replenishing Hydration"
 foundryId: Item.BzAQvxLirnnt1XcF

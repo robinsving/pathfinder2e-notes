@@ -1,5 +1,6 @@
 ---
 title: "Open Mind"
+draft: true
 noteType: ":luggage:"
 aliases: "Open Mind"
 foundryId: Item.ZZDIYut6AxORfXQH

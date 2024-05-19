@@ -1,5 +1,6 @@
 ---
 title: "Earned Glory"
+draft: true
 noteType: ":luggage:"
 aliases: "Earned Glory"
 foundryId: Item.f2kpJrH0v2iIfjOt

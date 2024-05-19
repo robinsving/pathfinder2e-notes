@@ -1,5 +1,6 @@
 ---
 title: "Gorilla Pound"
+draft: true
 noteType: ":luggage:"
 aliases: "Gorilla Pound"
 foundryId: Item.FAGSJ0oQfQOiYXPy

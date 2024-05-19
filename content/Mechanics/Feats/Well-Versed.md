@@ -1,5 +1,6 @@
 ---
 title: "Well-Versed"
+draft: true
 noteType: ":luggage:"
 aliases: "Well-Versed"
 foundryId: Item.vnzaHJ5vXMLgbGuV

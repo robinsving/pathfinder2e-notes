@@ -1,5 +1,6 @@
 ---
 title: "Disruptive Stare"
+draft: true
 noteType: ":luggage:"
 aliases: "Disruptive Stare"
 foundryId: Item.5dZAP4tBwVdFWszj

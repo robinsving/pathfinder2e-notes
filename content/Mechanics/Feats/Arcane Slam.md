@@ -1,5 +1,6 @@
 ---
 title: "Arcane Slam"
+draft: true
 noteType: ":luggage:"
 aliases: "Arcane Slam"
 foundryId: Item.ROXqpm6U1TxZG3id

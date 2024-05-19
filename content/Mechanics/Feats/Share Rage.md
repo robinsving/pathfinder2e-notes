@@ -1,5 +1,6 @@
 ---
 title: "Share Rage"
+draft: true
 noteType: ":luggage:"
 aliases: "Share Rage"
 foundryId: Item.oyJkjiL5X947BaXx

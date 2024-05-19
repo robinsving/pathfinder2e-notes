@@ -1,5 +1,6 @@
 ---
 title: "Dual-Weapon Blitz"
+draft: true
 noteType: ":luggage:"
 aliases: "Dual-Weapon Blitz"
 foundryId: Item.O0WfzYnVLLjSBFXc

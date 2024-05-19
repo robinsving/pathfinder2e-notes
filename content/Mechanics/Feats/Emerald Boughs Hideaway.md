@@ -1,5 +1,6 @@
 ---
 title: "Emerald Boughs Hideaway"
+draft: true
 noteType: ":luggage:"
 aliases: "Emerald Boughs Hideaway"
 foundryId: Item.ljlfkEQSOFFQjxHR

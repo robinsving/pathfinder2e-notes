@@ -1,5 +1,6 @@
 ---
 title: "Plot The Future"
+draft: true
 noteType: ":luggage:"
 aliases: "Plot The Future"
 foundryId: Item.ktuLaU6jhu2ld9Qr

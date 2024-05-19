@@ -1,5 +1,6 @@
 ---
 title: "Paired Shots"
+draft: true
 noteType: ":luggage:"
 aliases: "Paired Shots"
 foundryId: Item.Z3CNrce1eLqGI8NP

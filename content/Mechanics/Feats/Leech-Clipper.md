@@ -1,5 +1,6 @@
 ---
 title: "Leech-Clipper"
+draft: true
 noteType: ":luggage:"
 aliases: "Leech-Clipper"
 foundryId: Item.PQ6FMRLfqMpH3irK

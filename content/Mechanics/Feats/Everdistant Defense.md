@@ -1,5 +1,6 @@
 ---
 title: "Everdistant Defense"
+draft: true
 noteType: ":luggage:"
 aliases: "Everdistant Defense"
 foundryId: Item.c828XHmgOzATnovx

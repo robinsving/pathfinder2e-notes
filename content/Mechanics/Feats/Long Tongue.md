@@ -1,5 +1,6 @@
 ---
 title: "Long Tongue"
+draft: true
 noteType: ":luggage:"
 aliases: "Long Tongue"
 foundryId: Item.KlAsJ9tZ8vLjjirn

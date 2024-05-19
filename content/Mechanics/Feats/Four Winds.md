@@ -1,5 +1,6 @@
 ---
 title: "Four Winds"
+draft: true
 noteType: ":luggage:"
 aliases: "Four Winds"
 foundryId: Item.xvMOxNYVxpWL8xug

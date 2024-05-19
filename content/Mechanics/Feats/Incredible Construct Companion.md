@@ -1,5 +1,6 @@
 ---
 title: "Incredible Construct Companion"
+draft: true
 noteType: ":luggage:"
 aliases: "Incredible Construct Companion"
 foundryId: Item.gLTs3ocdsJ2rkF8P

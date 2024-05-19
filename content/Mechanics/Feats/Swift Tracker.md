@@ -1,5 +1,6 @@
 ---
 title: "Swift Tracker"
+draft: true
 noteType: ":luggage:"
 aliases: "Swift Tracker"
 foundryId: Item.nfScYhkK5NIsZSb0

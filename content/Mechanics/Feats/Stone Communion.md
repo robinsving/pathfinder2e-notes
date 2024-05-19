@@ -1,5 +1,6 @@
 ---
 title: "Stone Communion"
+draft: true
 noteType: ":luggage:"
 aliases: "Stone Communion"
 foundryId: Item.EwllRzSBIkidRkXp

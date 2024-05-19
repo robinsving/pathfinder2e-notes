@@ -1,5 +1,6 @@
 ---
 title: "Shed Tail"
+draft: true
 noteType: ":luggage:"
 aliases: "Shed Tail"
 foundryId: Item.3xUWQx9zFGF8k6Kq

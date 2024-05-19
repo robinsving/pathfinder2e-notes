@@ -1,5 +1,6 @@
 ---
 title: "Energy Resistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Energy Resistance"
 foundryId: Item.bGPVYS3Q87KQr6wm

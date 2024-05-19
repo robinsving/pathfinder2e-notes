@@ -1,5 +1,6 @@
 ---
 title: "Triggerbrand Salvo"
+draft: true
 noteType: ":luggage:"
 aliases: "Triggerbrand Salvo"
 foundryId: Item.j6NAbSpOQ2QExvex

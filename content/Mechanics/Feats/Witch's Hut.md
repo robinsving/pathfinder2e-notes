@@ -1,5 +1,6 @@
 ---
 title: "Witch's Hut"
+draft: true
 noteType: ":luggage:"
 aliases: "Witch's Hut"
 foundryId: Item.pe7bGll013f02uAj

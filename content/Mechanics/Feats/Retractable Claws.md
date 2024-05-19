@@ -1,5 +1,6 @@
 ---
 title: "Retractable Claws"
+draft: true
 noteType: ":luggage:"
 aliases: "Retractable Claws"
 foundryId: Item.YqVmN4dggZrkPq8u

@@ -1,5 +1,6 @@
 ---
 title: "Enlarged Chassis"
+draft: true
 noteType: ":luggage:"
 aliases: "Enlarged Chassis"
 foundryId: Item.LI5qdlA4XEjz6IyX

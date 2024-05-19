@@ -1,5 +1,6 @@
 ---
 title: "Clever Counterspell"
+draft: true
 noteType: ":luggage:"
 aliases: "Clever Counterspell"
 foundryId: Item.RgKSBQ667Mbj953y

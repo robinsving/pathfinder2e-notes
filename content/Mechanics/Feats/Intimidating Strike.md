@@ -1,5 +1,6 @@
 ---
 title: "Intimidating Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Intimidating Strike"
 foundryId: Item.PGvGYpAPUnmOWGu4

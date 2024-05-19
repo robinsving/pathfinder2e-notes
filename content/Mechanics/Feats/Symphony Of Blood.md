@@ -1,5 +1,6 @@
 ---
 title: "Symphony Of Blood"
+draft: true
 noteType: ":luggage:"
 aliases: "Symphony Of Blood"
 foundryId: Item.BDxE0lZxPwvowZ1s

@@ -1,5 +1,6 @@
 ---
 title: "Nimble Roll"
+draft: true
 noteType: ":luggage:"
 aliases: "Nimble Roll"
 foundryId: Item.VRcV4eNtN1P6O1sR

@@ -1,5 +1,6 @@
 ---
 title: "Duo's Aim"
+draft: true
 noteType: ":luggage:"
 aliases: "Duo's Aim"
 foundryId: Item.aoR5QpcgOp2zWzDI

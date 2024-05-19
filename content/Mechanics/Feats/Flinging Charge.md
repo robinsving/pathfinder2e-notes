@@ -1,5 +1,6 @@
 ---
 title: "Flinging Charge"
+draft: true
 noteType: ":luggage:"
 aliases: "Flinging Charge"
 foundryId: Item.Pr9oQ3XsO7w9CvON

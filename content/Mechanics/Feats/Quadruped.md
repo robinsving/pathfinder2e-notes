@@ -1,5 +1,6 @@
 ---
 title: "Quadruped"
+draft: true
 noteType: ":luggage:"
 aliases: "Quadruped"
 foundryId: Item.y88W0fwgSCW7INxB

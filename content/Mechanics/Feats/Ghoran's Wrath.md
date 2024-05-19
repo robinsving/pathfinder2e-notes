@@ -1,5 +1,6 @@
 ---
 title: "Ghoran's Wrath"
+draft: true
 noteType: ":luggage:"
 aliases: "Ghoran's Wrath"
 foundryId: Item.KwS7ewRudi17Cba5

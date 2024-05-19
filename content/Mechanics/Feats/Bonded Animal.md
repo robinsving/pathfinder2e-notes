@@ -1,5 +1,6 @@
 ---
 title: "Bonded Animal"
+draft: true
 noteType: ":luggage:"
 aliases: "Bonded Animal"
 foundryId: Item.3w8Bbv2FIp8MeGiN

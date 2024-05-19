@@ -1,5 +1,6 @@
 ---
 title: "Weapon Improviser Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Weapon Improviser Dedication"
 foundryId: Item.cMApl4nEWQwRuDPL

@@ -1,5 +1,6 @@
 ---
 title: "Shooter's Camouflage"
+draft: true
 noteType: ":luggage:"
 aliases: "Shooter's Camouflage"
 foundryId: Item.hbZfbORD8hYIuboT

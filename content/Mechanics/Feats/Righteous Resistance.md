@@ -1,5 +1,6 @@
 ---
 title: "Righteous Resistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Righteous Resistance"
 foundryId: Item.pgCibkvtoYsuetVC

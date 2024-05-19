@@ -1,5 +1,6 @@
 ---
 title: "Fortify Shield"
+draft: true
 noteType: ":luggage:"
 aliases: "Fortify Shield"
 foundryId: Item.pWVBmM8eGjdCwVXH

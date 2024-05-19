@@ -1,5 +1,6 @@
 ---
 title: "Sow Rumor"
+draft: true
 noteType: ":luggage:"
 aliases: "Sow Rumor"
 foundryId: Item.YWe9OzrDpSNfvSGz

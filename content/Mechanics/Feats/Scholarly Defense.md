@@ -1,5 +1,6 @@
 ---
 title: "Scholarly Defense"
+draft: true
 noteType: ":luggage:"
 aliases: "Scholarly Defense"
 foundryId: Item.Os9PSwBrlNL6PNaU

@@ -1,5 +1,6 @@
 ---
 title: "Shadow Master"
+draft: true
 noteType: ":luggage:"
 aliases: "Shadow Master"
 foundryId: Item.caLPsasxlJ1ZBmBA

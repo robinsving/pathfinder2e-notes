@@ -1,5 +1,6 @@
 ---
 title: "Greenwatch Veteran"
+draft: true
 noteType: ":luggage:"
 aliases: "Greenwatch Veteran"
 foundryId: Item.32Fxm5Ux6Go2tNA6

@@ -1,5 +1,6 @@
 ---
 title: "Manipulative Charm"
+draft: true
 noteType: ":luggage:"
 aliases: "Manipulative Charm"
 foundryId: Item.MKLWG58jFp45fK6C

@@ -1,5 +1,6 @@
 ---
 title: "Ore Fists"
+draft: true
 noteType: ":luggage:"
 aliases: "Ore Fists"
 foundryId: Item.6zseCQHxfygL84kq

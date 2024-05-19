@@ -1,5 +1,6 @@
 ---
 title: "Murderous Thorns"
+draft: true
 noteType: ":luggage:"
 aliases: "Murderous Thorns"
 foundryId: Item.10LjWQzVKxON7HQ2

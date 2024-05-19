@@ -1,5 +1,6 @@
 ---
 title: "Death's Drums"
+draft: true
 noteType: ":luggage:"
 aliases: "Death's Drums"
 foundryId: Item.LcA1FjSEWgU0028T

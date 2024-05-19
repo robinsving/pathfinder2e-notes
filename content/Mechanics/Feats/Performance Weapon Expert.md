@@ -1,5 +1,6 @@
 ---
 title: "Performance Weapon Expert"
+draft: true
 noteType: ":luggage:"
 aliases: "Performance Weapon Expert"
 foundryId: Item.8rz9xPYIVTmKfjbZ

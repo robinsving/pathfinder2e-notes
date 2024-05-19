@@ -1,5 +1,6 @@
 ---
 title: "Barrier Shield"
+draft: true
 noteType: ":luggage:"
 aliases: "Barrier Shield"
 foundryId: Item.KN8y3XDyz3gjzVkP

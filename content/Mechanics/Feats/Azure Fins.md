@@ -1,5 +1,6 @@
 ---
 title: "Azure Fins"
+draft: true
 noteType: ":luggage:"
 aliases: "Azure Fins"
 foundryId: Item.pdEMEGxNLWnR6UDK

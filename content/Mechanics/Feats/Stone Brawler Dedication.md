@@ -1,5 +1,6 @@
 ---
 title: "Stone Brawler Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Stone Brawler Dedication"
 foundryId: Item.WTSwFsV9Fb4M9TvF

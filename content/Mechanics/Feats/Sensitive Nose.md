@@ -1,5 +1,6 @@
 ---
 title: "Sensitive Nose"
+draft: true
 noteType: ":luggage:"
 aliases: "Sensitive Nose"
 foundryId: Item.bs6qptvIOIWGVlei

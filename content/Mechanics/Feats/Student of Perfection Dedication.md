@@ -1,5 +1,6 @@
 ---
 title: "Student of Perfection Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Student of Perfection Dedication"
 foundryId: Item.xXoKrO8kQzEzDzF1

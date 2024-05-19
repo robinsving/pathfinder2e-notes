@@ -1,5 +1,6 @@
 ---
 title: "Defensive Needles"
+draft: true
 noteType: ":luggage:"
 aliases: "Defensive Needles"
 foundryId: Item.xy02OryBKziaLDnX

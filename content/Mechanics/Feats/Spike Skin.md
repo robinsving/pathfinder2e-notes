@@ -1,5 +1,6 @@
 ---
 title: "Spike Skin"
+draft: true
 noteType: ":luggage:"
 aliases: "Spike Skin"
 foundryId: Item.Wl5o3p3O3XXphnh8

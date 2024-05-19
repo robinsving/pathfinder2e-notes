@@ -1,5 +1,6 @@
 ---
 title: "Gloomseer"
+draft: true
 noteType: ":luggage:"
 aliases: "Gloomseer"
 foundryId: Item.pCeTI4WwQn5NmMt9

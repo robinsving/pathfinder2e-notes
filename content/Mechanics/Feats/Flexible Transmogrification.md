@@ -1,5 +1,6 @@
 ---
 title: "Flexible Transmogrification"
+draft: true
 noteType: ":luggage:"
 aliases: "Flexible Transmogrification"
 foundryId: Item.vwAon1uTFHyBHM4V

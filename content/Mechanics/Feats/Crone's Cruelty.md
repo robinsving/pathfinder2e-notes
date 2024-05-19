@@ -1,5 +1,6 @@
 ---
 title: "Crone's Cruelty"
+draft: true
 noteType: ":luggage:"
 aliases: "Crone's Cruelty"
 foundryId: Item.pBIK5Ndo14p3b1nl

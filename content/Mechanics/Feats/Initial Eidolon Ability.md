@@ -1,5 +1,6 @@
 ---
 title: "Initial Eidolon Ability"
+draft: true
 noteType: ":luggage:"
 aliases: "Initial Eidolon Ability"
 foundryId: Item.Xt2YHzkqo9GNgXXC

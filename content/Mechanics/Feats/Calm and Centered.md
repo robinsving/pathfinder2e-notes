@@ -1,5 +1,6 @@
 ---
 title: "Calm and Centered"
+draft: true
 noteType: ":luggage:"
 aliases: "Calm and Centered"
 foundryId: Item.RgX3WmCrhfSWEjL9

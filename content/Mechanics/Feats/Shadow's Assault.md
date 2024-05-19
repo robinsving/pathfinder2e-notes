@@ -1,5 +1,6 @@
 ---
 title: "Shadow's Assault"
+draft: true
 noteType: ":luggage:"
 aliases: "Shadow's Assault"
 foundryId: Item.YwjxB9rGjWL1jnhx

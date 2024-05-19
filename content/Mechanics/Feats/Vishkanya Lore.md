@@ -1,5 +1,6 @@
 ---
 title: "Vishkanya Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Vishkanya Lore"
 foundryId: Item.GghkjBtxqv2gABi5

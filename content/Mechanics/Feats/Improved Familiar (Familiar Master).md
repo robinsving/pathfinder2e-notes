@@ -1,5 +1,6 @@
 ---
 title: "Improved Familiar (Familiar Master)"
+draft: true
 noteType: ":luggage:"
 aliases: "Improved Familiar (Familiar Master)"
 foundryId: Item.q7ZwxEFEtnCMupHW

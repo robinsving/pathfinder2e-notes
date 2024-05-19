@@ -1,5 +1,6 @@
 ---
 title: "Restoring Blood"
+draft: true
 noteType: ":luggage:"
 aliases: "Restoring Blood"
 foundryId: Item.UwguWuy2syrPR97K

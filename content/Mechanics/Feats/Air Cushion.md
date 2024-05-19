@@ -1,5 +1,6 @@
 ---
 title: "Air Cushion"
+draft: true
 noteType: ":luggage:"
 aliases: "Air Cushion"
 foundryId: Item.YWZoms29HRwrXZRj

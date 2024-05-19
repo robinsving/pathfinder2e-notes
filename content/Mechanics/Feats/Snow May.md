@@ -1,5 +1,6 @@
 ---
 title: "Snow May"
+draft: true
 noteType: ":luggage:"
 aliases: "Snow May"
 foundryId: Item.id0jsC5QEuaExV8H

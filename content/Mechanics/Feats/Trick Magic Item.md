@@ -1,5 +1,6 @@
 ---
 title: "Trick Magic Item"
+draft: true
 noteType: ":luggage:"
 aliases: "Trick Magic Item"
 foundryId: Item.I6wR7YVYzur350H8

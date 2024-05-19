@@ -1,5 +1,6 @@
 ---
 title: "Greater Spell Runes"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Spell Runes"
 foundryId: Item.MLllAiFFFlMp4StW

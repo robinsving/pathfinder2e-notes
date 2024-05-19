@@ -1,5 +1,6 @@
 ---
 title: "Caravan Leader"
+draft: true
 noteType: ":luggage:"
 aliases: "Caravan Leader"
 foundryId: Item.hfTeInuNXkt7Nkyh

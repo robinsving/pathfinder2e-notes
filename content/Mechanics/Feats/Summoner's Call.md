@@ -1,5 +1,6 @@
 ---
 title: "Summoner's Call"
+draft: true
 noteType: ":luggage:"
 aliases: "Summoner's Call"
 foundryId: Item.XM9Ql3PWJIfoNiyj

@@ -1,5 +1,6 @@
 ---
 title: "Tree's Ward"
+draft: true
 noteType: ":luggage:"
 aliases: "Tree's Ward"
 foundryId: Item.ygJmJ2yDs8abaTt3

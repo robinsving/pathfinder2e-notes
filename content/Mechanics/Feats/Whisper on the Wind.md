@@ -1,5 +1,6 @@
 ---
 title: "Whisper on the Wind"
+draft: true
 noteType: ":luggage:"
 aliases: "Whisper on the Wind"
 foundryId: Item.UdAngyrLnxgEkucj

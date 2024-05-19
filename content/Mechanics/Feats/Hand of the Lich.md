@@ -1,5 +1,6 @@
 ---
 title: "Hand of the Lich"
+draft: true
 noteType: ":luggage:"
 aliases: "Hand of the Lich"
 foundryId: Item.BMVrVNJyywGUxrpL

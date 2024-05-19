@@ -1,5 +1,6 @@
 ---
 title: "Winter Cat Senses"
+draft: true
 noteType: ":luggage:"
 aliases: "Winter Cat Senses"
 foundryId: Item.75SrZwmTxaUB2rtI

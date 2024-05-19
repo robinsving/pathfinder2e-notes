@@ -1,5 +1,6 @@
 ---
 title: "Envenom Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Envenom Strike"
 foundryId: Item.SPzCFH6KYYPETFZX

@@ -1,5 +1,6 @@
 ---
 title: "Arcane Camouflage"
+draft: true
 noteType: ":luggage:"
 aliases: "Arcane Camouflage"
 foundryId: Item.6Q0rlEED17ZcNs0v

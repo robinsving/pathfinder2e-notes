@@ -1,5 +1,6 @@
 ---
 title: "Maneuvering Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Maneuvering Spell"
 foundryId: Item.cGRYtdhaAlObOS61

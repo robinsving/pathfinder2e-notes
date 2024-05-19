@@ -1,5 +1,6 @@
 ---
 title: "Cannon Corner Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Cannon Corner Shot"
 foundryId: Item.KDRnRxDidx8QNH56

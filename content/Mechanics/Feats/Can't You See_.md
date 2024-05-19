@@ -1,5 +1,6 @@
 ---
 title: "Can't You See?"
+draft: true
 noteType: ":luggage:"
 aliases: "Can't You See?"
 foundryId: Item.iqFl1TVnjw7e1jf6

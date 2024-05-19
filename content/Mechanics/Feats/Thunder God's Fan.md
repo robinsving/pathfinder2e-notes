@@ -1,5 +1,6 @@
 ---
 title: "Thunder God's Fan"
+draft: true
 noteType: ":luggage:"
 aliases: "Thunder God's Fan"
 foundryId: Item.5z2k8AFU3vEe7My3

@@ -1,5 +1,6 @@
 ---
 title: "Terrain Shield"
+draft: true
 noteType: ":luggage:"
 aliases: "Terrain Shield"
 foundryId: Item.2Erayr1nRypRfQOA

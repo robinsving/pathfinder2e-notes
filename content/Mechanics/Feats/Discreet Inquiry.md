@@ -1,5 +1,6 @@
 ---
 title: "Discreet Inquiry"
+draft: true
 noteType: ":luggage:"
 aliases: "Discreet Inquiry"
 foundryId: Item.6QdEzOMI38o0bt5A

@@ -1,5 +1,6 @@
 ---
 title: "Rallying Cry"
+draft: true
 noteType: ":luggage:"
 aliases: "Rallying Cry"
 foundryId: Item.jq7HzFe23ZEdzS1W

@@ -1,5 +1,6 @@
 ---
 title: "Ley Line Conduit"
+draft: true
 noteType: ":luggage:"
 aliases: "Ley Line Conduit"
 foundryId: Item.MtehJfwFfnRCzKTA

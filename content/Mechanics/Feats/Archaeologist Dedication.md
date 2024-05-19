@@ -1,5 +1,6 @@
 ---
 title: "Archaeologist Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Archaeologist Dedication"
 foundryId: Item.JGiwnmsXCtRfMTk3

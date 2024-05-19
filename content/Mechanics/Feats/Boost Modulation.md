@@ -1,5 +1,6 @@
 ---
 title: "Boost Modulation"
+draft: true
 noteType: ":luggage:"
 aliases: "Boost Modulation"
 foundryId: Item.CstVUxmMpfdhmGf0

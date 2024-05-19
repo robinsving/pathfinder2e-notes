@@ -1,5 +1,6 @@
 ---
 title: "Soaring Armor"
+draft: true
 noteType: ":luggage:"
 aliases: "Soaring Armor"
 foundryId: Item.wFZOKZZhjOZln1fB

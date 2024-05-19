@@ -1,5 +1,6 @@
 ---
 title: "Ancestor's Rage"
+draft: true
 noteType: ":luggage:"
 aliases: "Ancestor's Rage"
 foundryId: Item.crGLknUmAnAy2zey

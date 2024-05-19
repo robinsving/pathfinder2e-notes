@@ -1,5 +1,6 @@
 ---
 title: "Hard To Fool"
+draft: true
 noteType: ":luggage:"
 aliases: "Hard To Fool"
 foundryId: Item.rIcANw46O3A2MFeJ

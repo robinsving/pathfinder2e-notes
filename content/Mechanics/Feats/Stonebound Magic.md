@@ -1,5 +1,6 @@
 ---
 title: "Stonebound Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Stonebound Magic"
 foundryId: Item.cWv0KGW6NzMzlJ5E

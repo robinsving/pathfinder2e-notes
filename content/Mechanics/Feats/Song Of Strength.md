@@ -1,5 +1,6 @@
 ---
 title: "Song Of Strength"
+draft: true
 noteType: ":luggage:"
 aliases: "Song Of Strength"
 foundryId: Item.cqcxvhyBZMc94thS

@@ -1,5 +1,6 @@
 ---
 title: "Summon Wood Elemental"
+draft: true
 noteType: ":luggage:"
 aliases: "Summon Wood Elemental"
 foundryId: Item.vHwXQlXA7dE9C3Gu

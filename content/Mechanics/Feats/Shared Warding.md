@@ -1,5 +1,6 @@
 ---
 title: "Shared Warding"
+draft: true
 noteType: ":luggage:"
 aliases: "Shared Warding"
 foundryId: Item.8QnYlPOUEpppIyWX

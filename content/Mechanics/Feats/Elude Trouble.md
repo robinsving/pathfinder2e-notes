@@ -1,5 +1,6 @@
 ---
 title: "Elude Trouble"
+draft: true
 noteType: ":luggage:"
 aliases: "Elude Trouble"
 foundryId: Item.PAlvnDymXTJprQRQ

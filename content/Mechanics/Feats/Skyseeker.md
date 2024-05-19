@@ -1,5 +1,6 @@
 ---
 title: "Skyseeker"
+draft: true
 noteType: ":luggage:"
 aliases: "Skyseeker"
 foundryId: Item.BDfivTRlkV22AyRi

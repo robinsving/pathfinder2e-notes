@@ -1,5 +1,6 @@
 ---
 title: "Nightvision Adaptation"
+draft: true
 noteType: ":luggage:"
 aliases: "Nightvision Adaptation"
 foundryId: Item.upQmLewiQ6OSkXlv

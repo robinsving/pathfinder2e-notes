@@ -1,5 +1,6 @@
 ---
 title: "Specialized Mount"
+draft: true
 noteType: ":luggage:"
 aliases: "Specialized Mount"
 foundryId: Item.78swOnD8Fc9gxZoo

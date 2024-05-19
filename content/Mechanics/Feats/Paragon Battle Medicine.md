@@ -1,5 +1,6 @@
 ---
 title: "Paragon Battle Medicine"
+draft: true
 noteType: ":luggage:"
 aliases: "Paragon Battle Medicine"
 foundryId: Item.9o8NS4pclSMIGgUA

@@ -1,5 +1,6 @@
 ---
 title: "Magic Hands"
+draft: true
 noteType: ":luggage:"
 aliases: "Magic Hands"
 foundryId: Item.LRHEb7nTGIZyzstx

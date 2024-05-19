@@ -1,5 +1,6 @@
 ---
 title: "Counter Curse"
+draft: true
 noteType: ":luggage:"
 aliases: "Counter Curse"
 foundryId: Item.4KWAskZ9JGYbdmG2

@@ -1,5 +1,6 @@
 ---
 title: "Obscured Emergence"
+draft: true
 noteType: ":luggage:"
 aliases: "Obscured Emergence"
 foundryId: Item.ZN6LGAZPS8jnLUhA

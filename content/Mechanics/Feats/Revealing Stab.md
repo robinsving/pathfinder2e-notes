@@ -1,5 +1,6 @@
 ---
 title: "Revealing Stab"
+draft: true
 noteType: ":luggage:"
 aliases: "Revealing Stab"
 foundryId: Item.jxnf9DhhCF1TnaPo

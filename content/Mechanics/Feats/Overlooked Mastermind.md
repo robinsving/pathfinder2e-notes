@@ -1,5 +1,6 @@
 ---
 title: "Overlooked Mastermind"
+draft: true
 noteType: ":luggage:"
 aliases: "Overlooked Mastermind"
 foundryId: Item.6IuEpMKQPA7Zh2qY

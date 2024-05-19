@@ -1,5 +1,6 @@
 ---
 title: "Thermal Nimbus"
+draft: true
 noteType: ":luggage:"
 aliases: "Thermal Nimbus"
 foundryId: Item.pQSDyejQA7iNY6XV

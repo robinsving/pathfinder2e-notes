@@ -1,5 +1,6 @@
 ---
 title: "Witchwood Seed"
+draft: true
 noteType: ":luggage:"
 aliases: "Witchwood Seed"
 foundryId: Item.dX3u90qk9CtFvCXa

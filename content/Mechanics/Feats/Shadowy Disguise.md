@@ -1,5 +1,6 @@
 ---
 title: "Shadowy Disguise"
+draft: true
 noteType: ":luggage:"
 aliases: "Shadowy Disguise"
 foundryId: Item.7QwgMF2FszLcqTTU

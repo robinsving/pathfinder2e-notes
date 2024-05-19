@@ -1,5 +1,6 @@
 ---
 title: "Control Tower"
+draft: true
 noteType: ":luggage:"
 aliases: "Control Tower"
 foundryId: Item.8ETvELZo4QQSqDmx

@@ -1,5 +1,6 @@
 ---
 title: "Tools Of The Trade"
+draft: true
 noteType: ":luggage:"
 aliases: "Tools Of The Trade"
 foundryId: Item.rb8EAjAqxe0twBdz

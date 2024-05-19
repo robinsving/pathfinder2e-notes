@@ -1,5 +1,6 @@
 ---
 title: "Elemental Overlap"
+draft: true
 noteType: ":luggage:"
 aliases: "Elemental Overlap"
 foundryId: Item.P5YfjAH6j1C1gz4a

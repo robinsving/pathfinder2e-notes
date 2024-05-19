@@ -1,5 +1,6 @@
 ---
 title: "Perfect Clarity"
+draft: true
 noteType: ":luggage:"
 aliases: "Perfect Clarity"
 foundryId: Item.qs0xDYSE6xsmbYZV

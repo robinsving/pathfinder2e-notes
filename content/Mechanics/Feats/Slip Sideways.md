@@ -1,5 +1,6 @@
 ---
 title: "Slip Sideways"
+draft: true
 noteType: ":luggage:"
 aliases: "Slip Sideways"
 foundryId: Item.85mxQzaIniIfEz8G

@@ -1,5 +1,6 @@
 ---
 title: "Cruelty"
+draft: true
 noteType: ":luggage:"
 aliases: "Cruelty"
 foundryId: Item.8VPEH9WBZzJICmmy

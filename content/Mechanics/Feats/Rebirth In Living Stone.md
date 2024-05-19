@@ -1,5 +1,6 @@
 ---
 title: "Rebirth In Living Stone"
+draft: true
 noteType: ":luggage:"
 aliases: "Rebirth In Living Stone"
 foundryId: Item.LecU99xtvP7D22Xk

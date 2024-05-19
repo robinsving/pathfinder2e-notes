@@ -1,5 +1,6 @@
 ---
 title: "Hobgoblin Weapon Discipline"
+draft: true
 noteType: ":luggage:"
 aliases: "Hobgoblin Weapon Discipline"
 foundryId: Item.Gqit176B2doN3zQA

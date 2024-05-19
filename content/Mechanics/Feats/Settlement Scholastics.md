@@ -1,5 +1,6 @@
 ---
 title: "Settlement Scholastics"
+draft: true
 noteType: ":luggage:"
 aliases: "Settlement Scholastics"
 foundryId: Item.k22rc99PZZANZI15

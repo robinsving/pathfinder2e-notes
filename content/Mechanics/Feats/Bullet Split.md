@@ -1,5 +1,6 @@
 ---
 title: "Bullet Split"
+draft: true
 noteType: ":luggage:"
 aliases: "Bullet Split"
 foundryId: Item.xSKRQD7mPOHeDSyT

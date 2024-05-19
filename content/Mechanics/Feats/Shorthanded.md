@@ -1,5 +1,6 @@
 ---
 title: "Shorthanded"
+draft: true
 noteType: ":luggage:"
 aliases: "Shorthanded"
 foundryId: Item.YE7b6JXHlNYI18bW

@@ -1,5 +1,6 @@
 ---
 title: "Ghoul Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Ghoul Dedication"
 foundryId: Item.NQjtM96XdVkTc6gR

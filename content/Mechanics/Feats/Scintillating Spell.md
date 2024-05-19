@@ -1,5 +1,6 @@
 ---
 title: "Scintillating Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Scintillating Spell"
 foundryId: Item.ex5cqyJGMThkUl3J

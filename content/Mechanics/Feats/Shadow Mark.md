@@ -1,5 +1,6 @@
 ---
 title: "Shadow Mark"
+draft: true
 noteType: ":luggage:"
 aliases: "Shadow Mark"
 foundryId: Item.Q9LIpjYPpVBfyzes

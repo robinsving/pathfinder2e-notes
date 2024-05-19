@@ -1,5 +1,6 @@
 ---
 title: "Skillful Tail (Nephilim)"
+draft: true
 noteType: ":luggage:"
 aliases: "Skillful Tail (Nephilim)"
 foundryId: Item.SlvGMKhit33r0P2W

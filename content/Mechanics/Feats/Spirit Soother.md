@@ -1,5 +1,6 @@
 ---
 title: "Spirit Soother"
+draft: true
 noteType: ":luggage:"
 aliases: "Spirit Soother"
 foundryId: Item.bzQmRbptxPA3OcoU

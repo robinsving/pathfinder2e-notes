@@ -1,5 +1,6 @@
 ---
 title: "Greater Magical Scholastics"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Magical Scholastics"
 foundryId: Item.6Nf0ipj02shSkcv9

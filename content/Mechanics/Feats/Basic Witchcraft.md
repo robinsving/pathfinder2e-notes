@@ -1,5 +1,6 @@
 ---
 title: "Basic Witchcraft"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Witchcraft"
 foundryId: Item.3fpYg1A6NUv35435

@@ -1,5 +1,6 @@
 ---
 title: "Cornered Fury"
+draft: true
 noteType: ":luggage:"
 aliases: "Cornered Fury"
 foundryId: Item.OYVpThd1pLIu3laT

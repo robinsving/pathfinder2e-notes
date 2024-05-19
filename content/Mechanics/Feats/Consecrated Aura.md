@@ -1,5 +1,6 @@
 ---
 title: "Consecrated Aura"
+draft: true
 noteType: ":luggage:"
 aliases: "Consecrated Aura"
 foundryId: Item.2KNNvxgUiURz0tsu

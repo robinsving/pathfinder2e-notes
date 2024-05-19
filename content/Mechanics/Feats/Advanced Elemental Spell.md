@@ -1,5 +1,6 @@
 ---
 title: "Advanced Elemental Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Elemental Spell"
 foundryId: Item.7rScOjwfV35va66y

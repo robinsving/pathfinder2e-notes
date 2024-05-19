@@ -1,5 +1,6 @@
 ---
 title: "Embed Aeon Stone"
+draft: true
 noteType: ":luggage:"
 aliases: "Embed Aeon Stone"
 foundryId: Item.oA4jpPq1kCppipBn

@@ -1,5 +1,6 @@
 ---
 title: "Viper Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Viper Strike"
 foundryId: Item.WQk2AmBhT0ql1uga

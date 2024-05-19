@@ -1,5 +1,6 @@
 ---
 title: "Orc Weapon Familiarity"
+draft: true
 noteType: ":luggage:"
 aliases: "Orc Weapon Familiarity"
 foundryId: Item.RNXps8QGj7pp51ME

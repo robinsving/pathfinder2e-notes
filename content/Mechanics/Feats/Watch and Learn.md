@@ -1,5 +1,6 @@
 ---
 title: "Watch and Learn"
+draft: true
 noteType: ":luggage:"
 aliases: "Watch and Learn"
 foundryId: Item.ZJzc9gwmP1rJQyFb

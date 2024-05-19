@@ -1,5 +1,6 @@
 ---
 title: "Tough Tumbler"
+draft: true
 noteType: ":luggage:"
 aliases: "Tough Tumbler"
 foundryId: Item.dZvk7i2U3x9sWbNN

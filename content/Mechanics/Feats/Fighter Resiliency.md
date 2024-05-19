@@ -1,5 +1,6 @@
 ---
 title: "Fighter Resiliency"
+draft: true
 noteType: ":luggage:"
 aliases: "Fighter Resiliency"
 foundryId: Item.9RKctzZ16YQ3lsoD

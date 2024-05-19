@@ -1,5 +1,6 @@
 ---
 title: "Stonebound Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Stonebound Dedication"
 foundryId: Item.oPh3bqYPo9CM5o3S

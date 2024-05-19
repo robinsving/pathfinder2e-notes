@@ -1,5 +1,6 @@
 ---
 title: "Solar Rejuvenation"
+draft: true
 noteType: ":luggage:"
 aliases: "Solar Rejuvenation"
 foundryId: Item.TRgXZc9XsWauqXOb

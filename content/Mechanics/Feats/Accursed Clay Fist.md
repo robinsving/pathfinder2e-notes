@@ -1,5 +1,6 @@
 ---
 title: "Accursed Clay Fist"
+draft: true
 noteType: ":luggage:"
 aliases: "Accursed Clay Fist"
 foundryId: Item.0ZLcQPbcg5tuYSjW

@@ -1,5 +1,6 @@
 ---
 title: "Irezoko Tattoo"
+draft: true
 noteType: ":luggage:"
 aliases: "Irezoko Tattoo"
 foundryId: Item.Eqd91nBioJfaUOQX

@@ -1,5 +1,6 @@
 ---
 title: "Magaambyan Attendant Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Magaambyan Attendant Dedication"
 foundryId: Item.cAkmQRgn0QlqYKvj

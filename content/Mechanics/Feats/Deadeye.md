@@ -1,5 +1,6 @@
 ---
 title: "Deadeye"
+draft: true
 noteType: ":luggage:"
 aliases: "Deadeye"
 foundryId: Item.nH8wuG2KoIvK2Hld

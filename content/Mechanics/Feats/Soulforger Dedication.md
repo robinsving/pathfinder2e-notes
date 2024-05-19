@@ -1,5 +1,6 @@
 ---
 title: "Soulforger Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Soulforger Dedication"
 foundryId: Item.Xp55j12JYcCsGdz0

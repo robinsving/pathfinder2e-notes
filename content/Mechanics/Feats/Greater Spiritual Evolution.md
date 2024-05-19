@@ -1,5 +1,6 @@
 ---
 title: "Greater Spiritual Evolution"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Spiritual Evolution"
 foundryId: Item.Z69U4pDSiCQARDD0

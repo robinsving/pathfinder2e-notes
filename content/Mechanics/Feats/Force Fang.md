@@ -1,5 +1,6 @@
 ---
 title: "Force Fang"
+draft: true
 noteType: ":luggage:"
 aliases: "Force Fang"
 foundryId: Item.mDxtJhQB4ZpTSAPM

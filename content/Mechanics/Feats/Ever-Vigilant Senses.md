@@ -1,5 +1,6 @@
 ---
 title: "Ever-Vigilant Senses"
+draft: true
 noteType: ":luggage:"
 aliases: "Ever-Vigilant Senses"
 foundryId: Item.AAZ5Ucsdvz7qWMD1

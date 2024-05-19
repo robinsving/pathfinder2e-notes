@@ -1,5 +1,6 @@
 ---
 title: "Dual Finisher"
+draft: true
 noteType: ":luggage:"
 aliases: "Dual Finisher"
 foundryId: Item.JyFfMsEiHsqoZve0

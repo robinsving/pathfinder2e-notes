@@ -1,5 +1,6 @@
 ---
 title: "Stance Savant (Monk)"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance Savant (Monk)"
 foundryId: Item.g9AbY9M7AOndnmcE

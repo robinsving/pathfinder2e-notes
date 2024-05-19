@@ -1,5 +1,6 @@
 ---
 title: "Cat Nap"
+draft: true
 noteType: ":luggage:"
 aliases: "Cat Nap"
 foundryId: Item.S1bwO17SIpXAXJsP

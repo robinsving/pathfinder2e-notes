@@ -1,5 +1,6 @@
 ---
 title: "Streetwise"
+draft: true
 noteType: ":luggage:"
 aliases: "Streetwise"
 foundryId: Item.TU4bx4IeJVrDzuFV

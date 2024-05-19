@@ -1,5 +1,6 @@
 ---
 title: "Bespell Strikes"
+draft: true
 noteType: ":luggage:"
 aliases: "Bespell Strikes"
 foundryId: Item.g2suBTZ35LKqlOxA

@@ -1,5 +1,6 @@
 ---
 title: "Command Elemental"
+draft: true
 noteType: ":luggage:"
 aliases: "Command Elemental"
 foundryId: Item.Tf0JFpM8Mh4QMhf3

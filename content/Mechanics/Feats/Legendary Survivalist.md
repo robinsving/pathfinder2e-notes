@@ -1,5 +1,6 @@
 ---
 title: "Legendary Survivalist"
+draft: true
 noteType: ":luggage:"
 aliases: "Legendary Survivalist"
 foundryId: Item.7JLUAzyRzZQHOzq0

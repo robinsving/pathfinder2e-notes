@@ -1,5 +1,6 @@
 ---
 title: "Cobble Dancer"
+draft: true
 noteType: ":luggage:"
 aliases: "Cobble Dancer"
 foundryId: Item.IRHP44HefIXqDF1b

@@ -1,5 +1,6 @@
 ---
 title: "Flurry of Maneuvers"
+draft: true
 noteType: ":luggage:"
 aliases: "Flurry of Maneuvers"
 foundryId: Item.071ElifMLY7jwjmY

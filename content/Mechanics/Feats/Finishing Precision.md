@@ -1,5 +1,6 @@
 ---
 title: "Finishing Precision"
+draft: true
 noteType: ":luggage:"
 aliases: "Finishing Precision"
 foundryId: Item.kxqAFwYi9kxPQcHf

@@ -1,5 +1,6 @@
 ---
 title: "Cooperative Crafting"
+draft: true
 noteType: ":luggage:"
 aliases: "Cooperative Crafting"
 foundryId: Item.Aioq1j8Epr09c5qG

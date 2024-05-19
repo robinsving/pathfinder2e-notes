@@ -1,5 +1,6 @@
 ---
 title: "Prairie Rider"
+draft: true
 noteType: ":luggage:"
 aliases: "Prairie Rider"
 foundryId: Item.2DPSsXdZ9KrNO9Rl

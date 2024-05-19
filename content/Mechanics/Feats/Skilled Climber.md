@@ -1,5 +1,6 @@
 ---
 title: "Skilled Climber"
+draft: true
 noteType: ":luggage:"
 aliases: "Skilled Climber"
 foundryId: Item.IjDmK8MmBjl1C7VW

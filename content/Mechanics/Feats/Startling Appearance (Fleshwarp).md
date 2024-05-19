@@ -1,5 +1,6 @@
 ---
 title: "Startling Appearance (Fleshwarp)"
+draft: true
 noteType: ":luggage:"
 aliases: "Startling Appearance (Fleshwarp)"
 foundryId: Item.vfO0WaAlpwlexUQI

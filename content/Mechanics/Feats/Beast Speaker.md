@@ -1,5 +1,6 @@
 ---
 title: "Beast Speaker"
+draft: true
 noteType: ":luggage:"
 aliases: "Beast Speaker"
 foundryId: Item.aLUePK5o5cO8g5ac

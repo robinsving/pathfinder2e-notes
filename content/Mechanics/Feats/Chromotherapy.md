@@ -1,5 +1,6 @@
 ---
 title: "Chromotherapy"
+draft: true
 noteType: ":luggage:"
 aliases: "Chromotherapy"
 foundryId: Item.pZh84TO60ZSNbRmF

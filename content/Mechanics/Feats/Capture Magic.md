@@ -1,5 +1,6 @@
 ---
 title: "Capture Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Capture Magic"
 foundryId: Item.DeZ9wdYmu9JjaCjB

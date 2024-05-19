@@ -1,5 +1,6 @@
 ---
 title: "Crowned in Tempest's Fury"
+draft: true
 noteType: ":luggage:"
 aliases: "Crowned in Tempest's Fury"
 foundryId: Item.pbpNurTo99U1zFyp

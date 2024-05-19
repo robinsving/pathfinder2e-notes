@@ -1,5 +1,6 @@
 ---
 title: "Accursed Claws"
+draft: true
 noteType: ":luggage:"
 aliases: "Accursed Claws"
 foundryId: Item.SavOdv0TtqdmStb4

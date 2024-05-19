@@ -1,5 +1,6 @@
 ---
 title: "Elf Step"
+draft: true
 noteType: ":luggage:"
 aliases: "Elf Step"
 foundryId: Item.LXVnwKR1rbmehiev

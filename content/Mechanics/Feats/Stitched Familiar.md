@@ -1,5 +1,6 @@
 ---
 title: "Stitched Familiar"
+draft: true
 noteType: ":luggage:"
 aliases: "Stitched Familiar"
 foundryId: Item.rKX1h8tksei7obj4

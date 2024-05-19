@@ -1,5 +1,6 @@
 ---
 title: "Dwarven Doughtiness"
+draft: true
 noteType: ":luggage:"
 aliases: "Dwarven Doughtiness"
 foundryId: Item.xjiquURhfFnKxVdF

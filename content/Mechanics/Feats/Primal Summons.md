@@ -1,5 +1,6 @@
 ---
 title: "Primal Summons"
+draft: true
 noteType: ":luggage:"
 aliases: "Primal Summons"
 foundryId: Item.xuxbn1bUPHAxq4FW

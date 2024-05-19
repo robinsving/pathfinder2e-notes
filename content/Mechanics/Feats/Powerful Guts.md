@@ -1,5 +1,6 @@
 ---
 title: "Powerful Guts"
+draft: true
 noteType: ":luggage:"
 aliases: "Powerful Guts"
 foundryId: Item.RXVGjQAFgb1IKS4m

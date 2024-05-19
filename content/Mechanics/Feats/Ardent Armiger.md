@@ -1,5 +1,6 @@
 ---
 title: "Ardent Armiger"
+draft: true
 noteType: ":luggage:"
 aliases: "Ardent Armiger"
 foundryId: Item.JNkZMcnF1mGT7X1P

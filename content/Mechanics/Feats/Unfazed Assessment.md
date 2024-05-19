@@ -1,5 +1,6 @@
 ---
 title: "Unfazed Assessment"
+draft: true
 noteType: ":luggage:"
 aliases: "Unfazed Assessment"
 foundryId: Item.Abvvdng3fk4epBxS

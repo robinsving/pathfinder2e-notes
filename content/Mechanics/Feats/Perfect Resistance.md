@@ -1,5 +1,6 @@
 ---
 title: "Perfect Resistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Perfect Resistance"
 foundryId: Item.fqibTQb7bMwc3nE8

@@ -1,5 +1,6 @@
 ---
 title: "Speak With Bats"
+draft: true
 noteType: ":luggage:"
 aliases: "Speak With Bats"
 foundryId: Item.WXDnQ3U0TlIJ7tPl

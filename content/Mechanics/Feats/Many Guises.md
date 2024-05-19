@@ -1,5 +1,6 @@
 ---
 title: "Many Guises"
+draft: true
 noteType: ":luggage:"
 aliases: "Many Guises"
 foundryId: Item.MsD3pHz0clmef7PG

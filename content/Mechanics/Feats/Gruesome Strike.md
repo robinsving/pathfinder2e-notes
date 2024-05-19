@@ -1,5 +1,6 @@
 ---
 title: "Gruesome Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Gruesome Strike"
 foundryId: Item.TXq2uqVIoTbs9vg8

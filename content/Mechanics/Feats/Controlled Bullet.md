@@ -1,5 +1,6 @@
 ---
 title: "Controlled Bullet"
+draft: true
 noteType: ":luggage:"
 aliases: "Controlled Bullet"
 foundryId: Item.0ek2qrpSOOdE0w7j

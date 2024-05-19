@@ -1,5 +1,6 @@
 ---
 title: "Elysium's Cadence"
+draft: true
 noteType: ":luggage:"
 aliases: "Elysium's Cadence"
 foundryId: Item.rIU0Ye72sEfOLXyh

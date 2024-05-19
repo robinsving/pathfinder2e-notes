@@ -1,5 +1,6 @@
 ---
 title: "Legendary Summoner"
+draft: true
 noteType: ":luggage:"
 aliases: "Legendary Summoner"
 foundryId: Item.cyxt9puq8oBWFcBU

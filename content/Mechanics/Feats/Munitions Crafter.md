@@ -1,5 +1,6 @@
 ---
 title: "Munitions Crafter"
+draft: true
 noteType: ":luggage:"
 aliases: "Munitions Crafter"
 foundryId: Item.e90VtW4Bu4yeyGZJ

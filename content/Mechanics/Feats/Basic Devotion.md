@@ -1,5 +1,6 @@
 ---
 title: "Basic Devotion"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Devotion"
 foundryId: Item.MwO1k4Bp3lkHswu0

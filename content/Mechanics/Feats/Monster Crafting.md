@@ -1,5 +1,6 @@
 ---
 title: "Monster Crafting"
+draft: true
 noteType: ":luggage:"
 aliases: "Monster Crafting"
 foundryId: Item.3513X4zoXDO3c4Iu

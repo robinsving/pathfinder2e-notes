@@ -1,5 +1,6 @@
 ---
 title: "Conceited Mindset"
+draft: true
 noteType: ":luggage:"
 aliases: "Conceited Mindset"
 foundryId: Item.yI6ym91b4Dcv0yui

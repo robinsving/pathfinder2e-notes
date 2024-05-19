@@ -1,5 +1,6 @@
 ---
 title: "Spine Stabber"
+draft: true
 noteType: ":luggage:"
 aliases: "Spine Stabber"
 foundryId: Item.pijfWQfH0lO6T4jg

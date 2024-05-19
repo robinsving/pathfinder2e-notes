@@ -1,5 +1,6 @@
 ---
 title: "Discordant Voice"
+draft: true
 noteType: ":luggage:"
 aliases: "Discordant Voice"
 foundryId: Item.2ODcNZguk3tznABa

@@ -1,5 +1,6 @@
 ---
 title: "Tree of Duality"
+draft: true
 noteType: ":luggage:"
 aliases: "Tree of Duality"
 foundryId: Item.Doc57qgPV5vvtjVs

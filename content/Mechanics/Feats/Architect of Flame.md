@@ -1,5 +1,6 @@
 ---
 title: "Architect of Flame"
+draft: true
 noteType: ":luggage:"
 aliases: "Architect of Flame"
 foundryId: Item.Iwp7H3PWrMFLA2M1

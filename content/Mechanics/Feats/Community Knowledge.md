@@ -1,5 +1,6 @@
 ---
 title: "Community Knowledge"
+draft: true
 noteType: ":luggage:"
 aliases: "Community Knowledge"
 foundryId: Item.BXrVo2RK5dpdITRx

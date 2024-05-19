@@ -1,5 +1,6 @@
 ---
 title: "Wind-Tossed Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Wind-Tossed Spell"
 foundryId: Item.E0BfB7QEBDoupSyu

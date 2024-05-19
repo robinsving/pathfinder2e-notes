@@ -1,5 +1,6 @@
 ---
 title: "Ranged Reprisal"
+draft: true
 noteType: ":luggage:"
 aliases: "Ranged Reprisal"
 foundryId: Item.SwPAws0JvzbJhBFD

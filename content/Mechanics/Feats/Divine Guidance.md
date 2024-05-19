@@ -1,5 +1,6 @@
 ---
 title: "Divine Guidance"
+draft: true
 noteType: ":luggage:"
 aliases: "Divine Guidance"
 foundryId: Item.IBM6YUYzBU8IP456

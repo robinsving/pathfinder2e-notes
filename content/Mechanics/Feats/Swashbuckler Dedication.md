@@ -1,5 +1,6 @@
 ---
 title: "Swashbuckler Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Swashbuckler Dedication"
 foundryId: Item.kyxlJJRpp3WkDSAy

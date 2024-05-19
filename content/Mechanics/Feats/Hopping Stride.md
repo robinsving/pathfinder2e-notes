@@ -1,5 +1,6 @@
 ---
 title: "Hopping Stride"
+draft: true
 noteType: ":luggage:"
 aliases: "Hopping Stride"
 foundryId: Item.z1g6ZVi3C6doEku8

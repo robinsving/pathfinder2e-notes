@@ -1,5 +1,6 @@
 ---
 title: "Eldritch Archer Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Eldritch Archer Dedication"
 foundryId: Item.zgZ0uRTTqYpH8MEV

@@ -1,5 +1,6 @@
 ---
 title: "Inured to the Heat"
+draft: true
 noteType: ":luggage:"
 aliases: "Inured to the Heat"
 foundryId: Item.KlSayYx8mz7aSdMe

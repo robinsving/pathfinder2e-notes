@@ -1,5 +1,6 @@
 ---
 title: "Lingering Flames"
+draft: true
 noteType: ":luggage:"
 aliases: "Lingering Flames"
 foundryId: Item.0YW0z8EO7lElgTus

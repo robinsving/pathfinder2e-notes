@@ -1,5 +1,6 @@
 ---
 title: "Ceremony of Knowledge"
+draft: true
 noteType: ":luggage:"
 aliases: "Ceremony of Knowledge"
 foundryId: Item.2RdYamil9VcjMlfO

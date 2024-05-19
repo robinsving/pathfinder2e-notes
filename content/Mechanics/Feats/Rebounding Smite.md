@@ -1,5 +1,6 @@
 ---
 title: "Rebounding Smite"
+draft: true
 noteType: ":luggage:"
 aliases: "Rebounding Smite"
 foundryId: Item.zpvnGDhPWL81A8lY

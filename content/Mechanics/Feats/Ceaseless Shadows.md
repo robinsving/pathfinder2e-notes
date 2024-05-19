@@ -1,5 +1,6 @@
 ---
 title: "Ceaseless Shadows"
+draft: true
 noteType: ":luggage:"
 aliases: "Ceaseless Shadows"
 foundryId: Item.2Kdcfjkgsx2w45p7

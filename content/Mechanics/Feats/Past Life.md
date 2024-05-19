@@ -1,5 +1,6 @@
 ---
 title: "Past Life"
+draft: true
 noteType: ":luggage:"
 aliases: "Past Life"
 foundryId: Item.vLZ6ZTGb58YtonVc

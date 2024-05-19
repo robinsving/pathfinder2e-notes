@@ -1,5 +1,6 @@
 ---
 title: "Grievous Blow"
+draft: true
 noteType: ":luggage:"
 aliases: "Grievous Blow"
 foundryId: Item.eRPYyFSoGGCkigFw

@@ -1,5 +1,6 @@
 ---
 title: "Decry Thief"
+draft: true
 noteType: ":luggage:"
 aliases: "Decry Thief"
 foundryId: Item.WwqMIQr00mAZyUxH

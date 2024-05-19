@@ -1,5 +1,6 @@
 ---
 title: "Speaking Sky"
+draft: true
 noteType: ":luggage:"
 aliases: "Speaking Sky"
 foundryId: Item.Cr9Eo2MXERMTq3TI

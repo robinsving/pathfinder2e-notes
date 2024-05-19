@@ -1,5 +1,6 @@
 ---
 title: "Treat Condition"
+draft: true
 noteType: ":luggage:"
 aliases: "Treat Condition"
 foundryId: Item.KLVhSg9OPkuf7Jk1

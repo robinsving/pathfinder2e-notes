@@ -1,5 +1,6 @@
 ---
 title: "Minor Omen"
+draft: true
 noteType: ":luggage:"
 aliases: "Minor Omen"
 foundryId: Item.yqit3LIPm2ceqXVT

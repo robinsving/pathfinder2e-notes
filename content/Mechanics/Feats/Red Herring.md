@@ -1,5 +1,6 @@
 ---
 title: "Red Herring"
+draft: true
 noteType: ":luggage:"
 aliases: "Red Herring"
 foundryId: Item.hRHy3JaBwosbWCc4

@@ -1,5 +1,6 @@
 ---
 title: "Concentrated Assault"
+draft: true
 noteType: ":luggage:"
 aliases: "Concentrated Assault"
 foundryId: Item.zEYkTIoXB4QfXElE

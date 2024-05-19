@@ -1,5 +1,6 @@
 ---
 title: "Evangelize"
+draft: true
 noteType: ":luggage:"
 aliases: "Evangelize"
 foundryId: Item.wYmEIr0zKtrP321y

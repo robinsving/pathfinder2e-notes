@@ -1,5 +1,6 @@
 ---
 title: "Demanding Challenge"
+draft: true
 noteType: ":luggage:"
 aliases: "Demanding Challenge"
 foundryId: Item.M50u60YR2dTbGaPS

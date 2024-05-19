@@ -1,5 +1,6 @@
 ---
 title: "Pactbound Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Pactbound Dedication"
 foundryId: Item.6B2pF3NLn3gTXiSJ

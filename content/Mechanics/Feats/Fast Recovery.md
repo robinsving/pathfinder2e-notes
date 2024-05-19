@@ -1,5 +1,6 @@
 ---
 title: "Fast Recovery"
+draft: true
 noteType: ":luggage:"
 aliases: "Fast Recovery"
 foundryId: Item.CwBi28Q3dcNpSs9T

@@ -1,5 +1,6 @@
 ---
 title: "Modular Dynamo"
+draft: true
 noteType: ":luggage:"
 aliases: "Modular Dynamo"
 foundryId: Item.MBKIkv6GvWV3XpNG

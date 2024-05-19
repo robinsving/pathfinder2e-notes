@@ -1,5 +1,6 @@
 ---
 title: "Basic Red Mantis Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Red Mantis Magic"
 foundryId: Item.jI1WqmLJ1Qk2cWFE

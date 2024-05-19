@@ -1,5 +1,6 @@
 ---
 title: "Striker's Scroll"
+draft: true
 noteType: ":luggage:"
 aliases: "Striker's Scroll"
 foundryId: Item.NJUnvS85cxfeYTCr

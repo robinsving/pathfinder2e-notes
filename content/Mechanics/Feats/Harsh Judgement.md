@@ -1,5 +1,6 @@
 ---
 title: "Harsh Judgement"
+draft: true
 noteType: ":luggage:"
 aliases: "Harsh Judgement"
 foundryId: Item.UvyH6Nk7cizrlR0r

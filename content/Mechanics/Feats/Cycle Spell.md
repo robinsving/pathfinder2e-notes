@@ -1,5 +1,6 @@
 ---
 title: "Cycle Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Cycle Spell"
 foundryId: Item.ItVOVtT6Zti3OhmQ

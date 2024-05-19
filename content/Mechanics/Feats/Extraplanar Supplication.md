@@ -1,5 +1,6 @@
 ---
 title: "Extraplanar Supplication"
+draft: true
 noteType: ":luggage:"
 aliases: "Extraplanar Supplication"
 foundryId: Item.ZLQT3L2g61WErDLn

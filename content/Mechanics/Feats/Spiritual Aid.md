@@ -1,5 +1,6 @@
 ---
 title: "Spiritual Aid"
+draft: true
 noteType: ":luggage:"
 aliases: "Spiritual Aid"
 foundryId: Item.1ahxaJRvxMtWG3cl

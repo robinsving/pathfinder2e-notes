@@ -1,5 +1,6 @@
 ---
 title: "Primal Howl"
+draft: true
 noteType: ":luggage:"
 aliases: "Primal Howl"
 foundryId: Item.pZ7JpA8DZUL08XNJ

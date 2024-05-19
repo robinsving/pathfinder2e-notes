@@ -1,5 +1,6 @@
 ---
 title: "Courtly Graces"
+draft: true
 noteType: ":luggage:"
 aliases: "Courtly Graces"
 foundryId: Item.UnnJunaZOEO7BXaI

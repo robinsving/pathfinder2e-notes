@@ -1,5 +1,6 @@
 ---
 title: "Diverse Weapon Expert"
+draft: true
 noteType: ":luggage:"
 aliases: "Diverse Weapon Expert"
 foundryId: Item.LlUb68bDrZ3EIXHm

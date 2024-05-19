@@ -1,5 +1,6 @@
 ---
 title: "Divine Wall"
+draft: true
 noteType: ":luggage:"
 aliases: "Divine Wall"
 foundryId: Item.t05YzonIpIJu0fiz

@@ -1,5 +1,6 @@
 ---
 title: "Standby Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Standby Spell"
 foundryId: Item.KipQUhfnv5nSxQD2

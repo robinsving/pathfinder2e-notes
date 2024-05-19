@@ -1,5 +1,6 @@
 ---
 title: "Shoki's Argument"
+draft: true
 noteType: ":luggage:"
 aliases: "Shoki's Argument"
 foundryId: Item.7vLtaNO1N639uiQ2

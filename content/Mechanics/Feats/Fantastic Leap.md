@@ -1,5 +1,6 @@
 ---
 title: "Fantastic Leap"
+draft: true
 noteType: ":luggage:"
 aliases: "Fantastic Leap"
 foundryId: Item.E8yhfaYVAermO4y8

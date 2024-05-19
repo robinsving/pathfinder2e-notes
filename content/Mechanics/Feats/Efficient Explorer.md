@@ -1,5 +1,6 @@
 ---
 title: "Efficient Explorer"
+draft: true
 noteType: ":luggage:"
 aliases: "Efficient Explorer"
 foundryId: Item.oIaRBx6GOh43agBH

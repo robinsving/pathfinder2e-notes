@@ -1,5 +1,6 @@
 ---
 title: "Forensic Acumen"
+draft: true
 noteType: ":luggage:"
 aliases: "Forensic Acumen"
 foundryId: Item.hhqK7hR4ok6lnObz

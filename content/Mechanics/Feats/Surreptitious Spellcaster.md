@@ -1,5 +1,6 @@
 ---
 title: "Surreptitious Spellcaster"
+draft: true
 noteType: ":luggage:"
 aliases: "Surreptitious Spellcaster"
 foundryId: Item.6XpXvN0C8yFyrnUV

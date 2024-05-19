@@ -1,5 +1,6 @@
 ---
 title: "Aggressive Block"
+draft: true
 noteType: ":luggage:"
 aliases: "Aggressive Block"
 foundryId: Item.3I7z9amI1UNQjW4P

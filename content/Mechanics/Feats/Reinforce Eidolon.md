@@ -1,5 +1,6 @@
 ---
 title: "Reinforce Eidolon"
+draft: true
 noteType: ":luggage:"
 aliases: "Reinforce Eidolon"
 foundryId: Item.1x53tOuOZSsx7twn

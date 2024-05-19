@@ -1,5 +1,6 @@
 ---
 title: "Foolproof Instructions"
+draft: true
 noteType: ":luggage:"
 aliases: "Foolproof Instructions"
 foundryId: Item.JQVcQjj4V3qTmMdG

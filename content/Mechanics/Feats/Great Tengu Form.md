@@ -1,5 +1,6 @@
 ---
 title: "Great Tengu Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Great Tengu Form"
 foundryId: Item.znGrNCRYoPvbFiuE

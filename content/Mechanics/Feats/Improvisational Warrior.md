@@ -1,5 +1,6 @@
 ---
 title: "Improvisational Warrior"
+draft: true
 noteType: ":luggage:"
 aliases: "Improvisational Warrior"
 foundryId: Item.e1kBfAx67ZYd3FjX

@@ -1,5 +1,6 @@
 ---
 title: "Halo"
+draft: true
 noteType: ":luggage:"
 aliases: "Halo"
 foundryId: Item.oc2aLVB8MnK7ijqJ

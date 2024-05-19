@@ -1,5 +1,6 @@
 ---
 title: "Guardian's Embrace"
+draft: true
 noteType: ":luggage:"
 aliases: "Guardian's Embrace"
 foundryId: Item.rj4Gi2gdAVpC4UGO

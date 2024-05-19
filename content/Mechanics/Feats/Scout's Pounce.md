@@ -1,5 +1,6 @@
 ---
 title: "Scout's Pounce"
+draft: true
 noteType: ":luggage:"
 aliases: "Scout's Pounce"
 foundryId: Item.AuAKaPcI0qEn908c

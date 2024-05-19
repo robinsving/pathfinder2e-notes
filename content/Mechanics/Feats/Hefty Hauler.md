@@ -1,5 +1,6 @@
 ---
 title: "Hefty Hauler"
+draft: true
 noteType: ":luggage:"
 aliases: "Hefty Hauler"
 foundryId: Item.21gsWFcu3ygjIUEo

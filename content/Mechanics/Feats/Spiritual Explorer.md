@@ -1,5 +1,6 @@
 ---
 title: "Spiritual Explorer"
+draft: true
 noteType: ":luggage:"
 aliases: "Spiritual Explorer"
 foundryId: Item.fOmmUX2l5H8MZvSL

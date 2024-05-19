@@ -1,5 +1,6 @@
 ---
 title: "Expanded Senses"
+draft: true
 noteType: ":luggage:"
 aliases: "Expanded Senses"
 foundryId: Item.Bkg5DBg7fqX0uC1U

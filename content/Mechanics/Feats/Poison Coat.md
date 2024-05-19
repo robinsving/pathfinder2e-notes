@@ -1,5 +1,6 @@
 ---
 title: "Poison Coat"
+draft: true
 noteType: ":luggage:"
 aliases: "Poison Coat"
 foundryId: Item.mix58o9KVRbOlL0k

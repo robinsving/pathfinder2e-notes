@@ -1,5 +1,6 @@
 ---
 title: "Skeleton Commander"
+draft: true
 noteType: ":luggage:"
 aliases: "Skeleton Commander"
 foundryId: Item.R63nocHlaWGMzUkp

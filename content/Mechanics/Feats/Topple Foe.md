@@ -1,5 +1,6 @@
 ---
 title: "Topple Foe"
+draft: true
 noteType: ":luggage:"
 aliases: "Topple Foe"
 foundryId: Item.d2YzEBVbp8DfDGbL

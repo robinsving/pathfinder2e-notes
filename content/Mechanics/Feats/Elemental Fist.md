@@ -1,5 +1,6 @@
 ---
 title: "Elemental Fist"
+draft: true
 noteType: ":luggage:"
 aliases: "Elemental Fist"
 foundryId: Item.HTfos00xqhspnR2n

@@ -1,5 +1,6 @@
 ---
 title: "Consecrate Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Consecrate Spell"
 foundryId: Item.vpWaHCpxO1my3IsV

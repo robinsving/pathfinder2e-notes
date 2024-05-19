@@ -1,5 +1,6 @@
 ---
 title: "Vitality-Manipulating Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Vitality-Manipulating Stance"
 foundryId: Item.o5avzQFWADeVfNfC

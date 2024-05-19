@@ -1,5 +1,6 @@
 ---
 title: "Legendary Tattoo Artist"
+draft: true
 noteType: ":luggage:"
 aliases: "Legendary Tattoo Artist"
 foundryId: Item.FJ0XgJr7pzl7v2LT

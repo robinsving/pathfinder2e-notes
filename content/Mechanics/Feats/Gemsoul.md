@@ -1,5 +1,6 @@
 ---
 title: "Gemsoul"
+draft: true
 noteType: ":luggage:"
 aliases: "Gemsoul"
 foundryId: Item.IjGqpda6KGyqXaCj

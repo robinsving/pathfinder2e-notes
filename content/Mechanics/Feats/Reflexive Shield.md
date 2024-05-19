@@ -1,5 +1,6 @@
 ---
 title: "Reflexive Shield"
+draft: true
 noteType: ":luggage:"
 aliases: "Reflexive Shield"
 foundryId: Item.4Bz0idDvfHeHWr42

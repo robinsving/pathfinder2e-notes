@@ -1,5 +1,6 @@
 ---
 title: "Storm Shroud"
+draft: true
 noteType: ":luggage:"
 aliases: "Storm Shroud"
 foundryId: Item.34IhKPsCySxQv0TS

@@ -1,5 +1,6 @@
 ---
 title: "Triumphant Inspiration"
+draft: true
 noteType: ":luggage:"
 aliases: "Triumphant Inspiration"
 foundryId: Item.bl0iMacEk7c5XQBa

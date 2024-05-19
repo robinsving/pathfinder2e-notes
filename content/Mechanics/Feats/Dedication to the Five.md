@@ -1,5 +1,6 @@
 ---
 title: "Dedication to the Five"
+draft: true
 noteType: ":luggage:"
 aliases: "Dedication to the Five"
 foundryId: Item.bFXfPt3BXBftpBml

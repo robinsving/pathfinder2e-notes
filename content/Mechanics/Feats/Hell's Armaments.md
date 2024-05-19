@@ -1,5 +1,6 @@
 ---
 title: "Hell's Armaments"
+draft: true
 noteType: ":luggage:"
 aliases: "Hell's Armaments"
 foundryId: Item.b5TDpDVWpvKXbx8G

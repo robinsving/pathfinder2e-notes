@@ -1,5 +1,6 @@
 ---
 title: "Cut the Bonds"
+draft: true
 noteType: ":luggage:"
 aliases: "Cut the Bonds"
 foundryId: Item.iDY454ygFylf4Lhj

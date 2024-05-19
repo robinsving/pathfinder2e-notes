@@ -1,5 +1,6 @@
 ---
 title: "Elven Weapon Familiarity"
+draft: true
 noteType: ":luggage:"
 aliases: "Elven Weapon Familiarity"
 foundryId: Item.tj6AwYEGzTRKW6mv

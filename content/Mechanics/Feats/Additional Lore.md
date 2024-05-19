@@ -1,5 +1,6 @@
 ---
 title: "Additional Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Additional Lore"
 foundryId: Item.TSReV5ieqXxwoXSQ

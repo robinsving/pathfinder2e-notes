@@ -1,5 +1,6 @@
 ---
 title: "Soulsight (Bard)"
+draft: true
 noteType: ":luggage:"
 aliases: "Soulsight (Bard)"
 foundryId: Item.Zymm0SvK1ZASmmqq

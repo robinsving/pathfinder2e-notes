@@ -1,5 +1,6 @@
 ---
 title: "Intuitive Crafting"
+draft: true
 noteType: ":luggage:"
 aliases: "Intuitive Crafting"
 foundryId: Item.3agTln1EHF2BKrK1

@@ -1,5 +1,6 @@
 ---
 title: "Directed Channel"
+draft: true
 noteType: ":luggage:"
 aliases: "Directed Channel"
 foundryId: Item.RI9ov2RRbG31lTXv

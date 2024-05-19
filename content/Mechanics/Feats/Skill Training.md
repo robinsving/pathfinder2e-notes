@@ -1,5 +1,6 @@
 ---
 title: "Skill Training"
+draft: true
 noteType: ":luggage:"
 aliases: "Skill Training"
 foundryId: Item.BjAOov6mNdIpNB30

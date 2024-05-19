@@ -1,5 +1,6 @@
 ---
 title: "Killing Stone"
+draft: true
 noteType: ":luggage:"
 aliases: "Killing Stone"
 foundryId: Item.Mo62fPhjGGa2Cg5v

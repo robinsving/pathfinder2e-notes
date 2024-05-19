@@ -1,5 +1,6 @@
 ---
 title: "Ancient Memories"
+draft: true
 noteType: ":luggage:"
 aliases: "Ancient Memories"
 foundryId: Item.ukBeE1bDRZ3q1Hyx

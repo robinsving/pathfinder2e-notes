@@ -1,5 +1,6 @@
 ---
 title: "Crushing Step"
+draft: true
 noteType: ":luggage:"
 aliases: "Crushing Step"
 foundryId: Item.TwR0jAXK9FIGgeC9

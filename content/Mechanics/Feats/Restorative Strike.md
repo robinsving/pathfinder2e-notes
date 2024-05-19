@@ -1,5 +1,6 @@
 ---
 title: "Restorative Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Restorative Strike"
 foundryId: Item.0x3r5q9WGiEgg0jF

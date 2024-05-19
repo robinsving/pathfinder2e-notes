@@ -1,5 +1,6 @@
 ---
 title: "Greater Sun Blessing"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Sun Blessing"
 foundryId: Item.7khAizhKHfVs4lpo

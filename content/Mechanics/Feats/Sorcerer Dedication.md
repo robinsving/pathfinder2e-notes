@@ -1,5 +1,6 @@
 ---
 title: "Sorcerer Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Sorcerer Dedication"
 foundryId: Item.zB431PlO4WuBsahr

@@ -1,5 +1,6 @@
 ---
 title: "Wary Disarmament"
+draft: true
 noteType: ":luggage:"
 aliases: "Wary Disarmament"
 foundryId: Item.wxwStlvZ9HPVJp62

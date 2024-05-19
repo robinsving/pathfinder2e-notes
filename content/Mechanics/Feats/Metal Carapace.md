@@ -1,5 +1,6 @@
 ---
 title: "Metal Carapace"
+draft: true
 noteType: ":luggage:"
 aliases: "Metal Carapace"
 foundryId: Item.tmRVRQuCFONTvN3q

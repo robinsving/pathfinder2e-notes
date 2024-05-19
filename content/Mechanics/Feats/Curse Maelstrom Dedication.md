@@ -1,5 +1,6 @@
 ---
 title: "Curse Maelstrom Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Curse Maelstrom Dedication"
 foundryId: Item.M3XSRFRkSOU4yio3

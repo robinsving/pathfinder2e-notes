@@ -1,5 +1,6 @@
 ---
 title: Rallying Anthem
+draft: true
 icon: spell
 aliases:
   - Rallying Anthem

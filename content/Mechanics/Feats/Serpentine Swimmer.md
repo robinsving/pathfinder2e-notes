@@ -1,5 +1,6 @@
 ---
 title: "Serpentine Swimmer"
+draft: true
 noteType: ":luggage:"
 aliases: "Serpentine Swimmer"
 foundryId: Item.P0tiH4BGTgP2FPu8

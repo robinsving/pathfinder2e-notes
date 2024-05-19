@@ -1,5 +1,6 @@
 ---
 title: "Unfetter Eidolon"
+draft: true
 noteType: ":luggage:"
 aliases: "Unfetter Eidolon"
 foundryId: Item.rnEcD9k5qu9zk6Ce

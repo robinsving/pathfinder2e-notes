@@ -1,5 +1,6 @@
 ---
 title: "Distant Cackle"
+draft: true
 noteType: ":luggage:"
 aliases: "Distant Cackle"
 foundryId: Item.3Xl9JOMRrHHJXhPu

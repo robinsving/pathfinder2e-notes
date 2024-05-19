@@ -1,5 +1,6 @@
 ---
 title: "Triggerbrand Blitz"
+draft: true
 noteType: ":luggage:"
 aliases: "Triggerbrand Blitz"
 foundryId: Item.H5yqzZXZcRAyTyWL

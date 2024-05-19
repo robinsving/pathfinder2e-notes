@@ -1,5 +1,6 @@
 ---
 title: "Simple Crystal Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Simple Crystal Magic"
 foundryId: Item.83ptTV9SySwyDvHs

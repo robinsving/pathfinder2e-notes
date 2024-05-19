@@ -1,5 +1,6 @@
 ---
 title: "Underworld Investigator"
+draft: true
 noteType: ":luggage:"
 aliases: "Underworld Investigator"
 foundryId: Item.DTw88HRj8UOGrtMZ

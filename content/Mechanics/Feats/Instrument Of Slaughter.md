@@ -1,5 +1,6 @@
 ---
 title: "Instrument Of Slaughter"
+draft: true
 noteType: ":luggage:"
 aliases: "Instrument Of Slaughter"
 foundryId: Item.ipWeJGbaDQtsQrKQ

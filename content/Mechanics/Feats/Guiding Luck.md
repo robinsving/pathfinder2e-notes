@@ -1,5 +1,6 @@
 ---
 title: "Guiding Luck"
+draft: true
 noteType: ":luggage:"
 aliases: "Guiding Luck"
 foundryId: Item.5z6Xoe2rzeOgJelf

@@ -1,5 +1,6 @@
 ---
 title: "Devil's Eye"
+draft: true
 noteType: ":luggage:"
 aliases: "Devil's Eye"
 foundryId: Item.3Z8DIwG3Sdw5Px7r

@@ -1,5 +1,6 @@
 ---
 title: "Remember Your Training"
+draft: true
 noteType: ":luggage:"
 aliases: "Remember Your Training"
 foundryId: Item.ke3mCBVIGlOVb71e

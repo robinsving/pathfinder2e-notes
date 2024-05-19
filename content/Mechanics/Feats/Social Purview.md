@@ -1,5 +1,6 @@
 ---
 title: "Social Purview"
+draft: true
 noteType: ":luggage:"
 aliases: "Social Purview"
 foundryId: Item.ca0AHMgGkxzXS4dH

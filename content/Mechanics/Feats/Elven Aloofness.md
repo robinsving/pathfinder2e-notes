@@ -1,5 +1,6 @@
 ---
 title: "Elven Aloofness"
+draft: true
 noteType: ":luggage:"
 aliases: "Elven Aloofness"
 foundryId: Item.qX9QcS1wS3CH7yNJ

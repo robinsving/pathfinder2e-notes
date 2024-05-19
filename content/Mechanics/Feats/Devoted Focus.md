@@ -1,5 +1,6 @@
 ---
 title: "Devoted Focus"
+draft: true
 noteType: ":luggage:"
 aliases: "Devoted Focus"
 foundryId: Item.hwiCOJ4ahOZpA90N

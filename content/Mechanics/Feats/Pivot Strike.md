@@ -1,5 +1,6 @@
 ---
 title: "Pivot Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Pivot Strike"
 foundryId: Item.HchCnDziDVGPJqqD

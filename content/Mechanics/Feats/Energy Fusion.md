@@ -1,5 +1,6 @@
 ---
 title: "Energy Fusion"
+draft: true
 noteType: ":luggage:"
 aliases: "Energy Fusion"
 foundryId: Item.55r4LthQoqoDEeoa

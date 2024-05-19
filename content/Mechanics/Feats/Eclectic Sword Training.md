@@ -1,5 +1,6 @@
 ---
 title: "Eclectic Sword Training"
+draft: true
 noteType: ":luggage:"
 aliases: "Eclectic Sword Training"
 foundryId: Item.PI73sv2EUCwm5W1U

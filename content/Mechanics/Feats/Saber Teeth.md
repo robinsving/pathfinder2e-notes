@@ -1,5 +1,6 @@
 ---
 title: "Saber Teeth"
+draft: true
 noteType: ":luggage:"
 aliases: "Saber Teeth"
 foundryId: Item.tB3y1Fzfh6ddmVqP

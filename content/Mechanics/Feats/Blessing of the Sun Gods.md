@@ -1,5 +1,6 @@
 ---
 title: "Blessing of the Sun Gods"
+draft: true
 noteType: ":luggage:"
 aliases: "Blessing of the Sun Gods"
 foundryId: Item.18kOrZ9JfRE56AmW

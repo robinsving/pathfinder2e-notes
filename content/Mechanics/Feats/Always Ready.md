@@ -1,5 +1,6 @@
 ---
 title: "Always Ready"
+draft: true
 noteType: ":luggage:"
 aliases: "Always Ready"
 foundryId: Item.HwaY379aZmNLuLrH

@@ -1,5 +1,6 @@
 ---
 title: "Skim Scroll"
+draft: true
 noteType: ":luggage:"
 aliases: "Skim Scroll"
 foundryId: Item.DLU42HkWv5Z03tIZ

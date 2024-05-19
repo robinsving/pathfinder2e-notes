@@ -1,5 +1,6 @@
 ---
 title: "Versatile Blasts"
+draft: true
 noteType: ":luggage:"
 aliases: "Versatile Blasts"
 foundryId: Item.PAsASUCn8ympadFZ

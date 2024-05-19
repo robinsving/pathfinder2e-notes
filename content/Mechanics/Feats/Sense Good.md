@@ -1,5 +1,6 @@
 ---
 title: "Sense Good"
+draft: true
 noteType: ":luggage:"
 aliases: "Sense Good"
 foundryId: Item.xZtUZ7eMOfrNuFF6

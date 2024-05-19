@@ -1,5 +1,6 @@
 ---
 title: "Jellyfish Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Jellyfish Stance"
 foundryId: Item.VmSHEYsycuo4o2jc

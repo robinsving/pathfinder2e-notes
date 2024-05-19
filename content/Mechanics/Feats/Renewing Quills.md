@@ -1,5 +1,6 @@
 ---
 title: "Renewing Quills"
+draft: true
 noteType: ":luggage:"
 aliases: "Renewing Quills"
 foundryId: Item.JxToRzFqSLS8ntPd

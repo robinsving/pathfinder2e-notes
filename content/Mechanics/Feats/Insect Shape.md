@@ -1,5 +1,6 @@
 ---
 title: "Insect Shape"
+draft: true
 noteType: ":luggage:"
 aliases: "Insect Shape"
 foundryId: Item.OODZuiLuy5WMPvST

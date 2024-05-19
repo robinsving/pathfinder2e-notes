@@ -1,5 +1,6 @@
 ---
 title: "Ki Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Ki Form"
 foundryId: Item.frOEiO7UsiXUjhnx

@@ -1,5 +1,6 @@
 ---
 title: "Reveal True Name"
+draft: true
 noteType: ":luggage:"
 aliases: "Reveal True Name"
 foundryId: Item.0i2K3ISXjMlmcSZP

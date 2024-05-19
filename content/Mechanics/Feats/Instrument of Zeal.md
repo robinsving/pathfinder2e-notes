@@ -1,5 +1,6 @@
 ---
 title: "Instrument of Zeal"
+draft: true
 noteType: ":luggage:"
 aliases: "Instrument of Zeal"
 foundryId: Item.6ZpxeQYlEh4Wp630

@@ -1,5 +1,6 @@
 ---
 title: "Blazing Aura"
+draft: true
 noteType: ":luggage:"
 aliases: "Blazing Aura"
 foundryId: Item.SRtgfytupA14boTO

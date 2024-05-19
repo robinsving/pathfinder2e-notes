@@ -1,5 +1,6 @@
 ---
 title: "Anthropomorphic Shape"
+draft: true
 noteType: ":luggage:"
 aliases: "Anthropomorphic Shape"
 foundryId: Item.ua6y6ARLK9xZ0XJk

@@ -1,5 +1,6 @@
 ---
 title: "Preparation"
+draft: true
 noteType: ":luggage:"
 aliases: "Preparation"
 foundryId: Item.xDaUxOcU7afv16iD

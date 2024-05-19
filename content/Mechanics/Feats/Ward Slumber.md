@@ -1,5 +1,6 @@
 ---
 title: "Ward Slumber"
+draft: true
 noteType: ":luggage:"
 aliases: "Ward Slumber"
 foundryId: Item.R15AFjGF0jly99Aa

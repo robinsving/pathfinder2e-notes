@@ -1,5 +1,6 @@
 ---
 title: "Golden League Xun Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Golden League Xun Dedication"
 foundryId: Item.xerc5BYv3X7sEmGF

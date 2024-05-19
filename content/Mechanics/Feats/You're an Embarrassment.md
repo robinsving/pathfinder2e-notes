@@ -1,5 +1,6 @@
 ---
 title: "You're an Embarrassment"
+draft: true
 noteType: ":luggage:"
 aliases: "You're an Embarrassment"
 foundryId: Item.Hlr80b0vf6onsI5R

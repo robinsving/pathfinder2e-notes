@@ -1,5 +1,6 @@
 ---
 title: "Tenacious Net"
+draft: true
 noteType: ":luggage:"
 aliases: "Tenacious Net"
 foundryId: Item.JaJinG12SuyMYwvr

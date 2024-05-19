@@ -1,5 +1,6 @@
 ---
 title: "Stella's Stab and Snag"
+draft: true
 noteType: ":luggage:"
 aliases: "Stella's Stab and Snag"
 foundryId: Item.7QC8GBo9z1gNhMCu

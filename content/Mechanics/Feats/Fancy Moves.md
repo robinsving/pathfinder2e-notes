@@ -1,5 +1,6 @@
 ---
 title: "Fancy Moves"
+draft: true
 noteType: ":luggage:"
 aliases: "Fancy Moves"
 foundryId: Item.801dyxRnGlL3SKEn

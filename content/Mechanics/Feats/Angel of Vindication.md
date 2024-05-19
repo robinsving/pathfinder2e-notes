@@ -1,5 +1,6 @@
 ---
 title: "Angel of Vindication"
+draft: true
 noteType: ":luggage:"
 aliases: "Angel of Vindication"
 foundryId: Item.BCjhd7MQ4phyrM7B

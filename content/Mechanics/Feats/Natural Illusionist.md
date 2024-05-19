@@ -1,5 +1,6 @@
 ---
 title: "Natural Illusionist"
+draft: true
 noteType: ":luggage:"
 aliases: "Natural Illusionist"
 foundryId: Item.GzkuREmxrFW8CrWY

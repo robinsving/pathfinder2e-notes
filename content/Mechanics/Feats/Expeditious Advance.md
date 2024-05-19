@@ -1,5 +1,6 @@
 ---
 title: "Expeditious Advance"
+draft: true
 noteType: ":luggage:"
 aliases: "Expeditious Advance"
 foundryId: Item.xiBtpBqTw1Hxzzlp

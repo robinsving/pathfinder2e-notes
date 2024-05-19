@@ -1,5 +1,6 @@
 ---
 title: "Sturdy Bindings"
+draft: true
 noteType: ":luggage:"
 aliases: "Sturdy Bindings"
 foundryId: Item.adyk0IML7vQhE0JQ

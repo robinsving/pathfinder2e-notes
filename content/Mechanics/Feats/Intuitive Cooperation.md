@@ -1,5 +1,6 @@
 ---
 title: "Intuitive Cooperation"
+draft: true
 noteType: ":luggage:"
 aliases: "Intuitive Cooperation"
 foundryId: Item.FH1X53QNXf27i9xJ

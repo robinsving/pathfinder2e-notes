@@ -1,5 +1,6 @@
 ---
 title: "Dread Marshal Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Dread Marshal Stance"
 foundryId: Item.KvLwNblTWEmFCb5d

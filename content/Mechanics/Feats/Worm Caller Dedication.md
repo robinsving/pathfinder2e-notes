@@ -1,5 +1,6 @@
 ---
 title: "Worm Caller Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Worm Caller Dedication"
 foundryId: Item.5xNVkjrZ9G7pFQ5P

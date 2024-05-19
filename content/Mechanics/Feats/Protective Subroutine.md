@@ -1,5 +1,6 @@
 ---
 title: "Protective Subroutine"
+draft: true
 noteType: ":luggage:"
 aliases: "Protective Subroutine"
 foundryId: Item.nHaq5ar3DSdZqGMp

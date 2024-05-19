@@ -1,5 +1,6 @@
 ---
 title: "Weight of Guilt"
+draft: true
 noteType: ":luggage:"
 aliases: "Weight of Guilt"
 foundryId: Item.oo5P4Rpn43tVGOfO

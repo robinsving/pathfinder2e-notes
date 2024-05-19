@@ -1,5 +1,6 @@
 ---
 title: "Replicate"
+draft: true
 noteType: ":luggage:"
 aliases: "Replicate"
 foundryId: Item.c81ZUxNemakGpjDz

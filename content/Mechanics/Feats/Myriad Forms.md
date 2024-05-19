@@ -1,5 +1,6 @@
 ---
 title: "Myriad Forms"
+draft: true
 noteType: ":luggage:"
 aliases: "Myriad Forms"
 foundryId: Item.737u6Ns19N0wJNe8

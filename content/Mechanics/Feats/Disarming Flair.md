@@ -1,5 +1,6 @@
 ---
 title: "Disarming Flair"
+draft: true
 noteType: ":luggage:"
 aliases: "Disarming Flair"
 foundryId: Item.8ejzXkU1UuRKBskX

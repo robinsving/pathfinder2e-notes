@@ -1,5 +1,6 @@
 ---
 title: "Basic Lesson"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Lesson"
 foundryId: Item.kPCsxHjN5ajKBUXq

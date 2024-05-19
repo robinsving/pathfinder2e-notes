@@ -1,5 +1,6 @@
 ---
 title: "Inertial Barrier"
+draft: true
 noteType: ":luggage:"
 aliases: "Inertial Barrier"
 foundryId: Item.IWSMlFNw4N6E1z5w

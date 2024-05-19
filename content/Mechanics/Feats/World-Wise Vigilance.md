@@ -1,5 +1,6 @@
 ---
 title: "World-Wise Vigilance"
+draft: true
 noteType: ":luggage:"
 aliases: "World-Wise Vigilance"
 foundryId: Item.d51pWipkq1JEqyNC

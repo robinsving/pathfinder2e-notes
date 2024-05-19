@@ -1,5 +1,6 @@
 ---
 title: "Tactical Cadence"
+draft: true
 noteType: ":luggage:"
 aliases: "Tactical Cadence"
 foundryId: Item.GRyGIP7vGpbe3Mpy

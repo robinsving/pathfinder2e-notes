@@ -1,5 +1,6 @@
 ---
 title: "Anchoring Aura"
+draft: true
 noteType: ":luggage:"
 aliases: "Anchoring Aura"
 foundryId: Item.AVsywixPglTTzTWM

@@ -1,5 +1,6 @@
 ---
 title: "Implausible Infiltration"
+draft: true
 noteType: ":luggage:"
 aliases: "Implausible Infiltration"
 foundryId: Item.wxBtHCHGSzOVSSTz

@@ -1,5 +1,6 @@
 ---
 title: "Riptide"
+draft: true
 noteType: ":luggage:"
 aliases: "Riptide"
 foundryId: Item.FxWuDhSoNSBtK8jK

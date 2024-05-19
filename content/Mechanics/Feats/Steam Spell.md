@@ -1,5 +1,6 @@
 ---
 title: "Steam Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Steam Spell"
 foundryId: Item.j4FrT4MkTbjmhquy

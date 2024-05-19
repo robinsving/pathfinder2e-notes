@@ -1,5 +1,6 @@
 ---
 title: "Aerobatics Mastery"
+draft: true
 noteType: ":luggage:"
 aliases: "Aerobatics Mastery"
 foundryId: Item.RDrU2yS9Uxf4gBWu

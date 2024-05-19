@@ -1,5 +1,6 @@
 ---
 title: "Through the Gate"
+draft: true
 noteType: ":luggage:"
 aliases: "Through the Gate"
 foundryId: Item.7qdwvRqUu8myWyPD

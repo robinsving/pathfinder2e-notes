@@ -1,5 +1,6 @@
 ---
 title: "Different Worlds"
+draft: true
 noteType: ":luggage:"
 aliases: "Different Worlds"
 foundryId: Item.yD6I6im9JEvUIhDe

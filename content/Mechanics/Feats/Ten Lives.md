@@ -1,5 +1,6 @@
 ---
 title: "Ten Lives"
+draft: true
 noteType: ":luggage:"
 aliases: "Ten Lives"
 foundryId: Item.syWIEaSIrNfMeZtt

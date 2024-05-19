@@ -1,5 +1,6 @@
 ---
 title: "Greater Snow Step"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Snow Step"
 foundryId: Item.3jVATA28WDIT0IvK

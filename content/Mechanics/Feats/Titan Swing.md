@@ -1,5 +1,6 @@
 ---
 title: "Titan Swing"
+draft: true
 noteType: ":luggage:"
 aliases: "Titan Swing"
 foundryId: Item.gqGrg6VGSA9I8zJU

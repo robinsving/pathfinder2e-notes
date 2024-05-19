@@ -1,5 +1,6 @@
 ---
 title: "Turn Away Misfortune"
+draft: true
 noteType: ":luggage:"
 aliases: "Turn Away Misfortune"
 foundryId: Item.C70EwUqMITusxOPE

@@ -1,5 +1,6 @@
 ---
 title: "Heal Mount"
+draft: true
 noteType: ":luggage:"
 aliases: "Heal Mount"
 foundryId: Item.3OHb2Xj6PNwgIXUH

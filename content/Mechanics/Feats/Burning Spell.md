@@ -1,5 +1,6 @@
 ---
 title: "Burning Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Burning Spell"
 foundryId: Item.jpmjBkfcvf982nfd

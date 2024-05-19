@@ -1,5 +1,6 @@
 ---
 title: "Fey Tracker"
+draft: true
 noteType: ":luggage:"
 aliases: "Fey Tracker"
 foundryId: Item.uj3b78XGcAPR4Gwe

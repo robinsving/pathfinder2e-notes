@@ -1,5 +1,6 @@
 ---
 title: "Vengeful Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Vengeful Strike"
 foundryId: Item.mHTRAyvwhb2epIwl

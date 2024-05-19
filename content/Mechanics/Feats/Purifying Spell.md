@@ -1,5 +1,6 @@
 ---
 title: "Purifying Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Purifying Spell"
 foundryId: Item.jXeF0CKSCDhiucLR

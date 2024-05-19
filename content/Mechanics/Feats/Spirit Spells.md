@@ -1,5 +1,6 @@
 ---
 title: "Spirit Spells"
+draft: true
 noteType: ":luggage:"
 aliases: "Spirit Spells"
 foundryId: Item.i9kV0PmB2AsLOnB6

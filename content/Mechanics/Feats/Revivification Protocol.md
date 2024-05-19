@@ -1,5 +1,6 @@
 ---
 title: "Revivification Protocol"
+draft: true
 noteType: ":luggage:"
 aliases: "Revivification Protocol"
 foundryId: Item.2oFQeH704DePjaBa

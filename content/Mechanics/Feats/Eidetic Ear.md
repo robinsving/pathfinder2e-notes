@@ -1,5 +1,6 @@
 ---
 title: "Eidetic Ear"
+draft: true
 noteType: ":luggage:"
 aliases: "Eidetic Ear"
 foundryId: Item.S2ZLmdyLMMM11fNT

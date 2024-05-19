@@ -1,5 +1,6 @@
 ---
 title: "Duskwalker Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Duskwalker Lore"
 foundryId: Item.L473VDqrBHVdy8xc

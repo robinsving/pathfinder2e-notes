@@ -1,5 +1,6 @@
 ---
 title: "Mental Sustenance"
+draft: true
 noteType: ":luggage:"
 aliases: "Mental Sustenance"
 foundryId: Item.hTfcQPZR4zpUSxGQ

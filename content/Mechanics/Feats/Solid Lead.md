@@ -1,5 +1,6 @@
 ---
 title: "Solid Lead"
+draft: true
 noteType: ":luggage:"
 aliases: "Solid Lead"
 foundryId: Item.LNye5kh3cHD0rSim

@@ -1,5 +1,6 @@
 ---
 title: "Deep Freeze"
+draft: true
 noteType: ":luggage:"
 aliases: "Deep Freeze"
 foundryId: Item.qeyhdup2etCnFLYW

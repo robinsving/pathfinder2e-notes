@@ -1,5 +1,6 @@
 ---
 title: "Green Tongue"
+draft: true
 noteType: ":luggage:"
 aliases: "Green Tongue"
 foundryId: Item.fgkoRFoAVcOrItrS

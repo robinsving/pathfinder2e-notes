@@ -1,5 +1,6 @@
 ---
 title: "Archer's Aim"
+draft: true
 noteType: ":luggage:"
 aliases: "Archer's Aim"
 foundryId: Item.LyE5dZpCP2f2WyWm

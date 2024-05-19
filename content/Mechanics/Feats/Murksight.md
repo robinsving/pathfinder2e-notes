@@ -1,5 +1,6 @@
 ---
 title: "Murksight"
+draft: true
 noteType: ":luggage:"
 aliases: "Murksight"
 foundryId: Item.0HivaXizjzBbOvj1

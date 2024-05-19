@@ -1,5 +1,6 @@
 ---
 title: "Whirling Blade Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Whirling Blade Stance"
 foundryId: Item.bCPHh8WvU1h5AmfE

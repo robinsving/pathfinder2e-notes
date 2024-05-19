@@ -1,5 +1,6 @@
 ---
 title: "Pact of Fey Glamour"
+draft: true
 noteType: ":luggage:"
 aliases: "Pact of Fey Glamour"
 foundryId: Item.HZecxZLyYzLEvBuv

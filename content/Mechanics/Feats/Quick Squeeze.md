@@ -1,5 +1,6 @@
 ---
 title: "Quick Squeeze"
+draft: true
 noteType: ":luggage:"
 aliases: "Quick Squeeze"
 foundryId: Item.PBbuMSX1wSnYimUp

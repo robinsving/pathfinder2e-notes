@@ -1,5 +1,6 @@
 ---
 title: "Catfolk Weapon Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Catfolk Weapon Expertise"
 foundryId: Item.YB8yXyRAo68KraHl

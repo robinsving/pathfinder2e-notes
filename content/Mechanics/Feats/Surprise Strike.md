@@ -1,5 +1,6 @@
 ---
 title: "Surprise Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Surprise Strike"
 foundryId: Item.UaPesKPy0COcBDQs

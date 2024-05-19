@@ -1,5 +1,6 @@
 ---
 title: "Talisman Dabbler Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Talisman Dabbler Dedication"
 foundryId: Item.v6y8GRAKFxINAtvY

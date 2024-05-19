@@ -1,5 +1,6 @@
 ---
 title: "Hobnobber"
+draft: true
 noteType: ":luggage:"
 aliases: "Hobnobber"
 foundryId: Item.INzLaCZvpwo1OPyM

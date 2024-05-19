@@ -1,5 +1,6 @@
 ---
 title: "Worm Sense"
+draft: true
 noteType: ":luggage:"
 aliases: "Worm Sense"
 foundryId: Item.gGWyrLc3YOQxxfyI

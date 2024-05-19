@@ -1,5 +1,6 @@
 ---
 title: "Viking Vindicator"
+draft: true
 noteType: ":luggage:"
 aliases: "Viking Vindicator"
 foundryId: Item.UijEug6jUETyBgy9

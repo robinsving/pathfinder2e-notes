@@ -1,5 +1,6 @@
 ---
 title: "Fully Flighted"
+draft: true
 noteType: ":luggage:"
 aliases: "Fully Flighted"
 foundryId: Item.MAMJKPKjBSD962Fq

@@ -1,5 +1,6 @@
 ---
 title: "Gardener's Resolve"
+draft: true
 noteType: ":luggage:"
 aliases: "Gardener's Resolve"
 foundryId: Item.WQEOWdD7tai5RBLI

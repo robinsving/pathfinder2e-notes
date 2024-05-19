@@ -1,5 +1,6 @@
 ---
 title: "Death's Door"
+draft: true
 noteType: ":luggage:"
 aliases: "Death's Door"
 foundryId: Item.FrUGtxmOPNC2reJU

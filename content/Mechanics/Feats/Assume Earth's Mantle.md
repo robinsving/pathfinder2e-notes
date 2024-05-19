@@ -1,5 +1,6 @@
 ---
 title: "Assume Earth's Mantle"
+draft: true
 noteType: ":luggage:"
 aliases: "Assume Earth's Mantle"
 foundryId: Item.GfWU6IpQgF69Z9Iw

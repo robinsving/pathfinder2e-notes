@@ -1,5 +1,6 @@
 ---
 title: "Walk Through The Conflagration"
+draft: true
 noteType: ":luggage:"
 aliases: "Walk Through The Conflagration"
 foundryId: Item.JYQx3Yr9Vfjkfuxo

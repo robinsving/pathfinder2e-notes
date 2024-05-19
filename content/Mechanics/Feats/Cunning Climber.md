@@ -1,5 +1,6 @@
 ---
 title: "Cunning Climber"
+draft: true
 noteType: ":luggage:"
 aliases: "Cunning Climber"
 foundryId: Item.5atZTFBH2vglvyzJ

@@ -1,5 +1,6 @@
 ---
 title: "Contagious Rage"
+draft: true
 noteType: ":luggage:"
 aliases: "Contagious Rage"
 foundryId: Item.E3eBi1Y0D4gVKIGs

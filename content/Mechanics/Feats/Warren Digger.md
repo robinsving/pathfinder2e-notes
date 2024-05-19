@@ -1,5 +1,6 @@
 ---
 title: "Warren Digger"
+draft: true
 noteType: ":luggage:"
 aliases: "Warren Digger"
 foundryId: Item.97dVQigKObUjDtXf

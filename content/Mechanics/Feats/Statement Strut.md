@@ -1,5 +1,6 @@
 ---
 title: "Statement Strut"
+draft: true
 noteType: ":luggage:"
 aliases: "Statement Strut"
 foundryId: Item.ua5BUKfemFBqZ3QN

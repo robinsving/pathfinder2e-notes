@@ -1,5 +1,6 @@
 ---
 title: "Eye of the Arclords"
+draft: true
 noteType: ":luggage:"
 aliases: "Eye of the Arclords"
 foundryId: Item.K1lg90FLSe6WDWWi

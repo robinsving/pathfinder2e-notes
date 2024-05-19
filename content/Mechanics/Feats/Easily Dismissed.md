@@ -1,5 +1,6 @@
 ---
 title: "Easily Dismissed"
+draft: true
 noteType: ":luggage:"
 aliases: "Easily Dismissed"
 foundryId: Item.xfSIucCfETToFYYH

@@ -1,5 +1,6 @@
 ---
 title: "Golem Dynamo"
+draft: true
 noteType: ":luggage:"
 aliases: "Golem Dynamo"
 foundryId: Item.7fyPukmOMZhRWjYC

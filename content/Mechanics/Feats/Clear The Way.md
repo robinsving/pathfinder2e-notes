@@ -1,5 +1,6 @@
 ---
 title: "Clear The Way"
+draft: true
 noteType: ":luggage:"
 aliases: "Clear The Way"
 foundryId: Item.2yIdM3gABaAit2FM

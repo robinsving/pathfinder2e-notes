@@ -1,5 +1,6 @@
 ---
 title: "Practiced Guidance"
+draft: true
 noteType: ":luggage:"
 aliases: "Practiced Guidance"
 foundryId: Item.acZp4FDmqbgc2Oge

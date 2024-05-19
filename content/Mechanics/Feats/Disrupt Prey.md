@@ -1,5 +1,6 @@
 ---
 title: "Disrupt Prey"
+draft: true
 noteType: ":luggage:"
 aliases: "Disrupt Prey"
 foundryId: Item.mMkbqdu7Wl0tPOXm

@@ -1,5 +1,6 @@
 ---
 title: "Biographical Eye"
+draft: true
 noteType: ":luggage:"
 aliases: "Biographical Eye"
 foundryId: Item.rxNIDyDuFn4VEk4n

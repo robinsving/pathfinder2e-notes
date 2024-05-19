@@ -1,5 +1,6 @@
 ---
 title: "Crimson Breath"
+draft: true
 noteType: ":luggage:"
 aliases: "Crimson Breath"
 foundryId: Item.uEVCbrNx9gevVBxK

@@ -1,5 +1,6 @@
 ---
 title: "Heart of the Kaiju"
+draft: true
 noteType: ":luggage:"
 aliases: "Heart of the Kaiju"
 foundryId: Item.BoVh3v3DHoPhUAFK

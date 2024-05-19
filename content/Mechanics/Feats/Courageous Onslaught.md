@@ -1,5 +1,6 @@
 ---
 title: "Courageous Onslaught"
+draft: true
 noteType: ":luggage:"
 aliases: "Courageous Onslaught"
 foundryId: Item.VjdfZXmQymuRHZSb

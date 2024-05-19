@@ -1,5 +1,6 @@
 ---
 title: "Monstrous Peacemaker"
+draft: true
 noteType: ":luggage:"
 aliases: "Monstrous Peacemaker"
 foundryId: Item.q5kVOslBXyXclvXE

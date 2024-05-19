@@ -1,5 +1,6 @@
 ---
 title: "Deflect Arrow"
+draft: true
 noteType: ":luggage:"
 aliases: "Deflect Arrow"
 foundryId: Item.YkMX4FnIsg7DODfo

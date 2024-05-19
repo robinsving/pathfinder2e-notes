@@ -1,5 +1,6 @@
 ---
 title: "Surface Skimmer"
+draft: true
 noteType: ":luggage:"
 aliases: "Surface Skimmer"
 foundryId: Item.eV7Cv6z3qffItRVd

@@ -1,5 +1,6 @@
 ---
 title: "Drifting Pollen"
+draft: true
 noteType: ":luggage:"
 aliases: "Drifting Pollen"
 foundryId: Item.K4gk7vU3X5xqj3Xo

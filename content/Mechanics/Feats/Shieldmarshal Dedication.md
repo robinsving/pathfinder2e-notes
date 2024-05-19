@@ -1,5 +1,6 @@
 ---
 title: "Shieldmarshal Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Shieldmarshal Dedication"
 foundryId: Item.TuXroHQHczAEgjKN

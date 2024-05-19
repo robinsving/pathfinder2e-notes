@@ -1,5 +1,6 @@
 ---
 title: "Forceful Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Forceful Shot"
 foundryId: Item.A3yb0YK0J7mf0qJu

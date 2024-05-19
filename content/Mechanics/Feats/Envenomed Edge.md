@@ -1,5 +1,6 @@
 ---
 title: "Envenomed Edge"
+draft: true
 noteType: ":luggage:"
 aliases: "Envenomed Edge"
 foundryId: Item.YJs0FOC2BzYGi5Iy

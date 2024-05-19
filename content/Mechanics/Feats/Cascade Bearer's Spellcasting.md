@@ -1,5 +1,6 @@
 ---
 title: "Cascade Bearer's Spellcasting"
+draft: true
 noteType: ":luggage:"
 aliases: "Cascade Bearer's Spellcasting"
 foundryId: Item.YLPSTFmREpcAVKGH

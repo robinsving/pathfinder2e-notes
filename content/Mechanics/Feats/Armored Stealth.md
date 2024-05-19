@@ -1,5 +1,6 @@
 ---
 title: "Armored Stealth"
+draft: true
 noteType: ":luggage:"
 aliases: "Armored Stealth"
 foundryId: Item.LWFJgVmSoP5qn88m

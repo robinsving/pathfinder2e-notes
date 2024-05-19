@@ -1,5 +1,6 @@
 ---
 title: "Eyes of the Night"
+draft: true
 noteType: ":luggage:"
 aliases: "Eyes of the Night"
 foundryId: Item.GZjX4OvPINmfOVSF

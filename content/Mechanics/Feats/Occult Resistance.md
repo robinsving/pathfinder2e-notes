@@ -1,5 +1,6 @@
 ---
 title: "Occult Resistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Occult Resistance"
 foundryId: Item.TDZwJUmBsbpCJM9a

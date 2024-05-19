@@ -1,5 +1,6 @@
 ---
 title: "Dragon's Rage Wings"
+draft: true
 noteType: ":luggage:"
 aliases: "Dragon's Rage Wings"
 foundryId: Item.8FytIyhIw60p9hWQ

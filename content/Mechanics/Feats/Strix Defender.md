@@ -1,5 +1,6 @@
 ---
 title: "Strix Defender"
+draft: true
 noteType: ":luggage:"
 aliases: "Strix Defender"
 foundryId: Item.pmQePAWeNcjiWWZt

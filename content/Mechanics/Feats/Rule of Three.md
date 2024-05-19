@@ -1,5 +1,6 @@
 ---
 title: "Rule of Three"
+draft: true
 noteType: ":luggage:"
 aliases: "Rule of Three"
 foundryId: Item.c7vhjUaloeytPOCd

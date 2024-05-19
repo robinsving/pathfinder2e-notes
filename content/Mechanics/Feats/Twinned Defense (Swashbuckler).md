@@ -1,5 +1,6 @@
 ---
 title: "Twinned Defense (Swashbuckler)"
+draft: true
 noteType: ":luggage:"
 aliases: "Twinned Defense (Swashbuckler)"
 foundryId: Item.rtUmspAai5ABtY7y

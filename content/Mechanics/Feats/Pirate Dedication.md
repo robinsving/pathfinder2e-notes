@@ -1,5 +1,6 @@
 ---
 title: "Pirate Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Pirate Dedication"
 foundryId: Item.gOd016SslyDZqbdd

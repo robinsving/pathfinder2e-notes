@@ -1,5 +1,6 @@
 ---
 title: "Judgement of the Monolith"
+draft: true
 noteType: ":luggage:"
 aliases: "Judgement of the Monolith"
 foundryId: Item.HoGEg3mCZelqWX8c

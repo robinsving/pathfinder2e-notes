@@ -1,5 +1,6 @@
 ---
 title: "Hybrid Study Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Hybrid Study Spell"
 foundryId: Item.CsgwMQZmSMP8JueQ

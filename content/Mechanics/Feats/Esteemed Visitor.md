@@ -1,5 +1,6 @@
 ---
 title: "Esteemed Visitor"
+draft: true
 noteType: ":luggage:"
 aliases: "Esteemed Visitor"
 foundryId: Item.KV5ELD1o8arx2wkq

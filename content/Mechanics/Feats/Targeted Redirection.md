@@ -1,5 +1,6 @@
 ---
 title: "Targeted Redirection"
+draft: true
 noteType: ":luggage:"
 aliases: "Targeted Redirection"
 foundryId: Item.lDE3kWri2YWKtwou

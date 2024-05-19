@@ -1,5 +1,6 @@
 ---
 title: "Masterful Warden"
+draft: true
 noteType: ":luggage:"
 aliases: "Masterful Warden"
 foundryId: Item.FQg2BXXsU801nc1r

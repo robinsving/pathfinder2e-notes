@@ -1,5 +1,6 @@
 ---
 title: "Archaeologist's Warning"
+draft: true
 noteType: ":luggage:"
 aliases: "Archaeologist's Warning"
 foundryId: Item.WCLo3ME1ErqCASq0

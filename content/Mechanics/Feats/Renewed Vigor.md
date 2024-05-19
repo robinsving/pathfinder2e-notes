@@ -1,5 +1,6 @@
 ---
 title: "Renewed Vigor"
+draft: true
 noteType: ":luggage:"
 aliases: "Renewed Vigor"
 foundryId: Item.a8S3n1PJrlBfX7mD

@@ -1,5 +1,6 @@
 ---
 title: "Triangle Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Triangle Shot"
 foundryId: Item.unx7U948EAI7m1rN

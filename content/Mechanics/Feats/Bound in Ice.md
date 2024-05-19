@@ -1,5 +1,6 @@
 ---
 title: "Bound in Ice"
+draft: true
 noteType: ":luggage:"
 aliases: "Bound in Ice"
 foundryId: Item.17bwCntyihrlYwjU

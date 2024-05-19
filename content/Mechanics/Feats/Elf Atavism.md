@@ -1,5 +1,6 @@
 ---
 title: "Elf Atavism"
+draft: true
 noteType: ":luggage:"
 aliases: "Elf Atavism"
 foundryId: Item.It5AkKf2TJT1f4kB

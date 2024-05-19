@@ -1,5 +1,6 @@
 ---
 title: "Brains!"
+draft: true
 noteType: ":luggage:"
 aliases: "Brains!"
 foundryId: Item.iPdPjirWBRiboAB3

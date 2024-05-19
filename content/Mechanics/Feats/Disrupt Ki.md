@@ -1,5 +1,6 @@
 ---
 title: "Disrupt Ki"
+draft: true
 noteType: ":luggage:"
 aliases: "Disrupt Ki"
 foundryId: Item.GlXHiC14CB1ZRK1j

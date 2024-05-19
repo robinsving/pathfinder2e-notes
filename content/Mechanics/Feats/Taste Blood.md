@@ -1,5 +1,6 @@
 ---
 title: "Taste Blood"
+draft: true
 noteType: ":luggage:"
 aliases: "Taste Blood"
 foundryId: Item.7DaE6tXcvPGiOxOD

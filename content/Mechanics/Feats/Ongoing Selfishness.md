@@ -1,5 +1,6 @@
 ---
 title: "Ongoing Selfishness"
+draft: true
 noteType: ":luggage:"
 aliases: "Ongoing Selfishness"
 foundryId: Item.38I10YQswottqEK3

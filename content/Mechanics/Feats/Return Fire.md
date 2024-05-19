@@ -1,5 +1,6 @@
 ---
 title: "Return Fire"
+draft: true
 noteType: ":luggage:"
 aliases: "Return Fire"
 foundryId: Item.nti3y62gpiBSQO0W

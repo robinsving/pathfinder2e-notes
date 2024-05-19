@@ -1,5 +1,6 @@
 ---
 title: "Canny Acumen"
+draft: true
 noteType: ":luggage:"
 aliases: "Canny Acumen"
 foundryId: Item.QNnAs0HLFOoDBcpS

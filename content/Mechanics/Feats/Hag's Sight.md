@@ -1,5 +1,6 @@
 ---
 title: "Hag's Sight"
+draft: true
 noteType: ":luggage:"
 aliases: "Hag's Sight"
 foundryId: Item.1rKsPmsdO0LvgZxF

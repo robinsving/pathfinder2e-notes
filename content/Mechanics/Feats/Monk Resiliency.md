@@ -1,5 +1,6 @@
 ---
 title: "Monk Resiliency"
+draft: true
 noteType: ":luggage:"
 aliases: "Monk Resiliency"
 foundryId: Item.rzJSuWI03Yg1BIMh

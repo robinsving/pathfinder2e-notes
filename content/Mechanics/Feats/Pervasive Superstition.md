@@ -1,5 +1,6 @@
 ---
 title: "Pervasive Superstition"
+draft: true
 noteType: ":luggage:"
 aliases: "Pervasive Superstition"
 foundryId: Item.hQpevubHR29oLT87

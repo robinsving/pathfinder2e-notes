@@ -1,5 +1,6 @@
 ---
 title: "Basic Maneuver"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Maneuver"
 foundryId: Item.lCh6ScaE9f9epKQM

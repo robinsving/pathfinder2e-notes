@@ -1,5 +1,6 @@
 ---
 title: "Woodcraft"
+draft: true
 noteType: ":luggage:"
 aliases: "Woodcraft"
 foundryId: Item.yDcgqGvQPLXYUqSN

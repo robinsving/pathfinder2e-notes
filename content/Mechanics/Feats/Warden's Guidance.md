@@ -1,5 +1,6 @@
 ---
 title: "Warden's Guidance"
+draft: true
 noteType: ":luggage:"
 aliases: "Warden's Guidance"
 foundryId: Item.w0GcVKOMqEThSRSK

@@ -1,5 +1,6 @@
 ---
 title: "Manifold Edge"
+draft: true
 noteType: ":luggage:"
 aliases: "Manifold Edge"
 foundryId: Item.piPyHFG74FpEJg84

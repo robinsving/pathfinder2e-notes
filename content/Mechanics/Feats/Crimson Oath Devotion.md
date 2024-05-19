@@ -1,5 +1,6 @@
 ---
 title: "Crimson Oath Devotion"
+draft: true
 noteType: ":luggage:"
 aliases: "Crimson Oath Devotion"
 foundryId: Item.64x9JDVManGAEuRY

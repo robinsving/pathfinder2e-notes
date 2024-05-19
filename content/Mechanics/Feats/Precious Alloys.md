@@ -1,5 +1,6 @@
 ---
 title: "Precious Alloys"
+draft: true
 noteType: ":luggage:"
 aliases: "Precious Alloys"
 foundryId: Item.VYSKmEOmWdxOauT5

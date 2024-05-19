@@ -1,5 +1,6 @@
 ---
 title: "Basic Fury"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Fury"
 foundryId: Item.LmVaqIZDjgjkiAVN

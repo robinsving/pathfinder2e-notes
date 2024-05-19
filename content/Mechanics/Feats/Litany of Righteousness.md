@@ -1,5 +1,6 @@
 ---
 title: "Litany of Righteousness"
+draft: true
 noteType: ":luggage:"
 aliases: "Litany of Righteousness"
 foundryId: Item.XXGmUVdcLRkESN3L

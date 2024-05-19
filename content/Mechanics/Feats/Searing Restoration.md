@@ -1,5 +1,6 @@
 ---
 title: "Searing Restoration"
+draft: true
 noteType: ":luggage:"
 aliases: "Searing Restoration"
 foundryId: Item.bvC0kZlmI7XhuFMA

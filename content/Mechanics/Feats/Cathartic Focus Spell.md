@@ -1,5 +1,6 @@
 ---
 title: "Cathartic Focus Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Cathartic Focus Spell"
 foundryId: Item.wAUl082p9od6Yf2X

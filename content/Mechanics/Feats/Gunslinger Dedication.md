@@ -1,5 +1,6 @@
 ---
 title: "Gunslinger Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Gunslinger Dedication"
 foundryId: Item.5z8CGSEqdFUb0mMX

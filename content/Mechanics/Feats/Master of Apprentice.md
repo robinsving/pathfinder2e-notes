@@ -1,5 +1,6 @@
 ---
 title: "Master of Apprentice"
+draft: true
 noteType: ":luggage:"
 aliases: "Master of Apprentice"
 foundryId: Item.t9hMu1p8HaWBJhT8

@@ -1,5 +1,6 @@
 ---
 title: "Monastic Archer Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Monastic Archer Stance"
 foundryId: Item.DY99IVpq9HDxMkFl

@@ -1,5 +1,6 @@
 ---
 title: "Contingency Gadgets"
+draft: true
 noteType: ":luggage:"
 aliases: "Contingency Gadgets"
 foundryId: Item.ceKNNfFnImhB8Ebr

@@ -1,5 +1,6 @@
 ---
 title: "Spiritual Flurry"
+draft: true
 noteType: ":luggage:"
 aliases: "Spiritual Flurry"
 foundryId: Item.sruyG4tTqjKFiZyl

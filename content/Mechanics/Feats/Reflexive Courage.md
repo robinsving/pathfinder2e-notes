@@ -1,5 +1,6 @@
 ---
 title: "Reflexive Courage"
+draft: true
 noteType: ":luggage:"
 aliases: "Reflexive Courage"
 foundryId: Item.AWLVHwAwCZ507KyC

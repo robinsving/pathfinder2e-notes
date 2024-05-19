@@ -1,5 +1,6 @@
 ---
 title: "Stunning Fist"
+draft: true
 noteType: ":luggage:"
 aliases: "Stunning Fist"
 foundryId: Item.naPuNTpsztCQIvrc

@@ -1,5 +1,6 @@
 ---
 title: "Consume Power"
+draft: true
 noteType: ":luggage:"
 aliases: "Consume Power"
 foundryId: Item.w5wncmYK6837MI3r

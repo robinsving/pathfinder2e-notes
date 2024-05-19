@@ -1,5 +1,6 @@
 ---
 title: "Crystal Keeper Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Crystal Keeper Dedication"
 foundryId: Item.eSy5WPotd0RQvFuM

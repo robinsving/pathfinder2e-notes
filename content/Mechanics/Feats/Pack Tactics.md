@@ -1,5 +1,6 @@
 ---
 title: "Pack Tactics"
+draft: true
 noteType: ":luggage:"
 aliases: "Pack Tactics"
 foundryId: Item.NL9O8NKt89zzDebs

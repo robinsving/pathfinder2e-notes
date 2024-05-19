@@ -1,5 +1,6 @@
 ---
 title: "Blade of Law"
+draft: true
 noteType: ":luggage:"
 aliases: "Blade of Law"
 foundryId: Item.eftLQ7NKRCdIo7wl

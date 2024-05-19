@@ -1,5 +1,6 @@
 ---
 title: "Impervious Vehicle"
+draft: true
 noteType: ":luggage:"
 aliases: "Impervious Vehicle"
 foundryId: Item.SFhaLcesNyu4HZ9R

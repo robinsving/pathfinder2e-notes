@@ -1,5 +1,6 @@
 ---
 title: "Read The Roots"
+draft: true
 noteType: ":luggage:"
 aliases: "Read The Roots"
 foundryId: Item.FdSS6WJIsoUUwXRP

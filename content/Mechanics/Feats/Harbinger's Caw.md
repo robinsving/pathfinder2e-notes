@@ -1,5 +1,6 @@
 ---
 title: "Harbinger's Caw"
+draft: true
 noteType: ":luggage:"
 aliases: "Harbinger's Caw"
 foundryId: Item.3H4RnAe4eFNGFTIX

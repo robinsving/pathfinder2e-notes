@@ -1,5 +1,6 @@
 ---
 title: "Vicious Swing"
+draft: true
 noteType: ":luggage:"
 aliases: "Vicious Swing"
 foundryId: Item.2m0swTgZbnnHZedd

@@ -1,5 +1,6 @@
 ---
 title: "Selfless Parry"
+draft: true
 noteType: ":luggage:"
 aliases: "Selfless Parry"
 foundryId: Item.xXbszyh63GN7AcEt

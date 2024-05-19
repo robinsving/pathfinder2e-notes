@@ -1,5 +1,6 @@
 ---
 title: "Desperate Prayer"
+draft: true
 noteType: ":luggage:"
 aliases: "Desperate Prayer"
 foundryId: Item.uubSlwf1fp7DJbm8

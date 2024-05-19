@@ -1,5 +1,6 @@
 ---
 title: "Draw From the Land"
+draft: true
 noteType: ":luggage:"
 aliases: "Draw From the Land"
 foundryId: Item.jyITSHYiOqnNjNJX

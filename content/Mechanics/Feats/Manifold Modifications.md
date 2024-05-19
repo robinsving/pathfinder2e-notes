@@ -1,5 +1,6 @@
 ---
 title: "Manifold Modifications"
+draft: true
 noteType: ":luggage:"
 aliases: "Manifold Modifications"
 foundryId: Item.2Y0x04qql7z7zDtI

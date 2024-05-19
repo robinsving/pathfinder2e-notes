@@ -1,5 +1,6 @@
 ---
 title: "Mobile Finisher"
+draft: true
 noteType: ":luggage:"
 aliases: "Mobile Finisher"
 foundryId: Item.cYXuO8t2SDPqY9jN

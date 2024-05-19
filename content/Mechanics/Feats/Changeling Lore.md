@@ -1,5 +1,6 @@
 ---
 title: "Changeling Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Changeling Lore"
 foundryId: Item.3EWBM1VKFyHOJTE8

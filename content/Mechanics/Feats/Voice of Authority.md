@@ -1,5 +1,6 @@
 ---
 title: "Voice of Authority"
+draft: true
 noteType: ":luggage:"
 aliases: "Voice of Authority"
 foundryId: Item.g3VXFll9h27ySXnj

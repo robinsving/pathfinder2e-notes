@@ -1,5 +1,6 @@
 ---
 title: "Scalpel's Point"
+draft: true
 noteType: ":luggage:"
 aliases: "Scalpel's Point"
 foundryId: Item.VpeBPm71jitzlcEm

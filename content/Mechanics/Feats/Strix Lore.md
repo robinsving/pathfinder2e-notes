@@ -1,5 +1,6 @@
 ---
 title: "Strix Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Strix Lore"
 foundryId: Item.ia97MCED13gLudNn

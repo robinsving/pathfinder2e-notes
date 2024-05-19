@@ -1,5 +1,6 @@
 ---
 title: "Eerie Environs"
+draft: true
 noteType: ":luggage:"
 aliases: "Eerie Environs"
 foundryId: Item.WiQwj7YdzUBLtJZ8

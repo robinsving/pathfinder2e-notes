@@ -1,5 +1,6 @@
 ---
 title: "Protective Claws"
+draft: true
 noteType: ":luggage:"
 aliases: "Protective Claws"
 foundryId: Item.eflVkuXisnRd6WXZ

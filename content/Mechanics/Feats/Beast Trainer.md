@@ -1,5 +1,6 @@
 ---
 title: "Beast Trainer"
+draft: true
 noteType: ":luggage:"
 aliases: "Beast Trainer"
 foundryId: Item.TYhaK571MbVcD2iY

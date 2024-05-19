@@ -1,5 +1,6 @@
 ---
 title: "Shared Sight"
+draft: true
 noteType: ":luggage:"
 aliases: "Shared Sight"
 foundryId: Item.xda4eLy1iiTtPpOZ

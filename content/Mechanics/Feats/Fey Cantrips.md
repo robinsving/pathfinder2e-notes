@@ -1,5 +1,6 @@
 ---
 title: "Fey Cantrips"
+draft: true
 noteType: ":luggage:"
 aliases: "Fey Cantrips"
 foundryId: Item.GOqKn9pdWkY7BaAS

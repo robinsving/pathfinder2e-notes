@@ -1,5 +1,6 @@
 ---
 title: "Arrow Snatching"
+draft: true
 noteType: ":luggage:"
 aliases: "Arrow Snatching"
 foundryId: Item.iSSnYmM2h7JvBNBF

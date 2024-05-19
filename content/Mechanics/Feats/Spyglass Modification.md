@@ -1,5 +1,6 @@
 ---
 title: "Spyglass Modification"
+draft: true
 noteType: ":luggage:"
 aliases: "Spyglass Modification"
 foundryId: Item.kWkKfONqbneQEYkG

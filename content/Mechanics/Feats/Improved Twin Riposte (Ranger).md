@@ -1,5 +1,6 @@
 ---
 title: "Improved Twin Riposte (Ranger)"
+draft: true
 noteType: ":luggage:"
 aliases: "Improved Twin Riposte (Ranger)"
 foundryId: Item.3gbvIJSGF3SuPb14

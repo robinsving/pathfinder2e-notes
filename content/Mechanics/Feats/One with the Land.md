@@ -1,5 +1,6 @@
 ---
 title: "One with the Land"
+draft: true
 noteType: ":luggage:"
 aliases: "One with the Land"
 foundryId: Item.dw3mT8ZDmUuFvohC

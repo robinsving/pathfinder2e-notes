@@ -1,5 +1,6 @@
 ---
 title: "Theoretical Acumen"
+draft: true
 noteType: ":luggage:"
 aliases: "Theoretical Acumen"
 foundryId: Item.sxzJabm4S2IpZI99

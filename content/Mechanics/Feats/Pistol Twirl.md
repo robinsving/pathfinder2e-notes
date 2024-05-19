@@ -1,5 +1,6 @@
 ---
 title: "Pistol Twirl"
+draft: true
 noteType: ":luggage:"
 aliases: "Pistol Twirl"
 foundryId: Item.QMAdtsUC2javzvSs

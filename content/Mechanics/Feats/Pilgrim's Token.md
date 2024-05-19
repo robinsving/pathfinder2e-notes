@@ -1,5 +1,6 @@
 ---
 title: "Pilgrim's Token"
+draft: true
 noteType: ":luggage:"
 aliases: "Pilgrim's Token"
 foundryId: Item.9X2SU2hsq0Wz7EHo

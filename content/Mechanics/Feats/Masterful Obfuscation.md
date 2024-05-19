@@ -1,5 +1,6 @@
 ---
 title: "Masterful Obfuscation"
+draft: true
 noteType: ":luggage:"
 aliases: "Masterful Obfuscation"
 foundryId: Item.pacITiv4TJNg59be

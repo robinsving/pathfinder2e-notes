@@ -1,5 +1,6 @@
 ---
 title: "Resolute"
+draft: true
 noteType: ":luggage:"
 aliases: "Resolute"
 foundryId: Item.RaNPnVazVhzmUL26

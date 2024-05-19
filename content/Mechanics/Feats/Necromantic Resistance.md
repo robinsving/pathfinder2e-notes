@@ -1,5 +1,6 @@
 ---
 title: "Necromantic Resistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Necromantic Resistance"
 foundryId: Item.MNshwvPlLBo888gr

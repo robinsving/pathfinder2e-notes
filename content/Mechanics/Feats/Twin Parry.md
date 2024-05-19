@@ -1,5 +1,6 @@
 ---
 title: "Twin Parry"
+draft: true
 noteType: ":luggage:"
 aliases: "Twin Parry"
 foundryId: Item.cqSTPjafPh2ha2ao

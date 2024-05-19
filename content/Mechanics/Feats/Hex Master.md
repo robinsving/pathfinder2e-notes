@@ -1,5 +1,6 @@
 ---
 title: "Hex Master"
+draft: true
 noteType: ":luggage:"
 aliases: "Hex Master"
 foundryId: Item.jP3xrtb05uaUOg0H

@@ -1,5 +1,6 @@
 ---
 title: "Additional Companion"
+draft: true
 noteType: ":luggage:"
 aliases: "Additional Companion"
 foundryId: Item.G9l80kJ5MV730x31

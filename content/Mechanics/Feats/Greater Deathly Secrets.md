@@ -1,5 +1,6 @@
 ---
 title: "Greater Deathly Secrets"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Deathly Secrets"
 foundryId: Item.04PjPjEMDFDqT0zo

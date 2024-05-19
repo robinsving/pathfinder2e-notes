@@ -1,5 +1,6 @@
 ---
 title: "Dual-Handed Assault"
+draft: true
 noteType: ":luggage:"
 aliases: "Dual-Handed Assault"
 foundryId: Item.mOUS9UwsUjIsKPsn

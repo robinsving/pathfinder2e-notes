@@ -1,5 +1,6 @@
 ---
 title: "Protective Bond"
+draft: true
 noteType: ":luggage:"
 aliases: "Protective Bond"
 foundryId: Item.3zb3QeUf9YwJC7Bu

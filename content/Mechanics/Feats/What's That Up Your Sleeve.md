@@ -1,5 +1,6 @@
 ---
 title: "What's That Up Your Sleeve"
+draft: true
 noteType: ":luggage:"
 aliases: "What's That Up Your Sleeve"
 foundryId: Item.Bp8EymhGbhfwfNfV

@@ -1,5 +1,6 @@
 ---
 title: "Genie Weapon Familiarity"
+draft: true
 noteType: ":luggage:"
 aliases: "Genie Weapon Familiarity"
 foundryId: Item.IOTnSs87pqF9e4SD

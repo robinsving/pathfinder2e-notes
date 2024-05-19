@@ -1,5 +1,6 @@
 ---
 title: "Tail Whip"
+draft: true
 noteType: ":luggage:"
 aliases: "Tail Whip"
 foundryId: Item.TW7sCtcrhYV3C7TU

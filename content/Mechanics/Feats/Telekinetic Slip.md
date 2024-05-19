@@ -1,5 +1,6 @@
 ---
 title: "Telekinetic Slip"
+draft: true
 noteType: ":luggage:"
 aliases: "Telekinetic Slip"
 foundryId: Item.81WUH6YXbyxNw7DK

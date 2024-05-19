@@ -1,5 +1,6 @@
 ---
 title: "Demolition Charge"
+draft: true
 noteType: ":luggage:"
 aliases: "Demolition Charge"
 foundryId: Item.jN8QhzEJ0JGCD6tx

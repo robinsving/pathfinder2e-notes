@@ -1,5 +1,6 @@
 ---
 title: "Warden's Reload"
+draft: true
 noteType: ":luggage:"
 aliases: "Warden's Reload"
 foundryId: Item.jhcqtUAgayfAx937

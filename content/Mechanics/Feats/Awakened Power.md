@@ -1,5 +1,6 @@
 ---
 title: "Awakened Power"
+draft: true
 noteType: ":luggage:"
 aliases: "Awakened Power"
 foundryId: Item.hwJKakCTGT1wa6sd

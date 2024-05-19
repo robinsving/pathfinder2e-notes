@@ -1,5 +1,6 @@
 ---
 title: "Grave Mummification"
+draft: true
 noteType: ":luggage:"
 aliases: "Grave Mummification"
 foundryId: Item.H41QXqkR67TXvN8e

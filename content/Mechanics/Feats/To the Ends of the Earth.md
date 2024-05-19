@@ -1,5 +1,6 @@
 ---
 title: "To the Ends of the Earth"
+draft: true
 noteType: ":luggage:"
 aliases: "To the Ends of the Earth"
 foundryId: Item.05oroJh30gsTfYLp

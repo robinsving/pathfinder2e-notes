@@ -1,5 +1,6 @@
 ---
 title: "Burn It!"
+draft: true
 noteType: ":luggage:"
 aliases: "Burn It!"
 foundryId: Item.8aJxwAQxwiLurGlY

@@ -1,5 +1,6 @@
 ---
 title: "Tamper"
+draft: true
 noteType: ":luggage:"
 aliases: "Tamper"
 foundryId: Item.hEC4m352k4nbzVOz

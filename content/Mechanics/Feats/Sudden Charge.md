@@ -1,5 +1,6 @@
 ---
 title: "Sudden Charge"
+draft: true
 noteType: ":luggage:"
 aliases: "Sudden Charge"
 foundryId: Item.jntQkDv1DYOvrEYH

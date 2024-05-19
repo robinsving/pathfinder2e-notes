@@ -1,5 +1,6 @@
 ---
 title: "Knight's Retaliation"
+draft: true
 noteType: ":luggage:"
 aliases: "Knight's Retaliation"
 foundryId: Item.GXC60sEqubIAcgAo

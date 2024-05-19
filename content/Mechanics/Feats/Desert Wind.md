@@ -1,5 +1,6 @@
 ---
 title: "Desert Wind"
+draft: true
 noteType: ":luggage:"
 aliases: "Desert Wind"
 foundryId: Item.OSjugj4OpPTRtv7r

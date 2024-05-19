@@ -1,5 +1,6 @@
 ---
 title: "Azarketi Weapon Familiarity"
+draft: true
 noteType: ":luggage:"
 aliases: "Azarketi Weapon Familiarity"
 foundryId: Item.eMdr6qA9ZV0QyoFz

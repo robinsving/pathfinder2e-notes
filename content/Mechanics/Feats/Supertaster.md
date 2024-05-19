@@ -1,5 +1,6 @@
 ---
 title: "Supertaster"
+draft: true
 noteType: ":luggage:"
 aliases: "Supertaster"
 foundryId: Item.ra2xviSZfb2pnaTg

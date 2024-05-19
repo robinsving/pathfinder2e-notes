@@ -1,5 +1,6 @@
 ---
 title: "Efficient Rituals"
+draft: true
 noteType: ":luggage:"
 aliases: "Efficient Rituals"
 foundryId: Item.8YHk9efww4sRk7ZY

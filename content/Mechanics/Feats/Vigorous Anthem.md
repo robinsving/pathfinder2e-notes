@@ -1,5 +1,6 @@
 ---
 title: "Vigorous Anthem"
+draft: true
 noteType: ":luggage:"
 aliases: "Vigorous Anthem"
 foundryId: Item.OhOfkiGOMyJHw09X

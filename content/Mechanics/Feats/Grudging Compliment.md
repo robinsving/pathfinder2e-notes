@@ -1,5 +1,6 @@
 ---
 title: "Grudging Compliment"
+draft: true
 noteType: ":luggage:"
 aliases: "Grudging Compliment"
 foundryId: Item.8O6izjrUYgq4kAEs

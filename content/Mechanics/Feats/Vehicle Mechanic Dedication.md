@@ -1,5 +1,6 @@
 ---
 title: "Vehicle Mechanic Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Vehicle Mechanic Dedication"
 foundryId: Item.rjfF668HGfSdXh71

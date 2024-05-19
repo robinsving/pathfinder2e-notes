@@ -1,5 +1,6 @@
 ---
 title: "Adrenaline Rush"
+draft: true
 noteType: ":luggage:"
 aliases: "Adrenaline Rush"
 foundryId: Item.zeOZtGXypKDn4UCd

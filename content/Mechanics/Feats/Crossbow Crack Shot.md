@@ -1,5 +1,6 @@
 ---
 title: "Crossbow Crack Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Crossbow Crack Shot"
 foundryId: Item.8iSytjZQBhDgbyJH

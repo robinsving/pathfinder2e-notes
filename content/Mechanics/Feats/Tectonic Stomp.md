@@ -1,5 +1,6 @@
 ---
 title: "Tectonic Stomp"
+draft: true
 noteType: ":luggage:"
 aliases: "Tectonic Stomp"
 foundryId: Item.UIM77nhVAZlSCLP1

@@ -1,5 +1,6 @@
 ---
 title: "Bleeding Finisher"
+draft: true
 noteType: ":luggage:"
 aliases: "Bleeding Finisher"
 foundryId: Item.w9rTyQtltB81WTRT

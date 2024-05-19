@@ -1,5 +1,6 @@
 ---
 title: "Springing Leaper"
+draft: true
 noteType: ":luggage:"
 aliases: "Springing Leaper"
 foundryId: Item.sjPkI12Or2oqe67B

@@ -1,5 +1,6 @@
 ---
 title: "Replenishing Consumption"
+draft: true
 noteType: ":luggage:"
 aliases: "Replenishing Consumption"
 foundryId: Item.lubqpD3QvP6iVoRt

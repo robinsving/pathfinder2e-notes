@@ -1,5 +1,6 @@
 ---
 title: "Coordinated Distraction"
+draft: true
 noteType: ":luggage:"
 aliases: "Coordinated Distraction"
 foundryId: Item.Tol6hUQCyfCtGu6l

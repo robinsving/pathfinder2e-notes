@@ -1,5 +1,6 @@
 ---
 title: "Claws Of The Dragon"
+draft: true
 noteType: ":luggage:"
 aliases: "Claws Of The Dragon"
 foundryId: Item.g4TbKCE5eLFyAmGz

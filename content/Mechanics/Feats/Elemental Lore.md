@@ -1,5 +1,6 @@
 ---
 title: "Elemental Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Elemental Lore"
 foundryId: Item.pGoV9qj9rd3D8C6A

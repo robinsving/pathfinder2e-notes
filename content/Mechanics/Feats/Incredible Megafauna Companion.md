@@ -1,5 +1,6 @@
 ---
 title: "Incredible Megafauna Companion"
+draft: true
 noteType: ":luggage:"
 aliases: "Incredible Megafauna Companion"
 foundryId: Item.RKthwjnDKMWcrcI2

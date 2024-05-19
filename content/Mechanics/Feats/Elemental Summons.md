@@ -1,5 +1,6 @@
 ---
 title: "Elemental Summons"
+draft: true
 noteType: ":luggage:"
 aliases: "Elemental Summons"
 foundryId: Item.ewn8NodSQqbfevhX

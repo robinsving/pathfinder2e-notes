@@ -1,5 +1,6 @@
 ---
 title: "Warped Reflection"
+draft: true
 noteType: ":luggage:"
 aliases: "Warped Reflection"
 foundryId: Item.FkKLGUT9J2G3SPkt

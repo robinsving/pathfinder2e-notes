@@ -1,5 +1,6 @@
 ---
 title: "Derring-do"
+draft: true
 noteType: ":luggage:"
 aliases: "Derring-do"
 foundryId: Item.1d9S1HVjVzTFS1cz

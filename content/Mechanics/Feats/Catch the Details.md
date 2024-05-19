@@ -1,5 +1,6 @@
 ---
 title: "Catch the Details"
+draft: true
 noteType: ":luggage:"
 aliases: "Catch the Details"
 foundryId: Item.fPRTXvY63ovuD8l9

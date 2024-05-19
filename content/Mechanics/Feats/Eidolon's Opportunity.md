@@ -1,5 +1,6 @@
 ---
 title: "Eidolon's Opportunity"
+draft: true
 noteType: ":luggage:"
 aliases: "Eidolon's Opportunity"
 foundryId: Item.TV9p5eT5NCJ3sQjb

@@ -1,5 +1,6 @@
 ---
 title: "Glass Skin"
+draft: true
 noteType: ":luggage:"
 aliases: "Glass Skin"
 foundryId: Item.BtykGJ1gvMwjDPaU

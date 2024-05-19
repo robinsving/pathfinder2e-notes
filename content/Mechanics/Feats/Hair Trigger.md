@@ -1,5 +1,6 @@
 ---
 title: "Hair Trigger"
+draft: true
 noteType: ":luggage:"
 aliases: "Hair Trigger"
 foundryId: Item.lz255xVrrw318tz6

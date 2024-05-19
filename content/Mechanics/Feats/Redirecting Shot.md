@@ -1,5 +1,6 @@
 ---
 title: "Redirecting Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Redirecting Shot"
 foundryId: Item.MVP2jyvm3O1inFq2

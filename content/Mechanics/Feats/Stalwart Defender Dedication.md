@@ -1,5 +1,6 @@
 ---
 title: "Stalwart Defender Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Stalwart Defender Dedication"
 foundryId: Item.ioXrXT9cFNnVvjpW

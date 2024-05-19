@@ -1,5 +1,6 @@
 ---
 title: "Wall Run"
+draft: true
 noteType: ":luggage:"
 aliases: "Wall Run"
 foundryId: Item.YQukm8I0c9p20HOj

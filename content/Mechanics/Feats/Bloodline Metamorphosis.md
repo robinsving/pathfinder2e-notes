@@ -1,5 +1,6 @@
 ---
 title: "Bloodline Metamorphosis"
+draft: true
 noteType: ":luggage:"
 aliases: "Bloodline Metamorphosis"
 foundryId: Item.v8RU5Ebn1vif0J4E

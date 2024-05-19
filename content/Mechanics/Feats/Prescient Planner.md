@@ -1,5 +1,6 @@
 ---
 title: "Prescient Planner"
+draft: true
 noteType: ":luggage:"
 aliases: "Prescient Planner"
 foundryId: Item.MUl8CLYuKXbgKSGu

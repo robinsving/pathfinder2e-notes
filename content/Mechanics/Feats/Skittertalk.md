@@ -1,5 +1,6 @@
 ---
 title: "Skittertalk"
+draft: true
 noteType: ":luggage:"
 aliases: "Skittertalk"
 foundryId: Item.HOU9uhHXFlX7Z36b

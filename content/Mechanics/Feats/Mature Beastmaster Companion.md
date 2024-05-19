@@ -1,5 +1,6 @@
 ---
 title: "Mature Beastmaster Companion"
+draft: true
 noteType: ":luggage:"
 aliases: "Mature Beastmaster Companion"
 foundryId: Item.JFiBD57OjzzSGQsj

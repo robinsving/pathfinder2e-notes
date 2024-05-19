@@ -1,5 +1,6 @@
 ---
 title: "Controlled Blast"
+draft: true
 noteType: ":luggage:"
 aliases: "Controlled Blast"
 foundryId: Item.B52zQcFj7VaCgHwX

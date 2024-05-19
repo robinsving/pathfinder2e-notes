@@ -1,5 +1,6 @@
 ---
 title: "Magpie Snatch"
+draft: true
 noteType: ":luggage:"
 aliases: "Magpie Snatch"
 foundryId: Item.t8keyEWYMxgOuB8j

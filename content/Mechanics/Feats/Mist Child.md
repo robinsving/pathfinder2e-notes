@@ -1,5 +1,6 @@
 ---
 title: "Mist Child"
+draft: true
 noteType: ":luggage:"
 aliases: "Mist Child"
 foundryId: Item.PHOQa4RrgwE4KhXv

@@ -1,5 +1,6 @@
 ---
 title: "Kitsune Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Kitsune Lore"
 foundryId: Item.T8nn5v4b2SSx8hrz

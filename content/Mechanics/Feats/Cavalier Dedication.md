@@ -1,5 +1,6 @@
 ---
 title: "Cavalier Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Cavalier Dedication"
 foundryId: Item.3tBSIxf3NTJXMh0E

@@ -1,5 +1,6 @@
 ---
 title: "Wonder Worker"
+draft: true
 noteType: ":luggage:"
 aliases: "Wonder Worker"
 foundryId: Item.QQaiBxaLx83hAA8L

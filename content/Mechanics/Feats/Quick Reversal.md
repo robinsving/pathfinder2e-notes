@@ -1,5 +1,6 @@
 ---
 title: "Quick Reversal"
+draft: true
 noteType: ":luggage:"
 aliases: "Quick Reversal"
 foundryId: Item.D7VV2Cn08TYetXuA

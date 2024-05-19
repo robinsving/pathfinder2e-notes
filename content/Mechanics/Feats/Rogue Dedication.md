@@ -1,5 +1,6 @@
 ---
 title: "Rogue Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Rogue Dedication"
 foundryId: Item.6JXSV17KJoZ8b1oM

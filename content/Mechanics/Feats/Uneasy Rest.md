@@ -1,5 +1,6 @@
 ---
 title: "Uneasy Rest"
+draft: true
 noteType: ":luggage:"
 aliases: "Uneasy Rest"
 foundryId: Item.isVPdczAoj3ZE7Y3

@@ -1,5 +1,6 @@
 ---
 title: "That's Odd"
+draft: true
 noteType: ":luggage:"
 aliases: "That's Odd"
 foundryId: Item.iTFlHKx7Rl9mFeps

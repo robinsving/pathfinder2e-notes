@@ -1,5 +1,6 @@
 ---
 title: "Blast Lock"
+draft: true
 noteType: ":luggage:"
 aliases: "Blast Lock"
 foundryId: Item.30FsHgy8lVZHsJKl

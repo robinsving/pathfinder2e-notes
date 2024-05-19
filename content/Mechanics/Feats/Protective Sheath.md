@@ -1,5 +1,6 @@
 ---
 title: "Protective Sheath"
+draft: true
 noteType: ":luggage:"
 aliases: "Protective Sheath"
 foundryId: Item.1oobTaAgIoUiq35v

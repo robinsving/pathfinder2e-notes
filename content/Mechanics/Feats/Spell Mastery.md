@@ -1,5 +1,6 @@
 ---
 title: "Spell Mastery"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Mastery"
 foundryId: Item.p8TAIdeMWWXSYBjv

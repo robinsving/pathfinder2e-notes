@@ -1,5 +1,6 @@
 ---
 title: "Incredible Reanimated Companion"
+draft: true
 noteType: ":luggage:"
 aliases: "Incredible Reanimated Companion"
 foundryId: Item.p7wiQ8LrQl7f4ju1

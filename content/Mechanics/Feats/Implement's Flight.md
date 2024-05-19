@@ -1,5 +1,6 @@
 ---
 title: "Implement's Flight"
+draft: true
 noteType: ":luggage:"
 aliases: "Implement's Flight"
 foundryId: Item.RZoBoiEOWCazInql

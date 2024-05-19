@@ -1,5 +1,6 @@
 ---
 title: "Eidolon's Wrath"
+draft: true
 noteType: ":luggage:"
 aliases: "Eidolon's Wrath"
 foundryId: Item.W32Jaa0yCXRpvyV4

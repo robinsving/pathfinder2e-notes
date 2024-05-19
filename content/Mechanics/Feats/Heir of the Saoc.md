@@ -1,5 +1,6 @@
 ---
 title: "Heir of the Saoc"
+draft: true
 noteType: ":luggage:"
 aliases: "Heir of the Saoc"
 foundryId: Item.mtusgwjg388QqXTS

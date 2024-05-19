@@ -1,5 +1,6 @@
 ---
 title: "Tactical Debilitations"
+draft: true
 noteType: ":luggage:"
 aliases: "Tactical Debilitations"
 foundryId: Item.VZemYTZAkQ3UC3ik

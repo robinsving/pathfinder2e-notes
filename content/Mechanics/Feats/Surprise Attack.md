@@ -1,5 +1,6 @@
 ---
 title: "Surprise Attack"
+draft: true
 noteType: ":luggage:"
 aliases: "Surprise Attack"
 foundryId: Item.K8Wx42PIqMgpkxCN

@@ -1,5 +1,6 @@
 ---
 title: "Sword and Pistol"
+draft: true
 noteType: ":luggage:"
 aliases: "Sword and Pistol"
 foundryId: Item.ryXBux6rN0GqQr2w

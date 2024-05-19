@@ -1,5 +1,6 @@
 ---
 title: "Talisman Esoterica"
+draft: true
 noteType: ":luggage:"
 aliases: "Talisman Esoterica"
 foundryId: Item.n00rNwC4epSgK3rc

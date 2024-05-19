@@ -1,5 +1,6 @@
 ---
 title: "Astral Tether"
+draft: true
 noteType: ":luggage:"
 aliases: "Astral Tether"
 foundryId: Item.hdmN5EFNG0OJCkt8

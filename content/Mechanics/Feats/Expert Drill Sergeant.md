@@ -1,5 +1,6 @@
 ---
 title: "Expert Drill Sergeant"
+draft: true
 noteType: ":luggage:"
 aliases: "Expert Drill Sergeant"
 foundryId: Item.69XXEpWYqM6hlIil

@@ -1,5 +1,6 @@
 ---
 title: "Phalanx Breaker"
+draft: true
 noteType: ":luggage:"
 aliases: "Phalanx Breaker"
 foundryId: Item.LIPSaPbhwq8RgRGD

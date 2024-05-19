@@ -1,5 +1,6 @@
 ---
 title: "Recycled Cogwheels"
+draft: true
 noteType: ":luggage:"
 aliases: "Recycled Cogwheels"
 foundryId: Item.NG82tTzOax8bgB4Z

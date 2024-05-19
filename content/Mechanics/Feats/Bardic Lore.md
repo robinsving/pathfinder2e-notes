@@ -1,5 +1,6 @@
 ---
 title: "Bardic Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Bardic Lore"
 foundryId: Item.3fTk5SQPVZuTvtE4

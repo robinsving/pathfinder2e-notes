@@ -1,5 +1,6 @@
 ---
 title: "Guiding Riposte"
+draft: true
 noteType: ":luggage:"
 aliases: "Guiding Riposte"
 foundryId: Item.21pDghtkgYaanxWy

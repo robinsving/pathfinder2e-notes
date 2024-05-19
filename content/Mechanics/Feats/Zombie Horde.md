@@ -1,5 +1,6 @@
 ---
 title: "Zombie Horde"
+draft: true
 noteType: ":luggage:"
 aliases: "Zombie Horde"
 foundryId: Item.88ds5gPdy6MBSaFw

@@ -1,5 +1,6 @@
 ---
 title: "Clever Gambit"
+draft: true
 noteType: ":luggage:"
 aliases: "Clever Gambit"
 foundryId: Item.R7VIxad3kTCEWoK2

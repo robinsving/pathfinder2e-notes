@@ -1,5 +1,6 @@
 ---
 title: "Emblazon Antimagic"
+draft: true
 noteType: ":luggage:"
 aliases: "Emblazon Antimagic"
 foundryId: Item.cpi24BMCvvpJG7Fn

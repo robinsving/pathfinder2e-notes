@@ -1,5 +1,6 @@
 ---
 title: "Vivacious Afterimage"
+draft: true
 noteType: ":luggage:"
 aliases: "Vivacious Afterimage"
 foundryId: Item.qaJkZBIwZbLtYq2X

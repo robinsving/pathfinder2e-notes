@@ -1,5 +1,6 @@
 ---
 title: "Walk The Plank"
+draft: true
 noteType: ":luggage:"
 aliases: "Walk The Plank"
 foundryId: Item.m7MfpWB4hIxgfqci

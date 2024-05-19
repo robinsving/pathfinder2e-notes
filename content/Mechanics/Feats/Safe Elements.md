@@ -1,5 +1,6 @@
 ---
 title: "Safe Elements"
+draft: true
 noteType: ":luggage:"
 aliases: "Safe Elements"
 foundryId: Item.BYPZZ33kELEssCh0

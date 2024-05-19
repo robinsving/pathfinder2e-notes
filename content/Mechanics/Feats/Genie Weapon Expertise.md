@@ -1,5 +1,6 @@
 ---
 title: "Genie Weapon Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Genie Weapon Expertise"
 foundryId: Item.FrOh6LE3Oyvdk3Gf

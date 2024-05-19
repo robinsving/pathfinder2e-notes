@@ -1,5 +1,6 @@
 ---
 title: "Bargain Hunter"
+draft: true
 noteType: ":luggage:"
 aliases: "Bargain Hunter"
 foundryId: Item.f3YHHAxHDcpGyW2Z

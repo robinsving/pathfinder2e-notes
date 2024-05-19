@@ -1,5 +1,6 @@
 ---
 title: "Stoney Deflection"
+draft: true
 noteType: ":luggage:"
 aliases: "Stoney Deflection"
 foundryId: Item.Z0iWEgoSAU9vL3tl

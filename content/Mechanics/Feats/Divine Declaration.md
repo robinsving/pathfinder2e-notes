@@ -1,5 +1,6 @@
 ---
 title: "Divine Declaration"
+draft: true
 noteType: ":luggage:"
 aliases: "Divine Declaration"
 foundryId: Item.LQNgJIlcK5QrzNcS

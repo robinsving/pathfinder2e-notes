@@ -1,5 +1,6 @@
 ---
 title: "Swift Application"
+draft: true
 noteType: ":luggage:"
 aliases: "Swift Application"
 foundryId: Item.IO9RdroBIL8GrDwT

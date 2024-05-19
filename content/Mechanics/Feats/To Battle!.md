@@ -1,5 +1,6 @@
 ---
 title: "To Battle!"
+draft: true
 noteType: ":luggage:"
 aliases: "To Battle!"
 foundryId: Item.ayi2EFUb9OvRG94m

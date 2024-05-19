@@ -1,5 +1,6 @@
 ---
 title: "Master Scroll Cache"
+draft: true
 noteType: ":luggage:"
 aliases: "Master Scroll Cache"
 foundryId: Item.ZEWVsSZ3ccNPYAER

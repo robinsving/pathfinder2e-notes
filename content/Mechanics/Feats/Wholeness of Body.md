@@ -1,5 +1,6 @@
 ---
 title: "Wholeness of Body"
+draft: true
 noteType: ":luggage:"
 aliases: "Wholeness of Body"
 foundryId: Item.KNFIaoYd5SjeZkbG

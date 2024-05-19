@@ -1,5 +1,6 @@
 ---
 title: "Ki Center"
+draft: true
 noteType: ":luggage:"
 aliases: "Ki Center"
 foundryId: Item.tKpWfnA4zNfuVDt7

@@ -1,5 +1,6 @@
 ---
 title: "Mental Balm"
+draft: true
 noteType: ":luggage:"
 aliases: "Mental Balm"
 foundryId: Item.jTGcTDUgsNxz1dt8

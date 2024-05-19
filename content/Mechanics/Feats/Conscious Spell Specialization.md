@@ -1,5 +1,6 @@
 ---
 title: "Conscious Spell Specialization"
+draft: true
 noteType: ":luggage:"
 aliases: "Conscious Spell Specialization"
 foundryId: Item.gTxP9qreiEGSbNng

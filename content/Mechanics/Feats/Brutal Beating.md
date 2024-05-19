@@ -1,5 +1,6 @@
 ---
 title: "Brutal Beating"
+draft: true
 noteType: ":luggage:"
 aliases: "Brutal Beating"
 foundryId: Item.7cVEm1Fl5fuOjSap

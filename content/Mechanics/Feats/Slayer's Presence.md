@@ -1,5 +1,6 @@
 ---
 title: "Slayer's Presence"
+draft: true
 noteType: ":luggage:"
 aliases: "Slayer's Presence"
 foundryId: Item.YAoCAVxh2tKtFln3

@@ -1,5 +1,6 @@
 ---
 title: "Geologic Attunement"
+draft: true
 noteType: ":luggage:"
 aliases: "Geologic Attunement"
 foundryId: Item.yqpOyJ0A5WppgPuD

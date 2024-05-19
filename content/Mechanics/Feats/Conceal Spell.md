@@ -1,5 +1,6 @@
 ---
 title: "Conceal Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Conceal Spell"
 foundryId: Item.dBu3rnjRmVu5swx6

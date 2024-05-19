@@ -1,5 +1,6 @@
 ---
 title: "Glutton For Flesh"
+draft: true
 noteType: ":luggage:"
 aliases: "Glutton For Flesh"
 foundryId: Item.W32lCb8BWysD953O

@@ -1,5 +1,6 @@
 ---
 title: "Pesh Skin"
+draft: true
 noteType: ":luggage:"
 aliases: "Pesh Skin"
 foundryId: Item.opRYWrqrI93i5Zuk

@@ -1,5 +1,6 @@
 ---
 title: "Ancestral Blood Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Ancestral Blood Magic"
 foundryId: Item.PZ1587o7LFMarNL6

@@ -1,5 +1,6 @@
 ---
 title: "Storyteller's Mask"
+draft: true
 noteType: ":luggage:"
 aliases: "Storyteller's Mask"
 foundryId: Item.C3cBgRKqpVoIzAXA

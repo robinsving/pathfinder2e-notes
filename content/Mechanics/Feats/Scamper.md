@@ -1,5 +1,6 @@
 ---
 title: "Scamper"
+draft: true
 noteType: ":luggage:"
 aliases: "Scamper"
 foundryId: Item.gTV1CxJjV5Y8BXaf

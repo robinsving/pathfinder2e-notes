@@ -1,5 +1,6 @@
 ---
 title: "Shoulder Catastrophe"
+draft: true
 noteType: ":luggage:"
 aliases: "Shoulder Catastrophe"
 foundryId: Item.SckRGnsOJhFj6l35

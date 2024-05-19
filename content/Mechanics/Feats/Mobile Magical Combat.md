@@ -1,5 +1,6 @@
 ---
 title: "Mobile Magical Combat"
+draft: true
 noteType: ":luggage:"
 aliases: "Mobile Magical Combat"
 foundryId: Item.60khk6VNRjDCo5JM

@@ -1,5 +1,6 @@
 ---
 title: "Glyph Expert"
+draft: true
 noteType: ":luggage:"
 aliases: "Glyph Expert"
 foundryId: Item.DSJw7AHKz5UaSFQY

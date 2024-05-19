@@ -1,5 +1,6 @@
 ---
 title: "Lucky Escape"
+draft: true
 noteType: ":luggage:"
 aliases: "Lucky Escape"
 foundryId: Item.FrkQ4bQUXaH8S52A

@@ -1,5 +1,6 @@
 ---
 title: "Gravelands Herbalist"
+draft: true
 noteType: ":luggage:"
 aliases: "Gravelands Herbalist"
 foundryId: Item.BEqwCEo5euMD7UXK

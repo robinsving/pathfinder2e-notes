@@ -1,5 +1,6 @@
 ---
 title: "Harrow Ritualist"
+draft: true
 noteType: ":luggage:"
 aliases: "Harrow Ritualist"
 foundryId: Item.Yg3p5xEzBJNoEjPI

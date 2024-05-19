@@ -1,5 +1,6 @@
 ---
 title: "Ki Cutting Sight"
+draft: true
 noteType: ":luggage:"
 aliases: "Ki Cutting Sight"
 foundryId: Item.2oWQrDCE8MMtQ1ly

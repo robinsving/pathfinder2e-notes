@@ -1,5 +1,6 @@
 ---
 title: "Share Weakness"
+draft: true
 noteType: ":luggage:"
 aliases: "Share Weakness"
 foundryId: Item.lbsf3scPh5w3BU73

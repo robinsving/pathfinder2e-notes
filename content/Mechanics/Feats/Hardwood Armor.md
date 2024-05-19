@@ -1,5 +1,6 @@
 ---
 title: "Hardwood Armor"
+draft: true
 noteType: ":luggage:"
 aliases: "Hardwood Armor"
 foundryId: Item.TYFDD0NNtxcWfSIw

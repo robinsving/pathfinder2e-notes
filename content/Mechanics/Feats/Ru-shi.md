@@ -1,5 +1,6 @@
 ---
 title: "Ru-shi"
+draft: true
 noteType: ":luggage:"
 aliases: "Ru-shi"
 foundryId: Item.1A7MxKuJoW88yHp9

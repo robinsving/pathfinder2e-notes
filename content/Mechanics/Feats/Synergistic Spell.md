@@ -1,5 +1,6 @@
 ---
 title: "Synergistic Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Synergistic Spell"
 foundryId: Item.sY1F8Jw9TmhRaGC1

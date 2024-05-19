@@ -1,5 +1,6 @@
 ---
 title: Flicker
+draft: true
 icon: spell
 aliases:
   - Flicker

@@ -1,5 +1,6 @@
 ---
 title: "Resurrectionist"
+draft: true
 noteType: ":luggage:"
 aliases: "Resurrectionist"
 foundryId: Item.BKq4vspAzSALLkSK

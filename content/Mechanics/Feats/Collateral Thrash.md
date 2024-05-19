@@ -1,5 +1,6 @@
 ---
 title: "Collateral Thrash"
+draft: true
 noteType: ":luggage:"
 aliases: "Collateral Thrash"
 foundryId: Item.bxaGbibTxH4fdDLc

@@ -1,5 +1,6 @@
 ---
 title: "Angel Of Death"
+draft: true
 noteType: ":luggage:"
 aliases: "Angel Of Death"
 foundryId: Item.LxtC5Wr75Yf5bybo

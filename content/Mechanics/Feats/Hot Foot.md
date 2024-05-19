@@ -1,5 +1,6 @@
 ---
 title: "Hot Foot"
+draft: true
 noteType: ":luggage:"
 aliases: "Hot Foot"
 foundryId: Item.xgivQbmp2znMM2bT

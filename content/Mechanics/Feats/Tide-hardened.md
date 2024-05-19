@@ -1,5 +1,6 @@
 ---
 title: "Tide-hardened"
+draft: true
 noteType: ":luggage:"
 aliases: "Tide-hardened"
 foundryId: Item.9LO32DHgMMgtWcIo

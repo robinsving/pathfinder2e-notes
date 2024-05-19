@@ -1,5 +1,6 @@
 ---
 title: "Bone Missile"
+draft: true
 noteType: ":luggage:"
 aliases: "Bone Missile"
 foundryId: Item.Zz4Mheno5qocvrdd

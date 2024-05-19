@@ -1,5 +1,6 @@
 ---
 title: "Runic Mind Smithing"
+draft: true
 noteType: ":luggage:"
 aliases: "Runic Mind Smithing"
 foundryId: Item.j7M3k2M8AlG1xTeW

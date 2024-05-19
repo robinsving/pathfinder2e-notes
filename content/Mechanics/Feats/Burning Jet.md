@@ -1,5 +1,6 @@
 ---
 title: "Burning Jet"
+draft: true
 noteType: ":luggage:"
 aliases: "Burning Jet"
 foundryId: Item.eq2Vk9ff4bKrTvcl

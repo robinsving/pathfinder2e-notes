@@ -1,5 +1,6 @@
 ---
 title: "Public Execution"
+draft: true
 noteType: ":luggage:"
 aliases: "Public Execution"
 foundryId: Item.swQhj4MHWizNin9Z

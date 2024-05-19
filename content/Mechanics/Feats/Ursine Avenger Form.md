@@ -1,5 +1,6 @@
 ---
 title: "Ursine Avenger Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Ursine Avenger Form"
 foundryId: Item.iCf2AXb8ZyNMql5V

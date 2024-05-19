@@ -1,5 +1,6 @@
 ---
 title: "Widen Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Widen Spell"
 foundryId: Item.LdjTRwEcgzQqyT6H

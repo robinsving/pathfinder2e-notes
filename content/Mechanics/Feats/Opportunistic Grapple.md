@@ -1,5 +1,6 @@
 ---
 title: "Opportunistic Grapple"
+draft: true
 noteType: ":luggage:"
 aliases: "Opportunistic Grapple"
 foundryId: Item.RN7Ip41xn0fGgeI6

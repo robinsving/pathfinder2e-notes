@@ -1,5 +1,6 @@
 ---
 title: "Primal Focus"
+draft: true
 noteType: ":luggage:"
 aliases: "Primal Focus"
 foundryId: Item.e6xX2di8QrXAE9WP

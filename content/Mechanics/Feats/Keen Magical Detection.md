@@ -1,5 +1,6 @@
 ---
 title: "Keen Magical Detection"
+draft: true
 noteType: ":luggage:"
 aliases: "Keen Magical Detection"
 foundryId: Item.NdU0D76cojB2fX1z

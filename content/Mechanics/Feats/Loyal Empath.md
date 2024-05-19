@@ -1,5 +1,6 @@
 ---
 title: "Loyal Empath"
+draft: true
 noteType: ":luggage:"
 aliases: "Loyal Empath"
 foundryId: Item.8tVn98BEagrXLJkh

@@ -1,5 +1,6 @@
 ---
 title: "Suli-jann"
+draft: true
 noteType: ":luggage:"
 aliases: "Suli-jann"
 foundryId: Item.QBHnwz1bR28UIQpG

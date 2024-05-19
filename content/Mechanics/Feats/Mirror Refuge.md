@@ -1,5 +1,6 @@
 ---
 title: "Mirror Refuge"
+draft: true
 noteType: ":luggage:"
 aliases: "Mirror Refuge"
 foundryId: Item.PuphHs5cdQr3Laql

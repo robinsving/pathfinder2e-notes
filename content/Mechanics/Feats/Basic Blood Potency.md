@@ -1,5 +1,6 @@
 ---
 title: "Basic Blood Potency"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Blood Potency"
 foundryId: Item.koKNuQXbIMvo84cp

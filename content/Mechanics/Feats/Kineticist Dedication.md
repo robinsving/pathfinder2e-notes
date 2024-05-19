@@ -1,5 +1,6 @@
 ---
 title: "Kineticist Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Kineticist Dedication"
 foundryId: Item.GCANfWd1fYvAsDuk

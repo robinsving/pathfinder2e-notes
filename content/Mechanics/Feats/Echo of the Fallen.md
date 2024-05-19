@@ -1,5 +1,6 @@
 ---
 title: "Echo of the Fallen"
+draft: true
 noteType: ":luggage:"
 aliases: "Echo of the Fallen"
 foundryId: Item.8jeiBjtHQmezbJd1

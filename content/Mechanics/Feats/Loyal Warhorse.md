@@ -1,5 +1,6 @@
 ---
 title: "Loyal Warhorse"
+draft: true
 noteType: ":luggage:"
 aliases: "Loyal Warhorse"
 foundryId: Item.OwJ6LTi0Q6kTYoNn

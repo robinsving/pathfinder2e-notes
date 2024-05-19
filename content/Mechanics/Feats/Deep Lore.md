@@ -1,5 +1,6 @@
 ---
 title: "Deep Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Deep Lore"
 foundryId: Item.VG3JPCyoTkQcotlG

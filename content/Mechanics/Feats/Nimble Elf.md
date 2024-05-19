@@ -1,5 +1,6 @@
 ---
 title: "Nimble Elf"
+draft: true
 noteType: ":luggage:"
 aliases: "Nimble Elf"
 foundryId: Item.rb00EbwXx5x6595n

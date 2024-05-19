@@ -1,5 +1,6 @@
 ---
 title: "Hurricane Swing"
+draft: true
 noteType: ":luggage:"
 aliases: "Hurricane Swing"
 foundryId: Item.c23HoOQ6IVAKIam5

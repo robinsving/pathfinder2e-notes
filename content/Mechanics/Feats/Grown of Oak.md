@@ -1,5 +1,6 @@
 ---
 title: "Grown of Oak"
+draft: true
 noteType: ":luggage:"
 aliases: "Grown of Oak"
 foundryId: Item.FXGnz5njDgLOiWva

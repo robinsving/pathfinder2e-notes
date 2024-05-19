@@ -1,5 +1,6 @@
 ---
 title: "Paradoxical Mystery"
+draft: true
 noteType: ":luggage:"
 aliases: "Paradoxical Mystery"
 foundryId: Item.N8Cbj1pIhqpH9nMz

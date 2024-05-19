@@ -1,5 +1,6 @@
 ---
 title: "Unseen Passage"
+draft: true
 noteType: ":luggage:"
 aliases: "Unseen Passage"
 foundryId: Item.GTepa0g64r4bopwg

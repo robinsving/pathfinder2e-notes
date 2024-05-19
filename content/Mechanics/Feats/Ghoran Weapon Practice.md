@@ -1,5 +1,6 @@
 ---
 title: "Ghoran Weapon Practice"
+draft: true
 noteType: ":luggage:"
 aliases: "Ghoran Weapon Practice"
 foundryId: Item.cVx6ol0osTOiBj3r

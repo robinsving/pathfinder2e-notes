@@ -1,5 +1,6 @@
 ---
 title: "Cleansing Light"
+draft: true
 noteType: ":luggage:"
 aliases: "Cleansing Light"
 foundryId: Item.JlLH7lUPLPXiWgnR

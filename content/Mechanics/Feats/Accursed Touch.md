@@ -1,5 +1,6 @@
 ---
 title: "Accursed Touch"
+draft: true
 noteType: ":luggage:"
 aliases: "Accursed Touch"
 foundryId: Item.H7ws4TiYR2ehVFsj

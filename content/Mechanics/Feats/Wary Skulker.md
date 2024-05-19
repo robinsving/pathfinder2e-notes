@@ -1,5 +1,6 @@
 ---
 title: "Wary Skulker"
+draft: true
 noteType: ":luggage:"
 aliases: "Wary Skulker"
 foundryId: Item.zWNxW8CAm77NrzwV

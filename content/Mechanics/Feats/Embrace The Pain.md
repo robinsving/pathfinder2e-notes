@@ -1,5 +1,6 @@
 ---
 title: "Embrace The Pain"
+draft: true
 noteType: ":luggage:"
 aliases: "Embrace The Pain"
 foundryId: Item.kZpYWaUIZ6gXgGuE

@@ -1,5 +1,6 @@
 ---
 title: "Improvised Pummel"
+draft: true
 noteType: ":luggage:"
 aliases: "Improvised Pummel"
 foundryId: Item.rJuTB15vzxtpVRfw

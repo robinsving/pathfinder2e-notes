@@ -1,5 +1,6 @@
 ---
 title: "Dogfang Bite"
+draft: true
 noteType: ":luggage:"
 aliases: "Dogfang Bite"
 foundryId: Item.SeY5rAtiX9rUpXON

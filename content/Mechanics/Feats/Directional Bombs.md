@@ -1,5 +1,6 @@
 ---
 title: "Directional Bombs"
+draft: true
 noteType: ":luggage:"
 aliases: "Directional Bombs"
 foundryId: Item.6ej4cyKosJSzUtlz

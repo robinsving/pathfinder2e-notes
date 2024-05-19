@@ -1,5 +1,6 @@
 ---
 title: "Multifarious Muse"
+draft: true
 noteType: ":luggage:"
 aliases: "Multifarious Muse"
 foundryId: Item.ck1xwRbJaLqu2zEc

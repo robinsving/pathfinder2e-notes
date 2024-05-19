@@ -1,5 +1,6 @@
 ---
 title: "Stasian Smash"
+draft: true
 noteType: ":luggage:"
 aliases: "Stasian Smash"
 foundryId: Item.WSJ84Nv4IqpgygCM

@@ -1,5 +1,6 @@
 ---
 title: "Educate Allies"
+draft: true
 noteType: ":luggage:"
 aliases: "Educate Allies"
 foundryId: Item.OdPHSxpTQ8TELL4T

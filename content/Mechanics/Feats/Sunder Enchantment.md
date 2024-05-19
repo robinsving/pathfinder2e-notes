@@ -1,5 +1,6 @@
 ---
 title: "Sunder Enchantment"
+draft: true
 noteType: ":luggage:"
 aliases: "Sunder Enchantment"
 foundryId: Item.8DA1GdazsZT7LJX7

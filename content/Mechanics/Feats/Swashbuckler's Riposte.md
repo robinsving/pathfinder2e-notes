@@ -1,5 +1,6 @@
 ---
 title: "Swashbuckler's Riposte"
+draft: true
 noteType: ":luggage:"
 aliases: "Swashbuckler's Riposte"
 foundryId: Item.y8DCIEAyBvKnE7Ld

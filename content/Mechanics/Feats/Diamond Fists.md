@@ -1,5 +1,6 @@
 ---
 title: "Diamond Fists"
+draft: true
 noteType: ":luggage:"
 aliases: "Diamond Fists"
 foundryId: Item.OHdIix916I8rTWHY

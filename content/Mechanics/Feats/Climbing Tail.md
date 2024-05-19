@@ -1,5 +1,6 @@
 ---
 title: "Climbing Tail"
+draft: true
 noteType: ":luggage:"
 aliases: "Climbing Tail"
 foundryId: Item.I9iUVKYBB6bgUQXK

@@ -1,5 +1,6 @@
 ---
 title: "Plant Evidence"
+draft: true
 noteType: ":luggage:"
 aliases: "Plant Evidence"
 foundryId: Item.L9gdvsh8Kxsv9IuX

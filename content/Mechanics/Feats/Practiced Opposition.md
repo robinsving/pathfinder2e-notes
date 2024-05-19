@@ -1,5 +1,6 @@
 ---
 title: "Practiced Opposition"
+draft: true
 noteType: ":luggage:"
 aliases: "Practiced Opposition"
 foundryId: Item.32RuOa7vimzsHrzg

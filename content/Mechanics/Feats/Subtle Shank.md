@@ -1,5 +1,6 @@
 ---
 title: "Subtle Shank"
+draft: true
 noteType: ":luggage:"
 aliases: "Subtle Shank"
 foundryId: Item.i3ZXJw3p7ON2PXgZ

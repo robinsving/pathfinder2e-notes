@@ -1,5 +1,6 @@
 ---
 title: "Brightness Seeker"
+draft: true
 noteType: ":luggage:"
 aliases: "Brightness Seeker"
 foundryId: Item.K40IiyFstrwjzDPK

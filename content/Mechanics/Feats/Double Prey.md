@@ -1,5 +1,6 @@
 ---
 title: "Double Prey"
+draft: true
 noteType: ":luggage:"
 aliases: "Double Prey"
 foundryId: Item.Mi7ah4nqX5eikwhF

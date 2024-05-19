@@ -1,5 +1,6 @@
 ---
 title: "Unburdened Iron"
+draft: true
 noteType: ":luggage:"
 aliases: "Unburdened Iron"
 foundryId: Item.xzc9fDDoTwWykhyX

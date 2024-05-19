@@ -1,5 +1,6 @@
 ---
 title: "Gift of the Hoard"
+draft: true
 noteType: ":luggage:"
 aliases: "Gift of the Hoard"
 foundryId: Item.FYPr4bh3yqkmPOlA

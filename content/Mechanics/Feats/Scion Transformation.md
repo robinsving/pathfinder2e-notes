@@ -1,5 +1,6 @@
 ---
 title: "Scion Transformation"
+draft: true
 noteType: ":luggage:"
 aliases: "Scion Transformation"
 foundryId: Item.mbqoyJcf1R3zhAuE

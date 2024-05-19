@@ -1,5 +1,6 @@
 ---
 title: "High-quality Scrounger"
+draft: true
 noteType: ":luggage:"
 aliases: "High-quality Scrounger"
 foundryId: Item.sgM3iCXZ5JNCpfPI

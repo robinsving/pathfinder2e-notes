@@ -1,5 +1,6 @@
 ---
 title: "Font of Knowledge"
+draft: true
 noteType: ":luggage:"
 aliases: "Font of Knowledge"
 foundryId: Item.44T3qvclG7gBddr3

@@ -1,5 +1,6 @@
 ---
 title: "Analyze Idiolect"
+draft: true
 noteType: ":luggage:"
 aliases: "Analyze Idiolect"
 foundryId: Item.3C5qTd7TMhQop9Cx

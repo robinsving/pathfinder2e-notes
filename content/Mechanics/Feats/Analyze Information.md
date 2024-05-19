@@ -1,5 +1,6 @@
 ---
 title: "Analyze Information"
+draft: true
 noteType: ":luggage:"
 aliases: "Analyze Information"
 foundryId: Item.2AvGu7UR8E9AzOvk

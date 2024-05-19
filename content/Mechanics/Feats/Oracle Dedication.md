@@ -1,5 +1,6 @@
 ---
 title: "Oracle Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Oracle Dedication"
 foundryId: Item.nT7SsMf0glwgW6qm

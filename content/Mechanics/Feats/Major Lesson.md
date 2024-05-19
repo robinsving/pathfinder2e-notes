@@ -1,5 +1,6 @@
 ---
 title: "Major Lesson"
+draft: true
 noteType: ":luggage:"
 aliases: "Major Lesson"
 foundryId: Item.vA33suL6yVwfEka6

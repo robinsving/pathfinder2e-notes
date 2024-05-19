@@ -1,5 +1,6 @@
 ---
 title: "Hallowed Initiate"
+draft: true
 noteType: ":luggage:"
 aliases: "Hallowed Initiate"
 foundryId: Item.xfyCXAFwM9S5SgXa

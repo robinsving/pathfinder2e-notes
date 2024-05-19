@@ -1,5 +1,6 @@
 ---
 title: "Hyena Familiar"
+draft: true
 noteType: ":luggage:"
 aliases: "Hyena Familiar"
 foundryId: Item.CQSX560d60CCFVIM

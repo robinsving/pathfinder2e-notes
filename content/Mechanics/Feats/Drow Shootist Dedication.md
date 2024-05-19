@@ -1,5 +1,6 @@
 ---
 title: "Drow Shootist Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Drow Shootist Dedication"
 foundryId: Item.9DPNUMNjYI8dvaoN

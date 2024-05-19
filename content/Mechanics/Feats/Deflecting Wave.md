@@ -1,5 +1,6 @@
 ---
 title: "Deflecting Wave"
+draft: true
 noteType: ":luggage:"
 aliases: "Deflecting Wave"
 foundryId: Item.6Y8ytp9ICfKFcwDm

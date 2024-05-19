@@ -1,5 +1,6 @@
 ---
 title: "Bestiary Scholar"
+draft: true
 noteType: ":luggage:"
 aliases: "Bestiary Scholar"
 foundryId: Item.A1CwYCT4JLnaTByi

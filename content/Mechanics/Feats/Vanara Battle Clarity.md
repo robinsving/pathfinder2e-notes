@@ -1,5 +1,6 @@
 ---
 title: "Vanara Battle Clarity"
+draft: true
 noteType: ":luggage:"
 aliases: "Vanara Battle Clarity"
 foundryId: Item.5Zd7WtYfh8z10Bjq

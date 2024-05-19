@@ -1,5 +1,6 @@
 ---
 title: "Elven Instincts"
+draft: true
 noteType: ":luggage:"
 aliases: "Elven Instincts"
 foundryId: Item.adrBwgNis90I4ehX

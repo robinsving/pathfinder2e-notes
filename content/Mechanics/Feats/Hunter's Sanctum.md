@@ -1,5 +1,6 @@
 ---
 title: "Hunter's Sanctum"
+draft: true
 noteType: ":luggage:"
 aliases: "Hunter's Sanctum"
 foundryId: Item.2TWzSmZa4eSpHSmq

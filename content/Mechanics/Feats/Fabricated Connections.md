@@ -1,5 +1,6 @@
 ---
 title: "Fabricated Connections"
+draft: true
 noteType: ":luggage:"
 aliases: "Fabricated Connections"
 foundryId: Item.DbcUmFQYXfgAtPZL

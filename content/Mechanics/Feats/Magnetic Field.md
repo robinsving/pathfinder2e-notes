@@ -1,5 +1,6 @@
 ---
 title: "Magnetic Field"
+draft: true
 noteType: ":luggage:"
 aliases: "Magnetic Field"
 foundryId: Item.i0d3fAL16m1dAP5M

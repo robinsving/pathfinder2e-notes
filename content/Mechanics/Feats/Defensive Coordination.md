@@ -1,5 +1,6 @@
 ---
 title: "Defensive Coordination"
+draft: true
 noteType: ":luggage:"
 aliases: "Defensive Coordination"
 foundryId: Item.JPUmMbPnh7Rh86MV

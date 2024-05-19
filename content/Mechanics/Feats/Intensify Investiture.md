@@ -1,5 +1,6 @@
 ---
 title: "Intensify Investiture"
+draft: true
 noteType: ":luggage:"
 aliases: "Intensify Investiture"
 foundryId: Item.AdIs9STV3s3doVAT

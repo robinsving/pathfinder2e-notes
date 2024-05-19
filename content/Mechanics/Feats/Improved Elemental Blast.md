@@ -1,5 +1,6 @@
 ---
 title: "Improved Elemental Blast"
+draft: true
 noteType: ":luggage:"
 aliases: "Improved Elemental Blast"
 foundryId: Item.XX2zQZgTkdBzlZF8

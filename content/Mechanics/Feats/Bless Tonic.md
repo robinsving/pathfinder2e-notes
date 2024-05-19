@@ -1,5 +1,6 @@
 ---
 title: "Bless Tonic"
+draft: true
 noteType: ":luggage:"
 aliases: "Bless Tonic"
 foundryId: Item.9pNyfkmuGVPLt74X

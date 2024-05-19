@@ -1,5 +1,6 @@
 ---
 title: "Undying Conviction"
+draft: true
 noteType: ":luggage:"
 aliases: "Undying Conviction"
 foundryId: Item.JvPHtnm4cokDNiQ0

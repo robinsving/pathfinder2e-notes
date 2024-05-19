@@ -1,5 +1,6 @@
 ---
 title: "Inspiring Marshal Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Inspiring Marshal Stance"
 foundryId: Item.wweUnvzWCbQgFliG

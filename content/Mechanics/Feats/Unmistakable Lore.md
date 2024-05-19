@@ -1,5 +1,6 @@
 ---
 title: "Unmistakable Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Unmistakable Lore"
 foundryId: Item.T3FmgtKdUtVjaTQg

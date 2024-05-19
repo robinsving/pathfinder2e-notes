@@ -1,5 +1,6 @@
 ---
 title: "Shadow's Web"
+draft: true
 noteType: ":luggage:"
 aliases: "Shadow's Web"
 foundryId: Item.XKb1cEFFX9zjspno

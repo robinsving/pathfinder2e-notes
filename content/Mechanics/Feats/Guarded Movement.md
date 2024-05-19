@@ -1,5 +1,6 @@
 ---
 title: "Guarded Movement"
+draft: true
 noteType: ":luggage:"
 aliases: "Guarded Movement"
 foundryId: Item.KvZ1NcK1xqlRIQt2

@@ -1,5 +1,6 @@
 ---
 title: "Adaptive Adept"
+draft: true
 noteType: ":luggage:"
 aliases: "Adaptive Adept"
 foundryId: Item.04Q5iQOK7zcHUUMl

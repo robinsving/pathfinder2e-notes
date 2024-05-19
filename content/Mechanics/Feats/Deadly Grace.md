@@ -1,5 +1,6 @@
 ---
 title: "Deadly Grace"
+draft: true
 noteType: ":luggage:"
 aliases: "Deadly Grace"
 foundryId: Item.hazMSMEfbReBRt9s

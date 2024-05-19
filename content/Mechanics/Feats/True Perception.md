@@ -1,5 +1,6 @@
 ---
 title: "True Perception"
+draft: true
 noteType: ":luggage:"
 aliases: "True Perception"
 foundryId: Item.rMrKxF6hsmVL8K0E

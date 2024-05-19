@@ -1,5 +1,6 @@
 ---
 title: "Secret Eyes"
+draft: true
 noteType: ":luggage:"
 aliases: "Secret Eyes"
 foundryId: Item.9C9wQ91YZpJ6nGAh

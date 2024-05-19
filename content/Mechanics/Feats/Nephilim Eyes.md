@@ -1,5 +1,6 @@
 ---
 title: "Nephilim Eyes"
+draft: true
 noteType: ":luggage:"
 aliases: "Nephilim Eyes"
 foundryId: Item.wf5KBqfukBlUaBOf

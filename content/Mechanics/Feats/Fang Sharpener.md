@@ -1,5 +1,6 @@
 ---
 title: "Fang Sharpener"
+draft: true
 noteType: ":luggage:"
 aliases: "Fang Sharpener"
 foundryId: Item.CVSEjgbZ3BXHfGeD

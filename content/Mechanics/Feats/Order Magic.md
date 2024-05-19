@@ -1,5 +1,6 @@
 ---
 title: "Order Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Order Magic"
 foundryId: Item.Mpdg3ldWRDLLXuqI

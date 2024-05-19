@@ -1,5 +1,6 @@
 ---
 title: "Startling Appearance (Vigilante)"
+draft: true
 noteType: ":luggage:"
 aliases: "Startling Appearance (Vigilante)"
 foundryId: Item.iAaYfFBE5p4APxop

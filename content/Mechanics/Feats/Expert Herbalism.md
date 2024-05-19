@@ -1,5 +1,6 @@
 ---
 title: "Expert Herbalism"
+draft: true
 noteType: ":luggage:"
 aliases: "Expert Herbalism"
 foundryId: Item.EqshsYrrlJYo3sl9

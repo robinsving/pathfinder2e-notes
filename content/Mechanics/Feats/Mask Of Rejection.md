@@ -1,5 +1,6 @@
 ---
 title: "Mask Of Rejection"
+draft: true
 noteType: ":luggage:"
 aliases: "Mask Of Rejection"
 foundryId: Item.WQc2otgwpqeji0Ju

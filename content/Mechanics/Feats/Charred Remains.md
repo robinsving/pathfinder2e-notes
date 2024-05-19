@@ -1,5 +1,6 @@
 ---
 title: "Charred Remains"
+draft: true
 noteType: ":luggage:"
 aliases: "Charred Remains"
 foundryId: Item.qRYzYRfuBlRy3x6h

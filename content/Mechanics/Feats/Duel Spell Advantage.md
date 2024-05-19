@@ -1,5 +1,6 @@
 ---
 title: "Duel Spell Advantage"
+draft: true
 noteType: ":luggage:"
 aliases: "Duel Spell Advantage"
 foundryId: Item.ToyJeabkyCcFhVJM

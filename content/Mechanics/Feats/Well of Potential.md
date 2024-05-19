@@ -1,5 +1,6 @@
 ---
 title: "Well of Potential"
+draft: true
 noteType: ":luggage:"
 aliases: "Well of Potential"
 foundryId: Item.CsczEPzJLk8pgKAI

@@ -1,5 +1,6 @@
 ---
 title: "Eternal Elixir"
+draft: true
 noteType: ":luggage:"
 aliases: "Eternal Elixir"
 foundryId: Item.ESoFrgxDFcgOMuKW

@@ -1,5 +1,6 @@
 ---
 title: "Stonegate"
+draft: true
 noteType: ":luggage:"
 aliases: "Stonegate"
 foundryId: Item.Wv6CfhC5wMFpRrfY

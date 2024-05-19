@@ -1,5 +1,6 @@
 ---
 title: "Brinesoul"
+draft: true
 noteType: ":luggage:"
 aliases: "Brinesoul"
 foundryId: Item.url3jczf7gmrakd1

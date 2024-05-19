@@ -1,5 +1,6 @@
 ---
 title: "Anadi Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Anadi Lore"
 foundryId: Item.wJ6VgPOEBHUgdIr6

@@ -1,5 +1,6 @@
 ---
 title: "Hydraulic Deflection"
+draft: true
 noteType: ":luggage:"
 aliases: "Hydraulic Deflection"
 foundryId: Item.ggxDnLUWEJDv2z06

@@ -1,5 +1,6 @@
 ---
 title: "Vivacious Bravado"
+draft: true
 noteType: ":luggage:"
 aliases: "Vivacious Bravado"
 foundryId: Item.JQwLpnRk9mwORuAA

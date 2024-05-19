@@ -1,5 +1,6 @@
 ---
 title: "Crystal Healing"
+draft: true
 noteType: ":luggage:"
 aliases: "Crystal Healing"
 foundryId: Item.r3IzI1k0Qf0g1Vqr

@@ -1,5 +1,6 @@
 ---
 title: "Necromantic Bulwark"
+draft: true
 noteType: ":luggage:"
 aliases: "Necromantic Bulwark"
 foundryId: Item.QREwv2vYqgmBt9HG

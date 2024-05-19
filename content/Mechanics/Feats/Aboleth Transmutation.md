@@ -1,5 +1,6 @@
 ---
 title: "Aboleth Transmutation"
+draft: true
 noteType: ":luggage:"
 aliases: "Aboleth Transmutation"
 foundryId: Item.CP0bH1GY7cffPZau

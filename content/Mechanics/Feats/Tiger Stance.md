@@ -1,5 +1,6 @@
 ---
 title: "Tiger Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Tiger Stance"
 foundryId: Item.muQ6mqkP0BXAmC2J

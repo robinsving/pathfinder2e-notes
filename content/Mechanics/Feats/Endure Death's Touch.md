@@ -1,5 +1,6 @@
 ---
 title: "Endure Death's Touch"
+draft: true
 noteType: ":luggage:"
 aliases: "Endure Death's Touch"
 foundryId: Item.khsD0SJwgY12SyEc

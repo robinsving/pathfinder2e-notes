@@ -1,5 +1,6 @@
 ---
 title: "Brain Drain"
+draft: true
 noteType: ":luggage:"
 aliases: "Brain Drain"
 foundryId: Item.hEXjHd7DDHyUO2hM

@@ -1,5 +1,6 @@
 ---
 title: "Rapid Manifestation"
+draft: true
 noteType: ":luggage:"
 aliases: "Rapid Manifestation"
 foundryId: Item.4oGwJe03bWr8rZt7

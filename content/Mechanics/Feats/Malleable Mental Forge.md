@@ -1,5 +1,6 @@
 ---
 title: "Malleable Mental Forge"
+draft: true
 noteType: ":luggage:"
 aliases: "Malleable Mental Forge"
 foundryId: Item.l2yY2xqHmlX5Edet

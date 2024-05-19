@@ -1,5 +1,6 @@
 ---
 title: "Shadow Sight"
+draft: true
 noteType: ":luggage:"
 aliases: "Shadow Sight"
 foundryId: Item.XFw816mTuQdcJts9

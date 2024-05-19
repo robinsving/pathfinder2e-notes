@@ -1,5 +1,6 @@
 ---
 title: "Favored Prey"
+draft: true
 noteType: ":luggage:"
 aliases: "Favored Prey"
 foundryId: Item.Hj0o0v3XaFHzp0WO

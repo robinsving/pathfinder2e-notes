@@ -1,5 +1,6 @@
 ---
 title: "Red Mantis Assassin Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Red Mantis Assassin Dedication"
 foundryId: Item.t3qaxTXdZnZCGJip

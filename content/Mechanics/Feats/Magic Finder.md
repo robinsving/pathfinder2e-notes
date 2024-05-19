@@ -1,5 +1,6 @@
 ---
 title: "Magic Finder"
+draft: true
 noteType: ":luggage:"
 aliases: "Magic Finder"
 foundryId: Item.epldRzd6aU18SVt1

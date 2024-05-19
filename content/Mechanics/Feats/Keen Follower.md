@@ -1,5 +1,6 @@
 ---
 title: "Keen Follower"
+draft: true
 noteType: ":luggage:"
 aliases: "Keen Follower"
 foundryId: Item.Bd7DKFF9gkSRWEUn

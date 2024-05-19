@@ -1,5 +1,6 @@
 ---
 title: "Igneogenesis"
+draft: true
 noteType: ":luggage:"
 aliases: "Igneogenesis"
 foundryId: Item.IlfwyU6CduU8N80j

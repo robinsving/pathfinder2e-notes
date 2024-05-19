@@ -1,5 +1,6 @@
 ---
 title: "Fane's Fourberie"
+draft: true
 noteType: ":luggage:"
 aliases: "Fane's Fourberie"
 foundryId: Item.mPY2Qd2nTsxjYsrg

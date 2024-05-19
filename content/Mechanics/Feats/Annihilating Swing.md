@@ -1,5 +1,6 @@
 ---
 title: "Annihilating Swing"
+draft: true
 noteType: ":luggage:"
 aliases: "Annihilating Swing"
 foundryId: Item.9QkdsTBmLgIThg3W

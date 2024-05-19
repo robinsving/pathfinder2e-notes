@@ -1,5 +1,6 @@
 ---
 title: "Tongue of Sun and Moon"
+draft: true
 noteType: ":luggage:"
 aliases: "Tongue of Sun and Moon"
 foundryId: Item.f9Jv5vrAFnktuJ9G

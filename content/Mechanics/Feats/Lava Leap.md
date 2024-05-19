@@ -1,5 +1,6 @@
 ---
 title: "Lava Leap"
+draft: true
 noteType: ":luggage:"
 aliases: "Lava Leap"
 foundryId: Item.uhbx1Y2TAOvflmBC

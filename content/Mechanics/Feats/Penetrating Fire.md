@@ -1,5 +1,6 @@
 ---
 title: "Penetrating Fire"
+draft: true
 noteType: ":luggage:"
 aliases: "Penetrating Fire"
 foundryId: Item.Z9sVyP3rSQ0bFwni

@@ -1,5 +1,6 @@
 ---
 title: "Adroit Manipulation"
+draft: true
 noteType: ":luggage:"
 aliases: "Adroit Manipulation"
 foundryId: Item.C5Eksk6XtiK0i30E

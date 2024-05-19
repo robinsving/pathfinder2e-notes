@@ -1,5 +1,6 @@
 ---
 title: "Guardian Ghosts"
+draft: true
 noteType: ":luggage:"
 aliases: "Guardian Ghosts"
 foundryId: Item.l6tWTIDFMOnljk8p

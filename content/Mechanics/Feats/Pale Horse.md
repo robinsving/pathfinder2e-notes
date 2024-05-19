@@ -1,5 +1,6 @@
 ---
 title: "Pale Horse"
+draft: true
 noteType: ":luggage:"
 aliases: "Pale Horse"
 foundryId: Item.hEqrZX6Kktg77hMb

@@ -1,5 +1,6 @@
 ---
 title: "Distracting Feint"
+draft: true
 noteType: ":luggage:"
 aliases: "Distracting Feint"
 foundryId: Item.pJmST6b336ONVbbv

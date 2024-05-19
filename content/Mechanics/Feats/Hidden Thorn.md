@@ -1,5 +1,6 @@
 ---
 title: "Hidden Thorn"
+draft: true
 noteType: ":luggage:"
 aliases: "Hidden Thorn"
 foundryId: Item.Jim4O90CJR4gjmPM

@@ -1,5 +1,6 @@
 ---
 title: "Dirge of Doom"
+draft: true
 noteType: ":luggage:"
 aliases: "Dirge of Doom"
 foundryId: Item.TTSfTub0x6pmqaej

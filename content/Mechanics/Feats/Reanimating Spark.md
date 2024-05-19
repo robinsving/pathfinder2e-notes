@@ -1,5 +1,6 @@
 ---
 title: "Reanimating Spark"
+draft: true
 noteType: ":luggage:"
 aliases: "Reanimating Spark"
 foundryId: Item.QNhbUmVhQGo3jHEf

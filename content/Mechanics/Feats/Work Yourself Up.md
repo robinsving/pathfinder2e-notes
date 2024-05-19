@@ -1,5 +1,6 @@
 ---
 title: "Work Yourself Up"
+draft: true
 noteType: ":luggage:"
 aliases: "Work Yourself Up"
 foundryId: Item.QIigxkhw19ct00zy

@@ -1,5 +1,6 @@
 ---
 title: "Emblazon Armament"
+draft: true
 noteType: ":luggage:"
 aliases: "Emblazon Armament"
 foundryId: Item.BMtyWhq1Mm0Utq4Z

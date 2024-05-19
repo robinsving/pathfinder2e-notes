@@ -1,5 +1,6 @@
 ---
 title: "Swift Sneak"
+draft: true
 noteType: ":luggage:"
 aliases: "Swift Sneak"
 foundryId: Item.tAYrZBeAJLY3Lpyz

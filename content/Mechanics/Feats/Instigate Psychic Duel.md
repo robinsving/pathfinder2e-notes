@@ -1,5 +1,6 @@
 ---
 title: "Instigate Psychic Duel"
+draft: true
 noteType: ":luggage:"
 aliases: "Instigate Psychic Duel"
 foundryId: Item.yDhuXskErlRL1pGa

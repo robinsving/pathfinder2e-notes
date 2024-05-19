@@ -1,5 +1,6 @@
 ---
 title: "Unconventional Weaponry"
+draft: true
 noteType: ":luggage:"
 aliases: "Unconventional Weaponry"
 foundryId: Item.tDBIs9Q3CNlgibVS

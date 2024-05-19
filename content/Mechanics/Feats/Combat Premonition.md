@@ -1,5 +1,6 @@
 ---
 title: "Combat Premonition"
+draft: true
 noteType: ":luggage:"
 aliases: "Combat Premonition"
 foundryId: Item.zcYnDKpVbCv9RGGK

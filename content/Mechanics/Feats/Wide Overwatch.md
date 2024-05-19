@@ -1,5 +1,6 @@
 ---
 title: "Wide Overwatch"
+draft: true
 noteType: ":luggage:"
 aliases: "Wide Overwatch"
 foundryId: Item.0MC7ePOiukLadEzS

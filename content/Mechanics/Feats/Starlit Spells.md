@@ -1,5 +1,6 @@
 ---
 title: "Starlit Spells"
+draft: true
 noteType: ":luggage:"
 aliases: "Starlit Spells"
 foundryId: Item.LsOGSVhHpgvvmT2F

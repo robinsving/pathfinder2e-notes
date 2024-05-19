@@ -1,5 +1,6 @@
 ---
 title: "Pistolero's Challenge"
+draft: true
 noteType: ":luggage:"
 aliases: "Pistolero's Challenge"
 foundryId: Item.hJdha5ytkyGXtsQl

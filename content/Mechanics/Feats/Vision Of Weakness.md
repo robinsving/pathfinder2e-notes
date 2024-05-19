@@ -1,5 +1,6 @@
 ---
 title: "Vision Of Weakness"
+draft: true
 noteType: ":luggage:"
 aliases: "Vision Of Weakness"
 foundryId: Item.A4VrrL18y2e2AlFB

@@ -1,5 +1,6 @@
 ---
 title: "Ward Medic"
+draft: true
 noteType: ":luggage:"
 aliases: "Ward Medic"
 foundryId: Item.AHWXWXLmn5ILk7xD

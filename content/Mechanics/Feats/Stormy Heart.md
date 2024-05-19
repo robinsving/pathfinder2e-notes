@@ -1,5 +1,6 @@
 ---
 title: "Stormy Heart"
+draft: true
 noteType: ":luggage:"
 aliases: "Stormy Heart"
 foundryId: Item.yWu8UWS3QQEHKujF

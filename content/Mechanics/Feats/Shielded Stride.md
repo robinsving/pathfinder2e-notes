@@ -1,5 +1,6 @@
 ---
 title: "Shielded Stride"
+draft: true
 noteType: ":luggage:"
 aliases: "Shielded Stride"
 foundryId: Item.8rtmlTstOf3o4NuB

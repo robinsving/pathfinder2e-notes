@@ -1,5 +1,6 @@
 ---
 title: "Wild Winds Initiate"
+draft: true
 noteType: ":luggage:"
 aliases: "Wild Winds Initiate"
 foundryId: Item.NP1IJtbVQvHLNwPl

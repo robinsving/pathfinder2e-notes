@@ -1,5 +1,6 @@
 ---
 title: "Weapon Supremacy"
+draft: true
 noteType: ":luggage:"
 aliases: "Weapon Supremacy"
 foundryId: Item.0eXm6zZA6xIlv3Az

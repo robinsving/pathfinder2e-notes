@@ -1,5 +1,6 @@
 ---
 title: "Bloodline Perfection"
+draft: true
 noteType: ":luggage:"
 aliases: "Bloodline Perfection"
 foundryId: Item.3O8F48UDhz6XILyX

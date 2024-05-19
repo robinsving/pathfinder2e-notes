@@ -1,5 +1,6 @@
 ---
 title: "Silver's Refrain"
+draft: true
 noteType: ":luggage:"
 aliases: "Silver's Refrain"
 foundryId: Item.IYeC3JNZHSAHaScZ

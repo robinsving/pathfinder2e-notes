@@ -1,5 +1,6 @@
 ---
 title: "Ageless Spirit"
+draft: true
 noteType: ":luggage:"
 aliases: "Ageless Spirit"
 foundryId: Item.i5JpS4clO3mGOy4D

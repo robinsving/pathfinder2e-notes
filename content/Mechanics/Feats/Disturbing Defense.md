@@ -1,5 +1,6 @@
 ---
 title: "Disturbing Defense"
+draft: true
 noteType: ":luggage:"
 aliases: "Disturbing Defense"
 foundryId: Item.JDrGnIIt0X6njun7

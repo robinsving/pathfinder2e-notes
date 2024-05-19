@@ -1,5 +1,6 @@
 ---
 title: "Instinct Ability"
+draft: true
 noteType: ":luggage:"
 aliases: "Instinct Ability"
 foundryId: Item.Q6IRmr4vkvjT2xcE

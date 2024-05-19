@@ -1,5 +1,6 @@
 ---
 title: "Twilight Speaker Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Twilight Speaker Dedication"
 foundryId: Item.CnZrnKTF8o1oV1fc

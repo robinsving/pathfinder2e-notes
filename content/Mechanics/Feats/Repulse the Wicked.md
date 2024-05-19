@@ -1,5 +1,6 @@
 ---
 title: "Repulse the Wicked"
+draft: true
 noteType: ":luggage:"
 aliases: "Repulse the Wicked"
 foundryId: Item.FwlLM4Pck4JLIcn8

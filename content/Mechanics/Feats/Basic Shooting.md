@@ -1,5 +1,6 @@
 ---
 title: "Basic Shooting"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Shooting"
 foundryId: Item.5EU3jc9zbZeSuzGd

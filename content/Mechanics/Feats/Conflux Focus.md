@@ -1,5 +1,6 @@
 ---
 title: "Conflux Focus"
+draft: true
 noteType: ":luggage:"
 aliases: "Conflux Focus"
 foundryId: Item.KfSXsrUeAV198IDe

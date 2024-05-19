@@ -1,5 +1,6 @@
 ---
 title: "Pirouette"
+draft: true
 noteType: ":luggage:"
 aliases: "Pirouette"
 foundryId: Item.2SZ6Kqd2nEH6HcyU

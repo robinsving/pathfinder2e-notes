@@ -1,5 +1,6 @@
 ---
 title: "Purge of Moments"
+draft: true
 noteType: ":luggage:"
 aliases: "Purge of Moments"
 foundryId: Item.nAe4RuyZlbOfTFvS

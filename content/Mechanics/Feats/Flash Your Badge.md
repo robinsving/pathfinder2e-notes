@@ -1,5 +1,6 @@
 ---
 title: "Flash Your Badge"
+draft: true
 noteType: ":luggage:"
 aliases: "Flash Your Badge"
 foundryId: Item.9agGi2tF7TjKiv5d

@@ -1,5 +1,6 @@
 ---
 title: "Fuse Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Fuse Stance"
 foundryId: Item.Yr1NOmECjvd5wlgw

@@ -1,5 +1,6 @@
 ---
 title: "Advanced Construct Companion"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Construct Companion"
 foundryId: Item.MeD8sttq3ArDdz9f

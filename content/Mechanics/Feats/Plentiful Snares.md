@@ -1,5 +1,6 @@
 ---
 title: "Plentiful Snares"
+draft: true
 noteType: ":luggage:"
 aliases: "Plentiful Snares"
 foundryId: Item.TES3bSCd05Dmvseb

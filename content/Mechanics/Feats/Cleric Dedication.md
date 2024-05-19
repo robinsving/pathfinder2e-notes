@@ -1,5 +1,6 @@
 ---
 title: "Cleric Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Cleric Dedication"
 foundryId: Item.OIo6ZHj3LgWIUJVm

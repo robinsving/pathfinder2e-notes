@@ -1,5 +1,6 @@
 ---
 title: "Aberration Kinship"
+draft: true
 noteType: ":luggage:"
 aliases: "Aberration Kinship"
 foundryId: Item.D4GrG3gUsm9fh1b6

@@ -1,5 +1,6 @@
 ---
 title: "Impenetrable Fog"
+draft: true
 noteType: ":luggage:"
 aliases: "Impenetrable Fog"
 foundryId: Item.eift7tuFfv20kOMI

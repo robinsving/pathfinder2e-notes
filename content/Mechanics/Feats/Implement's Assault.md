@@ -1,5 +1,6 @@
 ---
 title: "Implement's Assault"
+draft: true
 noteType: ":luggage:"
 aliases: "Implement's Assault"
 foundryId: Item.wgk4moawfeDncJA7

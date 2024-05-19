@@ -1,5 +1,6 @@
 ---
 title: "Swap Reflections"
+draft: true
 noteType: ":luggage:"
 aliases: "Swap Reflections"
 foundryId: Item.lbliXM8j8Se0iVG3

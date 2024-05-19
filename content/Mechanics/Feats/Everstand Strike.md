@@ -1,5 +1,6 @@
 ---
 title: "Everstand Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Everstand Strike"
 foundryId: Item.YdnXEUaA2ufUwVFW

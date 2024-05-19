@@ -1,5 +1,6 @@
 ---
 title: "Vanara Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Vanara Lore"
 foundryId: Item.agRIPxurGlzU3kfi

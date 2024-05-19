@@ -1,5 +1,6 @@
 ---
 title: "Grovel"
+draft: true
 noteType: ":luggage:"
 aliases: "Grovel"
 foundryId: Item.ChxKIHCC22cslbpQ

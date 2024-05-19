@@ -1,5 +1,6 @@
 ---
 title: "Celestial Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Celestial Form"
 foundryId: Item.d54oqfzSh7yPvhET

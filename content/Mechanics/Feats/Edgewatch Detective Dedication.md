@@ -1,5 +1,6 @@
 ---
 title: "Edgewatch Detective Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Edgewatch Detective Dedication"
 foundryId: Item.BUIzc4W6c5vx9fum

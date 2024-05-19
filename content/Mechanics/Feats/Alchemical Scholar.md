@@ -1,5 +1,6 @@
 ---
 title: "Alchemical Scholar"
+draft: true
 noteType: ":luggage:"
 aliases: "Alchemical Scholar"
 foundryId: Item.QqNt9DMZ6lmIMSYq

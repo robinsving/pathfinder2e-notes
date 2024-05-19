@@ -1,5 +1,6 @@
 ---
 title: "Wrestler Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Wrestler Dedication"
 foundryId: Item.QG2plh2B2qmtaqdq

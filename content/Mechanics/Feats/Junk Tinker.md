@@ -1,5 +1,6 @@
 ---
 title: "Junk Tinker"
+draft: true
 noteType: ":luggage:"
 aliases: "Junk Tinker"
 foundryId: Item.58TR4GrWOg2E3a4O

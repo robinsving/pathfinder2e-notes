@@ -1,5 +1,6 @@
 ---
 title: "Disrupting Strikes"
+draft: true
 noteType: ":luggage:"
 aliases: "Disrupting Strikes"
 foundryId: Item.rFDFXbbVWF1kzryE

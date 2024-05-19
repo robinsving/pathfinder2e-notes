@@ -1,5 +1,6 @@
 ---
 title: "Jinx Glutton"
+draft: true
 noteType: ":luggage:"
 aliases: "Jinx Glutton"
 foundryId: Item.qOwciBvZhArs6iTe

@@ -1,5 +1,6 @@
 ---
 title: "Crystalline Cloud"
+draft: true
 noteType: ":luggage:"
 aliases: "Crystalline Cloud"
 foundryId: Item.njPd4Z2f8erNCqfi

@@ -1,5 +1,6 @@
 ---
 title: "Waking Dream"
+draft: true
 noteType: ":luggage:"
 aliases: "Waking Dream"
 foundryId: Item.UjH51y0vGl3l1ZVl

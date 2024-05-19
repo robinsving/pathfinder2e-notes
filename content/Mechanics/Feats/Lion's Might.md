@@ -1,5 +1,6 @@
 ---
 title: "Lion's Might"
+draft: true
 noteType: ":luggage:"
 aliases: "Lion's Might"
 foundryId: Item.xxCIwkTY691xLLsi

@@ -1,5 +1,6 @@
 ---
 title: "Metallic Envisionment"
+draft: true
 noteType: ":luggage:"
 aliases: "Metallic Envisionment"
 foundryId: Item.os2Dqvl2Jg818o5f

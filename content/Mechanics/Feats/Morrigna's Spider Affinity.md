@@ -1,5 +1,6 @@
 ---
 title: "Morrigna's Spider Affinity"
+draft: true
 noteType: ":luggage:"
 aliases: "Morrigna's Spider Affinity"
 foundryId: Item.2KwUIqOTw61E5xIT

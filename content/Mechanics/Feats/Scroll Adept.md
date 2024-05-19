@@ -1,5 +1,6 @@
 ---
 title: "Scroll Adept"
+draft: true
 noteType: ":luggage:"
 aliases: "Scroll Adept"
 foundryId: Item.0NQkixFq8PhRerPo

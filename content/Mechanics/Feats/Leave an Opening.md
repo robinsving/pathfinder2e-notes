@@ -1,5 +1,6 @@
 ---
 title: "Leave an Opening"
+draft: true
 noteType: ":luggage:"
 aliases: "Leave an Opening"
 foundryId: Item.SnRDQGxWIUokDRvr

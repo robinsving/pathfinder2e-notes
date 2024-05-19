@@ -1,5 +1,6 @@
 ---
 title: "Forewarn"
+draft: true
 noteType: ":luggage:"
 aliases: "Forewarn"
 foundryId: Item.CfrIA5ugB7Qav82W

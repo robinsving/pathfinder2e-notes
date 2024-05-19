@@ -1,5 +1,6 @@
 ---
 title: "Basic Flair"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Flair"
 foundryId: Item.Wa4NHe7sOGlr0yPK

@@ -1,5 +1,6 @@
 ---
 title: "Hymn Of Healing"
+draft: true
 noteType: ":luggage:"
 aliases: "Hymn Of Healing"
 foundryId: Item.LjUs7MyUIEM7qlhM

@@ -1,5 +1,6 @@
 ---
 title: "Aura Shaping"
+draft: true
 noteType: ":luggage:"
 aliases: "Aura Shaping"
 foundryId: Item.K7z2EcTpVwCA8wfo

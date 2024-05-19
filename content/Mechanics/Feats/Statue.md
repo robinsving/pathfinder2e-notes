@@ -1,5 +1,6 @@
 ---
 title: "Statue"
+draft: true
 noteType: ":luggage:"
 aliases: "Statue"
 foundryId: Item.608XdtKRikMHyLQ2

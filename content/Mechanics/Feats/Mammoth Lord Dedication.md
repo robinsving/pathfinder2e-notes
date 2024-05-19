@@ -1,5 +1,6 @@
 ---
 title: "Mammoth Lord Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Mammoth Lord Dedication"
 foundryId: Item.feCPuZKIxdfGtT1S

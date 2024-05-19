@@ -1,5 +1,6 @@
 ---
 title: "Attack of Opportunity"
+draft: true
 noteType: ":luggage:"
 aliases: "Attack of Opportunity"
 foundryId: Item.vcj6Zaq3g1op1yMK

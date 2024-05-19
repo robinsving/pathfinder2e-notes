@@ -1,5 +1,6 @@
 ---
 title: "Orthographic Mastery"
+draft: true
 noteType: ":luggage:"
 aliases: "Orthographic Mastery"
 foundryId: Item.yXftT38bgGa0n4yf

@@ -1,5 +1,6 @@
 ---
 title: "Psychic Duelist Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Psychic Duelist Dedication"
 foundryId: Item.pCHpffYh5uAWIZll

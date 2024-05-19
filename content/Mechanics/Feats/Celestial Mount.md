@@ -1,5 +1,6 @@
 ---
 title: "Celestial Mount"
+draft: true
 noteType: ":luggage:"
 aliases: "Celestial Mount"
 foundryId: Item.NwM1w9mLIgU1p81f

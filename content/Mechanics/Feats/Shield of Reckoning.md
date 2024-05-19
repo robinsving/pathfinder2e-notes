@@ -1,5 +1,6 @@
 ---
 title: "Shield of Reckoning"
+draft: true
 noteType: ":luggage:"
 aliases: "Shield of Reckoning"
 foundryId: Item.539i8vJlRfF5QXlK

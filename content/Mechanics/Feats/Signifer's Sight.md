@@ -1,5 +1,6 @@
 ---
 title: "Signifer's Sight"
+draft: true
 noteType: ":luggage:"
 aliases: "Signifer's Sight"
 foundryId: Item.pFhWNXfT64Wy522z

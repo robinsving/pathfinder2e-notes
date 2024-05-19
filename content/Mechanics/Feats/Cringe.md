@@ -1,5 +1,6 @@
 ---
 title: "Cringe"
+draft: true
 noteType: ":luggage:"
 aliases: "Cringe"
 foundryId: Item.RGj9CzkvXdueaj4p

@@ -1,5 +1,6 @@
 ---
 title: "Warden's Step"
+draft: true
 noteType: ":luggage:"
 aliases: "Warden's Step"
 foundryId: Item.egyRer1ZWQXZV9g5

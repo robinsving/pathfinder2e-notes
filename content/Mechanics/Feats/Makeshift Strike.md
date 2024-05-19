@@ -1,5 +1,6 @@
 ---
 title: "Makeshift Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Makeshift Strike"
 foundryId: Item.CH1pONMoNzzf5Urn

@@ -1,5 +1,6 @@
 ---
 title: "Hellknight Order Cross-Training"
+draft: true
 noteType: ":luggage:"
 aliases: "Hellknight Order Cross-Training"
 foundryId: Item.IU6KWV0q7uwkcfVG

@@ -1,5 +1,6 @@
 ---
 title: "Lunging Spellstrike"
+draft: true
 noteType: ":luggage:"
 aliases: "Lunging Spellstrike"
 foundryId: Item.JgOOO23ImNPhFToq

@@ -1,5 +1,6 @@
 ---
 title: "Animal Skin"
+draft: true
 noteType: ":luggage:"
 aliases: "Animal Skin"
 foundryId: Item.tPU8ebnjxdHNt1f9

@@ -1,5 +1,6 @@
 ---
 title: "Soaring Poppet"
+draft: true
 noteType: ":luggage:"
 aliases: "Soaring Poppet"
 foundryId: Item.8pyEF7eQncCrtrjA

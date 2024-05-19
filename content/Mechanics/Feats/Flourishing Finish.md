@@ -1,5 +1,6 @@
 ---
 title: "Flourishing Finish"
+draft: true
 noteType: ":luggage:"
 aliases: "Flourishing Finish"
 foundryId: Item.NcaT3esby7giJXJg

@@ -1,5 +1,6 @@
 ---
 title: "Efficient Controls"
+draft: true
 noteType: ":luggage:"
 aliases: "Efficient Controls"
 foundryId: Item.qMUsFcEL1tYXJaiN

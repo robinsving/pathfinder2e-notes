@@ -1,5 +1,6 @@
 ---
 title: "Masquerade of Seasons Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Masquerade of Seasons Stance"
 foundryId: Item.gAfxlDQowwW2dH14

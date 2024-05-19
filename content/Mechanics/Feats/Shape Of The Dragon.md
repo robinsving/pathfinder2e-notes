@@ -1,5 +1,6 @@
 ---
 title: "Shape Of The Dragon"
+draft: true
 noteType: ":luggage:"
 aliases: "Shape Of The Dragon"
 foundryId: Item.mLjpjD09AkWzDEQx

@@ -1,5 +1,6 @@
 ---
 title: "Furnace Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Furnace Form"
 foundryId: Item.jsTp90mBJkrY2q73

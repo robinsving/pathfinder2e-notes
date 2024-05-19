@@ -1,5 +1,6 @@
 ---
 title: "Emissary of Peace"
+draft: true
 noteType: ":luggage:"
 aliases: "Emissary of Peace"
 foundryId: Item.2rg07Lff7KZpubox

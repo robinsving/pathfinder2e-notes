@@ -1,5 +1,6 @@
 ---
 title: "Quick Shield Block"
+draft: true
 noteType: ":luggage:"
 aliases: "Quick Shield Block"
 foundryId: Item.8ctFj9ROxQtJ5OAP

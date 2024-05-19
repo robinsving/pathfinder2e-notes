@@ -1,5 +1,6 @@
 ---
 title: "Mantis Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Mantis Form"
 foundryId: Item.PWNgYHY3H8ngGpJQ

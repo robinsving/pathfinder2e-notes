@@ -1,5 +1,6 @@
 ---
 title: "Towering Growth"
+draft: true
 noteType: ":luggage:"
 aliases: "Towering Growth"
 foundryId: Item.cQJfcnEjOSKPFv9j

@@ -1,5 +1,6 @@
 ---
 title: "Ceremony of Sun's Gift"
+draft: true
 noteType: ":luggage:"
 aliases: "Ceremony of Sun's Gift"
 foundryId: Item.DxSPvv0l3d6JCpBN

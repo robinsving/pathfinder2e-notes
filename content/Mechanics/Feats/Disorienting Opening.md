@@ -1,5 +1,6 @@
 ---
 title: "Disorienting Opening"
+draft: true
 noteType: ":luggage:"
 aliases: "Disorienting Opening"
 foundryId: Item.z99fecRiPvKFOnYp

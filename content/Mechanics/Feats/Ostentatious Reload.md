@@ -1,5 +1,6 @@
 ---
 title: "Ostentatious Reload"
+draft: true
 noteType: ":luggage:"
 aliases: "Ostentatious Reload"
 foundryId: Item.Vxn5vkET1PwnU3X5

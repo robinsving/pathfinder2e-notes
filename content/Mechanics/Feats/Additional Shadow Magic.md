@@ -1,5 +1,6 @@
 ---
 title: "Additional Shadow Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Additional Shadow Magic"
 foundryId: Item.pmyljPYPSHXyClNZ

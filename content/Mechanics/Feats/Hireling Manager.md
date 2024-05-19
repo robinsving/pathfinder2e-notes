@@ -1,5 +1,6 @@
 ---
 title: "Hireling Manager"
+draft: true
 noteType: ":luggage:"
 aliases: "Hireling Manager"
 foundryId: Item.anPH2TfuhqpvnvTK

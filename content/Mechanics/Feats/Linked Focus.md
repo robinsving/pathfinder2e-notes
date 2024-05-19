@@ -1,5 +1,6 @@
 ---
 title: "Linked Focus"
+draft: true
 noteType: ":luggage:"
 aliases: "Linked Focus"
 foundryId: Item.2dJJBhAu6qOl8efD

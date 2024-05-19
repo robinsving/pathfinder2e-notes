@@ -1,5 +1,6 @@
 ---
 title: "Fey Life"
+draft: true
 noteType: ":luggage:"
 aliases: "Fey Life"
 foundryId: Item.XPP5Zcq7LfPpKomd

@@ -1,5 +1,6 @@
 ---
 title: "Devil Allies"
+draft: true
 noteType: ":luggage:"
 aliases: "Devil Allies"
 foundryId: Item.zf1gxHKXV6WLLczj

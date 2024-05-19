@@ -1,5 +1,6 @@
 ---
 title: "Fresh Ingredients"
+draft: true
 noteType: ":luggage:"
 aliases: "Fresh Ingredients"
 foundryId: Item.KyVWb7w5Eimtn30O

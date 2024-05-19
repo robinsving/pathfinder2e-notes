@@ -1,5 +1,6 @@
 ---
 title: "Full Automation"
+draft: true
 noteType: ":luggage:"
 aliases: "Full Automation"
 foundryId: Item.9IdHkC5Wq7JW1nia

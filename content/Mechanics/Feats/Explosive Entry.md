@@ -1,5 +1,6 @@
 ---
 title: "Explosive Entry"
+draft: true
 noteType: ":luggage:"
 aliases: "Explosive Entry"
 foundryId: Item.UMdSjALFmThjj4uq

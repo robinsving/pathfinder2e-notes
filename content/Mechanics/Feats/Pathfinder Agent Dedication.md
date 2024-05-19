@@ -1,5 +1,6 @@
 ---
 title: "Pathfinder Agent Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Pathfinder Agent Dedication"
 foundryId: Item.oOz0Et150KajV4m4

@@ -1,5 +1,6 @@
 ---
 title: "Sticky Bomb"
+draft: true
 noteType: ":luggage:"
 aliases: "Sticky Bomb"
 foundryId: Item.p2AWNCjRG7kecZrr

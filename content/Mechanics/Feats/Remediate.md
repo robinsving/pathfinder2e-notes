@@ -1,5 +1,6 @@
 ---
 title: "Remediate"
+draft: true
 noteType: ":luggage:"
 aliases: "Remediate"
 foundryId: Item.diB475ezxebwZyX8

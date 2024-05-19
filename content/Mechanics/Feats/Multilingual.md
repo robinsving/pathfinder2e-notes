@@ -1,5 +1,6 @@
 ---
 title: "Multilingual"
+draft: true
 noteType: ":luggage:"
 aliases: "Multilingual"
 foundryId: Item.NfoklBOgOvXwEWI0

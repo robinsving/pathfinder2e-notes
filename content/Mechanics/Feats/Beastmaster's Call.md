@@ -1,5 +1,6 @@
 ---
 title: "Beastmaster's Call"
+draft: true
 noteType: ":luggage:"
 aliases: "Beastmaster's Call"
 foundryId: Item.EKQseLt62LDgG9r1

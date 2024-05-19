@@ -1,5 +1,6 @@
 ---
 title: "Rough Rider"
+draft: true
 noteType: ":luggage:"
 aliases: "Rough Rider"
 foundryId: Item.oglHOvAQHKYE45Mn

@@ -1,5 +1,6 @@
 ---
 title: "Arcane Safeguards"
+draft: true
 noteType: ":luggage:"
 aliases: "Arcane Safeguards"
 foundryId: Item.QuZn7ovICi1kjBqm

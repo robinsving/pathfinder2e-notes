@@ -1,5 +1,6 @@
 ---
 title: "Targeting Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Targeting Shot"
 foundryId: Item.kLeiR6YcadxKuIWs

@@ -1,5 +1,6 @@
 ---
 title: "Forestall Curse"
+draft: true
 noteType: ":luggage:"
 aliases: "Forestall Curse"
 foundryId: Item.dy3QD7iDDYNktoxw

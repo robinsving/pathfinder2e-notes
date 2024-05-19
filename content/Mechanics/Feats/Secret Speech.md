@@ -1,5 +1,6 @@
 ---
 title: "Secret Speech"
+draft: true
 noteType: ":luggage:"
 aliases: "Secret Speech"
 foundryId: Item.ddEzbp14MgKeWYT6

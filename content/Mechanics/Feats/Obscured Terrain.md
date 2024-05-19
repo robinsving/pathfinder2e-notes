@@ -1,5 +1,6 @@
 ---
 title: "Obscured Terrain"
+draft: true
 noteType: ":luggage:"
 aliases: "Obscured Terrain"
 foundryId: Item.D6JfRuh2WN9W4TGV

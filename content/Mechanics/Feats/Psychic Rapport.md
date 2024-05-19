@@ -1,5 +1,6 @@
 ---
 title: "Psychic Rapport"
+draft: true
 noteType: ":luggage:"
 aliases: "Psychic Rapport"
 foundryId: Item.t9EetJ1jYXLa4hVI

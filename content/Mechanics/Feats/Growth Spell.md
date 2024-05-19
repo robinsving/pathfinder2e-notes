@@ -1,5 +1,6 @@
 ---
 title: "Growth Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Growth Spell"
 foundryId: Item.Qy7tHwYBgVdj27zR

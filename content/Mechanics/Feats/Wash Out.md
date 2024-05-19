@@ -1,5 +1,6 @@
 ---
 title: "Wash Out"
+draft: true
 noteType: ":luggage:"
 aliases: "Wash Out"
 foundryId: Item.3nxoWl422JDbMhU5

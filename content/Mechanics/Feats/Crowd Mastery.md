@@ -1,5 +1,6 @@
 ---
 title: "Crowd Mastery"
+draft: true
 noteType: ":luggage:"
 aliases: "Crowd Mastery"
 foundryId: Item.kPyTDFRxOTxXktP9

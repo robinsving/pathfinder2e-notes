@@ -1,5 +1,6 @@
 ---
 title: "Divine Ally"
+draft: true
 noteType: ":luggage:"
 aliases: "Divine Ally"
 foundryId: Item.saobV65ypRSe4awW

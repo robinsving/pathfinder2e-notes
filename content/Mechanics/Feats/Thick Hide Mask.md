@@ -1,5 +1,6 @@
 ---
 title: "Thick Hide Mask"
+draft: true
 noteType: ":luggage:"
 aliases: "Thick Hide Mask"
 foundryId: Item.VcjEZ7wxgRzTTZZ4

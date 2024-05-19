@@ -1,5 +1,6 @@
 ---
 title: "Bonds of Death"
+draft: true
 noteType: ":luggage:"
 aliases: "Bonds of Death"
 foundryId: Item.aSOVuQIL0uC4PcA3

@@ -1,5 +1,6 @@
 ---
 title: "Advanced Reanimated Companion"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Reanimated Companion"
 foundryId: Item.cMVA3iUrMKukYKAg

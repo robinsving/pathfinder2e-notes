@@ -1,5 +1,6 @@
 ---
 title: "Unfettering Prankster"
+draft: true
 noteType: ":luggage:"
 aliases: "Unfettering Prankster"
 foundryId: Item.PcDMmYtcfiW3yKYs

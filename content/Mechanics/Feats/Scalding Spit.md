@@ -1,5 +1,6 @@
 ---
 title: "Scalding Spit"
+draft: true
 noteType: ":luggage:"
 aliases: "Scalding Spit"
 foundryId: Item.qkeJEBjyV4k2ryxb

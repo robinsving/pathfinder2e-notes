@@ -1,5 +1,6 @@
 ---
 title: "Superior Sight (Darkvision)"
+draft: true
 noteType: ":luggage:"
 aliases: "Superior Sight (Darkvision)"
 foundryId: Item.olIqDahWFNAnWI6v

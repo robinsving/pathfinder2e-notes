@@ -1,5 +1,6 @@
 ---
 title: "Swim Through Earth"
+draft: true
 noteType: ":luggage:"
 aliases: "Swim Through Earth"
 foundryId: Item.FwEna6XHzodQ3ISq

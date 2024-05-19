@@ -1,5 +1,6 @@
 ---
 title: "Spell Devourer"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Devourer"
 foundryId: Item.ATLgRosgMBCPaIIU

@@ -1,5 +1,6 @@
 ---
 title: "Expanded Elemental Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Expanded Elemental Magic"
 foundryId: Item.itV9Q3kaeNmqxo69

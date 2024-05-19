@@ -1,5 +1,6 @@
 ---
 title: "Senses of the Bear"
+draft: true
 noteType: ":luggage:"
 aliases: "Senses of the Bear"
 foundryId: Item.4KMFrUEQfntrp7Y9

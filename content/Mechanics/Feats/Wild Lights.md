@@ -1,5 +1,6 @@
 ---
 title: "Wild Lights"
+draft: true
 noteType: ":luggage:"
 aliases: "Wild Lights"
 foundryId: Item.66rvoF3Dl4jcRTnP

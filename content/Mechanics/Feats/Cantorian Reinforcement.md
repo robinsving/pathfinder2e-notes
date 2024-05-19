@@ -1,5 +1,6 @@
 ---
 title: "Cantorian Reinforcement"
+draft: true
 noteType: ":luggage:"
 aliases: "Cantorian Reinforcement"
 foundryId: Item.u0Ywvda7TL9FBLp6

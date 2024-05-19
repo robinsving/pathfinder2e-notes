@@ -1,5 +1,6 @@
 ---
 title: "Gathering Moss"
+draft: true
 noteType: ":luggage:"
 aliases: "Gathering Moss"
 foundryId: Item.WDKVlafbDXWOSvHL

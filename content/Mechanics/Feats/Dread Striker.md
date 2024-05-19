@@ -1,5 +1,6 @@
 ---
 title: "Dread Striker"
+draft: true
 noteType: ":luggage:"
 aliases: "Dread Striker"
 foundryId: Item.oNwE7QGI47HuAeeZ

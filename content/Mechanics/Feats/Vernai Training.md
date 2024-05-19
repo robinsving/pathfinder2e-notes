@@ -1,5 +1,6 @@
 ---
 title: "Vernai Training"
+draft: true
 noteType: ":luggage:"
 aliases: "Vernai Training"
 foundryId: Item.s8CBlrTDoMJ1ExUQ

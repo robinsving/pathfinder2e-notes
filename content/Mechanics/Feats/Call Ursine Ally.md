@@ -1,5 +1,6 @@
 ---
 title: "Call Ursine Ally"
+draft: true
 noteType: ":luggage:"
 aliases: "Call Ursine Ally"
 foundryId: Item.eKF5kiPlD6HeaGBZ

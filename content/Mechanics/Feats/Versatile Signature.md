@@ -1,5 +1,6 @@
 ---
 title: "Versatile Signature"
+draft: true
 noteType: ":luggage:"
 aliases: "Versatile Signature"
 foundryId: Item.wqWjlgQMTEAgUtG8

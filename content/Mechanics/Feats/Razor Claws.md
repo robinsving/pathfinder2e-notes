@@ -1,5 +1,6 @@
 ---
 title: "Razor Claws"
+draft: true
 noteType: ":luggage:"
 aliases: "Razor Claws"
 foundryId: Item.xQLLOP6K8Ms1Gmnf

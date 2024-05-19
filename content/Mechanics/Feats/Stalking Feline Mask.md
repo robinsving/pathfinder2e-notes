@@ -1,5 +1,6 @@
 ---
 title: "Stalking Feline Mask"
+draft: true
 noteType: ":luggage:"
 aliases: "Stalking Feline Mask"
 foundryId: Item.OQMkzJpo5W5froBW

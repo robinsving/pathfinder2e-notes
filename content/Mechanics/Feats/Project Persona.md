@@ -1,5 +1,6 @@
 ---
 title: "Project Persona"
+draft: true
 noteType: ":luggage:"
 aliases: "Project Persona"
 foundryId: Item.Npr4uWe8UdpK5cZt

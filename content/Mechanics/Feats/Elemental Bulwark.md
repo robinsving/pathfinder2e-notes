@@ -1,5 +1,6 @@
 ---
 title: "Elemental Bulwark"
+draft: true
 noteType: ":luggage:"
 aliases: "Elemental Bulwark"
 foundryId: Item.KWT4XjmYOdq57XzZ

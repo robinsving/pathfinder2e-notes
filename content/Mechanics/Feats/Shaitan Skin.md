@@ -1,5 +1,6 @@
 ---
 title: "Shaitan Skin"
+draft: true
 noteType: ":luggage:"
 aliases: "Shaitan Skin"
 foundryId: Item.AGgvfqkwEW9qiNzD

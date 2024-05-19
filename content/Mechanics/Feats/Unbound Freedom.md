@@ -1,5 +1,6 @@
 ---
 title: "Unbound Freedom"
+draft: true
 noteType: ":luggage:"
 aliases: "Unbound Freedom"
 foundryId: Item.K3wGXIXUJDQUUY7u

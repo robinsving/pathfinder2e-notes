@@ -1,5 +1,6 @@
 ---
 title: "Devrin's Cunning Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Devrin's Cunning Stance"
 foundryId: Item.xMaz2rh2d6FywWQk

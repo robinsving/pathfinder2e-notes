@@ -1,5 +1,6 @@
 ---
 title: "Deflecting Cloud"
+draft: true
 noteType: ":luggage:"
 aliases: "Deflecting Cloud"
 foundryId: Item.xAgoFSHLpjxuaAww

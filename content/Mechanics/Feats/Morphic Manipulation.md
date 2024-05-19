@@ -1,5 +1,6 @@
 ---
 title: "Morphic Manipulation"
+draft: true
 noteType: ":luggage:"
 aliases: "Morphic Manipulation"
 foundryId: Item.t0hGa59kVQ9wZVhV

@@ -1,5 +1,6 @@
 ---
 title: "Ride the Tsunami"
+draft: true
 noteType: ":luggage:"
 aliases: "Ride the Tsunami"
 foundryId: Item.jgPpomZSu4lABiTm

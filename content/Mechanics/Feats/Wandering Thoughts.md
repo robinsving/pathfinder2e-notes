@@ -1,5 +1,6 @@
 ---
 title: "Wandering Thoughts"
+draft: true
 noteType: ":luggage:"
 aliases: "Wandering Thoughts"
 foundryId: Item.zRU7jgiBFg8PZmGo

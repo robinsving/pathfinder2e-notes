@@ -1,5 +1,6 @@
 ---
 title: "Legendary Linguist"
+draft: true
 noteType: ":luggage:"
 aliases: "Legendary Linguist"
 foundryId: Item.U4FnzeiJACAm3lBK

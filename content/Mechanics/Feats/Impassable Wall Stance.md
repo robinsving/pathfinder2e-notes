@@ -1,5 +1,6 @@
 ---
 title: "Impassable Wall Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Impassable Wall Stance"
 foundryId: Item.iyngrRPS73y0b56E

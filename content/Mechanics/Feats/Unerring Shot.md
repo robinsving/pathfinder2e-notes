@@ -1,5 +1,6 @@
 ---
 title: "Unerring Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Unerring Shot"
 foundryId: Item.rT0tAkOhIcozjxbr

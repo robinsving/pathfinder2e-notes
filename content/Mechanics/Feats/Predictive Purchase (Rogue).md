@@ -1,5 +1,6 @@
 ---
 title: "Predictive Purchase (Rogue)"
+draft: true
 noteType: ":luggage:"
 aliases: "Predictive Purchase (Rogue)"
 foundryId: Item.22V9DFwumHG6ZP1G

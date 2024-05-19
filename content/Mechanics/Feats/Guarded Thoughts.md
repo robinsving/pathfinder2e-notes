@@ -1,5 +1,6 @@
 ---
 title: "Guarded Thoughts"
+draft: true
 noteType: ":luggage:"
 aliases: "Guarded Thoughts"
 foundryId: Item.ymv8nZDaKEuvBRvL

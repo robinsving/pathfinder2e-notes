@@ -1,5 +1,6 @@
 ---
 title: "Vishkanya Weapon Arts"
+draft: true
 noteType: ":luggage:"
 aliases: "Vishkanya Weapon Arts"
 foundryId: Item.n7cnoYdwqnwMCNuM

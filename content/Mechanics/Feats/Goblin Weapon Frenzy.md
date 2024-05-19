@@ -1,5 +1,6 @@
 ---
 title: "Goblin Weapon Frenzy"
+draft: true
 noteType: ":luggage:"
 aliases: "Goblin Weapon Frenzy"
 foundryId: Item.4mcmNjUA5M1bnvek

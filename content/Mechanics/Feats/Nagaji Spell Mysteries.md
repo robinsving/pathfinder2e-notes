@@ -1,5 +1,6 @@
 ---
 title: "Nagaji Spell Mysteries"
+draft: true
 noteType: ":luggage:"
 aliases: "Nagaji Spell Mysteries"
 foundryId: Item.rMQ8fdAkPFaLKof6

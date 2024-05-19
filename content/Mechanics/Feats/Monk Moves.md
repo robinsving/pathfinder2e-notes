@@ -1,5 +1,6 @@
 ---
 title: "Monk Moves"
+draft: true
 noteType: ":luggage:"
 aliases: "Monk Moves"
 foundryId: Item.9fvvgQ2nzrzFAj2S

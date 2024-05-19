@@ -1,5 +1,6 @@
 ---
 title: "Vicious Critique"
+draft: true
 noteType: ":luggage:"
 aliases: "Vicious Critique"
 foundryId: Item.hlxU9n0gjGzUF9xx

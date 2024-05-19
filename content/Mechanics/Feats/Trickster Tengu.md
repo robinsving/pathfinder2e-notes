@@ -1,5 +1,6 @@
 ---
 title: "Trickster Tengu"
+draft: true
 noteType: ":luggage:"
 aliases: "Trickster Tengu"
 foundryId: Item.tE2m8VRZoPmOLOoh

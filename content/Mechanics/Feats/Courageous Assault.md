@@ -1,5 +1,6 @@
 ---
 title: "Courageous Assault"
+draft: true
 noteType: ":luggage:"
 aliases: "Courageous Assault"
 foundryId: Item.ugyiiB5MTNWGysap

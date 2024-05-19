@@ -1,5 +1,6 @@
 ---
 title: "Terrain Advantage"
+draft: true
 noteType: ":luggage:"
 aliases: "Terrain Advantage"
 foundryId: Item.kwsf5v0KkLgCuVdr

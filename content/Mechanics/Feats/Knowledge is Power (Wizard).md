@@ -1,5 +1,6 @@
 ---
 title: "Knowledge is Power (Wizard)"
+draft: true
 noteType: ":luggage:"
 aliases: "Knowledge is Power (Wizard)"
 foundryId: Item.GquUWJYBOSh0nCx5

@@ -1,5 +1,6 @@
 ---
 title: "Loremaster's Etude"
+draft: true
 noteType: ":luggage:"
 aliases: "Loremaster's Etude"
 foundryId: Item.7ZacforSQswaKWjY

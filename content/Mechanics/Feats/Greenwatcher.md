@@ -1,5 +1,6 @@
 ---
 title: "Greenwatcher"
+draft: true
 noteType: ":luggage:"
 aliases: "Greenwatcher"
 foundryId: Item.UDUES538n12zxOR3

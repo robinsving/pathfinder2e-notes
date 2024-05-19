@@ -1,5 +1,6 @@
 ---
 title: "Jelly Body"
+draft: true
 noteType: ":luggage:"
 aliases: "Jelly Body"
 foundryId: Item.NHqvN0H0NKUDGLRK

@@ -1,5 +1,6 @@
 ---
 title: "Core Attunement"
+draft: true
 noteType: ":luggage:"
 aliases: "Core Attunement"
 foundryId: Item.1jgjnmQSOqqQpTWi

@@ -1,5 +1,6 @@
 ---
 title: "Oozemorph Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Oozemorph Dedication"
 foundryId: Item.8MILUDGHCaEjjY0k

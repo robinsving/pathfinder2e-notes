@@ -1,5 +1,6 @@
 ---
 title: "Lasting Doubt"
+draft: true
 noteType: ":luggage:"
 aliases: "Lasting Doubt"
 foundryId: Item.taetcUUfgJjYWgQD

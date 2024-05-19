@@ -1,5 +1,6 @@
 ---
 title: "Careful Explorer"
+draft: true
 noteType: ":luggage:"
 aliases: "Careful Explorer"
 foundryId: Item.1ZsFXYXKqshTlgvZ

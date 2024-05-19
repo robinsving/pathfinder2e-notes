@@ -1,5 +1,6 @@
 ---
 title: "Spirit Sheath"
+draft: true
 noteType: ":luggage:"
 aliases: "Spirit Sheath"
 foundryId: Item.1dkuXSUWJvLHzQX6

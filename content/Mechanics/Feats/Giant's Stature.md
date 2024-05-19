@@ -1,5 +1,6 @@
 ---
 title: "Giant's Stature"
+draft: true
 noteType: ":luggage:"
 aliases: "Giant's Stature"
 foundryId: Item.eWtG6CQybR7EZaNR

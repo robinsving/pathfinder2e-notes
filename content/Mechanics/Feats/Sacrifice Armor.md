@@ -1,5 +1,6 @@
 ---
 title: "Sacrifice Armor"
+draft: true
 noteType: ":luggage:"
 aliases: "Sacrifice Armor"
 foundryId: Item.YCreHV4e9PUTQtyK

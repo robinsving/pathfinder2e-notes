@@ -1,5 +1,6 @@
 ---
 title: "Mountain's Stoutness"
+draft: true
 noteType: ":luggage:"
 aliases: "Mountain's Stoutness"
 foundryId: Item.aRsstuRef1EMOPgK

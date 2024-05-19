@@ -1,5 +1,6 @@
 ---
 title: "Snare Setter"
+draft: true
 noteType: ":luggage:"
 aliases: "Snare Setter"
 foundryId: Item.DYI3S1FpLO8IwDYj

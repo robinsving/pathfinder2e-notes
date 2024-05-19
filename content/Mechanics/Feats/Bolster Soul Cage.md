@@ -1,5 +1,6 @@
 ---
 title: "Bolster Soul Cage"
+draft: true
 noteType: ":luggage:"
 aliases: "Bolster Soul Cage"
 foundryId: Item.sxns00i0SRqsPC23

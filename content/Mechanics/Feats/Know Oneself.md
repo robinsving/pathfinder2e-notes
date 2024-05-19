@@ -1,5 +1,6 @@
 ---
 title: "Know Oneself"
+draft: true
 noteType: ":luggage:"
 aliases: "Know Oneself"
 foundryId: Item.rGz2bkiy6MWW3GOC

@@ -1,5 +1,6 @@
 ---
 title: "Shared Avoidance"
+draft: true
 noteType: ":luggage:"
 aliases: "Shared Avoidance"
 foundryId: Item.T4yVpU7TxY7fF7iC

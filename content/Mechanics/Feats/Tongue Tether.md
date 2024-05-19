@@ -1,5 +1,6 @@
 ---
 title: "Tongue Tether"
+draft: true
 noteType: ":luggage:"
 aliases: "Tongue Tether"
 foundryId: Item.t9GIwMDhjxCwcg2m

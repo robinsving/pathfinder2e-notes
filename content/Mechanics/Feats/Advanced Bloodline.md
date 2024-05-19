@@ -1,5 +1,6 @@
 ---
 title: "Advanced Bloodline"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Bloodline"
 foundryId: Item.H2uQ67SnIoFmye1A

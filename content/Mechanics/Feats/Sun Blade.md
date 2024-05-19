@@ -1,5 +1,6 @@
 ---
 title: "Sun Blade"
+draft: true
 noteType: ":luggage:"
 aliases: "Sun Blade"
 foundryId: Item.OvivJmuYfHaztPVJ

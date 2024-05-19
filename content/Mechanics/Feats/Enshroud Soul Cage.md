@@ -1,5 +1,6 @@
 ---
 title: "Enshroud Soul Cage"
+draft: true
 noteType: ":luggage:"
 aliases: "Enshroud Soul Cage"
 foundryId: Item.h5EXVgq610QMwahV

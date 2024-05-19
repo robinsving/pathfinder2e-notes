@@ -1,5 +1,6 @@
 ---
 title: "Hook 'Em"
+draft: true
 noteType: ":luggage:"
 aliases: "Hook 'Em"
 foundryId: Item.R6YjFURXvbAMaZg6

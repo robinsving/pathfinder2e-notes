@@ -1,5 +1,6 @@
 ---
 title: "Felicitous Riposte"
+draft: true
 noteType: ":luggage:"
 aliases: "Felicitous Riposte"
 foundryId: Item.Y9T91a3j2LjUYfI0

@@ -1,5 +1,6 @@
 ---
 title: "Imbue Mindlessness"
+draft: true
 noteType: ":luggage:"
 aliases: "Imbue Mindlessness"
 foundryId: Item.SEevMX3bvB3fVbPe

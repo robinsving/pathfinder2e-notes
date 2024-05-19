@@ -1,5 +1,6 @@
 ---
 title: "Radiant Blade Master"
+draft: true
 noteType: ":luggage:"
 aliases: "Radiant Blade Master"
 foundryId: Item.SLlf8aDnFdKgFtPS

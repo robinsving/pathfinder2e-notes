@@ -1,5 +1,6 @@
 ---
 title: "Blank Slate"
+draft: true
 noteType: ":luggage:"
 aliases: "Blank Slate"
 foundryId: Item.dbYEEboIjtpBfaNc

@@ -1,5 +1,6 @@
 ---
 title: "Planar Survival"
+draft: true
 noteType: ":luggage:"
 aliases: "Planar Survival"
 foundryId: Item.SzIXg56CqVTn1otx

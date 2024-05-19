@@ -1,5 +1,6 @@
 ---
 title: "Prayer-Touched Weapon"
+draft: true
 noteType: ":luggage:"
 aliases: "Prayer-Touched Weapon"
 foundryId: Item.Qoy1TdZr2qQ8516J

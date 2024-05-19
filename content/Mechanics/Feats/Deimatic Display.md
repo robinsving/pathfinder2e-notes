@@ -1,5 +1,6 @@
 ---
 title: "Deimatic Display"
+draft: true
 noteType: ":luggage:"
 aliases: "Deimatic Display"
 foundryId: Item.I2Mk6aER4qm5Fls5

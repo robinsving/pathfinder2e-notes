@@ -1,5 +1,6 @@
 ---
 title: "Double Slice"
+draft: true
 noteType: ":luggage:"
 aliases: "Double Slice"
 foundryId: Item.PArnrbxgYAIQMy58

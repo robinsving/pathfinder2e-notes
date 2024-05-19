@@ -1,5 +1,6 @@
 ---
 title: "Incredible Scout"
+draft: true
 noteType: ":luggage:"
 aliases: "Incredible Scout"
 foundryId: Item.bi0pmqTYzbAiZIhp

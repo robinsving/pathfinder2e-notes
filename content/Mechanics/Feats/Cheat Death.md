@@ -1,5 +1,6 @@
 ---
 title: "Cheat Death"
+draft: true
 noteType: ":luggage:"
 aliases: "Cheat Death"
 foundryId: Item.CbMcYj8Y9tXeTaaP

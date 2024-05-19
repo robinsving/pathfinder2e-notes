@@ -1,5 +1,6 @@
 ---
 title: "Orc Ferocity"
+draft: true
 noteType: ":luggage:"
 aliases: "Orc Ferocity"
 foundryId: Item.5fEJnrJDLyozzMRh

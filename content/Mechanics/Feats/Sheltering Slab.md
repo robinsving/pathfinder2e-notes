@@ -1,5 +1,6 @@
 ---
 title: "Sheltering Slab"
+draft: true
 noteType: ":luggage:"
 aliases: "Sheltering Slab"
 foundryId: Item.M7PyC0V9rVolAjkv

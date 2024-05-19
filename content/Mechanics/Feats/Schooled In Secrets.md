@@ -1,5 +1,6 @@
 ---
 title: "Schooled In Secrets"
+draft: true
 noteType: ":luggage:"
 aliases: "Schooled In Secrets"
 foundryId: Item.pECQrmPec0hUEIER

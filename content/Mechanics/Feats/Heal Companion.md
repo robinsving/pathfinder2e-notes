@@ -1,5 +1,6 @@
 ---
 title: "Heal Companion"
+draft: true
 noteType: ":luggage:"
 aliases: "Heal Companion"
 foundryId: Item.yjyiO7LR3rPuzcyc

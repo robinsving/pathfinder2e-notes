@@ -1,5 +1,6 @@
 ---
 title: "Grippli Glide"
+draft: true
 noteType: ":luggage:"
 aliases: "Grippli Glide"
 foundryId: Item.fBv17op1MkwLmLG8

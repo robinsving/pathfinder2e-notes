@@ -1,5 +1,6 @@
 ---
 title: "Charming Liar"
+draft: true
 noteType: ":luggage:"
 aliases: "Charming Liar"
 foundryId: Item.sdnTGtqBPJqbzuCU

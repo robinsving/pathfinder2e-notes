@@ -1,5 +1,6 @@
 ---
 title: "Resuscitate"
+draft: true
 noteType: ":luggage:"
 aliases: "Resuscitate"
 foundryId: Item.3z0sildHjA8enezc

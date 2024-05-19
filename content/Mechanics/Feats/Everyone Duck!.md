@@ -1,5 +1,6 @@
 ---
 title: "Everyone Duck!"
+draft: true
 noteType: ":luggage:"
 aliases: "Everyone Duck!"
 foundryId: Item.Fi9XhC6IJpmTBqIt

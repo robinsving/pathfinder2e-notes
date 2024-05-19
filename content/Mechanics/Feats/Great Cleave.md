@@ -1,5 +1,6 @@
 ---
 title: "Great Cleave"
+draft: true
 noteType: ":luggage:"
 aliases: "Great Cleave"
 foundryId: Item.WySKrTs00AFFTLUw

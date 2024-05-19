@@ -1,5 +1,6 @@
 ---
 title: "Bestial Manifestation"
+draft: true
 noteType: ":luggage:"
 aliases: "Bestial Manifestation"
 foundryId: Item.ioFj5VjCvZrsewab

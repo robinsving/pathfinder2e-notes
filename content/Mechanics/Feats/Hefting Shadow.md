@@ -1,5 +1,6 @@
 ---
 title: "Hefting Shadow"
+draft: true
 noteType: ":luggage:"
 aliases: "Hefting Shadow"
 foundryId: Item.TN5J2KlsMLCxod5C

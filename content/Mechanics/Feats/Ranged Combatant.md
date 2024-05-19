@@ -1,5 +1,6 @@
 ---
 title: "Ranged Combatant"
+draft: true
 noteType: ":luggage:"
 aliases: "Ranged Combatant"
 foundryId: Item.JULKB8VtwsJbT0nT

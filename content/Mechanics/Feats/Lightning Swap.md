@@ -1,5 +1,6 @@
 ---
 title: "Lightning Swap"
+draft: true
 noteType: ":luggage:"
 aliases: "Lightning Swap"
 foundryId: Item.ioTzXdIWjlS33MlB

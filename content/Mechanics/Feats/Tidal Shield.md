@@ -1,5 +1,6 @@
 ---
 title: "Tidal Shield"
+draft: true
 noteType: ":luggage:"
 aliases: "Tidal Shield"
 foundryId: Item.zRLzRWYaojtTuoAG

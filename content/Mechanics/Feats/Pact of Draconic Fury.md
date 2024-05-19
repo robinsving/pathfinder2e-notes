@@ -1,5 +1,6 @@
 ---
 title: "Pact of Draconic Fury"
+draft: true
 noteType: ":luggage:"
 aliases: "Pact of Draconic Fury"
 foundryId: Item.pQfQdYMumpytz3Lq

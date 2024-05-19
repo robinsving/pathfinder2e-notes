@@ -1,5 +1,6 @@
 ---
 title: "Never Tire"
+draft: true
 noteType: ":luggage:"
 aliases: "Never Tire"
 foundryId: Item.SQu4Ghyd5tVY78de

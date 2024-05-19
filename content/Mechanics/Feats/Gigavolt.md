@@ -1,5 +1,6 @@
 ---
 title: "Gigavolt"
+draft: true
 noteType: ":luggage:"
 aliases: "Gigavolt"
 foundryId: Item.mrLZcNFi1446xipS

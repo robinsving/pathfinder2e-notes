@@ -1,5 +1,6 @@
 ---
 title: "Resolute Defender"
+draft: true
 noteType: ":luggage:"
 aliases: "Resolute Defender"
 foundryId: Item.6yxPA3YN3wUAooKo

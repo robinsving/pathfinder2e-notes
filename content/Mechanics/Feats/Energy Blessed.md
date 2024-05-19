@@ -1,5 +1,6 @@
 ---
 title: "Energy Blessed"
+draft: true
 noteType: ":luggage:"
 aliases: "Energy Blessed"
 foundryId: Item.eB4xBkconPStlZ08

@@ -1,5 +1,6 @@
 ---
 title: "Coating Of Slime"
+draft: true
 noteType: ":luggage:"
 aliases: "Coating Of Slime"
 foundryId: Item.s5u0fjGVTsEonFWB

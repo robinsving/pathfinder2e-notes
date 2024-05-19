@@ -1,5 +1,6 @@
 ---
 title: "Trap Finder"
+draft: true
 noteType: ":luggage:"
 aliases: "Trap Finder"
 foundryId: Item.pbYB2ZGIHBVHuVj6

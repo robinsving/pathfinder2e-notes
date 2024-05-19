@@ -1,5 +1,6 @@
 ---
 title: "Raise a Tome"
+draft: true
 noteType: ":luggage:"
 aliases: "Raise a Tome"
 foundryId: Item.38j1MCWeNfuiNdDU

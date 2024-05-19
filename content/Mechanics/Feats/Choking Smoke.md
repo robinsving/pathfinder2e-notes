@@ -1,5 +1,6 @@
 ---
 title: "Choking Smoke"
+draft: true
 noteType: ":luggage:"
 aliases: "Choking Smoke"
 foundryId: Item.OJMruRrTTza87TKP

@@ -1,5 +1,6 @@
 ---
 title: "Bone Investiture"
+draft: true
 noteType: ":luggage:"
 aliases: "Bone Investiture"
 foundryId: Item.wIDzgM0UiCBJmoTN

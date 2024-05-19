@@ -1,5 +1,6 @@
 ---
 title: "Ceremony of Fortification"
+draft: true
 noteType: ":luggage:"
 aliases: "Ceremony of Fortification"
 foundryId: Item.XAJbMnBMv7by1hia

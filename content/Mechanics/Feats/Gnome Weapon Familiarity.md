@@ -1,5 +1,6 @@
 ---
 title: "Gnome Weapon Familiarity"
+draft: true
 noteType: ":luggage:"
 aliases: "Gnome Weapon Familiarity"
 foundryId: Item.7IH3ja7oCN3KG3t5

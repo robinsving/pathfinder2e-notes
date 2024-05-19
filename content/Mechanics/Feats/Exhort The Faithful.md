@@ -1,5 +1,6 @@
 ---
 title: "Exhort The Faithful"
+draft: true
 noteType: ":luggage:"
 aliases: "Exhort The Faithful"
 foundryId: Item.zeo8W5u67oDYTph1

@@ -1,5 +1,6 @@
 ---
 title: "Fledgling Flight"
+draft: true
 noteType: ":luggage:"
 aliases: "Fledgling Flight"
 foundryId: Item.FCKfGtsaAixFrwld

@@ -1,5 +1,6 @@
 ---
 title: "Peafowl Strut"
+draft: true
 noteType: ":luggage:"
 aliases: "Peafowl Strut"
 foundryId: Item.ceRCLInGjePiGejx

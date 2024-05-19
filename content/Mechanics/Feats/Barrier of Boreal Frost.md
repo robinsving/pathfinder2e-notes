@@ -1,5 +1,6 @@
 ---
 title: "Barrier of Boreal Frost"
+draft: true
 noteType: ":luggage:"
 aliases: "Barrier of Boreal Frost"
 foundryId: Item.Ttv7s3e2YBIlD2BQ

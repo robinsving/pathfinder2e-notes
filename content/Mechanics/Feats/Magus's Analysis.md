@@ -1,5 +1,6 @@
 ---
 title: "Magus's Analysis"
+draft: true
 noteType: ":luggage:"
 aliases: "Magus's Analysis"
 foundryId: Item.30wh4IZS9yxJZ2LU

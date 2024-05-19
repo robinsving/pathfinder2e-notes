@@ -1,5 +1,6 @@
 ---
 title: "Duelist's Challenge"
+draft: true
 noteType: ":luggage:"
 aliases: "Duelist's Challenge"
 foundryId: Item.Eqa7bFoOOLR7f1fc

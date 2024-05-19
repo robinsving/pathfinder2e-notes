@@ -1,5 +1,6 @@
 ---
 title: "Animal Elocutionist"
+draft: true
 noteType: ":luggage:"
 aliases: "Animal Elocutionist"
 foundryId: Item.DbmTeMLxKROuZUcB

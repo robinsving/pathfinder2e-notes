@@ -1,5 +1,6 @@
 ---
 title: "Eternal Torch"
+draft: true
 noteType: ":luggage:"
 aliases: "Eternal Torch"
 foundryId: Item.Mnyvxr1Zdb2RGtlC

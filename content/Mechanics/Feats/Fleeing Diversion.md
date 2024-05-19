@@ -1,5 +1,6 @@
 ---
 title: "Fleeing Diversion"
+draft: true
 noteType: ":luggage:"
 aliases: "Fleeing Diversion"
 foundryId: Item.SFYBU8nJkcd2Tp1c

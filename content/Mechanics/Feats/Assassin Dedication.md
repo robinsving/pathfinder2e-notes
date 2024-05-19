@@ -1,5 +1,6 @@
 ---
 title: "Assassin Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Assassin Dedication"
 foundryId: Item.EaIiEVda0kLt1MPC

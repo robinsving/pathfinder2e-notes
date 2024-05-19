@@ -1,5 +1,6 @@
 ---
 title: "Metal-veined Strikes"
+draft: true
 noteType: ":luggage:"
 aliases: "Metal-veined Strikes"
 foundryId: Item.B58uGl7HqQcKRqai

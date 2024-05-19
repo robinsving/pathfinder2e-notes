@@ -1,5 +1,6 @@
 ---
 title: "Stubborn Persistence"
+draft: true
 noteType: ":luggage:"
 aliases: "Stubborn Persistence"
 foundryId: Item.mzBWhDfK5I7WEjVg

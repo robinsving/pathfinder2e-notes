@@ -1,5 +1,6 @@
 ---
 title: "Extinguish Light"
+draft: true
 noteType: ":luggage:"
 aliases: "Extinguish Light"
 foundryId: Item.NHqaQe6c2JUT1ASf

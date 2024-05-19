@@ -1,5 +1,6 @@
 ---
 title: "Sixth Pillar Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Sixth Pillar Dedication"
 foundryId: Item.e93DamDprvtS9v1Z

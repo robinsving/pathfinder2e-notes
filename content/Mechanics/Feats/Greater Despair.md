@@ -1,5 +1,6 @@
 ---
 title: "Greater Despair"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Despair"
 foundryId: Item.XV9GIC7FFCMfBuQB

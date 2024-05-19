@@ -1,5 +1,6 @@
 ---
 title: "Master Spotter (Investigator)"
+draft: true
 noteType: ":luggage:"
 aliases: "Master Spotter (Investigator)"
 foundryId: Item.y4JnlpYKIAwMJ5K1

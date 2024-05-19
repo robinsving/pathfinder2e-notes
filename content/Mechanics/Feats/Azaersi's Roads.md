@@ -1,5 +1,6 @@
 ---
 title: "Azaersi's Roads"
+draft: true
 noteType: ":luggage:"
 aliases: "Azaersi's Roads"
 foundryId: Item.JSpMsvLD3HLzgBhQ

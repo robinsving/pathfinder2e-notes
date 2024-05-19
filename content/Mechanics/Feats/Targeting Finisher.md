@@ -1,5 +1,6 @@
 ---
 title: "Targeting Finisher"
+draft: true
 noteType: ":luggage:"
 aliases: "Targeting Finisher"
 foundryId: Item.LZmgDntrpt1XhqmP

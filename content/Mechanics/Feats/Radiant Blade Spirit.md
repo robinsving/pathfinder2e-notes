@@ -1,5 +1,6 @@
 ---
 title: "Radiant Blade Spirit"
+draft: true
 noteType: ":luggage:"
 aliases: "Radiant Blade Spirit"
 foundryId: Item.MiF2QVUd8ylTzMXH

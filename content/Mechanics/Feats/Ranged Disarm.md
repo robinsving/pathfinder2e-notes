@@ -1,5 +1,6 @@
 ---
 title: "Ranged Disarm"
+draft: true
 noteType: ":luggage:"
 aliases: "Ranged Disarm"
 foundryId: Item.6ycnMxlXufxxcKzF

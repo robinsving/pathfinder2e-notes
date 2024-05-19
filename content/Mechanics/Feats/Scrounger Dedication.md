@@ -1,5 +1,6 @@
 ---
 title: "Scrounger Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Scrounger Dedication"
 foundryId: Item.x181EUASviRBkyyf

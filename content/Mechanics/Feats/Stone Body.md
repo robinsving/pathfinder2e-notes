@@ -1,5 +1,6 @@
 ---
 title: "Stone Body"
+draft: true
 noteType: ":luggage:"
 aliases: "Stone Body"
 foundryId: Item.qo02ZeJgRnVT9snB

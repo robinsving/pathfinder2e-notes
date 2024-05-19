@@ -1,5 +1,6 @@
 ---
 title: "Thorough Reports"
+draft: true
 noteType: ":luggage:"
 aliases: "Thorough Reports"
 foundryId: Item.8h7R1WkjQE46OHxi

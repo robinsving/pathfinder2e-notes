@@ -1,5 +1,6 @@
 ---
 title: "Brilliant Crafter"
+draft: true
 noteType: ":luggage:"
 aliases: "Brilliant Crafter"
 foundryId: Item.jGvaotAviYak30J5

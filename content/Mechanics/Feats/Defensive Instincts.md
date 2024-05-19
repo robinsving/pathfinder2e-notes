@@ -1,5 +1,6 @@
 ---
 title: "Defensive Instincts"
+draft: true
 noteType: ":luggage:"
 aliases: "Defensive Instincts"
 foundryId: Item.ARZE5vQQQ2K2AVxp

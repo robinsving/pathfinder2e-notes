@@ -1,5 +1,6 @@
 ---
 title: "Giant Slayer"
+draft: true
 noteType: ":luggage:"
 aliases: "Giant Slayer"
 foundryId: Item.EFFKfF2MlXJWFxz5

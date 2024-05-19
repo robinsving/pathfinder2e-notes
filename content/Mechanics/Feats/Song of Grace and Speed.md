@@ -1,5 +1,6 @@
 ---
 title: "Song of Grace and Speed"
+draft: true
 noteType: ":luggage:"
 aliases: "Song of Grace and Speed"
 foundryId: Item.ocDD4kjnoie4f3ko

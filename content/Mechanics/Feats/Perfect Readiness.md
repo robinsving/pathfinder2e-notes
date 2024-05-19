@@ -1,5 +1,6 @@
 ---
 title: "Perfect Readiness"
+draft: true
 noteType: ":luggage:"
 aliases: "Perfect Readiness"
 foundryId: Item.Y4f8yKRJNQSOAwUt

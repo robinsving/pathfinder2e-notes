@@ -1,5 +1,6 @@
 ---
 title: "Quick Stow (Ratfolk)"
+draft: true
 noteType: ":luggage:"
 aliases: "Quick Stow (Ratfolk)"
 foundryId: Item.kDL8wiao4jAECvGb

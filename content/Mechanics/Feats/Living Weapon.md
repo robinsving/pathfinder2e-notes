@@ -1,5 +1,6 @@
 ---
 title: "Living Weapon"
+draft: true
 noteType: ":luggage:"
 aliases: "Living Weapon"
 foundryId: Item.umMYa7oXletrHHuf

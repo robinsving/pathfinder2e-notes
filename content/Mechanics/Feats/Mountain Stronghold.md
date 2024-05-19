@@ -1,5 +1,6 @@
 ---
 title: "Mountain Stronghold"
+draft: true
 noteType: ":luggage:"
 aliases: "Mountain Stronghold"
 foundryId: Item.3kKcwIQM51EZvJmN

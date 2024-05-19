@@ -1,5 +1,6 @@
 ---
 title: "Firearm Expert"
+draft: true
 noteType: ":luggage:"
 aliases: "Firearm Expert"
 foundryId: Item.2CcWjoZzCl2iZJjB

@@ -1,5 +1,6 @@
 ---
 title: "Rapid Affixture"
+draft: true
 noteType: ":luggage:"
 aliases: "Rapid Affixture"
 foundryId: Item.29a8RQNSDP3rND5i

@@ -1,5 +1,6 @@
 ---
 title: "Alchemical Discoveries"
+draft: true
 noteType: ":luggage:"
 aliases: "Alchemical Discoveries"
 foundryId: Item.eI5FrXV58hAjkGAN

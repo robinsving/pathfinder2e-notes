@@ -1,5 +1,6 @@
 ---
 title: "Mobile Shot Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Mobile Shot Stance"
 foundryId: Item.5m94o8XLAYyytEF5

@@ -1,5 +1,6 @@
 ---
 title: "Basic Arcana"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Arcana"
 foundryId: Item.ifkkkAGr6KbXM2vo

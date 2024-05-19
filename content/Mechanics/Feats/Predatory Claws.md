@@ -1,5 +1,6 @@
 ---
 title: "Predatory Claws"
+draft: true
 noteType: ":luggage:"
 aliases: "Predatory Claws"
 foundryId: Item.IaoEE3xBLA4VmJQR

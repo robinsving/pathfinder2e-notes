@@ -1,5 +1,6 @@
 ---
 title: "Stone Face"
+draft: true
 noteType: ":luggage:"
 aliases: "Stone Face"
 foundryId: Item.sYThyglIazvhNRm5

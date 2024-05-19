@@ -1,5 +1,6 @@
 ---
 title: "Scholastic Identification"
+draft: true
 noteType: ":luggage:"
 aliases: "Scholastic Identification"
 foundryId: Item.hWQuSO6nunvRzMvI

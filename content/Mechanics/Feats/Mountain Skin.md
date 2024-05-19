@@ -1,5 +1,6 @@
 ---
 title: "Mountain Skin"
+draft: true
 noteType: ":luggage:"
 aliases: "Mountain Skin"
 foundryId: Item.RYhz7Ho6jCFSy2op

@@ -1,5 +1,6 @@
 ---
 title: "Undead Master Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Undead Master Dedication"
 foundryId: Item.cgFmay8CpKKgj7Cy

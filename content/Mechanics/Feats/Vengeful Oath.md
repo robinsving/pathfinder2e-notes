@@ -1,5 +1,6 @@
 ---
 title: "Vengeful Oath"
+draft: true
 noteType: ":luggage:"
 aliases: "Vengeful Oath"
 foundryId: Item.GoXRBrQmLeB5ICD3

@@ -1,5 +1,6 @@
 ---
 title: "Kindle Inner Flames"
+draft: true
 noteType: ":luggage:"
 aliases: "Kindle Inner Flames"
 foundryId: Item.7HquFmETPksIaI3H

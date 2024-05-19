@@ -1,5 +1,6 @@
 ---
 title: "Scholar's Hunch"
+draft: true
 noteType: ":luggage:"
 aliases: "Scholar's Hunch"
 foundryId: Item.cOe4WrXxego3MTeG

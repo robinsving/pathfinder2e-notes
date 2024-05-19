@@ -1,5 +1,6 @@
 ---
 title: "Internal Compartment"
+draft: true
 noteType: ":luggage:"
 aliases: "Internal Compartment"
 foundryId: Item.Gc2Q8Va6j2J5qNYR

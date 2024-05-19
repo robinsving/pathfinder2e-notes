@@ -1,5 +1,6 @@
 ---
 title: "Confounding Image"
+draft: true
 noteType: ":luggage:"
 aliases: "Confounding Image"
 foundryId: Item.VSGNsUar7XdiVLLN

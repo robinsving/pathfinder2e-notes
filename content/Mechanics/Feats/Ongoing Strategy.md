@@ -1,5 +1,6 @@
 ---
 title: "Ongoing Strategy"
+draft: true
 noteType: ":luggage:"
 aliases: "Ongoing Strategy"
 foundryId: Item.VpsZDheV97BdcoiG

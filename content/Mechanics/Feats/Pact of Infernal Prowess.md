@@ -1,5 +1,6 @@
 ---
 title: "Pact of Infernal Prowess"
+draft: true
 noteType: ":luggage:"
 aliases: "Pact of Infernal Prowess"
 foundryId: Item.fvER48LhulLTOSN3

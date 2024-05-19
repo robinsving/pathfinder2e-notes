@@ -1,5 +1,6 @@
 ---
 title: "Android Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Android Lore"
 foundryId: Item.Ikr6GAwH8S7Nj79T

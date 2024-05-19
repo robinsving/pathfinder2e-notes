@@ -1,5 +1,6 @@
 ---
 title: "Pelagic Aptitude"
+draft: true
 noteType: ":luggage:"
 aliases: "Pelagic Aptitude"
 foundryId: Item.PJ7O0EFgUC6sUIsq

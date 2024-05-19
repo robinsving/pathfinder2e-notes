@@ -1,5 +1,6 @@
 ---
 title: "Inexhaustible Countermoves"
+draft: true
 noteType: ":luggage:"
 aliases: "Inexhaustible Countermoves"
 foundryId: Item.XpEbH2vIMkI9sQ2Q

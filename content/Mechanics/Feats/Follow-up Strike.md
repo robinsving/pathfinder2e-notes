@@ -1,5 +1,6 @@
 ---
 title: "Follow-up Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Follow-up Strike"
 foundryId: Item.cYiHHbqllgUQ7nSy

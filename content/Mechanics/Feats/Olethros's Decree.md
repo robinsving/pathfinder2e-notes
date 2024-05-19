@@ -1,5 +1,6 @@
 ---
 title: "Olethros's Decree"
+draft: true
 noteType: ":luggage:"
 aliases: "Olethros's Decree"
 foundryId: Item.RjYoVP99J354bP05

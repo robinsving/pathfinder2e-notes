@@ -1,5 +1,6 @@
 ---
 title: "Skillful Tail (Ganzi)"
+draft: true
 noteType: ":luggage:"
 aliases: "Skillful Tail (Ganzi)"
 foundryId: Item.YwHVB5DDCiGGsmA6

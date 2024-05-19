@@ -1,5 +1,6 @@
 ---
 title: "Solar Detonation"
+draft: true
 noteType: ":luggage:"
 aliases: "Solar Detonation"
 foundryId: Item.I8MsT6HOD67EAqU8

@@ -1,5 +1,6 @@
 ---
 title: "Cloak Of Poison"
+draft: true
 noteType: ":luggage:"
 aliases: "Cloak Of Poison"
 foundryId: Item.AofWx9nP2QaO0UeS

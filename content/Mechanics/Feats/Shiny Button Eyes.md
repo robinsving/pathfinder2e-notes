@@ -1,5 +1,6 @@
 ---
 title: "Shiny Button Eyes"
+draft: true
 noteType: ":luggage:"
 aliases: "Shiny Button Eyes"
 foundryId: Item.iPpw7cNw5OLwt07J

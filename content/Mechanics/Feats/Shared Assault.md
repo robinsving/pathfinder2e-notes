@@ -1,5 +1,6 @@
 ---
 title: "Shared Assault"
+draft: true
 noteType: ":luggage:"
 aliases: "Shared Assault"
 foundryId: Item.CRtvBpYaF7Wh9cWW

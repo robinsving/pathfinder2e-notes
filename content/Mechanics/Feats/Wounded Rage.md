@@ -1,5 +1,6 @@
 ---
 title: "Wounded Rage"
+draft: true
 noteType: ":luggage:"
 aliases: "Wounded Rage"
 foundryId: Item.x0wFgtMkq1tY8Z6V

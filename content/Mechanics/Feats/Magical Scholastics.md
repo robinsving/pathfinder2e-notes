@@ -1,5 +1,6 @@
 ---
 title: "Magical Scholastics"
+draft: true
 noteType: ":luggage:"
 aliases: "Magical Scholastics"
 foundryId: Item.fPx0xxuVazsAIzzn

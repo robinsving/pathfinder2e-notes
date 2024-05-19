@@ -1,5 +1,6 @@
 ---
 title: "Automatic Writing"
+draft: true
 noteType: ":luggage:"
 aliases: "Automatic Writing"
 foundryId: Item.tlwGAVoF281L8scI

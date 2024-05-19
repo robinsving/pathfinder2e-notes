@@ -1,5 +1,6 @@
 ---
 title: "Slinger's Reflexes"
+draft: true
 noteType: ":luggage:"
 aliases: "Slinger's Reflexes"
 foundryId: Item.CRtllyVLeADBbVQy

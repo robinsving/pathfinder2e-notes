@@ -1,5 +1,6 @@
 ---
 title: "Slippery Secrets"
+draft: true
 noteType: ":luggage:"
 aliases: "Slippery Secrets"
 foundryId: Item.IsBC1PLDb1fahZz4

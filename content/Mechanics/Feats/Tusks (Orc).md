@@ -1,5 +1,6 @@
 ---
 title: "Tusks (Orc)"
+draft: true
 noteType: ":luggage:"
 aliases: "Tusks (Orc)"
 foundryId: Item.r8GpXu4ETUkvBwCw

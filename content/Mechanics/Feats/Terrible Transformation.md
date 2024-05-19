@@ -1,5 +1,6 @@
 ---
 title: "Terrible Transformation"
+draft: true
 noteType: ":luggage:"
 aliases: "Terrible Transformation"
 foundryId: Item.3unra5Vfqs5mrf9F

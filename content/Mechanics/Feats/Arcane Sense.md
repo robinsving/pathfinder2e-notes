@@ -1,5 +1,6 @@
 ---
 title: "Arcane Sense"
+draft: true
 noteType: ":luggage:"
 aliases: "Arcane Sense"
 foundryId: Item.FTCmE76fixFYi0oe

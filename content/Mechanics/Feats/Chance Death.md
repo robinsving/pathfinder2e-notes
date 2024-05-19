@@ -1,5 +1,6 @@
 ---
 title: "Chance Death"
+draft: true
 noteType: ":luggage:"
 aliases: "Chance Death"
 foundryId: Item.DwkH8ybdNzPUJJoz

@@ -1,5 +1,6 @@
 ---
 title: "Sixth Sense"
+draft: true
 noteType: ":luggage:"
 aliases: "Sixth Sense"
 foundryId: Item.DxDSgoiNS61D7uVj

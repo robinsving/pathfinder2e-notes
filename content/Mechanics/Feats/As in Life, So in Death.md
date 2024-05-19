@@ -1,5 +1,6 @@
 ---
 title: "As in Life, So in Death"
+draft: true
 noteType: ":luggage:"
 aliases: "As in Life, So in Death"
 foundryId: Item.5h80rHOWwIBSyrsr

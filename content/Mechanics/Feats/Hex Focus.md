@@ -1,5 +1,6 @@
 ---
 title: "Hex Focus"
+draft: true
 noteType: ":luggage:"
 aliases: "Hex Focus"
 foundryId: Item.UwAgXakKy68yUZVK

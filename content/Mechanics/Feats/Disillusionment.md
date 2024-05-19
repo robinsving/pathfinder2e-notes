@@ -1,5 +1,6 @@
 ---
 title: "Disillusionment"
+draft: true
 noteType: ":luggage:"
 aliases: "Disillusionment"
 foundryId: Item.NadMeMOVVYPfHTtA

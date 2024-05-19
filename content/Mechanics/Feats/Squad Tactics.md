@@ -1,5 +1,6 @@
 ---
 title: "Squad Tactics"
+draft: true
 noteType: ":luggage:"
 aliases: "Squad Tactics"
 foundryId: Item.dAOZJsjFYOtDM9bR

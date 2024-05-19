@@ -1,5 +1,6 @@
 ---
 title: "Shinstabber"
+draft: true
 noteType: ":luggage:"
 aliases: "Shinstabber"
 foundryId: Item.rAM9QqTLxovMg9g0

@@ -1,5 +1,6 @@
 ---
 title: "Snare Hopping"
+draft: true
 noteType: ":luggage:"
 aliases: "Snare Hopping"
 foundryId: Item.swk0a2sj3OOSrysY

@@ -1,5 +1,6 @@
 ---
 title: "Draconic Scent"
+draft: true
 noteType: ":luggage:"
 aliases: "Draconic Scent"
 foundryId: Item.702O5fwOso9PAgMW

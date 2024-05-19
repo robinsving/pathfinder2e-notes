@@ -1,5 +1,6 @@
 ---
 title: "Absorb Toxin"
+draft: true
 noteType: ":luggage:"
 aliases: "Absorb Toxin"
 foundryId: Item.81z3A0MtMFnCpZ7p

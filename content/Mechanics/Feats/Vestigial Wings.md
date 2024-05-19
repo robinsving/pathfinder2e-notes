@@ -1,5 +1,6 @@
 ---
 title: "Vestigial Wings"
+draft: true
 noteType: ":luggage:"
 aliases: "Vestigial Wings"
 foundryId: Item.kJQqdUTmRAZjcBZQ

@@ -1,5 +1,6 @@
 ---
 title: "Elite Dracomancer"
+draft: true
 noteType: ":luggage:"
 aliases: "Elite Dracomancer"
 foundryId: Item.gAq058jS44F3R5wC

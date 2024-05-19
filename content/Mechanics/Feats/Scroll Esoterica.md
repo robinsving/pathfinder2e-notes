@@ -1,5 +1,6 @@
 ---
 title: "Scroll Esoterica"
+draft: true
 noteType: ":luggage:"
 aliases: "Scroll Esoterica"
 foundryId: Item.s3lYAbSIa5hKix1d

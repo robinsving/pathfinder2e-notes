@@ -1,5 +1,6 @@
 ---
 title: "Zephyr Guard Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Zephyr Guard Dedication"
 foundryId: Item.nP5t4V0YregCuegW

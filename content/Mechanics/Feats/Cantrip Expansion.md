@@ -1,5 +1,6 @@
 ---
 title: "Cantrip Expansion"
+draft: true
 noteType: ":luggage:"
 aliases: "Cantrip Expansion"
 foundryId: Item.v3LKuMxqQAbXGTXw

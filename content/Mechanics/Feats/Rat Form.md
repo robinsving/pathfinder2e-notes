@@ -1,5 +1,6 @@
 ---
 title: "Rat Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Rat Form"
 foundryId: Item.tItIKpAEwf1mRizJ

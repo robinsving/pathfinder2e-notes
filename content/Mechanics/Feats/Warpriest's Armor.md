@@ -1,5 +1,6 @@
 ---
 title: "Warpriest's Armor"
+draft: true
 noteType: ":luggage:"
 aliases: "Warpriest's Armor"
 foundryId: Item.OiSG7cG74SYs0zcQ

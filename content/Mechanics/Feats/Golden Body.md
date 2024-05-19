@@ -1,5 +1,6 @@
 ---
 title: "Golden Body"
+draft: true
 noteType: ":luggage:"
 aliases: "Golden Body"
 foundryId: Item.aIf8Ry1rCm6ukuON

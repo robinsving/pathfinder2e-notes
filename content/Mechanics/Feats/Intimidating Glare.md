@@ -1,5 +1,6 @@
 ---
 title: "Intimidating Glare"
+draft: true
 noteType: ":luggage:"
 aliases: "Intimidating Glare"
 foundryId: Item.JVnJc4axPEsrwXqB

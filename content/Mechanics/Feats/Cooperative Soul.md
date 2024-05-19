@@ -1,5 +1,6 @@
 ---
 title: "Cooperative Soul"
+draft: true
 noteType: ":luggage:"
 aliases: "Cooperative Soul"
 foundryId: Item.42gmAuHIzLGYxMFZ

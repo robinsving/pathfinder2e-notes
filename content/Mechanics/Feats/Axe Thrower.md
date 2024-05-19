@@ -1,5 +1,6 @@
 ---
 title: "Axe Thrower"
+draft: true
 noteType: ":luggage:"
 aliases: "Axe Thrower"
 foundryId: Item.5OLE8yX7xO5WiFYw

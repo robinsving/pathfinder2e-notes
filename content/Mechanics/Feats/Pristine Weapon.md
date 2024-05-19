@@ -1,5 +1,6 @@
 ---
 title: "Pristine Weapon"
+draft: true
 noteType: ":luggage:"
 aliases: "Pristine Weapon"
 foundryId: Item.qmMkfYv0bfRrXzFJ

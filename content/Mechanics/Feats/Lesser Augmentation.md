@@ -1,5 +1,6 @@
 ---
 title: "Lesser Augmentation"
+draft: true
 noteType: ":luggage:"
 aliases: "Lesser Augmentation"
 foundryId: Item.15EuXIVypsFbjoOS

@@ -1,5 +1,6 @@
 ---
 title: "Transcribe Moment"
+draft: true
 noteType: ":luggage:"
 aliases: "Transcribe Moment"
 foundryId: Item.2efucSt4eeOwCAPH

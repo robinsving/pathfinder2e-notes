@@ -1,5 +1,6 @@
 ---
 title: "Sacred Defender"
+draft: true
 noteType: ":luggage:"
 aliases: "Sacred Defender"
 foundryId: Item.axm3skjajepxMi7q

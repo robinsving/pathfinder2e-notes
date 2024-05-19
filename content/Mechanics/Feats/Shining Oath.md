@@ -1,5 +1,6 @@
 ---
 title: "Shining Oath"
+draft: true
 noteType: ":luggage:"
 aliases: "Shining Oath"
 foundryId: Item.Kz2mMwzzwb2ZXB2u

@@ -1,5 +1,6 @@
 ---
 title: "High-Speed Regeneration"
+draft: true
 noteType: ":luggage:"
 aliases: "High-Speed Regeneration"
 foundryId: Item.RNiseetFTPLTfgrH

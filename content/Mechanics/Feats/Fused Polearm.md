@@ -1,5 +1,6 @@
 ---
 title: "Fused Polearm"
+draft: true
 noteType: ":luggage:"
 aliases: "Fused Polearm"
 foundryId: Item.qqaSLozDX5s27n7S

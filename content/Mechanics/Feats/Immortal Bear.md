@@ -1,5 +1,6 @@
 ---
 title: "Immortal Bear"
+draft: true
 noteType: ":luggage:"
 aliases: "Immortal Bear"
 foundryId: Item.g7KLJ2twrsukPG9u

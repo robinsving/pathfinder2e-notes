@@ -1,5 +1,6 @@
 ---
 title: "Named Artillery"
+draft: true
 noteType: ":luggage:"
 aliases: "Named Artillery"
 foundryId: Item.Qb8IhHa4tNU29DLV

@@ -1,5 +1,6 @@
 ---
 title: "Disruptive Blur"
+draft: true
 noteType: ":luggage:"
 aliases: "Disruptive Blur"
 foundryId: Item.TvvuEAkUGMBxptKP

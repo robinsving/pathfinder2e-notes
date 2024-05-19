@@ -1,5 +1,6 @@
 ---
 title: "Cobra Envenom"
+draft: true
 noteType: ":luggage:"
 aliases: "Cobra Envenom"
 foundryId: Item.AziT5BBljVe1PJMC

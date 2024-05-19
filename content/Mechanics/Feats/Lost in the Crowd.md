@@ -1,5 +1,6 @@
 ---
 title: "Lost in the Crowd"
+draft: true
 noteType: ":luggage:"
 aliases: "Lost in the Crowd"
 foundryId: Item.Uxe6BtBZ9RISBKxh

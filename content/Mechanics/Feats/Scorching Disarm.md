@@ -1,5 +1,6 @@
 ---
 title: "Scorching Disarm"
+draft: true
 noteType: ":luggage:"
 aliases: "Scorching Disarm"
 foundryId: Item.jKlAEzjLvQe0Ta3m

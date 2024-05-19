@@ -1,5 +1,6 @@
 ---
 title: "Lifeblood's Call"
+draft: true
 noteType: ":luggage:"
 aliases: "Lifeblood's Call"
 foundryId: Item.cLC3Kn7fwjBb9BzT

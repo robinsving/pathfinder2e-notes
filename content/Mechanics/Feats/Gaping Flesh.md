@@ -1,5 +1,6 @@
 ---
 title: "Gaping Flesh"
+draft: true
 noteType: ":luggage:"
 aliases: "Gaping Flesh"
 foundryId: Item.3Pwg7ByC9NySZ60h

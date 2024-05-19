@@ -1,5 +1,6 @@
 ---
 title: "Greenwatch Initiate"
+draft: true
 noteType: ":luggage:"
 aliases: "Greenwatch Initiate"
 foundryId: Item.def54y4cpSKhtNOS

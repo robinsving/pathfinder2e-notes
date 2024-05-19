@@ -1,5 +1,6 @@
 ---
 title: "Stone Blood (Stonebound)"
+draft: true
 noteType: ":luggage:"
 aliases: "Stone Blood (Stonebound)"
 foundryId: Item.XE5L4OgTD04LRXUD

@@ -1,5 +1,6 @@
 ---
 title: "Electric Counter"
+draft: true
 noteType: ":luggage:"
 aliases: "Electric Counter"
 foundryId: Item.K2pVrhPM8mx0U5Ce

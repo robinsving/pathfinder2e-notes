@@ -1,5 +1,6 @@
 ---
 title: "Performative Weapons Training"
+draft: true
 noteType: ":luggage:"
 aliases: "Performative Weapons Training"
 foundryId: Item.an9bTcKaHHKuzhxJ

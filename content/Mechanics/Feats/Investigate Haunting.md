@@ -1,5 +1,6 @@
 ---
 title: "Investigate Haunting"
+draft: true
 noteType: ":luggage:"
 aliases: "Investigate Haunting"
 foundryId: Item.zYjAQLJ5JLJkOr09

@@ -1,5 +1,6 @@
 ---
 title: "Kashrishi Revivification"
+draft: true
 noteType: ":luggage:"
 aliases: "Kashrishi Revivification"
 foundryId: Item.L4kkOdRDEbhEBufE

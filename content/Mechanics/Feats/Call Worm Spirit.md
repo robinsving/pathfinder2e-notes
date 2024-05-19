@@ -1,5 +1,6 @@
 ---
 title: "Call Worm Spirit"
+draft: true
 noteType: ":luggage:"
 aliases: "Call Worm Spirit"
 foundryId: Item.qBW2olZ0Ere67b88

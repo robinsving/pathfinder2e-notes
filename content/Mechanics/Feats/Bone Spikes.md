@@ -1,5 +1,6 @@
 ---
 title: "Bone Spikes"
+draft: true
 noteType: ":luggage:"
 aliases: "Bone Spikes"
 foundryId: Item.hFMhg640lR6DFPff

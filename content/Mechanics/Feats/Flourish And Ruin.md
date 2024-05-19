@@ -1,5 +1,6 @@
 ---
 title: "Flourish And Ruin"
+draft: true
 noteType: ":luggage:"
 aliases: "Flourish And Ruin"
 foundryId: Item.AhSofRImLyPcU6hR

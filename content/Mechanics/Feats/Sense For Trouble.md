@@ -1,5 +1,6 @@
 ---
 title: "Sense For Trouble"
+draft: true
 noteType: ":luggage:"
 aliases: "Sense For Trouble"
 foundryId: Item.DCrzI1koLeDxVpjb

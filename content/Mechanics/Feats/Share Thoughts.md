@@ -1,5 +1,6 @@
 ---
 title: "Share Thoughts"
+draft: true
 noteType: ":luggage:"
 aliases: "Share Thoughts"
 foundryId: Item.GaXsYpFuLM63QIUm

@@ -1,5 +1,6 @@
 ---
 title: "Flexible Spellcaster Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Flexible Spellcaster Dedication"
 foundryId: Item.ufj4u43nXX3tLcB9

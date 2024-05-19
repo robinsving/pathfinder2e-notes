@@ -1,5 +1,6 @@
 ---
 title: "One-Millimeter Punch"
+draft: true
 noteType: ":luggage:"
 aliases: "One-Millimeter Punch"
 foundryId: Item.qD77hu5xJm3dzbuJ

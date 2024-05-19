@@ -1,5 +1,6 @@
 ---
 title: "Demonbane Warrior"
+draft: true
 noteType: ":luggage:"
 aliases: "Demonbane Warrior"
 foundryId: Item.W6RqL1p63knzV7Os

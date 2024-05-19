@@ -1,5 +1,6 @@
 ---
 title: "Basic Cathartic Spellcasting"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Cathartic Spellcasting"
 foundryId: Item.eqptYp0r7tV2qmMj

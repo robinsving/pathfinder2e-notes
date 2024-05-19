@@ -1,5 +1,6 @@
 ---
 title: "Visual Fidelity"
+draft: true
 noteType: ":luggage:"
 aliases: "Visual Fidelity"
 foundryId: Item.qCGdkbSvlymHiZfx

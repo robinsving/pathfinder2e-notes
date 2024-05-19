@@ -1,5 +1,6 @@
 ---
 title: "Spell Swipe"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Swipe"
 foundryId: Item.NgeQvZeAko7QXUoC

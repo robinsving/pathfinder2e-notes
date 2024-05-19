@@ -1,5 +1,6 @@
 ---
 title: "Engine Bay"
+draft: true
 noteType: ":luggage:"
 aliases: "Engine Bay"
 foundryId: Item.Mvq3IiwYMZbx7JqY

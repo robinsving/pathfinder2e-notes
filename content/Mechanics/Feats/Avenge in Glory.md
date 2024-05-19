@@ -1,5 +1,6 @@
 ---
 title: "Avenge in Glory"
+draft: true
 noteType: ":luggage:"
 aliases: "Avenge in Glory"
 foundryId: Item.ldv6KwpTY4BQOQ3A

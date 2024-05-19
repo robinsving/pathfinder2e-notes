@@ -1,5 +1,6 @@
 ---
 title: "Hamstringing Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Hamstringing Strike"
 foundryId: Item.6BTPvSX4wSa2ZDsM

@@ -1,5 +1,6 @@
 ---
 title: "Muscle Mimicry"
+draft: true
 noteType: ":luggage:"
 aliases: "Muscle Mimicry"
 foundryId: Item.d1srYcWI3yQTl30z

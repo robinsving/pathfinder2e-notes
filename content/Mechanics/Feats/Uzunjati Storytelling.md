@@ -1,5 +1,6 @@
 ---
 title: "Uzunjati Storytelling"
+draft: true
 noteType: ":luggage:"
 aliases: "Uzunjati Storytelling"
 foundryId: Item.6L5e5HJWvygkJ2aS

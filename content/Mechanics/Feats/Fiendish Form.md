@@ -1,5 +1,6 @@
 ---
 title: "Fiendish Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Fiendish Form"
 foundryId: Item.Ueg7XU5fjhWK3CU7

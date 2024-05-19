@@ -1,5 +1,6 @@
 ---
 title: "Ride"
+draft: true
 noteType: ":luggage:"
 aliases: "Ride"
 foundryId: Item.FNIK4MXLQx52b9Pi

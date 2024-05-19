@@ -1,5 +1,6 @@
 ---
 title: "Ricochet Master"
+draft: true
 noteType: ":luggage:"
 aliases: "Ricochet Master"
 foundryId: Item.xN0W5HDyK5S3hJw0

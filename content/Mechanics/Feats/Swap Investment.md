@@ -1,5 +1,6 @@
 ---
 title: "Swap Investment"
+draft: true
 noteType: ":luggage:"
 aliases: "Swap Investment"
 foundryId: Item.jubr1dVYtqaCp8JE

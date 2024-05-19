@@ -1,5 +1,6 @@
 ---
 title: "Black Powder Blaze"
+draft: true
 noteType: ":luggage:"
 aliases: "Black Powder Blaze"
 foundryId: Item.7A17Cn8swk5otEEo

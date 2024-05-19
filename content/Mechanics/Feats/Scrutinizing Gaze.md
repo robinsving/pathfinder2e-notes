@@ -1,5 +1,6 @@
 ---
 title: "Scrutinizing Gaze"
+draft: true
 noteType: ":luggage:"
 aliases: "Scrutinizing Gaze"
 foundryId: Item.KG8MXWNrowxPwqTw

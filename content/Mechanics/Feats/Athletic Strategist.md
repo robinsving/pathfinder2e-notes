@@ -1,5 +1,6 @@
 ---
 title: "Athletic Strategist"
+draft: true
 noteType: ":luggage:"
 aliases: "Athletic Strategist"
 foundryId: Item.NQ6f5GVvlAMORqP5

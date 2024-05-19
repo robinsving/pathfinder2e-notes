@@ -1,5 +1,6 @@
 ---
 title: "Execution"
+draft: true
 noteType: ":luggage:"
 aliases: "Execution"
 foundryId: Item.7JiPfSLgGFVaK29Q

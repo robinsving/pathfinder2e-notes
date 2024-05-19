@@ -1,5 +1,6 @@
 ---
 title: "Medusa's Wrath"
+draft: true
 noteType: ":luggage:"
 aliases: "Medusa's Wrath"
 foundryId: Item.dFhjioZLT6rRORKW

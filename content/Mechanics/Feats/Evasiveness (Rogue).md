@@ -1,5 +1,6 @@
 ---
 title: "Evasiveness (Rogue)"
+draft: true
 noteType: ":luggage:"
 aliases: "Evasiveness (Rogue)"
 foundryId: Item.wqDocDCxOgNXqsXs

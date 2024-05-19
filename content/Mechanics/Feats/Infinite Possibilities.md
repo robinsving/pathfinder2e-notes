@@ -1,5 +1,6 @@
 ---
 title: "Infinite Possibilities"
+draft: true
 noteType: ":luggage:"
 aliases: "Infinite Possibilities"
 foundryId: Item.ItbKZfHL2StIU35N

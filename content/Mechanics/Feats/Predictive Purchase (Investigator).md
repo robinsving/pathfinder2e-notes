@@ -1,5 +1,6 @@
 ---
 title: "Predictive Purchase (Investigator)"
+draft: true
 noteType: ":luggage:"
 aliases: "Predictive Purchase (Investigator)"
 foundryId: Item.o6TOam5ol3tc1EqV

@@ -1,5 +1,6 @@
 ---
 title: "Eerie Traces"
+draft: true
 noteType: ":luggage:"
 aliases: "Eerie Traces"
 foundryId: Item.Sorx2kWyKNZHWHvI

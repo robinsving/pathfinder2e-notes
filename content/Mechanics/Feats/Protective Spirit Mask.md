@@ -1,5 +1,6 @@
 ---
 title: "Protective Spirit Mask"
+draft: true
 noteType: ":luggage:"
 aliases: "Protective Spirit Mask"
 foundryId: Item.Wn98PHoDjyjdox5s

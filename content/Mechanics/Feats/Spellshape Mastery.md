@@ -1,5 +1,6 @@
 ---
 title: "Spellshape Mastery"
+draft: true
 noteType: ":luggage:"
 aliases: "Spellshape Mastery"
 foundryId: Item.08ZWgY3jeIPCTpEp

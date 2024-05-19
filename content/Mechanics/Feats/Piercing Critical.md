@@ -1,5 +1,6 @@
 ---
 title: "Piercing Critical"
+draft: true
 noteType: ":luggage:"
 aliases: "Piercing Critical"
 foundryId: Item.6BRIxydpFqWRamD2

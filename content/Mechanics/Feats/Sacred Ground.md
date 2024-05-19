@@ -1,5 +1,6 @@
 ---
 title: "Sacred Ground"
+draft: true
 noteType: ":luggage:"
 aliases: "Sacred Ground"
 foundryId: Item.SlB2SRlpC0rbDXs7

@@ -1,5 +1,6 @@
 ---
 title: "Piston Punch"
+draft: true
 noteType: ":luggage:"
 aliases: "Piston Punch"
 foundryId: Item.blA9AAV845tN09hE

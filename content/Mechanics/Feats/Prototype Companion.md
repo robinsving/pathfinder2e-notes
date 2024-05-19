@@ -1,5 +1,6 @@
 ---
 title: "Prototype Companion"
+draft: true
 noteType: ":luggage:"
 aliases: "Prototype Companion"
 foundryId: Item.u0yIDDi3QRFVOWC2

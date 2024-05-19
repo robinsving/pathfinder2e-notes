@@ -1,5 +1,6 @@
 ---
 title: "Slice and Swipe"
+draft: true
 noteType: ":luggage:"
 aliases: "Slice and Swipe"
 foundryId: Item.REJdLKCd1m2PRC5c

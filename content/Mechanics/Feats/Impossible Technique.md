@@ -1,5 +1,6 @@
 ---
 title: "Impossible Technique"
+draft: true
 noteType: ":luggage:"
 aliases: "Impossible Technique"
 foundryId: Item.S6mmb4q2OViIg6iR

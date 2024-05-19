@@ -1,5 +1,6 @@
 ---
 title: "Ancillary Motes"
+draft: true
 noteType: ":luggage:"
 aliases: "Ancillary Motes"
 foundryId: Item.3NxElRoDRKrR5yb6

@@ -1,5 +1,6 @@
 ---
 title: "Janatimo's Lessons"
+draft: true
 noteType: ":luggage:"
 aliases: "Janatimo's Lessons"
 foundryId: Item.WpdofFiFjiyb62Oc

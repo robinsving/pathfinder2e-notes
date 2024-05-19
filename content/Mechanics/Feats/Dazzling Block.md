@@ -1,5 +1,6 @@
 ---
 title: "Dazzling Block"
+draft: true
 noteType: ":luggage:"
 aliases: "Dazzling Block"
 foundryId: Item.yJ16cjo48NTfDGnk

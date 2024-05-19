@@ -1,5 +1,6 @@
 ---
 title: "Alter Ego Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Alter Ego Dedication"
 foundryId: Item.UOYGo1mst7MCr5BZ

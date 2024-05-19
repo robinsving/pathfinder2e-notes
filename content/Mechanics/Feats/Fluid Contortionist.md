@@ -1,5 +1,6 @@
 ---
 title: "Fluid Contortionist"
+draft: true
 noteType: ":luggage:"
 aliases: "Fluid Contortionist"
 foundryId: Item.TwZfVJmaNhPkpWWe

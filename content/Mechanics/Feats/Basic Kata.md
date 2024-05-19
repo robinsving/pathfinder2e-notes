@@ -1,5 +1,6 @@
 ---
 title: "Basic Kata"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Kata"
 foundryId: Item.sgoKwUB3SpCxsTCB

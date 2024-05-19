@@ -1,5 +1,6 @@
 ---
 title: "Swashbuckler's Speed"
+draft: true
 noteType: ":luggage:"
 aliases: "Swashbuckler's Speed"
 foundryId: Item.ifr7zjuUMRwqbcJt

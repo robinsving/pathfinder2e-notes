@@ -1,5 +1,6 @@
 ---
 title: "Safe House"
+draft: true
 noteType: ":luggage:"
 aliases: "Safe House"
 foundryId: Item.UFCkQwlSpO9vgov5

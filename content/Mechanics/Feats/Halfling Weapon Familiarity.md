@@ -1,5 +1,6 @@
 ---
 title: "Halfling Weapon Familiarity"
+draft: true
 noteType: ":luggage:"
 aliases: "Halfling Weapon Familiarity"
 foundryId: Item.Cwfq68TdkLMEmdoM

@@ -1,5 +1,6 @@
 ---
 title: "Symphony of the Muse"
+draft: true
 noteType: ":luggage:"
 aliases: "Symphony of the Muse"
 foundryId: Item.BYEWJCMdiSWA9kDv

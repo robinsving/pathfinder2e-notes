@@ -1,5 +1,6 @@
 ---
 title: "Forge-Blessed Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Forge-Blessed Shot"
 foundryId: Item.v2bzpWUUDRxf7q17

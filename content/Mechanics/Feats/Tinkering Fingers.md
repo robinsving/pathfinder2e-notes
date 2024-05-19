@@ -1,5 +1,6 @@
 ---
 title: "Tinkering Fingers"
+draft: true
 noteType: ":luggage:"
 aliases: "Tinkering Fingers"
 foundryId: Item.73QcX3jQ7Fgin0cU

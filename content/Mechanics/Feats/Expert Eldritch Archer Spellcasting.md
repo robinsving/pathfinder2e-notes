@@ -1,5 +1,6 @@
 ---
 title: "Expert Eldritch Archer Spellcasting"
+draft: true
 noteType: ":luggage:"
 aliases: "Expert Eldritch Archer Spellcasting"
 foundryId: Item.S0FC5ptDsZtwfx4E

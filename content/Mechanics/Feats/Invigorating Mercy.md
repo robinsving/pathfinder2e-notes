@@ -1,5 +1,6 @@
 ---
 title: "Invigorating Mercy"
+draft: true
 noteType: ":luggage:"
 aliases: "Invigorating Mercy"
 foundryId: Item.Kin0jk9WKgHIkYEB

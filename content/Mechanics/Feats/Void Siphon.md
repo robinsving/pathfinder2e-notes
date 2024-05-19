@@ -1,5 +1,6 @@
 ---
 title: "Void Siphon"
+draft: true
 noteType: ":luggage:"
 aliases: "Void Siphon"
 foundryId: Item.crcLUpPI6lMa7KMH

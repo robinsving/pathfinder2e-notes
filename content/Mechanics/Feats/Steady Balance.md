@@ -1,5 +1,6 @@
 ---
 title: "Steady Balance"
+draft: true
 noteType: ":luggage:"
 aliases: "Steady Balance"
 foundryId: Item.wssXi2e0v6UIMMnb

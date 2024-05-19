@@ -1,5 +1,6 @@
 ---
 title: "Avatar's Audience"
+draft: true
 noteType: ":luggage:"
 aliases: "Avatar's Audience"
 foundryId: Item.mE5Y7vgLZO1SLvUj

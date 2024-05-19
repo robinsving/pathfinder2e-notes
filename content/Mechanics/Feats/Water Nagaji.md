@@ -1,5 +1,6 @@
 ---
 title: "Water Nagaji"
+draft: true
 noteType: ":luggage:"
 aliases: "Water Nagaji"
 foundryId: Item.fsypatZyTFnfAOZR

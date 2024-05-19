@@ -1,5 +1,6 @@
 ---
 title: "Repeating Hand Crossbow Training"
+draft: true
 noteType: ":luggage:"
 aliases: "Repeating Hand Crossbow Training"
 foundryId: Item.lmCEuTzr8VpOvBki

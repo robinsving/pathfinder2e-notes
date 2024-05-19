@@ -1,5 +1,6 @@
 ---
 title: "Cognitive Loophole"
+draft: true
 noteType: ":luggage:"
 aliases: "Cognitive Loophole"
 foundryId: Item.RvjXeW90vo4GxXII

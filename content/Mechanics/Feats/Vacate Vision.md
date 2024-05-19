@@ -1,5 +1,6 @@
 ---
 title: "Vacate Vision"
+draft: true
 noteType: ":luggage:"
 aliases: "Vacate Vision"
 foundryId: Item.Z9c4x05haV0WPPOs

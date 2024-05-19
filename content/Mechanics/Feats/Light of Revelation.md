@@ -1,5 +1,6 @@
 ---
 title: "Light of Revelation"
+draft: true
 noteType: ":luggage:"
 aliases: "Light of Revelation"
 foundryId: Item.3u6yfVqcXO6MX9ak

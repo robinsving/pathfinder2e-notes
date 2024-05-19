@@ -1,5 +1,6 @@
 ---
 title: "Scrap Barricade"
+draft: true
 noteType: ":luggage:"
 aliases: "Scrap Barricade"
 foundryId: Item.u88WyL7Wb8gEHvi3

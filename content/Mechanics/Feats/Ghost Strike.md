@@ -1,5 +1,6 @@
 ---
 title: "Ghost Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Ghost Strike"
 foundryId: Item.NamCB4E0qP8itBOd

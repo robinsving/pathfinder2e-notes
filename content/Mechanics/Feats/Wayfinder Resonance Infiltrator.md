@@ -1,5 +1,6 @@
 ---
 title: "Wayfinder Resonance Infiltrator"
+draft: true
 noteType: ":luggage:"
 aliases: "Wayfinder Resonance Infiltrator"
 foundryId: Item.WosTFKb4p7ordY6C

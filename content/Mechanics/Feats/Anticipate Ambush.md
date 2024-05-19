@@ -1,5 +1,6 @@
 ---
 title: "Anticipate Ambush"
+draft: true
 noteType: ":luggage:"
 aliases: "Anticipate Ambush"
 foundryId: Item.3LP3hq5AJTKpI5RQ

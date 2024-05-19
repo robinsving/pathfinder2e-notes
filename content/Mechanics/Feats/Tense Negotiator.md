@@ -1,5 +1,6 @@
 ---
 title: "Tense Negotiator"
+draft: true
 noteType: ":luggage:"
 aliases: "Tense Negotiator"
 foundryId: Item.on8dGus9bbNGyjxi

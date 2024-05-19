@@ -1,5 +1,6 @@
 ---
 title: "Great Boaster"
+draft: true
 noteType: ":luggage:"
 aliases: "Great Boaster"
 foundryId: Item.DUfRIVgSGSfVVbtf

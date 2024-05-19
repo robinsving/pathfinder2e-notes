@@ -1,5 +1,6 @@
 ---
 title: "Diehard"
+draft: true
 noteType: ":luggage:"
 aliases: "Diehard"
 foundryId: Item.gHIA1OPUWRsv5Oj3

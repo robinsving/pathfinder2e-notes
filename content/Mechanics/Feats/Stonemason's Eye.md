@@ -1,5 +1,6 @@
 ---
 title: "Stonemason's Eye"
+draft: true
 noteType: ":luggage:"
 aliases: "Stonemason's Eye"
 foundryId: Item.K4r60R3N8BZCVwDo

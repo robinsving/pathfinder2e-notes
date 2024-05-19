@@ -1,5 +1,6 @@
 ---
 title: "Adaptive Vision"
+draft: true
 noteType: ":luggage:"
 aliases: "Adaptive Vision"
 foundryId: Item.oLVr8FFm4pRzKyRL

@@ -1,5 +1,6 @@
 ---
 title: "Straveika"
+draft: true
 noteType: ":luggage:"
 aliases: "Straveika"
 foundryId: Item.yLOH1rVDHBe6QMvL

@@ -1,5 +1,6 @@
 ---
 title: "Mind Shards"
+draft: true
 noteType: ":luggage:"
 aliases: "Mind Shards"
 foundryId: Item.JiZsVypYnaBIX6Bv

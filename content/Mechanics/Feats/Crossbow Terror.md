@@ -1,5 +1,6 @@
 ---
 title: "Crossbow Terror"
+draft: true
 noteType: ":luggage:"
 aliases: "Crossbow Terror"
 foundryId: Item.e1IM4bTrT1gVOS4R

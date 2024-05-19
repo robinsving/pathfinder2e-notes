@@ -1,5 +1,6 @@
 ---
 title: "Symphony Of The Unfettered Heart"
+draft: true
 noteType: ":luggage:"
 aliases: "Symphony Of The Unfettered Heart"
 foundryId: Item.Yw8zSFNk2sBMwQZV

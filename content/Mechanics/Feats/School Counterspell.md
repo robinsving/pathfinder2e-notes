@@ -1,5 +1,6 @@
 ---
 title: "School Counterspell"
+draft: true
 noteType: ":luggage:"
 aliases: "School Counterspell"
 foundryId: Item.odmUNYuRiuqlgmrh

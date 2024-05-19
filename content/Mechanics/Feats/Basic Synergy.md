@@ -1,5 +1,6 @@
 ---
 title: "Basic Synergy"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Synergy"
 foundryId: Item.wY5DIpICrMxnHIuO

@@ -1,5 +1,6 @@
 ---
 title: "Embodied Dreadnought Subjectivity"
+draft: true
 noteType: ":luggage:"
 aliases: "Embodied Dreadnought Subjectivity"
 foundryId: Item.1zZ84jcD7K0qhyls

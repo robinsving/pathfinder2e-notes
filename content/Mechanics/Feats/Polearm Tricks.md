@@ -1,5 +1,6 @@
 ---
 title: "Polearm Tricks"
+draft: true
 noteType: ":luggage:"
 aliases: "Polearm Tricks"
 foundryId: Item.0M8SDyrrVOmMmx6C

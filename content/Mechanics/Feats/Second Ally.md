@@ -1,5 +1,6 @@
 ---
 title: "Second Ally"
+draft: true
 noteType: ":luggage:"
 aliases: "Second Ally"
 foundryId: Item.4o8nw18MJj7JNyrm

@@ -1,5 +1,6 @@
 ---
 title: "Speak with Kindred"
+draft: true
 noteType: ":luggage:"
 aliases: "Speak with Kindred"
 foundryId: Item.SjWLJE1quQrm1CBS

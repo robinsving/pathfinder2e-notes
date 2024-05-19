@@ -1,5 +1,6 @@
 ---
 title: "Witch Warden"
+draft: true
 noteType: ":luggage:"
 aliases: "Witch Warden"
 foundryId: Item.7mL2qfEDiH49VJbr

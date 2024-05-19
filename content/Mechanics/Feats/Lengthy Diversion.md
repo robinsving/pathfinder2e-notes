@@ -1,5 +1,6 @@
 ---
 title: "Lengthy Diversion"
+draft: true
 noteType: ":luggage:"
 aliases: "Lengthy Diversion"
 foundryId: Item.cokdI2tFBntnufQs

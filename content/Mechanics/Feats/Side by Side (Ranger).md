@@ -1,5 +1,6 @@
 ---
 title: "Side by Side (Ranger)"
+draft: true
 noteType: ":luggage:"
 aliases: "Side by Side (Ranger)"
 foundryId: Item.tk2OBXIcsNMTJtWE

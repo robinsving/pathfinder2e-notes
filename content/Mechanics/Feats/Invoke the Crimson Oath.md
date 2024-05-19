@@ -1,5 +1,6 @@
 ---
 title: "Invoke the Crimson Oath"
+draft: true
 noteType: ":luggage:"
 aliases: "Invoke the Crimson Oath"
 foundryId: Item.6Sg4mtkaGB9bOhWc

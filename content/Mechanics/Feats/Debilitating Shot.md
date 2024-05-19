@@ -1,5 +1,6 @@
 ---
 title: "Debilitating Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Debilitating Shot"
 foundryId: Item.RTMrnTklc3HR6C5U

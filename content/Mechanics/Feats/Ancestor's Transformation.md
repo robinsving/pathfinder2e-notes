@@ -1,5 +1,6 @@
 ---
 title: "Ancestor's Transformation"
+draft: true
 noteType: ":luggage:"
 aliases: "Ancestor's Transformation"
 foundryId: Item.EsuSYnVubRj1nEZk

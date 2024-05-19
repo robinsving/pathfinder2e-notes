@@ -1,5 +1,6 @@
 ---
 title: "Master Wizard Spellcasting"
+draft: true
 noteType: ":luggage:"
 aliases: "Master Wizard Spellcasting"
 foundryId: Item.6lcmcUKJ53F3PhQq

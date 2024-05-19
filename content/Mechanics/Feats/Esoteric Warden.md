@@ -1,5 +1,6 @@
 ---
 title: "Esoteric Warden"
+draft: true
 noteType: ":luggage:"
 aliases: "Esoteric Warden"
 foundryId: Item.XS7zUGecbNOJU5v0

@@ -1,5 +1,6 @@
 ---
 title: "Undead Slayer Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Undead Slayer Dedication"
 foundryId: Item.bDkXV1IHPqg9gitW

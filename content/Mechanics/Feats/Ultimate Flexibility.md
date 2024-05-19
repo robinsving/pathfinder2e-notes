@@ -1,5 +1,6 @@
 ---
 title: "Ultimate Flexibility"
+draft: true
 noteType: ":luggage:"
 aliases: "Ultimate Flexibility"
 foundryId: Item.7CSDvLuuCFJ3osN0

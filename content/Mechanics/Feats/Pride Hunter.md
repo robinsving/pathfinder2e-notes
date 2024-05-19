@@ -1,5 +1,6 @@
 ---
 title: "Pride Hunter"
+draft: true
 noteType: ":luggage:"
 aliases: "Pride Hunter"
 foundryId: Item.abt5ENEy43PQjpjF

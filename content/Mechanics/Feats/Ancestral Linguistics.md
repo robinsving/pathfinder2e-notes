@@ -1,5 +1,6 @@
 ---
 title: "Ancestral Linguistics"
+draft: true
 noteType: ":luggage:"
 aliases: "Ancestral Linguistics"
 foundryId: Item.CM0vO5TOYKoaNmEo

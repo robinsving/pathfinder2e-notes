@@ -1,5 +1,6 @@
 ---
 title: "Ember's Eyes"
+draft: true
 noteType: ":luggage:"
 aliases: "Ember's Eyes"
 foundryId: Item.BS1XxizM91k66gRv

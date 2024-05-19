@@ -1,5 +1,6 @@
 ---
 title: "Evade Doom"
+draft: true
 noteType: ":luggage:"
 aliases: "Evade Doom"
 foundryId: Item.Xn59ZSjAjKrUS3x4

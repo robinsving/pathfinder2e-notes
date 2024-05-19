@@ -1,5 +1,6 @@
 ---
 title: "Premonition Of Avoidance"
+draft: true
 noteType: ":luggage:"
 aliases: "Premonition Of Avoidance"
 foundryId: Item.QvrhGXvPFlnSGsKA

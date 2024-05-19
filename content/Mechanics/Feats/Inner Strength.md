@@ -1,5 +1,6 @@
 ---
 title: "Inner Strength"
+draft: true
 noteType: ":luggage:"
 aliases: "Inner Strength"
 foundryId: Item.LGEoUQnF5PCSM713

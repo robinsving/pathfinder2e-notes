@@ -1,5 +1,6 @@
 ---
 title: "Impossible Striker"
+draft: true
 noteType: ":luggage:"
 aliases: "Impossible Striker"
 foundryId: Item.IKyMidhjbVhNhIMa

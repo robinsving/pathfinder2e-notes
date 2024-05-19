@@ -1,5 +1,6 @@
 ---
 title: "Pact of Eldritch Eyes"
+draft: true
 noteType: ":luggage:"
 aliases: "Pact of Eldritch Eyes"
 foundryId: Item.qUWliImnbRKR3ssb

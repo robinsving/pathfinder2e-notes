@@ -1,5 +1,6 @@
 ---
 title: "Terraforming Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Terraforming Spell"
 foundryId: Item.gRGwbycnTUP7PHZ3

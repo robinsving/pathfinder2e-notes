@@ -1,5 +1,6 @@
 ---
 title: "Feral Mutagen"
+draft: true
 noteType: ":luggage:"
 aliases: "Feral Mutagen"
 foundryId: Item.BAxnShZkQqrVbWos

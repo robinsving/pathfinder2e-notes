@@ -1,5 +1,6 @@
 ---
 title: "Eternal Wings (Sylph)"
+draft: true
 noteType: ":luggage:"
 aliases: "Eternal Wings (Sylph)"
 foundryId: Item.kUWP0JyH1KY8edQc

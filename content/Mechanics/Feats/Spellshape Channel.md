@@ -1,5 +1,6 @@
 ---
 title: "Spellshape Channel"
+draft: true
 noteType: ":luggage:"
 aliases: "Spellshape Channel"
 foundryId: Item.Ki7RmaPYuF2mktHq

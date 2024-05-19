@@ -1,5 +1,6 @@
 ---
 title: "Stargazer's Eyes"
+draft: true
 noteType: ":luggage:"
 aliases: "Stargazer's Eyes"
 foundryId: Item.oLjhCwRhPHVzspnr

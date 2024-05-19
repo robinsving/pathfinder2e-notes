@@ -1,5 +1,6 @@
 ---
 title: "Gadget Specialist"
+draft: true
 noteType: ":luggage:"
 aliases: "Gadget Specialist"
 foundryId: Item.VRt0pMVtcHaxVvo7

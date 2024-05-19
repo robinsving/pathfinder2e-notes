@@ -1,5 +1,6 @@
 ---
 title: "Unbreakable Bond"
+draft: true
 noteType: ":luggage:"
 aliases: "Unbreakable Bond"
 foundryId: Item.8m4qiTbMQUW4mPBU

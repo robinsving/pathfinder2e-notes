@@ -1,5 +1,6 @@
 ---
 title: "Armiger's Mobility"
+draft: true
 noteType: ":luggage:"
 aliases: "Armiger's Mobility"
 foundryId: Item.tAib3dUw3gtzeLur

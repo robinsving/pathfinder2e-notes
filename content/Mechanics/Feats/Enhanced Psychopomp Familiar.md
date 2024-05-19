@@ -1,5 +1,6 @@
 ---
 title: "Enhanced Psychopomp Familiar"
+draft: true
 noteType: ":luggage:"
 aliases: "Enhanced Psychopomp Familiar"
 foundryId: Item.AlBpDXf7toWmhG0D

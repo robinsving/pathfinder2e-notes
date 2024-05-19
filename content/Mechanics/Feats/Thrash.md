@@ -1,5 +1,6 @@
 ---
 title: "Thrash"
+draft: true
 noteType: ":luggage:"
 aliases: "Thrash"
 foundryId: Item.o80i7mVJIxha039E

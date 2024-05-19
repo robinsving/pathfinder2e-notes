@@ -1,5 +1,6 @@
 ---
 title: "Clan Pistol"
+draft: true
 noteType: ":luggage:"
 aliases: "Clan Pistol"
 foundryId: Item.VsE3TNmaFpClczVb

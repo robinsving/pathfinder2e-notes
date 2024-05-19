@@ -1,5 +1,6 @@
 ---
 title: "Scout's Speed"
+draft: true
 noteType: ":luggage:"
 aliases: "Scout's Speed"
 foundryId: Item.eQeUJPxi0DXxc3dz

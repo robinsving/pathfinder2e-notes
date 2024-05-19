@@ -1,5 +1,6 @@
 ---
 title: "Soul Flare"
+draft: true
 noteType: ":luggage:"
 aliases: "Soul Flare"
 foundryId: Item.FyvaIowNTMMdnQUy

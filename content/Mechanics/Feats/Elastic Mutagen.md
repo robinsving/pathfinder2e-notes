@@ -1,5 +1,6 @@
 ---
 title: "Elastic Mutagen"
+draft: true
 noteType: ":luggage:"
 aliases: "Elastic Mutagen"
 foundryId: Item.PZIimfob5Tcy5ver

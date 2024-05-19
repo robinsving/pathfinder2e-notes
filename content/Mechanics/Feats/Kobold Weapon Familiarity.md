@@ -1,5 +1,6 @@
 ---
 title: "Kobold Weapon Familiarity"
+draft: true
 noteType: ":luggage:"
 aliases: "Kobold Weapon Familiarity"
 foundryId: Item.1wenWlhTMh5r5U2y

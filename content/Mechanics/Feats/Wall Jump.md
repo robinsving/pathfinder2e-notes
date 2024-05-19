@@ -1,5 +1,6 @@
 ---
 title: "Wall Jump"
+draft: true
 noteType: ":luggage:"
 aliases: "Wall Jump"
 foundryId: Item.i3JnIcADcIrDGw1V

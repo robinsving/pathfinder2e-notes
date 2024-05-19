@@ -1,5 +1,6 @@
 ---
 title: "Plum Deluge"
+draft: true
 noteType: ":luggage:"
 aliases: "Plum Deluge"
 foundryId: Item.39vTSvvS1ahZ7h2B

@@ -1,5 +1,6 @@
 ---
 title: "Hag Claws"
+draft: true
 noteType: ":luggage:"
 aliases: "Hag Claws"
 foundryId: Item.5207G53mGBFTphnE

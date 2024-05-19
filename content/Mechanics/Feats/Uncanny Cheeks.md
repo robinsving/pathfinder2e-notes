@@ -1,5 +1,6 @@
 ---
 title: "Uncanny Cheeks"
+draft: true
 noteType: ":luggage:"
 aliases: "Uncanny Cheeks"
 foundryId: Item.WwfE5ddyuJMR3m10

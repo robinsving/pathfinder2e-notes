@@ -1,5 +1,6 @@
 ---
 title: "Future Spell Learning"
+draft: true
 noteType: ":luggage:"
 aliases: "Future Spell Learning"
 foundryId: Item.qJppOrwjfewmkZsn

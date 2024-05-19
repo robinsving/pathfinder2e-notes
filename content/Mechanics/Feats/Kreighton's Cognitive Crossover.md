@@ -1,5 +1,6 @@
 ---
 title: "Kreighton's Cognitive Crossover"
+draft: true
 noteType: ":luggage:"
 aliases: "Kreighton's Cognitive Crossover"
 foundryId: Item.XfBarKkNMsPl50bY

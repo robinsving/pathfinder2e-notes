@@ -1,5 +1,6 @@
 ---
 title: "Negate Damage"
+draft: true
 noteType: ":luggage:"
 aliases: "Negate Damage"
 foundryId: Item.0pOn0OOaejRgzztw

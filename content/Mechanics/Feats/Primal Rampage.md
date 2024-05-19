@@ -1,5 +1,6 @@
 ---
 title: "Primal Rampage"
+draft: true
 noteType: ":luggage:"
 aliases: "Primal Rampage"
 foundryId: Item.QR7PiSxPZpAZPU5B

@@ -1,5 +1,6 @@
 ---
 title: "Bone Caller"
+draft: true
 noteType: ":luggage:"
 aliases: "Bone Caller"
 foundryId: Item.uuVBBnm6BRHer0rf

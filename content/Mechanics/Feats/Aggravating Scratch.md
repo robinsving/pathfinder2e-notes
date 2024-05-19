@@ -1,5 +1,6 @@
 ---
 title: "Aggravating Scratch"
+draft: true
 noteType: ":luggage:"
 aliases: "Aggravating Scratch"
 foundryId: Item.8uDvDfJk2qDBW7yM

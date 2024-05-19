@@ -1,5 +1,6 @@
 ---
 title: "Inner Fire (Ifrit)"
+draft: true
 noteType: ":luggage:"
 aliases: "Inner Fire (Ifrit)"
 foundryId: Item.U2yutE3WsslOMXCD

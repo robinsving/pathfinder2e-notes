@@ -1,5 +1,6 @@
 ---
 title: "Dash of Herbs"
+draft: true
 noteType: ":luggage:"
 aliases: "Dash of Herbs"
 foundryId: Item.E7EVAg77JHrG5Ze3

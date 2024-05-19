@@ -1,5 +1,6 @@
 ---
 title: "Rain of Bolts"
+draft: true
 noteType: ":luggage:"
 aliases: "Rain of Bolts"
 foundryId: Item.4u8sZ9uEdSdRrhCU

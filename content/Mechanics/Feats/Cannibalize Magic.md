@@ -1,5 +1,6 @@
 ---
 title: "Cannibalize Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Cannibalize Magic"
 foundryId: Item.BLNVWjfznj6JAmHl

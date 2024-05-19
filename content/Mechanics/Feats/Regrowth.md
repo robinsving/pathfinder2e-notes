@@ -1,5 +1,6 @@
 ---
 title: "Regrowth"
+draft: true
 noteType: ":luggage:"
 aliases: "Regrowth"
 foundryId: Item.QKVAL2DsyaWwI2aA

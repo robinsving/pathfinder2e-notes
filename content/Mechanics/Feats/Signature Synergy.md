@@ -1,5 +1,6 @@
 ---
 title: "Signature Synergy"
+draft: true
 noteType: ":luggage:"
 aliases: "Signature Synergy"
 foundryId: Item.Xor1e2MtF8jjNDuu

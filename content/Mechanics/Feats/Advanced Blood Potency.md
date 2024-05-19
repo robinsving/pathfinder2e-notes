@@ -1,5 +1,6 @@
 ---
 title: "Advanced Blood Potency"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Blood Potency"
 foundryId: Item.ZFGYB9fTyVCAIBVg

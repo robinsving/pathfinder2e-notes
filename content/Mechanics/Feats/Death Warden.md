@@ -1,5 +1,6 @@
 ---
 title: "Death Warden"
+draft: true
 noteType: ":luggage:"
 aliases: "Death Warden"
 foundryId: Item.scrW04EId22kAeZg

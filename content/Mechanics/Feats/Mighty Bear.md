@@ -1,5 +1,6 @@
 ---
 title: "Mighty Bear"
+draft: true
 noteType: ":luggage:"
 aliases: "Mighty Bear"
 foundryId: Item.SjqmByvU704Y6jfE

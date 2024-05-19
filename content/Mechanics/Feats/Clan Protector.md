@@ -1,5 +1,6 @@
 ---
 title: "Clan Protector"
+draft: true
 noteType: ":luggage:"
 aliases: "Clan Protector"
 foundryId: Item.c6tpHpaZ1JBFRlzR

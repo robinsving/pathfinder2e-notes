@@ -1,5 +1,6 @@
 ---
 title: "Remove Presence"
+draft: true
 noteType: ":luggage:"
 aliases: "Remove Presence"
 foundryId: Item.n18nrIRao084FlvY

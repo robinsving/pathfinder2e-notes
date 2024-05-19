@@ -1,5 +1,6 @@
 ---
 title: "Winter Sleet"
+draft: true
 noteType: ":luggage:"
 aliases: "Winter Sleet"
 foundryId: Item.BzGDZj4eN31OtF12

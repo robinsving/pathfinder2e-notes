@@ -1,5 +1,6 @@
 ---
 title: "Second Thoughts"
+draft: true
 noteType: ":luggage:"
 aliases: "Second Thoughts"
 foundryId: Item.8wVNsoIrB2lC7QC6

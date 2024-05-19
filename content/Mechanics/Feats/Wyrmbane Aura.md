@@ -1,5 +1,6 @@
 ---
 title: "Wyrmbane Aura"
+draft: true
 noteType: ":luggage:"
 aliases: "Wyrmbane Aura"
 foundryId: Item.4IHoUlzndRzdzYWf

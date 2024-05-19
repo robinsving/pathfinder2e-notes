@@ -1,5 +1,6 @@
 ---
 title: "Foil Senses"
+draft: true
 noteType: ":luggage:"
 aliases: "Foil Senses"
 foundryId: Item.LUM4MDlRDlU5BioC

@@ -1,5 +1,6 @@
 ---
 title: "Poison Resistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Poison Resistance"
 foundryId: Item.yr1dG7lnTwRIoaQk

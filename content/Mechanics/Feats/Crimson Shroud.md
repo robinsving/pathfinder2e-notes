@@ -1,5 +1,6 @@
 ---
 title: "Crimson Shroud"
+draft: true
 noteType: ":luggage:"
 aliases: "Crimson Shroud"
 foundryId: Item.ia9HZnBx6DSuKySQ

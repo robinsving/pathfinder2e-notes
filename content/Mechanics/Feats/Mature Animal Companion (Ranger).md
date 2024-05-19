@@ -1,5 +1,6 @@
 ---
 title: "Mature Animal Companion (Ranger)"
+draft: true
 noteType: ":luggage:"
 aliases: "Mature Animal Companion (Ranger)"
 foundryId: Item.WS8EaDg60ld2sDCG

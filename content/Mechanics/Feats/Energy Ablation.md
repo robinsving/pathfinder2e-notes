@@ -1,5 +1,6 @@
 ---
 title: "Energy Ablation"
+draft: true
 noteType: ":luggage:"
 aliases: "Energy Ablation"
 foundryId: Item.37D8mibXWiTnQbXG

@@ -1,5 +1,6 @@
 ---
 title: "Pierce The Light"
+draft: true
 noteType: ":luggage:"
 aliases: "Pierce The Light"
 foundryId: Item.1t2SICfeNZEShbZA

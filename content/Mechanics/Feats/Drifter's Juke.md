@@ -1,5 +1,6 @@
 ---
 title: "Drifter's Juke"
+draft: true
 noteType: ":luggage:"
 aliases: "Drifter's Juke"
 foundryId: Item.ZwaKdZtFubOrib9f

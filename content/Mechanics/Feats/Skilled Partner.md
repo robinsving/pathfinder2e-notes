@@ -1,5 +1,6 @@
 ---
 title: "Skilled Partner"
+draft: true
 noteType: ":luggage:"
 aliases: "Skilled Partner"
 foundryId: Item.IFmzhpcW5TlAf2eK

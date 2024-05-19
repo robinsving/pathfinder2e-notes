@@ -1,5 +1,6 @@
 ---
 title: "Thoughtsense"
+draft: true
 noteType: ":luggage:"
 aliases: "Thoughtsense"
 foundryId: Item.GF2RvVbnfgpGMCkH

@@ -1,5 +1,6 @@
 ---
 title: "Sharp Fangs"
+draft: true
 noteType: ":luggage:"
 aliases: "Sharp Fangs"
 foundryId: Item.gJm1PAYaP11rH5jp

@@ -1,5 +1,6 @@
 ---
 title: "Implausible Purchase (Rogue)"
+draft: true
 noteType: ":luggage:"
 aliases: "Implausible Purchase (Rogue)"
 foundryId: Item.tOCGL8jznxiZJUvv

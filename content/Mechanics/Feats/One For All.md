@@ -1,5 +1,6 @@
 ---
 title: "One For All"
+draft: true
 noteType: ":luggage:"
 aliases: "One For All"
 foundryId: Item.0DmdoFoD2fI9s3Cn

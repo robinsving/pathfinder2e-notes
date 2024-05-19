@@ -1,5 +1,6 @@
 ---
 title: "Sense Ki"
+draft: true
 noteType: ":luggage:"
 aliases: "Sense Ki"
 foundryId: Item.vdcRQEm5oORJ79au

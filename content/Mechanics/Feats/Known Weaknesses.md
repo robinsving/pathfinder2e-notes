@@ -1,5 +1,6 @@
 ---
 title: "Known Weaknesses"
+draft: true
 noteType: ":luggage:"
 aliases: "Known Weaknesses"
 foundryId: Item.Wu4lHvAvHuZx19Fd

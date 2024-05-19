@@ -1,5 +1,6 @@
 ---
 title: "Versatile Font"
+draft: true
 noteType: ":luggage:"
 aliases: "Versatile Font"
 foundryId: Item.teOgZnAsfdMiQzjL

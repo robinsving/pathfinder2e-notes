@@ -1,5 +1,6 @@
 ---
 title: "Consolidated Overlay Panopticon"
+draft: true
 noteType: ":luggage:"
 aliases: "Consolidated Overlay Panopticon"
 foundryId: Item.WSjuEHZ8lmaG9ZXP

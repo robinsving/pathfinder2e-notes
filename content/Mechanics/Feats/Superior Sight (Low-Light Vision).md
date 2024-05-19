@@ -1,5 +1,6 @@
 ---
 title: "Superior Sight (Low-Light Vision)"
+draft: true
 noteType: ":luggage:"
 aliases: "Superior Sight (Low-Light Vision)"
 foundryId: Item.otiKesbXwrvAxVm1

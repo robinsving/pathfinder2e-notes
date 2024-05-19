@@ -1,5 +1,6 @@
 ---
 title: "Diverting Vortex"
+draft: true
 noteType: ":luggage:"
 aliases: "Diverting Vortex"
 foundryId: Item.PPtYinsrNuJf9qWK

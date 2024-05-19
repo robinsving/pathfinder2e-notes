@@ -1,5 +1,6 @@
 ---
 title: "Flinging Shove"
+draft: true
 noteType: ":luggage:"
 aliases: "Flinging Shove"
 foundryId: Item.doCRRFLZfS3Wl4rV

@@ -1,5 +1,6 @@
 ---
 title: "Quill Spray"
+draft: true
 noteType: ":luggage:"
 aliases: "Quill Spray"
 foundryId: Item.VGYU9T22MVd5DX1d

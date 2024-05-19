@@ -1,5 +1,6 @@
 ---
 title: "Blasting Beams"
+draft: true
 noteType: ":luggage:"
 aliases: "Blasting Beams"
 foundryId: Item.2r3ZslGj7JqgmWfq

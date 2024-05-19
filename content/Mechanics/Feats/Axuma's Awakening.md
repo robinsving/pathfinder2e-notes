@@ -1,5 +1,6 @@
 ---
 title: "Axuma's Awakening"
+draft: true
 noteType: ":luggage:"
 aliases: "Axuma's Awakening"
 foundryId: Item.lVzdPemcd5ZejSFD

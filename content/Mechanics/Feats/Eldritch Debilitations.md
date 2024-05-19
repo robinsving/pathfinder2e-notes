@@ -1,5 +1,6 @@
 ---
 title: "Eldritch Debilitations"
+draft: true
 noteType: ":luggage:"
 aliases: "Eldritch Debilitations"
 foundryId: Item.yyunx9YVTJXeaRgX

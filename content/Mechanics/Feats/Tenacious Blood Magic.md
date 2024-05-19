@@ -1,5 +1,6 @@
 ---
 title: "Tenacious Blood Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Tenacious Blood Magic"
 foundryId: Item.iS1Ha5y4I173AhOn

@@ -1,5 +1,6 @@
 ---
 title: "Resounding Blow"
+draft: true
 noteType: ":luggage:"
 aliases: "Resounding Blow"
 foundryId: Item.w6WLsdFCLTWxIC67

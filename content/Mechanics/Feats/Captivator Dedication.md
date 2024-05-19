@@ -1,5 +1,6 @@
 ---
 title: "Captivator Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Captivator Dedication"
 foundryId: Item.dcYFlJ5CfxOQ9OIM

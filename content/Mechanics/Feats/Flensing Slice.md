@@ -1,5 +1,6 @@
 ---
 title: "Flensing Slice"
+draft: true
 noteType: ":luggage:"
 aliases: "Flensing Slice"
 foundryId: Item.B0p8Zny8nYvCqCyf

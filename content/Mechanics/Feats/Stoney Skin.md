@@ -1,5 +1,6 @@
 ---
 title: "Stoney Skin"
+draft: true
 noteType: ":luggage:"
 aliases: "Stoney Skin"
 foundryId: Item.R5uMuHpKNivxcOn1

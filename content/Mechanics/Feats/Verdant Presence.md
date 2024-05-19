@@ -1,5 +1,6 @@
 ---
 title: "Verdant Presence"
+draft: true
 noteType: ":luggage:"
 aliases: "Verdant Presence"
 foundryId: Item.qhsSGYXWNto7w1gz

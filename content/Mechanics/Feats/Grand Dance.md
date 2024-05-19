@@ -1,5 +1,6 @@
 ---
 title: "Grand Dance"
+draft: true
 noteType: ":luggage:"
 aliases: "Grand Dance"
 foundryId: Item.JENoo8fWU9HZP8UZ

@@ -1,5 +1,6 @@
 ---
 title: "Perfect Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Perfect Strike"
 foundryId: Item.wk8bKrlXFO5Q5Abc

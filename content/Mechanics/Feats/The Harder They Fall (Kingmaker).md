@@ -1,5 +1,6 @@
 ---
 title: "The Harder They Fall (Kingmaker)"
+draft: true
 noteType: ":luggage:"
 aliases: "The Harder They Fall (Kingmaker)"
 foundryId: Item.VRtkKqpQAws1paqf

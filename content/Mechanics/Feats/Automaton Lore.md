@@ -1,5 +1,6 @@
 ---
 title: "Automaton Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Automaton Lore"
 foundryId: Item.TxFwfFAbRG22xZPx

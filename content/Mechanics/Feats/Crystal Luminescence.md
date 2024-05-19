@@ -1,5 +1,6 @@
 ---
 title: "Crystal Luminescence"
+draft: true
 noteType: ":luggage:"
 aliases: "Crystal Luminescence"
 foundryId: Item.eXAd0RZyObJDGKFf

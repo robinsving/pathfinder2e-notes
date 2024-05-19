@@ -1,5 +1,6 @@
 ---
 title: "First World Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "First World Magic"
 foundryId: Item.7vBcmxGRzJFy8d58

@@ -1,5 +1,6 @@
 ---
 title: "Armored Exercise"
+draft: true
 noteType: ":luggage:"
 aliases: "Armored Exercise"
 foundryId: Item.Q3tDxLZatzrNpFnm

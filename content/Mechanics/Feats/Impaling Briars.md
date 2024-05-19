@@ -1,5 +1,6 @@
 ---
 title: "Impaling Briars"
+draft: true
 noteType: ":luggage:"
 aliases: "Impaling Briars"
 foundryId: Item.c3uuubzFO84F2CXo

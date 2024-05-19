@@ -1,5 +1,6 @@
 ---
 title: "Strident Command"
+draft: true
 noteType: ":luggage:"
 aliases: "Strident Command"
 foundryId: Item.l20cLQQadovUhikG

@@ -1,5 +1,6 @@
 ---
 title: "Masked Casting"
+draft: true
 noteType: ":luggage:"
 aliases: "Masked Casting"
 foundryId: Item.AeVdSsLOgGItH3Fq

@@ -1,5 +1,6 @@
 ---
 title: "Weapon-Rune Shifter"
+draft: true
 noteType: ":luggage:"
 aliases: "Weapon-Rune Shifter"
 foundryId: Item.6h9edduqz17z0NZB

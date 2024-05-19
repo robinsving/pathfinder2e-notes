@@ -1,5 +1,6 @@
 ---
 title: "Necromantic Heir"
+draft: true
 noteType: ":luggage:"
 aliases: "Necromantic Heir"
 foundryId: Item.CHr3GIot2Xa8ITpf

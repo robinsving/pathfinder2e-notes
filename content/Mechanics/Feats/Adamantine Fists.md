@@ -1,5 +1,6 @@
 ---
 title: "Adamantine Fists"
+draft: true
 noteType: ":luggage:"
 aliases: "Adamantine Fists"
 foundryId: Item.SVivwcBjU4HA8HTc

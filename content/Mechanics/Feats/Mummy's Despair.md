@@ -1,5 +1,6 @@
 ---
 title: "Mummy's Despair"
+draft: true
 noteType: ":luggage:"
 aliases: "Mummy's Despair"
 foundryId: Item.9hIf47fMDk01mK4w

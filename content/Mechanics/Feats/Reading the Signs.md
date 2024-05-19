@@ -1,5 +1,6 @@
 ---
 title: "Reading the Signs"
+draft: true
 noteType: ":luggage:"
 aliases: "Reading the Signs"
 foundryId: Item.LHiJ4xgHtN1O95WK

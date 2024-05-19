@@ -1,5 +1,6 @@
 ---
 title: "Glad-Hand"
+draft: true
 noteType: ":luggage:"
 aliases: "Glad-Hand"
 foundryId: Item.Ob5R7NpGzB6I8sEk

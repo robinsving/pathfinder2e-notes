@@ -1,5 +1,6 @@
 ---
 title: "Silent Step"
+draft: true
 noteType: ":luggage:"
 aliases: "Silent Step"
 foundryId: Item.GR4ZeUG9iizAyrV5

@@ -1,5 +1,6 @@
 ---
 title: "Speedy Rituals"
+draft: true
 noteType: ":luggage:"
 aliases: "Speedy Rituals"
 foundryId: Item.3tkykQPLpmD0hrvN

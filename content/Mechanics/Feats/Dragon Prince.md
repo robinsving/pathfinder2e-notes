@@ -1,5 +1,6 @@
 ---
 title: "Dragon Prince"
+draft: true
 noteType: ":luggage:"
 aliases: "Dragon Prince"
 foundryId: Item.AEUf1QGhlMirv1Go

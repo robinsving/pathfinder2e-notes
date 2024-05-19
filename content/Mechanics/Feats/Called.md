@@ -1,5 +1,6 @@
 ---
 title: "Called"
+draft: true
 noteType: ":luggage:"
 aliases: "Called"
 foundryId: Item.bFXTEuFnWGkdO2bD

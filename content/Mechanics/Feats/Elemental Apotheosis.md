@@ -1,5 +1,6 @@
 ---
 title: "Elemental Apotheosis"
+draft: true
 noteType: ":luggage:"
 aliases: "Elemental Apotheosis"
 foundryId: Item.KeDKE8q921KCeMzo

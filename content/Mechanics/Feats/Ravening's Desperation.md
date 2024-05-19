@@ -1,5 +1,6 @@
 ---
 title: "Ravening's Desperation"
+draft: true
 noteType: ":luggage:"
 aliases: "Ravening's Desperation"
 foundryId: Item.wpIoSWU5HL5TgBDv

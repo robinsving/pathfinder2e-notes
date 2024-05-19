@@ -1,5 +1,6 @@
 ---
 title: "Shaped Contaminant"
+draft: true
 noteType: ":luggage:"
 aliases: "Shaped Contaminant"
 foundryId: Item.W9S0dLomIFmhCInn

@@ -1,5 +1,6 @@
 ---
 title: "For Love, For Lightning"
+draft: true
 noteType: ":luggage:"
 aliases: "For Love, For Lightning"
 foundryId: Item.qSpqGjCqFPKxHA6c

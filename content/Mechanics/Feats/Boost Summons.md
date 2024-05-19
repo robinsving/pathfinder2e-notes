@@ -1,5 +1,6 @@
 ---
 title: "Boost Summons"
+draft: true
 noteType: ":luggage:"
 aliases: "Boost Summons"
 foundryId: Item.OBlzxq2fekNAIWy1

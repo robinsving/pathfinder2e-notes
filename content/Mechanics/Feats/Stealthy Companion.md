@@ -1,5 +1,6 @@
 ---
 title: "Stealthy Companion"
+draft: true
 noteType: ":luggage:"
 aliases: "Stealthy Companion"
 foundryId: Item.HpZjOROQtq3fLQTu

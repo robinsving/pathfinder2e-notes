@@ -1,5 +1,6 @@
 ---
 title: "Wave the Flag"
+draft: true
 noteType: ":luggage:"
 aliases: "Wave the Flag"
 foundryId: Item.nlXbTVFoGIc8KEOH

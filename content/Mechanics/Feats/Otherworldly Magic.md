@@ -1,5 +1,6 @@
 ---
 title: "Otherworldly Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Otherworldly Magic"
 foundryId: Item.fCZL0znYGw8ROUr4

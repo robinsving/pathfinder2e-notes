@@ -1,5 +1,6 @@
 ---
 title: "Replenishment of War"
+draft: true
 noteType: ":luggage:"
 aliases: "Replenishment of War"
 foundryId: Item.opBnsR3hvH8AbifV

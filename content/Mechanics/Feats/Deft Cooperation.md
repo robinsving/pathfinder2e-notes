@@ -1,5 +1,6 @@
 ---
 title: "Deft Cooperation"
+draft: true
 noteType: ":luggage:"
 aliases: "Deft Cooperation"
 foundryId: Item.oXjqlwdRwDvdrZc5

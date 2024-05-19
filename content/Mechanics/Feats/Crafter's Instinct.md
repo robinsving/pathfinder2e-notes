@@ -1,5 +1,6 @@
 ---
 title: "Crafter's Instinct"
+draft: true
 noteType: ":luggage:"
 aliases: "Crafter's Instinct"
 foundryId: Item.s9DaWcrYr3j9SHv6

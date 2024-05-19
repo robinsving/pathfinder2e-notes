@@ -1,5 +1,6 @@
 ---
 title: "Pack Stalker"
+draft: true
 noteType: ":luggage:"
 aliases: "Pack Stalker"
 foundryId: Item.8xV4Lovkm68rAtKH

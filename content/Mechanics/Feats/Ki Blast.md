@@ -1,5 +1,6 @@
 ---
 title: "Ki Blast"
+draft: true
 noteType: ":luggage:"
 aliases: "Ki Blast"
 foundryId: Item.MgYLe6S7NRIYPNzi

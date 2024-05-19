@@ -1,5 +1,6 @@
 ---
 title: "Beastmaster's Trance"
+draft: true
 noteType: ":luggage:"
 aliases: "Beastmaster's Trance"
 foundryId: Item.IYdNZPvhjpXe6rzT

@@ -1,5 +1,6 @@
 ---
 title: "Soul Arsenal"
+draft: true
 noteType: ":luggage:"
 aliases: "Soul Arsenal"
 foundryId: Item.mXJYYisLAQTFFjKq

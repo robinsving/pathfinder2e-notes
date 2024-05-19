@@ -1,5 +1,6 @@
 ---
 title: "Dragon Disciple Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Dragon Disciple Dedication"
 foundryId: Item.GzB9V75zCQU8hlHg

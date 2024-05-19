@@ -1,5 +1,6 @@
 ---
 title: "Read Psychometric Resonance"
+draft: true
 noteType: ":luggage:"
 aliases: "Read Psychometric Resonance"
 foundryId: Item.N0PYirFFBd6L6VvJ

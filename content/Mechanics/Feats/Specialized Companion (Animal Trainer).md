@@ -1,5 +1,6 @@
 ---
 title: "Specialized Companion (Animal Trainer)"
+draft: true
 noteType: ":luggage:"
 aliases: "Specialized Companion (Animal Trainer)"
 foundryId: Item.jlvm0DQKJWE2Y0Q7

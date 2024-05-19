@@ -1,5 +1,6 @@
 ---
 title: "Scion of Domora Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Scion of Domora Dedication"
 foundryId: Item.eZ2XlZmi26gbPkiD

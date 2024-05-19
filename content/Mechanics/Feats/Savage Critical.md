@@ -1,5 +1,6 @@
 ---
 title: "Savage Critical"
+draft: true
 noteType: ":luggage:"
 aliases: "Savage Critical"
 foundryId: Item.j7Rzmeakmkupi9Zv

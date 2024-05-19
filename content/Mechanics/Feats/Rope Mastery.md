@@ -1,5 +1,6 @@
 ---
 title: "Rope Mastery"
+draft: true
 noteType: ":luggage:"
 aliases: "Rope Mastery"
 foundryId: Item.dLhXHCCFejv5iNSA

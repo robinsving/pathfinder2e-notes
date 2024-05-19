@@ -1,5 +1,6 @@
 ---
 title: "Destructive Block"
+draft: true
 noteType: ":luggage:"
 aliases: "Destructive Block"
 foundryId: Item.nDDyog8GqUU5s5cK

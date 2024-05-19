@@ -1,5 +1,6 @@
 ---
 title: "Aura of Courage"
+draft: true
 noteType: ":luggage:"
 aliases: "Aura of Courage"
 foundryId: Item.9dixBhtdm1lQNDAx

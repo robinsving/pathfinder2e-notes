@@ -1,5 +1,6 @@
 ---
 title: "Ghoran Weapon Familiarity"
+draft: true
 noteType: ":luggage:"
 aliases: "Ghoran Weapon Familiarity"
 foundryId: Item.lRxkL8mOdSa36Fml

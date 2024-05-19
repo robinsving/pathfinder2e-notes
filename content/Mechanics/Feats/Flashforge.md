@@ -1,5 +1,6 @@
 ---
 title: "Flashforge"
+draft: true
 noteType: ":luggage:"
 aliases: "Flashforge"
 foundryId: Item.QQCDogaRh95AqSb1

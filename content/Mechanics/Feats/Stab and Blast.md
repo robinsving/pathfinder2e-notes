@@ -1,5 +1,6 @@
 ---
 title: "Stab and Blast"
+draft: true
 noteType: ":luggage:"
 aliases: "Stab and Blast"
 foundryId: Item.QOdgfSNS9uMwhTDk

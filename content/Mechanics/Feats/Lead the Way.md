@@ -1,5 +1,6 @@
 ---
 title: "Lead the Way"
+draft: true
 noteType: ":luggage:"
 aliases: "Lead the Way"
 foundryId: Item.hXmk4gwMiYLxonzD

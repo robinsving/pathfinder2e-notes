@@ -1,5 +1,6 @@
 ---
 title: "Uplifting Winds"
+draft: true
 noteType: ":luggage:"
 aliases: "Uplifting Winds"
 foundryId: Item.wVnEjYVxqAXJb6mE

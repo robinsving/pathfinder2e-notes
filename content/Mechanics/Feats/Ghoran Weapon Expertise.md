@@ -1,5 +1,6 @@
 ---
 title: "Ghoran Weapon Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Ghoran Weapon Expertise"
 foundryId: Item.h5FaLto8lkmnOQg2

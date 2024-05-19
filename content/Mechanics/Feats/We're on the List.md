@@ -1,5 +1,6 @@
 ---
 title: "We're on the List"
+draft: true
 noteType: ":luggage:"
 aliases: "We're on the List"
 foundryId: Item.vwKunUwevI8zNr4d

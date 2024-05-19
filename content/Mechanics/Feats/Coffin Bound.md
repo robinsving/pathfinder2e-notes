@@ -1,5 +1,6 @@
 ---
 title: "Coffin Bound"
+draft: true
 noteType: ":luggage:"
 aliases: "Coffin Bound"
 foundryId: Item.Ui2ZccUWPCOHPZug

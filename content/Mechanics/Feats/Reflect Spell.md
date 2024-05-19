@@ -1,5 +1,6 @@
 ---
 title: "Reflect Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Reflect Spell"
 foundryId: Item.sE4bp9EUTt3QVFj0

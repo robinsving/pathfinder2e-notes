@@ -1,5 +1,6 @@
 ---
 title: "Shrouded Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Shrouded Magic"
 foundryId: Item.l89KjHwWamDAzf2G

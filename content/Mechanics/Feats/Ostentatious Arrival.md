@@ -1,5 +1,6 @@
 ---
 title: "Ostentatious Arrival"
+draft: true
 noteType: ":luggage:"
 aliases: "Ostentatious Arrival"
 foundryId: Item.UZL8Nzx8mqMBbf7n

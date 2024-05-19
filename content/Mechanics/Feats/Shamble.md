@@ -1,5 +1,6 @@
 ---
 title: "Shamble"
+draft: true
 noteType: ":luggage:"
 aliases: "Shamble"
 foundryId: Item.fhTdCE9XgzAw2ATP

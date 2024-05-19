@@ -1,5 +1,6 @@
 ---
 title: "Affliction Mercy"
+draft: true
 noteType: ":luggage:"
 aliases: "Affliction Mercy"
 foundryId: Item.UoubHivfGlJ1P0Ns

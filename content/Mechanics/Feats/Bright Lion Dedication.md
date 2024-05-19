@@ -1,5 +1,6 @@
 ---
 title: "Bright Lion Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Bright Lion Dedication"
 foundryId: Item.aMJnKTtgTLn6tQ54

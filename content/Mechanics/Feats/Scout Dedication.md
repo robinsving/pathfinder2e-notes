@@ -1,5 +1,6 @@
 ---
 title: "Scout Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Scout Dedication"
 foundryId: Item.GlS1gyaYio2jg7zU

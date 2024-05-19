@@ -1,5 +1,6 @@
 ---
 title: "Seven-Part Link"
+draft: true
 noteType: ":luggage:"
 aliases: "Seven-Part Link"
 foundryId: Item.ir4f8tFuzEMDUoez

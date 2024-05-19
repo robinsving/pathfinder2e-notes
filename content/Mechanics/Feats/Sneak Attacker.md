@@ -1,5 +1,6 @@
 ---
 title: "Sneak Attacker"
+draft: true
 noteType: ":luggage:"
 aliases: "Sneak Attacker"
 foundryId: Item.pDDXkULakmDRd8Yt

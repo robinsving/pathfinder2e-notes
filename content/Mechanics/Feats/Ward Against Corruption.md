@@ -1,5 +1,6 @@
 ---
 title: "Ward Against Corruption"
+draft: true
 noteType: ":luggage:"
 aliases: "Ward Against Corruption"
 foundryId: Item.PHvns6Bb01d1ry50

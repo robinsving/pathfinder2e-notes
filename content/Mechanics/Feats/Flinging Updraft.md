@@ -1,5 +1,6 @@
 ---
 title: "Flinging Updraft"
+draft: true
 noteType: ":luggage:"
 aliases: "Flinging Updraft"
 foundryId: Item.cZMlzVQxX8gDPQ6c

@@ -1,5 +1,6 @@
 ---
 title: "Lead The Pack"
+draft: true
 noteType: ":luggage:"
 aliases: "Lead The Pack"
 foundryId: Item.JA0TCCQIfZwmH3qM

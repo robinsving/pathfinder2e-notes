@@ -1,5 +1,6 @@
 ---
 title: "Wavetouched Paragon"
+draft: true
 noteType: ":luggage:"
 aliases: "Wavetouched Paragon"
 foundryId: Item.gwfZyP9mt1z7wNEz

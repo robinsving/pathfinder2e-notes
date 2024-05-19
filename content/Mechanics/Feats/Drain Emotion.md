@@ -1,5 +1,6 @@
 ---
 title: "Drain Emotion"
+draft: true
 noteType: ":luggage:"
 aliases: "Drain Emotion"
 foundryId: Item.ajTBZoE1aNyopF2s

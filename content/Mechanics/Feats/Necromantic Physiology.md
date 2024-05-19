@@ -1,5 +1,6 @@
 ---
 title: "Necromantic Physiology"
+draft: true
 noteType: ":luggage:"
 aliases: "Necromantic Physiology"
 foundryId: Item.GiB68Xgu8OmKKYk4

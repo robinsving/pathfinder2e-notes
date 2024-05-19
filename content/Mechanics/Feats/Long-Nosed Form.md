@@ -1,5 +1,6 @@
 ---
 title: "Long-Nosed Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Long-Nosed Form"
 foundryId: Item.eXYtEpuBEZlEaWtp

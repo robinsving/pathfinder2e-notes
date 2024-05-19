@@ -1,5 +1,6 @@
 ---
 title: "Drain Soul Cage"
+draft: true
 noteType: ":luggage:"
 aliases: "Drain Soul Cage"
 foundryId: Item.jJYprrRHgKHhRWdk

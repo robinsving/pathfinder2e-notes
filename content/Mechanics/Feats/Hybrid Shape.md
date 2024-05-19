@@ -1,5 +1,6 @@
 ---
 title: "Hybrid Shape"
+draft: true
 noteType: ":luggage:"
 aliases: "Hybrid Shape"
 foundryId: Item.bHiQCw44tjchjE8z

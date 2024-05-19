@@ -1,5 +1,6 @@
 ---
 title: "Archwizard's Might"
+draft: true
 noteType: ":luggage:"
 aliases: "Archwizard's Might"
 foundryId: Item.hpUfSm2WHlYFlt8z

@@ -1,5 +1,6 @@
 ---
 title: "Bloodline Conduit"
+draft: true
 noteType: ":luggage:"
 aliases: "Bloodline Conduit"
 foundryId: Item.9nGxr4IdEl3UNbLO

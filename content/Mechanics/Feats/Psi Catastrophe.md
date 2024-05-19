@@ -1,5 +1,6 @@
 ---
 title: "Psi Catastrophe"
+draft: true
 noteType: ":luggage:"
 aliases: "Psi Catastrophe"
 foundryId: Item.oODDHVjsZqEl8CHX

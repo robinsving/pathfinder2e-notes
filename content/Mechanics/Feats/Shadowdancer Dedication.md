@@ -1,5 +1,6 @@
 ---
 title: "Shadowdancer Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Shadowdancer Dedication"
 foundryId: Item.XJMuX7UVcVLBokm8

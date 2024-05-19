@@ -1,5 +1,6 @@
 ---
 title: "Suli Amir"
+draft: true
 noteType: ":luggage:"
 aliases: "Suli Amir"
 foundryId: Item.QZWzdbMta0XqxH3c

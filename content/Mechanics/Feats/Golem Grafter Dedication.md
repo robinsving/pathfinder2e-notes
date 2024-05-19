@@ -1,5 +1,6 @@
 ---
 title: "Golem Grafter Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Golem Grafter Dedication"
 foundryId: Item.CI7Gr5EHMd7PHyfp

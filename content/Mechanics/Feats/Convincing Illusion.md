@@ -1,5 +1,6 @@
 ---
 title: "Convincing Illusion"
+draft: true
 noteType: ":luggage:"
 aliases: "Convincing Illusion"
 foundryId: Item.RL3Ym1cfLRRwRU8Q

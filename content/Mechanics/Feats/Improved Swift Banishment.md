@@ -1,5 +1,6 @@
 ---
 title: "Improved Swift Banishment"
+draft: true
 noteType: ":luggage:"
 aliases: "Improved Swift Banishment"
 foundryId: Item.7JadwsE0KSlFe6f0

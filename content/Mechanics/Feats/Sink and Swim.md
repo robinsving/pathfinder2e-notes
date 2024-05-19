@@ -1,5 +1,6 @@
 ---
 title: "Sink and Swim"
+draft: true
 noteType: ":luggage:"
 aliases: "Sink and Swim"
 foundryId: Item.ZTdjgVzs4VmGKjQF

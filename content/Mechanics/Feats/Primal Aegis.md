@@ -1,5 +1,6 @@
 ---
 title: "Primal Aegis"
+draft: true
 noteType: ":luggage:"
 aliases: "Primal Aegis"
 foundryId: Item.KanwxUuuRC7qJdLD

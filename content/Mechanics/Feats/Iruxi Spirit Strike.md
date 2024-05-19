@@ -1,5 +1,6 @@
 ---
 title: "Iruxi Spirit Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Iruxi Spirit Strike"
 foundryId: Item.J6AQwwK2g0WuxCvD

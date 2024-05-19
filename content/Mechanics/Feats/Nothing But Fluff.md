@@ -1,5 +1,6 @@
 ---
 title: "Nothing But Fluff"
+draft: true
 noteType: ":luggage:"
 aliases: "Nothing But Fluff"
 foundryId: Item.jmdjBUfBJvNc5xgW

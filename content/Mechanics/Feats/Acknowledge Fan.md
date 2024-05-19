@@ -1,5 +1,6 @@
 ---
 title: "Acknowledge Fan"
+draft: true
 noteType: ":luggage:"
 aliases: "Acknowledge Fan"
 foundryId: Item.uCq9nW6dVRVq3VLD

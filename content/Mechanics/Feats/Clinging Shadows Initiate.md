@@ -1,5 +1,6 @@
 ---
 title: "Clinging Shadows Initiate"
+draft: true
 noteType: ":luggage:"
 aliases: "Clinging Shadows Initiate"
 foundryId: Item.j9rnT3E3Pvi3b464

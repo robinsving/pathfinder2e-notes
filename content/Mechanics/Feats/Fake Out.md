@@ -1,5 +1,6 @@
 ---
 title: "Fake Out"
+draft: true
 noteType: ":luggage:"
 aliases: "Fake Out"
 foundryId: Item.WNVJpVSCkGdctlhT

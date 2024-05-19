@@ -1,5 +1,6 @@
 ---
 title: "Cast Out"
+draft: true
 noteType: ":luggage:"
 aliases: "Cast Out"
 foundryId: Item.4FlCr83yfsaAGk2P

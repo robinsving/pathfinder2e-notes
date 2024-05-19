@@ -1,5 +1,6 @@
 ---
 title: "Advanced Warden"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Warden"
 foundryId: Item.v5BAtTVWKvA9OSyv

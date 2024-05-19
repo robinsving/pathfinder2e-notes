@@ -1,5 +1,6 @@
 ---
 title: "Reverse Engineering"
+draft: true
 noteType: ":luggage:"
 aliases: "Reverse Engineering"
 foundryId: Item.MlgHrG8fiNcz5O54

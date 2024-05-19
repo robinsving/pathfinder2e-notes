@@ -1,5 +1,6 @@
 ---
 title: "Electrify Armor"
+draft: true
 noteType: ":luggage:"
 aliases: "Electrify Armor"
 foundryId: Item.4Js52P2jBp2lhb9j

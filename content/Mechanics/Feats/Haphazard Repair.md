@@ -1,5 +1,6 @@
 ---
 title: "Haphazard Repair"
+draft: true
 noteType: ":luggage:"
 aliases: "Haphazard Repair"
 foundryId: Item.HsJawqgIqzESDOyP

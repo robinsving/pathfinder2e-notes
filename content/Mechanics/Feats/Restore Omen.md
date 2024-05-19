@@ -1,5 +1,6 @@
 ---
 title: "Restore Omen"
+draft: true
 noteType: ":luggage:"
 aliases: "Restore Omen"
 foundryId: Item.znbjA7V8owmc2bqB

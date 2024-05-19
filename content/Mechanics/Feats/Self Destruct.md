@@ -1,5 +1,6 @@
 ---
 title: "Self Destruct"
+draft: true
 noteType: ":luggage:"
 aliases: "Self Destruct"
 foundryId: Item.h0VVMJnScAh7lg6u

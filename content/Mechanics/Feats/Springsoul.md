@@ -1,5 +1,6 @@
 ---
 title: "Springsoul"
+draft: true
 noteType: ":luggage:"
 aliases: "Springsoul"
 foundryId: Item.nUpVm6Z5N0RTQfHq

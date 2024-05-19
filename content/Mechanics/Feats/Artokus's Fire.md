@@ -1,5 +1,6 @@
 ---
 title: "Artokus's Fire"
+draft: true
 noteType: ":luggage:"
 aliases: "Artokus's Fire"
 foundryId: Item.Zctq36pJOcF4dkJp

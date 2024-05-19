@@ -1,5 +1,6 @@
 ---
 title: "Dark Persona's Presence"
+draft: true
 noteType: ":luggage:"
 aliases: "Dark Persona's Presence"
 foundryId: Item.uKyDHuaE7JmV8xHI

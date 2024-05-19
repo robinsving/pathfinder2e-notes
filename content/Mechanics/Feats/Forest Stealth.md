@@ -1,5 +1,6 @@
 ---
 title: "Forest Stealth"
+draft: true
 noteType: ":luggage:"
 aliases: "Forest Stealth"
 foundryId: Item.Ukk8UTynBUeMBRug

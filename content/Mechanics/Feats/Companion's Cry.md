@@ -1,5 +1,6 @@
 ---
 title: "Companion's Cry"
+draft: true
 noteType: ":luggage:"
 aliases: "Companion's Cry"
 foundryId: Item.6rc1GfJJWvMfBk8J

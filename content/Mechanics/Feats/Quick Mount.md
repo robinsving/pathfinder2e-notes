@@ -1,5 +1,6 @@
 ---
 title: "Quick Mount"
+draft: true
 noteType: ":luggage:"
 aliases: "Quick Mount"
 foundryId: Item.Sep3jns7292sULkw

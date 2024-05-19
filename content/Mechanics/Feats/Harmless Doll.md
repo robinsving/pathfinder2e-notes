@@ -1,5 +1,6 @@
 ---
 title: "Harmless Doll"
+draft: true
 noteType: ":luggage:"
 aliases: "Harmless Doll"
 foundryId: Item.OAXaGWJ2CDU7rTPR

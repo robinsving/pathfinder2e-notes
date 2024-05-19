@@ -1,5 +1,6 @@
 ---
 title: "Directed Audience"
+draft: true
 noteType: ":luggage:"
 aliases: "Directed Audience"
 foundryId: Item.4ey3qA80V20j0rmJ

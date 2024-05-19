@@ -1,5 +1,6 @@
 ---
 title: "Nimble Shield Hand"
+draft: true
 noteType: ":luggage:"
 aliases: "Nimble Shield Hand"
 foundryId: Item.3vtwviryxV7LEGT1

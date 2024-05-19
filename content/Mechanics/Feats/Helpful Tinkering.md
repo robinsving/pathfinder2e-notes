@@ -1,5 +1,6 @@
 ---
 title: "Helpful Tinkering"
+draft: true
 noteType: ":luggage:"
 aliases: "Helpful Tinkering"
 foundryId: Item.Htf0AxPDa2rp5V5v

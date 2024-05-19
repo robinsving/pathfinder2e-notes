@@ -1,5 +1,6 @@
 ---
 title: "Fane's Escape"
+draft: true
 noteType: ":luggage:"
 aliases: "Fane's Escape"
 foundryId: Item.TLkcRh0qAayWoJTW

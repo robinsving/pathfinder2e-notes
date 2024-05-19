@@ -1,5 +1,6 @@
 ---
 title: "Enlightened Presence"
+draft: true
 noteType: ":luggage:"
 aliases: "Enlightened Presence"
 foundryId: Item.VTwGnZTpVIEjt8SZ

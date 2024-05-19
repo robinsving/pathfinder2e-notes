@@ -1,5 +1,6 @@
 ---
 title: "Snare Specialist"
+draft: true
 noteType: ":luggage:"
 aliases: "Snare Specialist"
 foundryId: Item.HXVhKiQRDMVFyzLr

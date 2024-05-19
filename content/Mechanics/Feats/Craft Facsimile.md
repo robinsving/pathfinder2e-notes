@@ -1,5 +1,6 @@
 ---
 title: "Craft Facsimile"
+draft: true
 noteType: ":luggage:"
 aliases: "Craft Facsimile"
 foundryId: Item.CBweU5iU2a2YdzNu

@@ -1,5 +1,6 @@
 ---
 title: "Aura of Vengeance"
+draft: true
 noteType: ":luggage:"
 aliases: "Aura of Vengeance"
 foundryId: Item.axtMQGodaJFD645z

@@ -1,5 +1,6 @@
 ---
 title: "Litany Of Depravity"
+draft: true
 noteType: ":luggage:"
 aliases: "Litany Of Depravity"
 foundryId: Item.smkhJcVlN5aPsk7D

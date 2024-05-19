@@ -1,5 +1,6 @@
 ---
 title: "Shall not Falter, Shall not Rout"
+draft: true
 noteType: ":luggage:"
 aliases: "Shall not Falter, Shall not Rout"
 foundryId: Item.F2UGvRzbqxQWOh1O

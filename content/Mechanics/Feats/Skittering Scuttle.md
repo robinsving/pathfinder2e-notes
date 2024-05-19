@@ -1,5 +1,6 @@
 ---
 title: "Skittering Scuttle"
+draft: true
 noteType: ":luggage:"
 aliases: "Skittering Scuttle"
 foundryId: Item.Ky8WuDZrttopo5Px

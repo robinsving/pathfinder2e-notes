@@ -1,5 +1,6 @@
 ---
 title: "Shadowcaster Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Shadowcaster Dedication"
 foundryId: Item.BDF0IyUwWQrqAaUG

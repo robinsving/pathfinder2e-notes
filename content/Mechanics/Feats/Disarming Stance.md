@@ -1,5 +1,6 @@
 ---
 title: "Disarming Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Disarming Stance"
 foundryId: Item.wLc6zzlxwrgiIFpL

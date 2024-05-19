@@ -1,5 +1,6 @@
 ---
 title: "Ambush Bladderwort"
+draft: true
 noteType: ":luggage:"
 aliases: "Ambush Bladderwort"
 foundryId: Item.cz3KlyK2ws69LAui

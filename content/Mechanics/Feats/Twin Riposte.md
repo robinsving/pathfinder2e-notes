@@ -1,5 +1,6 @@
 ---
 title: "Twin Riposte"
+draft: true
 noteType: ":luggage:"
 aliases: "Twin Riposte"
 foundryId: Item.vRFXPZnMzEXlQPch

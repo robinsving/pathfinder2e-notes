@@ -1,5 +1,6 @@
 ---
 title: "Rapid Response"
+draft: true
 noteType: ":luggage:"
 aliases: "Rapid Response"
 foundryId: Item.mIMdiykVyvMJPfgJ

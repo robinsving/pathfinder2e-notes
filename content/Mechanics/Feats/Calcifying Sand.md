@@ -1,5 +1,6 @@
 ---
 title: "Calcifying Sand"
+draft: true
 noteType: ":luggage:"
 aliases: "Calcifying Sand"
 foundryId: Item.6o7wOd1x0lHvUitt

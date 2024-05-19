@@ -1,5 +1,6 @@
 ---
 title: "Bend Space"
+draft: true
 noteType: ":luggage:"
 aliases: "Bend Space"
 foundryId: Item.OiosNYkvVWlzTRVQ

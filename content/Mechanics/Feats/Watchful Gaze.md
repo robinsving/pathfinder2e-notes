@@ -1,5 +1,6 @@
 ---
 title: "Watchful Gaze"
+draft: true
 noteType: ":luggage:"
 aliases: "Watchful Gaze"
 foundryId: Item.6p5EvpW8r65h7cNS

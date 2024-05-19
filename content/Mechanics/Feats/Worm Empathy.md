@@ -1,5 +1,6 @@
 ---
 title: "Worm Empathy"
+draft: true
 noteType: ":luggage:"
 aliases: "Worm Empathy"
 foundryId: Item.bEw5HIoB4JQf1iEf

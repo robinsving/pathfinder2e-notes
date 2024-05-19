@@ -1,5 +1,6 @@
 ---
 title: "Stalwart Standard"
+draft: true
 noteType: ":luggage:"
 aliases: "Stalwart Standard"
 foundryId: Item.qJsEwqTyc410lDfm

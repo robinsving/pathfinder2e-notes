@@ -1,5 +1,6 @@
 ---
 title: "Blood Component Substitution"
+draft: true
 noteType: ":luggage:"
 aliases: "Blood Component Substitution"
 foundryId: Item.63v6TPwZklqtI8D4

@@ -1,5 +1,6 @@
 ---
 title: "Elaborate Flourish"
+draft: true
 noteType: ":luggage:"
 aliases: "Elaborate Flourish"
 foundryId: Item.TSsM1Vrxvy14f9cL

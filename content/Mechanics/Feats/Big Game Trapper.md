@@ -1,5 +1,6 @@
 ---
 title: "Big Game Trapper"
+draft: true
 noteType: ":luggage:"
 aliases: "Big Game Trapper"
 foundryId: Item.e5HEIRmf9pI0EmXW

@@ -1,5 +1,6 @@
 ---
 title: "Target of Psychic Ire"
+draft: true
 noteType: ":luggage:"
 aliases: "Target of Psychic Ire"
 foundryId: Item.FmuRmrvVeQa2HfjT

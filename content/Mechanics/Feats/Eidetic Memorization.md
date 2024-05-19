@@ -1,5 +1,6 @@
 ---
 title: "Eidetic Memorization"
+draft: true
 noteType: ":luggage:"
 aliases: "Eidetic Memorization"
 foundryId: Item.5e4Bv1Qxto2dMhuY

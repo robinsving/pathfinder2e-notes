@@ -1,5 +1,6 @@
 ---
 title: "Halcyon Spellcasting Sage"
+draft: true
 noteType: ":luggage:"
 aliases: "Halcyon Spellcasting Sage"
 foundryId: Item.EWmTWODYxnJz2QG1

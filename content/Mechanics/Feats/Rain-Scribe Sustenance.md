@@ -1,5 +1,6 @@
 ---
 title: "Rain-Scribe Sustenance"
+draft: true
 noteType: ":luggage:"
 aliases: "Rain-Scribe Sustenance"
 foundryId: Item.q5pLMOCN5Fha9WeD

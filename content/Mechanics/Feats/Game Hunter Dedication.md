@@ -1,5 +1,6 @@
 ---
 title: "Game Hunter Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Game Hunter Dedication"
 foundryId: Item.PtalaIWtCGpOpMdw

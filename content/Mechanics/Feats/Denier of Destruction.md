@@ -1,5 +1,6 @@
 ---
 title: "Denier of Destruction"
+draft: true
 noteType: ":luggage:"
 aliases: "Denier of Destruction"
 foundryId: Item.l2arcUazZonnkosu

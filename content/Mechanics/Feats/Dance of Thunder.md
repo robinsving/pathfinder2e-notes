@@ -1,5 +1,6 @@
 ---
 title: "Dance of Thunder"
+draft: true
 noteType: ":luggage:"
 aliases: "Dance of Thunder"
 foundryId: Item.NfDA3EnzhwzmNnlO

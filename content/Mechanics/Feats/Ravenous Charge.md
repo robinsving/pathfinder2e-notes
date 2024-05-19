@@ -1,5 +1,6 @@
 ---
 title: "Ravenous Charge"
+draft: true
 noteType: ":luggage:"
 aliases: "Ravenous Charge"
 foundryId: Item.DEuCEC4NyQaWLMBn

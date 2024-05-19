@@ -1,5 +1,6 @@
 ---
 title: "Spirit's Absolution"
+draft: true
 noteType: ":luggage:"
 aliases: "Spirit's Absolution"
 foundryId: Item.X7XsnHgDeh1kVjS4

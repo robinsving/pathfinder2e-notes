@@ -1,5 +1,6 @@
 ---
 title: "Aura of Righteousness"
+draft: true
 noteType: ":luggage:"
 aliases: "Aura of Righteousness"
 foundryId: Item.wtvLIhEhY7m1ge9G

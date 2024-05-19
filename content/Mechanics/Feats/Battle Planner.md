@@ -1,5 +1,6 @@
 ---
 title: "Battle Planner"
+draft: true
 noteType: ":luggage:"
 aliases: "Battle Planner"
 foundryId: Item.DVTmZWXTOg8WkesM

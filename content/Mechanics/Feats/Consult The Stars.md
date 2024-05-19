@@ -1,5 +1,6 @@
 ---
 title: "Consult The Stars"
+draft: true
 noteType: ":luggage:"
 aliases: "Consult The Stars"
 foundryId: Item.EVI7P2DXnwkl014Y

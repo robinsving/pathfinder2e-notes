@@ -1,5 +1,6 @@
 ---
 title: "Emblazon Divinity"
+draft: true
 noteType: ":luggage:"
 aliases: "Emblazon Divinity"
 foundryId: Item.AUpjNwfO6sDNZcdB

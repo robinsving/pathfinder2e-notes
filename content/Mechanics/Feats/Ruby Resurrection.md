@@ -1,5 +1,6 @@
 ---
 title: "Ruby Resurrection"
+draft: true
 noteType: ":luggage:"
 aliases: "Ruby Resurrection"
 foundryId: Item.TnWMMx1soPJpyBMd

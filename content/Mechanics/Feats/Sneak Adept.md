@@ -1,5 +1,6 @@
 ---
 title: "Sneak Adept"
+draft: true
 noteType: ":luggage:"
 aliases: "Sneak Adept"
 foundryId: Item.Mkx9zuVQfi1jZfn9

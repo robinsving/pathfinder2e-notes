@@ -1,5 +1,6 @@
 ---
 title: "Entities From Afar"
+draft: true
 noteType: ":luggage:"
 aliases: "Entities From Afar"
 foundryId: Item.czazve7V7qfFGLEc

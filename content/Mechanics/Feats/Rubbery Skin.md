@@ -1,5 +1,6 @@
 ---
 title: "Rubbery Skin"
+draft: true
 noteType: ":luggage:"
 aliases: "Rubbery Skin"
 foundryId: Item.Nh3yCJxRZy03Jlpn

@@ -1,5 +1,6 @@
 ---
 title: "Fountain of Secrets"
+draft: true
 noteType: ":luggage:"
 aliases: "Fountain of Secrets"
 foundryId: Item.2L1IHsdQqxtCszXB

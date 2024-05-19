@@ -1,5 +1,6 @@
 ---
 title: "Lead Investigator"
+draft: true
 noteType: ":luggage:"
 aliases: "Lead Investigator"
 foundryId: Item.qKP5SluL5OqZNmqG

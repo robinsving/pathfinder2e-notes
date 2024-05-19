@@ -1,5 +1,6 @@
 ---
 title: "Illusion Sense"
+draft: true
 noteType: ":luggage:"
 aliases: "Illusion Sense"
 foundryId: Item.cArRyruobMszz760

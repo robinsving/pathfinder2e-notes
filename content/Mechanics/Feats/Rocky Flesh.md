@@ -1,5 +1,6 @@
 ---
 title: "Rocky Flesh"
+draft: true
 noteType: ":luggage:"
 aliases: "Rocky Flesh"
 foundryId: Item.6XqM4hMnulBBRIX7

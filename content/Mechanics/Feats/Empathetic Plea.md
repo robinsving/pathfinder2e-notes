@@ -1,5 +1,6 @@
 ---
 title: "Empathetic Plea"
+draft: true
 noteType: ":luggage:"
 aliases: "Empathetic Plea"
 foundryId: Item.09iiDgNdDTye1ivr

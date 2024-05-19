@@ -1,5 +1,6 @@
 ---
 title: "Weight Of Stone"
+draft: true
 noteType: ":luggage:"
 aliases: "Weight Of Stone"
 foundryId: Item.8G6vznkEV0DlEVS2

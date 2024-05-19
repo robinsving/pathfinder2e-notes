@@ -1,5 +1,6 @@
 ---
 title: "Lasting Armament"
+draft: true
 noteType: ":luggage:"
 aliases: "Lasting Armament"
 foundryId: Item.TG7OfPnrPrmVad15

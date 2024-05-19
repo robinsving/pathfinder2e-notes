@@ -1,5 +1,6 @@
 ---
 title: "Vishkanya Weapon Familiarity"
+draft: true
 noteType: ":luggage:"
 aliases: "Vishkanya Weapon Familiarity"
 foundryId: Item.q6RdnWW8r75KwlGt

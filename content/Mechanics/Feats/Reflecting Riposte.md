@@ -1,5 +1,6 @@
 ---
 title: "Reflecting Riposte"
+draft: true
 noteType: ":luggage:"
 aliases: "Reflecting Riposte"
 foundryId: Item.1G3rYjGFw2VzlzlE

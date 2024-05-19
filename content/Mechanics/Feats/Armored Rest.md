@@ -1,5 +1,6 @@
 ---
 title: "Armored Rest"
+draft: true
 noteType: ":luggage:"
 aliases: "Armored Rest"
 foundryId: Item.4hoNT8JmrJhdJPYv

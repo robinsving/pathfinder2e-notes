@@ -1,5 +1,6 @@
 ---
 title: "Constant Levitation"
+draft: true
 noteType: ":luggage:"
 aliases: "Constant Levitation"
 foundryId: Item.SrI7tfPtkRrui8t6

@@ -1,5 +1,6 @@
 ---
 title: "Diabolic Certitude"
+draft: true
 noteType: ":luggage:"
 aliases: "Diabolic Certitude"
 foundryId: Item.zAimteXg6exC0VjK

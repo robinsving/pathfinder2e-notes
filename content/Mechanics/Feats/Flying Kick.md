@@ -1,5 +1,6 @@
 ---
 title: "Flying Kick"
+draft: true
 noteType: ":luggage:"
 aliases: "Flying Kick"
 foundryId: Item.tsZqfpLWj3JJ05CR

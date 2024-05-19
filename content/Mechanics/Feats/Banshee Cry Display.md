@@ -1,5 +1,6 @@
 ---
 title: "Banshee Cry Display"
+draft: true
 noteType: ":luggage:"
 aliases: "Banshee Cry Display"
 foundryId: Item.Gj7PbjmthTpCDtHK

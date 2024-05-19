@@ -1,5 +1,6 @@
 ---
 title: "Sunlit Vitality"
+draft: true
 noteType: ":luggage:"
 aliases: "Sunlit Vitality"
 foundryId: Item.UFMEkvNUKoxRt0yW

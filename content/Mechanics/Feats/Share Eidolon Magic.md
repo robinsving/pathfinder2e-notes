@@ -1,5 +1,6 @@
 ---
 title: "Share Eidolon Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Share Eidolon Magic"
 foundryId: Item.IjJdYHCiaIBTKQbt

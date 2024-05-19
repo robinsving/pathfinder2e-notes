@@ -1,5 +1,6 @@
 ---
 title: "Look But Don't Touch"
+draft: true
 noteType: ":luggage:"
 aliases: "Look But Don't Touch"
 foundryId: Item.LVWO8fJ401v9pqhG

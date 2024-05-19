@@ -1,5 +1,6 @@
 ---
 title: "Elemental Wrath"
+draft: true
 noteType: ":luggage:"
 aliases: "Elemental Wrath"
 foundryId: Item.94z7EiymmvywcMaT

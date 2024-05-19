@@ -1,5 +1,6 @@
 ---
 title: "Warren Navigator"
+draft: true
 noteType: ":luggage:"
 aliases: "Warren Navigator"
 foundryId: Item.cgFJsq8KBS8bcnK2

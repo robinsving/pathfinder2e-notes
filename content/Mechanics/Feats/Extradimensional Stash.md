@@ -1,5 +1,6 @@
 ---
 title: "Extradimensional Stash"
+draft: true
 noteType: ":luggage:"
 aliases: "Extradimensional Stash"
 foundryId: Item.UyXVfiUImX8w9K85

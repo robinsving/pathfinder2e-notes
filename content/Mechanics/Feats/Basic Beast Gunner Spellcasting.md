@@ -1,5 +1,6 @@
 ---
 title: "Basic Beast Gunner Spellcasting"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Beast Gunner Spellcasting"
 foundryId: Item.8lot06EKiE6jijY8

@@ -1,5 +1,6 @@
 ---
 title: "Sea Glass Guardians"
+draft: true
 noteType: ":luggage:"
 aliases: "Sea Glass Guardians"
 foundryId: Item.FbxxFPeZFRgMo8Gr

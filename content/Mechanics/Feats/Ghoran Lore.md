@@ -1,5 +1,6 @@
 ---
 title: "Ghoran Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Ghoran Lore"
 foundryId: Item.86W7XsAkypbendnb

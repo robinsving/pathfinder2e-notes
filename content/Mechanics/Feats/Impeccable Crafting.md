@@ -1,5 +1,6 @@
 ---
 title: "Impeccable Crafting"
+draft: true
 noteType: ":luggage:"
 aliases: "Impeccable Crafting"
 foundryId: Item.MCGQDqmWxjXf1WR8

@@ -1,5 +1,6 @@
 ---
 title: "Minor Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Minor Magic"
 foundryId: Item.8VAjIvXuzE2YluT5

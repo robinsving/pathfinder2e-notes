@@ -1,5 +1,6 @@
 ---
 title: "Elemental Eyes"
+draft: true
 noteType: ":luggage:"
 aliases: "Elemental Eyes"
 foundryId: Item.5hwo53fLioKZVU0g

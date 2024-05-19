@@ -1,5 +1,6 @@
 ---
 title: "Pit of Snakes"
+draft: true
 noteType: ":luggage:"
 aliases: "Pit of Snakes"
 foundryId: Item.5V7uCRxUjpgyk8ik

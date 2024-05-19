@@ -1,5 +1,6 @@
 ---
 title: "Magical Crafting"
+draft: true
 noteType: ":luggage:"
 aliases: "Magical Crafting"
 foundryId: Item.x3TWNBuRiVkfYgNU

@@ -1,5 +1,6 @@
 ---
 title: "Lich Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Lich Dedication"
 foundryId: Item.ZM8qvZqjSi3bBb5k

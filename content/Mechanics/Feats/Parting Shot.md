@@ -1,5 +1,6 @@
 ---
 title: "Parting Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Parting Shot"
 foundryId: Item.fexkumHWx77wzrG4

@@ -1,5 +1,6 @@
 ---
 title: "Tetraelemental Assault"
+draft: true
 noteType: ":luggage:"
 aliases: "Tetraelemental Assault"
 foundryId: Item.lc0pnfRhpnQbwzAE

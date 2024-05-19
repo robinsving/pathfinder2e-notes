@@ -1,5 +1,6 @@
 ---
 title: "Whitecape"
+draft: true
 noteType: ":luggage:"
 aliases: "Whitecape"
 foundryId: Item.lAd3Z4bU2iwA1Svs

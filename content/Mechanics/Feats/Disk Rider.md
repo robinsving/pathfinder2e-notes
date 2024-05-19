@@ -1,5 +1,6 @@
 ---
 title: "Disk Rider"
+draft: true
 noteType: ":luggage:"
 aliases: "Disk Rider"
 foundryId: Item.peZgNF10iTtbKxWf

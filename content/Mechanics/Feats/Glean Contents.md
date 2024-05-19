@@ -1,5 +1,6 @@
 ---
 title: "Glean Contents"
+draft: true
 noteType: ":luggage:"
 aliases: "Glean Contents"
 foundryId: Item.GyLvPdLlhRVWhUiZ

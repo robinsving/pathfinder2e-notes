@@ -1,5 +1,6 @@
 ---
 title: "Selective Energy"
+draft: true
 noteType: ":luggage:"
 aliases: "Selective Energy"
 foundryId: Item.9QfGWozUVGyq9JPL

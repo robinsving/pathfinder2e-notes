@@ -1,5 +1,6 @@
 ---
 title: "Shared Stratagem"
+draft: true
 noteType: ":luggage:"
 aliases: "Shared Stratagem"
 foundryId: Item.TqdyQd1ck2iRgcPU

@@ -1,5 +1,6 @@
 ---
 title: "Telluric Power"
+draft: true
 noteType: ":luggage:"
 aliases: "Telluric Power"
 foundryId: Item.pvOcuvEqwRYgziWa

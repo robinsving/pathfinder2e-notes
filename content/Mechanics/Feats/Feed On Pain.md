@@ -1,5 +1,6 @@
 ---
 title: "Feed On Pain"
+draft: true
 noteType: ":luggage:"
 aliases: "Feed On Pain"
 foundryId: Item.Fcz148sWjb2Uas1K

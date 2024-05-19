@@ -1,5 +1,6 @@
 ---
 title: "Natural Ambition"
+draft: true
 noteType: ":luggage:"
 aliases: "Natural Ambition"
 foundryId: Item.OX4gnKkLyv5Fn2hu

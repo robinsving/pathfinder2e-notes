@@ -1,5 +1,6 @@
 ---
 title: "Cultural Adaptability"
+draft: true
 noteType: ":luggage:"
 aliases: "Cultural Adaptability"
 foundryId: Item.br92Z5Fp9jeHYux8

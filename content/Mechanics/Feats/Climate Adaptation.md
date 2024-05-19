@@ -1,5 +1,6 @@
 ---
 title: "Climate Adaptation"
+draft: true
 noteType: ":luggage:"
 aliases: "Climate Adaptation"
 foundryId: Item.fWKs73bbStu2XIHW

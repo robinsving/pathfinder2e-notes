@@ -1,5 +1,6 @@
 ---
 title: "Lock On"
+draft: true
 noteType: ":luggage:"
 aliases: "Lock On"
 foundryId: Item.Vbo7BDuSgXPvJRT5

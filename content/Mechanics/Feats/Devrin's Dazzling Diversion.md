@@ -1,5 +1,6 @@
 ---
 title: "Devrin's Dazzling Diversion"
+draft: true
 noteType: ":luggage:"
 aliases: "Devrin's Dazzling Diversion"
 foundryId: Item.7gbVRN8jdyGEVXti

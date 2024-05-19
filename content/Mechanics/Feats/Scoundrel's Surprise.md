@@ -1,5 +1,6 @@
 ---
 title: "Scoundrel's Surprise"
+draft: true
 noteType: ":luggage:"
 aliases: "Scoundrel's Surprise"
 foundryId: Item.O3jVRH9IDAnFOJKr

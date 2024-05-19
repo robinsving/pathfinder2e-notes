@@ -1,5 +1,6 @@
 ---
 title: "Cremate Undead"
+draft: true
 noteType: ":luggage:"
 aliases: "Cremate Undead"
 foundryId: Item.e4VpOEgniSvMQhjj

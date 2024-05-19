@@ -1,5 +1,6 @@
 ---
 title: "Ferocious Shape"
+draft: true
 noteType: ":luggage:"
 aliases: "Ferocious Shape"
 foundryId: Item.N5MWsB4s8RuvkNs2

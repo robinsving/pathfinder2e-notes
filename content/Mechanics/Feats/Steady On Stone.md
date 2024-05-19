@@ -1,5 +1,6 @@
 ---
 title: "Steady On Stone"
+draft: true
 noteType: ":luggage:"
 aliases: "Steady On Stone"
 foundryId: Item.K3SZVwrShoN9bmT2

@@ -1,5 +1,6 @@
 ---
 title: "Soothing Ballad"
+draft: true
 noteType: ":luggage:"
 aliases: "Soothing Ballad"
 foundryId: Item.D5EoiU21JgOyrTqH

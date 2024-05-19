@@ -1,5 +1,6 @@
 ---
 title: "Terrifying Resistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Terrifying Resistance"
 foundryId: Item.hefjElg2xASPEZef

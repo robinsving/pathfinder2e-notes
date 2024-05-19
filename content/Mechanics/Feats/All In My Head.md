@@ -1,5 +1,6 @@
 ---
 title: "All In My Head"
+draft: true
 noteType: ":luggage:"
 aliases: "All In My Head"
 foundryId: Item.SMqpH59jaANtxIzZ

@@ -1,5 +1,6 @@
 ---
 title: "Ka Stone Ritual"
+draft: true
 noteType: ":luggage:"
 aliases: "Ka Stone Ritual"
 foundryId: Item.OD1DEPuzIgWBu0Vq

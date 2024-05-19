@@ -1,5 +1,6 @@
 ---
 title: "Expert Oracle Spellcasting"
+draft: true
 noteType: ":luggage:"
 aliases: "Expert Oracle Spellcasting"
 foundryId: Item.TCOPwiC70QHQpQUU

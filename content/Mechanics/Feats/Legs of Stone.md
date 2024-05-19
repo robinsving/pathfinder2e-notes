@@ -1,5 +1,6 @@
 ---
 title: "Legs of Stone"
+draft: true
 noteType: ":luggage:"
 aliases: "Legs of Stone"
 foundryId: Item.FoKXlVNkb5hSlvyP

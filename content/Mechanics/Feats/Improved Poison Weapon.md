@@ -1,5 +1,6 @@
 ---
 title: "Improved Poison Weapon"
+draft: true
 noteType: ":luggage:"
 aliases: "Improved Poison Weapon"
 foundryId: Item.1STzt8r8v0FpGhM5

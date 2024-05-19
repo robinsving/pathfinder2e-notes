@@ -1,5 +1,6 @@
 ---
 title: "Advanced Order Training"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Order Training"
 foundryId: Item.KZFa8zncHxqITrWX

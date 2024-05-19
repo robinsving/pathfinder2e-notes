@@ -1,5 +1,6 @@
 ---
 title: "Folk Dowsing"
+draft: true
 noteType: ":luggage:"
 aliases: "Folk Dowsing"
 foundryId: Item.vK0k4G8uocDi9Cc5

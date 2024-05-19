@@ -1,5 +1,6 @@
 ---
 title: Sanctify Armament
+draft: true
 noteType: ":luggage:"
 aliases:
   - Sanctify Armament

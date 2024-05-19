@@ -1,5 +1,6 @@
 ---
 title: "Heroic Recovery"
+draft: true
 noteType: ":luggage:"
 aliases: "Heroic Recovery"
 foundryId: Item.e8abND0oBDrtJjUn

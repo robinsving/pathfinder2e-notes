@@ -1,5 +1,6 @@
 ---
 title: "Dueling Parry (Fighter)"
+draft: true
 noteType: ":luggage:"
 aliases: "Dueling Parry (Fighter)"
 foundryId: Item.Y3rhfNmYOdb4kIT4

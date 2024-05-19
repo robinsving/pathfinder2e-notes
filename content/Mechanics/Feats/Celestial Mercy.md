@@ -1,5 +1,6 @@
 ---
 title: Celestial Mercy
+draft: true
 noteType: ":luggage:"
 aliases:
   - Celestial Mercy

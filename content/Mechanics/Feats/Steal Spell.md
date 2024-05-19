@@ -1,5 +1,6 @@
 ---
 title: "Steal Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Steal Spell"
 foundryId: Item.xmWMOEudaUaYdHyO

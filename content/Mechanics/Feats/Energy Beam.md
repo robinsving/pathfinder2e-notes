@@ -1,5 +1,6 @@
 ---
 title: "Energy Beam"
+draft: true
 noteType: ":luggage:"
 aliases: "Energy Beam"
 foundryId: Item.fBLubfGxiW1BnY3e

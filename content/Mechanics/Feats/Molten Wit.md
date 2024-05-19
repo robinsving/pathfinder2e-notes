@@ -1,5 +1,6 @@
 ---
 title: "Molten Wit"
+draft: true
 noteType: ":luggage:"
 aliases: "Molten Wit"
 foundryId: Item.wxNSOzy5EHS0N9Hx

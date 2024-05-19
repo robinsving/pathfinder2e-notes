@@ -1,5 +1,6 @@
 ---
 title: "Cathartic Mage Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Cathartic Mage Dedication"
 foundryId: Item.oDDglICBoY8HiM51

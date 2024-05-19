@@ -1,5 +1,6 @@
 ---
 title: "Expert Bard Spellcasting"
+draft: true
 noteType: ":luggage:"
 aliases: "Expert Bard Spellcasting"
 foundryId: Item.VgkXsvXCMJcrLmXC

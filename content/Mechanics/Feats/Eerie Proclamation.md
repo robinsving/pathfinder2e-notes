@@ -1,5 +1,6 @@
 ---
 title: "Eerie Proclamation"
+draft: true
 noteType: ":luggage:"
 aliases: "Eerie Proclamation"
 foundryId: Item.fsuDZcM3AoOH84PD

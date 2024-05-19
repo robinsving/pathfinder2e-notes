@@ -1,5 +1,6 @@
 ---
 title: "Blast Tackle"
+draft: true
 noteType: ":luggage:"
 aliases: "Blast Tackle"
 foundryId: Item.8F8v3iMeX2CJS94y

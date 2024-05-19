@@ -1,5 +1,6 @@
 ---
 title: "Consume Energy"
+draft: true
 noteType: ":luggage:"
 aliases: "Consume Energy"
 foundryId: Item.CQsjeXprmadQJybv

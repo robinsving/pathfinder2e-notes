@@ -1,5 +1,6 @@
 ---
 title: "Sacred Spells"
+draft: true
 noteType: ":luggage:"
 aliases: "Sacred Spells"
 foundryId: Item.aJzCR3V33JYn5yZJ

@@ -1,5 +1,6 @@
 ---
 title: "Thwart Evil"
+draft: true
 noteType: ":luggage:"
 aliases: "Thwart Evil"
 foundryId: Item.Vj8ZGjERUh6RycnT

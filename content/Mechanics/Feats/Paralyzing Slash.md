@@ -1,5 +1,6 @@
 ---
 title: "Paralyzing Slash"
+draft: true
 noteType: ":luggage:"
 aliases: "Paralyzing Slash"
 foundryId: Item.lMD8h1NlClnjpEyU

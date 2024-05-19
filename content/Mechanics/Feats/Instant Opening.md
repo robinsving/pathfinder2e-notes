@@ -1,5 +1,6 @@
 ---
 title: "Instant Opening"
+draft: true
 noteType: ":luggage:"
 aliases: "Instant Opening"
 foundryId: Item.QIaCJulG5w8nskNM

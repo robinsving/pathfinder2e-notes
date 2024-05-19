@@ -1,5 +1,6 @@
 ---
 title: "Claws Of The Dragon (Draconic Bloodline)"
+draft: true
 noteType: ":luggage:"
 aliases: "Claws Of The Dragon (Draconic Bloodline)"
 foundryId: Item.yxIRG6msR1SKmFKw

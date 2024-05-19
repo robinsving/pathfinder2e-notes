@@ -1,5 +1,6 @@
 ---
 title: "Wing Step"
+draft: true
 noteType: ":luggage:"
 aliases: "Wing Step"
 foundryId: Item.BLPJN3iIMVzs6PiI

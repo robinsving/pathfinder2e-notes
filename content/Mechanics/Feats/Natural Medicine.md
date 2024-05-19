@@ -1,5 +1,6 @@
 ---
 title: "Natural Medicine"
+draft: true
 noteType: ":luggage:"
 aliases: "Natural Medicine"
 foundryId: Item.38KXUZUBEa2eLnRf

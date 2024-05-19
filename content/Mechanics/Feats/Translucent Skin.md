@@ -1,5 +1,6 @@
 ---
 title: "Translucent Skin"
+draft: true
 noteType: ":luggage:"
 aliases: "Translucent Skin"
 foundryId: Item.yZeD1uFO3Q849kgZ

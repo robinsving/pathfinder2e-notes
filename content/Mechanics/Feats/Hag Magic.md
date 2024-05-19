@@ -1,5 +1,6 @@
 ---
 title: "Hag Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Hag Magic"
 foundryId: Item.pdmSFBOVCG5LpQkK

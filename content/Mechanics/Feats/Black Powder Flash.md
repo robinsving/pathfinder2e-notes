@@ -1,5 +1,6 @@
 ---
 title: "Black Powder Flash"
+draft: true
 noteType: ":luggage:"
 aliases: "Black Powder Flash"
 foundryId: Item.fuGlegiaTegm3vOh

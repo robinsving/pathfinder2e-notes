@@ -1,5 +1,6 @@
 ---
 title: "Glacial Prison"
+draft: true
 noteType: ":luggage:"
 aliases: "Glacial Prison"
 foundryId: Item.qvwQUP1sMimRgXbG

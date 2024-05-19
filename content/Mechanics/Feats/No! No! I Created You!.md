@@ -1,5 +1,6 @@
 ---
 title: "No! No! I Created You!"
+draft: true
 noteType: ":luggage:"
 aliases: "No! No! I Created You!"
 foundryId: Item.kX6yAmOok9UN9Y0w

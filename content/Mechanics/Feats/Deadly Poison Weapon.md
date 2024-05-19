@@ -1,5 +1,6 @@
 ---
 title: "Deadly Poison Weapon"
+draft: true
 noteType: ":luggage:"
 aliases: "Deadly Poison Weapon"
 foundryId: Item.TT75QvOn79UCvHEc

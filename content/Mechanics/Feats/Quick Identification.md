@@ -1,5 +1,6 @@
 ---
 title: "Quick Identification"
+draft: true
 noteType: ":luggage:"
 aliases: "Quick Identification"
 foundryId: Item.Yiop1p5u6JwdOwbo

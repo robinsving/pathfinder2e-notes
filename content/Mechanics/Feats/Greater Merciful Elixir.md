@@ -1,5 +1,6 @@
 ---
 title: "Greater Merciful Elixir"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Merciful Elixir"
 foundryId: Item.cCPWz61XA20EQ2ti

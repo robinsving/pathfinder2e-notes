@@ -1,5 +1,6 @@
 ---
 title: "Piercing Quills"
+draft: true
 noteType: ":luggage:"
 aliases: "Piercing Quills"
 foundryId: Item.nJAxx152Va1IxTUM

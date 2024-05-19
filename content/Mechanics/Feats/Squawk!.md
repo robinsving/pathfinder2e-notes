@@ -1,5 +1,6 @@
 ---
 title: "Squawk!"
+draft: true
 noteType: ":luggage:"
 aliases: "Squawk!"
 foundryId: Item.TnclNWDgxK6dueLM

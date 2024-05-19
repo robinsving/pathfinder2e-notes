@@ -1,5 +1,6 @@
 ---
 title: "Ward Casting"
+draft: true
 noteType: ":luggage:"
 aliases: "Ward Casting"
 foundryId: Item.IbcgX6SSBvFQaoRX

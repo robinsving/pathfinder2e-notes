@@ -1,5 +1,6 @@
 ---
 title: "Party Crasher"
+draft: true
 noteType: ":luggage:"
 aliases: "Party Crasher"
 foundryId: Item.ZUNKDasPi6ajHHW8

@@ -1,5 +1,6 @@
 ---
 title: "Mask Of Pain"
+draft: true
 noteType: ":luggage:"
 aliases: "Mask Of Pain"
 foundryId: Item.nYg9pqhPUv7gzZ5I

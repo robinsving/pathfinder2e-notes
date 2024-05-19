@@ -1,5 +1,6 @@
 ---
 title: "Monkey Spirits"
+draft: true
 noteType: ":luggage:"
 aliases: "Monkey Spirits"
 foundryId: Item.lh0pICPCM8nVibrh

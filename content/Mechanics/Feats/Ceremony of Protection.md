@@ -1,5 +1,6 @@
 ---
 title: "Ceremony of Protection"
+draft: true
 noteType: ":luggage:"
 aliases: "Ceremony of Protection"
 foundryId: Item.2HjkQPRCrIyC2l42

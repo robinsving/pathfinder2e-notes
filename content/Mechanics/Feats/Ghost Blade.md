@@ -1,5 +1,6 @@
 ---
 title: "Ghost Blade"
+draft: true
 noteType: ":luggage:"
 aliases: "Ghost Blade"
 foundryId: Item.JTYUDIoM9oIID5kU

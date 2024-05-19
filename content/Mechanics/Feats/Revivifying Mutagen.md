@@ -1,5 +1,6 @@
 ---
 title: "Revivifying Mutagen"
+draft: true
 noteType: ":luggage:"
 aliases: "Revivifying Mutagen"
 foundryId: Item.iuRIzM6dlZwyhJ6L

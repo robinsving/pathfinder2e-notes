@@ -1,5 +1,6 @@
 ---
 title: "Penetrating Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Penetrating Shot"
 foundryId: Item.UqXWJqyKRgXllu0M

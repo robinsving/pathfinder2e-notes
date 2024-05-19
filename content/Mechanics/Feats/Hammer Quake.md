@@ -1,5 +1,6 @@
 ---
 title: "Hammer Quake"
+draft: true
 noteType: ":luggage:"
 aliases: "Hammer Quake"
 foundryId: Item.H6AYkQcAAtll5PAR

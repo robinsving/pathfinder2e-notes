@@ -1,5 +1,6 @@
 ---
 title: "Perfect Mutagen"
+draft: true
 noteType: ":luggage:"
 aliases: "Perfect Mutagen"
 foundryId: Item.fw4WIKhfGj2SwUF5

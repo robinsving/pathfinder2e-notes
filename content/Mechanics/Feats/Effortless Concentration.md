@@ -1,5 +1,6 @@
 ---
 title: "Effortless Concentration"
+draft: true
 noteType: ":luggage:"
 aliases: "Effortless Concentration"
 foundryId: Item.hliLRaJ91hM68zF6

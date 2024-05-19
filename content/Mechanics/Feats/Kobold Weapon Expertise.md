@@ -1,5 +1,6 @@
 ---
 title: "Kobold Weapon Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Kobold Weapon Expertise"
 foundryId: Item.L7bvF9CXQW1eiaV8

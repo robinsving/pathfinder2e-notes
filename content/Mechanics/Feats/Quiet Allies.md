@@ -1,5 +1,6 @@
 ---
 title: "Quiet Allies"
+draft: true
 noteType: ":luggage:"
 aliases: "Quiet Allies"
 foundryId: Item.RcpoBCl5IJaLxdTs

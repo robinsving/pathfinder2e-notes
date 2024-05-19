@@ -1,5 +1,6 @@
 ---
 title: "Sniper's Aim"
+draft: true
 noteType: ":luggage:"
 aliases: "Sniper's Aim"
 foundryId: Item.XH9I1bAGdqHZeL7s

@@ -1,5 +1,6 @@
 ---
 title: "Mastermind's Eye"
+draft: true
 noteType: ":luggage:"
 aliases: "Mastermind's Eye"
 foundryId: Item.ORGaPfZyb5LYtJo1

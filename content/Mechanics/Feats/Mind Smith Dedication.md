@@ -1,5 +1,6 @@
 ---
 title: "Mind Smith Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Mind Smith Dedication"
 foundryId: Item.NR6aDtK984epUw3k

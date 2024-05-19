@@ -1,5 +1,6 @@
 ---
 title: "Harrow Casting"
+draft: true
 noteType: ":luggage:"
 aliases: "Harrow Casting"
 foundryId: Item.FcpE92d12H8kz4vv

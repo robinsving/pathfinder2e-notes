@@ -1,5 +1,6 @@
 ---
 title: "Master of the Dead"
+draft: true
 noteType: ":luggage:"
 aliases: "Master of the Dead"
 foundryId: Item.J1GEQsMZyjNaNvfM

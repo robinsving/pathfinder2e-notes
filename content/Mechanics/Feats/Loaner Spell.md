@@ -1,5 +1,6 @@
 ---
 title: "Loaner Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Loaner Spell"
 foundryId: Item.NeU2clsYbVUgm8UQ

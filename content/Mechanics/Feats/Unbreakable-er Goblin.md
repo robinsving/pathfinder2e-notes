@@ -1,5 +1,6 @@
 ---
 title: "Unbreakable-er Goblin"
+draft: true
 noteType: ":luggage:"
 aliases: "Unbreakable-er Goblin"
 foundryId: Item.nB00gocN3zjCXiOY

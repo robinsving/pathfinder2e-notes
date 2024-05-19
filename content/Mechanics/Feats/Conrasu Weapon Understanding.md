@@ -1,5 +1,6 @@
 ---
 title: "Conrasu Weapon Understanding"
+draft: true
 noteType: ":luggage:"
 aliases: "Conrasu Weapon Understanding"
 foundryId: Item.qdo02xWpX96nV0hX

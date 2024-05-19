@@ -1,5 +1,6 @@
 ---
 title: "Command Attention"
+draft: true
 noteType: ":luggage:"
 aliases: "Command Attention"
 foundryId: Item.B9Hfff0VAJUiDOOt

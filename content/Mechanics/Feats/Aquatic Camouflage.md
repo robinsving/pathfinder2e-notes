@@ -1,5 +1,6 @@
 ---
 title: "Aquatic Camouflage"
+draft: true
 noteType: ":luggage:"
 aliases: "Aquatic Camouflage"
 foundryId: Item.OK1QEYVuCsXRQyLi

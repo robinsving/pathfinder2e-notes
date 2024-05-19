@@ -1,5 +1,6 @@
 ---
 title: "Shard Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Shard Strike"
 foundryId: Item.DneFeMuR5UgFNHS9

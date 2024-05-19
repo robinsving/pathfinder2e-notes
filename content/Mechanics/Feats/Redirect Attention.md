@@ -1,5 +1,6 @@
 ---
 title: "Redirect Attention"
+draft: true
 noteType: ":luggage:"
 aliases: "Redirect Attention"
 foundryId: Item.RmcafTX4z8naRlFd

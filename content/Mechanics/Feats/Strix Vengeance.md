@@ -1,5 +1,6 @@
 ---
 title: "Strix Vengeance"
+draft: true
 noteType: ":luggage:"
 aliases: "Strix Vengeance"
 foundryId: Item.mF1nUQGohxB6hOWQ

@@ -1,5 +1,6 @@
 ---
 title: "Sprite's Spark"
+draft: true
 noteType: ":luggage:"
 aliases: "Sprite's Spark"
 foundryId: Item.DOA9zQquKhCvLSjK

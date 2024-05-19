@@ -1,5 +1,6 @@
 ---
 title: "Tempest-Sun Shielding"
+draft: true
 noteType: ":luggage:"
 aliases: "Tempest-Sun Shielding"
 foundryId: Item.41CQNgHH4yk5yqij

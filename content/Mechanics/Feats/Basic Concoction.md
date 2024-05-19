@@ -1,5 +1,6 @@
 ---
 title: "Basic Concoction"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Concoction"
 foundryId: Item.ScYpp4y31KNMRWbL

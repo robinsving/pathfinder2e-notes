@@ -1,5 +1,6 @@
 ---
 title: "Emerald Boughs Accustomation"
+draft: true
 noteType: ":luggage:"
 aliases: "Emerald Boughs Accustomation"
 foundryId: Item.ZNQJjBefzDKmXVY3

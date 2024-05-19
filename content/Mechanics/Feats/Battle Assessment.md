@@ -1,5 +1,6 @@
 ---
 title: "Battle Assessment"
+draft: true
 noteType: ":luggage:"
 aliases: "Battle Assessment"
 foundryId: Item.05iflgyhTGSP6CLF

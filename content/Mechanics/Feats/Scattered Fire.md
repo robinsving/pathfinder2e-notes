@@ -1,5 +1,6 @@
 ---
 title: "Scattered Fire"
+draft: true
 noteType: ":luggage:"
 aliases: "Scattered Fire"
 foundryId: Item.Q9z5Fyd9xxiOHhHL

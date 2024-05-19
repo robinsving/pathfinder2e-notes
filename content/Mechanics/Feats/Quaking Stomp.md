@@ -1,5 +1,6 @@
 ---
 title: "Quaking Stomp"
+draft: true
 noteType: ":luggage:"
 aliases: "Quaking Stomp"
 foundryId: Item.ZKzuWD5wz2dOWSbk

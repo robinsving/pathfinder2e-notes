@@ -1,5 +1,6 @@
 ---
 title: "Brutal Finish"
+draft: true
 noteType: ":luggage:"
 aliases: "Brutal Finish"
 foundryId: Item.L4xOaVDPA1G3DPJq

@@ -1,5 +1,6 @@
 ---
 title: "Sun's Fury"
+draft: true
 noteType: ":luggage:"
 aliases: "Sun's Fury"
 foundryId: Item.niDAlfMS8ypdOV5i

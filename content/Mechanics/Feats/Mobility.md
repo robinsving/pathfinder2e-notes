@@ -1,5 +1,6 @@
 ---
 title: "Mobility"
+draft: true
 noteType: ":luggage:"
 aliases: "Mobility"
 foundryId: Item.kl7TxIJDcsgQRwsb

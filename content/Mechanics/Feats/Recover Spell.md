@@ -1,5 +1,6 @@
 ---
 title: "Recover Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Recover Spell"
 foundryId: Item.sr9E6nAjS7wRks7V

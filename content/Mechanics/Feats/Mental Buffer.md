@@ -1,5 +1,6 @@
 ---
 title: "Mental Buffer"
+draft: true
 noteType: ":luggage:"
 aliases: "Mental Buffer"
 foundryId: Item.9d7qnVebIojHx6Xg

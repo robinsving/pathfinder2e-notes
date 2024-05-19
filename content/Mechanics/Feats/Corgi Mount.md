@@ -1,5 +1,6 @@
 ---
 title: "Corgi Mount"
+draft: true
 noteType: ":luggage:"
 aliases: "Corgi Mount"
 foundryId: Item.SxA7SychVsS4hrUN

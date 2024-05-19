@@ -1,5 +1,6 @@
 ---
 title: "Uzunjati Recollection"
+draft: true
 noteType: ":luggage:"
 aliases: "Uzunjati Recollection"
 foundryId: Item.utqyQNumjIZacBwZ

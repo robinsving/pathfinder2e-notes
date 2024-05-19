@@ -1,5 +1,6 @@
 ---
 title: "Current Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Current Spell"
 foundryId: Item.pXE1dMVCwGMi3h6S

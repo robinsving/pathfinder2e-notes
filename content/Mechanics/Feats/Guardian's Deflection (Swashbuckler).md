@@ -1,5 +1,6 @@
 ---
 title: "Guardian's Deflection (Swashbuckler)"
+draft: true
 noteType: ":luggage:"
 aliases: "Guardian's Deflection (Swashbuckler)"
 foundryId: Item.kWOUZE3zTDg1VU1h

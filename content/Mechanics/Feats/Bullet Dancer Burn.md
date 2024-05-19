@@ -1,5 +1,6 @@
 ---
 title: "Bullet Dancer Burn"
+draft: true
 noteType: ":luggage:"
 aliases: "Bullet Dancer Burn"
 foundryId: Item.cXPU8QWgvCLRudlN

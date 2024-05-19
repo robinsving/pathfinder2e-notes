@@ -1,5 +1,6 @@
 ---
 title: "Slip Into Shadow"
+draft: true
 noteType: ":luggage:"
 aliases: "Slip Into Shadow"
 foundryId: Item.TcSCxJ0h9yQCG3Zi

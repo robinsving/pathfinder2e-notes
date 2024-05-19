@@ -1,5 +1,6 @@
 ---
 title: "Greater Lesson"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Lesson"
 foundryId: Item.6g6BlTM6qs6LTCwI

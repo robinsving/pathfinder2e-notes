@@ -1,5 +1,6 @@
 ---
 title: "Basic Oracle Spellcasting"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Oracle Spellcasting"
 foundryId: Item.5xP6J5sOye04Wb8M

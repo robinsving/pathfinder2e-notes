@@ -1,5 +1,6 @@
 ---
 title: "Irriseni Ice-Witch"
+draft: true
 noteType: ":luggage:"
 aliases: "Irriseni Ice-Witch"
 foundryId: Item.6LRTGMQmVwLmkY0u

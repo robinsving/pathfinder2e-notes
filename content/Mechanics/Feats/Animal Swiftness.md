@@ -1,5 +1,6 @@
 ---
 title: "Animal Swiftness"
+draft: true
 noteType: ":luggage:"
 aliases: "Animal Swiftness"
 foundryId: Item.vLfK2ffVd7YjAZdU

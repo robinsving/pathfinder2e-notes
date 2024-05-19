@@ -1,5 +1,6 @@
 ---
 title: "Assured Knowledge"
+draft: true
 noteType: ":luggage:"
 aliases: "Assured Knowledge"
 foundryId: Item.TohTy0d4KP0Qau4m

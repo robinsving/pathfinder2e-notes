@@ -1,5 +1,6 @@
 ---
 title: "Numb"
+draft: true
 noteType: ":luggage:"
 aliases: "Numb"
 foundryId: Item.h7y05scJfSPLCnNo

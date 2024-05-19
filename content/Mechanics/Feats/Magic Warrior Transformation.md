@@ -1,5 +1,6 @@
 ---
 title: "Magic Warrior Transformation"
+draft: true
 noteType: ":luggage:"
 aliases: "Magic Warrior Transformation"
 foundryId: Item.tfeeEumtaS8VzNNy

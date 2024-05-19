@@ -1,5 +1,6 @@
 ---
 title: "Whirling Grindstone"
+draft: true
 noteType: ":luggage:"
 aliases: "Whirling Grindstone"
 foundryId: Item.AhEjYLFakS9T3lqb

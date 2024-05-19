@@ -1,5 +1,6 @@
 ---
 title: "Primal Evolution"
+draft: true
 noteType: ":luggage:"
 aliases: "Primal Evolution"
 foundryId: Item.BHNNwf8llETBf147

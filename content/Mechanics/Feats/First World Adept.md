@@ -1,5 +1,6 @@
 ---
 title: "First World Adept"
+draft: true
 noteType: ":luggage:"
 aliases: "First World Adept"
 foundryId: Item.ISiD7Q8sudUzoMdL

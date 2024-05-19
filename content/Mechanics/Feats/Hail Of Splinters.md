@@ -1,5 +1,6 @@
 ---
 title: "Hail Of Splinters"
+draft: true
 noteType: ":luggage:"
 aliases: "Hail Of Splinters"
 foundryId: Item.QVUivGXk69zXuUKf

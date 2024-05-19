@@ -1,5 +1,6 @@
 ---
 title: "Goblin Jubilee Display"
+draft: true
 noteType: ":luggage:"
 aliases: "Goblin Jubilee Display"
 foundryId: Item.uWNXvTmq1HQv9ces

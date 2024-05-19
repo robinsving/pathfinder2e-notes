@@ -1,5 +1,6 @@
 ---
 title: "Sanctify Water"
+draft: true
 noteType: ":luggage:"
 aliases: "Sanctify Water"
 foundryId: Item.Y8V2C6Z8Tlv3bVVL

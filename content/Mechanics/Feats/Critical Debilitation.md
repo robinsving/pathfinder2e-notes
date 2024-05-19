@@ -1,5 +1,6 @@
 ---
 title: "Critical Debilitation"
+draft: true
 noteType: ":luggage:"
 aliases: "Critical Debilitation"
 foundryId: Item.oypcAYdDaBJ4ACnt

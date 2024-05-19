@@ -1,5 +1,6 @@
 ---
 title: "Spiteful Rake"
+draft: true
 noteType: ":luggage:"
 aliases: "Spiteful Rake"
 foundryId: Item.6isZphDzT5cUnyUQ

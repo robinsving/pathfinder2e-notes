@@ -1,5 +1,6 @@
 ---
 title: "Wind Pillow"
+draft: true
 noteType: ":luggage:"
 aliases: "Wind Pillow"
 foundryId: Item.GzMmVc4n8D0sEgp9

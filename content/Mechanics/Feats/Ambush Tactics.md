@@ -1,5 +1,6 @@
 ---
 title: "Ambush Tactics"
+draft: true
 noteType: ":luggage:"
 aliases: "Ambush Tactics"
 foundryId: Item.CipUywlmzm0Con98

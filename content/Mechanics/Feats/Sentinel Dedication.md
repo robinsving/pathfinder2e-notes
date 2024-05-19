@@ -1,5 +1,6 @@
 ---
 title: "Sentinel Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Sentinel Dedication"
 foundryId: Item.3kdsCf9dlXOwvzZJ

@@ -1,5 +1,6 @@
 ---
 title: "Brutal Critical"
+draft: true
 noteType: ":luggage:"
 aliases: "Brutal Critical"
 foundryId: Item.TGhNJY09J8mJeW24

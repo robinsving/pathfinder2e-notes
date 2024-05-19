@@ -1,5 +1,6 @@
 ---
 title: "Extended Kinesis"
+draft: true
 noteType: ":luggage:"
 aliases: "Extended Kinesis"
 foundryId: Item.zpPj20AXRHUna1s8

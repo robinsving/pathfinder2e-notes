@@ -1,5 +1,6 @@
 ---
 title: "Animal Rage"
+draft: true
 noteType: ":luggage:"
 aliases: "Animal Rage"
 foundryId: Item.UfepZrXakRLieSk0

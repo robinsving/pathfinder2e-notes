@@ -1,5 +1,6 @@
 ---
 title: "Point Blank Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Point Blank Stance"
 foundryId: Item.Ioz7pQ2yzuhOpMdB

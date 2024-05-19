@@ -1,5 +1,6 @@
 ---
 title: "Shattershields"
+draft: true
 noteType: ":luggage:"
 aliases: "Shattershields"
 foundryId: Item.euTLydU7LUeTuBOz

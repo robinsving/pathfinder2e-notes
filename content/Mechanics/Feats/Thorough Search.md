@@ -1,5 +1,6 @@
 ---
 title: "Thorough Search"
+draft: true
 noteType: ":luggage:"
 aliases: "Thorough Search"
 foundryId: Item.1n17QpnvwHDPosnX

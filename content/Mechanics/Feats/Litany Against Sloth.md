@@ -1,5 +1,6 @@
 ---
 title: "Litany Against Sloth"
+draft: true
 noteType: ":luggage:"
 aliases: "Litany Against Sloth"
 foundryId: Item.Uo9L857bLO9TapkR

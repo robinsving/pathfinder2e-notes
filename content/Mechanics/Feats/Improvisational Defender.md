@@ -1,5 +1,6 @@
 ---
 title: "Improvisational Defender"
+draft: true
 noteType: ":luggage:"
 aliases: "Improvisational Defender"
 foundryId: Item.228YmQDPPawnTptq

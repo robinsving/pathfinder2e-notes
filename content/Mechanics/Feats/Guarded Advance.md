@@ -1,5 +1,6 @@
 ---
 title: "Guarded Advance"
+draft: true
 noteType: ":luggage:"
 aliases: "Guarded Advance"
 foundryId: Item.24D0VBzHv6sVXB77

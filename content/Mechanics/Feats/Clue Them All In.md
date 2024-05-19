@@ -1,5 +1,6 @@
 ---
 title: "Clue Them All In"
+draft: true
 noteType: ":luggage:"
 aliases: "Clue Them All In"
 foundryId: Item.0TcFI3gvITAg7oSO

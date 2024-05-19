@@ -1,5 +1,6 @@
 ---
 title: "Ice Crafter"
+draft: true
 noteType: ":luggage:"
 aliases: "Ice Crafter"
 foundryId: Item.Eex3pAxXKYNToMFB

@@ -1,5 +1,6 @@
 ---
 title: "Remorseless Lash"
+draft: true
 noteType: ":luggage:"
 aliases: "Remorseless Lash"
 foundryId: Item.52dBZvoFZhQ90lip

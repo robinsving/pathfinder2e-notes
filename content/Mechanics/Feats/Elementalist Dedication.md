@@ -1,5 +1,6 @@
 ---
 title: "Elementalist Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Elementalist Dedication"
 foundryId: Item.2el9EAWMgXpO7xCq

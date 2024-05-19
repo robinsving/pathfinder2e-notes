@@ -1,5 +1,6 @@
 ---
 title: "Automatic Knowledge"
+draft: true
 noteType: ":luggage:"
 aliases: "Automatic Knowledge"
 foundryId: Item.PT5EpuKxBGXWDxw7

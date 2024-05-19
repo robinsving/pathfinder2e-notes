@@ -1,5 +1,6 @@
 ---
 title: "Eclectic Skill"
+draft: true
 noteType: ":luggage:"
 aliases: "Eclectic Skill"
 foundryId: Item.99LDVK4oA7x1HYTr

@@ -1,5 +1,6 @@
 ---
 title: "Shory Aerialist"
+draft: true
 noteType: ":luggage:"
 aliases: "Shory Aerialist"
 foundryId: Item.isHSyn6B0t4Wetwp

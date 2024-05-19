@@ -1,5 +1,6 @@
 ---
 title: "Living Rune"
+draft: true
 noteType: ":luggage:"
 aliases: "Living Rune"
 foundryId: Item.XHCceFomfGLueL2S

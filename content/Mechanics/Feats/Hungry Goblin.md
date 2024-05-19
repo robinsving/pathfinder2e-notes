@@ -1,5 +1,6 @@
 ---
 title: "Hungry Goblin"
+draft: true
 noteType: ":luggage:"
 aliases: "Hungry Goblin"
 foundryId: Item.TCo0zhA8XQNK2v9J

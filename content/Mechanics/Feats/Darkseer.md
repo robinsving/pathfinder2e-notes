@@ -1,5 +1,6 @@
 ---
 title: "Darkseer"
+draft: true
 noteType: ":luggage:"
 aliases: "Darkseer"
 foundryId: Item.zHetS3BSNKpHqg8m

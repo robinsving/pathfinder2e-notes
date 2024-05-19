@@ -1,5 +1,6 @@
 ---
 title: "Gripping Limbs"
+draft: true
 noteType: ":luggage:"
 aliases: "Gripping Limbs"
 foundryId: Item.J9VMBL5MaMqjRvRa

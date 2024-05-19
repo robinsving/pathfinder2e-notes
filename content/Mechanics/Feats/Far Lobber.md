@@ -1,5 +1,6 @@
 ---
 title: "Far Lobber"
+draft: true
 noteType: ":luggage:"
 aliases: "Far Lobber"
 foundryId: Item.dG4yWIMmFtEwA8fK

@@ -1,5 +1,6 @@
 ---
 title: "Green Empathy"
+draft: true
 noteType: ":luggage:"
 aliases: "Green Empathy"
 foundryId: Item.G8vEyJmzgJMLQ8nx

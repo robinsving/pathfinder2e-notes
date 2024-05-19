@@ -1,5 +1,6 @@
 ---
 title: "Initiate Warden"
+draft: true
 noteType: ":luggage:"
 aliases: "Initiate Warden"
 foundryId: Item.V9Kixg7Gcr0KGOQs

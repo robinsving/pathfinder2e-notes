@@ -1,5 +1,6 @@
 ---
 title: "Lifesense"
+draft: true
 noteType: ":luggage:"
 aliases: "Lifesense"
 foundryId: Item.71KZsbZxV1JQMoP7

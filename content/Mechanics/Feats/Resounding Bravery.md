@@ -1,5 +1,6 @@
 ---
 title: "Resounding Bravery"
+draft: true
 noteType: ":luggage:"
 aliases: "Resounding Bravery"
 foundryId: Item.yNQwt0gqnRCopfZh

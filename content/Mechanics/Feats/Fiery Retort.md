@@ -1,5 +1,6 @@
 ---
 title: "Fiery Retort"
+draft: true
 noteType: ":luggage:"
 aliases: "Fiery Retort"
 foundryId: Item.kToZ98pboWv4v0Yr

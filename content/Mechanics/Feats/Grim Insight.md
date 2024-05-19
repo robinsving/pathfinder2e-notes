@@ -1,5 +1,6 @@
 ---
 title: "Grim Insight"
+draft: true
 noteType: ":luggage:"
 aliases: "Grim Insight"
 foundryId: Item.V3VnVJb6v5c14QyH

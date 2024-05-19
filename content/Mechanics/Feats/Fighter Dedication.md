@@ -1,5 +1,6 @@
 ---
 title: "Fighter Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Fighter Dedication"
 foundryId: Item.IopD3FKMsrK7SOpz

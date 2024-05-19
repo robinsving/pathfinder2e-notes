@@ -1,5 +1,6 @@
 ---
 title: "Thrown Voice"
+draft: true
 noteType: ":luggage:"
 aliases: "Thrown Voice"
 foundryId: Item.NOvDrzrJmOMwXGuE

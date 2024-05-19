@@ -1,5 +1,6 @@
 ---
 title: "Hunter's Defense"
+draft: true
 noteType: ":luggage:"
 aliases: "Hunter's Defense"
 foundryId: Item.svCOieJPVLJ47pSv

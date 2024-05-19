@@ -1,5 +1,6 @@
 ---
 title: "Know It All (Eldritch Researcher)"
+draft: true
 noteType: ":luggage:"
 aliases: "Know It All (Eldritch Researcher)"
 foundryId: Item.g7SSaCtSC5jlB3Fo

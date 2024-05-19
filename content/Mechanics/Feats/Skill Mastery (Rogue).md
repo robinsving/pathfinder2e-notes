@@ -1,5 +1,6 @@
 ---
 title: "Skill Mastery (Rogue)"
+draft: true
 noteType: ":luggage:"
 aliases: "Skill Mastery (Rogue)"
 foundryId: Item.9vA0TXGdaRg1BXSg

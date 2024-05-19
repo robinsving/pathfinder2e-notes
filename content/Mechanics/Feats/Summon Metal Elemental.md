@@ -1,5 +1,6 @@
 ---
 title: "Summon Metal Elemental"
+draft: true
 noteType: ":luggage:"
 aliases: "Summon Metal Elemental"
 foundryId: Item.OWomGORBSELEZBdu

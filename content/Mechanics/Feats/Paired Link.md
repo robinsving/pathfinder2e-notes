@@ -1,5 +1,6 @@
 ---
 title: "Paired Link"
+draft: true
 noteType: ":luggage:"
 aliases: "Paired Link"
 foundryId: Item.xZTrBtasemjbWOlV

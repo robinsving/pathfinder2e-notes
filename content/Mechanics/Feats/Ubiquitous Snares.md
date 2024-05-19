@@ -1,5 +1,6 @@
 ---
 title: "Ubiquitous Snares"
+draft: true
 noteType: ":luggage:"
 aliases: "Ubiquitous Snares"
 foundryId: Item.ZoQr1AvoeVPwfwwJ

@@ -1,5 +1,6 @@
 ---
 title: "Anthemic Performance"
+draft: true
 noteType: ":luggage:"
 aliases: "Anthemic Performance"
 foundryId: Item.4hN1F3LaCzT8yeKf

@@ -1,5 +1,6 @@
 ---
 title: "Inspiring Resilience"
+draft: true
 noteType: ":luggage:"
 aliases: "Inspiring Resilience"
 foundryId: Item.wRfMyiFNL4ehxmya

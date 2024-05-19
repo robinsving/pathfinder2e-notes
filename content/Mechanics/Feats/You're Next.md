@@ -1,5 +1,6 @@
 ---
 title: "You're Next"
+draft: true
 noteType: ":luggage:"
 aliases: "You're Next"
 foundryId: Item.QzWkgiAllG7AmOfH

@@ -1,5 +1,6 @@
 ---
 title: "Shadow Blending"
+draft: true
 noteType: ":luggage:"
 aliases: "Shadow Blending"
 foundryId: Item.h8EM0V5YTlbdZ51P

@@ -1,5 +1,6 @@
 ---
 title: "Expert Scroll Cache"
+draft: true
 noteType: ":luggage:"
 aliases: "Expert Scroll Cache"
 foundryId: Item.XqZby5miMwJzIush

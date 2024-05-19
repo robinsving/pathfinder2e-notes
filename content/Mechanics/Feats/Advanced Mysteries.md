@@ -1,5 +1,6 @@
 ---
 title: "Advanced Mysteries"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Mysteries"
 foundryId: Item.00ycGUR9wEjh5GyC

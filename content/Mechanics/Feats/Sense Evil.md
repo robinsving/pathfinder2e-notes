@@ -1,5 +1,6 @@
 ---
 title: "Sense Evil"
+draft: true
 noteType: ":luggage:"
 aliases: "Sense Evil"
 foundryId: Item.i6IIGVxvsostpBvq

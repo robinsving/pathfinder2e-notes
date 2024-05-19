@@ -1,5 +1,6 @@
 ---
 title: "Smashing Tail"
+draft: true
 noteType: ":luggage:"
 aliases: "Smashing Tail"
 foundryId: Item.KeOp2f5Sdl6BCMf6

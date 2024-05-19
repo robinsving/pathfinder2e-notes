@@ -1,5 +1,6 @@
 ---
 title: "Poultice Preparation"
+draft: true
 noteType: ":luggage:"
 aliases: "Poultice Preparation"
 foundryId: Item.Qpe39jdK8NLLqDZ8

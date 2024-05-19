@@ -1,5 +1,6 @@
 ---
 title: "Cold Minded"
+draft: true
 noteType: ":luggage:"
 aliases: "Cold Minded"
 foundryId: Item.U5EPrn3MlCsuSXfl

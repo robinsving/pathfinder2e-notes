@@ -1,5 +1,6 @@
 ---
 title: "Castigating Weapon"
+draft: true
 noteType: ":luggage:"
 aliases: "Castigating Weapon"
 foundryId: Item.LDaVEOo9mHzd9Ptv

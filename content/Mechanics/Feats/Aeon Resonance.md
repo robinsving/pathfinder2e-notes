@@ -1,5 +1,6 @@
 ---
 title: "Aeon Resonance"
+draft: true
 noteType: ":luggage:"
 aliases: "Aeon Resonance"
 foundryId: Item.MGkoRDI056jV6iqW

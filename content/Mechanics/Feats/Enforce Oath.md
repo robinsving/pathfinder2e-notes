@@ -1,5 +1,6 @@
 ---
 title: "Enforce Oath"
+draft: true
 noteType: ":luggage:"
 aliases: "Enforce Oath"
 foundryId: Item.YEgG6nhyuKASMzG1

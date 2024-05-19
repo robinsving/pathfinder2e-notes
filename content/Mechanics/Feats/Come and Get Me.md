@@ -1,5 +1,6 @@
 ---
 title: "Come and Get Me"
+draft: true
 noteType: ":luggage:"
 aliases: "Come and Get Me"
 foundryId: Item.dLbOyZNNYv565eFz

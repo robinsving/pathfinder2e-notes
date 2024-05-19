@@ -1,5 +1,6 @@
 ---
 title: "Lucky Keepsake"
+draft: true
 noteType: ":luggage:"
 aliases: "Lucky Keepsake"
 foundryId: Item.75X5BtioGVaBVFHv

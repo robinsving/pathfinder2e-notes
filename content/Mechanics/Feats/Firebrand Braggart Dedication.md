@@ -1,5 +1,6 @@
 ---
 title: "Firebrand Braggart Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Firebrand Braggart Dedication"
 foundryId: Item.86C6NrnSDPnzt5NO

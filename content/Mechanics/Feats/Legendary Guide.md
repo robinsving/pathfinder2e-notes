@@ -1,5 +1,6 @@
 ---
 title: "Legendary Guide"
+draft: true
 noteType: ":luggage:"
 aliases: "Legendary Guide"
 foundryId: Item.ftUUD5nKpzhzOGVP

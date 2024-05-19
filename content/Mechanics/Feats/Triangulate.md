@@ -1,5 +1,6 @@
 ---
 title: "Triangulate"
+draft: true
 noteType: ":luggage:"
 aliases: "Triangulate"
 foundryId: Item.ysP1NQ1FMTTgttMN

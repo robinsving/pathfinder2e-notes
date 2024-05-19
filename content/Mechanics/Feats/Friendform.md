@@ -1,5 +1,6 @@
 ---
 title: "Friendform"
+draft: true
 noteType: ":luggage:"
 aliases: "Friendform"
 foundryId: Item.5U5IF0GvjQOLcvJp

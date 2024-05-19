@@ -1,5 +1,6 @@
 ---
 title: "Cloud Gazer"
+draft: true
 noteType: ":luggage:"
 aliases: "Cloud Gazer"
 foundryId: Item.iBNfC8KQNeWBRMGd

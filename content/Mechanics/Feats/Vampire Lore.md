@@ -1,5 +1,6 @@
 ---
 title: "Vampire Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Vampire Lore"
 foundryId: Item.GYQgdmxhp5V1mIjJ

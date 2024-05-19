@@ -1,5 +1,6 @@
 ---
 title: "Knockback Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Knockback Strike"
 foundryId: Item.RXBFXPdIoRySEwdo

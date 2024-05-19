@@ -1,5 +1,6 @@
 ---
 title: "Spell Parry"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Parry"
 foundryId: Item.y3xgkSr4AMqYZgat

@@ -1,5 +1,6 @@
 ---
 title: "Rebel's Map"
+draft: true
 noteType: ":luggage:"
 aliases: "Rebel's Map"
 foundryId: Item.6T1j4tJPKvz3EWXV

@@ -1,5 +1,6 @@
 ---
 title: "Half-Truths"
+draft: true
 noteType: ":luggage:"
 aliases: "Half-Truths"
 foundryId: Item.2ZHogI3cJhYeFbYR

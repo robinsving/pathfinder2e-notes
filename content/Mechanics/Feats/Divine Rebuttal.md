@@ -1,5 +1,6 @@
 ---
 title: "Divine Rebuttal"
+draft: true
 noteType: ":luggage:"
 aliases: "Divine Rebuttal"
 foundryId: Item.Yc6Aa7W4TbjZIzQR

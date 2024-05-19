@@ -1,5 +1,6 @@
 ---
 title: "Divine Healing"
+draft: true
 noteType: ":luggage:"
 aliases: "Divine Healing"
 foundryId: Item.yor84otltKnO38Ua

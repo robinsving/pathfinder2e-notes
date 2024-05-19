@@ -1,5 +1,6 @@
 ---
 title: "Vanara Weapon Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Vanara Weapon Expertise"
 foundryId: Item.cARfJ8l7Dui695Tj

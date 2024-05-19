@@ -1,5 +1,6 @@
 ---
 title: "Perfect Distraction"
+draft: true
 noteType: ":luggage:"
 aliases: "Perfect Distraction"
 foundryId: Item.jvUZAfDtrLNH6eWP

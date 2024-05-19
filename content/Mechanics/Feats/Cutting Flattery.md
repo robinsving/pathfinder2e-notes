@@ -1,5 +1,6 @@
 ---
 title: "Cutting Flattery"
+draft: true
 noteType: ":luggage:"
 aliases: "Cutting Flattery"
 foundryId: Item.x7I7vBRVwsw1hqNp

@@ -1,5 +1,6 @@
 ---
 title: "Tenacious Toxins"
+draft: true
 noteType: ":luggage:"
 aliases: "Tenacious Toxins"
 foundryId: Item.XhMBJXlMSRo7Obib

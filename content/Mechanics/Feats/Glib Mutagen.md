@@ -1,5 +1,6 @@
 ---
 title: "Glib Mutagen"
+draft: true
 noteType: ":luggage:"
 aliases: "Glib Mutagen"
 foundryId: Item.XZNwsHh7UrM27x0b

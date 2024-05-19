@@ -1,5 +1,6 @@
 ---
 title: "Quick Bomber"
+draft: true
 noteType: ":luggage:"
 aliases: "Quick Bomber"
 foundryId: Item.UviMEB0H4jiztVVU

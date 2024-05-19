@@ -1,5 +1,6 @@
 ---
 title: "Splinter Faith"
+draft: true
 noteType: ":luggage:"
 aliases: "Splinter Faith"
 foundryId: Item.ewHeiqsRLL8JLiOF

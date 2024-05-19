@@ -1,5 +1,6 @@
 ---
 title: "Thoughtform Summoning"
+draft: true
 noteType: ":luggage:"
 aliases: "Thoughtform Summoning"
 foundryId: Item.YElEga94iplEt9sU

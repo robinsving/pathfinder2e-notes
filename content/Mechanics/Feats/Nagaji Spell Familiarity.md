@@ -1,5 +1,6 @@
 ---
 title: "Nagaji Spell Familiarity"
+draft: true
 noteType: ":luggage:"
 aliases: "Nagaji Spell Familiarity"
 foundryId: Item.F6t6Oq3JNwmSmc1g

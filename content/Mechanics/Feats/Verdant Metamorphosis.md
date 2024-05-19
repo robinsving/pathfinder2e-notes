@@ -1,5 +1,6 @@
 ---
 title: "Verdant Metamorphosis"
+draft: true
 noteType: ":luggage:"
 aliases: "Verdant Metamorphosis"
 foundryId: Item.W3JoYz2SG6HQrfQZ

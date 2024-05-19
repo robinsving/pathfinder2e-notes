@@ -1,5 +1,6 @@
 ---
 title: "Scholar's Inheritance"
+draft: true
 noteType: ":luggage:"
 aliases: "Scholar's Inheritance"
 foundryId: Item.FTsfZ0MnWtsObE1s

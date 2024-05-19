@@ -1,5 +1,6 @@
 ---
 title: "Mimic Protections"
+draft: true
 noteType: ":luggage:"
 aliases: "Mimic Protections"
 foundryId: Item.CEU8FGRF8swWaLqn

@@ -1,5 +1,6 @@
 ---
 title: "Multilingual Cipher"
+draft: true
 noteType: ":luggage:"
 aliases: "Multilingual Cipher"
 foundryId: Item.dx97RyJrwhA4ZHdQ

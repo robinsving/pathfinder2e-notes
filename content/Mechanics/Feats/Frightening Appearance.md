@@ -1,5 +1,6 @@
 ---
 title: "Frightening Appearance"
+draft: true
 noteType: ":luggage:"
 aliases: "Frightening Appearance"
 foundryId: Item.PUe65ZnnOI989h0Q

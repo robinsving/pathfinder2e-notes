@@ -1,5 +1,6 @@
 ---
 title: "Ranger Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Ranger Dedication"
 foundryId: Item.FMXEmi60gBecRW8c

@@ -1,5 +1,6 @@
 ---
 title: "Contract Negotiator"
+draft: true
 noteType: ":luggage:"
 aliases: "Contract Negotiator"
 foundryId: Item.II2TwMKDz4lmuwWv

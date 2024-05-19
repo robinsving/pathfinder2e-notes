@@ -1,5 +1,6 @@
 ---
 title: "Show-Off"
+draft: true
 noteType: ":luggage:"
 aliases: "Show-Off"
 foundryId: Item.egJn2kvffHaXEWFw

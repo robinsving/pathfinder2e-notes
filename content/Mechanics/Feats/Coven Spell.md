@@ -1,5 +1,6 @@
 ---
 title: "Coven Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Coven Spell"
 foundryId: Item.mGLKSS9To17rQTCd

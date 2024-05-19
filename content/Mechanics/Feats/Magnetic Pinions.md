@@ -1,5 +1,6 @@
 ---
 title: "Magnetic Pinions"
+draft: true
 noteType: ":luggage:"
 aliases: "Magnetic Pinions"
 foundryId: Item.QtHy3aB3ATdJqxFr

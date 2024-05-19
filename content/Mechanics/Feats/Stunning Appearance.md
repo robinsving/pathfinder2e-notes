@@ -1,5 +1,6 @@
 ---
 title: "Stunning Appearance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stunning Appearance"
 foundryId: Item.jikigc3CAHazTSrT

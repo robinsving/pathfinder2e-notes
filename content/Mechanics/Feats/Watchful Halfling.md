@@ -1,5 +1,6 @@
 ---
 title: "Watchful Halfling"
+draft: true
 noteType: ":luggage:"
 aliases: "Watchful Halfling"
 foundryId: Item.QZie7vOmi856ee6i

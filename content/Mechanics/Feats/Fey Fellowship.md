@@ -1,5 +1,6 @@
 ---
 title: "Fey Fellowship"
+draft: true
 noteType: ":luggage:"
 aliases: "Fey Fellowship"
 foundryId: Item.KidG5fKqTlE8xqDV

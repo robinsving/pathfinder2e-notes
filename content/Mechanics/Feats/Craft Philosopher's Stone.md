@@ -1,5 +1,6 @@
 ---
 title: "Craft Philosopher's Stone"
+draft: true
 noteType: ":luggage:"
 aliases: "Craft Philosopher's Stone"
 foundryId: Item.JQ1RUNdQfFEUwnl3

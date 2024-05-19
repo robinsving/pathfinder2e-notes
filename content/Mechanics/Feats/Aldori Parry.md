@@ -1,5 +1,6 @@
 ---
 title: "Aldori Parry"
+draft: true
 noteType: ":luggage:"
 aliases: "Aldori Parry"
 foundryId: Item.Kl9IeQDHGZyOGL8v

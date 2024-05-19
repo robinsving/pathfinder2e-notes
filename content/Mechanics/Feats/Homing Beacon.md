@@ -1,5 +1,6 @@
 ---
 title: "Homing Beacon"
+draft: true
 noteType: ":luggage:"
 aliases: "Homing Beacon"
 foundryId: Item.bgf6eGJQuXLYCjR7

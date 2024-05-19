@@ -1,5 +1,6 @@
 ---
 title: "Favor Of Heaven"
+draft: true
 noteType: ":luggage:"
 aliases: "Favor Of Heaven"
 foundryId: Item.PjrcdrIvubny59Xq

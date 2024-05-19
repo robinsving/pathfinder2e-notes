@@ -1,5 +1,6 @@
 ---
 title: "Dream Guise"
+draft: true
 noteType: ":luggage:"
 aliases: "Dream Guise"
 foundryId: Item.HlGUvO1mxPKbIL4I

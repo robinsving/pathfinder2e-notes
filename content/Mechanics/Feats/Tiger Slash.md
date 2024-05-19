@@ -1,5 +1,6 @@
 ---
 title: "Tiger Slash"
+draft: true
 noteType: ":luggage:"
 aliases: "Tiger Slash"
 foundryId: Item.8g2GnWwlaZzwmBCM

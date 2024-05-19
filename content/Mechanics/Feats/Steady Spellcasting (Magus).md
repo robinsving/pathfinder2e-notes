@@ -1,5 +1,6 @@
 ---
 title: "Steady Spellcasting (Magus)"
+draft: true
 noteType: ":luggage:"
 aliases: "Steady Spellcasting (Magus)"
 foundryId: Item.k4sezdOQOJhoBVn3

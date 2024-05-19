@@ -1,5 +1,6 @@
 ---
 title: "Chronocognizance"
+draft: true
 noteType: ":luggage:"
 aliases: "Chronocognizance"
 foundryId: Item.PupOu35t8N8F8dog

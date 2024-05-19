@@ -1,5 +1,6 @@
 ---
 title: "Eldritch Calm"
+draft: true
 noteType: ":luggage:"
 aliases: "Eldritch Calm"
 foundryId: Item.MTf2lHJjpjY6G73j

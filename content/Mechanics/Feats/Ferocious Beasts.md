@@ -1,5 +1,6 @@
 ---
 title: "Ferocious Beasts"
+draft: true
 noteType: ":luggage:"
 aliases: "Ferocious Beasts"
 foundryId: Item.NVfQpw86DUconlum

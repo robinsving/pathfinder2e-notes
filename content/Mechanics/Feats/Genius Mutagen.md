@@ -1,5 +1,6 @@
 ---
 title: "Genius Mutagen"
+draft: true
 noteType: ":luggage:"
 aliases: "Genius Mutagen"
 foundryId: Item.CzL6ATUdCQ8kBrBK

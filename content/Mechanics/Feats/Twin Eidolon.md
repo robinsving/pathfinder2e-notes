@@ -1,5 +1,6 @@
 ---
 title: "Twin Eidolon"
+draft: true
 noteType: ":luggage:"
 aliases: "Twin Eidolon"
 foundryId: Item.w5UJlGCGNlGUBJ93

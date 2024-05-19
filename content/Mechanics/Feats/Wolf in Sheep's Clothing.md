@@ -1,5 +1,6 @@
 ---
 title: "Wolf in Sheep's Clothing"
+draft: true
 noteType: ":luggage:"
 aliases: "Wolf in Sheep's Clothing"
 foundryId: Item.V6afs8tq0fp1119r

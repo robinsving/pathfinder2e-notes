@@ -1,5 +1,6 @@
 ---
 title: "Improved Familiar (Witch)"
+draft: true
 noteType: ":luggage:"
 aliases: "Improved Familiar (Witch)"
 foundryId: Item.Fq0sDFqlwsDsLuV5

@@ -1,5 +1,6 @@
 ---
 title: "Deity's Protection"
+draft: true
 noteType: ":luggage:"
 aliases: "Deity's Protection"
 foundryId: Item.78bFlWJjN9zrqjAS

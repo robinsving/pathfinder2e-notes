@@ -1,5 +1,6 @@
 ---
 title: "Detective's Readiness"
+draft: true
 noteType: ":luggage:"
 aliases: "Detective's Readiness"
 foundryId: Item.cPwocL4lUcJG0JIV

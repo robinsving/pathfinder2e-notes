@@ -1,5 +1,6 @@
 ---
 title: "Stone Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Stone Form"
 foundryId: Item.1Hxe6PkSN27s2wDR

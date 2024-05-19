@@ -1,5 +1,6 @@
 ---
 title: "Inoculation"
+draft: true
 noteType: ":luggage:"
 aliases: "Inoculation"
 foundryId: Item.Au1qco4bQibEAlkc

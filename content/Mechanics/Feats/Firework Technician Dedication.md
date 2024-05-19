@@ -1,5 +1,6 @@
 ---
 title: "Firework Technician Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Firework Technician Dedication"
 foundryId: Item.uSP8WQaDXEOaMtNi

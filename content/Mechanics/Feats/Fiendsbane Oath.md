@@ -1,5 +1,6 @@
 ---
 title: "Fiendsbane Oath"
+draft: true
 noteType: ":luggage:"
 aliases: "Fiendsbane Oath"
 foundryId: Item.fYn5facxnjkOTQ9R

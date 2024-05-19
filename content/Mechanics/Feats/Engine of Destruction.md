@@ -1,5 +1,6 @@
 ---
 title: "Engine of Destruction"
+draft: true
 noteType: ":luggage:"
 aliases: "Engine of Destruction"
 foundryId: Item.fjMVLmaHhTNIueH9

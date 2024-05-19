@@ -1,5 +1,6 @@
 ---
 title: "Shape of the Cloud Dragon"
+draft: true
 noteType: ":luggage:"
 aliases: "Shape of the Cloud Dragon"
 foundryId: Item.qTuqS0LkCim7jwwI

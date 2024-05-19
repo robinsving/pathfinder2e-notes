@@ -1,5 +1,6 @@
 ---
 title: "Darting Monkey"
+draft: true
 noteType: ":luggage:"
 aliases: "Darting Monkey"
 foundryId: Item.pOfz9LiZA8TGVeNw

@@ -1,5 +1,6 @@
 ---
 title: "Fey Disguise"
+draft: true
 noteType: ":luggage:"
 aliases: "Fey Disguise"
 foundryId: Item.PLGZnbaQYUx7JaAl

@@ -1,5 +1,6 @@
 ---
 title: "Cloud Walk"
+draft: true
 noteType: ":luggage:"
 aliases: "Cloud Walk"
 foundryId: Item.3Zkpn7bZ88tC5u8b

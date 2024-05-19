@@ -1,5 +1,6 @@
 ---
 title: "Ranger Resiliency"
+draft: true
 noteType: ":luggage:"
 aliases: "Ranger Resiliency"
 foundryId: Item.nrkqAz4ZR4KugJJt

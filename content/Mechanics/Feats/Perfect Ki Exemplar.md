@@ -1,5 +1,6 @@
 ---
 title: "Perfect Ki Exemplar"
+draft: true
 noteType: ":luggage:"
 aliases: "Perfect Ki Exemplar"
 foundryId: Item.mvzRbLbNaQraolmv

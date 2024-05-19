@@ -1,5 +1,6 @@
 ---
 title: "Grippli Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Grippli Lore"
 foundryId: Item.YyNH4uD50d3YXQaF

@@ -1,5 +1,6 @@
 ---
 title: "Shield Block"
+draft: true
 noteType: ":luggage:"
 aliases: "Shield Block"
 foundryId: Item.euzyw9TROWe0Msbh

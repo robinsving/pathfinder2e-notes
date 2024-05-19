@@ -1,5 +1,6 @@
 ---
 title: "Improvised Crafting"
+draft: true
 noteType: ":luggage:"
 aliases: "Improvised Crafting"
 foundryId: Item.YwER56Bw4MB4kOUT

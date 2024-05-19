@@ -1,5 +1,6 @@
 ---
 title: "Light Step"
+draft: true
 noteType: ":luggage:"
 aliases: "Light Step"
 foundryId: Item.sWLQaIkKPIUgvvpC

@@ -1,5 +1,6 @@
 ---
 title: "Entreat With Forebears"
+draft: true
 noteType: ":luggage:"
 aliases: "Entreat With Forebears"
 foundryId: Item.ie8fTEdDuB7CdzA3

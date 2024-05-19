@@ -1,5 +1,6 @@
 ---
 title: "Smokesoul"
+draft: true
 noteType: ":luggage:"
 aliases: "Smokesoul"
 foundryId: Item.GIW3LFZ10560xhYx

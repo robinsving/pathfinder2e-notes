@@ -1,5 +1,6 @@
 ---
 title: "Wronged Monk's Wrath"
+draft: true
 noteType: ":luggage:"
 aliases: "Wronged Monk's Wrath"
 foundryId: Item.7O6jzlj4njoARJcg

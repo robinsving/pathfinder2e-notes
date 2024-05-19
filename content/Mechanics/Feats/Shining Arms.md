@@ -1,5 +1,6 @@
 ---
 title: "Shining Arms"
+draft: true
 noteType: ":luggage:"
 aliases: "Shining Arms"
 foundryId: Item.dt69KQ0S86aGIFhh

@@ -1,5 +1,6 @@
 ---
 title: "Ghost Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Ghost Dedication"
 foundryId: Item.GrahztlJ8WvF8qaq

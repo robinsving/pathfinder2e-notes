@@ -1,5 +1,6 @@
 ---
 title: "Quick Positioning"
+draft: true
 noteType: ":luggage:"
 aliases: "Quick Positioning"
 foundryId: Item.W03UIGn6aTDnBK7I

@@ -1,5 +1,6 @@
 ---
 title: "Skillful Tail (Geniekin)"
+draft: true
 noteType: ":luggage:"
 aliases: "Skillful Tail (Geniekin)"
 foundryId: Item.LgesGgPXhxYaVsQ0

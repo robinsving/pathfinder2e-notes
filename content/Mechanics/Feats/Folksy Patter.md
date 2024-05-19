@@ -1,5 +1,6 @@
 ---
 title: "Folksy Patter"
+draft: true
 noteType: ":luggage:"
 aliases: "Folksy Patter"
 foundryId: Item.TCZSVoL0qcEhJl8I

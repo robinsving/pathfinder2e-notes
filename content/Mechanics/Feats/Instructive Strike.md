@@ -1,5 +1,6 @@
 ---
 title: "Instructive Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Instructive Strike"
 foundryId: Item.sXMthMLKyduDJRvK

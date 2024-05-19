@@ -1,5 +1,6 @@
 ---
 title: "Ritualist Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Ritualist Dedication"
 foundryId: Item.vd2YiEkFLMumGupw

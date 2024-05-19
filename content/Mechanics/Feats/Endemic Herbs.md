@@ -1,5 +1,6 @@
 ---
 title: "Endemic Herbs"
+draft: true
 noteType: ":luggage:"
 aliases: "Endemic Herbs"
 foundryId: Item.Pma51r2yHJlEojFC

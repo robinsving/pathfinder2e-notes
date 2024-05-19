@@ -1,5 +1,6 @@
 ---
 title: "Hidden Paragon"
+draft: true
 noteType: ":luggage:"
 aliases: "Hidden Paragon"
 foundryId: Item.dWSPNP1g7eeURNXJ

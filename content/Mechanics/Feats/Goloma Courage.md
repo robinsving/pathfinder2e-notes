@@ -1,5 +1,6 @@
 ---
 title: "Goloma Courage"
+draft: true
 noteType: ":luggage:"
 aliases: "Goloma Courage"
 foundryId: Item.G3PFfYMupaTPGtkO

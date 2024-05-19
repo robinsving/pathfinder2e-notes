@@ -1,5 +1,6 @@
 ---
 title: "Silencing Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Silencing Strike"
 foundryId: Item.upQ61nKfzCsqDSDj

@@ -1,5 +1,6 @@
 ---
 title: "Ki Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Ki Strike"
 foundryId: Item.fQNkvSn4GbRxhaE2

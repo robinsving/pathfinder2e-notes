@@ -1,5 +1,6 @@
 ---
 title: "Confabulator"
+draft: true
 noteType: ":luggage:"
 aliases: "Confabulator"
 foundryId: Item.gNOnC3W278vikHWy

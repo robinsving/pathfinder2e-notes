@@ -1,5 +1,6 @@
 ---
 title: "Grandmother's Wisdom"
+draft: true
 noteType: ":luggage:"
 aliases: "Grandmother's Wisdom"
 foundryId: Item.KWrk1Gdnu3rtx8Ha

@@ -1,5 +1,6 @@
 ---
 title: "Shatter Space"
+draft: true
 noteType: ":luggage:"
 aliases: "Shatter Space"
 foundryId: Item.56eRo58nat0wTbdh

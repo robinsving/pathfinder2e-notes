@@ -1,5 +1,6 @@
 ---
 title: "Curse of the Saumen Kar"
+draft: true
 noteType: ":luggage:"
 aliases: "Curse of the Saumen Kar"
 foundryId: Item.IbybTyhJFAlJ9I9W

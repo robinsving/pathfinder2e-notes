@@ -1,5 +1,6 @@
 ---
 title: "House of Imaginary Walls"
+draft: true
 noteType: ":luggage:"
 aliases: "House of Imaginary Walls"
 foundryId: Item.YTFJKtolRsqUqCNd

@@ -1,5 +1,6 @@
 ---
 title: "Expert Fireworks Crafter"
+draft: true
 noteType: ":luggage:"
 aliases: "Expert Fireworks Crafter"
 foundryId: Item.9o96d0mvYx6fVx1u

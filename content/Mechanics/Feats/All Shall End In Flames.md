@@ -1,5 +1,6 @@
 ---
 title: "All Shall End In Flames"
+draft: true
 noteType: ":luggage:"
 aliases: "All Shall End In Flames"
 foundryId: Item.4fw2Wn68t6ewjSYJ

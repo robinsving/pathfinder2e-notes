@@ -1,5 +1,6 @@
 ---
 title: "Scapegoat Parallel Self"
+draft: true
 noteType: ":luggage:"
 aliases: "Scapegoat Parallel Self"
 foundryId: Item.vAYBfEi1M6EmA5X7

@@ -1,5 +1,6 @@
 ---
 title: "Eclectic Polymath"
+draft: true
 noteType: ":luggage:"
 aliases: "Eclectic Polymath"
 foundryId: Item.zotnKmXdHZ3EV04Z

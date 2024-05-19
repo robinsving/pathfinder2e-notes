@@ -1,5 +1,6 @@
 ---
 title: "Spellmaster's Resilience"
+draft: true
 noteType: ":luggage:"
 aliases: "Spellmaster's Resilience"
 foundryId: Item.Jpqi0h8Oj58BBrli

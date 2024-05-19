@@ -1,5 +1,6 @@
 ---
 title: "Second Sting"
+draft: true
 noteType: ":luggage:"
 aliases: "Second Sting"
 foundryId: Item.zOs3G3emfBug1c6P

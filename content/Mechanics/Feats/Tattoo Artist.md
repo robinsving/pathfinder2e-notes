@@ -1,5 +1,6 @@
 ---
 title: "Tattoo Artist"
+draft: true
 noteType: ":luggage:"
 aliases: "Tattoo Artist"
 foundryId: Item.TqJSFwxZ3dvrQH8G

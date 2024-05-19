@@ -1,5 +1,6 @@
 ---
 title: "Tengu Weapon Familiarity"
+draft: true
 noteType: ":luggage:"
 aliases: "Tengu Weapon Familiarity"
 foundryId: Item.9KyFYhMb2D0XL0DF

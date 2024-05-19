@@ -1,5 +1,6 @@
 ---
 title: "Basic Thoughtform"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Thoughtform"
 foundryId: Item.DV6TiBdpmRgPn8Qp

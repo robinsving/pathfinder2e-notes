@@ -1,5 +1,6 @@
 ---
 title: "Studious Capacity"
+draft: true
 noteType: ":luggage:"
 aliases: "Studious Capacity"
 foundryId: Item.euiaBlNGoGioIe6x

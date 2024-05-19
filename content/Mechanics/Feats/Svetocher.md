@@ -1,5 +1,6 @@
 ---
 title: "Svetocher"
+draft: true
 noteType: ":luggage:"
 aliases: "Svetocher"
 foundryId: Item.Z7Uduimg8ZxwZQ4M

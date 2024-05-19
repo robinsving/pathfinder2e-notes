@@ -1,5 +1,6 @@
 ---
 title: "Conductive Sphere"
+draft: true
 noteType: ":luggage:"
 aliases: "Conductive Sphere"
 foundryId: Item.Q5BqltAtcFLdMijQ

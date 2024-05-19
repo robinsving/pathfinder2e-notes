@@ -1,5 +1,6 @@
 ---
 title: "Terrain Stalker"
+draft: true
 noteType: ":luggage:"
 aliases: "Terrain Stalker"
 foundryId: Item.zTsDQnQzSn4KGPXz

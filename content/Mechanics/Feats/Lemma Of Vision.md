@@ -1,5 +1,6 @@
 ---
 title: "Lemma Of Vision"
+draft: true
 noteType: ":luggage:"
 aliases: "Lemma Of Vision"
 foundryId: Item.dEJbz1eiHKQJgMtc

@@ -1,5 +1,6 @@
 ---
 title: "Tremor"
+draft: true
 noteType: ":luggage:"
 aliases: "Tremor"
 foundryId: Item.bRAyPVAE94uDpm98

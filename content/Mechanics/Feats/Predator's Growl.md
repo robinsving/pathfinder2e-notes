@@ -1,5 +1,6 @@
 ---
 title: "Predator's Growl"
+draft: true
 noteType: ":luggage:"
 aliases: "Predator's Growl"
 foundryId: Item.CDj4SlAAZScQKgdC

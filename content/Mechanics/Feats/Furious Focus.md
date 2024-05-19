@@ -1,5 +1,6 @@
 ---
 title: "Furious Focus"
+draft: true
 noteType: ":luggage:"
 aliases: "Furious Focus"
 foundryId: Item.qEIEnF3n34nUop1G

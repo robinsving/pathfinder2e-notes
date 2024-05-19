@@ -1,5 +1,6 @@
 ---
 title: "Slayer's Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Slayer's Strike"
 foundryId: Item.zADP3wk5vpYE3Fnw

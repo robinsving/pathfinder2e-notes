@@ -1,5 +1,6 @@
 ---
 title: "Timber Sentinel"
+draft: true
 noteType: ":luggage:"
 aliases: "Timber Sentinel"
 foundryId: Item.Iv6dvnLxk0QFEFIN

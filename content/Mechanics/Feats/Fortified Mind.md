@@ -1,5 +1,6 @@
 ---
 title: "Fortified Mind"
+draft: true
 noteType: ":luggage:"
 aliases: "Fortified Mind"
 foundryId: Item.PzPJGbkAoHGvoXgt

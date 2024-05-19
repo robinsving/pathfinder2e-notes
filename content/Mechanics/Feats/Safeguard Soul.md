@@ -1,5 +1,6 @@
 ---
 title: "Safeguard Soul"
+draft: true
 noteType: ":luggage:"
 aliases: "Safeguard Soul"
 foundryId: Item.gYocYlec9mw026He

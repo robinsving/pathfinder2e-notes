@@ -1,5 +1,6 @@
 ---
 title: "Nocturnal Sense"
+draft: true
 noteType: ":luggage:"
 aliases: "Nocturnal Sense"
 foundryId: Item.DwTa8DsbGeCAO8jf

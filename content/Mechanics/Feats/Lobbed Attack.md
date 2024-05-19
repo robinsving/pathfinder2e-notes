@@ -1,5 +1,6 @@
 ---
 title: "Lobbed Attack"
+draft: true
 noteType: ":luggage:"
 aliases: "Lobbed Attack"
 foundryId: Item.nnWkzlQnhCtRBWSu

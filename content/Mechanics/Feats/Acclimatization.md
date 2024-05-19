@@ -1,5 +1,6 @@
 ---
 title: "Acclimatization"
+draft: true
 noteType: ":luggage:"
 aliases: "Acclimatization"
 foundryId: Item.fquNJx72RGgFoggy

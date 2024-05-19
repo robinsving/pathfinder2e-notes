@@ -1,5 +1,6 @@
 ---
 title: "Bat Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Bat Form"
 foundryId: Item.t4IdojiiYS11K24U

@@ -1,5 +1,6 @@
 ---
 title: "Venom Spit"
+draft: true
 noteType: ":luggage:"
 aliases: "Venom Spit"
 foundryId: Item.V33QBBE8AueAoKI6

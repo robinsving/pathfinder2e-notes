@@ -1,5 +1,6 @@
 ---
 title: "Sand Snatcher"
+draft: true
 noteType: ":luggage:"
 aliases: "Sand Snatcher"
 foundryId: Item.RCOHdRKV7dp4JKvQ

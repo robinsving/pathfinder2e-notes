@@ -1,5 +1,6 @@
 ---
 title: "Grit and Tenacity"
+draft: true
 noteType: ":luggage:"
 aliases: "Grit and Tenacity"
 foundryId: Item.Z4HAvRSqukcnWRxH

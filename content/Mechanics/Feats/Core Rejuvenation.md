@@ -1,5 +1,6 @@
 ---
 title: "Core Rejuvenation"
+draft: true
 noteType: ":luggage:"
 aliases: "Core Rejuvenation"
 foundryId: Item.9LuvtYLgrDQuCJOT

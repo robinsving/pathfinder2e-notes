@@ -1,5 +1,6 @@
 ---
 title: "Tail Spin"
+draft: true
 noteType: ":luggage:"
 aliases: "Tail Spin"
 foundryId: Item.YwvErH72KCsfY7on

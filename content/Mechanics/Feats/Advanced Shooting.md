@@ -1,5 +1,6 @@
 ---
 title: "Advanced Shooting"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Shooting"
 foundryId: Item.xhk98Z3QdgZczHGh

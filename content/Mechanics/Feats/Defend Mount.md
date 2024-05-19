@@ -1,5 +1,6 @@
 ---
 title: "Defend Mount"
+draft: true
 noteType: ":luggage:"
 aliases: "Defend Mount"
 foundryId: Item.wJMm2pv4UTdEawOi

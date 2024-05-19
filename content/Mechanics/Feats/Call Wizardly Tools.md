@@ -1,5 +1,6 @@
 ---
 title: "Call Wizardly Tools"
+draft: true
 noteType: ":luggage:"
 aliases: "Call Wizardly Tools"
 foundryId: Item.7a4FW00H9UZlbdgy

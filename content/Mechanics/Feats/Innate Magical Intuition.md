@@ -1,5 +1,6 @@
 ---
 title: "Innate Magical Intuition"
+draft: true
 noteType: ":luggage:"
 aliases: "Innate Magical Intuition"
 foundryId: Item.nyTgyVswuAYVrivj

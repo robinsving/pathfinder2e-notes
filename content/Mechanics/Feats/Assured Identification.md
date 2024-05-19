@@ -1,5 +1,6 @@
 ---
 title: "Assured Identification"
+draft: true
 noteType: ":luggage:"
 aliases: "Assured Identification"
 foundryId: Item.GfzNwZqg5ZqfxSEP

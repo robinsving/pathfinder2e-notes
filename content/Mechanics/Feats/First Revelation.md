@@ -1,5 +1,6 @@
 ---
 title: "First Revelation"
+draft: true
 noteType: ":luggage:"
 aliases: "First Revelation"
 foundryId: Item.poUHfNwnyjPFCt45

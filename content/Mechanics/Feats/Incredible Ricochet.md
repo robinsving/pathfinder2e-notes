@@ -1,5 +1,6 @@
 ---
 title: "Incredible Ricochet"
+draft: true
 noteType: ":luggage:"
 aliases: "Incredible Ricochet"
 foundryId: Item.D9bJOeOvC6I6JKDW

@@ -1,5 +1,6 @@
 ---
 title: "Ricochet Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Ricochet Shot"
 foundryId: Item.NwbJBRX1ejvnkVsF

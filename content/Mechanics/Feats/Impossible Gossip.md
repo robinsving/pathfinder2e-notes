@@ -1,5 +1,6 @@
 ---
 title: "Impossible Gossip"
+draft: true
 noteType: ":luggage:"
 aliases: "Impossible Gossip"
 foundryId: Item.2eoM1vilJ2HzSJsO

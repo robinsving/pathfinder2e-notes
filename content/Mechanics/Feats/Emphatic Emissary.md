@@ -1,5 +1,6 @@
 ---
 title: "Emphatic Emissary"
+draft: true
 noteType: ":luggage:"
 aliases: "Emphatic Emissary"
 foundryId: Item.W5JmifImbvZtj5zm

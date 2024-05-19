@@ -1,5 +1,6 @@
 ---
 title: "Shared Luck (Catfolk)"
+draft: true
 noteType: ":luggage:"
 aliases: "Shared Luck (Catfolk)"
 foundryId: Item.fJTHVPdo9FzdJXKA

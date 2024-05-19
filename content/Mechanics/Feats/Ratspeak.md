@@ -1,5 +1,6 @@
 ---
 title: "Ratspeak"
+draft: true
 noteType: ":luggage:"
 aliases: "Ratspeak"
 foundryId: Item.DQy3xfZscM469poz

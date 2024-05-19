@@ -1,5 +1,6 @@
 ---
 title: "Sixth Pillar Mastery"
+draft: true
 noteType: ":luggage:"
 aliases: "Sixth Pillar Mastery"
 foundryId: Item.j3jJrSHUOiR0xKnr

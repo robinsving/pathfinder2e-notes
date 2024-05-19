@@ -1,5 +1,6 @@
 ---
 title: "Dragonslayer Oath"
+draft: true
 noteType: ":luggage:"
 aliases: "Dragonslayer Oath"
 foundryId: Item.s6VrbPtp9Dwb22dH

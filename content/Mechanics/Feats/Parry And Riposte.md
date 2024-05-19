@@ -1,5 +1,6 @@
 ---
 title: "Parry And Riposte"
+draft: true
 noteType: ":luggage:"
 aliases: "Parry And Riposte"
 foundryId: Item.XU1aNyYIo0f9HKiu

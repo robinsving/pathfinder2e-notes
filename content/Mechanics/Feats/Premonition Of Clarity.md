@@ -1,5 +1,6 @@
 ---
 title: "Premonition Of Clarity"
+draft: true
 noteType: ":luggage:"
 aliases: "Premonition Of Clarity"
 foundryId: Item.VPbplsVBlJW3kKKg

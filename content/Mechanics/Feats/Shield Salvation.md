@@ -1,5 +1,6 @@
 ---
 title: "Shield Salvation"
+draft: true
 noteType: ":luggage:"
 aliases: "Shield Salvation"
 foundryId: Item.92dunsD8WmE2tL28

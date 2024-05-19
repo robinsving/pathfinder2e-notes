@@ -1,5 +1,6 @@
 ---
 title: "Impaling Finisher"
+draft: true
 noteType: ":luggage:"
 aliases: "Impaling Finisher"
 foundryId: Item.76iIkVh6QwTIzlc1

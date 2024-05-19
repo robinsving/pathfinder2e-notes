@@ -1,5 +1,6 @@
 ---
 title: "Mist Escape"
+draft: true
 noteType: ":luggage:"
 aliases: "Mist Escape"
 foundryId: Item.PaNRSUJ6fFzqRrMN

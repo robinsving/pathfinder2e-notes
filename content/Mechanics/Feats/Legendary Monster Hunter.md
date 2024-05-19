@@ -1,5 +1,6 @@
 ---
 title: "Legendary Monster Hunter"
+draft: true
 noteType: ":luggage:"
 aliases: "Legendary Monster Hunter"
 foundryId: Item.LBQ9rj9l4YBgOjUk

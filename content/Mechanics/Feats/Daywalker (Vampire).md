@@ -1,5 +1,6 @@
 ---
 title: "Daywalker (Vampire)"
+draft: true
 noteType: ":luggage:"
 aliases: "Daywalker (Vampire)"
 foundryId: Item.dkHX8weJqle4Vlch

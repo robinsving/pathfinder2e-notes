@@ -1,5 +1,6 @@
 ---
 title: "Propeller Attachment"
+draft: true
 noteType: ":luggage:"
 aliases: "Propeller Attachment"
 foundryId: Item.wbn5tc1cfaRoe2qo

@@ -1,5 +1,6 @@
 ---
 title: "Improved Communal Healing"
+draft: true
 noteType: ":luggage:"
 aliases: "Improved Communal Healing"
 foundryId: Item.pQtspUpqcMCTmIE5

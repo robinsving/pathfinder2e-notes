@@ -1,5 +1,6 @@
 ---
 title: "Battle Prayer"
+draft: true
 noteType: ":luggage:"
 aliases: "Battle Prayer"
 foundryId: Item.apJgivhAy0YHspNw

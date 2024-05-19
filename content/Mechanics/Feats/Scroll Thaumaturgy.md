@@ -1,5 +1,6 @@
 ---
 title: "Scroll Thaumaturgy"
+draft: true
 noteType: ":luggage:"
 aliases: "Scroll Thaumaturgy"
 foundryId: Item.OWwUtCjwrva7P88e

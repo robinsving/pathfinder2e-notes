@@ -1,5 +1,6 @@
 ---
 title: "Ilverani Purist"
+draft: true
 noteType: ":luggage:"
 aliases: "Ilverani Purist"
 foundryId: Item.LCJBXbDAdeABGSj7

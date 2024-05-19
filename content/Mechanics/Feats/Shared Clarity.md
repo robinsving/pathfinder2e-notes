@@ -1,5 +1,6 @@
 ---
 title: "Shared Clarity"
+draft: true
 noteType: ":luggage:"
 aliases: "Shared Clarity"
 foundryId: Item.QLXJUfHbg6uLOJDl

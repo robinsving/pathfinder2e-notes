@@ -1,5 +1,6 @@
 ---
 title: "Unyielding Disguise"
+draft: true
 noteType: ":luggage:"
 aliases: "Unyielding Disguise"
 foundryId: Item.CnkjAtgaUeIUZ3Xj

@@ -1,5 +1,6 @@
 ---
 title: "Fighting Horn"
+draft: true
 noteType: ":luggage:"
 aliases: "Fighting Horn"
 foundryId: Item.7tiJTHWdWtnaXckc

@@ -1,5 +1,6 @@
 ---
 title: "Wolf Drag"
+draft: true
 noteType: ":luggage:"
 aliases: "Wolf Drag"
 foundryId: Item.XiyU7k9VGsxC1Z8J

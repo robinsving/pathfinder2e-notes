@@ -1,5 +1,6 @@
 ---
 title: "Perfect Encore"
+draft: true
 noteType: ":luggage:"
 aliases: "Perfect Encore"
 foundryId: Item.o0y3aiLHUwXVWGTV

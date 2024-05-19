@@ -1,5 +1,6 @@
 ---
 title: "Debilitating Dichotomy"
+draft: true
 noteType: ":luggage:"
 aliases: "Debilitating Dichotomy"
 foundryId: Item.R98HUMzDsnCX72dS

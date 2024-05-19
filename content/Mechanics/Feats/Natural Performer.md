@@ -1,5 +1,6 @@
 ---
 title: "Natural Performer"
+draft: true
 noteType: ":luggage:"
 aliases: "Natural Performer"
 foundryId: Item.6vIjZFFm5pHhCkRf

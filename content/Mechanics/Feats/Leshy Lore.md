@@ -1,5 +1,6 @@
 ---
 title: "Leshy Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Leshy Lore"
 foundryId: Item.7F12yXw59Ou4Q2AI

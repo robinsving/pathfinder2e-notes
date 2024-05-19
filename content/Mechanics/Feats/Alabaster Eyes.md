@@ -1,5 +1,6 @@
 ---
 title: "Alabaster Eyes"
+draft: true
 noteType: ":luggage:"
 aliases: "Alabaster Eyes"
 foundryId: Item.WPFbd3RIyH9gF012

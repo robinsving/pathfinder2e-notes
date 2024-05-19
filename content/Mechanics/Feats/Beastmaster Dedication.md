@@ -1,5 +1,6 @@
 ---
 title: "Beastmaster Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Beastmaster Dedication"
 foundryId: Item.PhqHmB47Ekfx0Rod

@@ -1,5 +1,6 @@
 ---
 title: "Suspect of Opportunity"
+draft: true
 noteType: ":luggage:"
 aliases: "Suspect of Opportunity"
 foundryId: Item.eim2ftiNheTeoAmf

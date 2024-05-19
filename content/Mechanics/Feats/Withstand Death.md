@@ -1,5 +1,6 @@
 ---
 title: "Withstand Death"
+draft: true
 noteType: ":luggage:"
 aliases: "Withstand Death"
 foundryId: Item.l4RoeJdZhAtdhy2P

@@ -1,5 +1,6 @@
 ---
 title: "Split Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Split Shot"
 foundryId: Item.ydIQSxVJxo1OUDoY

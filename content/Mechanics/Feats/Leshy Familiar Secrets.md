@@ -1,5 +1,6 @@
 ---
 title: "Leshy Familiar Secrets"
+draft: true
 noteType: ":luggage:"
 aliases: "Leshy Familiar Secrets"
 foundryId: Item.1ydcheh41bPzS9fK

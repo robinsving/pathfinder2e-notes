@@ -1,5 +1,6 @@
 ---
 title: "Spy's Countermeasures"
+draft: true
 noteType: ":luggage:"
 aliases: "Spy's Countermeasures"
 foundryId: Item.Qajc3650OjdsK7tn

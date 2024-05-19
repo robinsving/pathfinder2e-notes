@@ -1,5 +1,6 @@
 ---
 title: "Multitalented"
+draft: true
 noteType: ":luggage:"
 aliases: "Multitalented"
 foundryId: Item.ppONhW5d8GAQep41

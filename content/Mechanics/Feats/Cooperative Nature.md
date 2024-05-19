@@ -1,5 +1,6 @@
 ---
 title: "Cooperative Nature"
+draft: true
 noteType: ":luggage:"
 aliases: "Cooperative Nature"
 foundryId: Item.Qu5sQI3LSXjvSrv1

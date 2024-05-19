@@ -1,5 +1,6 @@
 ---
 title: "Barbarian Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Barbarian Dedication"
 foundryId: Item.5b4VFVKOgcbfe7ey

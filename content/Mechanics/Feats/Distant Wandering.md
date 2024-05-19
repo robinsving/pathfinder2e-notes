@@ -1,5 +1,6 @@
 ---
 title: "Distant Wandering"
+draft: true
 noteType: ":luggage:"
 aliases: "Distant Wandering"
 foundryId: Item.xKfT9j2QBBaC6ibD

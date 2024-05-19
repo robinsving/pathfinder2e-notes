@@ -1,5 +1,6 @@
 ---
 title: "Safety Measures"
+draft: true
 noteType: ":luggage:"
 aliases: "Safety Measures"
 foundryId: Item.DqEeQeDboCPAUdyW

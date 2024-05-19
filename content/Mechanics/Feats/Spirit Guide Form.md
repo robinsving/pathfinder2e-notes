@@ -1,5 +1,6 @@
 ---
 title: "Spirit Guide Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Spirit Guide Form"
 foundryId: Item.btop4YEP8mLCo2Bl

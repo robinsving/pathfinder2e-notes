@@ -1,5 +1,6 @@
 ---
 title: "Scar-Thick Skin"
+draft: true
 noteType: ":luggage:"
 aliases: "Scar-Thick Skin"
 foundryId: Item.Sub3wUKXSXHNJto6

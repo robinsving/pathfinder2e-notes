@@ -1,5 +1,6 @@
 ---
 title: "Turpin Rowe Lumberjack Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Turpin Rowe Lumberjack Dedication"
 foundryId: Item.TgIBztUefY1PiCBY

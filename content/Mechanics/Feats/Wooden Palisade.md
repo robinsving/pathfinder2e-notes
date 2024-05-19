@@ -1,5 +1,6 @@
 ---
 title: "Wooden Palisade"
+draft: true
 noteType: ":luggage:"
 aliases: "Wooden Palisade"
 foundryId: Item.59po4eQd7CSNgFhn

@@ -1,5 +1,6 @@
 ---
 title: "Numb to Death"
+draft: true
 noteType: ":luggage:"
 aliases: "Numb to Death"
 foundryId: Item.wd18j11hR8Mkz1QF

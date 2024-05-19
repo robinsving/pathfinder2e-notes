@@ -1,5 +1,6 @@
 ---
 title: "Embodied Legionary Subjectivity"
+draft: true
 noteType: ":luggage:"
 aliases: "Embodied Legionary Subjectivity"
 foundryId: Item.ax1OJTHrHdiXtZsE

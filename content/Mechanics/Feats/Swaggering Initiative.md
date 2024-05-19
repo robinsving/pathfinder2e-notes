@@ -1,5 +1,6 @@
 ---
 title: "Swaggering Initiative"
+draft: true
 noteType: ":luggage:"
 aliases: "Swaggering Initiative"
 foundryId: Item.idfX5RalgXjQyPBo

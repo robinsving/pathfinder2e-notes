@@ -1,5 +1,6 @@
 ---
 title: "Distracting Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Distracting Shot"
 foundryId: Item.FdKnsu1ocVTMj3Rt

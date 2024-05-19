@@ -1,5 +1,6 @@
 ---
 title: "Basic Thaumaturgy"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Thaumaturgy"
 foundryId: Item.Zt9DjZAgRhHx3O3n

@@ -1,5 +1,6 @@
 ---
 title: "Bone Swarm"
+draft: true
 noteType: ":luggage:"
 aliases: "Bone Swarm"
 foundryId: Item.MoYKIAxpIQuW23ix

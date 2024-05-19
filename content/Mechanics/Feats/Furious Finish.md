@@ -1,5 +1,6 @@
 ---
 title: "Furious Finish"
+draft: true
 noteType: ":luggage:"
 aliases: "Furious Finish"
 foundryId: Item.4IghyOmSaQJMVqn2

@@ -1,5 +1,6 @@
 ---
 title: "Magical Knowledge"
+draft: true
 noteType: ":luggage:"
 aliases: "Magical Knowledge"
 foundryId: Item.uVIlcI2yZcQnD0lJ

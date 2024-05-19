@@ -1,5 +1,6 @@
 ---
 title: "Fearsome Fangs"
+draft: true
 noteType: ":luggage:"
 aliases: "Fearsome Fangs"
 foundryId: Item.F6qWw4U0miJ3tSYZ

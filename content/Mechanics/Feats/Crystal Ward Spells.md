@@ -1,5 +1,6 @@
 ---
 title: "Crystal Ward Spells"
+draft: true
 noteType: ":luggage:"
 aliases: "Crystal Ward Spells"
 foundryId: Item.5kkRR3wviICVXiMu

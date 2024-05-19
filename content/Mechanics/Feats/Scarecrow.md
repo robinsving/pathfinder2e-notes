@@ -1,5 +1,6 @@
 ---
 title: "Scarecrow"
+draft: true
 noteType: ":luggage:"
 aliases: "Scarecrow"
 foundryId: Item.TMuVnXynkxp4ju86

@@ -1,5 +1,6 @@
 ---
 title: "Blade of the Crimson Oath"
+draft: true
 noteType: ":luggage:"
 aliases: "Blade of the Crimson Oath"
 foundryId: Item.GT1O0qiu1gLBAbAe

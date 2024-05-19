@@ -1,5 +1,6 @@
 ---
 title: "Secret Eater"
+draft: true
 noteType: ":luggage:"
 aliases: "Secret Eater"
 foundryId: Item.YuErGCF9rvLcj73Z

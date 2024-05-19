@@ -1,5 +1,6 @@
 ---
 title: "Gnome Polyglot"
+draft: true
 noteType: ":luggage:"
 aliases: "Gnome Polyglot"
 foundryId: Item.at8sFTaFTp803LAX

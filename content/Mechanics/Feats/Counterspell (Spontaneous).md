@@ -1,5 +1,6 @@
 ---
 title: "Counterspell (Spontaneous)"
+draft: true
 noteType: ":luggage:"
 aliases: "Counterspell (Spontaneous)"
 foundryId: Item.7pW2Dvwzhzy1ltzn

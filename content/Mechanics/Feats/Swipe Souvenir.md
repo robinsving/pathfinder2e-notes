@@ -1,5 +1,6 @@
 ---
 title: "Swipe Souvenir"
+draft: true
 noteType: ":luggage:"
 aliases: "Swipe Souvenir"
 foundryId: Item.4e6XtMzwueT5jD50

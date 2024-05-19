@@ -1,5 +1,6 @@
 ---
 title: "Protect Ally"
+draft: true
 noteType: ":luggage:"
 aliases: "Protect Ally"
 foundryId: Item.HSDpmztIuYliQ5tk

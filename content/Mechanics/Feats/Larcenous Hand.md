@@ -1,5 +1,6 @@
 ---
 title: "Larcenous Hand"
+draft: true
 noteType: ":luggage:"
 aliases: "Larcenous Hand"
 foundryId: Item.5eoH3A6mzAMlaKhE

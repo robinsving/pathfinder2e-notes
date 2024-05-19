@@ -1,5 +1,6 @@
 ---
 title: Holy Light
+draft: true
 icon: spell
 aliases:
   - Holy Light

@@ -1,5 +1,6 @@
 ---
 title: "Tomb-Watcher's Glare"
+draft: true
 noteType: ":luggage:"
 aliases: "Tomb-Watcher's Glare"
 foundryId: Item.x9ViABnVQJx0II0A

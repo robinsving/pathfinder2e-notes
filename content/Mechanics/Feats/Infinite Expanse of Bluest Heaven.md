@@ -1,5 +1,6 @@
 ---
 title: "Infinite Expanse of Bluest Heaven"
+draft: true
 noteType: ":luggage:"
 aliases: "Infinite Expanse of Bluest Heaven"
 foundryId: Item.FUYDVYTftB7fFAbV

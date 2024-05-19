@@ -1,5 +1,6 @@
 ---
 title: "Gift Of The Moon"
+draft: true
 noteType: ":luggage:"
 aliases: "Gift Of The Moon"
 foundryId: Item.z4fr36Xr20NV2Y55

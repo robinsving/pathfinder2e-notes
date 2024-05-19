@@ -1,5 +1,6 @@
 ---
 title: "Jagged Berms"
+draft: true
 noteType: ":luggage:"
 aliases: "Jagged Berms"
 foundryId: Item.x2YtntYIBtwa7cwY

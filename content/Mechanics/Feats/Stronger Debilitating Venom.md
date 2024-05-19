@@ -1,5 +1,6 @@
 ---
 title: "Stronger Debilitating Venom"
+draft: true
 noteType: ":luggage:"
 aliases: "Stronger Debilitating Venom"
 foundryId: Item.Slxl37Qe5oEiJHkD

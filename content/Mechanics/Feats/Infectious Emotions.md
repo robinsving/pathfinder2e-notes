@@ -1,5 +1,6 @@
 ---
 title: "Infectious Emotions"
+draft: true
 noteType: ":luggage:"
 aliases: "Infectious Emotions"
 foundryId: Item.3ohHnS8Me8gbf3bK

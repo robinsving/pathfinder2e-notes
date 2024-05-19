@@ -1,5 +1,6 @@
 ---
 title: "Arcane Tattoos"
+draft: true
 noteType: ":luggage:"
 aliases: "Arcane Tattoos"
 foundryId: Item.BIwFWgzV1KR9XVeq

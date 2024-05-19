@@ -1,5 +1,6 @@
 ---
 title: "Wrath of the First Ghoul"
+draft: true
 noteType: ":luggage:"
 aliases: "Wrath of the First Ghoul"
 foundryId: Item.dyPqzf8M2nMmS3jy

@@ -1,5 +1,6 @@
 ---
 title: "Voice of Elements"
+draft: true
 noteType: ":luggage:"
 aliases: "Voice of Elements"
 foundryId: Item.NyYCSBsUiSYRJ52U

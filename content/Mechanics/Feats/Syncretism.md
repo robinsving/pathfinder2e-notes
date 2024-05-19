@@ -1,5 +1,6 @@
 ---
 title: "Syncretism"
+draft: true
 noteType: ":luggage:"
 aliases: "Syncretism"
 foundryId: Item.6e4Vzbo9K3wRTnTQ

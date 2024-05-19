@@ -1,5 +1,6 @@
 ---
 title: "Advanced First Aid"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced First Aid"
 foundryId: Item.CT4CJXs5S3JWqDKo

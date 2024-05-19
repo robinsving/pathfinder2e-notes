@@ -1,5 +1,6 @@
 ---
 title: "Rat Familiar"
+draft: true
 noteType: ":luggage:"
 aliases: "Rat Familiar"
 foundryId: Item.fhHYo9QgBxiloC02

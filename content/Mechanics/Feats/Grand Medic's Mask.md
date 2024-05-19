@@ -1,5 +1,6 @@
 ---
 title: "Grand Medic's Mask"
+draft: true
 noteType: ":luggage:"
 aliases: "Grand Medic's Mask"
 foundryId: Item.1sUqjrKwM4e4GtVY

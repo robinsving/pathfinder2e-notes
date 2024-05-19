@@ -1,5 +1,6 @@
 ---
 title: "Flower Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Flower Magic"
 foundryId: Item.50ItF8Wn4fjE2vMS

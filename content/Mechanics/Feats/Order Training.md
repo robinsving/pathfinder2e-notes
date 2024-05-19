@@ -1,5 +1,6 @@
 ---
 title: "Order Training"
+draft: true
 noteType: ":luggage:"
 aliases: "Order Training"
 foundryId: Item.BvZqP2aEkIK8qNL8

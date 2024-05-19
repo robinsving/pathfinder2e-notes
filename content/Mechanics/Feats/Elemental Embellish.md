@@ -1,5 +1,6 @@
 ---
 title: "Elemental Embellish"
+draft: true
 noteType: ":luggage:"
 aliases: "Elemental Embellish"
 foundryId: Item.3LoiJUvLYddedrIR

@@ -1,5 +1,6 @@
 ---
 title: "Swordmaster Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Swordmaster Dedication"
 foundryId: Item.B30d9vaMcTzrMYc3

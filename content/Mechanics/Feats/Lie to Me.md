@@ -1,5 +1,6 @@
 ---
 title: "Lie to Me"
+draft: true
 noteType: ":luggage:"
 aliases: "Lie to Me"
 foundryId: Item.JanXIfJFHwJj8dTk

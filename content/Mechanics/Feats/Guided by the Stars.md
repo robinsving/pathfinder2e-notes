@@ -1,5 +1,6 @@
 ---
 title: "Guided by the Stars"
+draft: true
 noteType: ":luggage:"
 aliases: "Guided by the Stars"
 foundryId: Item.OoBOt9ncvgJ6aiW0

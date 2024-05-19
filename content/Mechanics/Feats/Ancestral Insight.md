@@ -1,5 +1,6 @@
 ---
 title: "Ancestral Insight"
+draft: true
 noteType: ":luggage:"
 aliases: "Ancestral Insight"
 foundryId: Item.shGnb0Z8LMqLd3gA

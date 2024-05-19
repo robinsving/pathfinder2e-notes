@@ -1,5 +1,6 @@
 ---
 title: "Adapted Cantrip"
+draft: true
 noteType: ":luggage:"
 aliases: "Adapted Cantrip"
 foundryId: Item.ISX9srLPFiWIsBkd

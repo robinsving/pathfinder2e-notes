@@ -1,5 +1,6 @@
 ---
 title: "Tireless Guide's Mask"
+draft: true
 noteType: ":luggage:"
 aliases: "Tireless Guide's Mask"
 foundryId: Item.uxhqhGAfvrHwcbRm

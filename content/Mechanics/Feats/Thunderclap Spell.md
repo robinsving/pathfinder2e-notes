@@ -1,5 +1,6 @@
 ---
 title: "Thunderclap Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Thunderclap Spell"
 foundryId: Item.VUueD3bk9sqS95yE

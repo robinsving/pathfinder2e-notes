@@ -1,5 +1,6 @@
 ---
 title: "Larcenous Tail"
+draft: true
 noteType: ":luggage:"
 aliases: "Larcenous Tail"
 foundryId: Item.MQNt2o1rhPt7P07u

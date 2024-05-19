@@ -1,5 +1,6 @@
 ---
 title: "Pirate Weapon Training"
+draft: true
 noteType: ":luggage:"
 aliases: "Pirate Weapon Training"
 foundryId: Item.jgiD0EWdB2a20t3e

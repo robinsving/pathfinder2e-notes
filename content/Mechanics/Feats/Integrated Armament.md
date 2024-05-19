@@ -1,5 +1,6 @@
 ---
 title: "Integrated Armament"
+draft: true
 noteType: ":luggage:"
 aliases: "Integrated Armament"
 foundryId: Item.XBSweM2ahyPeInmG

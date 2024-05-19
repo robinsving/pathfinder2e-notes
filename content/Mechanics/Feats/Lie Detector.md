@@ -1,5 +1,6 @@
 ---
 title: "Lie Detector"
+draft: true
 noteType: ":luggage:"
 aliases: "Lie Detector"
 foundryId: Item.Q1LmR1NBx4LYPS6k

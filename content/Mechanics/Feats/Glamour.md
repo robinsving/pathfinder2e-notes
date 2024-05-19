@@ -1,5 +1,6 @@
 ---
 title: "Glamour"
+draft: true
 noteType: ":luggage:"
 aliases: "Glamour"
 foundryId: Item.f0Y8MOhboKBycQTk

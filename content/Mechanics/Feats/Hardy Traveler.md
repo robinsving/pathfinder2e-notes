@@ -1,5 +1,6 @@
 ---
 title: "Hardy Traveler"
+draft: true
 noteType: ":luggage:"
 aliases: "Hardy Traveler"
 foundryId: Item.nOglFxeLzTd3qOyY

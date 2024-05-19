@@ -1,5 +1,6 @@
 ---
 title: "Well-Groomed"
+draft: true
 noteType: ":luggage:"
 aliases: "Well-Groomed"
 foundryId: Item.sYRhtRaS66H9vJTX

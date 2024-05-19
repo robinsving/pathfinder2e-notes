@@ -1,5 +1,6 @@
 ---
 title: "Speech of the Mammoth Lords"
+draft: true
 noteType: ":luggage:"
 aliases: "Speech of the Mammoth Lords"
 foundryId: Item.1vbeqRoNvYwSBhlE

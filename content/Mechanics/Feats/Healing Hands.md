@@ -1,5 +1,6 @@
 ---
 title: "Healing Hands"
+draft: true
 noteType: ":luggage:"
 aliases: "Healing Hands"
 foundryId: Item.C6bUZ8gkkFqojFfO

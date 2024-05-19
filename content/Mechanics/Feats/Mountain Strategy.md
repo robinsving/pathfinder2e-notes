@@ -1,5 +1,6 @@
 ---
 title: "Mountain Strategy"
+draft: true
 noteType: ":luggage:"
 aliases: "Mountain Strategy"
 foundryId: Item.OreBUD530LqqEJs1

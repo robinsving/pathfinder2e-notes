@@ -1,5 +1,6 @@
 ---
 title: "Assurance"
+draft: true
 noteType: ":luggage:"
 aliases: "Assurance"
 foundryId: Item.nxTS5yMCscl8XRlf

@@ -1,5 +1,6 @@
 ---
 title: "Risky Surgery"
+draft: true
 noteType: ":luggage:"
 aliases: "Risky Surgery"
 foundryId: Item.9T81i6Wpo250Juym

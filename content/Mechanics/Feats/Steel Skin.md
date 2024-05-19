@@ -1,5 +1,6 @@
 ---
 title: "Steel Skin"
+draft: true
 noteType: ":luggage:"
 aliases: "Steel Skin"
 foundryId: Item.ppM0nS5rTo4k1Qxk

@@ -1,5 +1,6 @@
 ---
 title: "Disarming Block"
+draft: true
 noteType: ":luggage:"
 aliases: "Disarming Block"
 foundryId: Item.XxGJPYezntLgAHfV

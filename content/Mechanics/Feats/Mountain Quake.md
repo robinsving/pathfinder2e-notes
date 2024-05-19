@@ -1,5 +1,6 @@
 ---
 title: "Mountain Quake"
+draft: true
 noteType: ":luggage:"
 aliases: "Mountain Quake"
 foundryId: Item.Mv7cWsBWvYmw9NE5

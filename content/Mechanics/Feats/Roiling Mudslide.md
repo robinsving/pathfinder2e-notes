@@ -1,5 +1,6 @@
 ---
 title: "Roiling Mudslide"
+draft: true
 noteType: ":luggage:"
 aliases: "Roiling Mudslide"
 foundryId: Item.qzkPDu2uJEgJvqbh

@@ -1,5 +1,6 @@
 ---
 title: "Their Master's Call"
+draft: true
 noteType: ":luggage:"
 aliases: "Their Master's Call"
 foundryId: Item.hvhyH37xDIdkxRfs

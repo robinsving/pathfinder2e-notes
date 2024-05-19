@@ -1,5 +1,6 @@
 ---
 title: "Pierce the Darkness"
+draft: true
 noteType: ":luggage:"
 aliases: "Pierce the Darkness"
 foundryId: Item.7jNvP8h5SkgF6Tsv

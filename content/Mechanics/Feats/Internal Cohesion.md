@@ -1,5 +1,6 @@
 ---
 title: "Internal Cohesion"
+draft: true
 noteType: ":luggage:"
 aliases: "Internal Cohesion"
 foundryId: Item.qwxlgWppJitdJEoD

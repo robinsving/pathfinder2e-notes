@@ -1,5 +1,6 @@
 ---
 title: "Water Conjuration"
+draft: true
 noteType: ":luggage:"
 aliases: "Water Conjuration"
 foundryId: Item.6CDFS3dxVL5iFRx8

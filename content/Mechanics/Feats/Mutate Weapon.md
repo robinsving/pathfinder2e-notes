@@ -1,5 +1,6 @@
 ---
 title: "Mutate Weapon"
+draft: true
 noteType: ":luggage:"
 aliases: "Mutate Weapon"
 foundryId: Item.6KIIU7HrX00imzXV

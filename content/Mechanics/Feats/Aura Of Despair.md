@@ -1,5 +1,6 @@
 ---
 title: "Aura Of Despair"
+draft: true
 noteType: ":luggage:"
 aliases: "Aura Of Despair"
 foundryId: Item.ahGaDY9h7Y5nDw77

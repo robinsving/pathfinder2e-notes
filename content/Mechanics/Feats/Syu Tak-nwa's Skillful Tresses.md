@@ -1,5 +1,6 @@
 ---
 title: "Syu Tak-nwa's Skillful Tresses"
+draft: true
 noteType: ":luggage:"
 aliases: "Syu Tak-nwa's Skillful Tresses"
 foundryId: Item.kZaieB7Lk3LVkyDi

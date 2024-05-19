@@ -1,5 +1,6 @@
 ---
 title: "Preventative Treatment"
+draft: true
 noteType: ":luggage:"
 aliases: "Preventative Treatment"
 foundryId: Item.lwtDa5ViytJITwuX

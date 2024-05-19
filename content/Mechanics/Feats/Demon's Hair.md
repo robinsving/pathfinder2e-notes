@@ -1,5 +1,6 @@
 ---
 title: "Demon's Hair"
+draft: true
 noteType: ":luggage:"
 aliases: "Demon's Hair"
 foundryId: Item.6QTytOieHkUAb7BP

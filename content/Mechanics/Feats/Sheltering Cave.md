@@ -1,5 +1,6 @@
 ---
 title: "Sheltering Cave"
+draft: true
 noteType: ":luggage:"
 aliases: "Sheltering Cave"
 foundryId: Item.BLR630P5kWKGSuOn

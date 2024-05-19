@@ -1,5 +1,6 @@
 ---
 title: "Litany Of Self-Interest"
+draft: true
 noteType: ":luggage:"
 aliases: "Litany Of Self-Interest"
 foundryId: Item.MCYSsMDLss7vEYxM

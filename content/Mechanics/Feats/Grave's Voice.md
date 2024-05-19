@@ -1,5 +1,6 @@
 ---
 title: "Grave's Voice"
+draft: true
 noteType: ":luggage:"
 aliases: "Grave's Voice"
 foundryId: Item.da1p6B39lv0tleSy

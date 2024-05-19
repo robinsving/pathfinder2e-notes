@@ -1,5 +1,6 @@
 ---
 title: "Embodied Dragoon Subjectivity"
+draft: true
 noteType: ":luggage:"
 aliases: "Embodied Dragoon Subjectivity"
 foundryId: Item.yILtmlPIRHz68t1V

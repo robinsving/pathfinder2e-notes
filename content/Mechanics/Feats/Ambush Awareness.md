@@ -1,5 +1,6 @@
 ---
 title: "Ambush Awareness"
+draft: true
 noteType: ":luggage:"
 aliases: "Ambush Awareness"
 foundryId: Item.cy4KByTj2tdw0M4y

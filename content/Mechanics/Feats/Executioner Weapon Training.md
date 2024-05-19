@@ -1,5 +1,6 @@
 ---
 title: "Executioner Weapon Training"
+draft: true
 noteType: ":luggage:"
 aliases: "Executioner Weapon Training"
 foundryId: Item.lZazHmrJv7JJE5JO

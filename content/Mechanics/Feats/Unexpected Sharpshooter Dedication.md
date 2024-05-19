@@ -1,5 +1,6 @@
 ---
 title: "Unexpected Sharpshooter Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Unexpected Sharpshooter Dedication"
 foundryId: Item.oF6wtcDHZa7x1KlL

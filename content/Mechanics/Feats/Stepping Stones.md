@@ -1,5 +1,6 @@
 ---
 title: "Stepping Stones"
+draft: true
 noteType: ":luggage:"
 aliases: "Stepping Stones"
 foundryId: Item.klcXgkkQVvkCVCtW

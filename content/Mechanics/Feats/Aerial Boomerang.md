@@ -1,5 +1,6 @@
 ---
 title: "Aerial Boomerang"
+draft: true
 noteType: ":luggage:"
 aliases: "Aerial Boomerang"
 foundryId: Item.loLK5THiqG9YcPbl

@@ -1,5 +1,6 @@
 ---
 title: "Reflective Pocket"
+draft: true
 noteType: ":luggage:"
 aliases: "Reflective Pocket"
 foundryId: Item.cOGtxxPCV6GC2cv1

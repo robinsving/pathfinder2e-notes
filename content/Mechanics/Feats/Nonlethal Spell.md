@@ -1,5 +1,6 @@
 ---
 title: "Nonlethal Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Nonlethal Spell"
 foundryId: Item.XviabNWYmgAKEtKz

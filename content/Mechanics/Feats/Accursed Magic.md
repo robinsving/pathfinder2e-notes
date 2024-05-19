@@ -1,5 +1,6 @@
 ---
 title: "Accursed Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Accursed Magic"
 foundryId: Item.zmkjeel0DKWD9tKh

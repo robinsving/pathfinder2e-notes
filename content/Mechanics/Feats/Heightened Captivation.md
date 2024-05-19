@@ -1,5 +1,6 @@
 ---
 title: "Heightened Captivation"
+draft: true
 noteType: ":luggage:"
 aliases: "Heightened Captivation"
 foundryId: Item.uPYWfTNNwwvgsl2P

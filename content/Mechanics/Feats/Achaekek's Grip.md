@@ -1,5 +1,6 @@
 ---
 title: "Achaekek's Grip"
+draft: true
 noteType: ":luggage:"
 aliases: "Achaekek's Grip"
 foundryId: Item.dTkqO52g18A9dqNl

@@ -1,5 +1,6 @@
 ---
 title: "Hunter's Fangs"
+draft: true
 noteType: ":luggage:"
 aliases: "Hunter's Fangs"
 foundryId: Item.HB6Et6krX4PTAehI

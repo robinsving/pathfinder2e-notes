@@ -1,5 +1,6 @@
 ---
 title: "Living for the Applause"
+draft: true
 noteType: ":luggage:"
 aliases: "Living for the Applause"
 foundryId: Item.04QTqzjGfgcblPcq

@@ -1,5 +1,6 @@
 ---
 title: "Kneecap"
+draft: true
 noteType: ":luggage:"
 aliases: "Kneecap"
 foundryId: Item.ApCvIB9agmj8550R

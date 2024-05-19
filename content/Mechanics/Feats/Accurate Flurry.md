@@ -1,5 +1,6 @@
 ---
 title: "Accurate Flurry"
+draft: true
 noteType: ":luggage:"
 aliases: "Accurate Flurry"
 foundryId: Item.GygGh3S8RQNHWo1g

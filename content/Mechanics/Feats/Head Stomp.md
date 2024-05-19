@@ -1,5 +1,6 @@
 ---
 title: "Head Stomp"
+draft: true
 noteType: ":luggage:"
 aliases: "Head Stomp"
 foundryId: Item.PmypcHQVl5iGRPcN

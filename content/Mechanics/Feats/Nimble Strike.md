@@ -1,5 +1,6 @@
 ---
 title: "Nimble Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Nimble Strike"
 foundryId: Item.Ix0oktUlTzkaPwvX

@@ -1,5 +1,6 @@
 ---
 title: "Light Paws"
+draft: true
 noteType: ":luggage:"
 aliases: "Light Paws"
 foundryId: Item.M5gWghW8pHEbPTLz

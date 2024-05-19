@@ -1,5 +1,6 @@
 ---
 title: "Master Spellcasting"
+draft: true
 noteType: ":luggage:"
 aliases: "Master Spellcasting"
 foundryId: Item.B8sGfZ8JoXicvfAj

@@ -1,5 +1,6 @@
 ---
 title: "Mammoth Charge"
+draft: true
 noteType: ":luggage:"
 aliases: "Mammoth Charge"
 foundryId: Item.UW5FG9GBOGYfsDPL

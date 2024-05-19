@@ -1,5 +1,6 @@
 ---
 title: "Voice Cold as Death"
+draft: true
 noteType: ":luggage:"
 aliases: "Voice Cold as Death"
 foundryId: Item.inFGcVlbKqZK7qLE

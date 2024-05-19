@@ -1,5 +1,6 @@
 ---
 title: "Greater Revelation"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Revelation"
 foundryId: Item.xdvS1CUdPgpzVGum

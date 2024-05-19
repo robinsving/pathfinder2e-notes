@@ -1,5 +1,6 @@
 ---
 title: "Ceremony of Growth"
+draft: true
 noteType: ":luggage:"
 aliases: "Ceremony of Growth"
 foundryId: Item.IlD2ldjuOeI2XJx9

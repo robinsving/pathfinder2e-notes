@@ -1,5 +1,6 @@
 ---
 title: "Celebrity Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Celebrity Dedication"
 foundryId: Item.ImTCv8IJ4wMP6kVL

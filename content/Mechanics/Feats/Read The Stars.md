@@ -1,5 +1,6 @@
 ---
 title: "Read The Stars"
+draft: true
 noteType: ":luggage:"
 aliases: "Read The Stars"
 foundryId: Item.zR7ucK6RHzrxP4ao

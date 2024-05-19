@@ -1,5 +1,6 @@
 ---
 title: "Pain Tolerance"
+draft: true
 noteType: ":luggage:"
 aliases: "Pain Tolerance"
 foundryId: Item.YI6AneI9Vi7F4T77

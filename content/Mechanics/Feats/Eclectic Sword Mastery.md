@@ -1,5 +1,6 @@
 ---
 title: "Eclectic Sword Mastery"
+draft: true
 noteType: ":luggage:"
 aliases: "Eclectic Sword Mastery"
 foundryId: Item.jbivMfESN6UfwWjK

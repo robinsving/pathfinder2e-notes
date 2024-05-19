@@ -1,5 +1,6 @@
 ---
 title: "Keen Recollection"
+draft: true
 noteType: ":luggage:"
 aliases: "Keen Recollection"
 foundryId: Item.jNT7Gd26WKbV6A5w

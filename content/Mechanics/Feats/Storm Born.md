@@ -1,5 +1,6 @@
 ---
 title: "Storm Born"
+draft: true
 noteType: ":luggage:"
 aliases: "Storm Born"
 foundryId: Item.jIMwm5TYIXLObIn5

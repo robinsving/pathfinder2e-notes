@@ -1,5 +1,6 @@
 ---
 title: "Ally's Shelter"
+draft: true
 noteType: ":luggage:"
 aliases: "Ally's Shelter"
 foundryId: Item.EGFa3IXpbLFdLyjT

@@ -1,5 +1,6 @@
 ---
 title: "Persistent Creation"
+draft: true
 noteType: ":luggage:"
 aliases: "Persistent Creation"
 foundryId: Item.1fghOTrOzc8EwEKl

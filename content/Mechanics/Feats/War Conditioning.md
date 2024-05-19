@@ -1,5 +1,6 @@
 ---
 title: "War Conditioning"
+draft: true
 noteType: ":luggage:"
 aliases: "War Conditioning"
 foundryId: Item.JwyhlemWmyenIUqf

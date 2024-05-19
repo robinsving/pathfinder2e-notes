@@ -1,5 +1,6 @@
 ---
 title: "Undead Companion"
+draft: true
 noteType: ":luggage:"
 aliases: "Undead Companion"
 foundryId: Item.hmIcAHnti9pDy1N0

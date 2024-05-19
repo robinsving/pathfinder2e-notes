@@ -1,5 +1,6 @@
 ---
 title: "Advanced Seeker of Truths"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Seeker of Truths"
 foundryId: Item.R0XPxCO7serznT7k

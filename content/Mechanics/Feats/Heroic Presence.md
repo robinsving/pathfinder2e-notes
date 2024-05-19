@@ -1,5 +1,6 @@
 ---
 title: "Heroic Presence"
+draft: true
 noteType: ":luggage:"
 aliases: "Heroic Presence"
 foundryId: Item.4irTkwKNRkF5YtMr

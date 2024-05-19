@@ -1,5 +1,6 @@
 ---
 title: "Cauterize"
+draft: true
 noteType: ":luggage:"
 aliases: "Cauterize"
 foundryId: Item.5YcJPHl1GhDdcWJP

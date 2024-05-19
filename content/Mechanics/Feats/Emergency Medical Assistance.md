@@ -1,5 +1,6 @@
 ---
 title: "Emergency Medical Assistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Emergency Medical Assistance"
 foundryId: Item.hqfa42Vlu5s8xd2C

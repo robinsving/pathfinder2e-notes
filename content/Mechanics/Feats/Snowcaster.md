@@ -1,5 +1,6 @@
 ---
 title: "Snowcaster"
+draft: true
 noteType: ":luggage:"
 aliases: "Snowcaster"
 foundryId: Item.7Ivq1OZmEhmk9VFK

@@ -1,5 +1,6 @@
 ---
 title: "Secondary Detonation Array"
+draft: true
 noteType: ":luggage:"
 aliases: "Secondary Detonation Array"
 foundryId: Item.hzKupW0wnSrQylZV

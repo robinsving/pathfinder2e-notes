@@ -1,5 +1,6 @@
 ---
 title: "Mind Over Matter"
+draft: true
 noteType: ":luggage:"
 aliases: "Mind Over Matter"
 foundryId: Item.aIIY6M3a3k3ihuyy

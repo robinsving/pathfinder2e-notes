@@ -1,5 +1,6 @@
 ---
 title: "Goblin Weapon Familiarity"
+draft: true
 noteType: ":luggage:"
 aliases: "Goblin Weapon Familiarity"
 foundryId: Item.DVX5dMXmPocJmhNJ

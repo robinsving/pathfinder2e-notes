@@ -1,5 +1,6 @@
 ---
 title: "Formation Training"
+draft: true
 noteType: ":luggage:"
 aliases: "Formation Training"
 foundryId: Item.3x1pBDDz6QuraQiW

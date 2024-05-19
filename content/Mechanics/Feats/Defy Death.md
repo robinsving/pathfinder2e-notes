@@ -1,5 +1,6 @@
 ---
 title: "Defy Death"
+draft: true
 noteType: ":luggage:"
 aliases: "Defy Death"
 foundryId: Item.v8MOvwGsr8pyBUO0

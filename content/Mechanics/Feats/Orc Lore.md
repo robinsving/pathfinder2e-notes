@@ -1,5 +1,6 @@
 ---
 title: "Orc Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Orc Lore"
 foundryId: Item.BiwH3EGLnY996GoJ

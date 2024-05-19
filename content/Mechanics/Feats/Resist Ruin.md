@@ -1,5 +1,6 @@
 ---
 title: "Resist Ruin"
+draft: true
 noteType: ":luggage:"
 aliases: "Resist Ruin"
 foundryId: Item.bg2PDnFhWF3R6NFL

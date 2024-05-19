@@ -1,5 +1,6 @@
 ---
 title: "Black Powder Embodiment"
+draft: true
 noteType: ":luggage:"
 aliases: "Black Powder Embodiment"
 foundryId: Item.B3PVbSZUEbvlgLzP

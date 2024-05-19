@@ -1,5 +1,6 @@
 ---
 title: "Psi Development"
+draft: true
 noteType: ":luggage:"
 aliases: "Psi Development"
 foundryId: Item.s5AHN1phHsbUrWd7

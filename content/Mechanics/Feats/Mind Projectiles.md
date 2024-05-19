@@ -1,5 +1,6 @@
 ---
 title: "Mind Projectiles"
+draft: true
 noteType: ":luggage:"
 aliases: "Mind Projectiles"
 foundryId: Item.d0j4cLUvL7kunWga

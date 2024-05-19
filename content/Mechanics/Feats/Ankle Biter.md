@@ -1,5 +1,6 @@
 ---
 title: "Ankle Biter"
+draft: true
 noteType: ":luggage:"
 aliases: "Ankle Biter"
 foundryId: Item.YhFahYQlYDCqwgMr

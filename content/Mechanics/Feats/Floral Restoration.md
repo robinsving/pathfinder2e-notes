@@ -1,5 +1,6 @@
 ---
 title: "Floral Restoration"
+draft: true
 noteType: ":luggage:"
 aliases: "Floral Restoration"
 foundryId: Item.uDeakfRFgZ9gVYj6

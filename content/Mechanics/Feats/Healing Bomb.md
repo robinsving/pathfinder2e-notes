@@ -1,5 +1,6 @@
 ---
 title: "Healing Bomb"
+draft: true
 noteType: ":luggage:"
 aliases: "Healing Bomb"
 foundryId: Item.KvO5OgdDcFVvlD1y

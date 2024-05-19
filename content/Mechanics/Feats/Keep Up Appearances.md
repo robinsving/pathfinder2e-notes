@@ -1,5 +1,6 @@
 ---
 title: "Keep Up Appearances"
+draft: true
 noteType: ":luggage:"
 aliases: "Keep Up Appearances"
 foundryId: Item.ROn80vuDHxvMDCcZ

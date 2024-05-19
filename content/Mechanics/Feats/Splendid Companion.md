@@ -1,5 +1,6 @@
 ---
 title: "Splendid Companion"
+draft: true
 noteType: ":luggage:"
 aliases: "Splendid Companion"
 foundryId: Item.QKZncJAyeGW1tqe8

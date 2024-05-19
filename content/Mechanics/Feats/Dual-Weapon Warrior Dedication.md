@@ -1,5 +1,6 @@
 ---
 title: "Dual-Weapon Warrior Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Dual-Weapon Warrior Dedication"
 foundryId: Item.JoiSw6kUMaanEvGi

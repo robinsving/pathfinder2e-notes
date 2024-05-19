@@ -1,5 +1,6 @@
 ---
 title: "Wind Jump"
+draft: true
 noteType: ":luggage:"
 aliases: "Wind Jump"
 foundryId: Item.Kksjap3EqaomEyiZ

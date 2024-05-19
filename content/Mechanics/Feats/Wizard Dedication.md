@@ -1,5 +1,6 @@
 ---
 title: "Wizard Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Wizard Dedication"
 foundryId: Item.qqpzyx6xZVwi6gOn

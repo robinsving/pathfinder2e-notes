@@ -1,5 +1,6 @@
 ---
 title: "Juggle"
+draft: true
 noteType: ":luggage:"
 aliases: "Juggle"
 foundryId: Item.YocoB7e7p2Jq136c

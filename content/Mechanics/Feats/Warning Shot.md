@@ -1,5 +1,6 @@
 ---
 title: "Warning Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Warning Shot"
 foundryId: Item.WOFvxBRJ99LmF4um

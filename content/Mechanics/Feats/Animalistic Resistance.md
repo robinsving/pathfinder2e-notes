@@ -1,5 +1,6 @@
 ---
 title: "Animalistic Resistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Animalistic Resistance"
 foundryId: Item.xEiH2LkaxJ1VMPil

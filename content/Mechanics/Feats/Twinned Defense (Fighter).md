@@ -1,5 +1,6 @@
 ---
 title: "Twinned Defense (Fighter)"
+draft: true
 noteType: ":luggage:"
 aliases: "Twinned Defense (Fighter)"
 foundryId: Item.anUldK14l1J4jw2X

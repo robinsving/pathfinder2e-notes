@@ -1,5 +1,6 @@
 ---
 title: "Lastwall Sentry Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Lastwall Sentry Dedication"
 foundryId: Item.849gyIK71dRG8lav

@@ -1,5 +1,6 @@
 ---
 title: "Chosen of Lamashtu"
+draft: true
 noteType: ":luggage:"
 aliases: "Chosen of Lamashtu"
 foundryId: Item.yScM6FErzPOq1K4B

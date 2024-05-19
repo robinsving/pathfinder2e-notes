@@ -1,5 +1,6 @@
 ---
 title: "Halcyon Speaker Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Halcyon Speaker Dedication"
 foundryId: Item.rvchgGSEoOrcxtVp

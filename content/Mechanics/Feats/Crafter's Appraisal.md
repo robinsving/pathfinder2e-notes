@@ -1,5 +1,6 @@
 ---
 title: "Crafter's Appraisal"
+draft: true
 noteType: ":luggage:"
 aliases: "Crafter's Appraisal"
 foundryId: Item.7qXuLl2viFCDLrMw

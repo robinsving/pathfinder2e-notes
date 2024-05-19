@@ -1,5 +1,6 @@
 ---
 title: "Hellknight Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Hellknight Dedication"
 foundryId: Item.gxe1rgdv2GNEnzEV

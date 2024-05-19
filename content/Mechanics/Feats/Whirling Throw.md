@@ -1,5 +1,6 @@
 ---
 title: "Whirling Throw"
+draft: true
 noteType: ":luggage:"
 aliases: "Whirling Throw"
 foundryId: Item.ys1uMv7lfZwTq2ys

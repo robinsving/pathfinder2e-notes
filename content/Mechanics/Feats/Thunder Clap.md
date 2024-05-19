@@ -1,5 +1,6 @@
 ---
 title: "Thunder Clap"
+draft: true
 noteType: ":luggage:"
 aliases: "Thunder Clap"
 foundryId: Item.wcIQ9RzW0AwXd2nR

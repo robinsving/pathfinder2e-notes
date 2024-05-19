@@ -1,5 +1,6 @@
 ---
 title: "Efficient Alchemy (Alchemist)"
+draft: true
 noteType: ":luggage:"
 aliases: "Efficient Alchemy (Alchemist)"
 foundryId: Item.xzwqSze4XyGz04gz

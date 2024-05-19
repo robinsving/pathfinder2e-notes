@@ -1,5 +1,6 @@
 ---
 title: "Eye of Ozem"
+draft: true
 noteType: ":luggage:"
 aliases: "Eye of Ozem"
 foundryId: Item.cdSNDxH6SQubHRZX

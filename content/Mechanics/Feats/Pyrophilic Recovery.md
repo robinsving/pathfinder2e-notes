@@ -1,5 +1,6 @@
 ---
 title: "Pyrophilic Recovery"
+draft: true
 noteType: ":luggage:"
 aliases: "Pyrophilic Recovery"
 foundryId: Item.IbEJ9TT9mgFBOeCq

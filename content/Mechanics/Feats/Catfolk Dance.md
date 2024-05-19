@@ -1,5 +1,6 @@
 ---
 title: "Catfolk Dance"
+draft: true
 noteType: ":luggage:"
 aliases: "Catfolk Dance"
 foundryId: Item.03iNRpecbEuAd6Li

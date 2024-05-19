@@ -1,5 +1,6 @@
 ---
 title: "Fading"
+draft: true
 noteType: ":luggage:"
 aliases: "Fading"
 foundryId: Item.XinYfa7VW7HfVb4Q

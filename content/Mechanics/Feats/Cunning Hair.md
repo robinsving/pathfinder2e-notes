@@ -1,5 +1,6 @@
 ---
 title: "Cunning Hair"
+draft: true
 noteType: ":luggage:"
 aliases: "Cunning Hair"
 foundryId: Item.sKyYukNelMCDrZYX

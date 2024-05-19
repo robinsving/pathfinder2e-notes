@@ -1,5 +1,6 @@
 ---
 title: "Skeletal Resistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Skeletal Resistance"
 foundryId: Item.cPZ25fIHef1TJYPJ

@@ -1,5 +1,6 @@
 ---
 title: "Know-It-All"
+draft: true
 noteType: ":luggage:"
 aliases: "Know-It-All"
 foundryId: Item.vYERpuomlfojceLF

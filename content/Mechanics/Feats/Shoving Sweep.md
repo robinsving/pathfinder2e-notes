@@ -1,5 +1,6 @@
 ---
 title: "Shoving Sweep"
+draft: true
 noteType: ":luggage:"
 aliases: "Shoving Sweep"
 foundryId: Item.clDRfOMutYs8rJrT

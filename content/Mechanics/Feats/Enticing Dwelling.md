@@ -1,5 +1,6 @@
 ---
 title: "Enticing Dwelling"
+draft: true
 noteType: ":luggage:"
 aliases: "Enticing Dwelling"
 foundryId: Item.3AsOFYWGgU0xbGLj

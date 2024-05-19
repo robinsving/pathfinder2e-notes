@@ -1,5 +1,6 @@
 ---
 title: "Advanced Element Control"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Element Control"
 foundryId: Item.CiwaC6wbqIP4ND9r

@@ -1,5 +1,6 @@
 ---
 title: "Shrouded Mien"
+draft: true
 noteType: ":luggage:"
 aliases: "Shrouded Mien"
 foundryId: Item.cJmwwKHHoGhqGCMi

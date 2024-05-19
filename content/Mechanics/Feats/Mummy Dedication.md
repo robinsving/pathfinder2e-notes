@@ -1,5 +1,6 @@
 ---
 title: "Mummy Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Mummy Dedication"
 foundryId: Item.lZmvOd5m5LYwngRt

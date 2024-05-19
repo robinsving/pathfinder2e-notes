@@ -1,5 +1,6 @@
 ---
 title: "Bloodletting Fangs"
+draft: true
 noteType: ":luggage:"
 aliases: "Bloodletting Fangs"
 foundryId: Item.RLlVCPBdSCOTjKOz

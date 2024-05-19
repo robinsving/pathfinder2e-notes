@@ -1,5 +1,6 @@
 ---
 title: "Wooden Mantle"
+draft: true
 noteType: ":luggage:"
 aliases: "Wooden Mantle"
 foundryId: Item.t2neAroudMpCKEpu

@@ -1,5 +1,6 @@
 ---
 title: "Frightful Aura"
+draft: true
 noteType: ":luggage:"
 aliases: "Frightful Aura"
 foundryId: Item.uYNNoAeMXNa34R3O

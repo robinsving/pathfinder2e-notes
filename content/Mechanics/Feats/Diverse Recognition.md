@@ -1,5 +1,6 @@
 ---
 title: "Diverse Recognition"
+draft: true
 noteType: ":luggage:"
 aliases: "Diverse Recognition"
 foundryId: Item.lkEjcqkAlTW7wZCS

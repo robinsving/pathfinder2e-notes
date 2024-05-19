@@ -1,5 +1,6 @@
 ---
 title: "Unshakable Grit"
+draft: true
 noteType: ":luggage:"
 aliases: "Unshakable Grit"
 foundryId: Item.yaIco7EzCWA548gU

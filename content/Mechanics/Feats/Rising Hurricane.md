@@ -1,5 +1,6 @@
 ---
 title: "Rising Hurricane"
+draft: true
 noteType: ":luggage:"
 aliases: "Rising Hurricane"
 foundryId: Item.dGIojH16PLwjBuyq

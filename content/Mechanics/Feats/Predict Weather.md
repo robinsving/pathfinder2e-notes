@@ -1,5 +1,6 @@
 ---
 title: "Predict Weather"
+draft: true
 noteType: ":luggage:"
 aliases: "Predict Weather"
 foundryId: Item.ehraoFMQzBplWbiv

@@ -1,5 +1,6 @@
 ---
 title: "Spell Tinker"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Tinker"
 foundryId: Item.Hhhhj7yTNasqZ8Fg

@@ -1,5 +1,6 @@
 ---
 title: "In Plain Sight"
+draft: true
 noteType: ":luggage:"
 aliases: "In Plain Sight"
 foundryId: Item.niFYbDGe0GTxCibt

@@ -1,5 +1,6 @@
 ---
 title: "Improvised Critical"
+draft: true
 noteType: ":luggage:"
 aliases: "Improvised Critical"
 foundryId: Item.2MUc4GgS9RaEHs0k

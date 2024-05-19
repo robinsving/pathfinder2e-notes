@@ -1,5 +1,6 @@
 ---
 title: "Vigilant Benediction"
+draft: true
 noteType: ":luggage:"
 aliases: "Vigilant Benediction"
 foundryId: Item.6hGZqI5bHXlBRFMd

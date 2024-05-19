@@ -1,5 +1,6 @@
 ---
 title: "Slinger's Readiness"
+draft: true
 noteType: ":luggage:"
 aliases: "Slinger's Readiness"
 foundryId: Item.vjKxD2kFqhB1rnPn

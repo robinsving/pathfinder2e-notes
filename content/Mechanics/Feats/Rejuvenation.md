@@ -1,5 +1,6 @@
 ---
 title: "Rejuvenation"
+draft: true
 noteType: ":luggage:"
 aliases: "Rejuvenation"
 foundryId: Item.v9IrfJ6FKFR5L1tY

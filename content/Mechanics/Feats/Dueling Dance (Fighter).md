@@ -1,5 +1,6 @@
 ---
 title: "Dueling Dance (Fighter)"
+draft: true
 noteType: ":luggage:"
 aliases: "Dueling Dance (Fighter)"
 foundryId: Item.XPIHh4OpmrybUBEJ

@@ -1,5 +1,6 @@
 ---
 title: "Anoint Ally"
+draft: true
 noteType: ":luggage:"
 aliases: "Anoint Ally"
 foundryId: Item.KWIEmCxG0hNQUuAS

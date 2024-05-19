@@ -1,5 +1,6 @@
 ---
 title: "Boneyard's Call"
+draft: true
 noteType: ":luggage:"
 aliases: "Boneyard's Call"
 foundryId: Item.QECoO8VAY01MTcwV

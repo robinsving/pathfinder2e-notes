@@ -1,5 +1,6 @@
 ---
 title: "Heat Wave"
+draft: true
 noteType: ":luggage:"
 aliases: "Heat Wave"
 foundryId: Item.onFqYO9RH7WoCtMB

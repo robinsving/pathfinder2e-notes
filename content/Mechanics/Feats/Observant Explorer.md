@@ -1,5 +1,6 @@
 ---
 title: "Observant Explorer"
+draft: true
 noteType: ":luggage:"
 aliases: "Observant Explorer"
 foundryId: Item.otHuEK8EZKxjiwDG

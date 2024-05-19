@@ -1,5 +1,6 @@
 ---
 title: "Boaster's Challenge"
+draft: true
 noteType: ":luggage:"
 aliases: "Boaster's Challenge"
 foundryId: Item.XmYcf9Enbdt14x2r

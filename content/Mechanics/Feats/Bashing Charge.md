@@ -1,5 +1,6 @@
 ---
 title: "Bashing Charge"
+draft: true
 noteType: ":luggage:"
 aliases: "Bashing Charge"
 foundryId: Item.gbLmDy9njpwfoPaY

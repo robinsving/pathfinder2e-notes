@@ -1,5 +1,6 @@
 ---
 title: "Command Undead"
+draft: true
 noteType: ":luggage:"
 aliases: "Command Undead"
 foundryId: Item.h8ExiXIkWwgj3yoI

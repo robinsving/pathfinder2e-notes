@@ -1,5 +1,6 @@
 ---
 title: "Grave Sense"
+draft: true
 noteType: ":luggage:"
 aliases: "Grave Sense"
 foundryId: Item.CvMKV4FvlEB4yrLt

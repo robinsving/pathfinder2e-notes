@@ -1,5 +1,6 @@
 ---
 title: "Ceremony of Aeon's Shield"
+draft: true
 noteType: ":luggage:"
 aliases: "Ceremony of Aeon's Shield"
 foundryId: Item.f1MaXIB6EvF0Qnfg

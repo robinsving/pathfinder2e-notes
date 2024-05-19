@@ -1,5 +1,6 @@
 ---
 title: "Wellspring Mage Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Wellspring Mage Dedication"
 foundryId: Item.pdqeainHgvUNBypl

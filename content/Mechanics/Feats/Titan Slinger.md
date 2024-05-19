@@ -1,5 +1,6 @@
 ---
 title: "Titan Slinger"
+draft: true
 noteType: ":luggage:"
 aliases: "Titan Slinger"
 foundryId: Item.N2lL8EqfqyGI0Us9

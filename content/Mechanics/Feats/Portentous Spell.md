@@ -1,5 +1,6 @@
 ---
 title: "Portentous Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Portentous Spell"
 foundryId: Item.MZ8OTd11euvFtkO0

@@ -1,5 +1,6 @@
 ---
 title: "Sense Alignment"
+draft: true
 noteType: ":luggage:"
 aliases: "Sense Alignment"
 foundryId: Item.Wi4Oe4NXu28W9H2K

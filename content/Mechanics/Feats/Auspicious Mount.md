@@ -1,5 +1,6 @@
 ---
 title: "Auspicious Mount"
+draft: true
 noteType: ":luggage:"
 aliases: "Auspicious Mount"
 foundryId: Item.Sn5ubaDhtTxxw3Cu

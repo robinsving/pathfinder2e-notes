@@ -1,5 +1,6 @@
 ---
 title: "Student of the Staff"
+draft: true
 noteType: ":luggage:"
 aliases: "Student of the Staff"
 foundryId: Item.4PwmXJs2EKmd2Za6

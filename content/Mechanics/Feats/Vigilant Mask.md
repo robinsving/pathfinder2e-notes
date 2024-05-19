@@ -1,5 +1,6 @@
 ---
 title: "Vigilant Mask"
+draft: true
 noteType: ":luggage:"
 aliases: "Vigilant Mask"
 foundryId: Item.t5usdl4reRl7Q4BO

@@ -1,5 +1,6 @@
 ---
 title: "Pin to the Spot"
+draft: true
 noteType: ":luggage:"
 aliases: "Pin to the Spot"
 foundryId: Item.Ngy4Jwp50srcnb1g

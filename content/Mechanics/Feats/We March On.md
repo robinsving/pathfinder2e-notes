@@ -1,5 +1,6 @@
 ---
 title: "We March On"
+draft: true
 noteType: ":luggage:"
 aliases: "We March On"
 foundryId: Item.jAbGmDdydqdva3bG

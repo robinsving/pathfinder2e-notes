@@ -1,5 +1,6 @@
 ---
 title: "Lethal Finisher"
+draft: true
 noteType: ":luggage:"
 aliases: "Lethal Finisher"
 foundryId: Item.fADUNPgpd91PvpWE

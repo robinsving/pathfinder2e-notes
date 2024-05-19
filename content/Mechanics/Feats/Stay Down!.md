@@ -1,5 +1,6 @@
 ---
 title: "Stay Down!"
+draft: true
 noteType: ":luggage:"
 aliases: "Stay Down!"
 foundryId: Item.jRaunxRG664ApGgf

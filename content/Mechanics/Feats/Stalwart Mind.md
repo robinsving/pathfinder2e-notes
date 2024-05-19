@@ -1,5 +1,6 @@
 ---
 title: "Stalwart Mind"
+draft: true
 noteType: ":luggage:"
 aliases: "Stalwart Mind"
 foundryId: Item.zN1HUIVRE831ziH5

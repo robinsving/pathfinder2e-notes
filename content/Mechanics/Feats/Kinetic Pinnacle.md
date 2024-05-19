@@ -1,5 +1,6 @@
 ---
 title: "Kinetic Pinnacle"
+draft: true
 noteType: ":luggage:"
 aliases: "Kinetic Pinnacle"
 foundryId: Item.QQ1l3fkRaLXJ29C1

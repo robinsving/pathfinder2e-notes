@@ -1,5 +1,6 @@
 ---
 title: "Advanced Martial Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Martial Magic"
 foundryId: Item.Vwrl6fTZbt5JqNN0

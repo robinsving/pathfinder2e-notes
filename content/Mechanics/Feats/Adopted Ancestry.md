@@ -1,5 +1,6 @@
 ---
 title: "Adopted Ancestry"
+draft: true
 noteType: ":luggage:"
 aliases: "Adopted Ancestry"
 foundryId: Item.uZ4zhuVRoIEv95rv

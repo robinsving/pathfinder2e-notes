@@ -1,5 +1,6 @@
 ---
 title: "Deceptive Worship"
+draft: true
 noteType: ":luggage:"
 aliases: "Deceptive Worship"
 foundryId: Item.rUyLX8qMhf5pWaEi

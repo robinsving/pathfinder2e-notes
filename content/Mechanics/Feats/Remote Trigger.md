@@ -1,5 +1,6 @@
 ---
 title: "Remote Trigger"
+draft: true
 noteType: ":luggage:"
 aliases: "Remote Trigger"
 foundryId: Item.sISW3C3e6WzAsmP3

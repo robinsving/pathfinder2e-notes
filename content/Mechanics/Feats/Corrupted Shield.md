@@ -1,5 +1,6 @@
 ---
 title: "Corrupted Shield"
+draft: true
 noteType: ":luggage:"
 aliases: "Corrupted Shield"
 foundryId: Item.6CfGoxJRwAhAvHMH

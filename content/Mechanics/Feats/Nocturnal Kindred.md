@@ -1,5 +1,6 @@
 ---
 title: "Nocturnal Kindred"
+draft: true
 noteType: ":luggage:"
 aliases: "Nocturnal Kindred"
 foundryId: Item.oolcTnojXnQceC8e

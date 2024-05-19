@@ -1,5 +1,6 @@
 ---
 title: "Fox Trick"
+draft: true
 noteType: ":luggage:"
 aliases: "Fox Trick"
 foundryId: Item.C2AmcRDBnTrbjC9K

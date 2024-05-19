@@ -1,5 +1,6 @@
 ---
 title: "Cheek Pouches"
+draft: true
 noteType: ":luggage:"
 aliases: "Cheek Pouches"
 foundryId: Item.FXb2b95NDsXTvhb4

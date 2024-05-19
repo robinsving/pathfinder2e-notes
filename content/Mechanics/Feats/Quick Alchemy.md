@@ -1,5 +1,6 @@
 ---
 title: "Quick Alchemy"
+draft: true
 noteType: ":luggage:"
 aliases: "Quick Alchemy"
 foundryId: Item.4n8arlrjmZOiATaP

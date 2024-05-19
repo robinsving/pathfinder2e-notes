@@ -1,5 +1,6 @@
 ---
 title: "Beacon Mark"
+draft: true
 noteType: ":luggage:"
 aliases: "Beacon Mark"
 foundryId: Item.ZfmkLkIF4sI1rfeT

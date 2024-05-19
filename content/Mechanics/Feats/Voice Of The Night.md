@@ -1,5 +1,6 @@
 ---
 title: "Voice Of The Night"
+draft: true
 noteType: ":luggage:"
 aliases: "Voice Of The Night"
 foundryId: Item.IJBhNlvBnwvcz8j5

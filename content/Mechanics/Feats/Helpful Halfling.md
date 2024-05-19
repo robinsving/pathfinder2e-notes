@@ -1,5 +1,6 @@
 ---
 title: "Helpful Halfling"
+draft: true
 noteType: ":luggage:"
 aliases: "Helpful Halfling"
 foundryId: Item.ledGktMemFO4J1Vv

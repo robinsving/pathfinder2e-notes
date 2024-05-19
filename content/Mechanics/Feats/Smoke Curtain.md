@@ -1,5 +1,6 @@
 ---
 title: "Smoke Curtain"
+draft: true
 noteType: ":luggage:"
 aliases: "Smoke Curtain"
 foundryId: Item.5g1IXPsdnGtawRX3

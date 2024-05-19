@@ -1,5 +1,6 @@
 ---
 title: "Snap Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Snap Shot"
 foundryId: Item.YwLXhakfr8CLCbzO

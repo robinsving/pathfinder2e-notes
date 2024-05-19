@@ -1,5 +1,6 @@
 ---
 title: "Lion Blade Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Lion Blade Dedication"
 foundryId: Item.cgyXtDBbZ4ebON5q

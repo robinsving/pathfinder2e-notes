@@ -1,5 +1,6 @@
 ---
 title: "Rakshasa Ravaged"
+draft: true
 noteType: ":luggage:"
 aliases: "Rakshasa Ravaged"
 foundryId: Item.fC4SspXxcRzgD5jx

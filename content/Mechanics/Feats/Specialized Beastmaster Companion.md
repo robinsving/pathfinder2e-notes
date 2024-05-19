@@ -1,5 +1,6 @@
 ---
 title: "Specialized Beastmaster Companion"
+draft: true
 noteType: ":luggage:"
 aliases: "Specialized Beastmaster Companion"
 foundryId: Item.Zp1AAAGwdyvKmkW6

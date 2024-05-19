@@ -1,5 +1,6 @@
 ---
 title: "Basic Dogma"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Dogma"
 foundryId: Item.lx3OvCeO8VmnGKXq

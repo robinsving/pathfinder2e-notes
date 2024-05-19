@@ -1,5 +1,6 @@
 ---
 title: "Combat Reading"
+draft: true
 noteType: ":luggage:"
 aliases: "Combat Reading"
 foundryId: Item.i84nokRh5QjwmpLq

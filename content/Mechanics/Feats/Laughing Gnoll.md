@@ -1,5 +1,6 @@
 ---
 title: "Laughing Gnoll"
+draft: true
 noteType: ":luggage:"
 aliases: "Laughing Gnoll"
 foundryId: Item.TYYeTQ2r8op4OBad

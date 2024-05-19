@@ -1,5 +1,6 @@
 ---
 title: "Doublespeak"
+draft: true
 noteType: ":luggage:"
 aliases: "Doublespeak"
 foundryId: Item.WknG8Ynj4IgADh3e

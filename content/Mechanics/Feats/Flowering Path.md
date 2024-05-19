@@ -1,5 +1,6 @@
 ---
 title: "Flowering Path"
+draft: true
 noteType: ":luggage:"
 aliases: "Flowering Path"
 foundryId: Item.xegUokQPqOrZ43q1

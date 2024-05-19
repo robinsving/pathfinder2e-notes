@@ -1,5 +1,6 @@
 ---
 title: "Draconic Arrogance"
+draft: true
 noteType: ":luggage:"
 aliases: "Draconic Arrogance"
 foundryId: Item.a7cnYTqkXhzN71qZ

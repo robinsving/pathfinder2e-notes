@@ -1,5 +1,6 @@
 ---
 title: "Mental Static"
+draft: true
 noteType: ":luggage:"
 aliases: "Mental Static"
 foundryId: Item.fwoC84cGuELZLZBX

@@ -1,5 +1,6 @@
 ---
 title: "Greater Cruelty"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Cruelty"
 foundryId: Item.1CnGgUxf7IbDTGcs

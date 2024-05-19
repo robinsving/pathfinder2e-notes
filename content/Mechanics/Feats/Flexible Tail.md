@@ -1,5 +1,6 @@
 ---
 title: "Flexible Tail"
+draft: true
 noteType: ":luggage:"
 aliases: "Flexible Tail"
 foundryId: Item.tT8OEBD0Vg4Y1LAV

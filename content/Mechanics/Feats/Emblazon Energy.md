@@ -1,5 +1,6 @@
 ---
 title: "Emblazon Energy"
+draft: true
 noteType: ":luggage:"
 aliases: "Emblazon Energy"
 foundryId: Item.sfoBwgQYCiJmZiLb

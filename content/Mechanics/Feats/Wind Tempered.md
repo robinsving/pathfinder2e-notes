@@ -1,5 +1,6 @@
 ---
 title: "Wind Tempered"
+draft: true
 noteType: ":luggage:"
 aliases: "Wind Tempered"
 foundryId: Item.yF8sCmQWFpylYIfW

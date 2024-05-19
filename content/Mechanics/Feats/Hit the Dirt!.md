@@ -1,5 +1,6 @@
 ---
 title: "Hit the Dirt!"
+draft: true
 noteType: ":luggage:"
 aliases: "Hit the Dirt!"
 foundryId: Item.oawVY3VKA4nYlhDO

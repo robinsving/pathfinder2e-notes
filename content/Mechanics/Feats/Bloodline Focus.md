@@ -1,5 +1,6 @@
 ---
 title: "Bloodline Focus"
+draft: true
 noteType: ":luggage:"
 aliases: "Bloodline Focus"
 foundryId: Item.rG1VvKbscUv1EVDj

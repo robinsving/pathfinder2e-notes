@@ -1,5 +1,6 @@
 ---
 title: "Advanced Thaumaturgy"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Thaumaturgy"
 foundryId: Item.N0ystieJwfKD85XO

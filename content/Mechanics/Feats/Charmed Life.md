@@ -1,5 +1,6 @@
 ---
 title: "Charmed Life"
+draft: true
 noteType: ":luggage:"
 aliases: "Charmed Life"
 foundryId: Item.0be4IyZrBHLPDUPS

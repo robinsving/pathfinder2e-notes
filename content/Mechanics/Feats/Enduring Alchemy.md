@@ -1,5 +1,6 @@
 ---
 title: "Enduring Alchemy"
+draft: true
 noteType: ":luggage:"
 aliases: "Enduring Alchemy"
 foundryId: Item.XFd8QRWv3QHwAKLE

@@ -1,5 +1,6 @@
 ---
 title: "Reaper of Repose"
+draft: true
 noteType: ":luggage:"
 aliases: "Reaper of Repose"
 foundryId: Item.TwqbGxMRAOTnrQgI

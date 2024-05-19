@@ -1,5 +1,6 @@
 ---
 title: "Djinni Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Djinni Magic"
 foundryId: Item.shbIjDOfjXcEAFHk

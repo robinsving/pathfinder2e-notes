@@ -1,5 +1,6 @@
 ---
 title: "Blind-Fight"
+draft: true
 noteType: ":luggage:"
 aliases: "Blind-Fight"
 foundryId: Item.jsqaoD4FPrREo6zO

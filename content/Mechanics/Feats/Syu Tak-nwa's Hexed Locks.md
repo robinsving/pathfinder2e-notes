@@ -1,5 +1,6 @@
 ---
 title: "Syu Tak-nwa's Hexed Locks"
+draft: true
 noteType: ":luggage:"
 aliases: "Syu Tak-nwa's Hexed Locks"
 foundryId: Item.nHuE5Zw8DL6oiKkM

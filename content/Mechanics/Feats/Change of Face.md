@@ -1,5 +1,6 @@
 ---
 title: "Change of Face"
+draft: true
 noteType: ":luggage:"
 aliases: "Change of Face"
 foundryId: Item.mIJOJzl9FdZVCBJu

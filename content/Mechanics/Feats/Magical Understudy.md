@@ -1,5 +1,6 @@
 ---
 title: "Magical Understudy"
+draft: true
 noteType: ":luggage:"
 aliases: "Magical Understudy"
 foundryId: Item.G5Gd59qyHoN6JzXf

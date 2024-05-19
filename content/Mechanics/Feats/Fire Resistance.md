@@ -1,5 +1,6 @@
 ---
 title: "Fire Resistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Fire Resistance"
 foundryId: Item.sYwTfeh1q1WOTUkS

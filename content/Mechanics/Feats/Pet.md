@@ -1,5 +1,6 @@
 ---
 title: "Pet"
+draft: true
 noteType: ":luggage:"
 aliases: "Pet"
 foundryId: Item.lD6QwyUKsDxCqB1T

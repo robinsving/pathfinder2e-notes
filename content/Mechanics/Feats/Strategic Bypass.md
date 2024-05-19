@@ -1,5 +1,6 @@
 ---
 title: "Strategic Bypass"
+draft: true
 noteType: ":luggage:"
 aliases: "Strategic Bypass"
 foundryId: Item.mZP9WcokIOuMKHiI

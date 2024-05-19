@@ -1,5 +1,6 @@
 ---
 title: "Practiced Reloads"
+draft: true
 noteType: ":luggage:"
 aliases: "Practiced Reloads"
 foundryId: Item.yO4gGcjC654052Xr

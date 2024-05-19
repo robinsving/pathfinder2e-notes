@@ -1,5 +1,6 @@
 ---
 title: "Wandering Oasis"
+draft: true
 noteType: ":luggage:"
 aliases: "Wandering Oasis"
 foundryId: Item.otODYSGimu7LbbkE

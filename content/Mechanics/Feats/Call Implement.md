@@ -1,5 +1,6 @@
 ---
 title: "Call Implement"
+draft: true
 noteType: ":luggage:"
 aliases: "Call Implement"
 foundryId: Item.zD63AVcXXECBBkDv

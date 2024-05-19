@@ -1,5 +1,6 @@
 ---
 title: "Core Cannon"
+draft: true
 noteType: ":luggage:"
 aliases: "Core Cannon"
 foundryId: Item.7EmlxTdvcI0JFWF3

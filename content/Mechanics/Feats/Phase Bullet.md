@@ -1,5 +1,6 @@
 ---
 title: "Phase Bullet"
+draft: true
 noteType: ":luggage:"
 aliases: "Phase Bullet"
 foundryId: Item.J6FSjDee7H5iT2YH

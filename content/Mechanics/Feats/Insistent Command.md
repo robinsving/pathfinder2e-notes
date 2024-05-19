@@ -1,5 +1,6 @@
 ---
 title: "Insistent Command"
+draft: true
 noteType: ":luggage:"
 aliases: "Insistent Command"
 foundryId: Item.XwYYGGYUSo3QmUU2

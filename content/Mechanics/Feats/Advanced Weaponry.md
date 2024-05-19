@@ -1,5 +1,6 @@
 ---
 title: "Advanced Weaponry"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Weaponry"
 foundryId: Item.XoejBWPr7csO2krs

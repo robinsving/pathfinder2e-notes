@@ -1,5 +1,6 @@
 ---
 title: "Janni Hospitality"
+draft: true
 noteType: ":luggage:"
 aliases: "Janni Hospitality"
 foundryId: Item.Jni4uHLIzeYGL6c0

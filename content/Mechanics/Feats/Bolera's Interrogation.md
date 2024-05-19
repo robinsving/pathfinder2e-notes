@@ -1,5 +1,6 @@
 ---
 title: "Bolera's Interrogation"
+draft: true
 noteType: ":luggage:"
 aliases: "Bolera's Interrogation"
 foundryId: Item.pGLR6wYagzYClHZD

@@ -1,5 +1,6 @@
 ---
 title: "Impaling Thrust"
+draft: true
 noteType: ":luggage:"
 aliases: "Impaling Thrust"
 foundryId: Item.zAcUfvTo9mEznzuL

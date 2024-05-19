@@ -1,5 +1,6 @@
 ---
 title: "Unfettered Halfling"
+draft: true
 noteType: ":luggage:"
 aliases: "Unfettered Halfling"
 foundryId: Item.Ld8bCj37BmQxxru7

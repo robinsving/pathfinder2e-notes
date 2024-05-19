@@ -1,5 +1,6 @@
 ---
 title: "Advanced Hallowed Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Hallowed Spell"
 foundryId: Item.2H4HL3jkpfaVSPqK

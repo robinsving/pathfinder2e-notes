@@ -1,5 +1,6 @@
 ---
 title: "Alkenstar Agent Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Alkenstar Agent Dedication"
 foundryId: Item.3Z9hqTrfx50aa1Vs

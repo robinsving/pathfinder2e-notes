@@ -1,5 +1,6 @@
 ---
 title: "Improved Hijack Undead"
+draft: true
 noteType: ":luggage:"
 aliases: "Improved Hijack Undead"
 foundryId: Item.p7g9iWA1VpEGZ0ZD

@@ -1,5 +1,6 @@
 ---
 title: "Glider Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Glider Form"
 foundryId: Item.jLwZtF3l5Xm4cQn6

@@ -1,5 +1,6 @@
 ---
 title: "Knock Sense"
+draft: true
 noteType: ":luggage:"
 aliases: "Knock Sense"
 foundryId: Item.9rdkQgox7J081A5x

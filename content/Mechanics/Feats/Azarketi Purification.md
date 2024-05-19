@@ -1,5 +1,6 @@
 ---
 title: "Azarketi Purification"
+draft: true
 noteType: ":luggage:"
 aliases: "Azarketi Purification"
 foundryId: Item.CjoaNb8lnVwWjB73

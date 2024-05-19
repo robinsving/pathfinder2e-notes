@@ -1,5 +1,6 @@
 ---
 title: "Order Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Order Spell"
 foundryId: Item.BJeSSaoNVNaNoZvd

@@ -1,5 +1,6 @@
 ---
 title: "Garden Path"
+draft: true
 noteType: ":luggage:"
 aliases: "Garden Path"
 foundryId: Item.mWj1GQi3NKcpjduz

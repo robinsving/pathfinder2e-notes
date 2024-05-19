@@ -1,5 +1,6 @@
 ---
 title: "Prevailing Position"
+draft: true
 noteType: ":luggage:"
 aliases: "Prevailing Position"
 foundryId: Item.nSsnepM1RjWFz86J

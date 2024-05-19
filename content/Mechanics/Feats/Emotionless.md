@@ -1,5 +1,6 @@
 ---
 title: "Emotionless"
+draft: true
 noteType: ":luggage:"
 aliases: "Emotionless"
 foundryId: Item.ATeCogA1wua5rj2z

@@ -1,5 +1,6 @@
 ---
 title: "Disturbing Knowledge"
+draft: true
 noteType: ":luggage:"
 aliases: "Disturbing Knowledge"
 foundryId: Item.3wsEihSLljjJOXjN

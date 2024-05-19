@@ -1,5 +1,6 @@
 ---
 title: "Call Your Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Call Your Shot"
 foundryId: Item.FJ2dlX53Rwzn89LW

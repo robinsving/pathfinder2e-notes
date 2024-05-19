@@ -1,5 +1,6 @@
 ---
 title: "Bless Shield"
+draft: true
 noteType: ":luggage:"
 aliases: "Bless Shield"
 foundryId: Item.j3zIF4GPENWkjtVP

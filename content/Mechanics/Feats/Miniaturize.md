@@ -1,5 +1,6 @@
 ---
 title: "Miniaturize"
+draft: true
 noteType: ":luggage:"
 aliases: "Miniaturize"
 foundryId: Item.0aTY107ipCJbp8u4

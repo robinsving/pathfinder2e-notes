@@ -1,5 +1,6 @@
 ---
 title: "Efreeti Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Efreeti Magic"
 foundryId: Item.TR2E8mDyLkaLrXUa

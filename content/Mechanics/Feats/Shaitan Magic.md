@@ -1,5 +1,6 @@
 ---
 title: "Shaitan Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Shaitan Magic"
 foundryId: Item.sXsAOPfDmnhgPDCI

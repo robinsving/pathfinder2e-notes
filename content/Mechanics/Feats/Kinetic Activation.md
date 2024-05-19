@@ -1,5 +1,6 @@
 ---
 title: "Kinetic Activation"
+draft: true
 noteType: ":luggage:"
 aliases: "Kinetic Activation"
 foundryId: Item.CNAXjponfyYAGztY

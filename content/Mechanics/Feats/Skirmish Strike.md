@@ -1,5 +1,6 @@
 ---
 title: "Skirmish Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Skirmish Strike"
 foundryId: Item.ur8oCYjRKERVXD4b

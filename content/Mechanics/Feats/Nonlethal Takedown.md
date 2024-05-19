@@ -1,5 +1,6 @@
 ---
 title: "Nonlethal Takedown"
+draft: true
 noteType: ":luggage:"
 aliases: "Nonlethal Takedown"
 foundryId: Item.BuN4pByItSPQ4qJR

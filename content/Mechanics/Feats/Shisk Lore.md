@@ -1,5 +1,6 @@
 ---
 title: "Shisk Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Shisk Lore"
 foundryId: Item.g6LeKhy19Jw6fT1K

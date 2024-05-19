@@ -1,5 +1,6 @@
 ---
 title: "Staff Sweep"
+draft: true
 noteType: ":luggage:"
 aliases: "Staff Sweep"
 foundryId: Item.6VEGl5J7FxLIyupw

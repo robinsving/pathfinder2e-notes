@@ -1,5 +1,6 @@
 ---
 title: "Necromantic Resistance (Undead Slayer)"
+draft: true
 noteType: ":luggage:"
 aliases: "Necromantic Resistance (Undead Slayer)"
 foundryId: Item.H0dZb8tHHsofQfq4

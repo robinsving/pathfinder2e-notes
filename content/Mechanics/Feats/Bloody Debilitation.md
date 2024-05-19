@@ -1,5 +1,6 @@
 ---
 title: "Bloody Debilitation"
+draft: true
 noteType: ":luggage:"
 aliases: "Bloody Debilitation"
 foundryId: Item.FIdwr2tQd75fatL8

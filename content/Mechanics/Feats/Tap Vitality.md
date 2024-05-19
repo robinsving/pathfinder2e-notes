@@ -1,5 +1,6 @@
 ---
 title: "Tap Vitality"
+draft: true
 noteType: ":luggage:"
 aliases: "Tap Vitality"
 foundryId: Item.idWNKK7vXF3G9Ofc

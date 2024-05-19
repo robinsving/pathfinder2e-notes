@@ -1,5 +1,6 @@
 ---
 title: "Sniping Duo Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Sniping Duo Dedication"
 foundryId: Item.7OJIciqpkw2KeGH9

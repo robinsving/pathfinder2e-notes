@@ -1,5 +1,6 @@
 ---
 title: "Heroes' Call"
+draft: true
 noteType: ":luggage:"
 aliases: "Heroes' Call"
 foundryId: Item.LFfrv8thwcAQAePr

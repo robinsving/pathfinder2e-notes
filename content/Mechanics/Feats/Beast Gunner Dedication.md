@@ -1,5 +1,6 @@
 ---
 title: "Beast Gunner Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Beast Gunner Dedication"
 foundryId: Item.ocWcpxLGG08PTlqH

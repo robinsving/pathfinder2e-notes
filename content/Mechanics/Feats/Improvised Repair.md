@@ -1,5 +1,6 @@
 ---
 title: "Improvised Repair"
+draft: true
 noteType: ":luggage:"
 aliases: "Improvised Repair"
 foundryId: Item.zC7tW3iDTCacMFqy

@@ -1,5 +1,6 @@
 ---
 title: "Deep Roots"
+draft: true
 noteType: ":luggage:"
 aliases: "Deep Roots"
 foundryId: Item.0ZXxYOvBL4TXtHGj

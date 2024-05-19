@@ -1,5 +1,6 @@
 ---
 title: "Effortless Captivation"
+draft: true
 noteType: ":luggage:"
 aliases: "Effortless Captivation"
 foundryId: Item.gVdLBVhNCfNLT7QP

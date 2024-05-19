@@ -1,5 +1,6 @@
 ---
 title: "Everstand Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Everstand Stance"
 foundryId: Item.sadOwMXvbqaIkvhk

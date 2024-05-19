@@ -1,5 +1,6 @@
 ---
 title: "Mischievous Tail"
+draft: true
 noteType: ":luggage:"
 aliases: "Mischievous Tail"
 foundryId: Item.KkOrEZresH05dbX6

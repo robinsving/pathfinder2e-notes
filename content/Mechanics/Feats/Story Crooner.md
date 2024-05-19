@@ -1,5 +1,6 @@
 ---
 title: "Story Crooner"
+draft: true
 noteType: ":luggage:"
 aliases: "Story Crooner"
 foundryId: Item.T2kEuDmJCithoSjk

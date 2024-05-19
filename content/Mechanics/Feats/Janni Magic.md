@@ -1,5 +1,6 @@
 ---
 title: "Janni Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Janni Magic"
 foundryId: Item.eMrv4cJWiU0J9rZX

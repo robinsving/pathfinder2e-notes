@@ -1,5 +1,6 @@
 ---
 title: "Basic Modification"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Modification"
 foundryId: Item.GfoehvppsIJFikmd

@@ -1,5 +1,6 @@
 ---
 title: "Terrain Scout"
+draft: true
 noteType: ":luggage:"
 aliases: "Terrain Scout"
 foundryId: Item.5POaknebPZrkb405

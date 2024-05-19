@@ -1,5 +1,6 @@
 ---
 title: "Grippli Weapon Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Grippli Weapon Expertise"
 foundryId: Item.iGKKzW4c5SbRbSd9

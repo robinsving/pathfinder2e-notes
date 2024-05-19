@@ -1,5 +1,6 @@
 ---
 title: "Lethargy Poisoner"
+draft: true
 noteType: ":luggage:"
 aliases: "Lethargy Poisoner"
 foundryId: Item.Oxozkw2AqWCFtu8p

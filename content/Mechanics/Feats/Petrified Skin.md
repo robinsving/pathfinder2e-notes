@@ -1,5 +1,6 @@
 ---
 title: "Petrified Skin"
+draft: true
 noteType: ":luggage:"
 aliases: "Petrified Skin"
 foundryId: Item.q4d56ROkcoMVKT2r

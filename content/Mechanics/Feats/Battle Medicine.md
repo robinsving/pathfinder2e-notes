@@ -1,5 +1,6 @@
 ---
 title: "Battle Medicine"
+draft: true
 noteType: ":luggage:"
 aliases: "Battle Medicine"
 foundryId: Item.rO802hM8LS4R2gHf

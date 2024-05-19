@@ -1,5 +1,6 @@
 ---
 title: "Oddity Identification"
+draft: true
 noteType: ":luggage:"
 aliases: "Oddity Identification"
 foundryId: Item.SkZ5fk1nkrCJUKeN

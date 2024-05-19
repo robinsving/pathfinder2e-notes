@@ -1,5 +1,6 @@
 ---
 title: "Blessed Sacrifice"
+draft: true
 noteType: ":luggage:"
 aliases: "Blessed Sacrifice"
 foundryId: Item.UwIth7cxKRapHggM

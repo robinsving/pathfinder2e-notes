@@ -1,5 +1,6 @@
 ---
 title: "Equitable Defense"
+draft: true
 noteType: ":luggage:"
 aliases: "Equitable Defense"
 foundryId: Item.QhyHnGkBmf0LOcAq

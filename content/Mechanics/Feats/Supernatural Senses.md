@@ -1,5 +1,6 @@
 ---
 title: "Supernatural Senses"
+draft: true
 noteType: ":luggage:"
 aliases: "Supernatural Senses"
 foundryId: Item.d8nkmlM1moaDaJNX

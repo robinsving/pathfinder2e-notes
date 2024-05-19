@@ -1,5 +1,6 @@
 ---
 title: "Follow-up Assault"
+draft: true
 noteType: ":luggage:"
 aliases: "Follow-up Assault"
 foundryId: Item.4j4FvgT8EBd1g5LA

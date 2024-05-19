@@ -1,5 +1,6 @@
 ---
 title: "Psi Strikes"
+draft: true
 noteType: ":luggage:"
 aliases: "Psi Strikes"
 foundryId: Item.G3lcHVyK1CYXV1rU

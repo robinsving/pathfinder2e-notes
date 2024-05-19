@@ -1,5 +1,6 @@
 ---
 title: "Staggering Blow"
+draft: true
 noteType: ":luggage:"
 aliases: "Staggering Blow"
 foundryId: Item.OG5BDZBDzxTGnM7U

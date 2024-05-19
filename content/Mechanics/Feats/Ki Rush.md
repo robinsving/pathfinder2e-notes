@@ -1,5 +1,6 @@
 ---
 title: "Ki Rush"
+draft: true
 noteType: ":luggage:"
 aliases: "Ki Rush"
 foundryId: Item.oFpI2eOVsCIHO7jU

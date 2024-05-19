@@ -1,5 +1,6 @@
 ---
 title: "Bravo's Determination"
+draft: true
 noteType: ":luggage:"
 aliases: "Bravo's Determination"
 foundryId: Item.CQivGT5c5DxcAuJX

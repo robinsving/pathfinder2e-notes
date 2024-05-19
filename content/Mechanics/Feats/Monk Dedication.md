@@ -1,5 +1,6 @@
 ---
 title: "Monk Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Monk Dedication"
 foundryId: Item.TzWbz7kBb3AHgFQ8

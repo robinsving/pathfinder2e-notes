@@ -1,5 +1,6 @@
 ---
 title: "Azarketi Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Azarketi Lore"
 foundryId: Item.7ru48NcJbJwBw6SI

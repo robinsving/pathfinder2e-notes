@@ -1,5 +1,6 @@
 ---
 title: "Esoteric Polymath"
+draft: true
 noteType: ":luggage:"
 aliases: "Esoteric Polymath"
 foundryId: Item.ZY7PEarxAwPxGCVi

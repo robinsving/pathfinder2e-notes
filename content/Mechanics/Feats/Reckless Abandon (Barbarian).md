@@ -1,5 +1,6 @@
 ---
 title: "Reckless Abandon (Barbarian)"
+draft: true
 noteType: ":luggage:"
 aliases: "Reckless Abandon (Barbarian)"
 foundryId: Item.ai48myET7UJwxzvG

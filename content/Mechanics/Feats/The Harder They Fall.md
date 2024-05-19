@@ -1,5 +1,6 @@
 ---
 title: "The Harder They Fall"
+draft: true
 noteType: ":luggage:"
 aliases: "The Harder They Fall"
 foundryId: Item.CTDnfxOnwFL6fpmm

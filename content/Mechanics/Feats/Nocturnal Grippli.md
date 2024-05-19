@@ -1,5 +1,6 @@
 ---
 title: "Nocturnal Grippli"
+draft: true
 noteType: ":luggage:"
 aliases: "Nocturnal Grippli"
 foundryId: Item.RBMUi2lRnh4nrZ6J

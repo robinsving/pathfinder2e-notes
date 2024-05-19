@@ -1,5 +1,6 @@
 ---
 title: "Mystery Conduit"
+draft: true
 noteType: ":luggage:"
 aliases: "Mystery Conduit"
 foundryId: Item.BpgL7wc9sS6KQfvU

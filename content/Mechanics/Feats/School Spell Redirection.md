@@ -1,5 +1,6 @@
 ---
 title: "School Spell Redirection"
+draft: true
 noteType: ":luggage:"
 aliases: "School Spell Redirection"
 foundryId: Item.2obk0pOTC2pyABXC

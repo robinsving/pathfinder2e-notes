@@ -1,5 +1,6 @@
 ---
 title: "Armor Proficiency"
+draft: true
 noteType: ":luggage:"
 aliases: "Armor Proficiency"
 foundryId: Item.ui7W5GkJvlPjG4NW

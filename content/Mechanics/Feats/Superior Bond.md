@@ -1,5 +1,6 @@
 ---
 title: "Superior Bond"
+draft: true
 noteType: ":luggage:"
 aliases: "Superior Bond"
 foundryId: Item.gR2TSTiczwGkIajx

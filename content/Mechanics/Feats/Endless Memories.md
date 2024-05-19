@@ -1,5 +1,6 @@
 ---
 title: "Endless Memories"
+draft: true
 noteType: ":luggage:"
 aliases: "Endless Memories"
 foundryId: Item.Ug9NQgfa87Eh2sui

@@ -1,5 +1,6 @@
 ---
 title: "Greater Bloodline"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Bloodline"
 foundryId: Item.SIBwetIf46tDa4qY

@@ -1,5 +1,6 @@
 ---
 title: "Read the Land"
+draft: true
 noteType: ":luggage:"
 aliases: "Read the Land"
 foundryId: Item.uphOMe286p4xd9FP

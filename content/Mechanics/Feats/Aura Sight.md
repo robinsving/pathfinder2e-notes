@@ -1,5 +1,6 @@
 ---
 title: "Aura Sight"
+draft: true
 noteType: ":luggage:"
 aliases: "Aura Sight"
 foundryId: Item.F2U718WLv7xjMxcG

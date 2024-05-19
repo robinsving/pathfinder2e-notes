@@ -1,5 +1,6 @@
 ---
 title: "Animate Net"
+draft: true
 noteType: ":luggage:"
 aliases: "Animate Net"
 foundryId: Item.vkRoR7t29bB65aio

@@ -1,5 +1,6 @@
 ---
 title: "Communal Tale"
+draft: true
 noteType: ":luggage:"
 aliases: "Communal Tale"
 foundryId: Item.ZPkWBwsjLbGPDDmm

@@ -1,5 +1,6 @@
 ---
 title: "Words of Unraveling"
+draft: true
 noteType: ":luggage:"
 aliases: "Words of Unraveling"
 foundryId: Item.wfFftbgNYpcrcymf

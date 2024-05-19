@@ -1,5 +1,6 @@
 ---
 title: "Spellmaster Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Spellmaster Dedication"
 foundryId: Item.WJTOcSgEfwJZk6eg

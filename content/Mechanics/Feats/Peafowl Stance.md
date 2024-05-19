@@ -1,5 +1,6 @@
 ---
 title: "Peafowl Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Peafowl Stance"
 foundryId: Item.Kpb7ykqoArgzm8gY

@@ -1,5 +1,6 @@
 ---
 title: "Absorb Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Absorb Spell"
 foundryId: Item.qoPR6ksGbz3WxzMb

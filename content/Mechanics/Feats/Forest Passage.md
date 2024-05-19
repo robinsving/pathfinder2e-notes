@@ -1,5 +1,6 @@
 ---
 title: "Forest Passage"
+draft: true
 noteType: ":luggage:"
 aliases: "Forest Passage"
 foundryId: Item.NmcKvrAnh9w9AeHr

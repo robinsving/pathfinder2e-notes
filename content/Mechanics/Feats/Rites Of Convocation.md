@@ -1,5 +1,6 @@
 ---
 title: "Rites Of Convocation"
+draft: true
 noteType: ":luggage:"
 aliases: "Rites Of Convocation"
 foundryId: Item.hTW7DPYaFX5BmCZU

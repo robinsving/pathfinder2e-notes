@@ -1,5 +1,6 @@
 ---
 title: "Rockslide Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Rockslide Spell"
 foundryId: Item.S0JO74p2PHdiNPj5

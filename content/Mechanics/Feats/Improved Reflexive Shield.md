@@ -1,5 +1,6 @@
 ---
 title: "Improved Reflexive Shield"
+draft: true
 noteType: ":luggage:"
 aliases: "Improved Reflexive Shield"
 foundryId: Item.HCghl7mLuwikIiQN

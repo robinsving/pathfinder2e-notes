@@ -1,5 +1,6 @@
 ---
 title: "Dual-Weapon Reload"
+draft: true
 noteType: ":luggage:"
 aliases: "Dual-Weapon Reload"
 foundryId: Item.tVSAZfJ4iOBFzeHh

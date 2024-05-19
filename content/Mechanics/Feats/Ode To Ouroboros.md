@@ -1,5 +1,6 @@
 ---
 title: "Ode To Ouroboros"
+draft: true
 noteType: ":luggage:"
 aliases: "Ode To Ouroboros"
 foundryId: Item.uq1gEpBrm7Ij1hWf

@@ -1,5 +1,6 @@
 ---
 title: "Inventor Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Inventor Dedication"
 foundryId: Item.P5D1ef6a2pYbSbQX

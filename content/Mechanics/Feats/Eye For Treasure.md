@@ -1,5 +1,6 @@
 ---
 title: "Eye For Treasure"
+draft: true
 noteType: ":luggage:"
 aliases: "Eye For Treasure"
 foundryId: Item.Jhs3i4wAH2qp7dnr

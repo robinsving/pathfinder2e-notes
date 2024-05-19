@@ -1,5 +1,6 @@
 ---
 title: "Legendary Negotiation"
+draft: true
 noteType: ":luggage:"
 aliases: "Legendary Negotiation"
 foundryId: Item.2dOlQbzzHPKaBf3k

@@ -1,5 +1,6 @@
 ---
 title: "Rapid Mantel"
+draft: true
 noteType: ":luggage:"
 aliases: "Rapid Mantel"
 foundryId: Item.cX8ByEmMtHgIVvZ8

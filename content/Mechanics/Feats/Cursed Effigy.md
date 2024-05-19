@@ -1,5 +1,6 @@
 ---
 title: "Cursed Effigy"
+draft: true
 noteType: ":luggage:"
 aliases: "Cursed Effigy"
 foundryId: Item.8lKVwNihp5YCwhE1

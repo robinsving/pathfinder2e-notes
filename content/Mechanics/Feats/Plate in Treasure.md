@@ -1,5 +1,6 @@
 ---
 title: "Plate in Treasure"
+draft: true
 noteType: ":luggage:"
 aliases: "Plate in Treasure"
 foundryId: Item.qr7pryxyB9pZwEkA

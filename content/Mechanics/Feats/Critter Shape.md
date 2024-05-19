@@ -1,5 +1,6 @@
 ---
 title: "Critter Shape"
+draft: true
 noteType: ":luggage:"
 aliases: "Critter Shape"
 foundryId: Item.mJUrAOpBqVfgE0sV

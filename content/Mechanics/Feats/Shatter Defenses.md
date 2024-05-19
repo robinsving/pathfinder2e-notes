@@ -1,5 +1,6 @@
 ---
 title: "Shatter Defenses"
+draft: true
 noteType: ":luggage:"
 aliases: "Shatter Defenses"
 foundryId: Item.LPATyKvJKLHa7ul4

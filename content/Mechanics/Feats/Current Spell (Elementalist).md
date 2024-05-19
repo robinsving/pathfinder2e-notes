@@ -1,5 +1,6 @@
 ---
 title: "Current Spell (Elementalist)"
+draft: true
 noteType: ":luggage:"
 aliases: "Current Spell (Elementalist)"
 foundryId: Item.Zz4kWUxusjfD1a1t

@@ -1,5 +1,6 @@
 ---
 title: "Devastating Weaponry"
+draft: true
 noteType: ":luggage:"
 aliases: "Devastating Weaponry"
 foundryId: Item.n0oA6BPb5hOvTuxC

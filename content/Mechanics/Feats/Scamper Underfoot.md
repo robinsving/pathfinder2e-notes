@@ -1,5 +1,6 @@
 ---
 title: "Scamper Underfoot"
+draft: true
 noteType: ":luggage:"
 aliases: "Scamper Underfoot"
 foundryId: Item.PJqu8qIUAKqnQ98k

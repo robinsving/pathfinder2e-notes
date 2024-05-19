@@ -1,5 +1,6 @@
 ---
 title: "Aura Of Preservation"
+draft: true
 noteType: ":luggage:"
 aliases: "Aura Of Preservation"
 foundryId: Item.lszHpI1KwudyQyYS

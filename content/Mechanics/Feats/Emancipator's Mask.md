@@ -1,5 +1,6 @@
 ---
 title: "Emancipator's Mask"
+draft: true
 noteType: ":luggage:"
 aliases: "Emancipator's Mask"
 foundryId: Item.XArq4QrxAa41wi74

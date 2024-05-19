@@ -1,5 +1,6 @@
 ---
 title: "Call The Worm"
+draft: true
 noteType: ":luggage:"
 aliases: "Call The Worm"
 foundryId: Item.PvB7xRkInwiPYxwK

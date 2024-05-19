@@ -1,5 +1,6 @@
 ---
 title: "Gorilla Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Gorilla Stance"
 foundryId: Item.NJknezJMBdHVDXFP

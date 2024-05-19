@@ -1,5 +1,6 @@
 ---
 title: "Vigorous Health"
+draft: true
 noteType: ":luggage:"
 aliases: "Vigorous Health"
 foundryId: Item.DrNs34KVyjwFjmJB

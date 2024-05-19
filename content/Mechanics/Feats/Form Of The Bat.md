@@ -1,5 +1,6 @@
 ---
 title: "Form Of The Bat"
+draft: true
 noteType: ":luggage:"
 aliases: "Form Of The Bat"
 foundryId: Item.2dS5yblAudnw9qfV

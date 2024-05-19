@@ -1,5 +1,6 @@
 ---
 title: "Briar Battler"
+draft: true
 noteType: ":luggage:"
 aliases: "Briar Battler"
 foundryId: Item.2nSHbLOYQaEv8NJy

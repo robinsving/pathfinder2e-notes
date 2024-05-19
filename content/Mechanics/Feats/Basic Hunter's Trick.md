@@ -1,5 +1,6 @@
 ---
 title: "Basic Hunter's Trick"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Hunter's Trick"
 foundryId: Item.qObiXtM2cWSORlgJ

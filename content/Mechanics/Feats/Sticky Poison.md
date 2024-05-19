@@ -1,5 +1,6 @@
 ---
 title: "Sticky Poison"
+draft: true
 noteType: ":luggage:"
 aliases: "Sticky Poison"
 foundryId: Item.jVIpLnNi9m1bsQJv

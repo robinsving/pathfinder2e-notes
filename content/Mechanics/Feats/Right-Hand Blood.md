@@ -1,5 +1,6 @@
 ---
 title: "Right-Hand Blood"
+draft: true
 noteType: ":luggage:"
 aliases: "Right-Hand Blood"
 foundryId: Item.d2OU5Dx1EAOmf8tC

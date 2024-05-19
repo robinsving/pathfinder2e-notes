@@ -1,5 +1,6 @@
 ---
 title: "Shattering Blows"
+draft: true
 noteType: ":luggage:"
 aliases: "Shattering Blows"
 foundryId: Item.o8chuM42JVHaQRTn

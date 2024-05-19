@@ -1,5 +1,6 @@
 ---
 title: "Old Soul"
+draft: true
 noteType: ":luggage:"
 aliases: "Old Soul"
 foundryId: Item.zysxY97mMR8BKMT6

@@ -1,5 +1,6 @@
 ---
 title: "Ratfolk Growth"
+draft: true
 noteType: ":luggage:"
 aliases: "Ratfolk Growth"
 foundryId: Item.hZck6b9YgwSN54jY

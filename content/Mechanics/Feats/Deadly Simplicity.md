@@ -1,5 +1,6 @@
 ---
 title: "Deadly Simplicity"
+draft: true
 noteType: ":luggage:"
 aliases: "Deadly Simplicity"
 foundryId: Item.pRXSLco4SX3pXCwf

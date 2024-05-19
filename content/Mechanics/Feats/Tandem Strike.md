@@ -1,5 +1,6 @@
 ---
 title: "Tandem Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Tandem Strike"
 foundryId: Item.ifveRozK9MXw6Avl

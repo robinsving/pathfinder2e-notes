@@ -1,5 +1,6 @@
 ---
 title: "Into the Future"
+draft: true
 noteType: ":luggage:"
 aliases: "Into the Future"
 foundryId: Item.7PR6vqGxsu6eixaW

@@ -1,5 +1,6 @@
 ---
 title: "Variable Core"
+draft: true
 noteType: ":luggage:"
 aliases: "Variable Core"
 foundryId: Item.6bFQkatSYESzyyYb

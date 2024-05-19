@@ -1,5 +1,6 @@
 ---
 title: "Chaotic Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Chaotic Spell"
 foundryId: Item.W9CbgU6dOjmgdeNe

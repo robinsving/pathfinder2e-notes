@@ -1,5 +1,6 @@
 ---
 title: "Ritual Researcher"
+draft: true
 noteType: ":luggage:"
 aliases: "Ritual Researcher"
 foundryId: Item.fwEzde9pTdCbs2Pb

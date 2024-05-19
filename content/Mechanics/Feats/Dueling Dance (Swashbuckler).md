@@ -1,5 +1,6 @@
 ---
 title: "Dueling Dance (Swashbuckler)"
+draft: true
 noteType: ":luggage:"
 aliases: "Dueling Dance (Swashbuckler)"
 foundryId: Item.ChGMytWLlLdUZRZI

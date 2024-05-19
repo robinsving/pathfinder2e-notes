@@ -1,5 +1,6 @@
 ---
 title: "Seek Injustice"
+draft: true
 noteType: ":luggage:"
 aliases: "Seek Injustice"
 foundryId: Item.X76dRMkzho9HxQt0

@@ -1,5 +1,6 @@
 ---
 title: "Ancestral Mind"
+draft: true
 noteType: ":luggage:"
 aliases: "Ancestral Mind"
 foundryId: Item.KWYsRq9Ll6y5mQ4u

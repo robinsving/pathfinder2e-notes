@@ -1,5 +1,6 @@
 ---
 title: "Tangled Forest Rake"
+draft: true
 noteType: ":luggage:"
 aliases: "Tangled Forest Rake"
 foundryId: Item.A2iqTopYSLfYfVce

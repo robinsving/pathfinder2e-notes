@@ -1,5 +1,6 @@
 ---
 title: "Undead Empathy"
+draft: true
 noteType: ":luggage:"
 aliases: "Undead Empathy"
 foundryId: Item.U9YX6jNWbaMjROXh

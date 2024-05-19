@@ -1,5 +1,6 @@
 ---
 title: "Volcanic Escape"
+draft: true
 noteType: ":luggage:"
 aliases: "Volcanic Escape"
 foundryId: Item.phaTSdhCDWB15nYb

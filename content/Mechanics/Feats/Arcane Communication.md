@@ -1,5 +1,6 @@
 ---
 title: "Arcane Communication"
+draft: true
 noteType: ":luggage:"
 aliases: "Arcane Communication"
 foundryId: Item.Dl8NsRr4pUaQkc2U

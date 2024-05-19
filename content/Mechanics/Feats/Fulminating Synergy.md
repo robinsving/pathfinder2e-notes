@@ -1,5 +1,6 @@
 ---
 title: "Fulminating Synergy"
+draft: true
 noteType: ":luggage:"
 aliases: "Fulminating Synergy"
 foundryId: Item.8uo8RGDGaYEiT9Vz

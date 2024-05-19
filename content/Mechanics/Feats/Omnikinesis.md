@@ -1,5 +1,6 @@
 ---
 title: "Omnikinesis"
+draft: true
 noteType: ":luggage:"
 aliases: "Omnikinesis"
 foundryId: Item.NXwdJNaHo9AJOWG5

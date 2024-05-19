@@ -1,5 +1,6 @@
 ---
 title: "Construct Shell"
+draft: true
 noteType: ":luggage:"
 aliases: "Construct Shell"
 foundryId: Item.yIoEpRzRnfZ3x3zG

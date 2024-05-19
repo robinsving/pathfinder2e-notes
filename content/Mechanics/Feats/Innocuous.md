@@ -1,5 +1,6 @@
 ---
 title: "Innocuous"
+draft: true
 noteType: ":luggage:"
 aliases: "Innocuous"
 foundryId: Item.bd7lR3jropjKsfLT

@@ -1,5 +1,6 @@
 ---
 title: "Divine Emissary"
+draft: true
 noteType: ":luggage:"
 aliases: "Divine Emissary"
 foundryId: Item.zOYmZ08gyCUZ11w4
