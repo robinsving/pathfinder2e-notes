@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Clockwork Bumblebee" 
 tags:
   - pf2e/creature/type/clockwork

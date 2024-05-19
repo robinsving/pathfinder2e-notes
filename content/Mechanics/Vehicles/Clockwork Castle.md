@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Clockwork Castle" 
 tags:
   - pf2e/creature/level/16

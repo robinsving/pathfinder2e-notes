@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Cliff Crawler" 
 tags:
   - pf2e/creature/level/10

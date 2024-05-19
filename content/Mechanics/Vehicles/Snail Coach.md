@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Snail Coach" 
 tags:
   - pf2e/creature/level/7

@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Bunta" 
 tags:
   - pf2e/creature/type/artifact

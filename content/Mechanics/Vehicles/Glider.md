@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Glider" 
 tags:
   - pf2e/creature/level/0

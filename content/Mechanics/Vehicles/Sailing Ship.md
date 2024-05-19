@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Sailing Ship" 
 tags:
   - pf2e/creature/level/9

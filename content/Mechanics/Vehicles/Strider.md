@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Strider" 
 tags:
   - pf2e/creature/level/7

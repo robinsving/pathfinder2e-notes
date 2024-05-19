@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Sky Chariot (Medium)" 
 tags:
   - pf2e/creature/level/10

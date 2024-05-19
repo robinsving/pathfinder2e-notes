@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Wagon" 
 tags:
   - pf2e/creature/level/1

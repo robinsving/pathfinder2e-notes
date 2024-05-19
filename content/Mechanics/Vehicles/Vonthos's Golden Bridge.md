@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Vonthos&#x27;s Golden Bridge" 
 tags:
   - pf2e/creature/level/17

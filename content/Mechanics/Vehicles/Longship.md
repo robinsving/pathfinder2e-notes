@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Longship" 
 tags:
   - pf2e/creature/level/8

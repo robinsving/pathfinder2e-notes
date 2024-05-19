@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Battery Tower" 
 tags:
   - pf2e/creature/level/16

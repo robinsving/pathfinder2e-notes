@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Hillcross Glider" 
 tags:
   - pf2e/creature/level/4

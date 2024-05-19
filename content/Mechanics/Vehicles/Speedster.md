@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Speedster" 
 tags:
   - pf2e/creature/level/10

@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Ambling Surveyor" 
 tags:
   - pf2e/creature/level/14

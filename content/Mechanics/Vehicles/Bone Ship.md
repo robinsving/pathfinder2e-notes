@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Bone Ship" 
 tags:
   - pf2e/creature/level/18

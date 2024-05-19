@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Siege Tower" 
 tags:
   - pf2e/creature/level/4

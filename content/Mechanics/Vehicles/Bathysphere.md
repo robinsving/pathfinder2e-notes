@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Bathysphere" 
 tags:
   - pf2e/creature/level/5

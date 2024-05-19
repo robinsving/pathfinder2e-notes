@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Second Kiss" 
 tags:
   - pf2e/creature/level/12

@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Sand Diver" 
 tags:
   - pf2e/creature/level/3

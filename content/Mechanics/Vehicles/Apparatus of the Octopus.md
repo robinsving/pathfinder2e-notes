@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Apparatus of the Octopus" 
 tags:
   - pf2e/creature/level/11

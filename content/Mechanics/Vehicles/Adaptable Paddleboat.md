@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Adaptable Paddleboat" 
 tags:
   - pf2e/creature/level/2

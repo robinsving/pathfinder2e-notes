@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Automated Cycle" 
 tags:
   - pf2e/creature/level/1

@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases:
   - Steam Giant
 tags:

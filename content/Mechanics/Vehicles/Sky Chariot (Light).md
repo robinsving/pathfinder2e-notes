@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Sky Chariot (Light)" 
 tags:
   - pf2e/creature/level/7

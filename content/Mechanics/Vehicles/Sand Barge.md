@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Sand Barge" 
 tags:
   - pf2e/creature/level/6

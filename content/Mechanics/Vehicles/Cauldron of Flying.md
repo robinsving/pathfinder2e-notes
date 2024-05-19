@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Cauldron of Flying" 
 tags:
   - pf2e/creature/type/magical

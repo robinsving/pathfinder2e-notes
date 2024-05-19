@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Airship" 
 tags:
   - pf2e/creature/level/12

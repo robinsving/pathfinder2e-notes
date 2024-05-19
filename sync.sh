@@ -1,4 +1,5 @@
 #!/bin/bash
 #–-exclude '__Meta'
-rsync -r /mnt/d/Cloud/Documents/Robin/Spel/Pathfinder/Obsidian/ content
+rsync -r --delete /mnt/d/Cloud/Documents/Robin/Spel/Pathfinder/Obsidian/PC/ content/PC
+rsync -r --delete /mnt/d/Cloud/Documents/Robin/Spel/Pathfinder/Obsidian/Worlds/ content/Worlds
 npx quartz sync

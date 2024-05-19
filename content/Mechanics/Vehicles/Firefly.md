@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Firefly" 
 tags:
   - pf2e/creature/level/5

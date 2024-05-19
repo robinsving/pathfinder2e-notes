@@ -21,9 +21,6 @@ Tian Xi
 In the name of the Moon
 https://i.kym-cdn.com/photos/images/newsfeed/002/657/273/1b6
 
-**Vem är Nix?**
-Kolla att det inte är en återfödd Gud i förklädnad?
-
 **Nightspear**
 Kanske att man kan få hjälp av en annan ängel. Sunlord Talashos? (Desna har 3 ärkeänglar, har inte Sofia några?)
 
@@ -31,7 +28,5 @@ Statyerna är änglar
 
 **Grimm**
 När Grimm tar över som PC
-- Mirandas räddning. Belöning
 - Fråga Sofia om statyer/ärkeänglar
-- ~~Ny rustning, med hål i ryggen~~
-- ~~Nya runor~~
+

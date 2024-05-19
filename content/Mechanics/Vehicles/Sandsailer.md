@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Sandsailer" 
 tags:
   - pf2e/creature/level/16

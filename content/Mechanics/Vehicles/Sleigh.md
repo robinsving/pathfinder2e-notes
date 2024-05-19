@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Sleigh" 
 tags:
   - pf2e/creature/level/1

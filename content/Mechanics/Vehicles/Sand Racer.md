@@ -1,5 +1,6 @@
 ---
 noteType: Vehicle
+draft: true
 aliases: "Sand Racer" 
 tags:
   - pf2e/creature/type/magical
