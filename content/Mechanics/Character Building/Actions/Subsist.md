@@ -1,5 +1,6 @@
 ---
 title: "Subsist"
+draft: true
 noteType: ":luggage:"
 aliases: "Subsist"
 foundryId: Item.fYewAbkgMk3Tzf12

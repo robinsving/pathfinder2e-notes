@@ -1,5 +1,6 @@
 ---
 title: "Chassis Deflection"
+draft: true
 noteType: ":luggage:"
 aliases: "Chassis Deflection"
 foundryId: Item.iFMzR9VqTDQDE8C6

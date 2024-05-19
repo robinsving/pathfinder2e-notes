@@ -1,5 +1,6 @@
 ---
 title: "Set Explosives"
+draft: true
 noteType: ":luggage:"
 aliases: "Set Explosives"
 foundryId: Item.NPxRggqjvjvpgLiy

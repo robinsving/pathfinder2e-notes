@@ -1,5 +1,6 @@
 ---
 title: "Third Path to Perfection (Will)"
+draft: true
 noteType: ":luggage:"
 aliases: "Third Path to Perfection (Will)"
 foundryId: Item.dvVVhgpKV6wL9nPm

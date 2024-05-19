@@ -1,5 +1,6 @@
 ---
 title: "Instant Manifestation"
+draft: true
 noteType: ":luggage:"
 aliases: "Instant Manifestation"
 foundryId: Item.QbOOUYpjEvaJ35mG

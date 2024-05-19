@@ -1,5 +1,6 @@
 ---
 title: "Effect: Flamboyant Cruelty"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Flamboyant Cruelty"
 foundryId: Compendium.pf2e.feat-effects.Item.v2HDcrxQF2Dncjbs

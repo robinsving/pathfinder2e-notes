@@ -1,5 +1,6 @@
 ---
 title: "Dragon Deviant Classification"
+draft: true
 noteType: ":luggage:"
 aliases: "Dragon Deviant Classification"
 foundryId: Item.A30ak5ZiTfr6oUMu

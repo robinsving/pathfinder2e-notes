@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Gecko Grip"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Gecko Grip"
 foundryId: Compendium.pf2e.spell-effects.Item.qn7uO5Ih01yLJot7

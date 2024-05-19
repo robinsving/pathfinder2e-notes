@@ -1,5 +1,6 @@
 ---
 title: "Effect: Shadow Sight"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Shadow Sight"
 foundryId: Compendium.pf2e.feat-effects.Item.3GPh6O3PJxORytAC

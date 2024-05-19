@@ -1,5 +1,6 @@
 ---
 title: "Beast Gunner"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Beast Gunner"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.jTiXRtNNvMOnsg98

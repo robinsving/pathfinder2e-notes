@@ -1,5 +1,6 @@
 ---
 title: "Craft Disharmonic Instrument"
+draft: true
 noteType: ":luggage:"
 aliases: "Craft Disharmonic Instrument"
 foundryId: Item.ak2XBheCxakn92U0

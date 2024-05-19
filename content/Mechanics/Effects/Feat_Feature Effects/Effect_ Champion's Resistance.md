@@ -1,5 +1,6 @@
 ---
 title: "Effect: Champion's Resistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Champion's Resistance"
 foundryId: Compendium.pf2e.feat-effects.Item.DawVHfoPKbPJsz4k

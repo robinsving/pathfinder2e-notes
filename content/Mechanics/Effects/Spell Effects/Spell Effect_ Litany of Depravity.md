@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Litany of Depravity"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Litany of Depravity"
 foundryId: Compendium.pf2e.spell-effects.Item.CTdEsMIwVYqqkH50

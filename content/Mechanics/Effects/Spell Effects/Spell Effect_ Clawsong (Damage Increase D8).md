@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Clawsong (Damage Increase D8)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Clawsong (Damage Increase D8)"
 foundryId: Compendium.pf2e.spell-effects.Item.afJCG4vC5WF5h5IB

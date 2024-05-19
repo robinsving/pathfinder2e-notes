@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Bane"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Bane"
 foundryId: Compendium.pf2e.spell-effects.Item.UTLp7omqsiC36bso

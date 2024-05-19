@@ -1,5 +1,6 @@
 ---
 title: "Effect: Curse of the Perpetual Storm"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Curse of the Perpetual Storm"
 foundryId: Compendium.pf2e.feat-effects.Item.I0g5oaSwaqZ8fFAV

@@ -1,5 +1,6 @@
 ---
 title: "Tempest"
+draft: true
 noteType: ":luggage:"
 aliases: "Tempest"
 foundryId: Item.4oCWXfTz3eCFl9Ql

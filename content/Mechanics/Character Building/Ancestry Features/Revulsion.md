@@ -1,5 +1,6 @@
 ---
 title: "Revulsion"
+draft: true
 noteType: ":luggage:"
 aliases: "Revulsion"
 foundryId: Item.S6aurDy3piwHQ4K5

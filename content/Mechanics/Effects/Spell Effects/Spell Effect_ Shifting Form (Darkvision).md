@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Shifting Form (Darkvision)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Shifting Form (Darkvision)"
 foundryId: Compendium.pf2e.spell-effects.Item.A48jNUOAmCljx8Ru

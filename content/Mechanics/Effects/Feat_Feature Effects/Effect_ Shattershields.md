@@ -1,5 +1,6 @@
 ---
 title: "Effect: Shattershields"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Shattershields"
 foundryId: Compendium.pf2e.feat-effects.Item.6hh788S8hznyD66m

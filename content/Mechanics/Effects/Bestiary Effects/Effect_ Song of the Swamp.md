@@ -1,5 +1,6 @@
 ---
 title: "Effect: Song of the Swamp"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Song of the Swamp"
 foundryId: Compendium.pf2e.bestiary-effects.Item.hftFxE8JGJGzXAtU

@@ -1,5 +1,6 @@
 ---
 title: "Recall the Teachings"
+draft: true
 noteType: ":luggage:"
 aliases: "Recall the Teachings"
 foundryId: Item.6L5qhh0gOSyJ4qru

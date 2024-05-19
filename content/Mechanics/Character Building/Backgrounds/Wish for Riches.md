@@ -1,5 +1,6 @@
 ---
 title: "Wish for Riches"
+draft: true
 noteType: ":luggage:"
 aliases: "Wish for Riches"
 foundryId: Item.znTKG2m4JgKocamO

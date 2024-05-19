@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Swarm Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Swarm Form"
 foundryId: Compendium.pf2e.spell-effects.Item.tC0Qk4AjYRd3csL7

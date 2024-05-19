@@ -1,5 +1,6 @@
 ---
 title: "Cannoneer"
+draft: true
 noteType: ":luggage:"
 aliases: "Cannoneer"
 foundryId: Item.pb3ewfLxQ0oBcadc

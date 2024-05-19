@@ -1,5 +1,6 @@
 ---
 title: "Pathfinder Hopeful"
+draft: true
 noteType: ":luggage:"
 aliases: "Pathfinder Hopeful"
 foundryId: Item.f67B4fb5SGI72w78

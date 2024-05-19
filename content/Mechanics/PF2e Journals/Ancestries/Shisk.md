@@ -1,5 +1,6 @@
 ---
 title: "Shisk"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Shisk"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.qsbc1ZLCWzfl1sfZ

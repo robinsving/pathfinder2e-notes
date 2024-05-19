@@ -1,5 +1,6 @@
 ---
 title: "Effect: Lurker's Glow (Critical Failure)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Lurker's Glow (Critical Failure)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.6E8bOkwFzFuQ3ZAw

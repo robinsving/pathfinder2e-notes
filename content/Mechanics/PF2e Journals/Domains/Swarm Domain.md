@@ -1,5 +1,6 @@
 ---
 title: "Swarm Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Swarm Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.rd0jQwvTK4jpv95o

@@ -1,5 +1,6 @@
 ---
 title: "Creature Identification"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Creature Identification"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.Z2xXPHkxGLFTXzdI

@@ -1,5 +1,6 @@
 ---
 title: "Root Worker"
+draft: true
 noteType: ":luggage:"
 aliases: "Root Worker"
 foundryId: Item.FvzMnHt6ifto3N5x

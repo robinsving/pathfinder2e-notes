@@ -1,5 +1,6 @@
 ---
 title: "Steed Ally"
+draft: true
 noteType: ":luggage:"
 aliases: "Steed Ally"
 foundryId: Item.HGPnqRgJcpvcjU50

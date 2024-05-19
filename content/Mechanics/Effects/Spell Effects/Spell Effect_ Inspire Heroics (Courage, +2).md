@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Inspire Heroics (Courage, +2)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Inspire Heroics (Courage, +2)"
 foundryId: Compendium.pf2e.spell-effects.Item.kZ39XWJA3RBDTnqG

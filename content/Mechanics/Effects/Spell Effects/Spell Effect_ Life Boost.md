@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Life Boost"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Life Boost"
 foundryId: Compendium.pf2e.spell-effects.Item.NQZ88IoKeMBsfjp7

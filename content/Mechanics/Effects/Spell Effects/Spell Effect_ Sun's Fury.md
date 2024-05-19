@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Sun's Fury"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Sun's Fury"
 foundryId: Compendium.pf2e.spell-effects.Item.4wZaiZJtAA0iyWR5

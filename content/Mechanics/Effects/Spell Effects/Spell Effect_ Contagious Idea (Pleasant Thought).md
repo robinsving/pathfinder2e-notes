@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Contagious Idea (Pleasant Thought)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Contagious Idea (Pleasant Thought)"
 foundryId: Compendium.pf2e.spell-effects.Item.VVSOzHV6Rz2YNHRl

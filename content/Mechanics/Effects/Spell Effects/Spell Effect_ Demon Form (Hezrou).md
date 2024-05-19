@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Demon Form (Hezrou)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Demon Form (Hezrou)"
 foundryId: Compendium.pf2e.spell-effects.Item.sXe7cPazOJbX41GU

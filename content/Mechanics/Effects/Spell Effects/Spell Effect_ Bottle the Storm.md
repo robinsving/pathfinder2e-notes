@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Bottle the Storm"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Bottle the Storm"
 foundryId: Compendium.pf2e.spell-effects.Item.GlggmEqkGVj1noOD

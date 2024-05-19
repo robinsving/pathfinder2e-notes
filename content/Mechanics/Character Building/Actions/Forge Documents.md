@@ -1,5 +1,6 @@
 ---
 title: "Forge Documents"
+draft: true
 noteType: ":luggage:"
 aliases: "Forge Documents"
 foundryId: Item.LL2JPQdE7u8q1cjc

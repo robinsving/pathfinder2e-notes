@@ -1,5 +1,6 @@
 ---
 title: "Effect: Calculate Threats"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Calculate Threats"
 foundryId: Compendium.pf2e.feat-effects.Item.P6druSuWIVoLrXJR

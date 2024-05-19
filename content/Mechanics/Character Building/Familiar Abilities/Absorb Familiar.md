@@ -1,5 +1,6 @@
 ---
 title: "Absorb Familiar"
+draft: true
 noteType: ":luggage:"
 aliases: "Absorb Familiar"
 foundryId: Item.dZbaAgi9BzfY5oFH

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Blade Ally"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Blade Ally"
 foundryId: Compendium.pf2e.feat-effects.Item.sCxi8lOH8tWQjLh0

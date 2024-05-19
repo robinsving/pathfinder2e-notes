@@ -1,5 +1,6 @@
 ---
 title: "Saloc"
+draft: true
 noteType: ":luggage:"
 aliases: "Saloc"
 foundryId: Item.TmOuhleHfwAD6lTc

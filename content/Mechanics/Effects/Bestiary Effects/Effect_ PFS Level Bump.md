@@ -1,5 +1,6 @@
 ---
 title: "Effect: PFS Level Bump"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: PFS Level Bump"
 foundryId: Compendium.pf2e.bestiary-effects.Item.yDut6pczQVRJqt2L

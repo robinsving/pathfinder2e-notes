@@ -1,5 +1,6 @@
 ---
 title: "Vigil Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Vigil Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.StXN6IHR6evRaeXF

@@ -1,5 +1,6 @@
 ---
 title: "Rules and Languages"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Rules and Languages"
 foundryId: Compendium.pf2e.journals.JournalEntry.6L2eweJuM8W7OCf2.JournalEntryPage.HtFFpq0n6tjZqLOO

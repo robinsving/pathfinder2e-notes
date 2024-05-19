@@ -1,5 +1,6 @@
 ---
 title: "Magical Experiment"
+draft: true
 noteType: ":luggage:"
 aliases: "Magical Experiment"
 foundryId: Item.j4X5hIgfqxHN5SGI

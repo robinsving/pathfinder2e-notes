@@ -1,5 +1,6 @@
 ---
 title: "Shadow Step"
+draft: true
 noteType: ":luggage:"
 aliases: "Shadow Step"
 foundryId: Item.K85nMCZDoxLezg7k

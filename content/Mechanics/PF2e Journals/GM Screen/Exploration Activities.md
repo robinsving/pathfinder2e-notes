@@ -1,5 +1,6 @@
 ---
 title: "Exploration Activities"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Exploration Activities"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.zB1mqE9IeyfyQDnn

@@ -1,5 +1,6 @@
 ---
 title: "Armor of Fury"
+draft: true
 noteType: ":luggage:"
 aliases: "Armor of Fury"
 foundryId: Item.Ppi0LEjEFKiSqZi0

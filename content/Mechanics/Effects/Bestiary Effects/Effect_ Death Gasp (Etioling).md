@@ -1,5 +1,6 @@
 ---
 title: "Effect: Death Gasp (Etioling)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Death Gasp (Etioling)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.5x0XpNftvx9uGbXt

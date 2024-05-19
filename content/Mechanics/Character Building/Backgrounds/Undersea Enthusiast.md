@@ -1,5 +1,6 @@
 ---
 title: "Undersea Enthusiast"
+draft: true
 noteType: ":luggage:"
 aliases: "Undersea Enthusiast"
 foundryId: Item.TE5RpJAT62d948NQ

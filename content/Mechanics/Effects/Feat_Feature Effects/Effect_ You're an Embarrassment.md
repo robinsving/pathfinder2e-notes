@@ -1,5 +1,6 @@
 ---
 title: "Effect: You're an Embarrassment"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: You're an Embarrassment"
 foundryId: Compendium.pf2e.feat-effects.Item.zUvicEXd4OgCZ1cO

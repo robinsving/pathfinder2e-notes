@@ -1,5 +1,6 @@
 ---
 title: "Divine Spellcasting (Oracle)"
+draft: true
 noteType: ":luggage:"
 aliases: "Divine Spellcasting (Oracle)"
 foundryId: Item.SEa4AxV4R35r0fZJ

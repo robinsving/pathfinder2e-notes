@@ -1,5 +1,6 @@
 ---
 title: "Drain Familiar"
+draft: true
 noteType: ":luggage:"
 aliases: "Drain Familiar"
 foundryId: Item.XRMJGtbVCue7rpH9

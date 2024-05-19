@@ -1,5 +1,6 @@
 ---
 title: "Death Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Death Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.798PFdS8FmefcOl0

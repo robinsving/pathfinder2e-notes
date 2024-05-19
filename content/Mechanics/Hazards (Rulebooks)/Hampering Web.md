@@ -1,5 +1,6 @@
 ---
 title: Hampering Web
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

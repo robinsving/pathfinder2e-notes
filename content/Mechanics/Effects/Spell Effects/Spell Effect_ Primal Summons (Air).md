@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Primal Summons (Air)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Primal Summons (Air)"
 foundryId: Compendium.pf2e.spell-effects.Item.fwaAe71qfnK7SiOB

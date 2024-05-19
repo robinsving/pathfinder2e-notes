@@ -1,5 +1,6 @@
 ---
 title: "Wandering Reverie"
+draft: true
 noteType: ":luggage:"
 aliases: "Wandering Reverie"
 foundryId: Item.8NlJhuckHkoeWBBY

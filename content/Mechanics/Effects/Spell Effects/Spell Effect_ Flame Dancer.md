@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Flame Dancer"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Flame Dancer"
 foundryId: Compendium.pf2e.spell-effects.Item.1cBl1gVcpzOqlluC

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Align Armament (Chaotic)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Align Armament (Chaotic)"
 foundryId: Compendium.pf2e.feat-effects.Item.XC3dRbwfu35vuvmM

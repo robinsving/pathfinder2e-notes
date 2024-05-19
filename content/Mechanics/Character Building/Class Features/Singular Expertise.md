@@ -1,5 +1,6 @@
 ---
 title: "Singular Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Singular Expertise"
 foundryId: Item.tndar32O7VHHBQKQ

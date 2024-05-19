@@ -1,5 +1,6 @@
 ---
 title: "Unlimited Esoterica"
+draft: true
 noteType: ":luggage:"
 aliases: "Unlimited Esoterica"
 foundryId: Item.GuEwWZfuG7MX6FF2

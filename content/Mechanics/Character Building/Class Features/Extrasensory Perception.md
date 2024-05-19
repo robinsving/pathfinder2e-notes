@@ -1,5 +1,6 @@
 ---
 title: "Extrasensory Perception"
+draft: true
 noteType: ":luggage:"
 aliases: "Extrasensory Perception"
 foundryId: Item.uOclt8JCyuWVvbqB

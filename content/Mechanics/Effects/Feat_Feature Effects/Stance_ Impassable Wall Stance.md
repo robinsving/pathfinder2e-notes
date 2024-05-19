@@ -1,5 +1,6 @@
 ---
 title: "Stance: Impassable Wall Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Impassable Wall Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.zzC2qZwEKf4Ja3xD

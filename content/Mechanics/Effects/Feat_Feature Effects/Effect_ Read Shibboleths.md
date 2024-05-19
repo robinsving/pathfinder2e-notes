@@ -1,5 +1,6 @@
 ---
 title: "Effect: Read Shibboleths"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Read Shibboleths"
 foundryId: Compendium.pf2e.feat-effects.Item.ivGiUp0EC5nWT9Hb

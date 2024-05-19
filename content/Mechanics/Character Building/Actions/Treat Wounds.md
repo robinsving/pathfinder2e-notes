@@ -1,5 +1,6 @@
 ---
 title: "Treat Wounds"
+draft: true
 noteType: ":luggage:"
 aliases: "Treat Wounds"
 foundryId: Item.vsZskpn4QyhJYSAX

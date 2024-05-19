@@ -1,5 +1,6 @@
 ---
 title: "Effect: Assisting Shot (Critical Hit)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Assisting Shot (Critical Hit)"
 foundryId: Compendium.pf2e.feat-effects.Item.AAgoUuwMvHzqNhIN

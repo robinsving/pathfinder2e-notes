@@ -1,5 +1,6 @@
 ---
 title: "Effect: Aura of Smoke"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Aura of Smoke"
 foundryId: Compendium.pf2e.bestiary-effects.Item.8sXm5FX6qsMDYcba

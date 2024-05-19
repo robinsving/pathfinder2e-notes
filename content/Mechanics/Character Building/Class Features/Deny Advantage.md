@@ -1,5 +1,6 @@
 ---
 title: "Deny Advantage"
+draft: true
 noteType: ":luggage:"
 aliases: "Deny Advantage"
 foundryId: Item.E7c5WBrlOnUboSLw

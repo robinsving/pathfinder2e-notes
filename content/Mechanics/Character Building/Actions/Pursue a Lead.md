@@ -1,5 +1,6 @@
 ---
 title: "Pursue a Lead"
+draft: true
 noteType: ":luggage:"
 aliases: "Pursue a Lead"
 foundryId: Item.OOrZtfRRICerTDep

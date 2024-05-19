@@ -1,5 +1,6 @@
 ---
 title: "Thermal Eruption"
+draft: true
 noteType: ":luggage:"
 aliases: "Thermal Eruption"
 foundryId: Item.tkz1HOIRr6y9ZDvo

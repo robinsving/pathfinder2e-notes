@@ -1,5 +1,6 @@
 ---
 title: "Touch Telepathy"
+draft: true
 noteType: ":luggage:"
 aliases: "Touch Telepathy"
 foundryId: Item.OccE9Ubrp1DyTTbq

@@ -1,5 +1,6 @@
 ---
 title: "Magrim"
+draft: true
 noteType: ":luggage:"
 aliases: "Magrim"
 foundryId: Item.FOHgKMTDTAjyK6pg

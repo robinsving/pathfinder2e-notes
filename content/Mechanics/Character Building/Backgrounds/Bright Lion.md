@@ -1,5 +1,6 @@
 ---
 title: "Bright Lion"
+draft: true
 noteType: ":luggage:"
 aliases: "Bright Lion"
 foundryId: Item.B36XCNfSlmR71DYw

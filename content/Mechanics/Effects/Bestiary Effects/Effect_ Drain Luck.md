@@ -1,5 +1,6 @@
 ---
 title: "Effect: Drain Luck"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Drain Luck"
 foundryId: Compendium.pf2e.bestiary-effects.Item.fGI77mVeCQKBAP0f

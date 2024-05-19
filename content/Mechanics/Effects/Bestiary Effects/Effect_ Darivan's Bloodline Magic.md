@@ -1,5 +1,6 @@
 ---
 title: "Effect: Darivan's Bloodline Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Darivan's Bloodline Magic"
 foundryId: Compendium.pf2e.bestiary-effects.Item.1toVzNVJZx0RwG1v

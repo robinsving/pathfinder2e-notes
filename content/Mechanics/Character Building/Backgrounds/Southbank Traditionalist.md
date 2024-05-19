@@ -1,5 +1,6 @@
 ---
 title: "Southbank Traditionalist"
+draft: true
 noteType: ":luggage:"
 aliases: "Southbank Traditionalist"
 foundryId: Item.1Vkd05ISlroKY9kF

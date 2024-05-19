@@ -1,5 +1,6 @@
 ---
 title: "Automaton Core"
+draft: true
 noteType: ":luggage:"
 aliases: "Automaton Core"
 foundryId: Item.bgcBvWLRUNQ2hcmg

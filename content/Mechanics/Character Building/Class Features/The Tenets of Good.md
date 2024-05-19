@@ -1,5 +1,6 @@
 ---
 title: "The Tenets of Good"
+draft: true
 noteType: ":luggage:"
 aliases: "The Tenets of Good"
 foundryId: Item.9twP2YJk9L5bh7IB

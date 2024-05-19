@@ -1,5 +1,6 @@
 ---
 title: "Aldori Duelist"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Aldori Duelist"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.cBBwTnJrVmvaRMYq

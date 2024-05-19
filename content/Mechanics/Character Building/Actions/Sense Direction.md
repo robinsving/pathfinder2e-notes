@@ -1,5 +1,6 @@
 ---
 title: "Sense Direction"
+draft: true
 noteType: ":luggage:"
 aliases: "Sense Direction"
 foundryId: Item.LHBT7L9XGWVX1gty

@@ -1,5 +1,6 @@
 ---
 title: "Political Scion"
+draft: true
 noteType: ":luggage:"
 aliases: "Political Scion"
 foundryId: Item.8ghjLtHxwBzyGsno

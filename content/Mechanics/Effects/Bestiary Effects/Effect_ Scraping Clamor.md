@@ -1,5 +1,6 @@
 ---
 title: "Effect: Scraping Clamor"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Scraping Clamor"
 foundryId: Compendium.pf2e.bestiary-effects.Item.wcNGbhwn3AuamtsX

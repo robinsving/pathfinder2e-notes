@@ -1,5 +1,6 @@
 ---
 title: "Lay Down Arms"
+draft: true
 noteType: ":luggage:"
 aliases: "Lay Down Arms"
 foundryId: Item.20A4zItUQWqFuE97

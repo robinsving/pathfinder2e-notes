@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Swampcall (Critical Failure)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Swampcall (Critical Failure)"
 foundryId: Compendium.pf2e.spell-effects.Item.otK6eG3b3FV7n2xP

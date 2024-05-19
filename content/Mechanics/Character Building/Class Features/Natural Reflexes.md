@@ -1,5 +1,6 @@
 ---
 title: "Natural Reflexes"
+draft: true
 noteType: ":luggage:"
 aliases: "Natural Reflexes"
 foundryId: Item.PjOfEFP9VCBX609c

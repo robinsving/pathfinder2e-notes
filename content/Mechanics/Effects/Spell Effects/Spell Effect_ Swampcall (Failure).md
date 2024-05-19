@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Swampcall (Failure)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Swampcall (Failure)"
 foundryId: Compendium.pf2e.spell-effects.Item.ROuGwXEvFznzGE9k

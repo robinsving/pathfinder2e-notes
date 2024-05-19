@@ -1,5 +1,6 @@
 ---
 title: "Learned Guard Prodigy"
+draft: true
 noteType: ":luggage:"
 aliases: "Learned Guard Prodigy"
 foundryId: Item.vlEIVdn7GGX8dqwN

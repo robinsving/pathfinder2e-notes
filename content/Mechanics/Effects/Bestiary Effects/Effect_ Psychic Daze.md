@@ -1,5 +1,6 @@
 ---
 title: "Effect: Psychic Daze"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Psychic Daze"
 foundryId: Compendium.pf2e.bestiary-effects.Item.wEFRo8enunRLFsVE

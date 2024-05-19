@@ -1,5 +1,6 @@
 ---
 title: "Effect: Accursed Clay Fist"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Accursed Clay Fist"
 foundryId: Compendium.pf2e.feat-effects.Item.bvk5rwYSoTtz8QGf

@@ -1,5 +1,6 @@
 ---
 title: "Starless Shadow"
+draft: true
 noteType: ":luggage:"
 aliases: "Starless Shadow"
 foundryId: Item.lecR78UyRThpDyhX

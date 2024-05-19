@@ -1,5 +1,6 @@
 ---
 title: "Deity and Cause"
+draft: true
 noteType: ":luggage:"
 aliases: "Deity and Cause"
 foundryId: Item.hdhidZv3gpl05sYC

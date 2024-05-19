@@ -1,5 +1,6 @@
 ---
 title: "Eritrice"
+draft: true
 noteType: ":luggage:"
 aliases: "Eritrice"
 foundryId: Item.W72ktFhLLDD8SOOl

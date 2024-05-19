@@ -1,5 +1,6 @@
 ---
 title: "Effect: Crushing Spirits"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Crushing Spirits"
 foundryId: Compendium.pf2e.bestiary-effects.Item.U05L8bPBcRHTtTB3

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Take Root"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Take Root"
 foundryId: Compendium.pf2e.spell-effects.Item.ZGzhNFB3SM8owk85

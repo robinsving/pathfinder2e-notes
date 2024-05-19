@@ -1,5 +1,6 @@
 ---
 title: "Maneuver in Flight"
+draft: true
 noteType: ":luggage:"
 aliases: "Maneuver in Flight"
 foundryId: Item.tqLCDA0cpZYGAdXA

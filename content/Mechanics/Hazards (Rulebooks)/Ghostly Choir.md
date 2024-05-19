@@ -1,5 +1,6 @@
 ---
 title: Ghostly Choir
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

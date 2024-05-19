@@ -1,5 +1,6 @@
 ---
 title: "Effect: Susceptible to Mockery (Critical Failure)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Susceptible to Mockery (Critical Failure)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.APJJCYdq4gNe0PF4

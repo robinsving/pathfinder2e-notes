@@ -1,5 +1,6 @@
 ---
 title: "Astrologer"
+draft: true
 noteType: ":luggage:"
 aliases: "Astrologer"
 foundryId: Item.lXcvqBZtz669tcm4

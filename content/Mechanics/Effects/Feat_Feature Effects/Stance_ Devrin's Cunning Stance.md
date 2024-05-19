@@ -1,5 +1,6 @@
 ---
 title: "Stance: Devrin's Cunning Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Devrin's Cunning Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.kyrvZfZfzKK1vx9b

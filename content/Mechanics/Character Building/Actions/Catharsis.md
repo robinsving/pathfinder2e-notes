@@ -1,5 +1,6 @@
 ---
 title: "Catharsis"
+draft: true
 noteType: ":luggage:"
 aliases: "Catharsis"
 foundryId: Item.QYQhAhWmAtjW3zRZ

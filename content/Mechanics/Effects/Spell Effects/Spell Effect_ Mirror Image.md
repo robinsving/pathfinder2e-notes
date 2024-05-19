@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Mirror Image"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Mirror Image"
 foundryId: Compendium.pf2e.spell-effects.Item.0PO5mFRhh9HxGAtv

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Defensive Assault"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Defensive Assault"
 foundryId: Compendium.pf2e.bestiary-effects.Item.pMPe01GWvfwcYwUR

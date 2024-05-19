@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Dragon Claws"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Dragon Claws"
 foundryId: Compendium.pf2e.spell-effects.Item.7zy4W2RXQiMEr6cp

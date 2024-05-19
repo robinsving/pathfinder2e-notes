@@ -1,5 +1,6 @@
 ---
 title: "Trick Driver"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Trick Driver"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.nPcma8UOqWo7xw0P

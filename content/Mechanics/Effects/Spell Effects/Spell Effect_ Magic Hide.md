@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Magic Hide"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Magic Hide"
 foundryId: Compendium.pf2e.spell-effects.Item.qhNUfwpkD8BRw4zj

@@ -1,5 +1,6 @@
 ---
 title: "Zombie"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Zombie"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.G38usCLuTDmFYw7V

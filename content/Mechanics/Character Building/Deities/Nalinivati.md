@@ -1,5 +1,6 @@
 ---
 title: "Nalinivati"
+draft: true
 noteType: ":luggage:"
 aliases: "Nalinivati"
 foundryId: Item.fza0JQB6B0NdYqaG

@@ -1,5 +1,6 @@
 ---
 title: "Opportune Riposte"
+draft: true
 noteType: ":luggage:"
 aliases: "Opportune Riposte"
 foundryId: Item.ZJ11fIlAlDTRaRMa

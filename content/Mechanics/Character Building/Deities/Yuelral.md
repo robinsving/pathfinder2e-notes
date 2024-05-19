@@ -1,5 +1,6 @@
 ---
 title: "Yuelral"
+draft: true
 noteType: ":luggage:"
 aliases: "Yuelral"
 foundryId: Item.TK4DNY2aiBGBrCaP

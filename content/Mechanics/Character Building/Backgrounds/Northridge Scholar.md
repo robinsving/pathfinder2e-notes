@@ -1,5 +1,6 @@
 ---
 title: "Northridge Scholar"
+draft: true
 noteType: ":luggage:"
 aliases: "Northridge Scholar"
 foundryId: Item.l6o9y2lmF9UYGc1N

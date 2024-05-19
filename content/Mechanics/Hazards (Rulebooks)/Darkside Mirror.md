@@ -1,5 +1,6 @@
 ---
 title: Darkside Mirror
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

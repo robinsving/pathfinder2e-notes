@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Hymn of Healing"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Hymn of Healing"
 foundryId: Compendium.pf2e.spell-effects.Item.C1GAlZ6Gmmw0QIJN

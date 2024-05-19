@@ -1,5 +1,6 @@
 ---
 title: "Champion's Code"
+draft: true
 noteType: ":luggage:"
 aliases: "Champion's Code"
 foundryId: Item.IYAbpaRi1TVFfjod

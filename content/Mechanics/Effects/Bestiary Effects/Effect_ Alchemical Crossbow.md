@@ -1,5 +1,6 @@
 ---
 title: "Effect: Alchemical Crossbow"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Alchemical Crossbow"
 foundryId: Compendium.pf2e.bestiary-effects.Item.ucAwSIZsGrpBLg6G

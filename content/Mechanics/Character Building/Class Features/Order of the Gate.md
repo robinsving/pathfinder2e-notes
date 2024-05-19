@@ -1,5 +1,6 @@
 ---
 title: "Order of the Gate"
+draft: true
 noteType: ":luggage:"
 aliases: "Order of the Gate"
 foundryId: Item.XhHEobnyzSQvNQQ9

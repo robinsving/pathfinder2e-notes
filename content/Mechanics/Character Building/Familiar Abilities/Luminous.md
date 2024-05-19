@@ -1,5 +1,6 @@
 ---
 title: "Luminous"
+draft: true
 noteType: ":luggage:"
 aliases: "Luminous"
 foundryId: Item.klvx2yFVnF5KzPoH

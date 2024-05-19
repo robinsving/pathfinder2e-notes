@@ -1,5 +1,6 @@
 ---
 title: "Fireworks Performer"
+draft: true
 noteType: ":luggage:"
 aliases: "Fireworks Performer"
 foundryId: Item.M054qDsoSsXpJA7V

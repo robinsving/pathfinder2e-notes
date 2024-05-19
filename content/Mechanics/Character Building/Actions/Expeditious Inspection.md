@@ -1,5 +1,6 @@
 ---
 title: "Expeditious Inspection"
+draft: true
 noteType: ":luggage:"
 aliases: "Expeditious Inspection"
 foundryId: Item.StUyTUWNk43KHQZg

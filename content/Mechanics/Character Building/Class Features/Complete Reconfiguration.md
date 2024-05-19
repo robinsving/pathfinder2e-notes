@@ -1,5 +1,6 @@
 ---
 title: "Complete Reconfiguration"
+draft: true
 noteType: ":luggage:"
 aliases: "Complete Reconfiguration"
 foundryId: Item.2pFjhfBRTN7FeVbD

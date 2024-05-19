@@ -1,5 +1,6 @@
 ---
 title: "Thassilonian Delver"
+draft: true
 noteType: ":luggage:"
 aliases: "Thassilonian Delver"
 foundryId: Item.9xeGN1agMvoJeepI

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Absorb Memories"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Absorb Memories"
 foundryId: Compendium.pf2e.bestiary-effects.Item.1jrrnMwsfO97LXi4

@@ -1,5 +1,6 @@
 ---
 title: "Off-Guard"
+draft: true
 noteType: ":luggage:"
 aliases: "Off-Guard"
 foundryId: Item.rXAiqCeDRV3S27b3

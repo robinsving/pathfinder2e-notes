@@ -1,5 +1,6 @@
 ---
 title: "Effect: Deteriorated"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Deteriorated"
 foundryId: Compendium.pf2e.feat-effects.Item.94MzLpLykQIWKcA1

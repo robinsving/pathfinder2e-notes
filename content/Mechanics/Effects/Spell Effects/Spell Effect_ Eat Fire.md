@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Eat Fire"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Eat Fire"
 foundryId: Compendium.pf2e.spell-effects.Item.BGv44XBGtD4zOJBd

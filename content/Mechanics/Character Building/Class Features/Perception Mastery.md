@@ -1,5 +1,6 @@
 ---
 title: "Perception Mastery"
+draft: true
 noteType: ":luggage:"
 aliases: "Perception Mastery"
 foundryId: Item.MFutpeJrMbsltTJf

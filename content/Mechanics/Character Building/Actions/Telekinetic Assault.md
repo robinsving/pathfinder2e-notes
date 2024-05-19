@@ -1,5 +1,6 @@
 ---
 title: "Telekinetic Assault"
+draft: true
 noteType: ":luggage:"
 aliases: "Telekinetic Assault"
 foundryId: Item.DDJd2ZjOkD5D331i

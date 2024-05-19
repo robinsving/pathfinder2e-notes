@@ -1,5 +1,6 @@
 ---
 title: "Screaming Skull"
+draft: true
 noteType: ":luggage:"
 aliases: "Screaming Skull"
 foundryId: Item.CGIhQFrafVizkDof

@@ -1,5 +1,6 @@
 ---
 title: "The Infinite Eye"
+draft: true
 noteType: ":luggage:"
 aliases: "The Infinite Eye"
 foundryId: Item.JllQ0OmOQEAvEsf3

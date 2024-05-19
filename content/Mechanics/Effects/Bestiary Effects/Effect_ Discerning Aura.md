@@ -1,5 +1,6 @@
 ---
 title: "Effect: Discerning Aura"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Discerning Aura"
 foundryId: Compendium.pf2e.bestiary-effects.Item.mo4IRyv7GGRBJihU

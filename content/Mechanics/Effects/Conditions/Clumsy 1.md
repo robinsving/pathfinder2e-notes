@@ -1,5 +1,6 @@
 ---
 title: "Clumsy 1"
+draft: true
 noteType: ":luggage:"
 aliases: "Clumsy 1"
 foundryId: Item.YgdTY2YnIg6ab9N4

@@ -1,5 +1,6 @@
 ---
 title: "Tenacious Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Tenacious Stance"
 foundryId: Item.vXANBCafLHS6DItp

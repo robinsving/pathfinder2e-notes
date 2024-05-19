@@ -1,5 +1,6 @@
 ---
 title: "Innate Venom"
+draft: true
 noteType: ":luggage:"
 aliases: "Innate Venom"
 foundryId: Item.UblSuXZ0rC4UG8q6

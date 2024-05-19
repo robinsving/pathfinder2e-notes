@@ -1,5 +1,6 @@
 ---
 title: "Effect: Resistance 5 to all damage"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Resistance 5 to all damage"
 foundryId: Compendium.pf2e.other-effects.Item.WqgtMWgM9nUjwQiI

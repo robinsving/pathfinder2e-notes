@@ -1,5 +1,6 @@
 ---
 title: "Troll Deviant Classification"
+draft: true
 noteType: ":luggage:"
 aliases: "Troll Deviant Classification"
 foundryId: Item.zGWQkkmqDqekv4ra

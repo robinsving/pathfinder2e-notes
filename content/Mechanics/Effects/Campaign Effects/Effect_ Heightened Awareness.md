@@ -1,5 +1,6 @@
 ---
 title: "Effect: Heightened Awareness"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Heightened Awareness"
 foundryId: Compendium.pf2e.campaign-effects.Item.Rz35d02dUtAjKtMB

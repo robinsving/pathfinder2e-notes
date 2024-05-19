@@ -1,5 +1,6 @@
 ---
 title: "Scholar of the Ancients"
+draft: true
 noteType: ":luggage:"
 aliases: "Scholar of the Ancients"
 foundryId: Item.NxMdVdeOxIQEjGxu

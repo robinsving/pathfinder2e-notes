@@ -1,5 +1,6 @@
 ---
 title: "Hefty Composition"
+draft: true
 noteType: ":luggage:"
 aliases: "Hefty Composition"
 foundryId: Item.3PbZ52cImR85YIZd

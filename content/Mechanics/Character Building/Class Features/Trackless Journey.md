@@ -1,5 +1,6 @@
 ---
 title: Trackless Journey
+draft: true
 noteType: ":luggage:"
 aliases:
   - Trackless Journey

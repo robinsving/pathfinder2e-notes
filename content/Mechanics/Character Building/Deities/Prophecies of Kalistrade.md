@@ -1,5 +1,6 @@
 ---
 title: "Prophecies of Kalistrade"
+draft: true
 noteType: ":luggage:"
 aliases: "Prophecies of Kalistrade"
 foundryId: Item.o2ZVn1L4OViCNbcr

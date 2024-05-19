@@ -1,5 +1,6 @@
 ---
 title: "Effect: Aberrant Blood Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Aberrant Blood Magic"
 foundryId: Compendium.pf2e.feat-effects.Item.UQ7vZgmfK0VSFS8A

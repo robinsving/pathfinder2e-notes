@@ -1,5 +1,6 @@
 ---
 title: "Esoteric Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Esoteric Lore"
 foundryId: Item.37UrHSUigKOq0KjW

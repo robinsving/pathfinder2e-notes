@@ -1,5 +1,6 @@
 ---
 title: "Wellspring Mage (Class Archetype)"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Wellspring Mage (Class Archetype)"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.zj9z2BwVX6TLHdx3

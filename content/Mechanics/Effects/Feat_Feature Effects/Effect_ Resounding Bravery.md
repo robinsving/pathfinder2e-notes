@@ -1,5 +1,6 @@
 ---
 title: "Effect: Resounding Bravery"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Resounding Bravery"
 foundryId: Compendium.pf2e.feat-effects.Item.NMmsJyeMTawpgLVR

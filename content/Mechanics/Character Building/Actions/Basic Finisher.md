@@ -1,5 +1,6 @@
 ---
 title: "Basic Finisher"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Finisher"
 foundryId: Item.yR9CJDNmd7WVCSBC

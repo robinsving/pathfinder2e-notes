@@ -1,5 +1,6 @@
 ---
 title: "Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Strike"
 foundryId: Item.XtsyOpAJ1CCpoB6i

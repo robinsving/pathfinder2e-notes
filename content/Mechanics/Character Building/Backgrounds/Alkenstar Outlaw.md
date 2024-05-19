@@ -1,5 +1,6 @@
 ---
 title: "Alkenstar Outlaw"
+draft: true
 noteType: ":luggage:"
 aliases: "Alkenstar Outlaw"
 foundryId: Item.vWFQYx8OwtStgIrF

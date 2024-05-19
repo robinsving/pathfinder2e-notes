@@ -1,5 +1,6 @@
 ---
 title: "Martial Disciple"
+draft: true
 noteType: ":luggage:"
 aliases: "Martial Disciple"
 foundryId: Item.b0r3UN0eu7z1J0lL

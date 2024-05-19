@@ -1,5 +1,6 @@
 ---
 title: "Arshea"
+draft: true
 noteType: ":luggage:"
 aliases: "Arshea"
 foundryId: Item.CrJc1bpZRuSamq2j

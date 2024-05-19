@@ -1,5 +1,6 @@
 ---
 title: "Effect: Inspiring Resilience"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Inspiring Resilience"
 foundryId: Compendium.pf2e.feat-effects.Item.qM4bQfcwZ0EOS2M9

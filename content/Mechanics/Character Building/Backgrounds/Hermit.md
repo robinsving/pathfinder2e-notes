@@ -1,5 +1,6 @@
 ---
 title: "Hermit"
+draft: true
 noteType: ":luggage:"
 aliases: "Hermit"
 foundryId: Item.1RoWji1N42747v1C

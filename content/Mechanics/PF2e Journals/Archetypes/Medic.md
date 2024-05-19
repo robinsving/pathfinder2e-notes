@@ -1,5 +1,6 @@
 ---
 title: "Medic"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Medic"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.XWkyCVISmVtJ0ZY3

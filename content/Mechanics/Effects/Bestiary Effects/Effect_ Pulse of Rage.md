@@ -1,5 +1,6 @@
 ---
 title: "Effect: Pulse of Rage"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Pulse of Rage"
 foundryId: Compendium.pf2e.bestiary-effects.Item.GC5441z8i7N8swk1

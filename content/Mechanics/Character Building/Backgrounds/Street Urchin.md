@@ -1,5 +1,6 @@
 ---
 title: "Street Urchin"
+draft: true
 noteType: ":luggage:"
 aliases: "Street Urchin"
 foundryId: Item.ZkyX4ZGuLISjSfYM

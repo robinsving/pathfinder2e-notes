@@ -1,5 +1,6 @@
 ---
 title: "Farmhand"
+draft: true
 noteType: ":luggage:"
 aliases: "Farmhand"
 foundryId: Item.dmbel2z62IgoKVLE

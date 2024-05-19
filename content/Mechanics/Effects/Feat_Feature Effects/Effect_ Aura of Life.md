@@ -1,5 +1,6 @@
 ---
 title: "Effect: Aura of Life"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Aura of Life"
 foundryId: Compendium.pf2e.feat-effects.Item.FPuICuxBLiDaEbDX

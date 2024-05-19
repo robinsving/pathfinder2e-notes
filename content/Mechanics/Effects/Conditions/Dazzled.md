@@ -1,5 +1,6 @@
 ---
 title: "Dazzled"
+draft: true
 noteType: ":luggage:"
 aliases: "Dazzled"
 foundryId: Item.h6ohwa66Y1cVZf1t

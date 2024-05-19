@@ -1,5 +1,6 @@
 ---
 title: "Thaumaturge"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Thaumaturge"
 foundryId: Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.qigU4oNH2KDVvhjX

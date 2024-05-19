@@ -1,5 +1,6 @@
 ---
 title: "Walls of Will"
+draft: true
 noteType: ":luggage:"
 aliases: "Walls of Will"
 foundryId: Item.kfwhYBk8vnA3oD92

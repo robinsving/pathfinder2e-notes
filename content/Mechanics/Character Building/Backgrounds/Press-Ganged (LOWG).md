@@ -1,5 +1,6 @@
 ---
 title: "Press-Ganged (LOWG)"
+draft: true
 noteType: ":luggage:"
 aliases: "Press-Ganged (LOWG)"
 foundryId: Item.eElzL0aU15VoR2jP

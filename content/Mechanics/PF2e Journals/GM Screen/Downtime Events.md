@@ -1,5 +1,6 @@
 ---
 title: "Downtime Events"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Downtime Events"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.INYPqM7rs9SNFRba

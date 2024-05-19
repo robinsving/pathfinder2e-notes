@@ -1,5 +1,6 @@
 ---
 title: "Effect: Infectious Aura"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Infectious Aura"
 foundryId: Compendium.pf2e.bestiary-effects.Item.T2tfacwoOozQfsIz

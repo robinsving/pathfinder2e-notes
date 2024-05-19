@@ -1,5 +1,6 @@
 ---
 title: "Perpetual Potency"
+draft: true
 noteType: ":luggage:"
 aliases: "Perpetual Potency"
 foundryId: Item.0cXhRaSg24QtpjEz

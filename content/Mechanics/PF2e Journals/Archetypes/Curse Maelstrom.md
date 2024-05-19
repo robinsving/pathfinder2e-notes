@@ -1,5 +1,6 @@
 ---
 title: "Curse Maelstrom"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Curse Maelstrom"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.KRUWPDzuwG0LC26d

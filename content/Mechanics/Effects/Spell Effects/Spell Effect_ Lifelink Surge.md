@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Lifelink Surge"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Lifelink Surge"
 foundryId: Compendium.pf2e.spell-effects.Item.h2JzNunzO8hXiNV3

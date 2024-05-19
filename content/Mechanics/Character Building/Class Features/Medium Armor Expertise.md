@@ -1,5 +1,6 @@
 ---
 title: "Medium Armor Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Medium Armor Expertise"
 foundryId: Item.RxBlPkGyXdVqMBt7

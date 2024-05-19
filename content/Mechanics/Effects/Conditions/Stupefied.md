@@ -1,5 +1,6 @@
 ---
 title: Stupefied 1
+draft: true
 noteType: ":luggage:"
 aliases:
   - Stupefied 1

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Wash Your Luck"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Wash Your Luck"
 foundryId: Compendium.pf2e.spell-effects.Item.npFFTAxN44WWrGnM

@@ -1,5 +1,6 @@
 ---
 title: "Cursed Family"
+draft: true
 noteType: ":luggage:"
 aliases: "Cursed Family"
 foundryId: Item.dqx5hHaYV3Y0MTOw

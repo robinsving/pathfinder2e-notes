@@ -1,5 +1,6 @@
 ---
 title: "Osprey Scribe"
+draft: true
 noteType: ":luggage:"
 aliases: "Osprey Scribe"
 foundryId: Item.NambsrQDw2XuBsDJ

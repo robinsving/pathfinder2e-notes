@@ -1,5 +1,6 @@
 ---
 title: "Shootist's Edge"
+draft: true
 noteType: ":luggage:"
 aliases: "Shootist's Edge"
 foundryId: Item.qASUDt62xWjGP2RH

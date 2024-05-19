@@ -1,5 +1,6 @@
 ---
 title: "Scions of Domora"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Scions of Domora"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.J0AfK0jJgS5WxhCE

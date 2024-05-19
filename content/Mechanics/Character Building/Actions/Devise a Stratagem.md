@@ -1,5 +1,6 @@
 ---
 title: "Devise a Stratagem"
+draft: true
 noteType: ":luggage:"
 aliases: "Devise a Stratagem"
 foundryId: Item.o0fkDJls2GkWxBJG

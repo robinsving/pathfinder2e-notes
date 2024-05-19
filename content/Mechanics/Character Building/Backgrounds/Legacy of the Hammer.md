@@ -1,5 +1,6 @@
 ---
 title: "Legacy of the Hammer"
+draft: true
 noteType: ":luggage:"
 aliases: "Legacy of the Hammer"
 foundryId: Item.TNYD19hohZN5XoZb

@@ -1,5 +1,6 @@
 ---
 title: Scythe Blades
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

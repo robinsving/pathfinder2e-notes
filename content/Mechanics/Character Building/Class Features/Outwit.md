@@ -1,5 +1,6 @@
 ---
 title: "Outwit"
+draft: true
 noteType: ":luggage:"
 aliases: "Outwit"
 foundryId: Item.R9Eqxd9QpjaD8ney

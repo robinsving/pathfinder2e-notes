@@ -1,5 +1,6 @@
 ---
 title: "Stance: Rebirth In Living Stone"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Rebirth In Living Stone"
 foundryId: Compendium.pf2e.feat-effects.Item.zqgOjMU9TGoGwJWc

@@ -1,5 +1,6 @@
 ---
 title: "Zura"
+draft: true
 noteType: ":luggage:"
 aliases: "Zura"
 foundryId: Item.d6QqRhdhTDr4maGt

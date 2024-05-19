@@ -1,5 +1,6 @@
 ---
 title: "Lao Shu Po"
+draft: true
 noteType: ":luggage:"
 aliases: "Lao Shu Po"
 foundryId: Item.GOVKuAPXBmXYdOwE

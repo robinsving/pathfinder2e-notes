@@ -1,5 +1,6 @@
 ---
 title: "Effect: Heaven's Thunder"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Heaven's Thunder"
 foundryId: Compendium.pf2e.feat-effects.Item.L9g3EMCT3imX650b

@@ -1,5 +1,6 @@
 ---
 title: "Scroll Prices"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Scroll Prices"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.l0rlB52Pzy6Vt1Ic

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Vital Beacon"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Vital Beacon"
 foundryId: Compendium.pf2e.spell-effects.Item.WWtSEJGwKY4bQpUn

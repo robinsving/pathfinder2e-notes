@@ -1,5 +1,6 @@
 ---
 title: "Practical Research"
+draft: true
 noteType: ":luggage:"
 aliases: "Practical Research"
 foundryId: Item.HEXwK2G1WbpBcl6K

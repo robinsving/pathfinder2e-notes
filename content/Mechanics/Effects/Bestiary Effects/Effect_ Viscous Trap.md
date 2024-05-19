@@ -1,5 +1,6 @@
 ---
 title: "Effect: Viscous Trap"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Viscous Trap"
 foundryId: Compendium.pf2e.bestiary-effects.Item.iWLAcND0iyW4NUZm

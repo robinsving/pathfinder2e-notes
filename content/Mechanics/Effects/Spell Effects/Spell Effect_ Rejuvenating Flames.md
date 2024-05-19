@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Rejuvenating Flames"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Rejuvenating Flames"
 foundryId: Compendium.pf2e.spell-effects.Item.06zdFoxzuTpPPGyJ

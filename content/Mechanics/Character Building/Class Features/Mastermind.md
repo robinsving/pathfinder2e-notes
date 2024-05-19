@@ -1,5 +1,6 @@
 ---
 title: "Mastermind"
+draft: true
 noteType: ":luggage:"
 aliases: "Mastermind"
 foundryId: Item.bORt8tpo4WVcIKtt

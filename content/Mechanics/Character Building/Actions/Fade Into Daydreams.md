@@ -1,5 +1,6 @@
 ---
 title: "Fade Into Daydreams"
+draft: true
 noteType: ":luggage:"
 aliases: "Fade Into Daydreams"
 foundryId: Item.jpPDr78aAe0vk4Nr

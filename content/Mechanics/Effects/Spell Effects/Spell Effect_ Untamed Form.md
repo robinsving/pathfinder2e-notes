@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Untamed Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Untamed Form"
 foundryId: Compendium.pf2e.spell-effects.Item.a5rWrWwuevTzs9Io

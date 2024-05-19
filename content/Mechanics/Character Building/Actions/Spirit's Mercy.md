@@ -1,5 +1,6 @@
 ---
 title: "Spirit's Mercy"
+draft: true
 noteType: ":luggage:"
 aliases: "Spirit's Mercy"
 foundryId: Item.ACRtLQyAmbFiVwmU

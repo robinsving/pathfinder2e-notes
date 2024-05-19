@@ -1,5 +1,6 @@
 ---
 title: "Yog-Sothoth"
+draft: true
 noteType: ":luggage:"
 aliases: "Yog-Sothoth"
 foundryId: Item.zUelwnUQCSLE1ApT

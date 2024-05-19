@@ -1,5 +1,6 @@
 ---
 title: "Fate Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Fate Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.EC2eB0JglDG5j1gT

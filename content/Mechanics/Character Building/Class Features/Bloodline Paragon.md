@@ -1,5 +1,6 @@
 ---
 title: "Bloodline Paragon"
+draft: true
 noteType: ":luggage:"
 aliases: "Bloodline Paragon"
 foundryId: Item.cH961J3wMMRiq9RM

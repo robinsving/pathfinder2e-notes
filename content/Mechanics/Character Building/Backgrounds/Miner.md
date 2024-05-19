@@ -1,5 +1,6 @@
 ---
 title: "Miner"
+draft: true
 noteType: ":luggage:"
 aliases: "Miner"
 foundryId: Item.hiv0LQhddT3AcdQB

@@ -1,5 +1,6 @@
 ---
 title: "Shoanti Animism"
+draft: true
 noteType: ":luggage:"
 aliases: "Shoanti Animism"
 foundryId: Item.4CPIEYjXOMHq45Kf

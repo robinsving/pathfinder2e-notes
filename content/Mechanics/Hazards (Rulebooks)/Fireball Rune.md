@@ -1,5 +1,6 @@
 ---
 title: Fireball Rune
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

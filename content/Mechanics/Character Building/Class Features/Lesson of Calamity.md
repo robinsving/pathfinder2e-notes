@@ -1,5 +1,6 @@
 ---
 title: "Lesson of Calamity"
+draft: true
 noteType: ":luggage:"
 aliases: "Lesson of Calamity"
 foundryId: Item.DshAtq1MVuaT00zL

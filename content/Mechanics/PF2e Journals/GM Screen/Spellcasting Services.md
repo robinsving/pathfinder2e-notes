@@ -1,5 +1,6 @@
 ---
 title: "Spellcasting Services"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Spellcasting Services"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.qMNBD91gc5kIKPs2

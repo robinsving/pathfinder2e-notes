@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Repel Metal"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Repel Metal"
 foundryId: Compendium.pf2e.spell-effects.Item.vhFnQBvguBXo6vxx

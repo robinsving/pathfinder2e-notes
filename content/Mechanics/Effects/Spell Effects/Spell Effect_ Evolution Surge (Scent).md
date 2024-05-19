@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Evolution Surge (Scent)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Evolution Surge (Scent)"
 foundryId: Compendium.pf2e.spell-effects.Item.pocsoEi84Mr2buOc

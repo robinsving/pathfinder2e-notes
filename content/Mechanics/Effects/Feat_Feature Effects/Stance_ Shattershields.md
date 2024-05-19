@@ -1,5 +1,6 @@
 ---
 title: "Stance: Shattershields"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Shattershields"
 foundryId: Compendium.pf2e.feat-effects.Item.Njb4eLx5VngDIDpo

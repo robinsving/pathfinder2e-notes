@@ -1,5 +1,6 @@
 ---
 title: "Long Jump"
+draft: true
 noteType: ":luggage:"
 aliases: "Long Jump"
 foundryId: Item.x5fLNEEAORfQX36N

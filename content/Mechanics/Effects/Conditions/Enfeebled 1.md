@@ -1,5 +1,6 @@
 ---
 title: "Enfeebled 1"
+draft: true
 noteType: ":luggage:"
 aliases: "Enfeebled 1"
 foundryId: Item.YnxkoZNkQkIBR6wG

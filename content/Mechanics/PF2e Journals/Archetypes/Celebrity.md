@@ -1,5 +1,6 @@
 ---
 title: "Celebrity"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Celebrity"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.h1zdUIWX1k5PKTnc

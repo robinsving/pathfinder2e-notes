@@ -1,5 +1,6 @@
 ---
 title: "Accept Echo"
+draft: true
 noteType: ":luggage:"
 aliases: "Accept Echo"
 foundryId: Item.lqjoHWtZTDt0OxRz

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Elemental Assault"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Elemental Assault"
 foundryId: Compendium.pf2e.feat-effects.Item.XaZdQHF9GvaJINqH

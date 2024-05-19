@@ -1,5 +1,6 @@
 ---
 title: "Second Adept"
+draft: true
 noteType: ":luggage:"
 aliases: "Second Adept"
 foundryId: Item.a9XrioEENusZe3q6

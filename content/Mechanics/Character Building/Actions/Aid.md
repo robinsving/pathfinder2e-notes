@@ -1,5 +1,6 @@
 ---
 title: "Aid"
+draft: true
 noteType: ":luggage:"
 aliases: "Aid"
 foundryId: Item.Eq5mscQnyXmYBVVt

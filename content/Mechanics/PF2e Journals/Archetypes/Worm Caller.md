@@ -1,5 +1,6 @@
 ---
 title: "Worm Caller"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Worm Caller"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.l76UxUsfrsPnP9U9

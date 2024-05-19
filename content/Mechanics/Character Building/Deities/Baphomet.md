@@ -1,5 +1,6 @@
 ---
 title: "Baphomet"
+draft: true
 noteType: ":luggage:"
 aliases: "Baphomet"
 foundryId: Item.lbNmAqxos3kgfbL5

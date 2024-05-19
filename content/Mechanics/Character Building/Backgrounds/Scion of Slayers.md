@@ -1,5 +1,6 @@
 ---
 title: "Scion of Slayers"
+draft: true
 noteType: ":luggage:"
 aliases: "Scion of Slayers"
 foundryId: Item.2qx4Ii6GX0k6SxtH

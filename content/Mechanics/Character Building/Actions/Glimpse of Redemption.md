@@ -1,5 +1,6 @@
 ---
 title: "Glimpse of Redemption"
+draft: true
 noteType: ":luggage:"
 aliases: "Glimpse of Redemption"
 foundryId: Item.7nwAtdWw3guxJT1s

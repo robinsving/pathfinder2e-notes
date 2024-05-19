@@ -1,5 +1,6 @@
 ---
 title: "Effect: Rope Snare"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Rope Snare"
 foundryId: Compendium.pf2e.bestiary-effects.Item.o0zqsH5kYopRanav

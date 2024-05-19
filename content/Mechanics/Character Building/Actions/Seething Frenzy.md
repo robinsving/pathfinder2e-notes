@@ -1,5 +1,6 @@
 ---
 title: "Seething Frenzy"
+draft: true
 noteType: ":luggage:"
 aliases: "Seething Frenzy"
 foundryId: Item.MMuT9U5zGVNIaOCW

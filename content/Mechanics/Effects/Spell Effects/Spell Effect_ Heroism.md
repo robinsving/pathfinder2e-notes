@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Heroism"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Heroism"
 foundryId: Compendium.pf2e.spell-effects.Item.l9HRQggofFGIxEse

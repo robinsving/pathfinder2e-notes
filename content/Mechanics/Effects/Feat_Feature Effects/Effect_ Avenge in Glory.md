@@ -1,5 +1,6 @@
 ---
 title: "Effect: Avenge in Glory"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Avenge in Glory"
 foundryId: Compendium.pf2e.feat-effects.Item.JQUoBlZKT5N5zO5k

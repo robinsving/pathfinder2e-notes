@@ -1,5 +1,6 @@
 ---
 title: "Ruby Phoenix Fanatic"
+draft: true
 noteType: ":luggage:"
 aliases: "Ruby Phoenix Fanatic"
 foundryId: Item.ta2dXrEjnMYGi3Ao

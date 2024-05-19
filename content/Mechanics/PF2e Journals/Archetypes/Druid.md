@@ -1,5 +1,6 @@
 ---
 title: "Druid"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Druid"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.gbBf6x89m4SEFpsL

@@ -1,5 +1,6 @@
 ---
 title: Quicksand
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

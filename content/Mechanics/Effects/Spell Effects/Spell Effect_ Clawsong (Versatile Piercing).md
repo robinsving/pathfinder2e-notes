@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Clawsong (Versatile Piercing)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Clawsong (Versatile Piercing)"
 foundryId: Compendium.pf2e.spell-effects.Item.g4E9l4uA62LcRBJS

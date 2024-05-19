@@ -1,5 +1,6 @@
 ---
 title: "Broken Tusk Recruiter"
+draft: true
 noteType: ":luggage:"
 aliases: "Broken Tusk Recruiter"
 foundryId: Item.N3JUF7TB1IGnRbI3

@@ -1,5 +1,6 @@
 ---
 title: "Winter's Child"
+draft: true
 noteType: ":luggage:"
 aliases: "Winter's Child"
 foundryId: Item.O9S5ypvYLx4VdlEs

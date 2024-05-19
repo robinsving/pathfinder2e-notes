@@ -1,5 +1,6 @@
 ---
 title: "Exorcist"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Exorcist"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.WvleaXPfigawBvtN

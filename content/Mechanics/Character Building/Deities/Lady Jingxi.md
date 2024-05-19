@@ -1,5 +1,6 @@
 ---
 title: "Lady Jingxi"
+draft: true
 noteType: ":luggage:"
 aliases: "Lady Jingxi"
 foundryId: Item.ekTglFFn9gNHd6xJ

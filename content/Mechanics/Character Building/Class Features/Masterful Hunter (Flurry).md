@@ -1,5 +1,6 @@
 ---
 title: "Masterful Hunter (Flurry)"
+draft: true
 noteType: ":luggage:"
 aliases: "Masterful Hunter (Flurry)"
 foundryId: Item.srSqV49kWHNMGHB4

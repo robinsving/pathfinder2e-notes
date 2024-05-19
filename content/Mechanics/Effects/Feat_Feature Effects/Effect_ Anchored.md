@@ -1,5 +1,6 @@
 ---
 title: "Effect: Anchored"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Anchored"
 foundryId: Compendium.pf2e.feat-effects.Item.R6mx6EfLxSrQlrRa

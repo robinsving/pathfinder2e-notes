@@ -1,5 +1,6 @@
 ---
 title: "Seer of the Dead"
+draft: true
 noteType: ":luggage:"
 aliases: "Seer of the Dead"
 foundryId: Item.XNDpvJanzqGY5ndC

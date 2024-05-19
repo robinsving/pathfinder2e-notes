@@ -1,5 +1,6 @@
 ---
 title: "Grand Council Bureaucrat"
+draft: true
 noteType: ":luggage:"
 aliases: "Grand Council Bureaucrat"
 foundryId: Item.h0ivKey7xm4QqxJ7

@@ -1,5 +1,6 @@
 ---
 title: "Wave Order"
+draft: true
 noteType: ":luggage:"
 aliases: "Wave Order"
 foundryId: Item.hhCOnachrui4v6WB

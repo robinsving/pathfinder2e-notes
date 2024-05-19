@@ -1,5 +1,6 @@
 ---
 title: Gravehall Trap
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

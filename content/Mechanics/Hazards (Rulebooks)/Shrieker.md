@@ -1,5 +1,6 @@
 ---
 title: Shrieker
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

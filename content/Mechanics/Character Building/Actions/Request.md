@@ -1,5 +1,6 @@
 ---
 title: "Request"
+draft: true
 noteType: ":luggage:"
 aliases: "Request"
 foundryId: Item.dFmIqvohjGQwSooi

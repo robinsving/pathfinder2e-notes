@@ -1,5 +1,6 @@
 ---
 title: "Waste Walker"
+draft: true
 noteType: ":luggage:"
 aliases: "Waste Walker"
 foundryId: Item.qqX5WS7AmRaaOTIU

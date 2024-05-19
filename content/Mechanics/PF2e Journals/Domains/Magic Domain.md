@@ -1,5 +1,6 @@
 ---
 title: "Magic Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Magic Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.DS95vr2zmTsjsMhU

@@ -1,5 +1,6 @@
 ---
 title: "Lost Loved One"
+draft: true
 noteType: ":luggage:"
 aliases: "Lost Loved One"
 foundryId: Item.byqRbU8uTfcQgyje

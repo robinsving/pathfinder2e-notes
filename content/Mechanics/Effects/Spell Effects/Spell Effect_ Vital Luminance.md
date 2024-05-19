@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Vital Luminance"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Vital Luminance"
 foundryId: Compendium.pf2e.spell-effects.Item.6ArAZeZyYSNLI0X5

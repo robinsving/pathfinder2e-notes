@@ -1,5 +1,6 @@
 ---
 title: "Salt Wound"
+draft: true
 noteType: ":luggage:"
 aliases: "Salt Wound"
 foundryId: Item.Og9xlmLd6JwXIv88

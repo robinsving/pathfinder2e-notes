@@ -1,5 +1,6 @@
 ---
 title: "Stance: Disruptive Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Disruptive Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.qBR3kqGCeKp3T2Be

@@ -1,5 +1,6 @@
 ---
 title: "Ghoul"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Ghoul"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.bKoV037XO3qiakGw

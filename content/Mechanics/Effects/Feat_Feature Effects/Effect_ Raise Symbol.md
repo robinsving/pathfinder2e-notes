@@ -1,5 +1,6 @@
 ---
 title: "Effect: Raise Symbol"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Raise Symbol"
 foundryId: Compendium.pf2e.feat-effects.Item.A6i55HQ59lzsHXVQ

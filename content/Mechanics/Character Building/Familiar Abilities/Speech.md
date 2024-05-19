@@ -1,5 +1,6 @@
 ---
 title: "Speech"
+draft: true
 noteType: ":luggage:"
 aliases: "Speech"
 foundryId: Item.MliB6F1auS2r1zc6

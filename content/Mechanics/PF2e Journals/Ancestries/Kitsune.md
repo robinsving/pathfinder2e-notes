@@ -1,5 +1,6 @@
 ---
 title: "Kitsune"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Kitsune"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.26YL1jOPQQS6k7A9

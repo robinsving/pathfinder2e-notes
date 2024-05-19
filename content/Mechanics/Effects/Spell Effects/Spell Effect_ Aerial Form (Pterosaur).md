@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Aerial Form (Pterosaur)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Aerial Form (Pterosaur)"
 foundryId: Compendium.pf2e.spell-effects.Item.UjoNm3lrhlg4ctAQ

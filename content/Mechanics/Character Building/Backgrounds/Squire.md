@@ -1,5 +1,6 @@
 ---
 title: "Squire"
+draft: true
 noteType: ":luggage:"
 aliases: "Squire"
 foundryId: Item.UNpeli4ln6l01Y9h

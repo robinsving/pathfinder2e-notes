@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Oaken Resilience"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Oaken Resilience"
 foundryId: Compendium.pf2e.spell-effects.Item.HoOujAdQWCN4E6sQ

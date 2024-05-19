@@ -1,5 +1,6 @@
 ---
 title: "Way of the Pistolero"
+draft: true
 noteType: ":luggage:"
 aliases: "Way of the Pistolero"
 foundryId: Item.NutfMkiyvYRQNkG0

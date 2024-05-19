@@ -1,5 +1,6 @@
 ---
 title: "Effect: Soaring Flight"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Soaring Flight"
 foundryId: Compendium.pf2e.feat-effects.Item.ytG5XJmkOnDOTjNN

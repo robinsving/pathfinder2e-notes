@@ -1,5 +1,6 @@
 ---
 title: "Chaotic Destiny"
+draft: true
 noteType: ":luggage:"
 aliases: "Chaotic Destiny"
 foundryId: Item.l06EGPjDWQFnzoPy

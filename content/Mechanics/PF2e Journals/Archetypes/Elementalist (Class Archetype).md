@@ -1,5 +1,6 @@
 ---
 title: "Elementalist (Class Archetype)"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Elementalist (Class Archetype)"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.oMIA3aFKvpuV9f2H

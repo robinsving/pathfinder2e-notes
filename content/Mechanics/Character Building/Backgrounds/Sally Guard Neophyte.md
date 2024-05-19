@@ -1,5 +1,6 @@
 ---
 title: "Sally Guard Neophyte"
+draft: true
 noteType: ":luggage:"
 aliases: "Sally Guard Neophyte"
 foundryId: Item.8yEPVJqfMx5V5rGL

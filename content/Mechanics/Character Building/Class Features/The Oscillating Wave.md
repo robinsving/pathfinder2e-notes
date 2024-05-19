@@ -1,5 +1,6 @@
 ---
 title: "The Oscillating Wave"
+draft: true
 noteType: ":luggage:"
 aliases: "The Oscillating Wave"
 foundryId: Item.p6JlBvmKO3fBIdbQ

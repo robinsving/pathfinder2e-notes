@@ -1,5 +1,6 @@
 ---
 title: "Findeladlara (The Guiding Hand)"
+draft: true
 noteType: ":luggage:"
 aliases: "Findeladlara (The Guiding Hand)"
 foundryId: Item.P4aBP8j93hDpmmva

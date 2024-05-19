@@ -1,5 +1,6 @@
 ---
 title: "Effect: Blizzard Evasion"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Blizzard Evasion"
 foundryId: Compendium.pf2e.feat-effects.Item.JF2xCqL6t4UJZtUi

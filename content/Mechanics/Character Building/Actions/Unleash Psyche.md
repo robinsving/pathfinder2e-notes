@@ -1,5 +1,6 @@
 ---
 title: "Unleash Psyche"
+draft: true
 noteType: ":luggage:"
 aliases: "Unleash Psyche"
 foundryId: Item.NxVJj8iM8cIPpeph

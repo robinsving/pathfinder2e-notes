@@ -1,5 +1,6 @@
 ---
 title: "Gunslinger"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Gunslinger"
 foundryId: Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.88K0xjShkhkckbhv

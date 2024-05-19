@@ -1,5 +1,6 @@
 ---
 title: "Effect: Guiding Words"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Guiding Words"
 foundryId: Compendium.pf2e.bestiary-effects.Item.uqjx1bwYduHwwC7d

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Lock On"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Lock On"
 foundryId: Compendium.pf2e.feat-effects.Item.xtqOIXCe0Nsd0QCt

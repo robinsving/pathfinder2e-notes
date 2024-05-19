@@ -1,5 +1,6 @@
 ---
 title: "Diomazul"
+draft: true
 noteType: ":luggage:"
 aliases: "Diomazul"
 foundryId: Item.tYQ9oIkhDGphJI2y

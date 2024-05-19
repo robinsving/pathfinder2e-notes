@@ -1,5 +1,6 @@
 ---
 title: Medium Armor Mastery
+draft: true
 noteType: ":luggage:"
 aliases:
   - Medium Armor Mastery

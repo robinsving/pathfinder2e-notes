@@ -1,5 +1,6 @@
 ---
 title: "Ambition Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Ambition Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.yaMJsfYZmWJLqbFE

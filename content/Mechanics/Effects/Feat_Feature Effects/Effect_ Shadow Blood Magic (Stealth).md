@@ -1,5 +1,6 @@
 ---
 title: "Effect: Shadow Blood Magic (Stealth)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Shadow Blood Magic (Stealth)"
 foundryId: Compendium.pf2e.feat-effects.Item.OqH6IaeOwRWkGPrk

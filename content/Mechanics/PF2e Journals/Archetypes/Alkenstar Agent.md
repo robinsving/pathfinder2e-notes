@@ -1,5 +1,6 @@
 ---
 title: "Alkenstar Agent"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Alkenstar Agent"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.ttkG4geKXTao5pku

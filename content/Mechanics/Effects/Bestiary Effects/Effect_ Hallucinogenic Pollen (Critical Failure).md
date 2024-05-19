@@ -1,5 +1,6 @@
 ---
 title: "Effect: Hallucinogenic Pollen (Critical Failure)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Hallucinogenic Pollen (Critical Failure)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.RAKgTTFKc2YEbvrc

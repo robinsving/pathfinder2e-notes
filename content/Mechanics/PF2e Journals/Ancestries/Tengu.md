@@ -1,5 +1,6 @@
 ---
 title: "Tengu"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Tengu"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.YGIwmuVOJI7uNhGM

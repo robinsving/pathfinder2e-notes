@@ -1,5 +1,6 @@
 ---
 title: "Lesson of Bargains"
+draft: true
 noteType: ":luggage:"
 aliases: "Lesson of Bargains"
 foundryId: Item.PqYi0bqOshqiGn4T

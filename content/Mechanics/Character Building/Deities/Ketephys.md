@@ -1,5 +1,6 @@
 ---
 title: "Ketephys"
+draft: true
 noteType: ":luggage:"
 aliases: "Ketephys"
 foundryId: Item.9AMsQGr3Les2opn2

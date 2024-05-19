@@ -1,5 +1,6 @@
 ---
 title: "Effect: Spell Protection Array"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Spell Protection Array"
 foundryId: Compendium.pf2e.feat-effects.Item.OochfTTXnDLVXeSS

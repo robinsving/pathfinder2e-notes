@@ -1,5 +1,6 @@
 ---
 title: "Ylimancha"
+draft: true
 noteType: ":luggage:"
 aliases: "Ylimancha"
 foundryId: Item.s1icW7CZA07hRQ8E

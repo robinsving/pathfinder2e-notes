@@ -1,5 +1,6 @@
 ---
 title: "Emotionally Unaware"
+draft: true
 noteType: ":luggage:"
 aliases: "Emotionally Unaware"
 foundryId: Item.4Nx1Ex9ltXugSebT

@@ -1,5 +1,6 @@
 ---
 title: "Printer"
+draft: true
 noteType: ":luggage:"
 aliases: "Printer"
 foundryId: Item.31FqIFQOz6OeFecd

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Spiritual Warden"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Spiritual Warden"
 foundryId: Compendium.pf2e.bestiary-effects.Item.kOGRUuyK04MjLc3m

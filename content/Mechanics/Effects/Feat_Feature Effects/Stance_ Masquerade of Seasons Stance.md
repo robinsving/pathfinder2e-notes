@@ -1,5 +1,6 @@
 ---
 title: "Stance: Masquerade of Seasons Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Masquerade of Seasons Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.6IsZQpwRJQWIzdGx

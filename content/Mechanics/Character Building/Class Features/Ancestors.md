@@ -1,5 +1,6 @@
 ---
 title: "Ancestors"
+draft: true
 noteType: ":luggage:"
 aliases: "Ancestors"
 foundryId: Item.f67PMghOLShxQ16H

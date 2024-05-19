@@ -1,5 +1,6 @@
 ---
 title: "Effect: Viscous Breath"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Viscous Breath"
 foundryId: Compendium.pf2e.bestiary-effects.Item.7txhqKeWFyTJhrEE

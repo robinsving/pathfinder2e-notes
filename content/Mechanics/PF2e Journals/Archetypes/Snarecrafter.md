@@ -1,5 +1,6 @@
 ---
 title: "Snarecrafter"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Snarecrafter"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.G9Fzy5ZK4KtAmcFb

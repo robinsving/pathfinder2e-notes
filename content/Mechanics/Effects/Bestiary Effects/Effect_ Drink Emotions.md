@@ -1,5 +1,6 @@
 ---
 title: "Effect: Drink Emotions"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Drink Emotions"
 foundryId: Compendium.pf2e.bestiary-effects.Item.wL4QI1h4YvdHoOuG

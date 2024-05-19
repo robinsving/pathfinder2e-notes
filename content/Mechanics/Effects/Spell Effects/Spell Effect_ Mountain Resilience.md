@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Mountain Resilience"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Mountain Resilience"
 foundryId: Compendium.pf2e.spell-effects.Item.JHpYudY14g0H4VWU

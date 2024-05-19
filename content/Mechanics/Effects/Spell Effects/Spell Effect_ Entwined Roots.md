@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Entwined Roots"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Entwined Roots"
 foundryId: Compendium.pf2e.spell-effects.Item.nFOJ53IkO5khO4Rr

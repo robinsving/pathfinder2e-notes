@@ -1,5 +1,6 @@
 ---
 title: "Create a Diversion"
+draft: true
 noteType: ":luggage:"
 aliases: "Create a Diversion"
 foundryId: Item.KOuZbakdDoXtaiNt

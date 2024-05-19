@@ -1,5 +1,6 @@
 ---
 title: "Soul Sight"
+draft: true
 noteType: ":luggage:"
 aliases: "Soul Sight"
 foundryId: Item.SPRnqSPZtDag1yUz

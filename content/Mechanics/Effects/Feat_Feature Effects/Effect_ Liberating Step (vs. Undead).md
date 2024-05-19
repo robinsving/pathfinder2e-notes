@@ -1,5 +1,6 @@
 ---
 title: "Effect: Liberating Step (vs. Undead)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Liberating Step (vs. Undead)"
 foundryId: Compendium.pf2e.feat-effects.Item.ZnKnOPPq3cG54PlG

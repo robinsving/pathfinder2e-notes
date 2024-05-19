@@ -1,5 +1,6 @@
 ---
 title: "Effect: Energy Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Energy Shot"
 foundryId: Compendium.pf2e.feat-effects.Item.zocU4IYIlWwRKUuE

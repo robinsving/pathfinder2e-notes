@@ -1,5 +1,6 @@
 ---
 title: "Upstage"
+draft: true
 noteType: ":luggage:"
 aliases: "Upstage"
 foundryId: Item.9mZRzuqTNym6tyWa

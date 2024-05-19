@@ -1,5 +1,6 @@
 ---
 title: "Sarkorian Survivor"
+draft: true
 noteType: ":luggage:"
 aliases: "Sarkorian Survivor"
 foundryId: Item.yayJhhhjlCgMZ8SP

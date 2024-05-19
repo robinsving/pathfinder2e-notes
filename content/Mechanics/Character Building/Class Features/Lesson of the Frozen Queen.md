@@ -1,5 +1,6 @@
 ---
 title: "Lesson of the Frozen Queen"
+draft: true
 noteType: ":luggage:"
 aliases: "Lesson of the Frozen Queen"
 foundryId: Item.SXdeYD6lalzEAu6n

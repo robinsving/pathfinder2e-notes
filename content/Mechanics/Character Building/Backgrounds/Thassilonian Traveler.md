@@ -1,5 +1,6 @@
 ---
 title: "Thassilonian Traveler"
+draft: true
 noteType: ":luggage:"
 aliases: "Thassilonian Traveler"
 foundryId: Item.ypqnnoSf7NnuQE6U

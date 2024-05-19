@@ -1,5 +1,6 @@
 ---
 title: "Sprite"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Sprite"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.rvbMGyBr6y5K7HDP

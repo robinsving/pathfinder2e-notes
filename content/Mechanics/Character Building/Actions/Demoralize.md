@@ -1,5 +1,6 @@
 ---
 title: "Demoralize"
+draft: true
 noteType: ":luggage:"
 aliases: "Demoralize"
 foundryId: Item.TSrJliKudoOV7Yhu

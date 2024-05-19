@@ -1,5 +1,6 @@
 ---
 title: "Effect: Immediate and Intense Headache"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Immediate and Intense Headache"
 foundryId: Compendium.pf2e.campaign-effects.Item.QWW4hNCtLkOK1k71

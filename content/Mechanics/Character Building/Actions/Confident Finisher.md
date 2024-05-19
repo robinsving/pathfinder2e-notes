@@ -1,5 +1,6 @@
 ---
 title: "Confident Finisher"
+draft: true
 noteType: ":luggage:"
 aliases: "Confident Finisher"
 foundryId: Item.5C9RNhVU3YPHoORJ

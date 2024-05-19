@@ -1,5 +1,6 @@
 ---
 title: "Effect: Sixfold Flurry"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Sixfold Flurry"
 foundryId: Compendium.pf2e.bestiary-effects.Item.zXIpCkTtFRkhwI4x

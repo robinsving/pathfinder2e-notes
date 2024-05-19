@@ -1,5 +1,6 @@
 ---
 title: "Effect: Curse of Turbulent Moments"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Curse of Turbulent Moments"
 foundryId: Compendium.pf2e.feat-effects.Item.oSzUv21eN9VS9TC1

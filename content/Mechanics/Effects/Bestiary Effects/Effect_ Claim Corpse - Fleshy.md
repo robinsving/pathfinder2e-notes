@@ -1,5 +1,6 @@
 ---
 title: "Effect: Claim Corpse - Fleshy"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Claim Corpse - Fleshy"
 foundryId: Compendium.pf2e.bestiary-effects.Item.auJ02rr1Jr88oD3Z

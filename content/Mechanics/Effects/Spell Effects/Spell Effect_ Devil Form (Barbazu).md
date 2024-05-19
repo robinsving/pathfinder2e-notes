@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Devil Form (Barbazu)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Devil Form (Barbazu)"
 foundryId: Compendium.pf2e.spell-effects.Item.0yy4t4UY1HqrEo70

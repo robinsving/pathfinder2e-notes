@@ -1,5 +1,6 @@
 ---
 title: "Perpetual Perfection (Bomber)"
+draft: true
 noteType: ":luggage:"
 aliases: "Perpetual Perfection (Bomber)"
 foundryId: Item.njJo2PTmeMus7mm9

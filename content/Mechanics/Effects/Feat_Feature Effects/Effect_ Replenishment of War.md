@@ -1,5 +1,6 @@
 ---
 title: "Effect: Replenishment of War"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Replenishment of War"
 foundryId: Compendium.pf2e.feat-effects.Item.BJc494USeyM011p3

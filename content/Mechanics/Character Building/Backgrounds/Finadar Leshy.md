@@ -1,5 +1,6 @@
 ---
 title: "Finadar Leshy"
+draft: true
 noteType: ":luggage:"
 aliases: "Finadar Leshy"
 foundryId: Item.ov2uOgSGYc566SDa

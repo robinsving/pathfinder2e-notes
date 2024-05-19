@@ -1,5 +1,6 @@
 ---
 title: "Effect: Brutal Rally"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Brutal Rally"
 foundryId: Compendium.pf2e.bestiary-effects.Item.7x0O2GqWBJiAk5PF

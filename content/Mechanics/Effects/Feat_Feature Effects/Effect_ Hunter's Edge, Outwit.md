@@ -1,5 +1,6 @@
 ---
 title: "Effect: Hunter's Edge, Outwit"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Hunter's Edge, Outwit"
 foundryId: Compendium.pf2e.feat-effects.Item.ltIvO9ZQlmqGD89Y

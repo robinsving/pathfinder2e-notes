@@ -1,5 +1,6 @@
 ---
 title: "Alkenstar Sojourner"
+draft: true
 noteType: ":luggage:"
 aliases: "Alkenstar Sojourner"
 foundryId: Item.M5o0SvxPpKxcJ8sa

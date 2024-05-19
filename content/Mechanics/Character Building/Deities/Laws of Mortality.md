@@ -1,5 +1,6 @@
 ---
 title: "Laws of Mortality"
+draft: true
 noteType: ":luggage:"
 aliases: "Laws of Mortality"
 foundryId: Item.NAMvXq4F9FRsDVy9

@@ -1,5 +1,6 @@
 ---
 title: "Arcane Bond"
+draft: true
 noteType: ":luggage:"
 aliases: "Arcane Bond"
 foundryId: Item.jwI87l7OnldVoY8m

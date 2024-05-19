@@ -1,5 +1,6 @@
 ---
 title: "Effect: Cite Precedent"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Cite Precedent"
 foundryId: Compendium.pf2e.bestiary-effects.Item.KdV8UtN8Af5oCerj

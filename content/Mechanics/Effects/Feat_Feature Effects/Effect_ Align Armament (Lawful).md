@@ -1,5 +1,6 @@
 ---
 title: "Effect: Align Armament (Lawful)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Align Armament (Lawful)"
 foundryId: Compendium.pf2e.feat-effects.Item.KkbFlNfcQQUfSVXd

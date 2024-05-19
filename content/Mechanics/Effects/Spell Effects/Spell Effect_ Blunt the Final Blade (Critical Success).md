@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Blunt the Final Blade (Critical Success)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Blunt the Final Blade (Critical Success)"
 foundryId: Compendium.pf2e.spell-effects.Item.eotqxEWIgaK7nMpD

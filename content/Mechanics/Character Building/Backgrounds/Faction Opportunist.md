@@ -1,5 +1,6 @@
 ---
 title: "Faction Opportunist"
+draft: true
 noteType: ":luggage:"
 aliases: "Faction Opportunist"
 foundryId: Item.8dGnQuYEKX1RqX0P

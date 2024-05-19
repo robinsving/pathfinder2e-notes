@@ -1,5 +1,6 @@
 ---
 title: "Shoony"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Shoony"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.j2hOTtHcdu2SA8Ha

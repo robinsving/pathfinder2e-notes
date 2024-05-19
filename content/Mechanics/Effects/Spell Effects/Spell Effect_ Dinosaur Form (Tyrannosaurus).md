@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Dinosaur Form (Tyrannosaurus)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Dinosaur Form (Tyrannosaurus)"
 foundryId: Compendium.pf2e.spell-effects.Item.542Keo6txtq7uvqe

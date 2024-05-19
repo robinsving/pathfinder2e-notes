@@ -1,5 +1,6 @@
 ---
 title: "Effect: Harrow-Chosen"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Harrow-Chosen"
 foundryId: Compendium.pf2e.feat-effects.Item.1Azz9TSWXrX4aNX4

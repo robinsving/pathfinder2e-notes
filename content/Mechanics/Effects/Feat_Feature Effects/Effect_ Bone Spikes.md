@@ -1,5 +1,6 @@
 ---
 title: "Effect: Bone Spikes"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Bone Spikes"
 foundryId: Compendium.pf2e.feat-effects.Item.ZsO5juyylVoxUkXh

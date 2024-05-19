@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Serrate"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Serrate"
 foundryId: Compendium.pf2e.spell-effects.Item.CDNKDV3UsAp95D1m

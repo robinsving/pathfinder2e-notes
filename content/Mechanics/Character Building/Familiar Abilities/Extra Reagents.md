@@ -1,5 +1,6 @@
 ---
 title: "Extra Reagents"
+draft: true
 noteType: ":luggage:"
 aliases: "Extra Reagents"
 foundryId: Item.40A45ERib0wsYGAe

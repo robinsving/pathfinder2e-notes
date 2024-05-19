@@ -1,5 +1,6 @@
 ---
 title: "Master Detective"
+draft: true
 noteType: ":luggage:"
 aliases: "Master Detective"
 foundryId: Item.lKCenvMEfS6MxjEo

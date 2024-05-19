@@ -1,5 +1,6 @@
 ---
 title: "Horizon Walker"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Horizon Walker"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.M5QOocGyP4zkMo9m

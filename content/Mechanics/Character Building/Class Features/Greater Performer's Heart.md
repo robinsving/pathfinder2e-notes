@@ -1,5 +1,6 @@
 ---
 title: "Greater Performer's Heart"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Performer's Heart"
 foundryId: Item.EoJHSJSHoW2ERcsa

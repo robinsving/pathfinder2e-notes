@@ -1,5 +1,6 @@
 ---
 title: "Northland Forager"
+draft: true
 noteType: ":luggage:"
 aliases: "Northland Forager"
 foundryId: Item.1wirsA9i6jkcTxUX

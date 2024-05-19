@@ -1,5 +1,6 @@
 ---
 title: "Barbarian"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Barbarian"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.uYCTmos3yZtbD9qs

@@ -1,5 +1,6 @@
 ---
 title: "Quick"
+draft: true
 noteType: ":luggage:"
 aliases: "Quick"
 foundryId: Item.nyWZVjk4sdxrSwKk

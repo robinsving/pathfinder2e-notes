@@ -1,5 +1,6 @@
 ---
 title: "Vigilante"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Vigilante"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.rtAFOZOjWHC2zRNO

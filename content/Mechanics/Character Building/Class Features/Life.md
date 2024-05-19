@@ -1,5 +1,6 @@
 ---
 title: "Life"
+draft: true
 noteType: ":luggage:"
 aliases: "Life"
 foundryId: Item.GITdmlCFNoS19ICY

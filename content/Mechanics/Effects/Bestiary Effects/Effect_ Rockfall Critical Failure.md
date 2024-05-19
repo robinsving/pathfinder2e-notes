@@ -1,5 +1,6 @@
 ---
 title: "Effect: Rockfall Critical Failure"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Rockfall Critical Failure"
 foundryId: Compendium.pf2e.bestiary-effects.Item.XyhPcnlkg3mGqEwT

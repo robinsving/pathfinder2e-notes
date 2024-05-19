@@ -1,5 +1,6 @@
 ---
 title: "Stance: Dueling Dance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Dueling Dance"
 foundryId: Compendium.pf2e.feat-effects.Item.KiuBRoMFxL2Npt51

@@ -1,5 +1,6 @@
 ---
 title: "Improved Flexibility"
+draft: true
 noteType: ":luggage:"
 aliases: "Improved Flexibility"
 foundryId: Item.ibmffbzAliFJtbLN

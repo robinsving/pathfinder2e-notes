@@ -1,5 +1,6 @@
 ---
 title: "Antipaladin"
+draft: true
 noteType: ":luggage:"
 aliases: "Antipaladin"
 foundryId: Item.muBmhHMxx2RFoko7

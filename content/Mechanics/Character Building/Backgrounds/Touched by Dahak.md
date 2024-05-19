@@ -1,5 +1,6 @@
 ---
 title: "Touched by Dahak"
+draft: true
 noteType: ":luggage:"
 aliases: "Touched by Dahak"
 foundryId: Item.FiWEoyXbnOrcZmaQ

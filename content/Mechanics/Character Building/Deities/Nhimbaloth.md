@@ -1,5 +1,6 @@
 ---
 title: "Nhimbaloth"
+draft: true
 noteType: ":luggage:"
 aliases: "Nhimbaloth"
 foundryId: Item.7b0IgfYQ2DWUH0FF

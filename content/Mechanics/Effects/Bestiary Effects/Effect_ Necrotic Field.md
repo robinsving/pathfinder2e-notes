@@ -1,5 +1,6 @@
 ---
 title: "Effect: Necrotic Field"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Necrotic Field"
 foundryId: Compendium.pf2e.bestiary-effects.Item.kjP0J97hhoIhbF3M

@@ -1,5 +1,6 @@
 ---
 title: "Scout Location"
+draft: true
 noteType: ":luggage:"
 aliases: "Scout Location"
 foundryId: Item.hy2oqO6Sgomtxj11

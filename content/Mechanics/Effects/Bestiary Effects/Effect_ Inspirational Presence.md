@@ -1,5 +1,6 @@
 ---
 title: "Effect: Inspirational Presence"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Inspirational Presence"
 foundryId: Compendium.pf2e.bestiary-effects.Item.CiCG3r7SHYMJeUxz

@@ -1,5 +1,6 @@
 ---
 title: "Cities Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Cities Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.QSk78hQR3zskMlq2

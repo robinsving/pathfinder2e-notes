@@ -1,5 +1,6 @@
 ---
 title: "Gather Information"
+draft: true
 noteType: ":luggage:"
 aliases: "Gather Information"
 foundryId: Item.HXXlHrxMiwB2PWKc

@@ -1,5 +1,6 @@
 ---
 title: "Subconscious Mind"
+draft: true
 noteType: ":luggage:"
 aliases: "Subconscious Mind"
 foundryId: Item.Ew09iZdCwMz3qDVQ

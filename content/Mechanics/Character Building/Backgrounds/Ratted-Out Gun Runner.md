@@ -1,5 +1,6 @@
 ---
 title: "Ratted-Out Gun Runner"
+draft: true
 noteType: ":luggage:"
 aliases: "Ratted-Out Gun Runner"
 foundryId: Item.uiAKQwiXvUGNBcHf

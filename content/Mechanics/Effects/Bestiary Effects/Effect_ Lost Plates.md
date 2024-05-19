@@ -1,5 +1,6 @@
 ---
 title: "Effect: Lost Plates"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Lost Plates"
 foundryId: Compendium.pf2e.bestiary-effects.Item.lt2t24E4hiByHhi3

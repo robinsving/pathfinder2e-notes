@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Aberrant Form (Gogiteth)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Aberrant Form (Gogiteth)"
 foundryId: Compendium.pf2e.spell-effects.Item.gKGErrsS1WoAyWub

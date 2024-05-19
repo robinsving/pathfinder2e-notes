@@ -1,5 +1,6 @@
 ---
 title: "Stellar Misfortune"
+draft: true
 noteType: ":luggage:"
 aliases: "Stellar Misfortune"
 foundryId: Item.FNgpIHJl0z2Qk2I6

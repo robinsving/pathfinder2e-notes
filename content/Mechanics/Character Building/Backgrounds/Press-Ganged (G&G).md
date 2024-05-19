@@ -1,5 +1,6 @@
 ---
 title: "Press-Ganged (G&G)"
+draft: true
 noteType: ":luggage:"
 aliases: "Press-Ganged (G&G)"
 foundryId: Item.ZWAPQeAM75JOwpZP

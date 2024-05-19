@@ -1,5 +1,6 @@
 ---
 title: "Effect: Soul Lock (Healing)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Soul Lock (Healing)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.JgJ4Iw8BvJ4tWkah

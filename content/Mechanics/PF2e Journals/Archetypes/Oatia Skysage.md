@@ -1,5 +1,6 @@
 ---
 title: "Oatia Skysage"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Oatia Skysage"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.PVwU1LMWcSgD7Q0m

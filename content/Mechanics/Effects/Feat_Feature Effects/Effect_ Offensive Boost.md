@@ -1,5 +1,6 @@
 ---
 title: "Effect: Offensive Boost"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Offensive Boost"
 foundryId: Compendium.pf2e.feat-effects.Item.ut5SVyCSXel69nnd

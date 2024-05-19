@@ -1,5 +1,6 @@
 ---
 title: "Bright Lion"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Bright Lion"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.vS9iMDapZN9uW33Q

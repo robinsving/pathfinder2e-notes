@@ -1,5 +1,6 @@
 ---
 title: "Black Butterfly"
+draft: true
 noteType: ":luggage:"
 aliases: "Black Butterfly"
 foundryId: Item.ONPRpsmcr1pkApZ8

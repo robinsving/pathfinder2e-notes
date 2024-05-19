@@ -1,5 +1,6 @@
 ---
 title: "Ghlaunder"
+draft: true
 noteType: ":luggage:"
 aliases: "Ghlaunder"
 foundryId: Item.6jSOi8CTxMP1MwNj

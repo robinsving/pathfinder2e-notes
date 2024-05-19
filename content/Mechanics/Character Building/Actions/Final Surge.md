@@ -1,5 +1,6 @@
 ---
 title: "Final Surge"
+draft: true
 noteType: ":luggage:"
 aliases: "Final Surge"
 foundryId: Item.dMG1ZmzShTPHGP0l

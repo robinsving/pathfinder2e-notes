@@ -1,5 +1,6 @@
 ---
 title: "Effect: Aid"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Aid"
 foundryId: Compendium.pf2e.other-effects.Item.AHMUpMbaVkZ5A1KX

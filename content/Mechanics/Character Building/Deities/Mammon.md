@@ -1,5 +1,6 @@
 ---
 title: "Mammon"
+draft: true
 noteType: ":luggage:"
 aliases: "Mammon"
 foundryId: Item.cPvyM6LXjSY9YhxA

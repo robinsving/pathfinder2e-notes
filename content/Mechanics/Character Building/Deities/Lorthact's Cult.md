@@ -1,5 +1,6 @@
 ---
 title: "Lorthact's Cult"
+draft: true
 noteType: ":luggage:"
 aliases: "Lorthact's Cult"
 foundryId: Item.YJJVtYaVXPCSfbjj

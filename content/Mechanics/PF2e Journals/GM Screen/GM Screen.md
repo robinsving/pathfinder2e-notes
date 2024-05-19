@@ -1,5 +1,6 @@
 ---
 title: "GM Screen"
+draft: true
 noteType: ":sticky-note:"
 aliases: "GM Screen"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.lQ9MmX3zg4Bd9hjb

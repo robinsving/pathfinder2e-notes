@@ -1,5 +1,6 @@
 ---
 title: "The Godclaw"
+draft: true
 noteType: ":luggage:"
 aliases: "The Godclaw"
 foundryId: Item.6XrKbElW00847fj3

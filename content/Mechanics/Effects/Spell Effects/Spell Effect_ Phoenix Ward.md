@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Phoenix Ward"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Phoenix Ward"
 foundryId: Compendium.pf2e.spell-effects.Item.0eP0JRBPwfRyu7gN

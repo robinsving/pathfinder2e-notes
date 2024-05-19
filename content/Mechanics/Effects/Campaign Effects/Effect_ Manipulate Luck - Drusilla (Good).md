@@ -1,5 +1,6 @@
 ---
 title: "Effect: Manipulate Luck - Drusilla (Good)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Manipulate Luck - Drusilla (Good)"
 foundryId: Compendium.pf2e.campaign-effects.Item.NwF6m7SyaqwjdQxT

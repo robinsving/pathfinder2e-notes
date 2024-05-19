@@ -1,5 +1,6 @@
 ---
 title: "Effect: Reflection of Life (Fast Healing)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Reflection of Life (Fast Healing)"
 foundryId: Compendium.pf2e.campaign-effects.Item.DOxl0FDd21VMDOMP

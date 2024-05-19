@@ -1,5 +1,6 @@
 ---
 title: "Effect: Aura Junction (Wood)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Aura Junction (Wood)"
 foundryId: Compendium.pf2e.feat-effects.Item.su5qLXoweaHxt6ZP

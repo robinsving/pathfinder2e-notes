@@ -1,5 +1,6 @@
 ---
 title: "Concealed"
+draft: true
 noteType: ":luggage:"
 aliases: "Concealed"
 foundryId: Item.zdZCPCiJji3L0j0m

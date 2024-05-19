@@ -1,5 +1,6 @@
 ---
 title: "Wished Alive"
+draft: true
 noteType: ":luggage:"
 aliases: "Wished Alive"
 foundryId: Item.Ney48vjQNmvD3hdS

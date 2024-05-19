@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Animal Feature (Wings)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Animal Feature (Wings)"
 foundryId: Compendium.pf2e.spell-effects.Item.1VuHjj32wge2gPOr

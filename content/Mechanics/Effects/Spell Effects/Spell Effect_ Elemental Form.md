@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Elemental Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Elemental Form"
 foundryId: Compendium.pf2e.spell-effects.Item.Qp0dlhJaCzXIx73r

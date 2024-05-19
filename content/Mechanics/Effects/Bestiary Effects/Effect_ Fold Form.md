@@ -1,5 +1,6 @@
 ---
 title: "Effect: Fold Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Fold Form"
 foundryId: Compendium.pf2e.bestiary-effects.Item.513Y2ZSzvm8rijkp

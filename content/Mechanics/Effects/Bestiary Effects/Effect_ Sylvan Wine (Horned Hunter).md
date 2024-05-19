@@ -1,5 +1,6 @@
 ---
 title: "Effect: Sylvan Wine (Horned Hunter)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Sylvan Wine (Horned Hunter)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.us3KiMrcGM8e6ri3

@@ -1,5 +1,6 @@
 ---
 title: "Indifferent"
+draft: true
 noteType: ":luggage:"
 aliases: "Indifferent"
 foundryId: Item.zSITwO2wYUR5o9WR

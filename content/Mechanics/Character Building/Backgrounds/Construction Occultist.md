@@ -1,5 +1,6 @@
 ---
 title: "Construction Occultist"
+draft: true
 noteType: ":luggage:"
 aliases: "Construction Occultist"
 foundryId: Item.p28le7yYF9U8j6r5

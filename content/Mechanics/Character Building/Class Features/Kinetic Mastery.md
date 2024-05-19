@@ -1,5 +1,6 @@
 ---
 title: "Kinetic Mastery"
+draft: true
 noteType: ":luggage:"
 aliases: "Kinetic Mastery"
 foundryId: Item.MTZfzQZm6uWSbtG7

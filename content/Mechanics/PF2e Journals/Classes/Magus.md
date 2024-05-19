@@ -1,5 +1,6 @@
 ---
 title: "Magus"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Magus"
 foundryId: Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.YVoyzV9v4QyP2UIC

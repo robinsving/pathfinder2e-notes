@@ -1,5 +1,6 @@
 ---
 title: "Fourth Doctrine (Cloistered Cleric)"
+draft: true
 noteType: ":luggage:"
 aliases: "Fourth Doctrine (Cloistered Cleric)"
 foundryId: Item.lZJygSf5eXDQsQzG

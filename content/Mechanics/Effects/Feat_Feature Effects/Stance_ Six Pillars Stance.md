@@ -1,5 +1,6 @@
 ---
 title: "Stance: Six Pillars Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Six Pillars Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.P80mwvCAEncR2snK

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Inspire Envoy"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Inspire Envoy"
 foundryId: Compendium.pf2e.bestiary-effects.Item.YDJnC3Bdc2GI6hX5

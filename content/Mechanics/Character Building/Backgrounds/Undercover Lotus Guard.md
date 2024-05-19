@@ -1,5 +1,6 @@
 ---
 title: "Undercover Lotus Guard"
+draft: true
 noteType: ":luggage:"
 aliases: "Undercover Lotus Guard"
 foundryId: Item.egyqYk4l8KUJuvBu

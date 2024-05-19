@@ -1,5 +1,6 @@
 ---
 title: "Kerkamoth"
+draft: true
 noteType: ":luggage:"
 aliases: "Kerkamoth"
 foundryId: Item.iI3mrSbO3HelyjKW

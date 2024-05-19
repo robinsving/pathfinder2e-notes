@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Augment Summoning"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Augment Summoning"
 foundryId: Compendium.pf2e.spell-effects.Item.UtIOWubq7akdHMOh

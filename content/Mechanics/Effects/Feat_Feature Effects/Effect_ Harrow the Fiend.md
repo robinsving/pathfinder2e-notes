@@ -1,5 +1,6 @@
 ---
 title: "Effect: Harrow the Fiend"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Harrow the Fiend"
 foundryId: Compendium.pf2e.feat-effects.Item.MSkspeBsbXm6LQ19

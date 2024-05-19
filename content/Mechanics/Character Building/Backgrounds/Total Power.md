@@ -1,5 +1,6 @@
 ---
 title: "Total Power"
+draft: true
 noteType: ":luggage:"
 aliases: "Total Power"
 foundryId: Item.FERDywClfHxMAY8q

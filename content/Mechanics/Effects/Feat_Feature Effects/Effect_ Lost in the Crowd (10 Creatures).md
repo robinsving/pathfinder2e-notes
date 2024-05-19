@@ -1,5 +1,6 @@
 ---
 title: "Effect: Lost in the Crowd (10 Creatures)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Lost in the Crowd (10 Creatures)"
 foundryId: Compendium.pf2e.feat-effects.Item.aWOvmdaTK1jS3H72

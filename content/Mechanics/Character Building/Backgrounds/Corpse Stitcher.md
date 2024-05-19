@@ -1,5 +1,6 @@
 ---
 title: "Corpse Stitcher"
+draft: true
 noteType: ":luggage:"
 aliases: "Corpse Stitcher"
 foundryId: Item.ZyANOHfYWixoobsg

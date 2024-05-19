@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Touch of Corruption (Healing)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Touch of Corruption (Healing)"
 foundryId: Compendium.pf2e.spell-effects.Item.PkofF4bxkDUgeIoE

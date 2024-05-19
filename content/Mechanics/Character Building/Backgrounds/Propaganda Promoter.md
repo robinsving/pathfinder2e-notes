@@ -1,5 +1,6 @@
 ---
 title: "Propaganda Promoter"
+draft: true
 noteType: ":luggage:"
 aliases: "Propaganda Promoter"
 foundryId: Item.C7O6NCfoU0vvOWvu

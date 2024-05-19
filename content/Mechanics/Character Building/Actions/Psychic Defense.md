@@ -1,5 +1,6 @@
 ---
 title: "Psychic Defense"
+draft: true
 noteType: ":luggage:"
 aliases: "Psychic Defense"
 foundryId: Item.Wf4sSvVgwYLl9owz

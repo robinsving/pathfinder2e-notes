@@ -1,5 +1,6 @@
 ---
 title: "Effect: Curse of the Baneful Venom"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Curse of the Baneful Venom"
 foundryId: Compendium.pf2e.bestiary-effects.Item.Tkf33YglEZcZ6gOT

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Phalanx Fighter"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Phalanx Fighter"
 foundryId: Compendium.pf2e.bestiary-effects.Item.KjWPSJonzrZ8jv7X

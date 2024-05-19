@@ -1,5 +1,6 @@
 ---
 title: "Effect: Sylvan Wine"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Sylvan Wine"
 foundryId: Compendium.pf2e.bestiary-effects.Item.QDs8t1U1IepzYlyi

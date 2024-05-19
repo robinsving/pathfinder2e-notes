@@ -1,5 +1,6 @@
 ---
 title: "Stance: Assume Earth's Mantle"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Assume Earth's Mantle"
 foundryId: Compendium.pf2e.feat-effects.Item.QrJ06Sc2GiloQ6hB

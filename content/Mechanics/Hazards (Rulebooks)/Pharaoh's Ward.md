@@ -1,5 +1,6 @@
 ---
 title: Pharaoh's Ward
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

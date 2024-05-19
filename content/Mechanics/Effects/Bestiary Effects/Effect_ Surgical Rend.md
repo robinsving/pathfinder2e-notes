@@ -1,5 +1,6 @@
 ---
 title: "Effect: Surgical Rend"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Surgical Rend"
 foundryId: Compendium.pf2e.bestiary-effects.Item.9iL6CeZlmtIuAZOJ

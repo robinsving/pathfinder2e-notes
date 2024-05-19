@@ -1,5 +1,6 @@
 ---
 title: "Effect: Known Weakness"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Known Weakness"
 foundryId: Compendium.pf2e.feat-effects.Item.DvyyA11a63FBwV7x

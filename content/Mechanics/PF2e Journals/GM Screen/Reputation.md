@@ -1,5 +1,6 @@
 ---
 title: "Reputation"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Reputation"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.VnR8gBBq1oCG7YQh

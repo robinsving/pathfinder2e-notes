@@ -1,5 +1,6 @@
 ---
 title: "Provocator"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Provocator"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.XLug8rxIe1KPX6Nf

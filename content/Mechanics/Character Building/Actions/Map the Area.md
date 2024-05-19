@@ -1,5 +1,6 @@
 ---
 title: "Map the Area"
+draft: true
 noteType: ":luggage:"
 aliases: "Map the Area"
 foundryId: Item.Zct4whOjyedOo6G0

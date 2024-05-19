@@ -1,5 +1,6 @@
 ---
 title: "Bloodline: Phoenix"
+draft: true
 noteType: ":luggage:"
 aliases: "Bloodline: Phoenix"
 foundryId: Item.g5c1RrUkubFckKyi

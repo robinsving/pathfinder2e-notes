@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Flicker"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Flicker"
 foundryId: Compendium.pf2e.spell-effects.Item.ZlsuhS9J0S3PuvCO

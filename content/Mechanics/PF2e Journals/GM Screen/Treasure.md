@@ -1,5 +1,6 @@
 ---
 title: "Treasure"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Treasure"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.Ly8l2GT6dbvuY3A2

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Agile Feet"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Agile Feet"
 foundryId: Compendium.pf2e.spell-effects.Item.y9PJdDYFemhk6Z5o

@@ -1,5 +1,6 @@
 ---
 title: "Knowledge Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Knowledge Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.0GwpYEjCHWyfQvgg

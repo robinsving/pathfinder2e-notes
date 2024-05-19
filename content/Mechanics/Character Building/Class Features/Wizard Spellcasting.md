@@ -1,5 +1,6 @@
 ---
 title: Wizard Spellcasting
+draft: true
 noteType: ":luggage:"
 aliases:
   - Wizard Spellcasting

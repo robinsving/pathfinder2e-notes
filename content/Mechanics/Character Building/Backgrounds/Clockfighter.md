@@ -1,5 +1,6 @@
 ---
 title: "Clockfighter"
+draft: true
 noteType: ":luggage:"
 aliases: "Clockfighter"
 foundryId: Item.RU55qTpAgVHP84EV

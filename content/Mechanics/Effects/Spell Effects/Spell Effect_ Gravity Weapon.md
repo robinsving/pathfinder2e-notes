@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Gravity Weapon"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Gravity Weapon"
 foundryId: Compendium.pf2e.spell-effects.Item.tNjimcyUwn8afeH6

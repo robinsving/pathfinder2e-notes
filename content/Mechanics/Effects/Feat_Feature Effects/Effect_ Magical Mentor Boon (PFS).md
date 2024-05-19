@@ -1,5 +1,6 @@
 ---
 title: "Effect: Magical Mentor Boon (PFS)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Magical Mentor Boon (PFS)"
 foundryId: Compendium.pf2e.feat-effects.Item.fh8TgCfiifVk0eqU

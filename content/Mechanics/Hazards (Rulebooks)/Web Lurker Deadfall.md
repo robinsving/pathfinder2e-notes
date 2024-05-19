@@ -1,5 +1,6 @@
 ---
 title: Web Lurker Deadfall
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

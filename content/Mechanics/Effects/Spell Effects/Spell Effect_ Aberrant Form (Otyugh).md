@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Aberrant Form (Otyugh)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Aberrant Form (Otyugh)"
 foundryId: Compendium.pf2e.spell-effects.Item.SjfDoeymtnYKoGUD

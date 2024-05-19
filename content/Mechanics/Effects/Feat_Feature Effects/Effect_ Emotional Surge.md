@@ -1,5 +1,6 @@
 ---
 title: "Effect: Emotional Surge"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Emotional Surge"
 foundryId: Compendium.pf2e.feat-effects.Item.dTymNXgTtnjqgYP9

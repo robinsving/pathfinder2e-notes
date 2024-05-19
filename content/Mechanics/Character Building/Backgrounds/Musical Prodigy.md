@@ -1,5 +1,6 @@
 ---
 title: "Musical Prodigy"
+draft: true
 noteType: ":luggage:"
 aliases: "Musical Prodigy"
 foundryId: Item.SuLFJXUrtnQpaq6r

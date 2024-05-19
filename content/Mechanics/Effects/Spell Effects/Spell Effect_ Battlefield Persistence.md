@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Battlefield Persistence"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Battlefield Persistence"
 foundryId: Compendium.pf2e.spell-effects.Item.F1APSdrw5uv672hf

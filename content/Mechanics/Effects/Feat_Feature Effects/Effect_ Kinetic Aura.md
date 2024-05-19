@@ -1,5 +1,6 @@
 ---
 title: "Effect: Kinetic Aura"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Kinetic Aura"
 foundryId: Compendium.pf2e.feat-effects.Item.pLurcSPQb2gjAzoP

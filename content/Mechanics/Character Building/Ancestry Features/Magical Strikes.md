@@ -1,5 +1,6 @@
 ---
 title: "Magical Strikes"
+draft: true
 noteType: ":luggage:"
 aliases: "Magical Strikes"
 foundryId: Item.KG857nT6MeypNfJj

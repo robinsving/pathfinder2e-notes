@@ -1,5 +1,6 @@
 ---
 title: "Student of Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Student of Magic"
 foundryId: Item.qaylZCJfzadFz7Zi

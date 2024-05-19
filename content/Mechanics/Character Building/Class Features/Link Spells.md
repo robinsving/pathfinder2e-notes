@@ -1,5 +1,6 @@
 ---
 title: "Link Spells"
+draft: true
 noteType: ":luggage:"
 aliases: "Link Spells"
 foundryId: Item.lQJ8b1jiqpKWtGRq

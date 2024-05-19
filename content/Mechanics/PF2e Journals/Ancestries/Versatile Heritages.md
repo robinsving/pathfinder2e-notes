@@ -1,5 +1,6 @@
 ---
 title: "Versatile Heritages"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Versatile Heritages"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.u6IGUd8Gtarj6h7K

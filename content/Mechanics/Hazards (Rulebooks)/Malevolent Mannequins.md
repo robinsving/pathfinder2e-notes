@@ -1,5 +1,6 @@
 ---
 title: Malevolent Mannequins
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

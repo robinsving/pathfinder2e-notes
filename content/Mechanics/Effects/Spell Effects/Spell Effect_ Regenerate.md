@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Regenerate"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Regenerate"
 foundryId: Compendium.pf2e.spell-effects.Item.dXq7z633ve4E0nlX

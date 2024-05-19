@@ -1,5 +1,6 @@
 ---
 title: "Soralyon"
+draft: true
 noteType: ":luggage:"
 aliases: "Soralyon"
 foundryId: Item.Dwl5O5F4cDoq5Jjx

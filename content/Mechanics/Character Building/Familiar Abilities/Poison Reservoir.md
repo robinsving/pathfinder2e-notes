@@ -1,5 +1,6 @@
 ---
 title: "Poison Reservoir"
+draft: true
 noteType: ":luggage:"
 aliases: "Poison Reservoir"
 foundryId: Item.gfDAUfXpJeXT8aqG

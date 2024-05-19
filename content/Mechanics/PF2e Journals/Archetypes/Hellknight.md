@@ -1,5 +1,6 @@
 ---
 title: "Hellknight"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Hellknight"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.yWtwNUkGyj79Q04W

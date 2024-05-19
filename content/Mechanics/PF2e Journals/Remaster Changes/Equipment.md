@@ -1,5 +1,6 @@
 ---
 title: "Equipment"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Equipment"
 foundryId: Compendium.pf2e.journals.JournalEntry.6L2eweJuM8W7OCf2.JournalEntryPage.a5XWVMjK5OsZciRi

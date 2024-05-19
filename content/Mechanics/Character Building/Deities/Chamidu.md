@@ -1,5 +1,6 @@
 ---
 title: "Chamidu"
+draft: true
 noteType: ":luggage:"
 aliases: "Chamidu"
 foundryId: Item.nJrZtOASZUGH7VW3

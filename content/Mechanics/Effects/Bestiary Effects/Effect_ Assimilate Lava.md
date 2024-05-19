@@ -1,5 +1,6 @@
 ---
 title: "Effect: Assimilate Lava"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Assimilate Lava"
 foundryId: Compendium.pf2e.bestiary-effects.Item.t8Yxrx3XgjS78Hxt

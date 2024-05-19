@@ -1,5 +1,6 @@
 ---
 title: "Encumbered"
+draft: true
 noteType: ":luggage:"
 aliases: "Encumbered"
 foundryId: Item.3gYNWyTHJ7cLVqfn

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Tiger Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Tiger Form"
 foundryId: Compendium.pf2e.campaign-effects.Item.PnAzso0F6XUvbYKb

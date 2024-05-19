@@ -1,5 +1,6 @@
 ---
 title: "Effect: Nanite Surge"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Nanite Surge"
 foundryId: Compendium.pf2e.feat-effects.Item.ErLweSmVAN57QIpp

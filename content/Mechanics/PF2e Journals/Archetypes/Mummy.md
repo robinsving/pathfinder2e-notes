@@ -1,5 +1,6 @@
 ---
 title: "Mummy"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Mummy"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.ZewC2i5YdZPsWO8X

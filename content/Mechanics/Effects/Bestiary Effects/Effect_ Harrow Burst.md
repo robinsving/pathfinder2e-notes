@@ -1,5 +1,6 @@
 ---
 title: "Effect: Harrow Burst"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Harrow Burst"
 foundryId: Compendium.pf2e.bestiary-effects.Item.eqzDPseLIfWJMxAR

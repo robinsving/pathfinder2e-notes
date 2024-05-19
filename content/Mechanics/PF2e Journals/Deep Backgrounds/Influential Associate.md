@@ -1,5 +1,6 @@
 ---
 title: "Influential Associate"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Influential Associate"
 foundryId: Compendium.pf2e.journals.JournalEntry.xtrW5GEtPPuXR6k2.JournalEntryPage.QWw0D2YPKdz6HJPu

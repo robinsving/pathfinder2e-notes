@@ -1,5 +1,6 @@
 ---
 title: "Reloading Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Reloading Strike"
 foundryId: Item.BEKArmif9kmcou7W

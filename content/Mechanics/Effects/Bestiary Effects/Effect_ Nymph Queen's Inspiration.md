@@ -1,5 +1,6 @@
 ---
 title: "Effect: Nymph Queen's Inspiration"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Nymph Queen's Inspiration"
 foundryId: Compendium.pf2e.bestiary-effects.Item.iSyyR4QVOaY6mxtg

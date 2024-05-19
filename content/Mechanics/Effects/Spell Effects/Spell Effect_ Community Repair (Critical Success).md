@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Community Repair (Critical Success)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Community Repair (Critical Success)"
 foundryId: Compendium.pf2e.spell-effects.Item.R3j6song8sYLY5vG

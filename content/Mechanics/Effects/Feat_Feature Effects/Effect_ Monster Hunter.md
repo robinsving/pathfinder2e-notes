@@ -1,5 +1,6 @@
 ---
 title: "Effect: Monster Hunter"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Monster Hunter"
 foundryId: Compendium.pf2e.feat-effects.Item.W2tWq0gdAcnoz2MO

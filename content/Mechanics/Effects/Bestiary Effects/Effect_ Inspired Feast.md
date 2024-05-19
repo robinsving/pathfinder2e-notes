@@ -1,5 +1,6 @@
 ---
 title: "Effect: Inspired Feast"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Inspired Feast"
 foundryId: Compendium.pf2e.bestiary-effects.Item.EM0VP31B8CyjFD15

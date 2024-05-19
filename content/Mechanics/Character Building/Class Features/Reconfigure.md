@@ -1,5 +1,6 @@
 ---
 title: "Reconfigure"
+draft: true
 noteType: ":luggage:"
 aliases: "Reconfigure"
 foundryId: Item.k3l0d4FznDKRaaVp

@@ -1,5 +1,6 @@
 ---
 title: "Molthuni Mercenary"
+draft: true
 noteType: ":luggage:"
 aliases: "Molthuni Mercenary"
 foundryId: Item.H3UYB0B6yESK9R4O

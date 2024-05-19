@@ -1,5 +1,6 @@
 ---
 title: "Teacher"
+draft: true
 noteType: ":luggage:"
 aliases: "Teacher"
 foundryId: Item.KasbILnwFqGhJaZM

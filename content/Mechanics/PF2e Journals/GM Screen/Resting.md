@@ -1,5 +1,6 @@
 ---
 title: "Resting"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Resting"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.I6lHRH3mWjfvhJrR

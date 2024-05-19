@@ -1,5 +1,6 @@
 ---
 title: "Effect: Poison Weapon"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Poison Weapon"
 foundryId: Compendium.pf2e.feat-effects.Item.SXYcrnGzWCuj8zq7

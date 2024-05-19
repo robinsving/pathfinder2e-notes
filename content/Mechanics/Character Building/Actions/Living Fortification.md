@@ -1,5 +1,6 @@
 ---
 title: "Living Fortification"
+draft: true
 noteType: ":luggage:"
 aliases: "Living Fortification"
 foundryId: Item.IZZYOAB8OqhGXnGh

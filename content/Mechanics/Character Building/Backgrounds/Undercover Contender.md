@@ -1,5 +1,6 @@
 ---
 title: "Undercover Contender"
+draft: true
 noteType: ":luggage:"
 aliases: "Undercover Contender"
 foundryId: Item.tpwCFt37pdFFx9eu

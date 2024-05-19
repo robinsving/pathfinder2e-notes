@@ -1,5 +1,6 @@
 ---
 title: "Effect: Sanctify Armament"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Sanctify Armament"
 foundryId: Compendium.pf2e.feat-effects.Item.ImkjllInxmrdDCOq

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Inside Ropes (3rd level)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Inside Ropes (3rd level)"
 foundryId: Compendium.pf2e.spell-effects.Item.T3t9776ataHzrmTs

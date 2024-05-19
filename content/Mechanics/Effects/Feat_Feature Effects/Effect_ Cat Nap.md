@@ -1,5 +1,6 @@
 ---
 title: "Effect: Cat Nap"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Cat Nap"
 foundryId: Compendium.pf2e.feat-effects.Item.l3S9i2UWGhSO58YX

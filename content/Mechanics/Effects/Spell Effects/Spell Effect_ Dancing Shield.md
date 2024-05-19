@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Dancing Shield"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Dancing Shield"
 foundryId: Compendium.pf2e.spell-effects.Item.2KQSsrzUqAxSXOdd

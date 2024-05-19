@@ -1,5 +1,6 @@
 ---
 title: "Greater Darkvision"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Darkvision"
 foundryId: Item.cCqovO2ibyrr9o6k

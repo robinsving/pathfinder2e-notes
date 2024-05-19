@@ -1,5 +1,6 @@
 ---
 title: "Child of Westcrown"
+draft: true
 noteType: ":luggage:"
 aliases: "Child of Westcrown"
 foundryId: Item.bJ23fZmABIc4AFAO

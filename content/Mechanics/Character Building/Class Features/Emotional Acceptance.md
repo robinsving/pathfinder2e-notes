@@ -1,5 +1,6 @@
 ---
 title: "Emotional Acceptance"
+draft: true
 noteType: ":luggage:"
 aliases: "Emotional Acceptance"
 foundryId: Item.8xcvgnGBQMPi2zXT

@@ -1,5 +1,6 @@
 ---
 title: "Translator"
+draft: true
 noteType: ":luggage:"
 aliases: "Translator"
 foundryId: Item.Wml2MqvmGIqQJOel

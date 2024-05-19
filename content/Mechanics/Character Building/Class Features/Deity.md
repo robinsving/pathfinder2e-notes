@@ -1,5 +1,6 @@
 ---
 title: "Deity"
+draft: true
 noteType: ":luggage:"
 aliases: "Deity"
 foundryId: Item.6rW9YrC5Fd3B6iqs

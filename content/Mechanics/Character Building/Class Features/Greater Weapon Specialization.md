@@ -1,5 +1,6 @@
 ---
 title: "Greater Weapon Specialization"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Weapon Specialization"
 foundryId: Item.p2mYdvttgZ6LZfup

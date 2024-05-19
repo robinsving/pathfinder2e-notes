@@ -1,5 +1,6 @@
 ---
 title: "Kabriri"
+draft: true
 noteType: ":luggage:"
 aliases: "Kabriri"
 foundryId: Item.TiS82rZccxvRhRAE

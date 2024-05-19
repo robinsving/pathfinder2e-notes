@@ -1,5 +1,6 @@
 ---
 title: "Pactbound Initiate"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Pactbound Initiate"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.YODf1eNWi9jnR93y

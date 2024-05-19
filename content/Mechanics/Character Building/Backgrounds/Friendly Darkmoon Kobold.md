@@ -1,5 +1,6 @@
 ---
 title: "Friendly Darkmoon Kobold"
+draft: true
 noteType: ":luggage:"
 aliases: "Friendly Darkmoon Kobold"
 foundryId: Item.VFh2Wbmrvdo4kcrU

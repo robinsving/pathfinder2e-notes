@@ -1,5 +1,6 @@
 ---
 title: "Protection Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Protection Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.Dx47K8wpx8KZUa9S

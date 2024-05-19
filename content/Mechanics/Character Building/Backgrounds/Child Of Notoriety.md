@@ -1,5 +1,6 @@
 ---
 title: "Child Of Notoriety"
+draft: true
 noteType: ":luggage:"
 aliases: "Child Of Notoriety"
 foundryId: Item.TWgdaSSRWIjmClnl

@@ -1,5 +1,6 @@
 ---
 title: "Impersonate"
+draft: true
 noteType: ":luggage:"
 aliases: "Impersonate"
 foundryId: Item.8BtbEd5mRcMUylf4

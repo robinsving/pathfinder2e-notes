@@ -1,5 +1,6 @@
 ---
 title: "Song of the Deep"
+draft: true
 noteType: ":luggage:"
 aliases: "Song of the Deep"
 foundryId: Item.hspRppZ7scV68pjN

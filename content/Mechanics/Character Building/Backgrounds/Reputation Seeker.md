@@ -1,5 +1,6 @@
 ---
 title: "Reputation Seeker"
+draft: true
 noteType: ":luggage:"
 aliases: "Reputation Seeker"
 foundryId: Item.jUKyESknHjaI28BT

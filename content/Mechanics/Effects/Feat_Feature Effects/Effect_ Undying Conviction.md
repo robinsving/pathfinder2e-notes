@@ -1,5 +1,6 @@
 ---
 title: "Effect: Undying Conviction"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Undying Conviction"
 foundryId: Compendium.pf2e.feat-effects.Item.e6mv68aarIbQ3tXL

@@ -1,5 +1,6 @@
 ---
 title: "Osirionologist"
+draft: true
 noteType: ":luggage:"
 aliases: "Osirionologist"
 foundryId: Item.rElGU6dt0d3fZWKw

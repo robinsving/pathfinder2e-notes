@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Prismatic Armor"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Prismatic Armor"
 foundryId: Compendium.pf2e.spell-effects.Item.8gqb5FMTaArsKdWB

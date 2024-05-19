@@ -1,5 +1,6 @@
 ---
 title: "Zon-Kuthon"
+draft: true
 noteType: ":luggage:"
 aliases: "Zon-Kuthon"
 foundryId: Item.lkBc15R6pNB2fdZY

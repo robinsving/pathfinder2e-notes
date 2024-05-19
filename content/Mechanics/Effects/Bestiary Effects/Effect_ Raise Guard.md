@@ -1,5 +1,6 @@
 ---
 title: "Effect: Raise Guard"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Raise Guard"
 foundryId: Compendium.pf2e.bestiary-effects.Item.LohrnRXCQ0yVt8MK

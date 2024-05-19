@@ -1,5 +1,6 @@
 ---
 title: "Effect: Divine Weapon (Chaotic)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Divine Weapon (Chaotic)"
 foundryId: Compendium.pf2e.feat-effects.Item.OkcblqWj4aHVAkrp

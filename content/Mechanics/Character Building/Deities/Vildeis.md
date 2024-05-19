@@ -1,5 +1,6 @@
 ---
 title: "Vildeis"
+draft: true
 noteType: ":luggage:"
 aliases: "Vildeis"
 foundryId: Item.RXy6pYRBWU4bn5Wf

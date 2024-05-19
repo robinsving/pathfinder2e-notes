@@ -1,5 +1,6 @@
 ---
 title: "Loremaster"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Loremaster"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.ackdHdIAmSb0AiVL

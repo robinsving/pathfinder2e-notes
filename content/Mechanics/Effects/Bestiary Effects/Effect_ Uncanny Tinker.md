@@ -1,5 +1,6 @@
 ---
 title: "Effect: Uncanny Tinker"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Uncanny Tinker"
 foundryId: Compendium.pf2e.bestiary-effects.Item.BTSstQAn4Xlm1PWV

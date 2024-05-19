@@ -1,5 +1,6 @@
 ---
 title: "Second Skin"
+draft: true
 noteType: ":luggage:"
 aliases: "Second Skin"
 foundryId: Item.hQlJHFF4AtqzWt3X

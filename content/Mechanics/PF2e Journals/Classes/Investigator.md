@@ -1,5 +1,6 @@
 ---
 title: "Investigator"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Investigator"
 foundryId: Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.omDi7otL3UWLVgct

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Dragon Wings (60 Feet)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Dragon Wings (60 Feet)"
 foundryId: Compendium.pf2e.spell-effects.Item.V7jAnItnVqtfCAKt

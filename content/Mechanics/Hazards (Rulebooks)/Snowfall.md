@@ -1,5 +1,6 @@
 ---
 title: Snowfall
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

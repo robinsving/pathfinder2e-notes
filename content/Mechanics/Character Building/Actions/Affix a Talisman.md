@@ -1,5 +1,6 @@
 ---
 title: "Affix a Talisman"
+draft: true
 noteType: ":luggage:"
 aliases: "Affix a Talisman"
 foundryId: Item.zlcPJ8cqSptqG8fO

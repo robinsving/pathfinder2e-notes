@@ -1,5 +1,6 @@
 ---
 title: "Tendril Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Tendril Strike"
 foundryId: Item.ZM0bhYK2bqjb2OOm

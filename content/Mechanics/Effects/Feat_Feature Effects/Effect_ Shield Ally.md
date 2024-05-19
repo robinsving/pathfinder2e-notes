@@ -1,5 +1,6 @@
 ---
 title: "Effect: Shield Ally"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Shield Ally"
 foundryId: Compendium.pf2e.feat-effects.Item.s3Te8waFP3KEb2dN

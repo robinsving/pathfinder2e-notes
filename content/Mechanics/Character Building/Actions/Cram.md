@@ -1,5 +1,6 @@
 ---
 title: "Cram"
+draft: true
 noteType: ":luggage:"
 aliases: "Cram"
 foundryId: Item.hRBFcdu4UHtOtv9j

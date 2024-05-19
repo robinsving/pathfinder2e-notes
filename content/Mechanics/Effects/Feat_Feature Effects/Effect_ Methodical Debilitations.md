@@ -1,5 +1,6 @@
 ---
 title: "Effect: Methodical Debilitations"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Methodical Debilitations"
 foundryId: Compendium.pf2e.feat-effects.Item.emSh1VxHVtTmt925

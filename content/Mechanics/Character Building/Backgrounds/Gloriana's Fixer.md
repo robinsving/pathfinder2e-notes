@@ -1,5 +1,6 @@
 ---
 title: "Gloriana's Fixer"
+draft: true
 noteType: ":luggage:"
 aliases: "Gloriana's Fixer"
 foundryId: Item.mAK5uyLIYm4qP3dq

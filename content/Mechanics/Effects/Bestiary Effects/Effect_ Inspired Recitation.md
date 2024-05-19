@@ -1,5 +1,6 @@
 ---
 title: "Effect: Inspired Recitation"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Inspired Recitation"
 foundryId: Compendium.pf2e.bestiary-effects.Item.MT5gxuuxBaN2RdYf

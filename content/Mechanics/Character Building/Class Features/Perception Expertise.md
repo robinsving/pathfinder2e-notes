@@ -1,5 +1,6 @@
 ---
 title: Perception Expertise
+draft: true
 noteType: ":luggage:"
 aliases:
   - Perception Expertise

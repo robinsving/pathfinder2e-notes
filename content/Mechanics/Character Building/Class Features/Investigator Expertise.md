@@ -1,5 +1,6 @@
 ---
 title: "Investigator Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Investigator Expertise"
 foundryId: Item.Pk0oKm0DNJG2RXEY

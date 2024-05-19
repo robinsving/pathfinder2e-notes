@@ -1,5 +1,6 @@
 ---
 title: "Effect: Hybrid Shape (Beastkin)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Hybrid Shape (Beastkin)"
 foundryId: Compendium.pf2e.feat-effects.Item.qIOEe4kUN7FOBifb

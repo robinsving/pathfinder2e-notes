@@ -1,5 +1,6 @@
 ---
 title: "Effect: Seasonal Boon (Outskirt Dweller)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Seasonal Boon (Outskirt Dweller)"
 foundryId: Compendium.pf2e.campaign-effects.Item.8KtjzHHR7n7ALvQc

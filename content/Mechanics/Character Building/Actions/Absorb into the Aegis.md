@@ -1,5 +1,6 @@
 ---
 title: "Absorb into the Aegis"
+draft: true
 noteType: ":luggage:"
 aliases: "Absorb into the Aegis"
 foundryId: Item.zgUTS31Yt8p8MfIZ

@@ -1,5 +1,6 @@
 ---
 title: "Demolitionist"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Demolitionist"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.Mk7ECwe1a971WyWl

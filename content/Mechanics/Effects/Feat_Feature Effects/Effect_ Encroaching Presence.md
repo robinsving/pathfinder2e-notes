@@ -1,5 +1,6 @@
 ---
 title: "Effect: Encroaching Presence"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Encroaching Presence"
 foundryId: Compendium.pf2e.feat-effects.Item.cqgbTZCvqaSvtQdz

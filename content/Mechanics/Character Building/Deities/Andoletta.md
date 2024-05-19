@@ -1,5 +1,6 @@
 ---
 title: "Andoletta"
+draft: true
 noteType: ":luggage:"
 aliases: "Andoletta"
 foundryId: Item.0i6xyDapbRx3sznA

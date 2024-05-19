@@ -1,5 +1,6 @@
 ---
 title: "Fourth Gate's Threshold"
+draft: true
 noteType: ":luggage:"
 aliases: "Fourth Gate's Threshold"
 foundryId: Item.RUcX7qmc523oBAaX

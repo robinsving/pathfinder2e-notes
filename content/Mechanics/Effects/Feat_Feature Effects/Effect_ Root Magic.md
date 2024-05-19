@@ -1,5 +1,6 @@
 ---
 title: "Effect: Root Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Root Magic"
 foundryId: Compendium.pf2e.feat-effects.Item.jO7wMhnjT7yoAtQg

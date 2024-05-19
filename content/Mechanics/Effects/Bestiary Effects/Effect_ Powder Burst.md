@@ -1,5 +1,6 @@
 ---
 title: "Effect: Powder Burst"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Powder Burst"
 foundryId: Compendium.pf2e.bestiary-effects.Item.6OpwHz0f55wPawHI

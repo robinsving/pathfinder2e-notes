@@ -1,5 +1,6 @@
 ---
 title: "Sparkling Targe"
+draft: true
 noteType: ":luggage:"
 aliases: "Sparkling Targe"
 foundryId: Item.fdKAPE1TLky9R9br

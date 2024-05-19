@@ -1,5 +1,6 @@
 ---
 title: "Archetypes"
+draft: true
 noteType: ":book:"
 aliases: "Archetypes"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow

@@ -1,5 +1,6 @@
 ---
 title: "Aura: Bless"
+draft: true
 noteType: ":luggage:"
 aliases: "Aura: Bless"
 foundryId: Compendium.pf2e.spell-effects.Item.RfCEHpMoEAZvB9IZ

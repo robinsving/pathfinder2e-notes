@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Vision of Weakness"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Vision of Weakness"
 foundryId: Compendium.pf2e.spell-effects.Item.70qdCBokXBvKIUIQ

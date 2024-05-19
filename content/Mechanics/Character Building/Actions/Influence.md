@@ -1,5 +1,6 @@
 ---
 title: "Influence"
+draft: true
 noteType: ":luggage:"
 aliases: "Influence"
 foundryId: Item.mUAcxOTVowzgzLfx

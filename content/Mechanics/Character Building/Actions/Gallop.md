@@ -1,5 +1,6 @@
 ---
 title: "Gallop"
+draft: true
 noteType: ":luggage:"
 aliases: "Gallop"
 foundryId: Item.4qfDx0yCPApu0kFQ

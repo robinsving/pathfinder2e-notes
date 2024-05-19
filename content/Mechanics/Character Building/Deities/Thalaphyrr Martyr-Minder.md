@@ -1,5 +1,6 @@
 ---
 title: "Thalaphyrr Martyr-Minder"
+draft: true
 noteType: ":luggage:"
 aliases: "Thalaphyrr Martyr-Minder"
 foundryId: Item.ifoARVLWryG7OGfG

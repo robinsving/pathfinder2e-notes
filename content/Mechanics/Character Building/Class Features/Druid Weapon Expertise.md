@@ -1,5 +1,6 @@
 ---
 title: "Druid Weapon Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Druid Weapon Expertise"
 foundryId: Item.ZyZhRdMkekC2RuAB

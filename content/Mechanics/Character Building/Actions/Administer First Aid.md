@@ -1,5 +1,6 @@
 ---
 title: "Administer First Aid"
+draft: true
 noteType: ":luggage:"
 aliases: "Administer First Aid"
 foundryId: Item.n9WIrelMgnTVH2gf

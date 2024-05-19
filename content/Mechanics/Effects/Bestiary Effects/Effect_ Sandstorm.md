@@ -1,5 +1,6 @@
 ---
 title: "Effect: Sandstorm"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Sandstorm"
 foundryId: Compendium.pf2e.bestiary-effects.Item.f8rncEs06bqcn3LZ

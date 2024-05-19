@@ -1,5 +1,6 @@
 ---
 title: "Effect: Take Them Down!"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Take Them Down!"
 foundryId: Compendium.pf2e.bestiary-effects.Item.u1Z7i2RyL6Sd9OVU

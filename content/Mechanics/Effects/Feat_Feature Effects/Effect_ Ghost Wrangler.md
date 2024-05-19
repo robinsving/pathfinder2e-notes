@@ -1,5 +1,6 @@
 ---
 title: "Effect: Ghost Wrangler"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Ghost Wrangler"
 foundryId: Compendium.pf2e.feat-effects.Item.SiegLMJpVOGuoyWJ

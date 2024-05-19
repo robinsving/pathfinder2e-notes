@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Elemental Gift (Water)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Elemental Gift (Water)"
 foundryId: Compendium.pf2e.spell-effects.Item.yq6iu0Qxg3YEbb6s

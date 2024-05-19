@@ -1,5 +1,6 @@
 ---
 title: "Force Open"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Force Open"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.oM0DobZe9uEkz9kb

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Dread Ambience (Critical Failure)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Dread Ambience (Critical Failure)"
 foundryId: Compendium.pf2e.spell-effects.Item.4Lt69zSeYElEfDrZ

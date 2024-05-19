@@ -1,5 +1,6 @@
 ---
 title: "Effect: Burned Mouth and Throat (No Singing or Yelling)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Burned Mouth and Throat (No Singing or Yelling)"
 foundryId: Compendium.pf2e.campaign-effects.Item.CS1XbH7GYfP6Ve61

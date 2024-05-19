@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Mantle of the Magma Heart (Enlarging Eruption)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Mantle of the Magma Heart (Enlarging Eruption)"
 foundryId: Compendium.pf2e.spell-effects.Item.qRyynMOflGajgAR3

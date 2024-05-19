@@ -1,5 +1,6 @@
 ---
 title: "Nocticula"
+draft: true
 noteType: ":luggage:"
 aliases: "Nocticula"
 foundryId: Item.gjbERl2KNWt3PDYG

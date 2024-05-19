@@ -1,5 +1,6 @@
 ---
 title: "Effect: Genie Blood Magic (Self)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Genie Blood Magic (Self)"
 foundryId: Compendium.pf2e.feat-effects.Item.9AUcoY48H5LrVZiF

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Inspired Stratagem"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Inspired Stratagem"
 foundryId: Compendium.pf2e.feat-effects.Item.K0Sv9AHgq245hSLC

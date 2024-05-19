@@ -1,5 +1,6 @@
 ---
 title: "Sifkesh"
+draft: true
 noteType: ":luggage:"
 aliases: "Sifkesh"
 foundryId: Item.4qMBgBI2gDq9378c

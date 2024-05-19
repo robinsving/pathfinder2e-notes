@@ -1,5 +1,6 @@
 ---
 title: Spectral Reflection
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

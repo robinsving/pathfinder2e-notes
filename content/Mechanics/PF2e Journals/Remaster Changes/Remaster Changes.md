@@ -1,5 +1,6 @@
 ---
 title: "Remaster Changes"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Remaster Changes"
 foundryId: Compendium.pf2e.journals.JournalEntry.6L2eweJuM8W7OCf2.JournalEntryPage.JYJd1xZwqUNRNsqG

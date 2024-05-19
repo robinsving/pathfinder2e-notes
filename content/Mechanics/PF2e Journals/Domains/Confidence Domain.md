@@ -1,5 +1,6 @@
 ---
 title: "Confidence Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Confidence Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.flmxRzGxN2rRNyxZ

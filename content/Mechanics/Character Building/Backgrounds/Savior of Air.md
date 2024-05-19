@@ -1,5 +1,6 @@
 ---
 title: "Savior of Air"
+draft: true
 noteType: ":luggage:"
 aliases: "Savior of Air"
 foundryId: Item.BWjVPU1IWsCoMIvu

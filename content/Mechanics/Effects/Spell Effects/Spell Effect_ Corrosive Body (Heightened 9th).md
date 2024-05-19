@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Corrosive Body (Heightened 9th)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Corrosive Body (Heightened 9th)"
 foundryId: Compendium.pf2e.spell-effects.Item.xKJVqN1ETnNH3tFg

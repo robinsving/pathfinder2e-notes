@@ -1,5 +1,6 @@
 ---
 title: "Effect: Roast"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Roast"
 foundryId: Compendium.pf2e.bestiary-effects.Item.IySCRGYxxLFDlIZI

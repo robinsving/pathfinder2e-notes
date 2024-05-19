@@ -1,5 +1,6 @@
 ---
 title: "Spirit Instinct"
+draft: true
 noteType: ":luggage:"
 aliases: "Spirit Instinct"
 foundryId: Item.NOFl2bzbYsHKSMEP

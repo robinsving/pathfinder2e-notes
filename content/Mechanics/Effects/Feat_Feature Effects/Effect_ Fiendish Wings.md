@@ -1,5 +1,6 @@
 ---
 title: "Effect: Fiendish Wings"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Fiendish Wings"
 foundryId: Compendium.pf2e.feat-effects.Item.MrdT7LiOZMN8J4GK

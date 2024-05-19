@@ -1,5 +1,6 @@
 ---
 title: "On the Case"
+draft: true
 noteType: ":luggage:"
 aliases: "On the Case"
 foundryId: Item.MnhXwkU7ZexNBwva

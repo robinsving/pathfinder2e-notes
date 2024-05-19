@@ -1,5 +1,6 @@
 ---
 title: "Conditions"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Conditions"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.duqPy1VMQYNJrw7q

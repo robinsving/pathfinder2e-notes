@@ -1,5 +1,6 @@
 ---
 title: "Effect: Guidance Immunity"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Guidance Immunity"
 foundryId: Compendium.pf2e.spell-effects.Item.3LyOkV25p7wA181H

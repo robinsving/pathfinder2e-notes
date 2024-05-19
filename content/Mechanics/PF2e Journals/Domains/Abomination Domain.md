@@ -1,5 +1,6 @@
 ---
 title: "Abomination Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Abomination Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.qMS6QepvY7UQQjcr

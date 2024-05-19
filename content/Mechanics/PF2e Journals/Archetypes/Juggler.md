@@ -1,5 +1,6 @@
 ---
 title: "Juggler"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Juggler"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.bQeLZt29NnHEn6fh

@@ -1,5 +1,6 @@
 ---
 title: Agile Mind
+draft: true
 noteType: ":luggage:"
 aliases:
   - Agile Mind

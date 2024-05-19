@@ -1,5 +1,6 @@
 ---
 title: "Ghost Eater"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Ghost Eater"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.xMdIENo4w9bEzZuK

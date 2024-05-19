@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Draw Ire (Failure)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Draw Ire (Failure)"
 foundryId: Compendium.pf2e.spell-effects.Item.BsGZdgiEElNlgZVv

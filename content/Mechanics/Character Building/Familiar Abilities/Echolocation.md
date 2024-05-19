@@ -1,5 +1,6 @@
 ---
 title: "Echolocation"
+draft: true
 noteType: ":luggage:"
 aliases: "Echolocation"
 foundryId: Item.WlY7Q8UUqnQF8khl

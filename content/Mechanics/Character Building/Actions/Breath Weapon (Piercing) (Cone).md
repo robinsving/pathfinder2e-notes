@@ -1,5 +1,6 @@
 ---
 title: "Breath Weapon (Piercing) (Cone)"
+draft: true
 noteType: ":luggage:"
 aliases: "Breath Weapon (Piercing) (Cone)"
 foundryId: Item.U4rzOzsv8mxWt2q8

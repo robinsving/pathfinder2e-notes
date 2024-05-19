@@ -1,5 +1,6 @@
 ---
 title: "Harbor Guard Moonlighter"
+draft: true
 noteType: ":luggage:"
 aliases: "Harbor Guard Moonlighter"
 foundryId: Item.DTQgHA9M1n9xVf80

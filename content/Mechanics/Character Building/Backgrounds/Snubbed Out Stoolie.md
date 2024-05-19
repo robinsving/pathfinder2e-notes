@@ -1,5 +1,6 @@
 ---
 title: "Snubbed Out Stoolie"
+draft: true
 noteType: ":luggage:"
 aliases: "Snubbed Out Stoolie"
 foundryId: Item.KI6HIiB6FKQHKr7N

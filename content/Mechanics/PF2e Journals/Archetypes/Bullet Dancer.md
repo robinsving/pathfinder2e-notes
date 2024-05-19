@@ -1,5 +1,6 @@
 ---
 title: "Bullet Dancer"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Bullet Dancer"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.5nd8ON2kFGOsCdwQ

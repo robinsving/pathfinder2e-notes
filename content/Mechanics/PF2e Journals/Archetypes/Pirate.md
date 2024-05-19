@@ -1,5 +1,6 @@
 ---
 title: "Pirate"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Pirate"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.O9P1YgtiCgHlPNp5

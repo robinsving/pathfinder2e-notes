@@ -1,5 +1,6 @@
 ---
 title: "Confused"
+draft: true
 noteType: ":luggage:"
 aliases: "Confused"
 foundryId: Item.bnCtXfPD3Ku6Nlk6

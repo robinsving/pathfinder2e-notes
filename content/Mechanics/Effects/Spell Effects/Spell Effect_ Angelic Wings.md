@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Angelic Wings"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Angelic Wings"
 foundryId: Compendium.pf2e.spell-effects.Item.iZYjxY0qYvg5yPP3

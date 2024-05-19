@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Stumbling Curse"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Stumbling Curse"
 foundryId: Compendium.pf2e.spell-effects.Item.ViBlOrd6hno3DiPP

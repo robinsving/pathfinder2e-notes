@@ -1,5 +1,6 @@
 ---
 title: "Stance: Stonestrike Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Stonestrike Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.RDKbWKphiD9ippAv

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Guided by the Stars"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Guided by the Stars"
 foundryId: Compendium.pf2e.feat-effects.Item.raLQ458uiyd3lI2K

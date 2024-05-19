@@ -1,5 +1,6 @@
 ---
 title: "Ghost Hunter"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Ghost Hunter"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.LL4YD16kPqcGibKG

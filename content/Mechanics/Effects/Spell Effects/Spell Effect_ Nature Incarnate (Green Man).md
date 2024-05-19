@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Nature Incarnate (Green Man)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Nature Incarnate (Green Man)"
 foundryId: Compendium.pf2e.spell-effects.Item.lywUJljQy2SxRZQt

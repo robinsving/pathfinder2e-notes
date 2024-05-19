@@ -1,5 +1,6 @@
 ---
 title: "Pick a Lock"
+draft: true
 noteType: ":luggage:"
 aliases: "Pick a Lock"
 foundryId: Item.xo4hCpJU4ex3z2zt

@@ -1,5 +1,6 @@
 ---
 title: "Sterling Dynamo"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Sterling Dynamo"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.6KciIDJV6ZdJcAVa

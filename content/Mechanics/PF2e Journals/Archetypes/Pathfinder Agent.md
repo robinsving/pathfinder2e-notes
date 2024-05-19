@@ -1,5 +1,6 @@
 ---
 title: "Pathfinder Agent"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Pathfinder Agent"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.fTxZjmNLckRwZ4Po

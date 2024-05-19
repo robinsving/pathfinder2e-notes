@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Devil Form (Erinys)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Devil Form (Erinys)"
 foundryId: Compendium.pf2e.spell-effects.Item.BDMEqBsumguTrMXa

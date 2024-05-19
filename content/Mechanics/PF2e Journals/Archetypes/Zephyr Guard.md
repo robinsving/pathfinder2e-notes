@@ -1,5 +1,6 @@
 ---
 title: "Zephyr Guard"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Zephyr Guard"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.KORSADviZaSccs2W

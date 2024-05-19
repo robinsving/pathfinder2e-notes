@@ -1,5 +1,6 @@
 ---
 title: "Greater Deed"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Deed"
 foundryId: Item.zKDN1EEUtCcbwKIC

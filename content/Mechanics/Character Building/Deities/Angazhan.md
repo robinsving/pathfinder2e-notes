@@ -1,5 +1,6 @@
 ---
 title: "Angazhan"
+draft: true
 noteType: ":luggage:"
 aliases: "Angazhan"
 foundryId: Item.4srplqMmoe2J4zbR

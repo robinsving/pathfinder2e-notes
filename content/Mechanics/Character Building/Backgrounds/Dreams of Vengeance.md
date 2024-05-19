@@ -1,5 +1,6 @@
 ---
 title: "Dreams of Vengeance"
+draft: true
 noteType: ":luggage:"
 aliases: "Dreams of Vengeance"
 foundryId: Item.EJuICRT6U5UJ5Rhg

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Fetid Screech (Critical Failure)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Fetid Screech (Critical Failure)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.lIEc8Lx3ROm17Dqa

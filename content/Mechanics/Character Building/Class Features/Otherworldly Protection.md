@@ -1,5 +1,6 @@
 ---
 title: "Otherworldly Protection"
+draft: true
 noteType: ":luggage:"
 aliases: "Otherworldly Protection"
 foundryId: Item.6pIL3oN3BSKu6Udt

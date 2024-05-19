@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Rapid Adaptation (Forest)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Rapid Adaptation (Forest)"
 foundryId: Compendium.pf2e.spell-effects.Item.jtMo6qS47hPx6EbR

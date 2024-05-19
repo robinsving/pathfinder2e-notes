@@ -1,5 +1,6 @@
 ---
 title: "Effect: Choose Weakness"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Choose Weakness"
 foundryId: Compendium.pf2e.bestiary-effects.Item.PJxUFFeAvQJ4l52f

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Curse of Outpouring Life"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Curse of Outpouring Life"
 foundryId: Compendium.pf2e.feat-effects.Item.EtFMN1ZLkL7sUk01

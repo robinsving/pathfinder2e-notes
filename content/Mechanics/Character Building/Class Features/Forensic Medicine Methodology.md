@@ -1,5 +1,6 @@
 ---
 title: "Forensic Medicine Methodology"
+draft: true
 noteType: ":luggage:"
 aliases: "Forensic Medicine Methodology"
 foundryId: Item.QmOA30f9xY3VLJMh

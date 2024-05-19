@@ -1,5 +1,6 @@
 ---
 title: "Grasping Tendrils"
+draft: true
 noteType: ":luggage:"
 aliases: "Grasping Tendrils"
 foundryId: Item.3Wyx9iALKGmUPRxM

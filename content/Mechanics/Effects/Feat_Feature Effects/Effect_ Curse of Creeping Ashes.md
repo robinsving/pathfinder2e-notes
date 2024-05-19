@@ -1,5 +1,6 @@
 ---
 title: "Effect: Curse of Creeping Ashes"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Curse of Creeping Ashes"
 foundryId: Compendium.pf2e.feat-effects.Item.G4L49aMxHqO2yqxi

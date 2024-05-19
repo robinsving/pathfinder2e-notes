@@ -1,5 +1,6 @@
 ---
 title: "Effect: Wyrmblessed Blood Magic (Status Penalty - Target)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Wyrmblessed Blood Magic (Status Penalty - Target)"
 foundryId: Compendium.pf2e.feat-effects.Item.aqnx6IDcB7ARLxS5

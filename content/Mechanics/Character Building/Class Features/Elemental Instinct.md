@@ -1,5 +1,6 @@
 ---
 title: "Elemental Instinct"
+draft: true
 noteType: ":luggage:"
 aliases: "Elemental Instinct"
 foundryId: Item.HkYiEd0mcW5g18sq

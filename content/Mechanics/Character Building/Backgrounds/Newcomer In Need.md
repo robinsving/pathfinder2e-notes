@@ -1,5 +1,6 @@
 ---
 title: "Newcomer In Need"
+draft: true
 noteType: ":luggage:"
 aliases: "Newcomer In Need"
 foundryId: Item.U59C7VYzE81ds7Q5

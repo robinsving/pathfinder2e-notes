@@ -1,5 +1,6 @@
 ---
 title: "Second Doctrine"
+draft: true
 noteType: ":luggage:"
 aliases: "Second Doctrine"
 foundryId: Item.hWRgVTzaeBxMqu0b

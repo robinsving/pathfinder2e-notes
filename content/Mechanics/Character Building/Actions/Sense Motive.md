@@ -1,5 +1,6 @@
 ---
 title: "Sense Motive"
+draft: true
 noteType: ":luggage:"
 aliases: "Sense Motive"
 foundryId: Item.aE00poYtA58ejtqz

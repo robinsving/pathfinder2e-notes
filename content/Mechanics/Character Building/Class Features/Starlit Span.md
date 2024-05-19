@@ -1,5 +1,6 @@
 ---
 title: "Starlit Span"
+draft: true
 noteType: ":luggage:"
 aliases: "Starlit Span"
 foundryId: Item.ESbmGEp1jGhIEuZL

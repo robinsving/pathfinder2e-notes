@@ -1,5 +1,6 @@
 ---
 title: "Animal Order"
+draft: true
 noteType: ":luggage:"
 aliases: "Animal Order"
 foundryId: Item.npEb9iPgL7y8dpmo

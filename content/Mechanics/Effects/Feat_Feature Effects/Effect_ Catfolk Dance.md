@@ -1,5 +1,6 @@
 ---
 title: "Effect: Catfolk Dance"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Catfolk Dance"
 foundryId: Compendium.pf2e.feat-effects.Item.5bEnBqVOgdp4gROP

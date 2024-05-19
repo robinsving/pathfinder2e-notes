@@ -1,5 +1,6 @@
 ---
 title: "Effect: Aura of Preservation"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Aura of Preservation"
 foundryId: Compendium.pf2e.feat-effects.Item.18FHJoazfEmgNkfk

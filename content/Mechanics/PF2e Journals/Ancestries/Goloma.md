@@ -1,5 +1,6 @@
 ---
 title: "Goloma"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Goloma"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.jKglnHBFvzI80tIe

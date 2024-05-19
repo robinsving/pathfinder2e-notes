@@ -1,5 +1,6 @@
 ---
 title: "Effect: Resonance"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Resonance"
 foundryId: Compendium.pf2e.bestiary-effects.Item.1dwMVgBHfT4qO4OS

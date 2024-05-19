@@ -1,5 +1,6 @@
 ---
 title: "Mark for Death"
+draft: true
 noteType: ":luggage:"
 aliases: "Mark for Death"
 foundryId: Item.IhKt0Brq62TaGbp8

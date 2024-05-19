@@ -1,5 +1,6 @@
 ---
 title: "Stance: Jellyfish Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Jellyfish Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.pkcr9w5x6bKzl3om

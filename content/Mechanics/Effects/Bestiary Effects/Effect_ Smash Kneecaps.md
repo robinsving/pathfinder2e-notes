@@ -1,5 +1,6 @@
 ---
 title: "Effect: Smash Kneecaps"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Smash Kneecaps"
 foundryId: Compendium.pf2e.bestiary-effects.Item.n96DB8vpPr1Fu6GZ

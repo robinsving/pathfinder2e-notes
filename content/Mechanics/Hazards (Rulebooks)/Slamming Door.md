@@ -1,5 +1,6 @@
 ---
 title: Slamming Door
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

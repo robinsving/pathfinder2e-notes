@@ -1,5 +1,6 @@
 ---
 title: "Effect: Topple Giants"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Topple Giants"
 foundryId: Compendium.pf2e.feat-effects.Item.W8HWQ47YNHWB8kj6

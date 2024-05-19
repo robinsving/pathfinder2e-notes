@@ -1,5 +1,6 @@
 ---
 title: "Effect: Forest Endemic Herbs"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Forest Endemic Herbs"
 foundryId: Compendium.pf2e.feat-effects.Item.bliWctLi7jlKUTUe

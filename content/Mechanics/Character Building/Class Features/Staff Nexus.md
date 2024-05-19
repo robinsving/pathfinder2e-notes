@@ -1,5 +1,6 @@
 ---
 title: "Staff Nexus"
+draft: true
 noteType: ":luggage:"
 aliases: "Staff Nexus"
 foundryId: Item.51XXEKQ2q6s82GIl

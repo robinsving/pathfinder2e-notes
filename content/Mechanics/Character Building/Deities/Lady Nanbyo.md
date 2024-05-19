@@ -1,5 +1,6 @@
 ---
 title: "Lady Nanbyo"
+draft: true
 noteType: ":luggage:"
 aliases: "Lady Nanbyo"
 foundryId: Item.U1iDjtaKFSoinphm

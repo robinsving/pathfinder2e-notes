@@ -1,5 +1,6 @@
 ---
 title: "Effect: Undead Mastery"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Undead Mastery"
 foundryId: Compendium.pf2e.bestiary-effects.Item.4M2K16mH4gndHAKa

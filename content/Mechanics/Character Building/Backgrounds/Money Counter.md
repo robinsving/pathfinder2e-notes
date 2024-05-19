@@ -1,5 +1,6 @@
 ---
 title: "Money Counter"
+draft: true
 noteType: ":luggage:"
 aliases: "Money Counter"
 foundryId: Item.Spq7WICJcS7H9ZFm

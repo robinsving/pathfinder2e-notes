@@ -1,5 +1,6 @@
 ---
 title: "Mechanic"
+draft: true
 noteType: ":luggage:"
 aliases: "Mechanic"
 foundryId: Item.H1IakUsDDkXQiEP0

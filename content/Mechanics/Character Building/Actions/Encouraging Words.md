@@ -1,5 +1,6 @@
 ---
 title: "Encouraging Words"
+draft: true
 noteType: ":luggage:"
 aliases: "Encouraging Words"
 foundryId: Item.xO4cLEMpelHYQqBa

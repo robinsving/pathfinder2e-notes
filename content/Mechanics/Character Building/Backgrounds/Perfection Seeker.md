@@ -1,5 +1,6 @@
 ---
 title: "Perfection Seeker"
+draft: true
 noteType: ":luggage:"
 aliases: "Perfection Seeker"
 foundryId: Item.IH3PQ8xx7c6gP9BY

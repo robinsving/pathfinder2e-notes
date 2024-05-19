@@ -1,5 +1,6 @@
 ---
 title: "Unexpected Sharpshooter"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Unexpected Sharpshooter"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.nVfhX1aisz6jY8qf

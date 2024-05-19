@@ -1,5 +1,6 @@
 ---
 title: "Reshmit of the Heavy Voice"
+draft: true
 noteType: ":luggage:"
 aliases: "Reshmit of the Heavy Voice"
 foundryId: Item.GYtmJjpv6GM9j0Kz

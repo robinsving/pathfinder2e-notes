@@ -1,5 +1,6 @@
 ---
 title: "Braggart"
+draft: true
 noteType: ":luggage:"
 aliases: "Braggart"
 foundryId: Item.cZUKeVJojUzNswmt

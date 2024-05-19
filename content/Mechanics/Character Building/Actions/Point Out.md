@@ -1,5 +1,6 @@
 ---
 title: "Point Out"
+draft: true
 noteType: ":luggage:"
 aliases: "Point Out"
 foundryId: Item.F5gPBO0qHmr45nZC

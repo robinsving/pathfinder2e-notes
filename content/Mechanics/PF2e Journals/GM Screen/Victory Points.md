@@ -1,5 +1,6 @@
 ---
 title: "Victory Points"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Victory Points"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.zymZw8KQe0nkRf5L

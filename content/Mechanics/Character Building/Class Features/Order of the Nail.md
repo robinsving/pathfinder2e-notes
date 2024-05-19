@@ -1,5 +1,6 @@
 ---
 title: "Order of the Nail"
+draft: true
 noteType: ":luggage:"
 aliases: "Order of the Nail"
 foundryId: Item.fCv4V0ipwKT01guY

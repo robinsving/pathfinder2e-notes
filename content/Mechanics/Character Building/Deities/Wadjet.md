@@ -1,5 +1,6 @@
 ---
 title: "Wadjet"
+draft: true
 noteType: ":luggage:"
 aliases: "Wadjet"
 foundryId: Item.tf5JMxNlRpJIofJ4

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Mind Swap (Critical Success)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Mind Swap (Critical Success)"
 foundryId: Compendium.pf2e.spell-effects.Item.4FD4vJqVpuuJjk9Q

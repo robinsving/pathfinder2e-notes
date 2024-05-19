@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Divine Vessel 9th level (Evil)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Divine Vessel 9th level (Evil)"
 foundryId: Compendium.pf2e.spell-effects.Item.AnawxScxqUiRuGTm

@@ -1,5 +1,6 @@
 ---
 title: "Recall Ammunition"
+draft: true
 noteType: ":luggage:"
 aliases: "Recall Ammunition"
 foundryId: Item.AdtATgmHXDsaGEzn

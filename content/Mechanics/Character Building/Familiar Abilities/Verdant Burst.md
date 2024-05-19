@@ -1,5 +1,6 @@
 ---
 title: "Verdant Burst"
+draft: true
 noteType: ":luggage:"
 aliases: "Verdant Burst"
 foundryId: Item.gdTkyfPVnsc9pPDx

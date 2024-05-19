@@ -1,5 +1,6 @@
 ---
 title: "Effect: Fan Bolt"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Fan Bolt"
 foundryId: Compendium.pf2e.bestiary-effects.Item.seWuw1GMSm3kzCWV

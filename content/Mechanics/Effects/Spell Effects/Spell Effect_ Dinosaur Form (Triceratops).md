@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Dinosaur Form (Triceratops)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Dinosaur Form (Triceratops)"
 foundryId: Compendium.pf2e.spell-effects.Item.iOKhr2El8R6cz6YI

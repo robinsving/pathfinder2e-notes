@@ -1,5 +1,6 @@
 ---
 title: "Spin Tale"
+draft: true
 noteType: ":luggage:"
 aliases: "Spin Tale"
 foundryId: Item.ZlVxjWhnTeBL0Hfi

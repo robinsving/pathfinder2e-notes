@@ -1,5 +1,6 @@
 ---
 title: "Effect: Devise a Stratagem"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Devise a Stratagem"
 foundryId: Compendium.pf2e.feat-effects.Item.XQpTyjXFYYNexyOk

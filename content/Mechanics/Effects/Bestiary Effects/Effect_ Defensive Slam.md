@@ -1,5 +1,6 @@
 ---
 title: "Effect: Defensive Slam"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Defensive Slam"
 foundryId: Compendium.pf2e.bestiary-effects.Item.BsuYuFxE20mnRxbs

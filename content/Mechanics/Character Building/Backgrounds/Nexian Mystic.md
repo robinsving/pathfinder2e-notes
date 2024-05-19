@@ -1,5 +1,6 @@
 ---
 title: "Nexian Mystic"
+draft: true
 noteType: ":luggage:"
 aliases: "Nexian Mystic"
 foundryId: Item.S47ksENQMgKYhyNJ

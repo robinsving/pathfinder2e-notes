@@ -1,5 +1,6 @@
 ---
 title: "School of Civic Wizardry"
+draft: true
 noteType: ":luggage:"
 aliases: "School of Civic Wizardry"
 foundryId: Item.9xFRDFjXCMbRKce2

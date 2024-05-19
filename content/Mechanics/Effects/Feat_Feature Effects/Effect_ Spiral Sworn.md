@@ -1,5 +1,6 @@
 ---
 title: "Effect: Spiral Sworn"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Spiral Sworn"
 foundryId: Compendium.pf2e.feat-effects.Item.2gVP04ZWYbQdX3uS

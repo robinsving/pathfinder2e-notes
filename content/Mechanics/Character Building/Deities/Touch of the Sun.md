@@ -1,5 +1,6 @@
 ---
 title: "Touch of the Sun"
+draft: true
 noteType: ":luggage:"
 aliases: "Touch of the Sun"
 foundryId: Item.ga07xL4A6CLEvvla

@@ -1,5 +1,6 @@
 ---
 title: "Doctrine"
+draft: true
 noteType: ":luggage:"
 aliases: "Doctrine"
 foundryId: Item.39Xcx5RFSVD0F8MH

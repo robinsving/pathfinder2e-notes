@@ -1,5 +1,6 @@
 ---
 title: "Iolite Trainee Hobgoblin"
+draft: true
 noteType: ":luggage:"
 aliases: "Iolite Trainee Hobgoblin"
 foundryId: Item.e8R61UheLhqk202H

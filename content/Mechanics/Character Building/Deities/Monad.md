@@ -1,5 +1,6 @@
 ---
 title: "Monad"
+draft: true
 noteType: ":luggage:"
 aliases: "Monad"
 foundryId: Item.15u5yVuHzrm32J1Z

@@ -1,5 +1,6 @@
 ---
 title: "Armor Up!"
+draft: true
 noteType: ":luggage:"
 aliases: "Armor Up!"
 foundryId: Item.rUaTexkNre9cC3Nf

@@ -1,5 +1,6 @@
 ---
 title: "Cast a Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Cast a Spell"
 foundryId: Item.giVR7ZHwo9Dq5Q9P

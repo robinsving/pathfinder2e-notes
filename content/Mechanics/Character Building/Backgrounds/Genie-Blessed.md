@@ -1,5 +1,6 @@
 ---
 title: "Genie-Blessed"
+draft: true
 noteType: ":luggage:"
 aliases: "Genie-Blessed"
 foundryId: Item.pBcdCGUnDeupPTx8

@@ -1,5 +1,6 @@
 ---
 title: "Resonant Reflection: Reflection of Life"
+draft: true
 noteType: ":luggage:"
 aliases: "Resonant Reflection: Reflection of Life"
 foundryId: Compendium.pf2e.campaign-effects.Item.8eMGYNilWV3dFAUI

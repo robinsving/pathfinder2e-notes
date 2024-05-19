@@ -1,5 +1,6 @@
 ---
 title: "Lion Blade"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Lion Blade"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.COTDddn4psjIoWry

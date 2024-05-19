@@ -1,5 +1,6 @@
 ---
 title: "Avoid Dire Fate"
+draft: true
 noteType: ":luggage:"
 aliases: "Avoid Dire Fate"
 foundryId: Item.wqvJTq4htQc2u5qZ

@@ -1,5 +1,6 @@
 ---
 title: "Accidental Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Accidental Shot"
 foundryId: Item.PpFg5D0MvW9Nwuqq

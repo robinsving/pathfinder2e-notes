@@ -1,5 +1,6 @@
 ---
 title: "Conrasu"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Conrasu"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.ufWdokSN5W3Einus

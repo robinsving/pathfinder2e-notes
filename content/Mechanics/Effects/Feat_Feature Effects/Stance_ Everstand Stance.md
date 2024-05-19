@@ -1,5 +1,6 @@
 ---
 title: "Stance: Everstand Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Everstand Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.GGebXpRPyONZB3eS

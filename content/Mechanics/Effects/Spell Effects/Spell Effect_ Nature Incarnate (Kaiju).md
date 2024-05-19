@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Nature Incarnate (Kaiju)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Nature Incarnate (Kaiju)"
 foundryId: Compendium.pf2e.spell-effects.Item.EUxTav62IXTz5CxW

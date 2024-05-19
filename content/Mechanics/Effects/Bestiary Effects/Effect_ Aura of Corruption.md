@@ -1,5 +1,6 @@
 ---
 title: "Effect: Aura of Corruption"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Aura of Corruption"
 foundryId: Compendium.pf2e.bestiary-effects.Item.3MIZf42EhhKbIwLQ

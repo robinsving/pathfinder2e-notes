@@ -1,5 +1,6 @@
 ---
 title: "Clan Associate"
+draft: true
 noteType: ":luggage:"
 aliases: "Clan Associate"
 foundryId: Item.gJ92YOIw1XLqgWyA

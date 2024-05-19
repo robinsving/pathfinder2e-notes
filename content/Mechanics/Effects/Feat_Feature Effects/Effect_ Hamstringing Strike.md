@@ -1,5 +1,6 @@
 ---
 title: "Effect: Hamstringing Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Hamstringing Strike"
 foundryId: Compendium.pf2e.feat-effects.Item.ESnzqtwSgahLcxg2

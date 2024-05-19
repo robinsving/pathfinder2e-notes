@@ -1,5 +1,6 @@
 ---
 title: "The Lantern King"
+draft: true
 noteType: ":luggage:"
 aliases: "The Lantern King"
 foundryId: Item.9l5O2Ljeeqs80GQ8

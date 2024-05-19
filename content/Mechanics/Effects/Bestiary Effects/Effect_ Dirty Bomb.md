@@ -1,5 +1,6 @@
 ---
 title: "Effect: Dirty Bomb"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Dirty Bomb"
 foundryId: Compendium.pf2e.bestiary-effects.Item.5ZK22sNW7o26aST0

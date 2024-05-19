@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Tempt Fate"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Tempt Fate"
 foundryId: Compendium.pf2e.spell-effects.Item.AJkRUIdYLnt4QOOg

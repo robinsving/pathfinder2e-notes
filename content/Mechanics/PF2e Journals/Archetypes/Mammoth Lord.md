@@ -1,5 +1,6 @@
 ---
 title: "Mammoth Lord"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Mammoth Lord"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.iH3Vrt35DyUbhxZj

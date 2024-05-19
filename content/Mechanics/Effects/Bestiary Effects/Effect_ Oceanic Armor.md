@@ -1,5 +1,6 @@
 ---
 title: "Effect: Oceanic Armor"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Oceanic Armor"
 foundryId: Compendium.pf2e.bestiary-effects.Item.0jo8CUzw5lWehNg3

@@ -1,5 +1,6 @@
 ---
 title: "Personal Barrier"
+draft: true
 noteType: ":luggage:"
 aliases: "Personal Barrier"
 foundryId: Item.GZJ8Bk27v26lhMyM

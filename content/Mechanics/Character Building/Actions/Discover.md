@@ -1,5 +1,6 @@
 ---
 title: "Discover"
+draft: true
 noteType: ":luggage:"
 aliases: "Discover"
 foundryId: Item.omEKvP6NECLqPPpu

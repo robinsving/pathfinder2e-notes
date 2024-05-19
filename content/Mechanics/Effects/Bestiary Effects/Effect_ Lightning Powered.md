@@ -1,5 +1,6 @@
 ---
 title: "Effect: Lightning Powered"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Lightning Powered"
 foundryId: Compendium.pf2e.bestiary-effects.Item.MxFFGo4WJpHh1e70

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Call to Blood"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Call to Blood"
 foundryId: Compendium.pf2e.bestiary-effects.Item.v54mj5jknAynlCM9

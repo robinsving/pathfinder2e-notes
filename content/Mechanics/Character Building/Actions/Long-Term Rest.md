@@ -1,5 +1,6 @@
 ---
 title: "Long-Term Rest"
+draft: true
 noteType: ":luggage:"
 aliases: "Long-Term Rest"
 foundryId: Item.cO077pbolt332hG0

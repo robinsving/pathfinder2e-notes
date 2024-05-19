@@ -1,5 +1,6 @@
 ---
 title: "Yaezhing"
+draft: true
 noteType: ":luggage:"
 aliases: "Yaezhing"
 foundryId: Item.2Xp7HqCJKbvRPA2o

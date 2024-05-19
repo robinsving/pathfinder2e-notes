@@ -1,5 +1,6 @@
 ---
 title: "Stance: Dread Marshal Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Dread Marshal Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.qX62wJzDYtNxDbFv

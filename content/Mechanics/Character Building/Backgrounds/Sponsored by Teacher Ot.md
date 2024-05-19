@@ -1,5 +1,6 @@
 ---
 title: "Sponsored by Teacher Ot"
+draft: true
 noteType: ":luggage:"
 aliases: "Sponsored by Teacher Ot"
 foundryId: Item.cAAddnHeOnlRy7ce

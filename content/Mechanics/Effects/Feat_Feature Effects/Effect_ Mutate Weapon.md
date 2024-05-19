@@ -1,5 +1,6 @@
 ---
 title: "Effect: Mutate Weapon"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Mutate Weapon"
 foundryId: Compendium.pf2e.feat-effects.Item.ITvyvbB234bxceRK

@@ -1,5 +1,6 @@
 ---
 title: "Familiar of Flowing Script"
+draft: true
 noteType: ":luggage:"
 aliases: "Familiar of Flowing Script"
 foundryId: Item.5WpPI2MTCbXCcnEj

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Sea Glass Guardians"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Sea Glass Guardians"
 foundryId: Compendium.pf2e.feat-effects.Item.LOql7Rc5anCse9Nx

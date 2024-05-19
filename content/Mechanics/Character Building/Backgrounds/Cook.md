@@ -1,5 +1,6 @@
 ---
 title: "Cook"
+draft: true
 noteType: ":luggage:"
 aliases: "Cook"
 foundryId: Item.PilOngPp4LKDi22W

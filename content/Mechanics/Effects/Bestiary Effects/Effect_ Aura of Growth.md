@@ -1,5 +1,6 @@
 ---
 title: "Effect: Aura of Growth"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Aura of Growth"
 foundryId: Compendium.pf2e.bestiary-effects.Item.PR0YzItS9R60X3Zc

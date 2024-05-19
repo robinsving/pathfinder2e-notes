@@ -1,5 +1,6 @@
 ---
 title: "Effect: Predictable!"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Predictable!"
 foundryId: Compendium.pf2e.feat-effects.Item.5v0ndPPMfZwhiVZF

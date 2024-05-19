@@ -1,5 +1,6 @@
 ---
 title: "Wilding Steward"
+draft: true
 noteType: ":luggage:"
 aliases: "Wilding Steward"
 foundryId: Item.2zhqXPTu4DDNDM4k

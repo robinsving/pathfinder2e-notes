@@ -1,5 +1,6 @@
 ---
 title: "Cleric"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Cleric"
 foundryId: Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.N4ABcd6CcCbqmw3x

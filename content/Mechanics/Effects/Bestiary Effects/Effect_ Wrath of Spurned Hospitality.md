@@ -1,5 +1,6 @@
 ---
 title: "Effect: Wrath of Spurned Hospitality"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Wrath of Spurned Hospitality"
 foundryId: Compendium.pf2e.bestiary-effects.Item.he0QiJSgJWNeIoxt

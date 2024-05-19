@@ -1,5 +1,6 @@
 ---
 title: "Living Vessel"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Living Vessel"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.LgkfmZnFP3TWtkuy

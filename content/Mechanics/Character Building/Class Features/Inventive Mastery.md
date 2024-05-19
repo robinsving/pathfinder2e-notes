@@ -1,5 +1,6 @@
 ---
 title: "Inventive Mastery"
+draft: true
 noteType: ":luggage:"
 aliases: "Inventive Mastery"
 foundryId: Item.xFHgQC5mO19ZY79q

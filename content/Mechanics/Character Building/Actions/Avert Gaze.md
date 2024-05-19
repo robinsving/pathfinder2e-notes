@@ -1,5 +1,6 @@
 ---
 title: "Avert Gaze"
+draft: true
 noteType: ":luggage:"
 aliases: "Avert Gaze"
 foundryId: Item.gWnAMO04MS4ysNWT

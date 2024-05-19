@@ -1,5 +1,6 @@
 ---
 title: "Fire in the Hole"
+draft: true
 noteType: ":luggage:"
 aliases: "Fire in the Hole"
 foundryId: Item.h2n9v8XR0ujFyQTc

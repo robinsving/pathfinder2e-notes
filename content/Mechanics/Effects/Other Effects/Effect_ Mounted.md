@@ -1,5 +1,6 @@
 ---
 title: "Effect: Mounted"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Mounted"
 foundryId: Compendium.pf2e.other-effects.Item.9c93NfZpENofiGUp

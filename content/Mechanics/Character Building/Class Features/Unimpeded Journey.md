@@ -1,5 +1,6 @@
 ---
 title: Unimpeded Journey
+draft: true
 noteType: ":luggage:"
 aliases:
   - Unimpeded Journey

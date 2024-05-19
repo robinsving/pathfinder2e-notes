@@ -1,5 +1,6 @@
 ---
 title: "Heavy Construction"
+draft: true
 noteType: ":luggage:"
 aliases: "Heavy Construction"
 foundryId: Item.aHw9QWNUOk80aqSs

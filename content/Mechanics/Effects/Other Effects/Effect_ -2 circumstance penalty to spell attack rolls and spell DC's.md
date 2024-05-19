@@ -1,5 +1,6 @@
 ---
 title: "Effect: -2 circumstance penalty to spell attack rolls and spell DC's"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: -2 circumstance penalty to spell attack rolls and spell DC's"
 foundryId: Compendium.pf2e.other-effects.Item.BjkhK1nFUw3vNKg2

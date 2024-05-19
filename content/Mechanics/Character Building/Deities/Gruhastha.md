@@ -1,5 +1,6 @@
 ---
 title: "Gruhastha"
+draft: true
 noteType: ":luggage:"
 aliases: "Gruhastha"
 foundryId: Item.VlS0s8FmhvGPQSse

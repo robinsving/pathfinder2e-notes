@@ -1,5 +1,6 @@
 ---
 title: "Effect: Gird in Prayer"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Gird in Prayer"
 foundryId: Compendium.pf2e.bestiary-effects.Item.VLOvyQiZKeXppS2L

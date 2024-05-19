@@ -1,5 +1,6 @@
 ---
 title: "Effect: Fortune's Favor"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Fortune's Favor"
 foundryId: Compendium.pf2e.bestiary-effects.Item.yQd2Yoht8libCMCv

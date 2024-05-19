@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Incendiary Ashes (Failure)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Incendiary Ashes (Failure)"
 foundryId: Compendium.pf2e.spell-effects.Item.TrmNSuv6zWEiceqn

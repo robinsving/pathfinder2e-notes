@@ -1,5 +1,6 @@
 ---
 title: "Faith's Flamekeeper"
+draft: true
 noteType: ":luggage:"
 aliases: "Faith's Flamekeeper"
 foundryId: Item.6jeUBeM24SgUfVKZ

@@ -1,5 +1,6 @@
 ---
 title: "Treat Poison"
+draft: true
 noteType: ":luggage:"
 aliases: "Treat Poison"
 foundryId: Item.eSNL4NktqQnKidfh

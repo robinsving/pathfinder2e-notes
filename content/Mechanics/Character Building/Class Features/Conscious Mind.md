@@ -1,5 +1,6 @@
 ---
 title: "Conscious Mind"
+draft: true
 noteType: ":luggage:"
 aliases: "Conscious Mind"
 foundryId: Item.AIbzyekrTpYNtB4H

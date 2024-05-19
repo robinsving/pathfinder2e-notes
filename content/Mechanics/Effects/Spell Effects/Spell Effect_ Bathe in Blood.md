@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Bathe in Blood"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Bathe in Blood"
 foundryId: Compendium.pf2e.spell-effects.Item.kMoOWWBqDYmPcYyS

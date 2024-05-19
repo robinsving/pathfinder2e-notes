@@ -1,5 +1,6 @@
 ---
 title: "Effect: Wolf Shape"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Wolf Shape"
 foundryId: Compendium.pf2e.bestiary-effects.Item.o6ZI01zZBQDASuaw

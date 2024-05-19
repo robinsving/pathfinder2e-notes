@@ -1,5 +1,6 @@
 ---
 title: "Effect: Blood Fury"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Blood Fury"
 foundryId: Compendium.pf2e.bestiary-effects.Item.LOLoQpaAp5cC0hbm

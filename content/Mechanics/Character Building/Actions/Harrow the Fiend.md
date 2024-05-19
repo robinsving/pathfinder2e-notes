@@ -1,5 +1,6 @@
 ---
 title: "Harrow the Fiend"
+draft: true
 noteType: ":luggage:"
 aliases: "Harrow the Fiend"
 foundryId: Item.fl8JU5yJV0Ustle5

@@ -1,5 +1,6 @@
 ---
 title: "Rigger"
+draft: true
 noteType: ":luggage:"
 aliases: "Rigger"
 foundryId: Item.q4jyZ65Hy8AT8GpU

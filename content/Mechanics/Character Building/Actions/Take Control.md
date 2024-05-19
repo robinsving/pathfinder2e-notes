@@ -1,5 +1,6 @@
 ---
 title: "Take Control"
+draft: true
 noteType: ":luggage:"
 aliases: "Take Control"
 foundryId: Item.5RE7v4GZAECSHTIN

@@ -1,5 +1,6 @@
 ---
 title: "Calculate Threats"
+draft: true
 noteType: ":luggage:"
 aliases: "Calculate Threats"
 foundryId: Item.fgRxngGqp3xkhHKV

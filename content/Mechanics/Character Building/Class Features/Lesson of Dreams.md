@@ -1,5 +1,6 @@
 ---
 title: "Lesson of Dreams"
+draft: true
 noteType: ":luggage:"
 aliases: "Lesson of Dreams"
 foundryId: Item.k6dNRU1nlqKeafDA

@@ -1,5 +1,6 @@
 ---
 title: "Primal Hierophant"
+draft: true
 noteType: ":luggage:"
 aliases: "Primal Hierophant"
 foundryId: Item.uyDkfmLRvVUuxd1C

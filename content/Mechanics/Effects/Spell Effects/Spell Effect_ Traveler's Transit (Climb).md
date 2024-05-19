@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Traveler's Transit (Climb)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Traveler's Transit (Climb)"
 foundryId: Compendium.pf2e.spell-effects.Item.N1EM3jRyT8PCG1Py

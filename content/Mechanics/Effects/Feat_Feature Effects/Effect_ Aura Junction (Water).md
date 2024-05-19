@@ -1,5 +1,6 @@
 ---
 title: "Effect: Aura Junction (Water)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Aura Junction (Water)"
 foundryId: Compendium.pf2e.feat-effects.Item.s8LMK2zCQgUT3HoY

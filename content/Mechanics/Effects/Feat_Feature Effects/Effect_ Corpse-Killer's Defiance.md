@@ -1,5 +1,6 @@
 ---
 title: "Effect: Corpse-Killer's Defiance"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Corpse-Killer's Defiance"
 foundryId: Compendium.pf2e.feat-effects.Item.3WzaQKb10AYLdTsQ

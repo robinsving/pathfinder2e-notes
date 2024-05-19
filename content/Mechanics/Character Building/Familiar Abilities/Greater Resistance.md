@@ -1,5 +1,6 @@
 ---
 title: "Greater Resistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Resistance"
 foundryId: Item.TbcFDTVc11dvtXi9

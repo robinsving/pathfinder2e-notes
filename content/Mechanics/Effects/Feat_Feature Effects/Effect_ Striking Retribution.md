@@ -1,5 +1,6 @@
 ---
 title: "Effect: Striking Retribution"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Striking Retribution"
 foundryId: Compendium.pf2e.feat-effects.Item.EzgW32MCOGov9h5C

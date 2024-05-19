@@ -1,5 +1,6 @@
 ---
 title: "Effect: Cat Sith's Mark"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Cat Sith's Mark"
 foundryId: Compendium.pf2e.bestiary-effects.Item.zTrZozbWDd1A5L5S

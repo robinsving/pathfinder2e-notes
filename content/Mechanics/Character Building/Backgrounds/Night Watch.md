@@ -1,5 +1,6 @@
 ---
 title: "Night Watch"
+draft: true
 noteType: ":luggage:"
 aliases: "Night Watch"
 foundryId: Item.jpuLQjv4La28ZPX5

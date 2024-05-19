@@ -1,5 +1,6 @@
 ---
 title: "Shake It Off"
+draft: true
 noteType: ":luggage:"
 aliases: "Shake It Off"
 foundryId: Item.dlnKce8sdZH6ZPTP

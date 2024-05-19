@@ -1,5 +1,6 @@
 ---
 title: "Effect: Fed by Wood"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Fed by Wood"
 foundryId: Compendium.pf2e.bestiary-effects.Item.4FMFRlEC923CnLI7

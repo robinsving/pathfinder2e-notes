@@ -1,5 +1,6 @@
 ---
 title: "Food Trader"
+draft: true
 noteType: ":luggage:"
 aliases: "Food Trader"
 foundryId: Item.hue7bElZX13almOW

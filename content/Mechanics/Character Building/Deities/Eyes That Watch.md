@@ -1,5 +1,6 @@
 ---
 title: "Eyes That Watch"
+draft: true
 noteType: ":luggage:"
 aliases: "Eyes That Watch"
 foundryId: Item.R5nBHbvI3s0UWdXq

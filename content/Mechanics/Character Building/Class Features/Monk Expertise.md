@@ -1,5 +1,6 @@
 ---
 title: "Monk Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Monk Expertise"
 foundryId: Item.vLbySvqnBuTKvv7b

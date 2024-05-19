@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Summoner's Visage"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Summoner's Visage"
 foundryId: Compendium.pf2e.spell-effects.Item.0OC945wcZ4H4akLz

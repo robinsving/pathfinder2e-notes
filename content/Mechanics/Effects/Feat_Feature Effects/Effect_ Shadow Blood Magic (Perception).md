@@ -1,5 +1,6 @@
 ---
 title: "Effect: Shadow Blood Magic (Perception)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Shadow Blood Magic (Perception)"
 foundryId: Compendium.pf2e.feat-effects.Item.Nv70aqcQgCBpDYp8

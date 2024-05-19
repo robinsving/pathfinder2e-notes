@@ -1,5 +1,6 @@
 ---
 title: "Effect: Bespell Strikes"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Bespell Strikes"
 foundryId: Compendium.pf2e.feat-effects.Item.lPtt7PojWBwPOaYt

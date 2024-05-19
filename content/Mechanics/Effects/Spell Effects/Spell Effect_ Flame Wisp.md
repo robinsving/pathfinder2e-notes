@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Flame Wisp"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Flame Wisp"
 foundryId: Compendium.pf2e.spell-effects.Item.ei9MIyZbIaP4AZmh

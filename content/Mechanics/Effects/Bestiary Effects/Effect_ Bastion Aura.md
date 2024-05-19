@@ -1,5 +1,6 @@
 ---
 title: "Effect: Bastion Aura"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Bastion Aura"
 foundryId: Compendium.pf2e.bestiary-effects.Item.4tGVIEqwH4TQoF0O

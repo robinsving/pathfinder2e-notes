@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Light"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Light"
 foundryId: Compendium.pf2e.spell-effects.Item.cVVZXNbV0nElVOPZ

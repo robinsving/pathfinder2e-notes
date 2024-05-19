@@ -1,5 +1,6 @@
 ---
 title: "Effect: Despoiler"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Despoiler"
 foundryId: Compendium.pf2e.bestiary-effects.Item.itdoXvcDo8wwmTME

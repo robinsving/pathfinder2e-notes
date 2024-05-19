@@ -1,5 +1,6 @@
 ---
 title: "Shared Vigilance"
+draft: true
 noteType: ":luggage:"
 aliases: "Shared Vigilance"
 foundryId: Item.OcZhVjsLRqgo2dFC

@@ -1,5 +1,6 @@
 ---
 title: "Spellmaster"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Spellmaster"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.O7fKfFxCx3e1YasX

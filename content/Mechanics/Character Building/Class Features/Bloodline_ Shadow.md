@@ -1,5 +1,6 @@
 ---
 title: "Bloodline: Shadow"
+draft: true
 noteType: ":luggage:"
 aliases: "Bloodline: Shadow"
 foundryId: Item.694bgq4ln7Mef7ue

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Deep Sight"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Deep Sight"
 foundryId: Compendium.pf2e.spell-effects.Item.UAiaJYUDLtLToRUU

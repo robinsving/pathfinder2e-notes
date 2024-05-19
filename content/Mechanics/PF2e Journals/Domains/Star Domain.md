@@ -1,5 +1,6 @@
 ---
 title: "Star Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Star Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.6bDpXy7pQdGrd2og

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Rotting Stench"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Rotting Stench"
 foundryId: Compendium.pf2e.bestiary-effects.Item.xXfzzNaBOqDUbYBD

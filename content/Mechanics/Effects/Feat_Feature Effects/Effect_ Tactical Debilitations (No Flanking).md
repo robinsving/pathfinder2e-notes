@@ -1,5 +1,6 @@
 ---
 title: "Effect: Tactical Debilitations (No Flanking)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Tactical Debilitations (No Flanking)"
 foundryId: Compendium.pf2e.feat-effects.Item.JUgx48XHMz4QM4Ir

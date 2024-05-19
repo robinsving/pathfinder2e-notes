@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Object Memory (Weapon)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Object Memory (Weapon)"
 foundryId: Compendium.pf2e.spell-effects.Item.uDOxq24S7IT2EcXv

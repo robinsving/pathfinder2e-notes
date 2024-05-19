@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Shillelagh"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Shillelagh"
 foundryId: Compendium.pf2e.spell-effects.Item.deG1dtfuQph03Kkg

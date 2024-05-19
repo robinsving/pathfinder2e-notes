@@ -1,5 +1,6 @@
 ---
 title: "Effect: Consume Energy (Augment Strike)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Consume Energy (Augment Strike)"
 foundryId: Compendium.pf2e.feat-effects.Item.eMsI1lR0SuJBCYjn

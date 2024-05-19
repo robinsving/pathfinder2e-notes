@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Angel Form (Movanic Deva)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Angel Form (Movanic Deva)"
 foundryId: Compendium.pf2e.spell-effects.Item.Bd86oAvK3RLN076H

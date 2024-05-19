@@ -1,5 +1,6 @@
 ---
 title: "Osiris"
+draft: true
 noteType: ":luggage:"
 aliases: "Osiris"
 foundryId: Item.qVYnicoMhGmizg8Z

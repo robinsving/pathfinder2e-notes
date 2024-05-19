@@ -1,5 +1,6 @@
 ---
 title: "Effect: Ganzi Resistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Ganzi Resistance"
 foundryId: Compendium.pf2e.bestiary-effects.Item.PFeGCDFOo2AjI6ib

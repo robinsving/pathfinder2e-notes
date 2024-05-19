@@ -1,5 +1,6 @@
 ---
 title: "Clear a Path"
+draft: true
 noteType: ":luggage:"
 aliases: "Clear a Path"
 foundryId: Item.FjtzzOxwXEHlphzZ

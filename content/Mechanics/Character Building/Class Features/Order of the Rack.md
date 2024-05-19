@@ -1,5 +1,6 @@
 ---
 title: "Order of the Rack"
+draft: true
 noteType: ":luggage:"
 aliases: "Order of the Rack"
 foundryId: Item.0MYvIFhUOyLtzmg6

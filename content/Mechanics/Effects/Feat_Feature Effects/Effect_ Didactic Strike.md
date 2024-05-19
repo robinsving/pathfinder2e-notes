@@ -1,5 +1,6 @@
 ---
 title: "Effect: Didactic Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Didactic Strike"
 foundryId: Compendium.pf2e.feat-effects.Item.72THfaqak0F4XnON

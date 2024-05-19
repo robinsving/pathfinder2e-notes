@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Hyperfocus"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Hyperfocus"
 foundryId: Compendium.pf2e.spell-effects.Item.qQLHPbUFASKFky1W

@@ -1,5 +1,6 @@
 ---
 title: "Shielded Fortune"
+draft: true
 noteType: ":luggage:"
 aliases: "Shielded Fortune"
 foundryId: Item.Nz6AUobAxQNA6ojB

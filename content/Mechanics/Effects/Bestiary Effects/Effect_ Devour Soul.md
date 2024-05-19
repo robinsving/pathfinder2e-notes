@@ -1,5 +1,6 @@
 ---
 title: "Effect: Devour Soul"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Devour Soul"
 foundryId: Compendium.pf2e.bestiary-effects.Item.QpG9AaYpXJzDEjZA

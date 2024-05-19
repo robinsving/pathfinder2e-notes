@@ -1,5 +1,6 @@
 ---
 title: "De-Animating Gestures (False)"
+draft: true
 noteType: ":luggage:"
 aliases: "De-Animating Gestures (False)"
 foundryId: Item.N8K2veWNriHGBwwL

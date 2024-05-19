@@ -1,5 +1,6 @@
 ---
 title: "Amnesiac"
+draft: true
 noteType: ":luggage:"
 aliases: "Amnesiac"
 foundryId: Item.pSzF7OlKmUiqa4kc

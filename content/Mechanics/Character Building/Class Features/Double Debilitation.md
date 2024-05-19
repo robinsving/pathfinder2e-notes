@@ -1,5 +1,6 @@
 ---
 title: "Double Debilitation"
+draft: true
 noteType: ":luggage:"
 aliases: "Double Debilitation"
 foundryId: Item.gISivE83ubvMmhvj

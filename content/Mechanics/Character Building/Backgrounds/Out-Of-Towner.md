@@ -1,5 +1,6 @@
 ---
 title: "Out-Of-Towner"
+draft: true
 noteType: ":luggage:"
 aliases: "Out-Of-Towner"
 foundryId: Item.4SnboU3EffcgbiYA

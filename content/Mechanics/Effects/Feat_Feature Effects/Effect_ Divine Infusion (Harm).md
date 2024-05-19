@@ -1,5 +1,6 @@
 ---
 title: "Effect: Divine Infusion (Harm)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Divine Infusion (Harm)"
 foundryId: Compendium.pf2e.feat-effects.Item.bIU1q05vzkKBtFj2

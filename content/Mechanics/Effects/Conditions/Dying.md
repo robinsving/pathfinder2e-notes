@@ -1,5 +1,6 @@
 ---
 title: Dying
+draft: true
 noteType: ":luggage:"
 aliases:
   - Dying 1

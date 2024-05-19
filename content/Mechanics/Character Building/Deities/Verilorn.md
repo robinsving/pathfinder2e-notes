@@ -1,5 +1,6 @@
 ---
 title: "Verilorn"
+draft: true
 noteType: ":luggage:"
 aliases: "Verilorn"
 foundryId: Item.V9p2Nb4cEwh9HgL0

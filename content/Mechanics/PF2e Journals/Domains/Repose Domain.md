@@ -1,5 +1,6 @@
 ---
 title: "Repose Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Repose Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.CbsAiY68e8n5vVVN

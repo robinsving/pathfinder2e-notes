@@ -1,5 +1,6 @@
 ---
 title: "Effect: Parry Dance"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Parry Dance"
 foundryId: Compendium.pf2e.bestiary-effects.Item.itVZwwvaXYN2zOR8

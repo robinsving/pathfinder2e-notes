@@ -1,5 +1,6 @@
 ---
 title: "Bribe Contact"
+draft: true
 noteType: ":luggage:"
 aliases: "Bribe Contact"
 foundryId: Item.mmcNlbhwjE34d96g

@@ -1,5 +1,6 @@
 ---
 title: "Strix"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Strix"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.N8aShsDuf3ur0vZ2

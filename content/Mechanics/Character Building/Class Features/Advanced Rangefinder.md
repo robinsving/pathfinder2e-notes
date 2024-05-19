@@ -1,5 +1,6 @@
 ---
 title: "Advanced Rangefinder"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Rangefinder"
 foundryId: Item.wNnVMNhOP1a1m3Dm

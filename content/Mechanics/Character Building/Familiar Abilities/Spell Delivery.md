@@ -1,5 +1,6 @@
 ---
 title: "Spell Delivery"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Delivery"
 foundryId: Item.dSqQN0GLieDriIbP

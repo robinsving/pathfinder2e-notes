@@ -1,5 +1,6 @@
 ---
 title: "Undetected"
+draft: true
 noteType: ":luggage:"
 aliases: "Undetected"
 foundryId: Item.DN5V3gRO1fcpvftS

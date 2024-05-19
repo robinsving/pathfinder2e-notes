@@ -1,5 +1,6 @@
 ---
 title: "Effect: Watchful Gaze"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Watchful Gaze"
 foundryId: Compendium.pf2e.feat-effects.Item.a7qiSYdlaIRPe57i

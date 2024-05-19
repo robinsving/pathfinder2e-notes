@@ -1,5 +1,6 @@
 ---
 title: "Compose Missive"
+draft: true
 noteType: ":luggage:"
 aliases: "Compose Missive"
 foundryId: Item.UtSTVBen7wE0EozL

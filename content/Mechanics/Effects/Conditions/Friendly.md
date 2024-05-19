@@ -1,5 +1,6 @@
 ---
 title: "Friendly"
+draft: true
 noteType: ":luggage:"
 aliases: "Friendly"
 foundryId: Item.KgHRfbpH0Naou46i

@@ -1,5 +1,6 @@
 ---
 title: "Fight with Fear"
+draft: true
 noteType: ":luggage:"
 aliases: "Fight with Fear"
 foundryId: Item.CTQ5YLcgOFfkaJTq

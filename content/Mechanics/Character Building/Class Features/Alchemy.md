@@ -1,5 +1,6 @@
 ---
 title: "Alchemy"
+draft: true
 noteType: ":luggage:"
 aliases: "Alchemy"
 foundryId: Item.syWJf1OjMkn9tAkx

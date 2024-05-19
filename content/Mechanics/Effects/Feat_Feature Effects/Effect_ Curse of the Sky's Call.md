@@ -1,5 +1,6 @@
 ---
 title: "Effect: Curse of the Sky's Call"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Curse of the Sky's Call"
 foundryId: Compendium.pf2e.feat-effects.Item.rwDsr5XsrYcH7oFT

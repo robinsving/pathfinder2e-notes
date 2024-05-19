@@ -1,5 +1,6 @@
 ---
 title: "Spinner of Threads"
+draft: true
 noteType: ":luggage:"
 aliases: "Spinner of Threads"
 foundryId: Item.mxixiY8IF7nanAw6

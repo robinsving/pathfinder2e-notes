@@ -1,5 +1,6 @@
 ---
 title: "Shared Resolve"
+draft: true
 noteType: ":luggage:"
 aliases: "Shared Resolve"
 foundryId: Item.C4I38PmhpCUu6tAR

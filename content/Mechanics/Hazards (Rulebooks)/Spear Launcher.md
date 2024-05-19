@@ -1,5 +1,6 @@
 ---
 title: Spear Launcher
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

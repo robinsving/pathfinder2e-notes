@@ -1,5 +1,6 @@
 ---
 title: "Kinetic Quickness"
+draft: true
 noteType: ":luggage:"
 aliases: "Kinetic Quickness"
 foundryId: Item.SsMLef1ij5X9KnFy

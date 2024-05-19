@@ -1,5 +1,6 @@
 ---
 title: "Aerodynamic Construction"
+draft: true
 noteType: ":luggage:"
 aliases: "Aerodynamic Construction"
 foundryId: Item.667iPqRdSOCUGEQP

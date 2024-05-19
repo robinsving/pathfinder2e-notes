@@ -1,5 +1,6 @@
 ---
 title: "Effect: Rage"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Rage"
 foundryId: Compendium.pf2e.feat-effects.Item.z3uyCMBddrPK5umr

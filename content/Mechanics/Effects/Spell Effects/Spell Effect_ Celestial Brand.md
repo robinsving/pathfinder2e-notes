@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Celestial Brand"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Celestial Brand"
 foundryId: Compendium.pf2e.spell-effects.Item.A61eVVVyUuaUl3tz

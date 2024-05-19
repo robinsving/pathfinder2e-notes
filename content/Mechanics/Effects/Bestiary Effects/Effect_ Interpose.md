@@ -1,5 +1,6 @@
 ---
 title: "Effect: Interpose"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Interpose"
 foundryId: Compendium.pf2e.bestiary-effects.Item.7PjBr9LsVB0Jjzyu

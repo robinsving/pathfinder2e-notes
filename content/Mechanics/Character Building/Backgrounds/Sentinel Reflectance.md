@@ -1,5 +1,6 @@
 ---
 title: "Sentinel Reflectance"
+draft: true
 noteType: ":luggage:"
 aliases: "Sentinel Reflectance"
 foundryId: Item.KWdEVHmqzJf9Ghkv

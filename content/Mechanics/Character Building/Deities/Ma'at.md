@@ -1,5 +1,6 @@
 ---
 title: "Ma'at"
+draft: true
 noteType: ":luggage:"
 aliases: "Ma'at"
 foundryId: Item.2w5fWvcaUtRzNA8W

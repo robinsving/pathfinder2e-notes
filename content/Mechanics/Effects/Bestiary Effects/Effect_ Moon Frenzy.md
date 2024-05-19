@@ -1,5 +1,6 @@
 ---
 title: "Effect: Moon Frenzy"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Moon Frenzy"
 foundryId: Compendium.pf2e.bestiary-effects.Item.dRe8n1nBWMIXd8jh

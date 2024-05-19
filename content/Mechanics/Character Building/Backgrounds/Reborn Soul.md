@@ -1,5 +1,6 @@
 ---
 title: "Reborn Soul"
+draft: true
 noteType: ":luggage:"
 aliases: "Reborn Soul"
 foundryId: Item.qZGDQaU8eAHxVTvI

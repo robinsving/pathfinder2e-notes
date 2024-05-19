@@ -1,5 +1,6 @@
 ---
 title: "Blood Feast"
+draft: true
 noteType: ":luggage:"
 aliases: "Blood Feast"
 foundryId: Item.kfpIsPTwJr7BEpFl

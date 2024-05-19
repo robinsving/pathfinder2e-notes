@@ -1,5 +1,6 @@
 ---
 title: "Major Childhood Event"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Major Childhood Event"
 foundryId: Compendium.pf2e.journals.JournalEntry.xtrW5GEtPPuXR6k2.JournalEntryPage.IQ56rAleMRc53Lcv

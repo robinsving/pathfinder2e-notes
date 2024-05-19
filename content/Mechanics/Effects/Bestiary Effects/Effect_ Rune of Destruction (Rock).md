@@ -1,5 +1,6 @@
 ---
 title: "Effect: Rune of Destruction (Rock)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Rune of Destruction (Rock)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.vbxcQIjLVWa43sdt

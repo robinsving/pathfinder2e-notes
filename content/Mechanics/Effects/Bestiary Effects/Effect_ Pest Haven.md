@@ -1,5 +1,6 @@
 ---
 title: "Effect: Pest Haven"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Pest Haven"
 foundryId: Compendium.pf2e.bestiary-effects.Item.CM14G9kLI97aIC5h

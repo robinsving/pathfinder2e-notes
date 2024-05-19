@@ -1,5 +1,6 @@
 ---
 title: "Deafened"
+draft: true
 noteType: ":luggage:"
 aliases: "Deafened"
 foundryId: Item.DXX3nDDwrQFcmuPM

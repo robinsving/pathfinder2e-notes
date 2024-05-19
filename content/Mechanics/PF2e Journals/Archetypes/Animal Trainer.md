@@ -1,5 +1,6 @@
 ---
 title: "Animal Trainer"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Animal Trainer"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.bL5cccuvnP5h7Bnn

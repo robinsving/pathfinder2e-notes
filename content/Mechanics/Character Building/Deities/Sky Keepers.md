@@ -1,5 +1,6 @@
 ---
 title: "Sky Keepers"
+draft: true
 noteType: ":luggage:"
 aliases: "Sky Keepers"
 foundryId: Item.0aXGkX9P6OhWlSqN

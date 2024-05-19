@@ -1,5 +1,6 @@
 ---
 title: "Ranger Weapon Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Ranger Weapon Expertise"
 foundryId: Item.5TgyxY165Eh7AUbg

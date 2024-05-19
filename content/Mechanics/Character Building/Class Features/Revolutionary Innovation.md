@@ -1,5 +1,6 @@
 ---
 title: "Revolutionary Innovation"
+draft: true
 noteType: ":luggage:"
 aliases: "Revolutionary Innovation"
 foundryId: Item.KsVAcTfA4RZljrzu

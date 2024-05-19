@@ -1,5 +1,6 @@
 ---
 title: "Might Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Might Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.MOVMHZU1SfkhNN1K

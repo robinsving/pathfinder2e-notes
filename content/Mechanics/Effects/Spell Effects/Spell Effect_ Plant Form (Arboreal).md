@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Plant Form (Arboreal)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Plant Form (Arboreal)"
 foundryId: Compendium.pf2e.spell-effects.Item.tu8FyCtmL3YYR2jL

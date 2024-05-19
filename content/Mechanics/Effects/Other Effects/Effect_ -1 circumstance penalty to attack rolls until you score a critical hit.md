@@ -1,5 +1,6 @@
 ---
 title: "Effect: -1 circumstance penalty to attack rolls until you score a critical hit"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: -1 circumstance penalty to attack rolls until you score a critical hit"
 foundryId: Compendium.pf2e.other-effects.Item.fqk0ESqJACXqz21k

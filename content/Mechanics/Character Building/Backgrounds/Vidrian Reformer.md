@@ -1,5 +1,6 @@
 ---
 title: "Vidrian Reformer"
+draft: true
 noteType: ":luggage:"
 aliases: "Vidrian Reformer"
 foundryId: Item.mUfJlcT62wod5UGx

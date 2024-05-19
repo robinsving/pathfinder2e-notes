@@ -1,5 +1,6 @@
 ---
 title: "Chohar"
+draft: true
 noteType: ":luggage:"
 aliases: "Chohar"
 foundryId: Item.viPAG2eEc1zvOrNz

@@ -1,5 +1,6 @@
 ---
 title: "Orc"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Orc"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.GCxhDyf1ZNlLiDKZ

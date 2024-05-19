@@ -1,5 +1,6 @@
 ---
 title: "Xhamen-Dor"
+draft: true
 noteType: ":luggage:"
 aliases: "Xhamen-Dor"
 foundryId: Item.q0EQyQ61iCegiEsS

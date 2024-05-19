@@ -1,5 +1,6 @@
 ---
 title: "Effect: Emblazon Antimagic (Weapon)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Emblazon Antimagic (Weapon)"
 foundryId: Compendium.pf2e.feat-effects.Item.RyGaB5hDRcOeb34Q

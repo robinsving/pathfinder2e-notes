@@ -1,5 +1,6 @@
 ---
 title: "Energy Emanation (Electricity)"
+draft: true
 noteType: ":luggage:"
 aliases: "Energy Emanation (Electricity)"
 foundryId: Item.aKHVu4dEgcgytQr0

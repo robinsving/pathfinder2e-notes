@@ -1,5 +1,6 @@
 ---
 title: "Mantis Scion"
+draft: true
 noteType: ":luggage:"
 aliases: "Mantis Scion"
 foundryId: Item.GF3nvoqmffCS5uVQ

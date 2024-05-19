@@ -1,5 +1,6 @@
 ---
 title: "Difficulty Classes"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Difficulty Classes"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.dRu66xNqJ9Ihe1or

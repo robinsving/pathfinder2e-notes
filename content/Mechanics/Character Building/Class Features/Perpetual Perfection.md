@@ -1,5 +1,6 @@
 ---
 title: "Perpetual Perfection"
+draft: true
 noteType: ":luggage:"
 aliases: "Perpetual Perfection"
 foundryId: Item.zjSEs7XMlAzPtRmq

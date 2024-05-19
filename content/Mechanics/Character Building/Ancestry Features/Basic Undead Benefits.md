@@ -1,5 +1,6 @@
 ---
 title: "Basic Undead Benefits"
+draft: true
 noteType: ":luggage:"
 aliases: "Basic Undead Benefits"
 foundryId: Item.f2iVb0Yuio0qPsJr

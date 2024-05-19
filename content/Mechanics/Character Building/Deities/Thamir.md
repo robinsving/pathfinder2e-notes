@@ -1,5 +1,6 @@
 ---
 title: "Thamir"
+draft: true
 noteType: ":luggage:"
 aliases: "Thamir"
 foundryId: Item.A36CuwiHEEnE7DLh

@@ -1,5 +1,6 @@
 ---
 title: "Stance: Crane Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Crane Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.nwkYZs6YwXYAJ4ps

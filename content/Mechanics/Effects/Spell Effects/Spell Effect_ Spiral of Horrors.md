@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Spiral of Horrors"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Spiral of Horrors"
 foundryId: Compendium.pf2e.spell-effects.Item.ubHqpJwUwygkc2dR

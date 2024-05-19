@@ -1,5 +1,6 @@
 ---
 title: "Mighty Rage"
+draft: true
 noteType: ":luggage:"
 aliases: "Mighty Rage"
 foundryId: Item.qjZalnPXiYmcZ0Sp

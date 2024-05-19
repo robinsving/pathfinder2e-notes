@@ -1,5 +1,6 @@
 ---
 title: "Goblin"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Goblin"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.Gn0XGCWDb0N4zLE0

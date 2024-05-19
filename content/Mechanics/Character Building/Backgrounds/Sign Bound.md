@@ -1,5 +1,6 @@
 ---
 title: "Sign Bound"
+draft: true
 noteType: ":luggage:"
 aliases: "Sign Bound"
 foundryId: Item.OrBFftuXVuOVzZ0c

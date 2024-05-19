@@ -1,5 +1,6 @@
 ---
 title: "Effect: Selfish Shield"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Selfish Shield"
 foundryId: Compendium.pf2e.feat-effects.Item.h6nyMp4dtPXBfCJc

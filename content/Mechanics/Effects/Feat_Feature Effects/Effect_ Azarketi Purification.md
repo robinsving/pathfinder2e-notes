@@ -1,5 +1,6 @@
 ---
 title: "Effect: Azarketi Purification"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Azarketi Purification"
 foundryId: Compendium.pf2e.feat-effects.Item.8rDbWcWmQL0N5FFG

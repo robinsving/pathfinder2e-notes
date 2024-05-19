@@ -1,5 +1,6 @@
 ---
 title: "Refugee (Fall of Plaguestone)"
+draft: true
 noteType: ":luggage:"
 aliases: "Refugee (Fall of Plaguestone)"
 foundryId: Item.cvGPQRW48vT1iykm

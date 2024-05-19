@@ -1,5 +1,6 @@
 ---
 title: "Champion Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Champion Expertise"
 foundryId: Item.UgZUDjhAlREdzipF

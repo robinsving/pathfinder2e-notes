@@ -1,5 +1,6 @@
 ---
 title: "Cyth-V'sug"
+draft: true
 noteType: ":luggage:"
 aliases: "Cyth-V'sug"
 foundryId: Item.JEH1kNHf4ep2MapR

@@ -1,5 +1,6 @@
 ---
 title: "Weapon Fury"
+draft: true
 noteType: ":luggage:"
 aliases: "Weapon Fury"
 foundryId: Item.fg4vVXhtfXq35GOx

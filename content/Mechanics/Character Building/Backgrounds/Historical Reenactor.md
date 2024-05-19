@@ -1,5 +1,6 @@
 ---
 title: "Historical Reenactor"
+draft: true
 noteType: ":luggage:"
 aliases: "Historical Reenactor"
 foundryId: Item.fo6nnoGdoNoDCN0V

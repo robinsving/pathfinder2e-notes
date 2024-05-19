@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Frostbite"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Frostbite"
 foundryId: Compendium.pf2e.spell-effects.Item.DdqWMj7cuf4S1bgr

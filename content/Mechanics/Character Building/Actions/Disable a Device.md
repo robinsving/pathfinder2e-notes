@@ -1,5 +1,6 @@
 ---
 title: Disable a Device
+draft: true
 noteType: ":luggage:"
 aliases:
   - Disable a Device

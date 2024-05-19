@@ -1,5 +1,6 @@
 ---
 title: "Effect: Guide's Warning"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Guide's Warning"
 foundryId: Compendium.pf2e.bestiary-effects.Item.UiISDbCjK6AUDsll

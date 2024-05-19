@@ -1,5 +1,6 @@
 ---
 title: "Effect: Starlight Armor"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Starlight Armor"
 foundryId: Compendium.pf2e.feat-effects.Item.Y96a1OedsU8PVf7z

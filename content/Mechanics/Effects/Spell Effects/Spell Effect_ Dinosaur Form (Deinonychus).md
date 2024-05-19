@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Dinosaur Form (Deinonychus)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Dinosaur Form (Deinonychus)"
 foundryId: Compendium.pf2e.spell-effects.Item.oJbcmpBSHwmx6FD4

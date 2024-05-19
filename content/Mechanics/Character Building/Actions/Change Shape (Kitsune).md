@@ -1,5 +1,6 @@
 ---
 title: "Change Shape (Kitsune)"
+draft: true
 noteType: ":luggage:"
 aliases: "Change Shape (Kitsune)"
 foundryId: Item.W5WBQyNwu4rPRLtV

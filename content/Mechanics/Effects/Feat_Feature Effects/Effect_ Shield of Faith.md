@@ -1,5 +1,6 @@
 ---
 title: "Effect: Shield of Faith"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Shield of Faith"
 foundryId: Compendium.pf2e.feat-effects.Item.5uMMLUvJOEmfMgeV

@@ -1,5 +1,6 @@
 ---
 title: "Stance: Orchard's Endurance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Orchard's Endurance"
 foundryId: Compendium.pf2e.feat-effects.Item.YNoBbHUu7enOSKyv

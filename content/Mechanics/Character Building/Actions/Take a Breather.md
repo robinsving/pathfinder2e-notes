@@ -1,5 +1,6 @@
 ---
 title: "Take a Breather"
+draft: true
 noteType: ":luggage:"
 aliases: "Take a Breather"
 foundryId: Item.IweqkAhoNgsFRIDI

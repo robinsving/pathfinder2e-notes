@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Inscrutable Mask"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Inscrutable Mask"
 foundryId: Compendium.pf2e.spell-effects.Item.IcQMLYWYDMZbq3XE

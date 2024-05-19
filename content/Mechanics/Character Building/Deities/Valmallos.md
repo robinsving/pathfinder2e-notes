@@ -1,5 +1,6 @@
 ---
 title: "Valmallos"
+draft: true
 noteType: ":luggage:"
 aliases: "Valmallos"
 foundryId: Item.2TzMEBZ3h1Ldm5lz

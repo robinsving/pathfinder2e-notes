@@ -1,5 +1,6 @@
 ---
 title: "Mystic Seer"
+draft: true
 noteType: ":luggage:"
 aliases: "Mystic Seer"
 foundryId: Item.3reeMZKIz5LWsBhy

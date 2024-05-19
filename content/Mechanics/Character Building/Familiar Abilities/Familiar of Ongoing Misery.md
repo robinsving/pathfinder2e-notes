@@ -1,5 +1,6 @@
 ---
 title: "Familiar of Ongoing Misery"
+draft: true
 noteType: ":luggage:"
 aliases: "Familiar of Ongoing Misery"
 foundryId: Item.Hb5ajaywSkxHQWqW

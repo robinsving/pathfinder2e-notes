@@ -1,5 +1,6 @@
 ---
 title: "Quick Environmental Details"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Quick Environmental Details"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.3a9kFb9x9UXeLA1s

@@ -1,5 +1,6 @@
 ---
 title: "Whispering Way"
+draft: true
 noteType: ":luggage:"
 aliases: "Whispering Way"
 foundryId: Item.dNcawsSXnNzrAGLz

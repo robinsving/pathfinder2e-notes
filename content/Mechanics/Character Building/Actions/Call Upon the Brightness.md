@@ -1,5 +1,6 @@
 ---
 title: "Call Upon the Brightness"
+draft: true
 noteType: ":luggage:"
 aliases: "Call Upon the Brightness"
 foundryId: Item.m69bWddnoIlTC3cM

@@ -1,5 +1,6 @@
 ---
 title: "Trade Consortium Underling"
+draft: true
 noteType: ":luggage:"
 aliases: "Trade Consortium Underling"
 foundryId: Item.2aTEwnNj3n2gqVMz

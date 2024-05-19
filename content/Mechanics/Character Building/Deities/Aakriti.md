@@ -1,5 +1,6 @@
 ---
 title: "Aakriti"
+draft: true
 noteType: ":luggage:"
 aliases: "Aakriti"
 foundryId: Item.dox287ReN6T9rmz0

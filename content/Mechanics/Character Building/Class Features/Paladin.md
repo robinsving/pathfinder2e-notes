@@ -1,5 +1,6 @@
 ---
 title: "Paladin"
+draft: true
 noteType: ":luggage:"
 aliases: "Paladin"
 foundryId: Item.fUNuGekQIhJv540m

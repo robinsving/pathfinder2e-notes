@@ -1,5 +1,6 @@
 ---
 title: "Effect: Extreme stomach cramps"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Extreme stomach cramps"
 foundryId: Compendium.pf2e.campaign-effects.Item.Luti1qjFOKYwZio0

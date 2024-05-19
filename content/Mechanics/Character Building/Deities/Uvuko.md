@@ -1,5 +1,6 @@
 ---
 title: "Uvuko"
+draft: true
 noteType: ":luggage:"
 aliases: "Uvuko"
 foundryId: Item.MHTlRqK7rNfHVDui

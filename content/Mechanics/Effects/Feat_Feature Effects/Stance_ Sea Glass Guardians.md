@@ -1,5 +1,6 @@
 ---
 title: "Stance: Sea Glass Guardians"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Sea Glass Guardians"
 foundryId: Compendium.pf2e.feat-effects.Item.buCKRBDZi27shB3X

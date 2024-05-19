@@ -1,5 +1,6 @@
 ---
 title: "Effect: Harmonizing Aura (Enemies)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Harmonizing Aura (Enemies)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.tSF9z5VTeevxoww3

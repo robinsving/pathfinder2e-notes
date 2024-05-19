@@ -1,5 +1,6 @@
 ---
 title: "Effect: Heart Break"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Heart Break"
 foundryId: Compendium.pf2e.campaign-effects.Item.W8MD8WCjVC4pLlqn

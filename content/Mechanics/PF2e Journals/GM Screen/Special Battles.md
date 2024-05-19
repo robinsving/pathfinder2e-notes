@@ -1,5 +1,6 @@
 ---
 title: "Special Battles"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Special Battles"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.G1Rje9eYCFEByzjg

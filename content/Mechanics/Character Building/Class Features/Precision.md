@@ -1,5 +1,6 @@
 ---
 title: "Precision"
+draft: true
 noteType: ":luggage:"
 aliases: "Precision"
 foundryId: Item.41gHnfSMjwPg1PVI

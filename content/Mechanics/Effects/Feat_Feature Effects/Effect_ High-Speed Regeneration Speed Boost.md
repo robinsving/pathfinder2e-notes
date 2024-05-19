@@ -1,5 +1,6 @@
 ---
 title: "Effect: High-Speed Regeneration Speed Boost"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: High-Speed Regeneration Speed Boost"
 foundryId: Compendium.pf2e.feat-effects.Item.tx0S0fnfZ6Q2o80H

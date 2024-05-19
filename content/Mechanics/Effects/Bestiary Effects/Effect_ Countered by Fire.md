@@ -1,5 +1,6 @@
 ---
 title: "Effect: Countered by Fire"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Countered by Fire"
 foundryId: Compendium.pf2e.bestiary-effects.Item.a4bZrBNL17zPjDiH

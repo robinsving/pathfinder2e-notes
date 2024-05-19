@@ -1,5 +1,6 @@
 ---
 title: "Effect: Stink Sap"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Stink Sap"
 foundryId: Compendium.pf2e.bestiary-effects.Item.TcgvhgpUkJFjVqBx

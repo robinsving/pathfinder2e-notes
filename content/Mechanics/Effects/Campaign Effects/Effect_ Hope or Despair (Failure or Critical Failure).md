@@ -1,5 +1,6 @@
 ---
 title: "Effect: Hope or Despair (Failure or Critical Failure)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Hope or Despair (Failure or Critical Failure)"
 foundryId: Compendium.pf2e.campaign-effects.Item.Px7sSipQxHdOMSjk

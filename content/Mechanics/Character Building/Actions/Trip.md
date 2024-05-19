@@ -1,5 +1,6 @@
 ---
 title: "Trip"
+draft: true
 noteType: ":luggage:"
 aliases: "Trip"
 foundryId: Item.M9JfU1xmL3emdZX7

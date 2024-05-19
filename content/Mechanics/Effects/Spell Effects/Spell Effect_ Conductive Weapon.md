@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Conductive Weapon"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Conductive Weapon"
 foundryId: Compendium.pf2e.spell-effects.Item.WdXLgPashH5in5eB

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Precious Arrow"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Precious Arrow"
 foundryId: Compendium.pf2e.feat-effects.Item.KpEtIFwjj0ZrSVbD

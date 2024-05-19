@@ -1,5 +1,6 @@
 ---
 title: "Effect: Crocodile Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Crocodile Form"
 foundryId: Compendium.pf2e.bestiary-effects.Item.USMuxi8ACBJRUrdS

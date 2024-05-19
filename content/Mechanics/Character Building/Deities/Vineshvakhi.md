@@ -1,5 +1,6 @@
 ---
 title: "Vineshvakhi"
+draft: true
 noteType: ":luggage:"
 aliases: "Vineshvakhi"
 foundryId: Item.4ZUjPF93miVAK0kB

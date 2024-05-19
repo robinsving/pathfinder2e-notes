@@ -1,5 +1,6 @@
 ---
 title: "Constructed Body"
+draft: true
 noteType: ":luggage:"
 aliases: "Constructed Body"
 foundryId: Item.kWnpz2w3T2HSH4pU

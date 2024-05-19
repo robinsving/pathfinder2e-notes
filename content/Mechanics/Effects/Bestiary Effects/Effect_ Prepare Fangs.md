@@ -1,5 +1,6 @@
 ---
 title: "Effect: Prepare Fangs"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Prepare Fangs"
 foundryId: Compendium.pf2e.bestiary-effects.Item.HF2kOaqrjCkaZnK9

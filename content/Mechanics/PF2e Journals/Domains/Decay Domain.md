@@ -1,5 +1,6 @@
 ---
 title: "Decay Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Decay Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.cAxBEZsej32riaY5

@@ -1,5 +1,6 @@
 ---
 title: "Gnoll"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Gnoll"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.xBV8oGvecw7abZxc

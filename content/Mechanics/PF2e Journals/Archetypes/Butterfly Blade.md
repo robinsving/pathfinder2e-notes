@@ -1,5 +1,6 @@
 ---
 title: "Butterfly Blade"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Butterfly Blade"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.vKuJVojicBmNsL1C

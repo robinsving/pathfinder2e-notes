@@ -1,5 +1,6 @@
 ---
 title: "Effect: Sniping Duo Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Sniping Duo Dedication"
 foundryId: Compendium.pf2e.feat-effects.Item.zQHF2kkhZRAcrQvR

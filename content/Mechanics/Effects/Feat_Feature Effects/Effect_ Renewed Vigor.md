@@ -1,5 +1,6 @@
 ---
 title: "Effect: Renewed Vigor"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Renewed Vigor"
 foundryId: Compendium.pf2e.feat-effects.Item.jlZjUtrfcfIWumSe

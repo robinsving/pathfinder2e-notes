@@ -1,5 +1,6 @@
 ---
 title: "Firebrand Follower"
+draft: true
 noteType: ":luggage:"
 aliases: "Firebrand Follower"
 foundryId: Item.Ic29UvAlYkLrvjvX

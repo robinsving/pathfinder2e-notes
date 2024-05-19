@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Read the Air"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Read the Air"
 foundryId: Compendium.pf2e.spell-effects.Item.a3uZckqOY9zQWzZ2

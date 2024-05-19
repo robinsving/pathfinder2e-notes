@@ -1,5 +1,6 @@
 ---
 title: "Effect: Hope or Despair (Critical Success)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Hope or Despair (Critical Success)"
 foundryId: Compendium.pf2e.campaign-effects.Item.meTIFa2VsIzRVywE

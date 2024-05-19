@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Roar of the Wyrm"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Roar of the Wyrm"
 foundryId: Compendium.pf2e.spell-effects.Item.0s6YaL3IjqECmjab

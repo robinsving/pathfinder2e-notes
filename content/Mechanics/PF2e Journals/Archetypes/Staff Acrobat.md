@@ -1,5 +1,6 @@
 ---
 title: "Staff Acrobat"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Staff Acrobat"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.BRxlFHXu8tN14TDI

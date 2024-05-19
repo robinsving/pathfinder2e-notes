@@ -1,5 +1,6 @@
 ---
 title: "Photosynthesis"
+draft: true
 noteType: ":luggage:"
 aliases: "Photosynthesis"
 foundryId: Item.lMULosqV4yf6DMty

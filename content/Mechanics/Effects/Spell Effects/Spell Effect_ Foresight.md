@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Foresight"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Foresight"
 foundryId: Compendium.pf2e.spell-effects.Item.X9Na6IK8FSPcTuoc

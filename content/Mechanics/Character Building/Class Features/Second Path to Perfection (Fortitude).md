@@ -1,5 +1,6 @@
 ---
 title: "Second Path to Perfection (Fortitude)"
+draft: true
 noteType: ":luggage:"
 aliases: "Second Path to Perfection (Fortitude)"
 foundryId: Item.tsUKvKWmcEZm6ul3

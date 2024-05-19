@@ -1,5 +1,6 @@
 ---
 title: "Sorcerer"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Sorcerer"
 foundryId: Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.ixBx2wZpnf4qUoEv

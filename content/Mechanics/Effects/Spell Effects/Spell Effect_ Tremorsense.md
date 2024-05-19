@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Tremorsense"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Tremorsense"
 foundryId: Compendium.pf2e.spell-effects.Item.7cYUiOONB2lZfSaA

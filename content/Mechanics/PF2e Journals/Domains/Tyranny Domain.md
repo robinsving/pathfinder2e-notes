@@ -1,5 +1,6 @@
 ---
 title: "Tyranny Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Tyranny Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.T0JHj79aGphlZ4Mt

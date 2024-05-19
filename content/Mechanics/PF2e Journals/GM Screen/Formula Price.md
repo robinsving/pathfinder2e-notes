@@ -1,5 +1,6 @@
 ---
 title: "Formula Price"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Formula Price"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.iVY32tNvfS1tPYU2

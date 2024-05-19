@@ -1,5 +1,6 @@
 ---
 title: "Light Armor Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Light Armor Expertise"
 foundryId: Item.azcPGH3010q1USzB

@@ -1,5 +1,6 @@
 ---
 title: "Kobold"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Kobold"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.naQrTTE7CXu5lnNt

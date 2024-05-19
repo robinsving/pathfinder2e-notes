@@ -1,5 +1,6 @@
 ---
 title: "Effect: Deafened until end of your next turn"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Deafened until end of your next turn"
 foundryId: Compendium.pf2e.other-effects.Item.W2OF7VeLHqc7p3DO

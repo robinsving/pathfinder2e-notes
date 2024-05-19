@@ -1,5 +1,6 @@
 ---
 title: "Thrune Loyalist"
+draft: true
 noteType: ":luggage:"
 aliases: "Thrune Loyalist"
 foundryId: Item.FB6oCS7UEeBpaGqH

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Draconic Blood Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Draconic Blood Magic"
 foundryId: Compendium.pf2e.feat-effects.Item.FNTTeJHiK6iOjrSq

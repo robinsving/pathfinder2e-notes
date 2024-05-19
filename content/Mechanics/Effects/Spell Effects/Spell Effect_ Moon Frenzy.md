@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Moon Frenzy"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Moon Frenzy"
 foundryId: Compendium.pf2e.spell-effects.Item.zRKw95WMezr6TgiT

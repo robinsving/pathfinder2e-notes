@@ -1,5 +1,6 @@
 ---
 title: "Effect: Disturbing Vision"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Disturbing Vision"
 foundryId: Compendium.pf2e.bestiary-effects.Item.AThOnEYzPO9ssYTB

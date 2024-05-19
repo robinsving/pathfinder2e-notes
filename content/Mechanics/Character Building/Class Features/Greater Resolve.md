@@ -1,5 +1,6 @@
 ---
 title: "Greater Resolve"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Resolve"
 foundryId: Item.hekQk2tcRrzLPXl4

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Adaptive Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Adaptive Strike"
 foundryId: Compendium.pf2e.bestiary-effects.Item.361dIAAhiZE0wg8v

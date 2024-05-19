@@ -1,5 +1,6 @@
 ---
 title: "Effect: Aura Junction (Fire)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Aura Junction (Fire)"
 foundryId: Compendium.pf2e.feat-effects.Item.QOWjsM4GYUHw6pFA

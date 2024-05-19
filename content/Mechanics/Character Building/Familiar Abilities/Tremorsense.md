@@ -1,5 +1,6 @@
 ---
 title: "Tremorsense"
+draft: true
 noteType: ":luggage:"
 aliases: "Tremorsense"
 foundryId: Item.FZqBM4VL2aDMhm0E

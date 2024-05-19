@@ -1,5 +1,6 @@
 ---
 title: "Dutiful Retaliation"
+draft: true
 noteType: ":luggage:"
 aliases: "Dutiful Retaliation"
 foundryId: Item.ceGClZQk3fEgKQaI

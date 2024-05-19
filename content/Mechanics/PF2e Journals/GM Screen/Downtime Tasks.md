@@ -1,5 +1,6 @@
 ---
 title: "Downtime Tasks"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Downtime Tasks"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.SpWLU1ixQRT6rkUP

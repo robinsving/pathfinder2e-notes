@@ -1,5 +1,6 @@
 ---
 title: "Effect: Chug"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Chug"
 foundryId: Compendium.pf2e.bestiary-effects.Item.zBbmuudbWY8FaOwZ

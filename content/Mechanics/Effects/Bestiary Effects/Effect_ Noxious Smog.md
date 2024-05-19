@@ -1,5 +1,6 @@
 ---
 title: "Effect: Noxious Smog"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Noxious Smog"
 foundryId: Compendium.pf2e.bestiary-effects.Item.AL14FXSxpKyyfnOn

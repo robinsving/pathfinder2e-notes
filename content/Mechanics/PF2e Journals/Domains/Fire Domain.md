@@ -1,5 +1,6 @@
 ---
 title: "Fire Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Fire Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.egSErNozlL3HRK1y

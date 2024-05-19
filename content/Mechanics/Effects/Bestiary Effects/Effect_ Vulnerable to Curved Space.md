@@ -1,5 +1,6 @@
 ---
 title: "Effect: Vulnerable to Curved Space"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Vulnerable to Curved Space"
 foundryId: Compendium.pf2e.bestiary-effects.Item.V60TWjo1G1r5ZtPM

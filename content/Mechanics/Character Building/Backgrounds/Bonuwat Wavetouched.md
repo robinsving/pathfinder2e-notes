@@ -1,5 +1,6 @@
 ---
 title: "Bonuwat Wavetouched"
+draft: true
 noteType: ":luggage:"
 aliases: "Bonuwat Wavetouched"
 foundryId: Item.ACkVytBpBGDIzwXc

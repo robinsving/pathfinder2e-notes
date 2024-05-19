@@ -1,5 +1,6 @@
 ---
 title: "Tlehar"
+draft: true
 noteType: ":luggage:"
 aliases: "Tlehar"
 foundryId: Item.r6C6ZD103GwWANnx

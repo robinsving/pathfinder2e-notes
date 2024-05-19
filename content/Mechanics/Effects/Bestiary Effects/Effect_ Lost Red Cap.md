@@ -1,5 +1,6 @@
 ---
 title: "Effect: Lost Red Cap"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Lost Red Cap"
 foundryId: Compendium.pf2e.bestiary-effects.Item.s5mS7CyE0oOYlecv

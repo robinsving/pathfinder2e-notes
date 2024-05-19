@@ -1,5 +1,6 @@
 ---
 title: "Effect: Masterful Hunter's Edge, Flurry"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Masterful Hunter's Edge, Flurry"
 foundryId: Compendium.pf2e.feat-effects.Item.4UNQfMrwfWirdwoV

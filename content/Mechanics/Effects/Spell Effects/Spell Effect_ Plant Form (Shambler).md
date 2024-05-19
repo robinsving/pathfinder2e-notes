@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Plant Form (Shambler)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Plant Form (Shambler)"
 foundryId: Compendium.pf2e.spell-effects.Item.fIloZhZVH1xTnX4B

@@ -1,5 +1,6 @@
 ---
 title: "Luck Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Luck Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.L11XsA5G89xVKlDw

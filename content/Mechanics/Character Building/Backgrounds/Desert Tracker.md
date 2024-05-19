@@ -1,5 +1,6 @@
 ---
 title: "Desert Tracker"
+draft: true
 noteType: ":luggage:"
 aliases: "Desert Tracker"
 foundryId: Item.ANSxlRewAT7f7pug

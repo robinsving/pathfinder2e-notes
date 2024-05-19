@@ -1,5 +1,6 @@
 ---
 title: "Stance: Winter Sleet"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Winter Sleet"
 foundryId: Compendium.pf2e.feat-effects.Item.lge4vtZdfZOCWAch

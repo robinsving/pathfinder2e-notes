@@ -1,5 +1,6 @@
 ---
 title: "Grim Swagger"
+draft: true
 noteType: ":luggage:"
 aliases: "Grim Swagger"
 foundryId: Item.sja7IovN0U91UnxY

@@ -1,5 +1,6 @@
 ---
 title: "Stance: Crowned in Tempest's Fury"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Crowned in Tempest's Fury"
 foundryId: Compendium.pf2e.feat-effects.Item.woKCbf1kXPrPjeZG

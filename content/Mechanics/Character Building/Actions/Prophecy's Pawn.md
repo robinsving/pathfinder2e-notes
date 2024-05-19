@@ -1,5 +1,6 @@
 ---
 title: "Prophecy's Pawn"
+draft: true
 noteType: ":luggage:"
 aliases: "Prophecy's Pawn"
 foundryId: Item.S8DODc4qZDdQxgB5

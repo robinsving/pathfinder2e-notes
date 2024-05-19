@@ -1,5 +1,6 @@
 ---
 title: "Giant Instinct"
+draft: true
 noteType: ":luggage:"
 aliases: "Giant Instinct"
 foundryId: Item.hKXI91xm1Idr3I4d

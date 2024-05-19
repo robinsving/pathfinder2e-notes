@@ -1,5 +1,6 @@
 ---
 title: "Effect: Praise Adachros"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Praise Adachros"
 foundryId: Compendium.pf2e.bestiary-effects.Item.qddahkHks1iLZ4sM

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Vengeful Fibers"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Vengeful Fibers"
 foundryId: Compendium.pf2e.bestiary-effects.Item.zNOomUXHZHcc1PWD

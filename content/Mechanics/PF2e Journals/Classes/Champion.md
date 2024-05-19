@@ -1,5 +1,6 @@
 ---
 title: "Champion"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Champion"
 foundryId: Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.rebppVgBVi8J6TT2

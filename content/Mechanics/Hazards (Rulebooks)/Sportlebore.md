@@ -1,5 +1,6 @@
 ---
 title: Sportlebore
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

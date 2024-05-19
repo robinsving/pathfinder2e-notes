@@ -1,5 +1,6 @@
 ---
 title: "Effect: Liberating Step (vs. Dragon)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Liberating Step (vs. Dragon)"
 foundryId: Compendium.pf2e.feat-effects.Item.iyONT1qgeRgoYHsZ

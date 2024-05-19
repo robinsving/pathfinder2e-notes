@@ -1,5 +1,6 @@
 ---
 title: "Second Opinion"
+draft: true
 noteType: ":luggage:"
 aliases: "Second Opinion"
 foundryId: Item.stSZsVpC266RxQPZ

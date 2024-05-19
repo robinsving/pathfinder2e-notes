@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Ancestral Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Ancestral Form"
 foundryId: Compendium.pf2e.spell-effects.Item.l8HkOKfiUqd3BUwT

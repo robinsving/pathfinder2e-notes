@@ -1,5 +1,6 @@
 ---
 title: "Stance: Geologic Attunement"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Geologic Attunement"
 foundryId: Compendium.pf2e.feat-effects.Item.ebCWQB5nfK19GpY5

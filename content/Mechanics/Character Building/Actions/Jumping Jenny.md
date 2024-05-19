@@ -1,5 +1,6 @@
 ---
 title: "Jumping Jenny"
+draft: true
 noteType: ":luggage:"
 aliases: "Jumping Jenny"
 foundryId: Item.GjxQSSyySzBo1KGA

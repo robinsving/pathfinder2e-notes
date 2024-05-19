@@ -1,5 +1,6 @@
 ---
 title: "Divine Smite"
+draft: true
 noteType: ":luggage:"
 aliases: "Divine Smite"
 foundryId: Item.5WjpKXgMNVMxJZKH

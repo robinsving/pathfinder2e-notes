@@ -1,5 +1,6 @@
 ---
 title: "Gunslinging Legend"
+draft: true
 noteType: ":luggage:"
 aliases: "Gunslinging Legend"
 foundryId: Item.ltMrgJat6mPSFNXC

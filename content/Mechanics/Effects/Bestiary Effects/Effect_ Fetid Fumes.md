@@ -1,5 +1,6 @@
 ---
 title: "Effect: Fetid Fumes"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Fetid Fumes"
 foundryId: Compendium.pf2e.bestiary-effects.Item.mD44D9I05NQaXiED

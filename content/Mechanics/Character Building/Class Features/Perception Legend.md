@@ -1,5 +1,6 @@
 ---
 title: Perception Legend
+draft: true
 noteType: ":luggage:"
 aliases:
   - Perception Legend

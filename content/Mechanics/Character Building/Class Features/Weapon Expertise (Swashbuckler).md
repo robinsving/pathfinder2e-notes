@@ -1,5 +1,6 @@
 ---
 title: "Weapon Expertise (Swashbuckler)"
+draft: true
 noteType: ":luggage:"
 aliases: "Weapon Expertise (Swashbuckler)"
 foundryId: Item.AdOSamWafrSdTR07

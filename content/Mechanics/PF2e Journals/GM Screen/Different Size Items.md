@@ -1,5 +1,6 @@
 ---
 title: "Different Size Items"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Different Size Items"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.act12TfHpnKx6ZTu

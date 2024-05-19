@@ -1,5 +1,6 @@
 ---
 title: "Effect: Waterlogged"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Waterlogged"
 foundryId: Compendium.pf2e.bestiary-effects.Item.UxNq9uo1GpDYTi5Z

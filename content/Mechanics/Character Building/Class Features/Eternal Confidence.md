@@ -1,5 +1,6 @@
 ---
 title: "Eternal Confidence"
+draft: true
 noteType: ":luggage:"
 aliases: "Eternal Confidence"
 foundryId: Item.5kfu1NjWB2YeslRh

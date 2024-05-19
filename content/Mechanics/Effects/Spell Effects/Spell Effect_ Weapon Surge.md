@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Weapon Surge"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Weapon Surge"
 foundryId: Compendium.pf2e.spell-effects.Item.qlz0sJIvqc0FdUdr

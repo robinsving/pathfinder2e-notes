@@ -1,5 +1,6 @@
 ---
 title: "Crown of Chaos"
+draft: true
 noteType: ":luggage:"
 aliases: "Crown of Chaos"
 foundryId: Item.r4pXa704n2lomVRH

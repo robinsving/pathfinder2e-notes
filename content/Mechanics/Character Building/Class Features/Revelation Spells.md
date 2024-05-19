@@ -1,5 +1,6 @@
 ---
 title: "Revelation Spells"
+draft: true
 noteType: ":luggage:"
 aliases: "Revelation Spells"
 foundryId: Item.e95sYugAEWrtb7gm

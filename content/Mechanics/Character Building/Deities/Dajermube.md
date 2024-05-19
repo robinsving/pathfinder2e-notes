@@ -1,5 +1,6 @@
 ---
 title: "Dajermube"
+draft: true
 noteType: ":luggage:"
 aliases: "Dajermube"
 foundryId: Item.1Zw4UOShBAJiTWA6

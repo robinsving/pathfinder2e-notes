@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Mantle of the Magma Heart (Fiery Grasp)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Mantle of the Magma Heart (Fiery Grasp)"
 foundryId: Compendium.pf2e.spell-effects.Item.6SG8wVmppv4oXZtx

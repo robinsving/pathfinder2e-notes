@@ -1,5 +1,6 @@
 ---
 title: "Effect: Distant Wandering"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Distant Wandering"
 foundryId: Compendium.pf2e.feat-effects.Item.ngwcN8u7f7CnqGXp

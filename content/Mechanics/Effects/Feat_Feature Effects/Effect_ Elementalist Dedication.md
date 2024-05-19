@@ -1,5 +1,6 @@
 ---
 title: "Effect: Elementalist Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Elementalist Dedication"
 foundryId: Compendium.pf2e.feat-effects.Item.O8qithYQCv3e7DUQ

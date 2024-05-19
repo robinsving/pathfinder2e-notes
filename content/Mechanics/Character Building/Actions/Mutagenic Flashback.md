@@ -1,5 +1,6 @@
 ---
 title: "Mutagenic Flashback"
+draft: true
 noteType: ":luggage:"
 aliases: "Mutagenic Flashback"
 foundryId: Item.2kykwQZdyJPVtAV2

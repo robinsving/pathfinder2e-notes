@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Sure Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Sure Strike"
 foundryId: Compendium.pf2e.spell-effects.Item.fpGDAz2v5PG0zUSl

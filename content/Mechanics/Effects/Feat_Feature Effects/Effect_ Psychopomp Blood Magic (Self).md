@@ -1,5 +1,6 @@
 ---
 title: "Effect: Psychopomp Blood Magic (Self)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Psychopomp Blood Magic (Self)"
 foundryId: Compendium.pf2e.feat-effects.Item.7BFd8A9HFrmg6vwL

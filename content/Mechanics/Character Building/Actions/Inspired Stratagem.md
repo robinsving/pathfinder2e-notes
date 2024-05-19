@@ -1,5 +1,6 @@
 ---
 title: "Inspired Stratagem"
+draft: true
 noteType: ":luggage:"
 aliases: "Inspired Stratagem"
 foundryId: Item.jvIrVJrCUFc4Y6ez

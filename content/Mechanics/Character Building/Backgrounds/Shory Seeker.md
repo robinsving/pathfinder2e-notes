@@ -1,5 +1,6 @@
 ---
 title: "Shory Seeker"
+draft: true
 noteType: ":luggage:"
 aliases: "Shory Seeker"
 foundryId: Item.xIG7vsDazQUjcL8G

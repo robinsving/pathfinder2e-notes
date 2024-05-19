@@ -1,5 +1,6 @@
 ---
 title: "Effect: Heroic Recovery"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Heroic Recovery"
 foundryId: Compendium.pf2e.feat-effects.Item.7ogytOgDmh4h2g5d

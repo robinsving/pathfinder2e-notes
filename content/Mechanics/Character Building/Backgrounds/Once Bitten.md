@@ -1,5 +1,6 @@
 ---
 title: "Once Bitten"
+draft: true
 noteType: ":luggage:"
 aliases: "Once Bitten"
 foundryId: Item.Vrk47hCPLsgNW1kH

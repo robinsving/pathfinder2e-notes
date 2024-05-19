@@ -1,5 +1,6 @@
 ---
 title: "Eldritch Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Eldritch Shot"
 foundryId: Item.n099yewsIe3oyB9O

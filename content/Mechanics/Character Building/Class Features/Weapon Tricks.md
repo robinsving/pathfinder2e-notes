@@ -1,5 +1,6 @@
 ---
 title: "Weapon Tricks"
+draft: true
 noteType: ":luggage:"
 aliases: "Weapon Tricks"
 foundryId: Item.auHJqZEqGJ5VtwUs

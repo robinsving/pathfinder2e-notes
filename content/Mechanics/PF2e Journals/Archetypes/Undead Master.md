@@ -1,5 +1,6 @@
 ---
 title: "Undead Master"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Undead Master"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.f7tFLR7aFonXTLQa

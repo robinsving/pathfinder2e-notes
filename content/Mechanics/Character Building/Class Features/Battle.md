@@ -1,5 +1,6 @@
 ---
 title: "Battle"
+draft: true
 noteType: ":luggage:"
 aliases: "Battle"
 foundryId: Item.UKczT3MrQJMN7MRk

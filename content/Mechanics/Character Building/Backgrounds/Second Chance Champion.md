@@ -1,5 +1,6 @@
 ---
 title: "Second Chance Champion"
+draft: true
 noteType: ":luggage:"
 aliases: "Second Chance Champion"
 foundryId: Item.6fvyHkyYWxiHMq2M

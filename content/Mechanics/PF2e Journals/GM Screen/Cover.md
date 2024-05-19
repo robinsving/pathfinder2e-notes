@@ -1,5 +1,6 @@
 ---
 title: "Cover"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Cover"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.tJllU1E8g7W1QxYe

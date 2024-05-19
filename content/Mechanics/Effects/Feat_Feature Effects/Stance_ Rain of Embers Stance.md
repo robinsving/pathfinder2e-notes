@@ -1,5 +1,6 @@
 ---
 title: "Stance: Rain of Embers Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Rain of Embers Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.Im5JBInybWFbHEYS

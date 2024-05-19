@@ -1,5 +1,6 @@
 ---
 title: "Sky Rider"
+draft: true
 noteType: ":luggage:"
 aliases: "Sky Rider"
 foundryId: Item.9wmvazPOUZR956hW

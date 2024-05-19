@@ -1,5 +1,6 @@
 ---
 title: "Followers of Fate"
+draft: true
 noteType: ":luggage:"
 aliases: "Followers of Fate"
 foundryId: Item.BIARQ7mJqAWM8Tz7

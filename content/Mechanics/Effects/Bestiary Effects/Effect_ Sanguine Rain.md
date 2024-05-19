@@ -1,5 +1,6 @@
 ---
 title: "Effect: Sanguine Rain"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Sanguine Rain"
 foundryId: Compendium.pf2e.bestiary-effects.Item.nP1KEogCiRdVq0UB

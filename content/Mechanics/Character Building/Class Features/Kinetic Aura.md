@@ -1,5 +1,6 @@
 ---
 title: "Kinetic Aura"
+draft: true
 noteType: ":luggage:"
 aliases: "Kinetic Aura"
 foundryId: Item.rJfP7Gan2bplbI8s

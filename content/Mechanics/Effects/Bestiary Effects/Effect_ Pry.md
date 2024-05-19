@@ -1,5 +1,6 @@
 ---
 title: "Effect: Pry"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Pry"
 foundryId: Compendium.pf2e.bestiary-effects.Item.4q8Of8NM9DC8kWyK

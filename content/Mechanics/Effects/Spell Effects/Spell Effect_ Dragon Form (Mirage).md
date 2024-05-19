@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Dragon Form (Mirage)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Dragon Form (Mirage)"
 foundryId: Compendium.pf2e.spell-effects.Item.nWEx5kpkE8YlBZvy

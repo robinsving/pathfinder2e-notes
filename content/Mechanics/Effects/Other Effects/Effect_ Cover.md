@@ -1,5 +1,6 @@
 ---
 title: "Effect: Cover"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Cover"
 foundryId: Compendium.pf2e.other-effects.Item.I9lfZUiCwMiGogVi

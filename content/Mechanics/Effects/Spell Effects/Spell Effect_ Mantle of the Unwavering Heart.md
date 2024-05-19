@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Mantle of the Unwavering Heart"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Mantle of the Unwavering Heart"
 foundryId: Compendium.pf2e.spell-effects.Item.OlkrQOPjLclyyxCw

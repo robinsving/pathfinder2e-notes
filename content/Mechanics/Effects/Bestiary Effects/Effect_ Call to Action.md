@@ -1,5 +1,6 @@
 ---
 title: "Effect: Call to Action"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Call to Action"
 foundryId: Compendium.pf2e.bestiary-effects.Item.kdZEZ6iBYQPVGzYD

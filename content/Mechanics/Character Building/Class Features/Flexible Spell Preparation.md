@@ -1,5 +1,6 @@
 ---
 title: "Flexible Spell Preparation"
+draft: true
 noteType: ":luggage:"
 aliases: "Flexible Spell Preparation"
 foundryId: Item.Huh7fl9NAY0LryOL

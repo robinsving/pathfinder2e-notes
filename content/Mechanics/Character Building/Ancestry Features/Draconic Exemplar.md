@@ -1,5 +1,6 @@
 ---
 title: "Draconic Exemplar"
+draft: true
 noteType: ":luggage:"
 aliases: "Draconic Exemplar"
 foundryId: Item.W3wB2STkbi92w8I6

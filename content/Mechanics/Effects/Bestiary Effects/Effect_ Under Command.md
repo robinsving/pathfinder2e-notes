@@ -1,5 +1,6 @@
 ---
 title: "Effect: Under Command"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Under Command"
 foundryId: Compendium.pf2e.bestiary-effects.Item.T9wQ1LvsvPWTefQR

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Void Shroud"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Void Shroud"
 foundryId: Compendium.pf2e.bestiary-effects.Item.i3942RucZD9OHbAE

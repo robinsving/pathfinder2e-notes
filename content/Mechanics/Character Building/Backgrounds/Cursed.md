@@ -1,5 +1,6 @@
 ---
 title: "Cursed"
+draft: true
 noteType: ":luggage:"
 aliases: "Cursed"
 foundryId: Item.y748SfLkCVWDTdDK

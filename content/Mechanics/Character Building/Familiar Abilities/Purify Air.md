@@ -1,5 +1,6 @@
 ---
 title: "Purify Air"
+draft: true
 noteType: ":luggage:"
 aliases: "Purify Air"
 foundryId: Item.oulhuftvnyiZ7AZn

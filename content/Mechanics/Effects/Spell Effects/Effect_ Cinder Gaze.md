@@ -1,5 +1,6 @@
 ---
 title: "Effect: Cinder Gaze"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Cinder Gaze"
 foundryId: Compendium.pf2e.spell-effects.Item.myWvjlGLvbzkSCNO

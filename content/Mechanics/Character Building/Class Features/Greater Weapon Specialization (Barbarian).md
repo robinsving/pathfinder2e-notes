@@ -1,5 +1,6 @@
 ---
 title: "Greater Weapon Specialization (Barbarian)"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Weapon Specialization (Barbarian)"
 foundryId: Item.01X7ppq3XfBVGIRj

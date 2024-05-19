@@ -1,5 +1,6 @@
 ---
 title: "Take a Taste"
+draft: true
 noteType: ":luggage:"
 aliases: "Take a Taste"
 foundryId: Item.ytQty31bLXRc40kp

@@ -1,5 +1,6 @@
 ---
 title: "Fungus"
+draft: true
 noteType: ":luggage:"
 aliases: "Fungus"
 foundryId: Item.odCzemwW69iCSgtX

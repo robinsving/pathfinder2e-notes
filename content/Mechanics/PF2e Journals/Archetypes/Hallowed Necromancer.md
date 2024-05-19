@@ -1,5 +1,6 @@
 ---
 title: "Hallowed Necromancer"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Hallowed Necromancer"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.3B1PqqSZYQj9YXac

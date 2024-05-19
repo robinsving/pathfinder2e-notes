@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Monstrosity Form (Cave Worm)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Monstrosity Form (Cave Worm)"
 foundryId: Compendium.pf2e.spell-effects.Item.rEsgDhunQ5Yx8KZx

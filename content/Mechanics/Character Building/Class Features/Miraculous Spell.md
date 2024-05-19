@@ -1,5 +1,6 @@
 ---
 title: "Miraculous Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Miraculous Spell"
 foundryId: Item.KrapqXUKM97wahaM

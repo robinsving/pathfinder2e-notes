@@ -1,5 +1,6 @@
 ---
 title: "Weapon Innovation"
+draft: true
 noteType: ":luggage:"
 aliases: "Weapon Innovation"
 foundryId: Item.mX1f4Ybrhw2CnkGO

@@ -1,5 +1,6 @@
 ---
 title: "Kashrishi"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Kashrishi"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.IJOH7nk0w1IybAhp

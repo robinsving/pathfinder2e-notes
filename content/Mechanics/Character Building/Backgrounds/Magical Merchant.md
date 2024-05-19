@@ -1,5 +1,6 @@
 ---
 title: "Magical Merchant"
+draft: true
 noteType: ":luggage:"
 aliases: "Magical Merchant"
 foundryId: Item.f7nep8xBjGU6Gr4r

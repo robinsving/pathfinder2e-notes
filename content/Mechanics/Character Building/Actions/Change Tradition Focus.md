@@ -1,5 +1,6 @@
 ---
 title: "Change Tradition Focus"
+draft: true
 noteType: ":luggage:"
 aliases: "Change Tradition Focus"
 foundryId: Item.EGJhiI70qcqNw1zJ

@@ -1,5 +1,6 @@
 ---
 title: "Conjure Bullet"
+draft: true
 noteType: ":luggage:"
 aliases: "Conjure Bullet"
 foundryId: Item.WAILZH0PiUp0SADI

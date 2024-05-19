@@ -1,5 +1,6 @@
 ---
 title: "Devotion Spells"
+draft: true
 noteType: ":luggage:"
 aliases: "Devotion Spells"
 foundryId: Item.xuKisnCfyg7JX95N

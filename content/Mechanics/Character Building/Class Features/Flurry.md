@@ -1,5 +1,6 @@
 ---
 title: "Flurry"
+draft: true
 noteType: ":luggage:"
 aliases: "Flurry"
 foundryId: Item.5xgsXamSdxZozREa

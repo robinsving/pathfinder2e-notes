@@ -1,5 +1,6 @@
 ---
 title: "Iron Will"
+draft: true
 noteType: ":luggage:"
 aliases: "Iron Will"
 foundryId: Item.qFlkpT2a4Nea7f5M

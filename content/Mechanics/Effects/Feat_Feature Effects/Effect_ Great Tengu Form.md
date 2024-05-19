@@ -1,5 +1,6 @@
 ---
 title: "Effect: Great Tengu Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Great Tengu Form"
 foundryId: Compendium.pf2e.feat-effects.Item.BC92TyFzRCWq8fu0

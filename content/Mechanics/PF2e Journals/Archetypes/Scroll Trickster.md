@@ -1,5 +1,6 @@
 ---
 title: "Scroll Trickster"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Scroll Trickster"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.4gKrDFB1GlILn9la

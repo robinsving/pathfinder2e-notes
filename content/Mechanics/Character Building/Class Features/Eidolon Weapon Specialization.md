@@ -1,5 +1,6 @@
 ---
 title: "Eidolon Weapon Specialization"
+draft: true
 noteType: ":luggage:"
 aliases: "Eidolon Weapon Specialization"
 foundryId: Item.ddCv0uvIQnSJeQ0v

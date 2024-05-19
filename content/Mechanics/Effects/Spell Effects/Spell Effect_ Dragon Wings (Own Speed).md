@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Dragon Wings (Own Speed)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Dragon Wings (Own Speed)"
 foundryId: Compendium.pf2e.spell-effects.Item.jy4edd6pvJvJgOSP

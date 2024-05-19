@@ -1,5 +1,6 @@
 ---
 title: "Familiar of Restored Spirit"
+draft: true
 noteType: ":luggage:"
 aliases: "Familiar of Restored Spirit"
 foundryId: Item.sxTKtSeGIphcntpS

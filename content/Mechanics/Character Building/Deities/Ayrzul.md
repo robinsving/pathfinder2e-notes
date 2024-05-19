@@ -1,5 +1,6 @@
 ---
 title: "Ayrzul"
+draft: true
 noteType: ":luggage:"
 aliases: "Ayrzul"
 foundryId: Item.6uCJMaR2bGeMu1iX

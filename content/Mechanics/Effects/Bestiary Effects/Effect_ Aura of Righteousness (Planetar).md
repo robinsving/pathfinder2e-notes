@@ -1,5 +1,6 @@
 ---
 title: "Effect: Aura of Righteousness (Planetar)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Aura of Righteousness (Planetar)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.I5Fd4TkIKRJT6WXf

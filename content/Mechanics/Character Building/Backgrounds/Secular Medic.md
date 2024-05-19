@@ -1,5 +1,6 @@
 ---
 title: "Secular Medic"
+draft: true
 noteType: ":luggage:"
 aliases: "Secular Medic"
 foundryId: Item.AVGshHyPGGWIF9Ew

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Mortal Reflection"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Mortal Reflection"
 foundryId: Compendium.pf2e.bestiary-effects.Item.vUFIbQ74jz22rOXw

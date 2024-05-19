@@ -1,5 +1,6 @@
 ---
 title: "Familiar of Stalking Night"
+draft: true
 noteType: ":luggage:"
 aliases: "Familiar of Stalking Night"
 foundryId: Item.cYxUZZTPPKphY9Tr

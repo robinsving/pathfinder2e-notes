@@ -1,5 +1,6 @@
 ---
 title: "Empty Vessel"
+draft: true
 noteType: ":luggage:"
 aliases: "Empty Vessel"
 foundryId: Item.go4IYoBXa52qwRoq

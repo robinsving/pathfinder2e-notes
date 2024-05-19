@@ -1,5 +1,6 @@
 ---
 title: "Effect: Cavalier's Banner"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Cavalier's Banner"
 foundryId: Compendium.pf2e.feat-effects.Item.xDT10fUWp8UStSZR

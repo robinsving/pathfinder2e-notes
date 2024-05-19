@@ -1,5 +1,6 @@
 ---
 title: "Effect: Overwhelming Perfume"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Overwhelming Perfume"
 foundryId: Compendium.pf2e.spell-effects.Item.wdA5DW7YiYR4jXPs

@@ -1,5 +1,6 @@
 ---
 title: "Zyphus"
+draft: true
 noteType: ":luggage:"
 aliases: "Zyphus"
 foundryId: Item.Lbsmx7AxhNU6EXw3

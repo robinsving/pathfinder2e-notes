@@ -1,5 +1,6 @@
 ---
 title: "Tensile Absorption"
+draft: true
 noteType: ":luggage:"
 aliases: "Tensile Absorption"
 foundryId: Item.BoCTyu5UsyOvAzEM

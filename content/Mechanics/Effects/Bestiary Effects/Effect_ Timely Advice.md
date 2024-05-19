@@ -1,5 +1,6 @@
 ---
 title: "Effect: Timely Advice"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Timely Advice"
 foundryId: Compendium.pf2e.bestiary-effects.Item.FISKjI7bal26AnyL

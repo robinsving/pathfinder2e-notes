@@ -1,5 +1,6 @@
 ---
 title: "Bard"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Bard"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.oBlKgVYRup5ORqx1

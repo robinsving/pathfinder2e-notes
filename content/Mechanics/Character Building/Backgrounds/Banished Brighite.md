@@ -1,5 +1,6 @@
 ---
 title: "Banished Brighite"
+draft: true
 noteType: ":luggage:"
 aliases: "Banished Brighite"
 foundryId: Item.XfVqV1KYUTjdVrQl

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Rugged Mentor Boon (PFS)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Rugged Mentor Boon (PFS)"
 foundryId: Compendium.pf2e.feat-effects.Item.ZMFgz4GYSsFeaKKK

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Nanite Surge (Glow)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Nanite Surge (Glow)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.rRgVlTHiNEJ86T7N

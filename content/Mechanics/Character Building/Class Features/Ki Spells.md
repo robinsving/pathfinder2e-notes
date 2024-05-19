@@ -1,5 +1,6 @@
 ---
 title: "Ki Spells"
+draft: true
 noteType: ":luggage:"
 aliases: "Ki Spells"
 foundryId: Item.hLmEh8sjhx3cjT1Y

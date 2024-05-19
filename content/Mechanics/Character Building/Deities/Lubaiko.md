@@ -1,5 +1,6 @@
 ---
 title: "Lubaiko"
+draft: true
 noteType: ":luggage:"
 aliases: "Lubaiko"
 foundryId: Item.cJFdwTZ3rcsRjaC4

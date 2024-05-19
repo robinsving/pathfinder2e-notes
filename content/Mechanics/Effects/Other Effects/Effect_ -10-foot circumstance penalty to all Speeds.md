@@ -1,5 +1,6 @@
 ---
 title: "Effect: -10-foot circumstance penalty to all Speeds"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: -10-foot circumstance penalty to all Speeds"
 foundryId: Compendium.pf2e.other-effects.Item.ScZGg91ri19H4IIc

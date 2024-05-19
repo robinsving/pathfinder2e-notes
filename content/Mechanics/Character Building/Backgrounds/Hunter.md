@@ -1,5 +1,6 @@
 ---
 title: "Hunter"
+draft: true
 noteType: ":luggage:"
 aliases: "Hunter"
 foundryId: Item.3cKpI0AIICMTDJPM

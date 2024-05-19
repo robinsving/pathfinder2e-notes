@@ -1,5 +1,6 @@
 ---
 title: "Base Kinesis"
+draft: true
 noteType: ":luggage:"
 aliases: "Base Kinesis"
 foundryId: Item.30i2ODA0AhmqrIag

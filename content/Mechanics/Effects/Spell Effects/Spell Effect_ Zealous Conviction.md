@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Zealous Conviction"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Zealous Conviction"
 foundryId: Compendium.pf2e.spell-effects.Item.nemThuhp3praALY6

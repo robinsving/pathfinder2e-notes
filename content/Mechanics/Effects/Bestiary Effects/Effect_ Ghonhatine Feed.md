@@ -1,5 +1,6 @@
 ---
 title: "Effect: Ghonhatine Feed"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Ghonhatine Feed"
 foundryId: Compendium.pf2e.bestiary-effects.Item.wPW6kVscJgBLPVKZ

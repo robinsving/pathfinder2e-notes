@@ -1,5 +1,6 @@
 ---
 title: "Way of the Sniper"
+draft: true
 noteType: ":luggage:"
 aliases: "Way of the Sniper"
 foundryId: Item.fUOmXfdiZVJTHAgb

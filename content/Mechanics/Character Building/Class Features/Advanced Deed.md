@@ -1,5 +1,6 @@
 ---
 title: "Advanced Deed"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Deed"
 foundryId: Item.GS1iEUCtUZNfxDWw

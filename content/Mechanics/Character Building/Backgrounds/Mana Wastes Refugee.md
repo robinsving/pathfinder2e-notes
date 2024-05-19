@@ -1,5 +1,6 @@
 ---
 title: "Mana Wastes Refugee"
+draft: true
 noteType: ":luggage:"
 aliases: "Mana Wastes Refugee"
 foundryId: Item.epzYZvV6LfOssZGK

@@ -1,5 +1,6 @@
 ---
 title: "Stance: Sky and Heaven Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Sky and Heaven Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.CQfkyJkRHw4IHWhv

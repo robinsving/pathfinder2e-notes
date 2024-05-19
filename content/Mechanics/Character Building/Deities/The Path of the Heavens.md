@@ -1,5 +1,6 @@
 ---
 title: "The Path of the Heavens"
+draft: true
 noteType: ":luggage:"
 aliases: "The Path of the Heavens"
 foundryId: Item.AgRB8wohV5iXYfeU

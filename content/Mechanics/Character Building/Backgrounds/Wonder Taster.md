@@ -1,5 +1,6 @@
 ---
 title: "Wonder Taster"
+draft: true
 noteType: ":luggage:"
 aliases: "Wonder Taster"
 foundryId: Item.uolb2xpxBaglZl7g

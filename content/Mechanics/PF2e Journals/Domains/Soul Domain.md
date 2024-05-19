@@ -1,5 +1,6 @@
 ---
 title: "Soul Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Soul Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.rtobUemb6vF2Yu3Y

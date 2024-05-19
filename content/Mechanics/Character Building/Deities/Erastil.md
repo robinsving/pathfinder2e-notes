@@ -1,5 +1,6 @@
 ---
 title: "Erastil"
+draft: true
 noteType: ":luggage:"
 aliases: "Erastil"
 foundryId: Item.3DINSnO3gmlRZ1du

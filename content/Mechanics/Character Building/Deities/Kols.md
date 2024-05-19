@@ -1,5 +1,6 @@
 ---
 title: "Kols"
+draft: true
 noteType: ":luggage:"
 aliases: "Kols"
 foundryId: Item.0padgNQfpEaSGwqp

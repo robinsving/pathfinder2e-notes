@@ -1,5 +1,6 @@
 ---
 title: "Effect: Sacrifice Armor"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Sacrifice Armor"
 foundryId: Compendium.pf2e.bestiary-effects.Item.1wCgwFLJByW8YKyM

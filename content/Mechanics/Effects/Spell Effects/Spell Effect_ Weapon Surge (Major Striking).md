@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Weapon Surge (Major Striking)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Weapon Surge (Major Striking)"
 foundryId: Compendium.pf2e.spell-effects.Item.W0PjCMyGOpKAuyKX

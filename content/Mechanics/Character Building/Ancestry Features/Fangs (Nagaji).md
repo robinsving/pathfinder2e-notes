@@ -1,5 +1,6 @@
 ---
 title: "Fangs (Nagaji)"
+draft: true
 noteType: ":luggage:"
 aliases: "Fangs (Nagaji)"
 foundryId: Item.HG173LxIOo3OK5xi

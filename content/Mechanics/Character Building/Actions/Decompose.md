@@ -1,5 +1,6 @@
 ---
 title: "Decompose"
+draft: true
 noteType: ":luggage:"
 aliases: "Decompose"
 foundryId: Item.4k2MZrBSNFKQm2mC

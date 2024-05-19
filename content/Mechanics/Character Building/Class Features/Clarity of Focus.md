@@ -1,5 +1,6 @@
 ---
 title: "Clarity of Focus"
+draft: true
 noteType: ":luggage:"
 aliases: "Clarity of Focus"
 foundryId: Item.HDtAM8J7bCFdE23D

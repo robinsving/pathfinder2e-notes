@@ -1,5 +1,6 @@
 ---
 title: "Set Free"
+draft: true
 noteType: ":luggage:"
 aliases: "Set Free"
 foundryId: Item.igCMtUI0XBkPxHC3

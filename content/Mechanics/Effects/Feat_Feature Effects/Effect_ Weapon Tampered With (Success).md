@@ -1,5 +1,6 @@
 ---
 title: "Effect: Weapon Tampered With (Success)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Weapon Tampered With (Success)"
 foundryId: Compendium.pf2e.feat-effects.Item.4QWayYR3JSL9bk2T

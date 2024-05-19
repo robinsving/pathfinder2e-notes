@@ -1,5 +1,6 @@
 ---
 title: "Manifest Eidolon"
+draft: true
 noteType: ":luggage:"
 aliases: "Manifest Eidolon"
 foundryId: Item.NlLvokWLvWQxjhzG

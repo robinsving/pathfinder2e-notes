@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Nymph's Token"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Nymph's Token"
 foundryId: Compendium.pf2e.spell-effects.Item.zjFN1cJEl3AMKiVs

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Bittersweet Dreams"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Bittersweet Dreams"
 foundryId: Compendium.pf2e.bestiary-effects.Item.4FginnDcOt4wfedf

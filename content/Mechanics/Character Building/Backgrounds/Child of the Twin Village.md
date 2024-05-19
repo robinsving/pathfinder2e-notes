@@ -1,5 +1,6 @@
 ---
 title: "Child of the Twin Village"
+draft: true
 noteType: ":luggage:"
 aliases: "Child of the Twin Village"
 foundryId: Item.W2gIn6TjaPz1xucc

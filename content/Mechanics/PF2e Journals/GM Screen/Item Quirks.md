@@ -1,5 +1,6 @@
 ---
 title: "Item Quirks"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Item Quirks"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.yHqDPytVY9bxWo9I

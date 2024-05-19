@@ -1,5 +1,6 @@
 ---
 title: "Effect: Tail Lash (Skill Check)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Tail Lash (Skill Check)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.4HJJdogS751Z04lD

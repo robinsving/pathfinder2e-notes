@@ -1,5 +1,6 @@
 ---
 title: "Ragdya"
+draft: true
 noteType: ":luggage:"
 aliases: "Ragdya"
 foundryId: Item.ikeEBPBxt3GBllTc

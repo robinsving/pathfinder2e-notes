@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Angel Form (Balisse)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Angel Form (Balisse)"
 foundryId: Compendium.pf2e.spell-effects.Item.WEpgIGFwtRb3ef1x

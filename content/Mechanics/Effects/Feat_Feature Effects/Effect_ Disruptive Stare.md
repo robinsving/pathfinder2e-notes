@@ -1,5 +1,6 @@
 ---
 title: "Effect: Disruptive Stare"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Disruptive Stare"
 foundryId: Compendium.pf2e.feat-effects.Item.QcReJp7kgURdQCGz

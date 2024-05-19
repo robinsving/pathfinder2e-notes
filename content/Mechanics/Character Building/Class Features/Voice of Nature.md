@@ -1,5 +1,6 @@
 ---
 title: Voice of Nature
+draft: true
 noteType: ":luggage:"
 aliases:
   - Voice of Nature

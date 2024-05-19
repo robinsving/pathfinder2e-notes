@@ -1,5 +1,6 @@
 ---
 title: "Mammoth Speaker"
+draft: true
 noteType: ":luggage:"
 aliases: "Mammoth Speaker"
 foundryId: Item.qXSAmktKICuMx1LC

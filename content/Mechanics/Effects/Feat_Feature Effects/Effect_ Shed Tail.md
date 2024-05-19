@@ -1,5 +1,6 @@
 ---
 title: "Effect: Shed Tail"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Shed Tail"
 foundryId: Compendium.pf2e.feat-effects.Item.OK7zMlYy25JciBp6

@@ -1,5 +1,6 @@
 ---
 title: "Imot"
+draft: true
 noteType: ":luggage:"
 aliases: "Imot"
 foundryId: Item.tx0DeRSmkdJDoLc7

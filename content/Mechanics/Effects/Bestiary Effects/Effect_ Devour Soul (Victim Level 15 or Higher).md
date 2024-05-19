@@ -1,5 +1,6 @@
 ---
 title: "Effect: Devour Soul (Victim Level 15 or Higher)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Devour Soul (Victim Level 15 or Higher)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.S38CM3hyr7DnsmRR

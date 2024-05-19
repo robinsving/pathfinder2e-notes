@@ -1,5 +1,6 @@
 ---
 title: "Local Brigand"
+draft: true
 noteType: ":luggage:"
 aliases: "Local Brigand"
 foundryId: Item.UnQlZN3tjsb32VUD

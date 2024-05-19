@@ -1,5 +1,6 @@
 ---
 title: "Effect: Tidal Shield"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Tidal Shield"
 foundryId: Compendium.pf2e.feat-effects.Item.UBC6HbfqbfPQYlMq

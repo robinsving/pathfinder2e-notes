@@ -1,5 +1,6 @@
 ---
 title: "Bounty Hunter"
+draft: true
 noteType: ":luggage:"
 aliases: "Bounty Hunter"
 foundryId: Item.4KeoCgmwT8eJh9wK

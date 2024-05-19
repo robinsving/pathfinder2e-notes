@@ -1,5 +1,6 @@
 ---
 title: "Eldritch Archer"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Eldritch Archer"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.6A9zBmTyt8cn6ioa

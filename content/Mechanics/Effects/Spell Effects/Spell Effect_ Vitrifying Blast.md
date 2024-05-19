@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Vitrifying Blast"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Vitrifying Blast"
 foundryId: Compendium.pf2e.spell-effects.Item.UFfItbPq9cVq3LNa

@@ -1,5 +1,6 @@
 ---
 title: "Quick Rage"
+draft: true
 noteType: ":luggage:"
 aliases: "Quick Rage"
 foundryId: Item.tY1ePVOonXug8a6E

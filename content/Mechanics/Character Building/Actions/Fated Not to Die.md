@@ -1,5 +1,6 @@
 ---
 title: "Fated Not to Die"
+draft: true
 noteType: ":luggage:"
 aliases: "Fated Not to Die"
 foundryId: Item.x7JaZktgBop9fm5A

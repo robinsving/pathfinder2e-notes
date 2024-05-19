@@ -1,5 +1,6 @@
 ---
 title: "Effect: Stoney Deflection"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Stoney Deflection"
 foundryId: Compendium.pf2e.feat-effects.Item.ecWVnrjsjubZ4On6

@@ -1,5 +1,6 @@
 ---
 title: "Haunting Vision"
+draft: true
 noteType: ":luggage:"
 aliases: "Haunting Vision"
 foundryId: Item.Nyr3RujIJ31yoFgh

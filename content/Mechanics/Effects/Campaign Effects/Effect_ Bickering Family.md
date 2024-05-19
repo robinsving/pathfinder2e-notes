@@ -1,5 +1,6 @@
 ---
 title: "Effect: Bickering Family"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Bickering Family"
 foundryId: Compendium.pf2e.campaign-effects.Item.1iIObOrXUGA3RwQ9

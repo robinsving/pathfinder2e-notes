@@ -1,5 +1,6 @@
 ---
 title: "Effect: Echoes in Stone"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Echoes in Stone"
 foundryId: Compendium.pf2e.feat-effects.Item.XIYWFGHBlcc79YI5

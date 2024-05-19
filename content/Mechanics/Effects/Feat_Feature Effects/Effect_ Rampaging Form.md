@@ -1,5 +1,6 @@
 ---
 title: "Effect: Rampaging Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Rampaging Form"
 foundryId: Compendium.pf2e.feat-effects.Item.DWrsDJte9sez0Ppi

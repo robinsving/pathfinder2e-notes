@@ -1,5 +1,6 @@
 ---
 title: "Skillful Lessons"
+draft: true
 noteType: ":luggage:"
 aliases: "Skillful Lessons"
 foundryId: Item.nrjbEpjwCXAsIZkL

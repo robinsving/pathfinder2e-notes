@@ -1,5 +1,6 @@
 ---
 title: "Effect: Volcanic Purge"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Volcanic Purge"
 foundryId: Compendium.pf2e.bestiary-effects.Item.7qoZauizAKfPIXeu

@@ -1,5 +1,6 @@
 ---
 title: "Great Fortitude (Psychic)"
+draft: true
 noteType: ":luggage:"
 aliases: "Great Fortitude (Psychic)"
 foundryId: Item.0jLEI7aSU1rgsjHI

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Consume Memories"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Consume Memories"
 foundryId: Compendium.pf2e.bestiary-effects.Item.0jAT2TJoqC1z6NCf

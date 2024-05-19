@@ -1,5 +1,6 @@
 ---
 title: "Resonant Reflection: Reflection of Water"
+draft: true
 noteType: ":luggage:"
 aliases: "Resonant Reflection: Reflection of Water"
 foundryId: Compendium.pf2e.campaign-effects.Item.scgEAXAqHEr3Egeb

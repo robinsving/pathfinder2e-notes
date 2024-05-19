@@ -1,5 +1,6 @@
 ---
 title: "Darkness Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Darkness Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.CM9ZqWwl7myKn2X1

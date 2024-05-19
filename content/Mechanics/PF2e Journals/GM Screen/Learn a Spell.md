@@ -1,5 +1,6 @@
 ---
 title: "Learn a Spell"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Learn a Spell"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.XCxK6OGFY0KvJPo3

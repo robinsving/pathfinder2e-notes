@@ -1,5 +1,6 @@
 ---
 title: "Effect: Divine Aegis"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Divine Aegis"
 foundryId: Compendium.pf2e.bestiary-effects.Item.e4HoYakV7SvwvcrH

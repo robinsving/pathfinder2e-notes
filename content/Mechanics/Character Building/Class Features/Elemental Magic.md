@@ -1,5 +1,6 @@
 ---
 title: "Elemental Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Elemental Magic"
 foundryId: Item.KDQhpVS1MwtiPpOQ

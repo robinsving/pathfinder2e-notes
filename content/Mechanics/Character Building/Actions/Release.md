@@ -1,5 +1,6 @@
 ---
 title: "Release"
+draft: true
 noteType: ":luggage:"
 aliases: "Release"
 foundryId: Item.zvXqVhn3DDqyWgv9

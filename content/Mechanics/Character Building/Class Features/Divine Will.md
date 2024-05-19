@@ -1,5 +1,6 @@
 ---
 title: "Divine Will"
+draft: true
 noteType: ":luggage:"
 aliases: "Divine Will"
 foundryId: Item.DwKEBe8ErLPyNCUr

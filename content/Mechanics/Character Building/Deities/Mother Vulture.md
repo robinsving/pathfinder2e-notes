@@ -1,5 +1,6 @@
 ---
 title: "Mother Vulture"
+draft: true
 noteType: ":luggage:"
 aliases: "Mother Vulture"
 foundryId: Item.SKexDMuQOQGK8A92

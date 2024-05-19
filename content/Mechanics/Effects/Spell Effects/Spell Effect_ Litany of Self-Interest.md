@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Litany of Self-Interest"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Litany of Self-Interest"
 foundryId: Compendium.pf2e.spell-effects.Item.ceEA7nBGNmoR8Sjj

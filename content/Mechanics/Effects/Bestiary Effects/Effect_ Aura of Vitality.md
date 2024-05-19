@@ -1,5 +1,6 @@
 ---
 title: "Effect: Aura of Vitality"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Aura of Vitality"
 foundryId: Compendium.pf2e.bestiary-effects.Item.RjrsiEloXs7ze1TZ

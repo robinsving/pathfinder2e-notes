@@ -1,5 +1,6 @@
 ---
 title: "Way of the Triggerbrand"
+draft: true
 noteType: ":luggage:"
 aliases: "Way of the Triggerbrand"
 foundryId: Item.NjmivdvvQ71BoqNk

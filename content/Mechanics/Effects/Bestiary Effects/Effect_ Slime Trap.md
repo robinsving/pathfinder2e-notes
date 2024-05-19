@@ -1,5 +1,6 @@
 ---
 title: "Effect: Slime Trap"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Slime Trap"
 foundryId: Compendium.pf2e.bestiary-effects.Item.XSAmMuMgMvdjdpHc

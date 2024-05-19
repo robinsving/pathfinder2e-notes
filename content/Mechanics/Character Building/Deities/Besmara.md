@@ -1,5 +1,6 @@
 ---
 title: "Besmara"
+draft: true
 noteType: ":luggage:"
 aliases: "Besmara"
 foundryId: Item.vNVhh9qLjy0dRc3i

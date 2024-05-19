@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Open the Wall of Ghosts (Critical Success)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Open the Wall of Ghosts (Critical Success)"
 foundryId: Compendium.pf2e.spell-effects.Item.lGU4GIF2GUn21zFa

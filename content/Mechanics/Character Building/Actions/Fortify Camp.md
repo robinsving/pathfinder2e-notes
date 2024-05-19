@@ -1,5 +1,6 @@
 ---
 title: "Fortify Camp"
+draft: true
 noteType: ":luggage:"
 aliases: "Fortify Camp"
 foundryId: Item.QMpJELPDPygSgXnH

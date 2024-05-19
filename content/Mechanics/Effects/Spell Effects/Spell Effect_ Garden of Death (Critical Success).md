@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Garden of Death (Critical Success)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Garden of Death (Critical Success)"
 foundryId: Compendium.pf2e.spell-effects.Item.5xCheSMgtQhQZm00

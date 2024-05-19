@@ -1,5 +1,6 @@
 ---
 title: "Effect: Ancestral Journey"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Ancestral Journey"
 foundryId: Compendium.pf2e.bestiary-effects.Item.wHQZO70bSECtSUZn

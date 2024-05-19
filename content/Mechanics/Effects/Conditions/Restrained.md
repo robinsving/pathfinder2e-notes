@@ -1,5 +1,6 @@
 ---
 title: "Restrained"
+draft: true
 noteType: ":luggage:"
 aliases: "Restrained"
 foundryId: Item.U5nzqRmvmKqw2mt2

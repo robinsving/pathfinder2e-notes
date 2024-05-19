@@ -1,5 +1,6 @@
 ---
 title: "Effect: Envenom Fangs"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Envenom Fangs"
 foundryId: Compendium.pf2e.feat-effects.Item.yqCzUxrdLlk6Q9VW

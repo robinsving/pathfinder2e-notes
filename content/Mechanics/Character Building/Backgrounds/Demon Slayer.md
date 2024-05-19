@@ -1,5 +1,6 @@
 ---
 title: "Demon Slayer"
+draft: true
 noteType: ":luggage:"
 aliases: "Demon Slayer"
 foundryId: Item.mm7w4qtDVJBaEdmF

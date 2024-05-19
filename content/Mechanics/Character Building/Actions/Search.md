@@ -1,5 +1,6 @@
 ---
 title: "Search"
+draft: true
 noteType: ":luggage:"
 aliases: "Search"
 foundryId: Item.5tEQYUU8uf3EPkx3

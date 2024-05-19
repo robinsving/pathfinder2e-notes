@@ -1,5 +1,6 @@
 ---
 title: "Effect: Nymph Blood Magic (Self)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Nymph Blood Magic (Self)"
 foundryId: Compendium.pf2e.feat-effects.Item.SVGW8CLKwixFlnTv

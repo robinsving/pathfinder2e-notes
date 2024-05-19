@@ -1,5 +1,6 @@
 ---
 title: "Qi Zhong"
+draft: true
 noteType: ":luggage:"
 aliases: "Qi Zhong"
 foundryId: Item.mncZlhKbsLqbahtT

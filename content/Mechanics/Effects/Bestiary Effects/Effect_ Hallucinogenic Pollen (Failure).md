@@ -1,5 +1,6 @@
 ---
 title: "Effect: Hallucinogenic Pollen (Failure)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Hallucinogenic Pollen (Failure)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.GstmxSP75eKmHtCQ

@@ -1,5 +1,6 @@
 ---
 title: "Complex Simplicity"
+draft: true
 noteType: ":luggage:"
 aliases: "Complex Simplicity"
 foundryId: Item.CwpvmhdANF2w38O8

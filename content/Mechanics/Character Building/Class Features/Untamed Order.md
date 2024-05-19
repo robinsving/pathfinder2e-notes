@@ -1,5 +1,6 @@
 ---
 title: Untamed Order
+draft: true
 noteType: ":luggage:"
 aliases:
   - Untamed Order

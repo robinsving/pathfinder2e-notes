@@ -1,5 +1,6 @@
 ---
 title: "Purveyor of the Bizarre"
+draft: true
 noteType: ":luggage:"
 aliases: "Purveyor of the Bizarre"
 foundryId: Item.cQmNLuUFY15oUf7H

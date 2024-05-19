@@ -1,5 +1,6 @@
 ---
 title: "Chosen One"
+draft: true
 noteType: ":luggage:"
 aliases: "Chosen One"
 foundryId: Item.XZJg6gtSaXdfPPtG

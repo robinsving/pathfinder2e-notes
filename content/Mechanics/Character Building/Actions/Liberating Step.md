@@ -1,5 +1,6 @@
 ---
 title: "Liberating Step"
+draft: true
 noteType: ":luggage:"
 aliases: "Liberating Step"
 foundryId: Item.LFbozzu9HHN0U1vs

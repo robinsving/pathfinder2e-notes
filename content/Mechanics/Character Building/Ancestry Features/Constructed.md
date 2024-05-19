@@ -1,5 +1,6 @@
 ---
 title: "Constructed"
+draft: true
 noteType: ":luggage:"
 aliases: "Constructed"
 foundryId: Item.tgJioGIY1XZgrogf

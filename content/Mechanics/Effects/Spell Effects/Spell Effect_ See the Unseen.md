@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: See the Unseen"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: See the Unseen"
 foundryId: Compendium.pf2e.spell-effects.Item.T5bk6UH7yuYog1Fp

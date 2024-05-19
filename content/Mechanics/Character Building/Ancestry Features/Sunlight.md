@@ -1,5 +1,6 @@
 ---
 title: "Sunlight"
+draft: true
 noteType: ":luggage:"
 aliases: "Sunlight"
 foundryId: Item.VoGYlMBdG0Cuq9jo

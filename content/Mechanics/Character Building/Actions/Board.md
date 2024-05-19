@@ -1,5 +1,6 @@
 ---
 title: "Board"
+draft: true
 noteType: ":luggage:"
 aliases: "Board"
 foundryId: Item.FPDNZusXMtilwCkT

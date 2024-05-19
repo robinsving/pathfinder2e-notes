@@ -1,5 +1,6 @@
 ---
 title: "Effect: Curse of Engulfing Flames"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Curse of Engulfing Flames"
 foundryId: Compendium.pf2e.feat-effects.Item.hqeR9faxHj0NDFFP

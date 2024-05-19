@@ -1,5 +1,6 @@
 ---
 title: "Curandero"
+draft: true
 noteType: ":luggage:"
 aliases: "Curandero"
 foundryId: Item.udRq4dQbFrfNPhqe

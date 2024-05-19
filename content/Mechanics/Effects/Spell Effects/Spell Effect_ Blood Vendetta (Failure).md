@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Blood Vendetta (Failure)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Blood Vendetta (Failure)"
 foundryId: Compendium.pf2e.spell-effects.Item.buXx8Azr4BYWPtFg

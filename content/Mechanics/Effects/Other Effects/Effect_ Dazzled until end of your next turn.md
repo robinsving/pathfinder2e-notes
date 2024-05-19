@@ -1,5 +1,6 @@
 ---
 title: "Effect: Dazzled until end of your next turn"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Dazzled until end of your next turn"
 foundryId: Compendium.pf2e.other-effects.Item.uwYGEeqvt8pwjhXa

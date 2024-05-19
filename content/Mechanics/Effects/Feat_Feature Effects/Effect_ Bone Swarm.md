@@ -1,5 +1,6 @@
 ---
 title: "Effect: Bone Swarm"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Bone Swarm"
 foundryId: Compendium.pf2e.feat-effects.Item.r4kb2zDepFeczMsl

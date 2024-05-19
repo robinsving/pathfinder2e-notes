@@ -1,5 +1,6 @@
 ---
 title: "Field Discovery (Bomber)"
+draft: true
 noteType: ":luggage:"
 aliases: "Field Discovery (Bomber)"
 foundryId: Item.sWPFpgM5R4jszO7L

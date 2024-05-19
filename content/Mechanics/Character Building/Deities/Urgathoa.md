@@ -1,5 +1,6 @@
 ---
 title: "Urgathoa"
+draft: true
 noteType: ":luggage:"
 aliases: "Urgathoa"
 foundryId: Item.vFbXh1arXxhGCMYQ

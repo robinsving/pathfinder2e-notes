@@ -1,5 +1,6 @@
 ---
 title: "Anubis"
+draft: true
 noteType: ":luggage:"
 aliases: "Anubis"
 foundryId: Item.ilex2NpCKFkgNtsM

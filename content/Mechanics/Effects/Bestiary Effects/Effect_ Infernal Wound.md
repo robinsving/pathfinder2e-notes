@@ -1,5 +1,6 @@
 ---
 title: "Effect: Infernal Wound"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Infernal Wound"
 foundryId: Compendium.pf2e.bestiary-effects.Item.inLBsuLRE5xmVHdn

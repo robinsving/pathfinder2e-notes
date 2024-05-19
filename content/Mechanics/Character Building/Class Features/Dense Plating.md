@@ -1,5 +1,6 @@
 ---
 title: "Dense Plating"
+draft: true
 noteType: ":luggage:"
 aliases: "Dense Plating"
 foundryId: Item.y0FBuOpPMtYEPbpm

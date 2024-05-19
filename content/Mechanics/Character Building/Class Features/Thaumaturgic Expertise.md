@@ -1,5 +1,6 @@
 ---
 title: "Thaumaturgic Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Thaumaturgic Expertise"
 foundryId: Item.JeSHFeSIGCZHg2Ws

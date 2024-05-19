@@ -1,5 +1,6 @@
 ---
 title: "The Distant Grasp"
+draft: true
 noteType: ":luggage:"
 aliases: "The Distant Grasp"
 foundryId: Item.qd42EHMKnWXzJBp6

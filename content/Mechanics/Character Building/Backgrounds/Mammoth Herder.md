@@ -1,5 +1,6 @@
 ---
 title: "Mammoth Herder"
+draft: true
 noteType: ":luggage:"
 aliases: "Mammoth Herder"
 foundryId: Item.eqv5Jk0LvNxqCLlI

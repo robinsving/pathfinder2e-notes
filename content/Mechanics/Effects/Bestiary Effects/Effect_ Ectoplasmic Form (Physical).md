@@ -1,5 +1,6 @@
 ---
 title: "Effect: Ectoplasmic Form (Physical)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Ectoplasmic Form (Physical)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.QMcmhifNQOPguv2t

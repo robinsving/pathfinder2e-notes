@@ -1,5 +1,6 @@
 ---
 title: "Bell"
+draft: true
 noteType: ":luggage:"
 aliases: "Bell"
 foundryId: Item.sQzUrXuVJMqIImZH

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Shield Immunity"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Shield Immunity"
 foundryId: Compendium.pf2e.spell-effects.Item.QF6RDlCoTvkVHRo4

@@ -1,5 +1,6 @@
 ---
 title: "Insurgent"
+draft: true
 noteType: ":luggage:"
 aliases: "Insurgent"
 foundryId: Item.wIYtcQ40XhElouO6

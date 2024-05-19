@@ -1,5 +1,6 @@
 ---
 title: "Defensive Robes"
+draft: true
 noteType: ":luggage:"
 aliases: "Defensive Robes"
 foundryId: Item.0V8d0e5zGvUKLvjo

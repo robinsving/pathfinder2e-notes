@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Fiery Body (9th Level)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Fiery Body (9th Level)"
 foundryId: Compendium.pf2e.spell-effects.Item.U2eD42cGwdvQMdN0

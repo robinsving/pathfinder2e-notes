@@ -1,5 +1,6 @@
 ---
 title: Insistent Privacy Fence
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

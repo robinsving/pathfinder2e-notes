@@ -1,5 +1,6 @@
 ---
 title: "Stance: Drifting Pollen"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Drifting Pollen"
 foundryId: Compendium.pf2e.feat-effects.Item.8hmw9L2ORKz6Z6Bc

@@ -1,5 +1,6 @@
 ---
 title: "Wavesense"
+draft: true
 noteType: ":luggage:"
 aliases: "Wavesense"
 foundryId: Item.ndY8FwF28m1ylQqc

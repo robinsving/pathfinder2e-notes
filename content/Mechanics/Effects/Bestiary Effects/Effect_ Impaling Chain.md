@@ -1,5 +1,6 @@
 ---
 title: "Effect: Impaling Chain"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Impaling Chain"
 foundryId: Compendium.pf2e.bestiary-effects.Item.gjo8LR6uOhDM5W7L

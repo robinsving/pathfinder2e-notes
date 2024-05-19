@@ -1,5 +1,6 @@
 ---
 title: "General Susumu"
+draft: true
 noteType: ":luggage:"
 aliases: "General Susumu"
 foundryId: Item.f4XTxEGR6tan6lyz

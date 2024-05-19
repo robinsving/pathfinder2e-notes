@@ -1,5 +1,6 @@
 ---
 title: "Spell Substitution"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Substitution"
 foundryId: Item.xjyYDm4jXRjCxBY5

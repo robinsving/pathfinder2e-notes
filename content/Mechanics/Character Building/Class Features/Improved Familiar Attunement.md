@@ -1,5 +1,6 @@
 ---
 title: "Improved Familiar Attunement"
+draft: true
 noteType: ":luggage:"
 aliases: "Improved Familiar Attunement"
 foundryId: Item.FzZAKGq29tGgFJuW

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Warding Aggression (+1)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Warding Aggression (+1)"
 foundryId: Compendium.pf2e.spell-effects.Item.FR4ucNi2ceHZdrpB

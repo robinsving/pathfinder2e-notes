@@ -1,5 +1,6 @@
 ---
 title: "Effect: Assisting Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Assisting Shot"
 foundryId: Compendium.pf2e.feat-effects.Item.zcJii1XyOne9EvMr

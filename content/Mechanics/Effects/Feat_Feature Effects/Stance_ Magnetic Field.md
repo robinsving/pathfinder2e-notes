@@ -1,5 +1,6 @@
 ---
 title: "Stance: Magnetic Field"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Magnetic Field"
 foundryId: Compendium.pf2e.feat-effects.Item.PdFisHX9ZJmKEKCv

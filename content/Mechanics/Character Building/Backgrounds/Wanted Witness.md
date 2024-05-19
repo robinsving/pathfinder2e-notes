@@ -1,5 +1,6 @@
 ---
 title: "Wanted Witness"
+draft: true
 noteType: ":luggage:"
 aliases: "Wanted Witness"
 foundryId: Item.5sHobf6P5p4mvARK

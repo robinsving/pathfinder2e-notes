@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Demon Form (Vrock)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Demon Form (Vrock)"
 foundryId: Compendium.pf2e.spell-effects.Item.20egTKICPMhibqgn

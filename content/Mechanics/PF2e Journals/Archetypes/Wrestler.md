@@ -1,5 +1,6 @@
 ---
 title: "Wrestler"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Wrestler"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.drgCQcXZbIJU0Zhw

@@ -1,5 +1,6 @@
 ---
 title: "Treasure Per Encounter"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Treasure Per Encounter"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.oBOw6E6V7ncrB1rN

@@ -1,5 +1,6 @@
 ---
 title: "Muscular Exoskeleton"
+draft: true
 noteType: ":luggage:"
 aliases: "Muscular Exoskeleton"
 foundryId: Item.1xwYc9sbQUqILoJ6

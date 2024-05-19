@@ -1,5 +1,6 @@
 ---
 title: "Effect: Curse of Torrential Knowledge"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Curse of Torrential Knowledge"
 foundryId: Compendium.pf2e.feat-effects.Item.Tju9kpQlwcKkyKor

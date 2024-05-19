@@ -1,5 +1,6 @@
 ---
 title: "Unconscious"
+draft: true
 noteType: ":luggage:"
 aliases: "Unconscious"
 foundryId: Item.YS9XPgZJxKhh0zE8

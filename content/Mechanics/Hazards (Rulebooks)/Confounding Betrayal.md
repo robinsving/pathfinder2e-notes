@@ -1,5 +1,6 @@
 ---
 title: Confounding Betrayal
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

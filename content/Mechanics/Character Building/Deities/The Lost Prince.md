@@ -1,5 +1,6 @@
 ---
 title: "The Lost Prince"
+draft: true
 noteType: ":luggage:"
 aliases: "The Lost Prince"
 foundryId: Item.4zShuFVzP9R2FW49

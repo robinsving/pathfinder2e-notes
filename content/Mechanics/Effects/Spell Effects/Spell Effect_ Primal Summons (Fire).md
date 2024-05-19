@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Primal Summons (Fire)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Primal Summons (Fire)"
 foundryId: Compendium.pf2e.spell-effects.Item.blBXnWb1Y8q8YYMh

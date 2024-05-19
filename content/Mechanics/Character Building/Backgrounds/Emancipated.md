@@ -1,5 +1,6 @@
 ---
 title: "Emancipated"
+draft: true
 noteType: ":luggage:"
 aliases: "Emancipated"
 foundryId: Item.ccdLB3hr1ZUl1nit

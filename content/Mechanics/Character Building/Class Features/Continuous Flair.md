@@ -1,5 +1,6 @@
 ---
 title: "Continuous Flair"
+draft: true
 noteType: ":luggage:"
 aliases: "Continuous Flair"
 foundryId: Item.hBq9791ATkXTXHKB

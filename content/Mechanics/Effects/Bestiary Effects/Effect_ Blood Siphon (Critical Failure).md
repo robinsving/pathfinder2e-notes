@@ -1,5 +1,6 @@
 ---
 title: "Effect: Blood Siphon (Critical Failure)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Blood Siphon (Critical Failure)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.ceOkHxhJNTcvZkCy

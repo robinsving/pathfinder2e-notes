@@ -1,5 +1,6 @@
 ---
 title: "Spell Battery"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Battery"
 foundryId: Item.jhAhUv1mxTeUQwYj

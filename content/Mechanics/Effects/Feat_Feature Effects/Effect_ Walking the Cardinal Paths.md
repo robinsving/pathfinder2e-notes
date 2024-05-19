@@ -1,5 +1,6 @@
 ---
 title: "Effect: Walking the Cardinal Paths"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Walking the Cardinal Paths"
 foundryId: Compendium.pf2e.feat-effects.Item.kui8yKIVsxfJnrYe

@@ -1,5 +1,6 @@
 ---
 title: "Hookclaw Digger"
+draft: true
 noteType: ":luggage:"
 aliases: "Hookclaw Digger"
 foundryId: Item.mnjMsHdKQfSw0VFi

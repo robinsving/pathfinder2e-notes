@@ -1,5 +1,6 @@
 ---
 title: "Nantambu Chime-Ringer"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Nantambu Chime-Ringer"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.sY25SoDaHBPIG5Jw

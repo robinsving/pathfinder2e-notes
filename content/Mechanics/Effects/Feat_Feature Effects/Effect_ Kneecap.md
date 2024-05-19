@@ -1,5 +1,6 @@
 ---
 title: "Effect: Kneecap"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Kneecap"
 foundryId: Compendium.pf2e.feat-effects.Item.kZdVPBO58uq38KIR

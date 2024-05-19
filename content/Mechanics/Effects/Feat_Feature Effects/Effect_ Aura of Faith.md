@@ -1,5 +1,6 @@
 ---
 title: "Effect: Aura of Faith"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Aura of Faith"
 foundryId: Compendium.pf2e.feat-effects.Item.VOOShYoB4gTopZtg

@@ -1,5 +1,6 @@
 ---
 title: "Revenant"
+draft: true
 noteType: ":luggage:"
 aliases: "Revenant"
 foundryId: Item.MHANHzfYzj2fsjiL

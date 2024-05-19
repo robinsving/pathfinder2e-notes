@@ -1,5 +1,6 @@
 ---
 title: Wounded 1
+draft: true
 noteType: ":luggage:"
 aliases:
   - Wounded 1

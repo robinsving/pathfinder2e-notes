@@ -1,5 +1,6 @@
 ---
 title: "Light Effects"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Light Effects"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.7jQ2x83KUFD8Wj6w

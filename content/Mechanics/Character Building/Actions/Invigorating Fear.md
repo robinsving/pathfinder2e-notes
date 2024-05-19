@@ -1,5 +1,6 @@
 ---
 title: "Invigorating Fear"
+draft: true
 noteType: ":luggage:"
 aliases: "Invigorating Fear"
 foundryId: Item.1ppnRXrQ4YXbAjJC

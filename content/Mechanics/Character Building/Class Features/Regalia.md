@@ -1,5 +1,6 @@
 ---
 title: "Regalia"
+draft: true
 noteType: ":luggage:"
 aliases: "Regalia"
 foundryId: Item.bhNrVcmqr8zZdLQQ

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Eye of the Arclords"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Eye of the Arclords"
 foundryId: Compendium.pf2e.feat-effects.Item.5IGz4iheaiUWm5KR

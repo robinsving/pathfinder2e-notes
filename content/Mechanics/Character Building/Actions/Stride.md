@@ -1,5 +1,6 @@
 ---
 title: "Stride"
+draft: true
 noteType: ":luggage:"
 aliases: "Stride"
 foundryId: Item.EYlePPmxvcwz7YzV

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Life-Giving Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Life-Giving Magic"
 foundryId: Compendium.pf2e.feat-effects.Item.YKJhjkerCW0Jl6HP

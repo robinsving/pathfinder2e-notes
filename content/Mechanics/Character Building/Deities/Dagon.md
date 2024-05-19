@@ -1,5 +1,6 @@
 ---
 title: "Dagon"
+draft: true
 noteType: ":luggage:"
 aliases: "Dagon"
 foundryId: Item.3iery6wLNqubGTqT

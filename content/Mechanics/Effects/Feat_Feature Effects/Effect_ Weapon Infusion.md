@@ -1,5 +1,6 @@
 ---
 title: "Effect: Weapon Infusion"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Weapon Infusion"
 foundryId: Compendium.pf2e.feat-effects.Item.zezKegTvOArcDQ0x

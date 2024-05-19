@@ -1,5 +1,6 @@
 ---
 title: "Halcamora"
+draft: true
 noteType: ":luggage:"
 aliases: "Halcamora"
 foundryId: Item.UQOzwAgklRqNGLWF

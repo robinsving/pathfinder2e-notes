@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Divine Vessel (Lawful)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Divine Vessel (Lawful)"
 foundryId: Compendium.pf2e.spell-effects.Item.tBgwWblDp1xdxN4D

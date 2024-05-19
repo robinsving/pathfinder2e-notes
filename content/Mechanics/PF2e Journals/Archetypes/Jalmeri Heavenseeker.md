@@ -1,5 +1,6 @@
 ---
 title: "Jalmeri Heavenseeker"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Jalmeri Heavenseeker"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.NaG4fy33coUdSFtH

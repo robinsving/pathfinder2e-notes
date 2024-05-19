@@ -1,5 +1,6 @@
 ---
 title: "Ratfolk"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Ratfolk"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.zoSkNev57C8OEDYL

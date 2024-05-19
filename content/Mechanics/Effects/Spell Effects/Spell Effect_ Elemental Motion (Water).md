@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Elemental Motion (Water)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Elemental Motion (Water)"
 foundryId: Compendium.pf2e.spell-effects.Item.D0Qj5tC1hGUjzQc4

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Incendiary Dollop"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Incendiary Dollop"
 foundryId: Compendium.pf2e.bestiary-effects.Item.Z6cOCgyVwTr5t3yQ

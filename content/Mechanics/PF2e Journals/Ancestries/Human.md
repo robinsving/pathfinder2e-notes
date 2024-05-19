@@ -1,5 +1,6 @@
 ---
 title: "Human"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Human"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.7pU8yM7yPMw92SY3

@@ -1,5 +1,6 @@
 ---
 title: "Ruffian"
+draft: true
 noteType: ":luggage:"
 aliases: "Ruffian"
 foundryId: Item.0ciqNArWqww0smlX

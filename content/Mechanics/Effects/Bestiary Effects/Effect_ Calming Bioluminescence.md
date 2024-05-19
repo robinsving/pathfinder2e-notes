@@ -1,5 +1,6 @@
 ---
 title: "Effect: Calming Bioluminescence"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Calming Bioluminescence"
 foundryId: Compendium.pf2e.bestiary-effects.Item.pfG1S7yShwkHT9e0

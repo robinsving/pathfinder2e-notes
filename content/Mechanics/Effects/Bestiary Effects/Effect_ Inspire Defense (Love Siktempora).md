@@ -1,5 +1,6 @@
 ---
 title: "Effect: Inspire Defense (Love Siktempora)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Inspire Defense (Love Siktempora)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.MKC2ne315YiCUiWd

@@ -1,5 +1,6 @@
 ---
 title: "Firebrand Braggart"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Firebrand Braggart"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.F7W15pGOeSeNJD0C

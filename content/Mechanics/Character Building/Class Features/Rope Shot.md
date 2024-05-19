@@ -1,5 +1,6 @@
 ---
 title: "Rope Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Rope Shot"
 foundryId: Item.rBAqqUXw7mTINJSu

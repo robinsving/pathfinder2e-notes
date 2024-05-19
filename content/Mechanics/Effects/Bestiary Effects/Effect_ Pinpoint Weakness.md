@@ -1,5 +1,6 @@
 ---
 title: "Effect: Pinpoint Weakness"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Pinpoint Weakness"
 foundryId: Compendium.pf2e.bestiary-effects.Item.Il7YN8zlu3dfw3IE

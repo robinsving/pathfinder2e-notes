@@ -1,5 +1,6 @@
 ---
 title: "Automaton"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Automaton"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.rsx8cRI20oEDgfQh

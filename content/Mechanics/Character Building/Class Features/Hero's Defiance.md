@@ -1,5 +1,6 @@
 ---
 title: "Hero's Defiance"
+draft: true
 noteType: ":luggage:"
 aliases: "Hero's Defiance"
 foundryId: Item.SPqt3vVsck14A5Fu

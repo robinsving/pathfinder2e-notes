@@ -1,5 +1,6 @@
 ---
 title: "Spotter"
+draft: true
 noteType: ":luggage:"
 aliases: "Spotter"
 foundryId: Item.K8GdaFsFUkGHwRmE

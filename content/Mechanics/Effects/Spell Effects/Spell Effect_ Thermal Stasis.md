@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Thermal Stasis"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Thermal Stasis"
 foundryId: Compendium.pf2e.spell-effects.Item.Y6aNYnGVXdAMvL7Y

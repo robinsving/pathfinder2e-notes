@@ -1,5 +1,6 @@
 ---
 title: "Songsinger in Training"
+draft: true
 noteType: ":luggage:"
 aliases: "Songsinger in Training"
 foundryId: Item.sQDBW66EUhkA84xI

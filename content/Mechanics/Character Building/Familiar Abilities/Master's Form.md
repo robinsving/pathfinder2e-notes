@@ -1,5 +1,6 @@
 ---
 title: "Master's Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Master's Form"
 foundryId: Item.hAs35PxLHyEUDooo

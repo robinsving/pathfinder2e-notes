@@ -1,5 +1,6 @@
 ---
 title: Weapon Expertise
+draft: true
 noteType: ":luggage:"
 aliases:
   - Weapon Expertise

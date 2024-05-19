@@ -1,5 +1,6 @@
 ---
 title: "Truth Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Truth Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.lgsJz7mZ1OTe340e

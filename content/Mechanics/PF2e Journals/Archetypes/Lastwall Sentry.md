@@ -1,5 +1,6 @@
 ---
 title: "Lastwall Sentry"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Lastwall Sentry"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.pg9fG1ikcgJZRWlk

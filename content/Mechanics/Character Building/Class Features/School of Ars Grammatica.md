@@ -1,5 +1,6 @@
 ---
 title: "School of Ars Grammatica"
+draft: true
 noteType: ":luggage:"
 aliases: "School of Ars Grammatica"
 foundryId: Item.2qZQLGTNhuyYhLmS

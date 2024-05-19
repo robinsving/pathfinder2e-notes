@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Dragon Form (Adamantine)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Dragon Form (Adamantine)"
 foundryId: Compendium.pf2e.spell-effects.Item.rHXOZAFBdRXIlxt5

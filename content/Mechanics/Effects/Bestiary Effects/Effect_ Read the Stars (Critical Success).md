@@ -1,5 +1,6 @@
 ---
 title: "Effect: Read the Stars (Critical Success)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Read the Stars (Critical Success)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.rbgXQqXbpaQCcNNx

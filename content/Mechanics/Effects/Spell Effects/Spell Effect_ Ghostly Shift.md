@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Ghostly Shift"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Ghostly Shift"
 foundryId: Compendium.pf2e.spell-effects.Item.vUjRvriyuHDZrsgc

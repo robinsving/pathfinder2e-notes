@@ -1,5 +1,6 @@
 ---
 title: "Effect: Imperial Blood Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Imperial Blood Magic"
 foundryId: Compendium.pf2e.feat-effects.Item.vguxP8ukwVTWWWaA

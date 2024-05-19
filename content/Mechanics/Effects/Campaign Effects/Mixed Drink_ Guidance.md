@@ -1,5 +1,6 @@
 ---
 title: "Mixed Drink: Guidance"
+draft: true
 noteType: ":luggage:"
 aliases: "Mixed Drink: Guidance"
 foundryId: Compendium.pf2e.campaign-effects.Item.cESIlNrgjo1uW71D

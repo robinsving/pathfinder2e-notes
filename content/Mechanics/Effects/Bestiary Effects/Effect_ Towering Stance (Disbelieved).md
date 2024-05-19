@@ -1,5 +1,6 @@
 ---
 title: "Effect: Towering Stance (Disbelieved)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Towering Stance (Disbelieved)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.PxLWRiCbgpqOTLO9

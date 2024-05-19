@@ -1,5 +1,6 @@
 ---
 title: "Lesson of Death"
+draft: true
 noteType: ":luggage:"
 aliases: "Lesson of Death"
 foundryId: Item.ioYJ1VKCDnGyCmAs

@@ -1,5 +1,6 @@
 ---
 title: "Conqueror Worm"
+draft: true
 noteType: ":luggage:"
 aliases: "Conqueror Worm"
 foundryId: Item.fEGMT0NfAr4O2WKI

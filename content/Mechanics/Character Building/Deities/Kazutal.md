@@ -1,5 +1,6 @@
 ---
 title: "Kazutal"
+draft: true
 noteType: ":luggage:"
 aliases: "Kazutal"
 foundryId: Item.L8ucnxJv0QxF5cfW

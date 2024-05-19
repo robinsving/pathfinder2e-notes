@@ -1,5 +1,6 @@
 ---
 title: "Effect: Guardian's Embrace"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Guardian's Embrace"
 foundryId: Compendium.pf2e.feat-effects.Item.X19XgqqItqZ4tfmq

@@ -1,5 +1,6 @@
 ---
 title: "Hydration"
+draft: true
 noteType: ":luggage:"
 aliases: "Hydration"
 foundryId: Item.SjEAmslOMOw0tuIM

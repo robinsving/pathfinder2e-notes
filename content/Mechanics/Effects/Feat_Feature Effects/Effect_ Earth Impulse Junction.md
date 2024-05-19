@@ -1,5 +1,6 @@
 ---
 title: "Effect: Earth Impulse Junction"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Earth Impulse Junction"
 foundryId: Compendium.pf2e.feat-effects.Item.09oP0FBBAhXOS4JW

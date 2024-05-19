@@ -1,5 +1,6 @@
 ---
 title: "Energy Barrier"
+draft: true
 noteType: ":luggage:"
 aliases: "Energy Barrier"
 foundryId: Item.8zv34kdd14omUrF2

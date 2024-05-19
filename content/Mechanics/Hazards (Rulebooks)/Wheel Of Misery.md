@@ -1,5 +1,6 @@
 ---
 title: Wheel Of Misery
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

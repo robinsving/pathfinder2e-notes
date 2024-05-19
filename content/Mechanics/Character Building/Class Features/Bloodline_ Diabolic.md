@@ -1,5 +1,6 @@
 ---
 title: "Bloodline: Diabolic"
+draft: true
 noteType: ":luggage:"
 aliases: "Bloodline: Diabolic"
 foundryId: Item.YuShyhS12G880dla

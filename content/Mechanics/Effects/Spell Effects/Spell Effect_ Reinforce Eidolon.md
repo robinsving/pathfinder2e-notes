@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Reinforce Eidolon"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Reinforce Eidolon"
 foundryId: Compendium.pf2e.spell-effects.Item.UVrEe0nukiSmiwfF

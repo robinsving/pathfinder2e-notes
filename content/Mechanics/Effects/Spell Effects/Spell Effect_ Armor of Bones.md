@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Armor of Bones"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Armor of Bones"
 foundryId: Compendium.pf2e.spell-effects.Item.6BjslHgY01cNbKp5

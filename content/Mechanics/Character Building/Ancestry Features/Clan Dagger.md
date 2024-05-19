@@ -1,5 +1,6 @@
 ---
 title: "Clan Dagger"
+draft: true
 noteType: ":luggage:"
 aliases: "Clan Dagger"
 foundryId: Item.n9fUl1BDlZZUAjqp

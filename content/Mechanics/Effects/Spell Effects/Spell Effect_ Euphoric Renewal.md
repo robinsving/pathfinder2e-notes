@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Euphoric Renewal"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Euphoric Renewal"
 foundryId: Compendium.pf2e.spell-effects.Item.16QrxIYal7PJFL2W

@@ -1,5 +1,6 @@
 ---
 title: "Swashbuckler Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Swashbuckler Expertise"
 foundryId: Item.KNg5Wj3QFJmoO6tS

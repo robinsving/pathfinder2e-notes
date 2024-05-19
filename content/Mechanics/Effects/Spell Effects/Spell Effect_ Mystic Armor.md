@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Mystic Armor"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Mystic Armor"
 foundryId: Compendium.pf2e.spell-effects.Item.qkwb5DD3zmKwvbk0

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Consume Soul"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Consume Soul"
 foundryId: Compendium.pf2e.bestiary-effects.Item.YOH7YsdlsLzlMu69

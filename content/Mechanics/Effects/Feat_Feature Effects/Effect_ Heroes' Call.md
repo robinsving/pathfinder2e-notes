@@ -1,5 +1,6 @@
 ---
 title: "Effect: Heroes' Call"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Heroes' Call"
 foundryId: Compendium.pf2e.feat-effects.Item.BHnunYPROBG5lxv4

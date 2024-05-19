@@ -1,5 +1,6 @@
 ---
 title: "Grundinnar"
+draft: true
 noteType: ":luggage:"
 aliases: "Grundinnar"
 foundryId: Item.0m7JbRGjJXcmTz7H

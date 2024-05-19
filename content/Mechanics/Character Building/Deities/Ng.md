@@ -1,5 +1,6 @@
 ---
 title: "Ng"
+draft: true
 noteType: ":luggage:"
 aliases: "Ng"
 foundryId: Item.EeKXCwICezNjtD1I

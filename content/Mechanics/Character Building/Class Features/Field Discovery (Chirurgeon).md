@@ -1,5 +1,6 @@
 ---
 title: "Field Discovery (Chirurgeon)"
+draft: true
 noteType: ":luggage:"
 aliases: "Field Discovery (Chirurgeon)"
 foundryId: Item.44d89B8QB99qgtaj

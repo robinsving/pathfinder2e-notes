@@ -1,5 +1,6 @@
 ---
 title: "Stance: Mobile Shot Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Mobile Shot Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.NWOmJ6WJFheaGhho

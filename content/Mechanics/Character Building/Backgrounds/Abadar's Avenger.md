@@ -1,5 +1,6 @@
 ---
 title: "Abadar's Avenger"
+draft: true
 noteType: ":luggage:"
 aliases: "Abadar's Avenger"
 foundryId: Item.QeG30T5ID2CY4YT3

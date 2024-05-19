@@ -1,5 +1,6 @@
 ---
 title: "Final Doctrine (Cloistered Cleric)"
+draft: true
 noteType: ":luggage:"
 aliases: "Final Doctrine (Cloistered Cleric)"
 foundryId: Item.0VLe0Y2CGC0qSf89

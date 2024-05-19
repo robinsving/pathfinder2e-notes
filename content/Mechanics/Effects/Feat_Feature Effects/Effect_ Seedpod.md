@@ -1,5 +1,6 @@
 ---
 title: "Effect: Seedpod"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Seedpod"
 foundryId: Compendium.pf2e.feat-effects.Item.wQDHpOKY3GZqvS2v

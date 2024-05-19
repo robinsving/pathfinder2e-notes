@@ -1,5 +1,6 @@
 ---
 title: "Yamatsumi"
+draft: true
 noteType: ":luggage:"
 aliases: "Yamatsumi"
 foundryId: Item.NNBpk9hcdl3AHqzu

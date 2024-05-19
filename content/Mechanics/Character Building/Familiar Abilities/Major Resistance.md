@@ -1,5 +1,6 @@
 ---
 title: "Major Resistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Major Resistance"
 foundryId: Item.vkJElmUTuqmTxp5h

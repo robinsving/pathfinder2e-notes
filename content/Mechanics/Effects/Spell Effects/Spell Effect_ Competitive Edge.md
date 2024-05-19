@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Competitive Edge"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Competitive Edge"
 foundryId: Compendium.pf2e.spell-effects.Item.iJ7TVW5tDnZG9DG8

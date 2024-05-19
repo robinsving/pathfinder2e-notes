@@ -1,5 +1,6 @@
 ---
 title: "Stubborn"
+draft: true
 noteType: ":luggage:"
 aliases: "Stubborn"
 foundryId: Item.FjTOY4uxZw2r68oA

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Haste"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Haste"
 foundryId: Compendium.pf2e.spell-effects.Item.ElkXovNrHB0Doi6O

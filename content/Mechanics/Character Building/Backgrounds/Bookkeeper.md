@@ -1,5 +1,6 @@
 ---
 title: "Bookkeeper"
+draft: true
 noteType: ":luggage:"
 aliases: "Bookkeeper"
 foundryId: Item.iCWGGLXiBIBNhgXE

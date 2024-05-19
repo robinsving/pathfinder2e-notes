@@ -1,5 +1,6 @@
 ---
 title: "Magic Warrior"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Magic Warrior"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.zxY04QNfB90gjLoh

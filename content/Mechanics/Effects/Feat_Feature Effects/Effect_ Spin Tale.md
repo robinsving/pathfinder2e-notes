@@ -1,5 +1,6 @@
 ---
 title: "Effect: Spin Tale"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Spin Tale"
 foundryId: Compendium.pf2e.feat-effects.Item.UzIamWcEJTOjwfoA

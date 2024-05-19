@@ -1,5 +1,6 @@
 ---
 title: "Raise a Shield"
+draft: true
 noteType: ":luggage:"
 aliases: "Raise a Shield"
 foundryId: Item.VJgxkKeAS8LXTPRt

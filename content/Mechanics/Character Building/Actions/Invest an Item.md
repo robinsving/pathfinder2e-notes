@@ -1,5 +1,6 @@
 ---
 title: "Invest an Item"
+draft: true
 noteType: ":luggage:"
 aliases: "Invest an Item"
 foundryId: Item.WXbUthSaUxx6cFru

@@ -1,5 +1,6 @@
 ---
 title: "Inventor"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Inventor"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.aAm6jY2k5qBuWETd

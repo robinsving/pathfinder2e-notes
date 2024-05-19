@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Ooze Form (Gray Ooze)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Ooze Form (Gray Ooze)"
 foundryId: Compendium.pf2e.spell-effects.Item.7tfF8ifVvOKNud8t

@@ -1,5 +1,6 @@
 ---
 title: "Ghost"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Ghost"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.aIpIUbupTjw2863C

@@ -1,5 +1,6 @@
 ---
 title: "Perpetual Potency (Chirurgeon)"
+draft: true
 noteType: ":luggage:"
 aliases: "Perpetual Potency (Chirurgeon)"
 foundryId: Item.JSh4KLHw2b69WorO

@@ -1,5 +1,6 @@
 ---
 title: "Create Forgery"
+draft: true
 noteType: ":luggage:"
 aliases: "Create Forgery"
 foundryId: Item.5lLBbSFkBAlpKHU9

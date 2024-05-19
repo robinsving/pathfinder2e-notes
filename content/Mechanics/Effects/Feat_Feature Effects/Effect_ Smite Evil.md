@@ -1,5 +1,6 @@
 ---
 title: "Effect: Smite Evil"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Smite Evil"
 foundryId: Compendium.pf2e.feat-effects.Item.AlnxieIRjqNqsdVu

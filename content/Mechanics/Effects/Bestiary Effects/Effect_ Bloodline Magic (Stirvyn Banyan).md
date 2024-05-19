@@ -1,5 +1,6 @@
 ---
 title: "Effect: Bloodline Magic (Stirvyn Banyan)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Bloodline Magic (Stirvyn Banyan)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.EqdXFH2l0TyeOTQz

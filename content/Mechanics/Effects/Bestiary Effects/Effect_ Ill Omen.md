@@ -1,5 +1,6 @@
 ---
 title: "Effect: Ill Omen"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Ill Omen"
 foundryId: Compendium.pf2e.bestiary-effects.Item.zXzXDlh0HkyPJu8f

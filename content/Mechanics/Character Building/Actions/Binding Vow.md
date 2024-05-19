@@ -1,5 +1,6 @@
 ---
 title: "Binding Vow"
+draft: true
 noteType: ":luggage:"
 aliases: "Binding Vow"
 foundryId: Item.7KvskQyE74rY9iEn

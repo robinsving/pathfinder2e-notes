@@ -1,5 +1,6 @@
 ---
 title: "Cultist"
+draft: true
 noteType: ":luggage:"
 aliases: "Cultist"
 foundryId: Item.61lt5DdIDUjeh6pM

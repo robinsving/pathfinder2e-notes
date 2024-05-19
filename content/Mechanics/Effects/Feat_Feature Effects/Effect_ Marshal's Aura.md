@@ -1,5 +1,6 @@
 ---
 title: "Effect: Marshal's Aura"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Marshal's Aura"
 foundryId: Compendium.pf2e.feat-effects.Item.Ru4BNABCZ0hUbX7S

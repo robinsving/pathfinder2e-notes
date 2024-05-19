@@ -1,5 +1,6 @@
 ---
 title: "Necromancer's Apprentice"
+draft: true
 noteType: ":luggage:"
 aliases: "Necromancer's Apprentice"
 foundryId: Item.dthHlZKNarxCDz8V

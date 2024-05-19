@@ -1,5 +1,6 @@
 ---
 title: "Effect: -2 circumstance penalty to attack rolls with this weapon"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: -2 circumstance penalty to attack rolls with this weapon"
 foundryId: Compendium.pf2e.other-effects.Item.UZabiyynJWuUblMk

@@ -1,5 +1,6 @@
 ---
 title: "Sorrow Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Sorrow Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.5TqEbLR9QT3gJGe3

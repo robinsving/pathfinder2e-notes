@@ -1,5 +1,6 @@
 ---
 title: "Effect: Entity's Resurgence"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Entity's Resurgence"
 foundryId: Compendium.pf2e.feat-effects.Item.yr5ey5qC8dXH749T

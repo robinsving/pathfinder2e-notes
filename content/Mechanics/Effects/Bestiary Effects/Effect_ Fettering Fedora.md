@@ -1,5 +1,6 @@
 ---
 title: "Effect: Fettering Fedora"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Fettering Fedora"
 foundryId: Compendium.pf2e.bestiary-effects.Item.FQrNDisx6noJnFaQ

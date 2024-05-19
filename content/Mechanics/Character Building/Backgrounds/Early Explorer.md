@@ -1,5 +1,6 @@
 ---
 title: "Early Explorer"
+draft: true
 noteType: ":luggage:"
 aliases: "Early Explorer"
 foundryId: Item.FcWHgLRAIAlbA10F

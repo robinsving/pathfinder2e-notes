@@ -1,5 +1,6 @@
 ---
 title: "Patron's Presence"
+draft: true
 noteType: ":luggage:"
 aliases: "Patron's Presence"
 foundryId: Item.77ENoZAi9SExZnKp

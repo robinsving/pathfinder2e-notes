@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Bullhorn"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Bullhorn"
 foundryId: Compendium.pf2e.spell-effects.Item.9yzlmYUdvdQshTDF

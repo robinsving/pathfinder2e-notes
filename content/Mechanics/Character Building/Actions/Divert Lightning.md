@@ -1,5 +1,6 @@
 ---
 title: "Divert Lightning"
+draft: true
 noteType: ":luggage:"
 aliases: "Divert Lightning"
 foundryId: Item.v3gWjpcNlUSqEPuq

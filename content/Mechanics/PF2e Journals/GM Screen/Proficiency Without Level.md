@@ -1,5 +1,6 @@
 ---
 title: "Proficiency Without Level"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Proficiency Without Level"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.XH3xabCB01FiCRal

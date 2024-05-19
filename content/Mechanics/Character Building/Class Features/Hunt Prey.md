@@ -1,5 +1,6 @@
 ---
 title: "Hunt Prey"
+draft: true
 noteType: ":luggage:"
 aliases: "Hunt Prey"
 foundryId: Item.997vXLuAWSkZ2BJs

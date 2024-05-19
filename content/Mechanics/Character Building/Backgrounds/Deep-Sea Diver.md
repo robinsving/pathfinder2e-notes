@@ -1,5 +1,6 @@
 ---
 title: "Deep-Sea Diver"
+draft: true
 noteType: ":luggage:"
 aliases: "Deep-Sea Diver"
 foundryId: Item.AJkBo7Cl3sqHrkwP

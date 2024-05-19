@@ -1,5 +1,6 @@
 ---
 title: "Bloodline: Elemental"
+draft: true
 noteType: ":luggage:"
 aliases: "Bloodline: Elemental"
 foundryId: Item.b5syP2IMG9znLUAp

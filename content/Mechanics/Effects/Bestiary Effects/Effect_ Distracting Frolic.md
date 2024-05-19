@@ -1,5 +1,6 @@
 ---
 title: "Effect: Distracting Frolic"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Distracting Frolic"
 foundryId: Compendium.pf2e.bestiary-effects.Item.E10qJgInN8Fx3yhW

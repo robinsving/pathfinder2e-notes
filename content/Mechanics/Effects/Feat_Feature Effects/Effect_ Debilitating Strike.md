@@ -1,5 +1,6 @@
 ---
 title: "Effect: Debilitating Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Debilitating Strike"
 foundryId: Compendium.pf2e.feat-effects.Item.yBTASi3FvnReAwHy

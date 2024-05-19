@@ -1,5 +1,6 @@
 ---
 title: "Skode"
+draft: true
 noteType: ":luggage:"
 aliases: "Skode"
 foundryId: Item.LFeJB5Y56o0aXO8R

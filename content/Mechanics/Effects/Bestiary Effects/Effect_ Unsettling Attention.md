@@ -1,5 +1,6 @@
 ---
 title: "Effect: Unsettling Attention"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Unsettling Attention"
 foundryId: Compendium.pf2e.bestiary-effects.Item.MxArXuo8JRCm1hus

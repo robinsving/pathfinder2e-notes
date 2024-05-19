@@ -1,5 +1,6 @@
 ---
 title: "Effect: Field of Undeath"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Field of Undeath"
 foundryId: Compendium.pf2e.bestiary-effects.Item.x8e0MXrPgdRYQqBm

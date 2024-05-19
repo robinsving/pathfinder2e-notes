@@ -1,5 +1,6 @@
 ---
 title: "Independent"
+draft: true
 noteType: ":luggage:"
 aliases: "Independent"
 foundryId: Item.QzYnCHsXjj5NW2F5

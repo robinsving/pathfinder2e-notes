@@ -1,5 +1,6 @@
 ---
 title: "Effect: Call to Halt (Success)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Call to Halt (Success)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.pvA97TXnq7wCbXp6

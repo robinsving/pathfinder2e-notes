@@ -1,5 +1,6 @@
 ---
 title: "Effect: Hag Blood Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Hag Blood Magic"
 foundryId: Compendium.pf2e.feat-effects.Item.6fb15XuSV4TNuVAT

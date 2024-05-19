@@ -1,5 +1,6 @@
 ---
 title: "Greater Eidolon Specialization"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Eidolon Specialization"
 foundryId: Item.rFXfZ1RiJI8LK6vO

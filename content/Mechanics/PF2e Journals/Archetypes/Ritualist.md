@@ -1,5 +1,6 @@
 ---
 title: "Ritualist"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Ritualist"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.Ph7yWRR376aYh12T

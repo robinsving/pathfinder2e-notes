@@ -1,5 +1,6 @@
 ---
 title: "Call to Axis"
+draft: true
 noteType: ":luggage:"
 aliases: "Call to Axis"
 foundryId: Item.G7Hwo2DwYRfWCgtF

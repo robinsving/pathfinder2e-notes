@@ -1,5 +1,6 @@
 ---
 title: "Effect: Curse of Ancestral Meddling"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Curse of Ancestral Meddling"
 foundryId: Compendium.pf2e.feat-effects.Item.V6lnFOq998B76Rr0

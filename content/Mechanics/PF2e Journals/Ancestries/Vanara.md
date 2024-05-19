@@ -1,5 +1,6 @@
 ---
 title: "Vanara"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Vanara"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.40koksC576nYV2Tf

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Fey Form (Elananx)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Fey Form (Elananx)"
 foundryId: Compendium.pf2e.spell-effects.Item.S75DOLjKaSJGMc0D

@@ -1,5 +1,6 @@
 ---
 title: "Keen Eyes"
+draft: true
 noteType: ":luggage:"
 aliases: "Keen Eyes"
 foundryId: Item.HhtSLiGT2FKiPCbo

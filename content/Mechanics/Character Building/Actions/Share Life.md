@@ -1,5 +1,6 @@
 ---
 title: "Share Life"
+draft: true
 noteType: ":luggage:"
 aliases: "Share Life"
 foundryId: Item.2u45J0WahxSNNpBF

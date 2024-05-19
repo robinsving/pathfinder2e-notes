@@ -1,5 +1,6 @@
 ---
 title: "Effect: Curse of Living Death"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Curse of Living Death"
 foundryId: Compendium.pf2e.feat-effects.Item.6fObd480rDBkFwZ3

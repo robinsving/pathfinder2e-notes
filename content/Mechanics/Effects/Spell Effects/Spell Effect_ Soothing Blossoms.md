@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Soothing Blossoms"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Soothing Blossoms"
 foundryId: Compendium.pf2e.spell-effects.Item.nIryhRgeiacQw1Em

@@ -1,5 +1,6 @@
 ---
 title: "Eidolon Defensive Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Eidolon Defensive Expertise"
 foundryId: Item.d4yixexD4XHtzsKW

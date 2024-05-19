@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Schadenfreude (Success)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Schadenfreude (Success)"
 foundryId: Compendium.pf2e.spell-effects.Item.TjGHxli0edXI6rAg

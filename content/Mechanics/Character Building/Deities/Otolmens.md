@@ -1,5 +1,6 @@
 ---
 title: "Otolmens"
+draft: true
 noteType: ":luggage:"
 aliases: "Otolmens"
 foundryId: Item.IbbfnVDqa7j8LhI2

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Rune of Smiting (Greatsword)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Rune of Smiting (Greatsword)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.VAy6IZ0ck7ALVL4b

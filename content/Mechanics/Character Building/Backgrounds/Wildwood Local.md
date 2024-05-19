@@ -1,5 +1,6 @@
 ---
 title: "Wildwood Local"
+draft: true
 noteType: ":luggage:"
 aliases: "Wildwood Local"
 foundryId: Item.Ru2fa6bEyvE36Epj

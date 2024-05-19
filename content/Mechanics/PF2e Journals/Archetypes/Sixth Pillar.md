@@ -1,5 +1,6 @@
 ---
 title: "Sixth Pillar"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Sixth Pillar"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.F5gBiVGbS8YSgPSI

@@ -1,5 +1,6 @@
 ---
 title: "Find Fault"
+draft: true
 noteType: ":luggage:"
 aliases: "Find Fault"
 foundryId: Item.jzbxiTGQuk9hYPAI

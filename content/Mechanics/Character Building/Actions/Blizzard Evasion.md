@@ -1,5 +1,6 @@
 ---
 title: "Blizzard Evasion"
+draft: true
 noteType: ":luggage:"
 aliases: "Blizzard Evasion"
 foundryId: Item.QksT9Qyldrxu4DJ3

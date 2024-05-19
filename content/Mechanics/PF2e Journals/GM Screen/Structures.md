@@ -1,5 +1,6 @@
 ---
 title: "Structures"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Structures"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.FOI43M8DJe2lkMwl

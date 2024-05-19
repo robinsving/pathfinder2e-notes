@@ -1,5 +1,6 @@
 ---
 title: "Storm Survivor"
+draft: true
 noteType: ":luggage:"
 aliases: "Storm Survivor"
 foundryId: Item.zP0p7MJwe6mgjmk9

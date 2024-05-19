@@ -1,5 +1,6 @@
 ---
 title: "Thrill-Seeker"
+draft: true
 noteType: ":luggage:"
 aliases: "Thrill-Seeker"
 foundryId: Item.sr2XZ4FoUfqhtWYa

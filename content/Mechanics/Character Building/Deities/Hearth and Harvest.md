@@ -1,5 +1,6 @@
 ---
 title: "Hearth and Harvest"
+draft: true
 noteType: ":luggage:"
 aliases: "Hearth and Harvest"
 foundryId: Item.sTtxfaeJCvFwvCsE

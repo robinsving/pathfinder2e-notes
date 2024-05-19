@@ -1,5 +1,6 @@
 ---
 title: "Detecting with Other Senses"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Detecting with Other Senses"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.jEf21wTIEXzGtPU6

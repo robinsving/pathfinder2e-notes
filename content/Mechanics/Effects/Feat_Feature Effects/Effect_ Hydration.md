@@ -1,5 +1,6 @@
 ---
 title: "Effect: Hydration"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Hydration"
 foundryId: Compendium.pf2e.feat-effects.Item.Q5FUu7yhWPJlcXei

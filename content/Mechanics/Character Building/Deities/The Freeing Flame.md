@@ -1,5 +1,6 @@
 ---
 title: "The Freeing Flame"
+draft: true
 noteType: ":luggage:"
 aliases: "The Freeing Flame"
 foundryId: Item.BPmuSvJWVDD6Xdm0

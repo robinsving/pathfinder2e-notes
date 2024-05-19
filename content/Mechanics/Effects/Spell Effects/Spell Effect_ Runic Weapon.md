@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Runic Weapon"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Runic Weapon"
 foundryId: Compendium.pf2e.spell-effects.Item.GnWkI3T3LYRlm3X8

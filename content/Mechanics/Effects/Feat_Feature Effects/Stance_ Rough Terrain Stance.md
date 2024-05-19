@@ -1,5 +1,6 @@
 ---
 title: "Stance: Rough Terrain Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Rough Terrain Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.YkiTA74FrUUu5IvI

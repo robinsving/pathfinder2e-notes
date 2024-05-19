@@ -1,5 +1,6 @@
 ---
 title: "Likha"
+draft: true
 noteType: ":luggage:"
 aliases: "Likha"
 foundryId: Item.dfoNs8YmWM1Y22md

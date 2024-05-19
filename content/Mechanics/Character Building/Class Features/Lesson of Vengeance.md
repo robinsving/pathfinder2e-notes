@@ -1,5 +1,6 @@
 ---
 title: "Lesson of Vengeance"
+draft: true
 noteType: ":luggage:"
 aliases: "Lesson of Vengeance"
 foundryId: Item.xHB0gTZkrkwAEFnF

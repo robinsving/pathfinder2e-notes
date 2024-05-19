@@ -1,5 +1,6 @@
 ---
 title: "Weapon Specialization"
+draft: true
 noteType: ":luggage:"
 aliases: "Weapon Specialization"
 foundryId: Item.JPtnpCh7bSMn1fKd

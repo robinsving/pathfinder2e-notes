@@ -1,5 +1,6 @@
 ---
 title: "Lymnieris"
+draft: true
 noteType: ":luggage:"
 aliases: "Lymnieris"
 foundryId: Item.8WHtYJb7UI5en1tX

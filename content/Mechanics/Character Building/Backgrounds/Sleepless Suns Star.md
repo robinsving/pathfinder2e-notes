@@ -1,5 +1,6 @@
 ---
 title: "Sleepless Suns Star"
+draft: true
 noteType: ":luggage:"
 aliases: "Sleepless Suns Star"
 foundryId: Item.k6xM2JZFDBlLJ8Vn

@@ -1,5 +1,6 @@
 ---
 title: Martial Weapon Mastery
+draft: true
 noteType: ":luggage:"
 aliases:
   - Martial Weapon Mastery

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Spirit Sense"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Spirit Sense"
 foundryId: Compendium.pf2e.spell-effects.Item.uHUcP59Z5fAdomda

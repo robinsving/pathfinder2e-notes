@@ -1,5 +1,6 @@
 ---
 title: "Drink from the Chalice"
+draft: true
 noteType: ":luggage:"
 aliases: "Drink from the Chalice"
 foundryId: Item.7JdoHAne8UGecdZT

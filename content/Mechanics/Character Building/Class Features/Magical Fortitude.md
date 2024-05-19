@@ -1,5 +1,6 @@
 ---
 title: "Magical Fortitude"
+draft: true
 noteType: ":luggage:"
 aliases: "Magical Fortitude"
 foundryId: Item.otuTKNSfmZJH5bPp

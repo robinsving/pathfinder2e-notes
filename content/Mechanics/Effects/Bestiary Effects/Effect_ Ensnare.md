@@ -1,5 +1,6 @@
 ---
 title: "Effect: Ensnare"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Ensnare"
 foundryId: Compendium.pf2e.bestiary-effects.Item.fPhbDSTPuT01f0Kn

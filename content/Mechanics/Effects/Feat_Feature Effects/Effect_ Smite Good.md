@@ -1,5 +1,6 @@
 ---
 title: "Effect: Smite Good"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Smite Good"
 foundryId: Compendium.pf2e.feat-effects.Item.2MIn8qyPTmz4ZyO1

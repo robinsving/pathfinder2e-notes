@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Healer's Blessing"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Healer's Blessing"
 foundryId: Compendium.pf2e.spell-effects.Item.IjoYgBgEYSTZKmab

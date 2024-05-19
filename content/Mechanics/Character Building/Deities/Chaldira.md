@@ -1,5 +1,6 @@
 ---
 title: "Chaldira"
+draft: true
 noteType: ":luggage:"
 aliases: "Chaldira"
 foundryId: Item.m1xEmmFcF5qVlmtO

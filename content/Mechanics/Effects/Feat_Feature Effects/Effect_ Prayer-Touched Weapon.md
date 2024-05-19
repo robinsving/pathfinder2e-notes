@@ -1,5 +1,6 @@
 ---
 title: "Effect: Prayer-Touched Weapon"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Prayer-Touched Weapon"
 foundryId: Compendium.pf2e.feat-effects.Item.cA6ps8RKE0gysEWr

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Return the Favor"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Return the Favor"
 foundryId: Compendium.pf2e.spell-effects.Item.cSoL5aMy3PCzM4Yv

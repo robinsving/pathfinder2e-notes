@@ -1,5 +1,6 @@
 ---
 title: "Metal Strikes"
+draft: true
 noteType: ":luggage:"
 aliases: "Metal Strikes"
 foundryId: Item.pCspTiMHFeDx30mj

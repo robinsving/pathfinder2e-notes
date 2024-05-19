@@ -1,5 +1,6 @@
 ---
 title: "Indomitable Will"
+draft: true
 noteType: ":luggage:"
 aliases: "Indomitable Will"
 foundryId: Item.ywjCYu8kGYf7ugFD

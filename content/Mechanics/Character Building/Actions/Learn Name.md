@@ -1,5 +1,6 @@
 ---
 title: "Learn Name"
+draft: true
 noteType: ":luggage:"
 aliases: "Learn Name"
 foundryId: Item.95LUkWmhCQDyY5vR

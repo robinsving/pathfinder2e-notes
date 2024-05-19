@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Insect Form (Centipede)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Insect Form (Centipede)"
 foundryId: Compendium.pf2e.spell-effects.Item.DENMzySYANjUBs4O

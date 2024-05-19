@@ -1,5 +1,6 @@
 ---
 title: "Effect: Shadow Rapier"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Shadow Rapier"
 foundryId: Compendium.pf2e.bestiary-effects.Item.TSdrv1FmLHJnk9AD

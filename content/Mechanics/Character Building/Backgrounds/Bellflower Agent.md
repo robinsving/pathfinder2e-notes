@@ -1,5 +1,6 @@
 ---
 title: "Bellflower Agent"
+draft: true
 noteType: ":luggage:"
 aliases: "Bellflower Agent"
 foundryId: Item.aimzPA317Jpp9WnR

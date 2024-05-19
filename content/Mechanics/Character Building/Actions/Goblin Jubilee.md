@@ -1,5 +1,6 @@
 ---
 title: "Goblin Jubilee"
+draft: true
 noteType: ":luggage:"
 aliases: "Goblin Jubilee"
 foundryId: Item.duHbb0w4rxQbRmCl

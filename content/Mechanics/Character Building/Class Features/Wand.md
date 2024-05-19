@@ -1,5 +1,6 @@
 ---
 title: "Wand"
+draft: true
 noteType: ":luggage:"
 aliases: "Wand"
 foundryId: Item.cxU56t2gwV8FCShH

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Resist Energy"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Resist Energy"
 foundryId: Compendium.pf2e.spell-effects.Item.con2Hzt47JjpuUej

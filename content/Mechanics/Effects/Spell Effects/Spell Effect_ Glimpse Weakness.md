@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Glimpse Weakness"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Glimpse Weakness"
 foundryId: Compendium.pf2e.spell-effects.Item.VJpRUgSDtAO2TSRR

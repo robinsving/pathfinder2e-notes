@@ -1,5 +1,6 @@
 ---
 title: "Secrecy Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Secrecy Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.S1gyomjojgtCdxc3

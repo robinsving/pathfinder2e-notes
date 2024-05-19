@@ -1,5 +1,6 @@
 ---
 title: "Sobek"
+draft: true
 noteType: ":luggage:"
 aliases: "Sobek"
 foundryId: Item.TqFT25QFVxaNDtic

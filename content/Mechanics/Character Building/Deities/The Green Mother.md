@@ -1,5 +1,6 @@
 ---
 title: "The Green Mother"
+draft: true
 noteType: ":luggage:"
 aliases: "The Green Mother"
 foundryId: Item.RfVsn91K7p64QywQ

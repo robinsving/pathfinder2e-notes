@@ -1,5 +1,6 @@
 ---
 title: "Sponsored by a Village"
+draft: true
 noteType: ":luggage:"
 aliases: "Sponsored by a Village"
 foundryId: Item.f1ajl1XJf1LFKd6E

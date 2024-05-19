@@ -1,5 +1,6 @@
 ---
 title: "Chalice"
+draft: true
 noteType: ":luggage:"
 aliases: "Chalice"
 foundryId: Item.SnNtIpae7cSNNFYU

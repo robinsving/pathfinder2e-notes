@@ -1,5 +1,6 @@
 ---
 title: "Effect: Protective Mentor Boon (Revered) (PFS)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Protective Mentor Boon (Revered) (PFS)"
 foundryId: Compendium.pf2e.feat-effects.Item.0r2V1nK5pV31IUPY

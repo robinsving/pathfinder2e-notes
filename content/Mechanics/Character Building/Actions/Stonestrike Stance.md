@@ -1,5 +1,6 @@
 ---
 title: "Stonestrike Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stonestrike Stance"
 foundryId: Item.LqLnF3ldycGncutx

@@ -1,5 +1,6 @@
 ---
 title: "Harmonic Oscillator"
+draft: true
 noteType: ":luggage:"
 aliases: "Harmonic Oscillator"
 foundryId: Item.DPDUNYVuj9qwrDKv

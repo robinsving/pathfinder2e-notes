@@ -1,5 +1,6 @@
 ---
 title: "Water Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Water Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.U8WVR6EDfmUaMCbu

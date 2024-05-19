@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Knock"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Knock"
 foundryId: Compendium.pf2e.spell-effects.Item.OSapCU8heNHst21y

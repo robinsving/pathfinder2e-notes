@@ -1,5 +1,6 @@
 ---
 title: "Effect: Unluck Aura"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Unluck Aura"
 foundryId: Compendium.pf2e.bestiary-effects.Item.yxgHWK2rTZKKAzDN

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Harsh Judgement"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Harsh Judgement"
 foundryId: Compendium.pf2e.feat-effects.Item.raoz523QRsj5WjcF

@@ -1,5 +1,6 @@
 ---
 title: "Warden Spells"
+draft: true
 noteType: ":luggage:"
 aliases: "Warden Spells"
 foundryId: Item.JYvMDRzpG0tGiKFh

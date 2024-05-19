@@ -1,5 +1,6 @@
 ---
 title: "Effect: Beacon of the Rowan Guard"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Beacon of the Rowan Guard"
 foundryId: Compendium.pf2e.bestiary-effects.Item.6KebCyP5O7Gl9baR

@@ -1,5 +1,6 @@
 ---
 title: "Wraith Deviant Classification"
+draft: true
 noteType: ":luggage:"
 aliases: "Wraith Deviant Classification"
 foundryId: Item.j7FXzb03DwKvIiBF

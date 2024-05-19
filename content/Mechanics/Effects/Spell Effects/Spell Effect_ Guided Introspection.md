@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Guided Introspection"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Guided Introspection"
 foundryId: Compendium.pf2e.spell-effects.Item.Me470HI6inX3Bovh

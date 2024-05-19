@@ -1,5 +1,6 @@
 ---
 title: "Effect: Shared Clarity"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Shared Clarity"
 foundryId: Compendium.pf2e.feat-effects.Item.CUtvkuGSxq1raBIB

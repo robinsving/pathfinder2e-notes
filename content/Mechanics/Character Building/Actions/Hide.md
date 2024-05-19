@@ -1,5 +1,6 @@
 ---
 title: "Hide"
+draft: true
 noteType: ":luggage:"
 aliases: "Hide"
 foundryId: Item.7S2FCQYE96Q1sgqG

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Song of Strength"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Song of Strength"
 foundryId: Compendium.pf2e.spell-effects.Item.8adLKKzJy49USYJt

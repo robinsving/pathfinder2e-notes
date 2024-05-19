@@ -1,5 +1,6 @@
 ---
 title: "Close Ties"
+draft: true
 noteType: ":luggage:"
 aliases: "Close Ties"
 foundryId: Item.eudUowYNeD8ALDty

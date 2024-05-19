@@ -1,5 +1,6 @@
 ---
 title: "Effect: Ancestral Response"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Ancestral Response"
 foundryId: Compendium.pf2e.bestiary-effects.Item.gxBjyPaYDdhjAImf

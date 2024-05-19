@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Protect Companion"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Protect Companion"
 foundryId: Compendium.pf2e.spell-effects.Item.pPMldkAbPVOSOPIF

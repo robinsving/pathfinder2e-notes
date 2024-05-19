@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Font of Serenity"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Font of Serenity"
 foundryId: Compendium.pf2e.spell-effects.Item.Bc2Bwuan3716eAyY

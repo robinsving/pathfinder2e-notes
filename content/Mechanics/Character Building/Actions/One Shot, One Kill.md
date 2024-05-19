@@ -1,5 +1,6 @@
 ---
 title: "One Shot, One Kill"
+draft: true
 noteType: ":luggage:"
 aliases: "One Shot, One Kill"
 foundryId: Item.8YBdu3KWC2PjN0TD

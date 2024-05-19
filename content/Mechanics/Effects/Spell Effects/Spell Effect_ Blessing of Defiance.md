@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Blessing of Defiance"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Blessing of Defiance"
 foundryId: Compendium.pf2e.spell-effects.Item.FD9Ce5pqcZYstcMI

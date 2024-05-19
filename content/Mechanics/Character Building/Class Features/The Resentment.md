@@ -1,5 +1,6 @@
 ---
 title: "The Resentment"
+draft: true
 noteType: ":luggage:"
 aliases: "The Resentment"
 foundryId: Item.7h0ttvq995eZsm3U

@@ -1,5 +1,6 @@
 ---
 title: "Gold Falls Regular"
+draft: true
 noteType: ":luggage:"
 aliases: "Gold Falls Regular"
 foundryId: Item.mulv6JI9qVLpLNwc

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Demon Form (Babau)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Demon Form (Babau)"
 foundryId: Compendium.pf2e.spell-effects.Item.X1kkbRrh4zJuDGjl

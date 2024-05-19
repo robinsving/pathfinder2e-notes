@@ -1,5 +1,6 @@
 ---
 title: "Delay"
+draft: true
 noteType: ":luggage:"
 aliases: "Delay"
 foundryId: Item.W3ywH3xlFDq8QfkQ

@@ -1,5 +1,6 @@
 ---
 title: "Mirror-Trickery"
+draft: true
 noteType: ":luggage:"
 aliases: "Mirror-Trickery"
 foundryId: Item.K9zot3P9KtE1O2ph

@@ -1,5 +1,6 @@
 ---
 title: "Crystal Keeper"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Crystal Keeper"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.rxyJUbQosVfgRjLr

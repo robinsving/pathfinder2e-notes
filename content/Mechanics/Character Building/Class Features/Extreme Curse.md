@@ -1,5 +1,6 @@
 ---
 title: "Extreme Curse"
+draft: true
 noteType: ":luggage:"
 aliases: "Extreme Curse"
 foundryId: Item.ygIPUxhbluJqXSUF

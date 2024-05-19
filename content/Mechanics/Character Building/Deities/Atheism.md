@@ -1,5 +1,6 @@
 ---
 title: "Atheism"
+draft: true
 noteType: ":luggage:"
 aliases: "Atheism"
 foundryId: Item.qHLqGmQ21XjFniXM

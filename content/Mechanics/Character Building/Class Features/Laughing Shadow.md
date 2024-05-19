@@ -1,5 +1,6 @@
 ---
 title: "Laughing Shadow"
+draft: true
 noteType: ":luggage:"
 aliases: "Laughing Shadow"
 foundryId: Item.bIViRiyUgtIrxOUD

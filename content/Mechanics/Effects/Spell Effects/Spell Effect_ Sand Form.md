@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Sand Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Sand Form"
 foundryId: Compendium.pf2e.spell-effects.Item.qO1Gj9l8gh5CMEbf

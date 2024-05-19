@@ -1,5 +1,6 @@
 ---
 title: "Geb Crusader"
+draft: true
 noteType: ":luggage:"
 aliases: "Geb Crusader"
 foundryId: Item.VDGxhlDF9OnAZfKk

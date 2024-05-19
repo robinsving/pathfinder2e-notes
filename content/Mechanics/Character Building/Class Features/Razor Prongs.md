@@ -1,5 +1,6 @@
 ---
 title: "Razor Prongs"
+draft: true
 noteType: ":luggage:"
 aliases: "Razor Prongs"
 foundryId: Item.bACCXbqyuZTrthCr

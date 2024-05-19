@@ -1,5 +1,6 @@
 ---
 title: Experimental Spellshaping
+draft: true
 noteType: ":luggage:"
 aliases:
   - Experimental Spellshaping

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Current Spell (Air)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Current Spell (Air)"
 foundryId: Compendium.pf2e.feat-effects.Item.T5rsLTqS274B9Mly

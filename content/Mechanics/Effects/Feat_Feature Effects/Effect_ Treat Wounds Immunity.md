@@ -1,5 +1,6 @@
 ---
 title: "Effect: Treat Wounds Immunity"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Treat Wounds Immunity"
 foundryId: Compendium.pf2e.feat-effects.Item.Lb4q2bBAgxamtix5

@@ -1,5 +1,6 @@
 ---
 title: "Bulk Conversions for Different Sizes"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Bulk Conversions for Different Sizes"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.VR9UdfhZphZGZdsx

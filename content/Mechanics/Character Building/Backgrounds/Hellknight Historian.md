@@ -1,5 +1,6 @@
 ---
 title: "Hellknight Historian"
+draft: true
 noteType: ":luggage:"
 aliases: "Hellknight Historian"
 foundryId: Item.NbsWUsTMWLeSFYtA

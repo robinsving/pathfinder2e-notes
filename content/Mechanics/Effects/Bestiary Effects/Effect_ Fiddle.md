@@ -1,5 +1,6 @@
 ---
 title: "Effect: Fiddle"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Fiddle"
 foundryId: Compendium.pf2e.bestiary-effects.Item.wJsOZsYI2ZUVcGxc

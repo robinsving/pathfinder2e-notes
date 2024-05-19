@@ -1,5 +1,6 @@
 ---
 title: "Advanced Undead Benefits"
+draft: true
 noteType: ":luggage:"
 aliases: "Advanced Undead Benefits"
 foundryId: Item.nsYJUsUqPdZaEX5V

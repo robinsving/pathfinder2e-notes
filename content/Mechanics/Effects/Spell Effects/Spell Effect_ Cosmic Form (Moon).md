@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Cosmic Form (Moon)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Cosmic Form (Moon)"
 foundryId: Compendium.pf2e.spell-effects.Item.tfdDpf9xSWgQer5g

@@ -1,5 +1,6 @@
 ---
 title: "Framed in Ferrous Quarter"
+draft: true
 noteType: ":luggage:"
 aliases: "Framed in Ferrous Quarter"
 foundryId: Item.SvVjbgp9d8t8FbqH

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Elemental Blood Magic (Self)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Elemental Blood Magic (Self)"
 foundryId: Compendium.pf2e.feat-effects.Item.3gGBZHcUFsHLJeQH

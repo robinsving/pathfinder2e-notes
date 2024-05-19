@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Animal Form (Bull)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Animal Form (Bull)"
 foundryId: Compendium.pf2e.spell-effects.Item.BT1ofB6RvRocQOWO

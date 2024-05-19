@@ -1,5 +1,6 @@
 ---
 title: "God Calling"
+draft: true
 noteType: ":luggage:"
 aliases: "God Calling"
 foundryId: Item.lCvKpGPRUyNAQsXt

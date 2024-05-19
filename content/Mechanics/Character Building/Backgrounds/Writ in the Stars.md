@@ -1,5 +1,6 @@
 ---
 title: "Writ in the Stars"
+draft: true
 noteType: ":luggage:"
 aliases: "Writ in the Stars"
 foundryId: Item.GBk78SEAWqmTD5f6

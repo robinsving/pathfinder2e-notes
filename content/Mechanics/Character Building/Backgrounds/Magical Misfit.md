@@ -1,5 +1,6 @@
 ---
 title: "Magical Misfit"
+draft: true
 noteType: ":luggage:"
 aliases: "Magical Misfit"
 foundryId: Item.LTnBywSsmtja3SBl

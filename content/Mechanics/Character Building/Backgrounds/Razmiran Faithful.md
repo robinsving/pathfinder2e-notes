@@ -1,5 +1,6 @@
 ---
 title: "Razmiran Faithful"
+draft: true
 noteType: ":luggage:"
 aliases: "Razmiran Faithful"
 foundryId: Item.SdBD7EhabVcFVFuP

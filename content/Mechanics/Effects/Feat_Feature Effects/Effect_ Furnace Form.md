@@ -1,5 +1,6 @@
 ---
 title: "Effect: Furnace Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Furnace Form"
 foundryId: Compendium.pf2e.feat-effects.Item.Tw9MjeQHL3qFY1PO

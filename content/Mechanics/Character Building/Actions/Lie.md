@@ -1,5 +1,6 @@
 ---
 title: "Lie"
+draft: true
 noteType: ":luggage:"
 aliases: "Lie"
 foundryId: Item.d3McS7iwcAky5ZID

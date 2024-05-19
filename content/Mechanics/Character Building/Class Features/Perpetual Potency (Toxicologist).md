@@ -1,5 +1,6 @@
 ---
 title: "Perpetual Potency (Toxicologist)"
+draft: true
 noteType: ":luggage:"
 aliases: "Perpetual Potency (Toxicologist)"
 foundryId: Item.BLBw7zMyMcTmlFy8

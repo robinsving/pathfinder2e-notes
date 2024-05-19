@@ -1,5 +1,6 @@
 ---
 title: Drowning Pit
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Ceremony of Protection"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Ceremony of Protection"
 foundryId: Compendium.pf2e.feat-effects.Item.9kNbiZPOM2wy60ao

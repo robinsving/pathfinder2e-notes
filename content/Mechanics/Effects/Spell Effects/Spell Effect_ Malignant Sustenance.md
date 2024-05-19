@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Malignant Sustenance"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Malignant Sustenance"
 foundryId: Compendium.pf2e.spell-effects.Item.tjC6JeZgLDPIMHjG

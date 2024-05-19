@@ -1,5 +1,6 @@
 ---
 title: "Fortune Teller"
+draft: true
 noteType: ":luggage:"
 aliases: "Fortune Teller"
 foundryId: Item.ELqeoTfNOpgZ3v37

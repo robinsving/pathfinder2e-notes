@@ -1,5 +1,6 @@
 ---
 title: "Rally"
+draft: true
 noteType: ":luggage:"
 aliases: "Rally"
 foundryId: Item.Cd1kKNl5Rp5R3FPW

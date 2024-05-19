@@ -1,5 +1,6 @@
 ---
 title: "Effect: Countered by Water"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Countered by Water"
 foundryId: Compendium.pf2e.bestiary-effects.Item.81XYZZ3H0GL8thdQ

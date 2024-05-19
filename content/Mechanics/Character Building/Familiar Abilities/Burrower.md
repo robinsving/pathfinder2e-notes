@@ -1,5 +1,6 @@
 ---
 title: "Burrower"
+draft: true
 noteType: ":luggage:"
 aliases: "Burrower"
 foundryId: Item.zSXcF29obuaVlzbN

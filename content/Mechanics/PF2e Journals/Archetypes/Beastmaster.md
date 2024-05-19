@@ -1,5 +1,6 @@
 ---
 title: "Beastmaster"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Beastmaster"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.4VMzG36Pm1oivS6Y

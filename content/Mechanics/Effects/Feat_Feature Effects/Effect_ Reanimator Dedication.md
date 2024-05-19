@@ -1,5 +1,6 @@
 ---
 title: "Effect: Reanimator Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Reanimator Dedication"
 foundryId: Compendium.pf2e.feat-effects.Item.EQCnu8DGHDDNXch0

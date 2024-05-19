@@ -1,5 +1,6 @@
 ---
 title: "Truth Seeker"
+draft: true
 noteType: ":luggage:"
 aliases: "Truth Seeker"
 foundryId: Item.WhZldmEzJS1O9WPj

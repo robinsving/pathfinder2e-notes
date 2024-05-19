@@ -1,5 +1,6 @@
 ---
 title: "Implement Paragon"
+draft: true
 noteType: ":luggage:"
 aliases: "Implement Paragon"
 foundryId: Item.YOgGWq1MqZ4DkWbl

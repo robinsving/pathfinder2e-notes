@@ -1,5 +1,6 @@
 ---
 title: "Effect: Cut from the Air"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Cut from the Air"
 foundryId: Compendium.pf2e.feat-effects.Item.gWwG7MNAesJgpmRW

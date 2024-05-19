@@ -1,5 +1,6 @@
 ---
 title: "Hired Killer"
+draft: true
 noteType: ":luggage:"
 aliases: "Hired Killer"
 foundryId: Item.Q57gE6JzOFw5YXWP

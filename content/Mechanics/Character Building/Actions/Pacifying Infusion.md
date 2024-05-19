@@ -1,5 +1,6 @@
 ---
 title: "Pacifying Infusion"
+draft: true
 noteType: ":luggage:"
 aliases: "Pacifying Infusion"
 foundryId: Item.4TPAE05hL7aKqmYe

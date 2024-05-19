@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Iron Gut"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Iron Gut"
 foundryId: Compendium.pf2e.spell-effects.Item.hXtK08bTnDBSzGTJ

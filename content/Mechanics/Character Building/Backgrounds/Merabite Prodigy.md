@@ -1,5 +1,6 @@
 ---
 title: "Merabite Prodigy"
+draft: true
 noteType: ":luggage:"
 aliases: "Merabite Prodigy"
 foundryId: Item.Obevbi0iMnRrMDKF

@@ -1,5 +1,6 @@
 ---
 title: "Invoke Celestial Privilege"
+draft: true
 noteType: ":luggage:"
 aliases: "Invoke Celestial Privilege"
 foundryId: Item.9Rr4ZcLpoi5aQyon

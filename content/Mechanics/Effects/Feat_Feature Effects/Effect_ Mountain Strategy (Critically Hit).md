@@ -1,5 +1,6 @@
 ---
 title: "Effect: Mountain Strategy (Critically Hit)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Mountain Strategy (Critically Hit)"
 foundryId: Compendium.pf2e.feat-effects.Item.O7OO1kWFEFv6vl3E

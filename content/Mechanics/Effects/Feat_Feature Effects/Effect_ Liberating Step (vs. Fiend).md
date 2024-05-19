@@ -1,5 +1,6 @@
 ---
 title: "Effect: Liberating Step (vs. Fiend)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Liberating Step (vs. Fiend)"
 foundryId: Compendium.pf2e.feat-effects.Item.9dCt0asv0kt7DR4q

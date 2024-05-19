@@ -1,5 +1,6 @@
 ---
 title: "Animal Whisperer"
+draft: true
 noteType: ":luggage:"
 aliases: "Animal Whisperer"
 foundryId: Item.RObYT5txXbuoYiqq

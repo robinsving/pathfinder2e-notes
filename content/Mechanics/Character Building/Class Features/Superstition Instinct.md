@@ -1,5 +1,6 @@
 ---
 title: "Superstition Instinct"
+draft: true
 noteType: ":luggage:"
 aliases: "Superstition Instinct"
 foundryId: Item.9B4XrRdD0G1fcRkV

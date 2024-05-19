@@ -1,5 +1,6 @@
 ---
 title: "Vital Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Vital Shot"
 foundryId: Item.V8U89hsGnbHx3PdX

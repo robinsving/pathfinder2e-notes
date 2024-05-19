@@ -1,5 +1,6 @@
 ---
 title: "Effect: Skillful Mentor Boon (PFS)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Skillful Mentor Boon (PFS)"
 foundryId: Compendium.pf2e.feat-effects.Item.SKjVvQcRQmnDoouw

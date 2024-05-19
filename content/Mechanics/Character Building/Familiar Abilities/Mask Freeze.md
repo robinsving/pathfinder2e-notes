@@ -1,5 +1,6 @@
 ---
 title: "Mask Freeze"
+draft: true
 noteType: ":luggage:"
 aliases: "Mask Freeze"
 foundryId: Item.Fp4ZUUu1TbdTEcyU

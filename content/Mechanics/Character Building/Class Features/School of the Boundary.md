@@ -1,5 +1,6 @@
 ---
 title: "School of the Boundary"
+draft: true
 noteType: ":luggage:"
 aliases: "School of the Boundary"
 foundryId: Item.Kg3N0ZdQl4h2DiFy

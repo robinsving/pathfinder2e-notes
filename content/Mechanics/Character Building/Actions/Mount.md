@@ -1,5 +1,6 @@
 ---
 title: "Mount"
+draft: true
 noteType: ":luggage:"
 aliases: "Mount"
 foundryId: Item.QTxUEOYFKcRI3ZdH

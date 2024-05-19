@@ -1,5 +1,6 @@
 ---
 title: "Host Spirit"
+draft: true
 noteType: ":luggage:"
 aliases: "Host Spirit"
 foundryId: Item.38TM2tMheZ4vpxmo

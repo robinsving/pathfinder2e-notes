@@ -1,5 +1,6 @@
 ---
 title: "Eidolon Symbiosis"
+draft: true
 noteType: ":luggage:"
 aliases: "Eidolon Symbiosis"
 foundryId: Item.KeRkyw7ayBqfFtmX

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Bark Orders"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Bark Orders"
 foundryId: Compendium.pf2e.bestiary-effects.Item.Hv4NO0HADyAAdS4F

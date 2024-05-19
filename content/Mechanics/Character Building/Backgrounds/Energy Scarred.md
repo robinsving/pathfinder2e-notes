@@ -1,5 +1,6 @@
 ---
 title: "Energy Scarred"
+draft: true
 noteType: ":luggage:"
 aliases: "Energy Scarred"
 foundryId: Item.xtuuYERax5q5xHUt

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Rallying Anthem"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Rallying Anthem"
 foundryId: Compendium.pf2e.spell-effects.Item.DLwTvjjnqs2sNGuG

@@ -1,5 +1,6 @@
 ---
 title: "Breath Weapon (Piercing) (Line)"
+draft: true
 noteType: ":luggage:"
 aliases: "Breath Weapon (Piercing) (Line)"
 foundryId: Item.F5v4uurACAabxh0h

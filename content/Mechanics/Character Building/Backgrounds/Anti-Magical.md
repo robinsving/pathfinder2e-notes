@@ -1,5 +1,6 @@
 ---
 title: "Anti-Magical"
+draft: true
 noteType: ":luggage:"
 aliases: "Anti-Magical"
 foundryId: Item.AWyonKDrkFgN7rM6

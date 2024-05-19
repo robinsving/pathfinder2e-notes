@@ -1,5 +1,6 @@
 ---
 title: "Wild Willpower"
+draft: true
 noteType: ":luggage:"
 aliases: "Wild Willpower"
 foundryId: Item.7uO2SFVaLRpDjYvW

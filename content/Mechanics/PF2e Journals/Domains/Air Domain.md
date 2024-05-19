@@ -1,5 +1,6 @@
 ---
 title: "Air Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Air Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.T2y0vuYibZCL7CH0

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Control Tower"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Control Tower"
 foundryId: Compendium.pf2e.feat-effects.Item.mkIamZGtQaSsUWLk

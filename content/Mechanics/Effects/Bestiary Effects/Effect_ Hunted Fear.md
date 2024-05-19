@@ -1,5 +1,6 @@
 ---
 title: "Effect: Hunted Fear"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Hunted Fear"
 foundryId: Compendium.pf2e.bestiary-effects.Item.mFnSXW6HTwS7Iu1k

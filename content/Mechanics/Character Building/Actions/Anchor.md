@@ -1,5 +1,6 @@
 ---
 title: "Anchor"
+draft: true
 noteType: ":luggage:"
 aliases: "Anchor"
 foundryId: Item.O7cKHIZjBuTxpMnh

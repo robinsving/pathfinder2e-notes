@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Glass Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Glass Form"
 foundryId: Compendium.pf2e.spell-effects.Item.0lYbjDI2N3xVl24E

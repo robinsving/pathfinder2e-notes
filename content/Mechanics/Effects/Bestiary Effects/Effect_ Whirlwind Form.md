@@ -1,5 +1,6 @@
 ---
 title: "Effect: Whirlwind Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Whirlwind Form"
 foundryId: Compendium.pf2e.bestiary-effects.Item.rpxdrOlzY2SOtMWB

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Panache"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Panache"
 foundryId: Compendium.pf2e.feat-effects.Item.uBJsxCzNhje8m8jj

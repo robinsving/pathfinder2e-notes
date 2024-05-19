@@ -1,5 +1,6 @@
 ---
 title: "Guest of Sedeq Lodge"
+draft: true
 noteType: ":luggage:"
 aliases: "Guest of Sedeq Lodge"
 foundryId: Item.nPBNGs2mbhQpfjoC

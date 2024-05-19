@@ -1,5 +1,6 @@
 ---
 title: "Thoughtful Reload"
+draft: true
 noteType: ":luggage:"
 aliases: "Thoughtful Reload"
 foundryId: Item.7580xXQk8BgQtzbR

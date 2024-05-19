@@ -1,5 +1,6 @@
 ---
 title: "Aquatic Adaptation"
+draft: true
 noteType: ":luggage:"
 aliases: "Aquatic Adaptation"
 foundryId: Item.CFSQo7aOXZvqQSuW

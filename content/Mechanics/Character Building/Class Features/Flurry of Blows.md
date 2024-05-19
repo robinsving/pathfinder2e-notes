@@ -1,5 +1,6 @@
 ---
 title: "Flurry of Blows"
+draft: true
 noteType: ":luggage:"
 aliases: "Flurry of Blows"
 foundryId: Item.0qTc2PmvVTqzPdsy

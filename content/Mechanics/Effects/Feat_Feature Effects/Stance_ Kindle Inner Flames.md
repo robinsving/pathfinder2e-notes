@@ -1,5 +1,6 @@
 ---
 title: "Stance: Kindle Inner Flames"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Kindle Inner Flames"
 foundryId: Compendium.pf2e.feat-effects.Item.hrEG2smy3tZyGxIn

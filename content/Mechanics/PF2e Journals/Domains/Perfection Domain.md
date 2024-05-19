@@ -1,5 +1,6 @@
 ---
 title: "Perfection Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Perfection Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.Czi3XXuNOSE7ISpd

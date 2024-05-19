@@ -1,5 +1,6 @@
 ---
 title: "Stance: Whirling Blade Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Whirling Blade Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.JefXqvhzUeBArkAP

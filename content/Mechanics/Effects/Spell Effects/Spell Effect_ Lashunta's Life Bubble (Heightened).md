@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Lashunta's Life Bubble (Heightened)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Lashunta's Life Bubble (Heightened)"
 foundryId: Compendium.pf2e.spell-effects.Item.uUlFic5lnr2FpNiG

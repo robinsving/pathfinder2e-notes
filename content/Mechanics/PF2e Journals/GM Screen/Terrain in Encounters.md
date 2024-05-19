@@ -1,5 +1,6 @@
 ---
 title: "Terrain in Encounters"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Terrain in Encounters"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.cjD6YVPQpmYiOPdC

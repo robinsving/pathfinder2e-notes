@@ -1,5 +1,6 @@
 ---
 title: "Armor Traits"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Armor Traits"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.6BXJUVvwvzljaCFT

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Brightness Seeker"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Brightness Seeker"
 foundryId: Compendium.pf2e.feat-effects.Item.xPg5wzzKNxJy18rU

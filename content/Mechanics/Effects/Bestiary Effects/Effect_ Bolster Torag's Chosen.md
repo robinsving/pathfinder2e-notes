@@ -1,5 +1,6 @@
 ---
 title: "Effect: Bolster Torag's Chosen"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Bolster Torag's Chosen"
 foundryId: Compendium.pf2e.bestiary-effects.Item.VOorielY4wCSfqOr

@@ -1,5 +1,6 @@
 ---
 title: "Healing Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Healing Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.A7vErdGAweYsFcW8

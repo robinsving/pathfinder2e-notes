@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Angel Form (Choral)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Angel Form (Choral)"
 foundryId: Compendium.pf2e.spell-effects.Item.sccNh8j1PKLHCKh1

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Vivacious Bravado"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Vivacious Bravado"
 foundryId: Compendium.pf2e.feat-effects.Item.T7AJQbfmlA57y625

@@ -1,5 +1,6 @@
 ---
 title: "Selket"
+draft: true
 noteType: ":luggage:"
 aliases: "Selket"
 foundryId: Item.O5iSlCUO1f0CheVR

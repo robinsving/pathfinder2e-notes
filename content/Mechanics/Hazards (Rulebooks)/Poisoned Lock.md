@@ -1,5 +1,6 @@
 ---
 title: Poisoned Lock
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

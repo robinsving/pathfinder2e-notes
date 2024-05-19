@@ -1,5 +1,6 @@
 ---
 title: "Effect: Favorable Winds"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Favorable Winds"
 foundryId: Compendium.pf2e.feat-effects.Item.X1pGyhMKrCTvHB0q

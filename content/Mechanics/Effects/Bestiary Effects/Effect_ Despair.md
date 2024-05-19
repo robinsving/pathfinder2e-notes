@@ -1,5 +1,6 @@
 ---
 title: "Effect: Despair"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Despair"
 foundryId: Compendium.pf2e.bestiary-effects.Item.1bOSJ2LbEC28aI9f

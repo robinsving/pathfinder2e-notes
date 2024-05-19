@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Wooden Fists"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Wooden Fists"
 foundryId: Compendium.pf2e.spell-effects.Item.z2PYQCsDDoBZUwR5

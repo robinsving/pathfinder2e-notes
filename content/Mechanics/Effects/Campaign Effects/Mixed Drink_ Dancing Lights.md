@@ -1,5 +1,6 @@
 ---
 title: "Mixed Drink: Dancing Lights"
+draft: true
 noteType: ":luggage:"
 aliases: "Mixed Drink: Dancing Lights"
 foundryId: Compendium.pf2e.campaign-effects.Item.JnQi8whNqY7sPW7x

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Face in the Crowd"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Face in the Crowd"
 foundryId: Compendium.pf2e.spell-effects.Item.4iakL7fDcZ8RT6Tu

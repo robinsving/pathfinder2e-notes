@@ -1,5 +1,6 @@
 ---
 title: "Effect: Bolera's Interrogation (Critical Failure)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Bolera's Interrogation (Critical Failure)"
 foundryId: Compendium.pf2e.feat-effects.Item.VIScVb6Hl7KwoWfH

@@ -1,5 +1,6 @@
 ---
 title: "Groetus"
+draft: true
 noteType: ":luggage:"
 aliases: "Groetus"
 foundryId: Item.MUHADyvEI5UFPjmS

@@ -1,5 +1,6 @@
 ---
 title: "Third Path to Perfection (Fortitude)"
+draft: true
 noteType: ":luggage:"
 aliases: "Third Path to Perfection (Fortitude)"
 foundryId: Item.t76SOlz4aaxkoWTK

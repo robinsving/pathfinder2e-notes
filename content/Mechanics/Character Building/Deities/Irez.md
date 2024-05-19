@@ -1,5 +1,6 @@
 ---
 title: "Irez"
+draft: true
 noteType: ":luggage:"
 aliases: "Irez"
 foundryId: Item.d89ZEg2a8QvRGfjm

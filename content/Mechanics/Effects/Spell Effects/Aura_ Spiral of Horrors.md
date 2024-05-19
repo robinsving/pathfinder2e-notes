@@ -1,5 +1,6 @@
 ---
 title: "Aura: Spiral of Horrors"
+draft: true
 noteType: ":luggage:"
 aliases: "Aura: Spiral of Horrors"
 foundryId: Compendium.pf2e.spell-effects.Item.HF1r1psnITHD52B9

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Discern Secrets (Seek)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Discern Secrets (Seek)"
 foundryId: Compendium.pf2e.spell-effects.Item.m1tQTBrolf7uZBW0

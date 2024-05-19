@@ -1,5 +1,6 @@
 ---
 title: "Effect: Goblin Song (Success)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Goblin Song (Success)"
 foundryId: Compendium.pf2e.feat-effects.Item.5veOBmMYQxywTudd

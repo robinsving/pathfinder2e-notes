@@ -1,5 +1,6 @@
 ---
 title: "Daikitsu"
+draft: true
 noteType: ":luggage:"
 aliases: "Daikitsu"
 foundryId: Item.M9ecSR5CIpWCGwLL

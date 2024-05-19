@@ -1,5 +1,6 @@
 ---
 title: "Effect: Aura of Good Cheer"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Aura of Good Cheer"
 foundryId: Compendium.pf2e.bestiary-effects.Item.xOD3ufpzA8H7W4sP

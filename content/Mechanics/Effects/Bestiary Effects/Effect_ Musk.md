@@ -1,5 +1,6 @@
 ---
 title: "Effect: Musk"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Musk"
 foundryId: Compendium.pf2e.bestiary-effects.Item.Mz1ihIHaHngdFhsA

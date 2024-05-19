@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Ray of Frost"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Ray of Frost"
 foundryId: Compendium.pf2e.spell-effects.Item.I4PsUAaYSUJ8pwKC

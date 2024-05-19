@@ -1,5 +1,6 @@
 ---
 title: "Folklore Enthusiast"
+draft: true
 noteType: ":luggage:"
 aliases: "Folklore Enthusiast"
 foundryId: Item.wCWYDwM8ToNN0oP7

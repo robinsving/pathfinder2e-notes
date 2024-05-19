@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Death Knell"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Death Knell"
 foundryId: Compendium.pf2e.spell-effects.Item.98XT2QUk6wvXIqf7

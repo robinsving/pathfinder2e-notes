@@ -1,5 +1,6 @@
 ---
 title: "Spellsling"
+draft: true
 noteType: ":luggage:"
 aliases: "Spellsling"
 foundryId: Item.z0Q6PUPhIYO5DpjM

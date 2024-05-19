@@ -1,5 +1,6 @@
 ---
 title: "Effect: Hydra Heads"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Hydra Heads"
 foundryId: Compendium.pf2e.bestiary-effects.Item.uZJOdounIHaFDC1t

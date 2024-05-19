@@ -1,5 +1,6 @@
 ---
 title: "Effect: Ursine Avenger Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Ursine Avenger Form"
 foundryId: Compendium.pf2e.feat-effects.Item.m5xWMaDfV0PiTE6u

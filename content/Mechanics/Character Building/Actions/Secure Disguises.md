@@ -1,5 +1,6 @@
 ---
 title: "Secure Disguises"
+draft: true
 noteType: ":luggage:"
 aliases: "Secure Disguises"
 foundryId: Item.1XPE8xISoBkRzVrZ

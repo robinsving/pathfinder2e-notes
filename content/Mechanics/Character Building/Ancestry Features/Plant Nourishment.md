@@ -1,5 +1,6 @@
 ---
 title: "Plant Nourishment"
+draft: true
 noteType: ":luggage:"
 aliases: "Plant Nourishment"
 foundryId: Item.OPDSJXGJADe6DSBS

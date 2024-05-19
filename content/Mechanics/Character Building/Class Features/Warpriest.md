@@ -1,5 +1,6 @@
 ---
 title: "Warpriest"
+draft: true
 noteType: ":luggage:"
 aliases: "Warpriest"
 foundryId: Item.cIWYEH3JY82aPiyh

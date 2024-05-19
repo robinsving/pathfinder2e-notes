@@ -1,5 +1,6 @@
 ---
 title: "Seek"
+draft: true
 noteType: ":luggage:"
 aliases: "Seek"
 foundryId: Item.PglJ0MgttaeKyylM

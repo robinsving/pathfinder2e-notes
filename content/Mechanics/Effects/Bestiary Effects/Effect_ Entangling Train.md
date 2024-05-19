@@ -1,5 +1,6 @@
 ---
 title: "Effect: Entangling Train"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Entangling Train"
 foundryId: Compendium.pf2e.bestiary-effects.Item.dNs30jfFOJqhjFW7

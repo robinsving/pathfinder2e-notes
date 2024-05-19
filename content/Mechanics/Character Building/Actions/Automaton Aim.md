@@ -1,5 +1,6 @@
 ---
 title: "Automaton Aim"
+draft: true
 noteType: ":luggage:"
 aliases: "Automaton Aim"
 foundryId: Item.GdW9GiP4D1ntxD3D

@@ -1,5 +1,6 @@
 ---
 title: "Grow"
+draft: true
 noteType: ":luggage:"
 aliases: "Grow"
 foundryId: Item.zkzdTrwxJ1T4mLQP

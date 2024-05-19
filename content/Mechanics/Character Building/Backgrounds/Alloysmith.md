@@ -1,5 +1,6 @@
 ---
 title: "Alloysmith"
+draft: true
 noteType: ":luggage:"
 aliases: "Alloysmith"
 foundryId: Item.vBfJun2Jsd13ToOH

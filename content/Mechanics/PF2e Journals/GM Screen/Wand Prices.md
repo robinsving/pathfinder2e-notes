@@ -1,5 +1,6 @@
 ---
 title: "Wand Prices"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Wand Prices"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.BsaTOw6p74DW5d8t

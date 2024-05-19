@@ -1,5 +1,6 @@
 ---
 title: "Affix a Fulu"
+draft: true
 noteType: ":luggage:"
 aliases: "Affix a Fulu"
 foundryId: Item.JfQYOjIA9yQPIPAZ

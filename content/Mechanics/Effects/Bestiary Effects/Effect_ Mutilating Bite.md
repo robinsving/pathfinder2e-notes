@@ -1,5 +1,6 @@
 ---
 title: "Effect: Mutilating Bite"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Mutilating Bite"
 foundryId: Compendium.pf2e.bestiary-effects.Item.LgZx5xotO08JzhVc

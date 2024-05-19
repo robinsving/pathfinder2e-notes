@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Guidance"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Guidance"
 foundryId: Compendium.pf2e.spell-effects.Item.3qHKBDF7lrHw8jFK

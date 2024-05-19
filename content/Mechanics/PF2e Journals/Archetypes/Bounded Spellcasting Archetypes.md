@@ -1,5 +1,6 @@
 ---
 title: "Bounded Spellcasting Archetypes"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Bounded Spellcasting Archetypes"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.TwSQ0VPXZL0mfPez

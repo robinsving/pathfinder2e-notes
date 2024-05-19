@@ -1,5 +1,6 @@
 ---
 title: "Swim"
+draft: true
 noteType: ":luggage:"
 aliases: "Swim"
 foundryId: Item.EcBIG716AyApVnSv

@@ -1,5 +1,6 @@
 ---
 title: "Animals & Barding"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Animals & Barding"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.DBxoE3TNDPtcKHxH

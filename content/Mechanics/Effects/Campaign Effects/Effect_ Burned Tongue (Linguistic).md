@@ -1,5 +1,6 @@
 ---
 title: "Effect: Burned Tongue (Linguistic)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Burned Tongue (Linguistic)"
 foundryId: Compendium.pf2e.campaign-effects.Item.lZ4DA81o4kbL8nve

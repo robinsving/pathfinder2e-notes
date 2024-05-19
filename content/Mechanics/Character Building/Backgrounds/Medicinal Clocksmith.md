@@ -1,5 +1,6 @@
 ---
 title: "Medicinal Clocksmith"
+draft: true
 noteType: ":luggage:"
 aliases: "Medicinal Clocksmith"
 foundryId: Item.rayFB2rrZtON44ud

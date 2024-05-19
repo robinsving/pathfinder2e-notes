@@ -1,5 +1,6 @@
 ---
 title: "Effect: Inspire Courage (Love Siktempora)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Inspire Courage (Love Siktempora)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.uFi8GhPkYY3ti40N

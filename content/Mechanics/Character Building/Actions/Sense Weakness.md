@@ -1,5 +1,6 @@
 ---
 title: "Sense Weakness"
+draft: true
 noteType: ":luggage:"
 aliases: "Sense Weakness"
 foundryId: Item.2k8HHbdApD0OlYwh

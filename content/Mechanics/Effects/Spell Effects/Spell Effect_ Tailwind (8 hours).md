@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Tailwind (8 hours)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Tailwind (8 hours)"
 foundryId: Compendium.pf2e.spell-effects.Item.7vIUF5zbvHzVcJA0

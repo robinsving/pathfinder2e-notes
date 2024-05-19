@@ -1,5 +1,6 @@
 ---
 title: "Pointed Question"
+draft: true
 noteType: ":luggage:"
 aliases: "Pointed Question"
 foundryId: Item.fnDNPmqkq8oPWV3y

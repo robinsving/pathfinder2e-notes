@@ -1,5 +1,6 @@
 ---
 title: "Effect: Wrath of Fate"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Wrath of Fate"
 foundryId: Compendium.pf2e.bestiary-effects.Item.QSy3KaLI1AYTR7rP

@@ -1,5 +1,6 @@
 ---
 title: "Living Monolith"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Living Monolith"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.PpoPRKuwanrnhd0Y

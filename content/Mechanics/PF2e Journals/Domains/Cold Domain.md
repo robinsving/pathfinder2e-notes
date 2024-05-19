@@ -1,5 +1,6 @@
 ---
 title: "Cold Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Cold Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.jq9O1tl76g2AzLOh

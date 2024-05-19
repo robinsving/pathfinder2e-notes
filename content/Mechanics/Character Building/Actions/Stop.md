@@ -1,5 +1,6 @@
 ---
 title: "Stop"
+draft: true
 noteType: ":luggage:"
 aliases: "Stop"
 foundryId: Item.SuxK3f1TvLp9LGW6

@@ -1,5 +1,6 @@
 ---
 title: "Shadow War Survivor"
+draft: true
 noteType: ":luggage:"
 aliases: "Shadow War Survivor"
 foundryId: Item.LeCOuwp9gzT5dwus

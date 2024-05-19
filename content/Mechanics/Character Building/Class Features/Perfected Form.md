@@ -1,5 +1,6 @@
 ---
 title: "Perfected Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Perfected Form"
 foundryId: Item.NmRLuMCEAjT69L73

@@ -1,5 +1,6 @@
 ---
 title: "Energy Emanation (Fire)"
+draft: true
 noteType: ":luggage:"
 aliases: "Energy Emanation (Fire)"
 foundryId: Item.Ol4bMlI9RYEozQwa

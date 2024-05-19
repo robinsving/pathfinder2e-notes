@@ -1,5 +1,6 @@
 ---
 title: "Godless Graycloak"
+draft: true
 noteType: ":luggage:"
 aliases: "Godless Graycloak"
 foundryId: Item.HhDjGRDGVpTNxwMV

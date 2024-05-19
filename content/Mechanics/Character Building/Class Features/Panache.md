@@ -1,5 +1,6 @@
 ---
 title: "Panache"
+draft: true
 noteType: ":luggage:"
 aliases: "Panache"
 foundryId: Item.eFKZrGmFxPKyuUQc

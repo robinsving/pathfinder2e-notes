@@ -1,5 +1,6 @@
 ---
 title: "Spellcasting"
+draft: true
 noteType: ":luggage:"
 aliases: "Spellcasting"
 foundryId: Item.j2MKwEOXUeyNYh1I

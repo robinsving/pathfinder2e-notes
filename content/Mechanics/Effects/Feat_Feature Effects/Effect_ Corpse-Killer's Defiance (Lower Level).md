@@ -1,5 +1,6 @@
 ---
 title: "Effect: Corpse-Killer's Defiance (Lower Level)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Corpse-Killer's Defiance (Lower Level)"
 foundryId: Compendium.pf2e.feat-effects.Item.ctiTtuRWFjAnWdYQ

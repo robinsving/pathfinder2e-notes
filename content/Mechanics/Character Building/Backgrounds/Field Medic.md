@@ -1,5 +1,6 @@
 ---
 title: "Field Medic"
+draft: true
 noteType: ":luggage:"
 aliases: "Field Medic"
 foundryId: Item.NoPTZevlCEW659go

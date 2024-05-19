@@ -1,5 +1,6 @@
 ---
 title: "Surge Investigator"
+draft: true
 noteType: ":luggage:"
 aliases: "Surge Investigator"
 foundryId: Item.zcV8kPbaOJsMgi2p

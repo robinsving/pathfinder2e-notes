@@ -1,5 +1,6 @@
 ---
 title: "Act Together"
+draft: true
 noteType: ":luggage:"
 aliases: "Act Together"
 foundryId: Item.geyraz3xQVhUHaax

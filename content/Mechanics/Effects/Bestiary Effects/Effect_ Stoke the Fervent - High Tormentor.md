@@ -1,5 +1,6 @@
 ---
 title: "Effect: Stoke the Fervent - High Tormentor"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Stoke the Fervent - High Tormentor"
 foundryId: Compendium.pf2e.bestiary-effects.Item.J6EwMsXtXg30eaiB

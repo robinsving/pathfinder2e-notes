@@ -1,5 +1,6 @@
 ---
 title: "Pillar"
+draft: true
 noteType: ":luggage:"
 aliases: "Pillar"
 foundryId: Item.FqRr9TDyCSRTrCA3

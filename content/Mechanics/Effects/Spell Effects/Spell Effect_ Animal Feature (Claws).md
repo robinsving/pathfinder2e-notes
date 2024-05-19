@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Animal Feature (Claws)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Animal Feature (Claws)"
 foundryId: Compendium.pf2e.spell-effects.Item.2wfrhRLmmgPSKbAZ

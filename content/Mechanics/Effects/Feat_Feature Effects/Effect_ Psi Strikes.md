@@ -1,5 +1,6 @@
 ---
 title: "Effect: Psi Strikes"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Psi Strikes"
 foundryId: Compendium.pf2e.feat-effects.Item.BIHU3o499fsa1bwt

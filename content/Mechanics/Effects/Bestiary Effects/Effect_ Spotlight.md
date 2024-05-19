@@ -1,5 +1,6 @@
 ---
 title: "Effect: Spotlight"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Spotlight"
 foundryId: Compendium.pf2e.bestiary-effects.Item.irSKPLF5oLfnqUNW

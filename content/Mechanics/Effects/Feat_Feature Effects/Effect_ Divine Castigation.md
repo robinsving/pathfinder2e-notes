@@ -1,5 +1,6 @@
 ---
 title: "Effect: Divine Castigation"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Divine Castigation"
 foundryId: Compendium.pf2e.feat-effects.Item.U2Pgm6B4nmdQ2Gpd

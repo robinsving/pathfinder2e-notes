@@ -1,5 +1,6 @@
 ---
 title: "Stance: Peafowl Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Peafowl Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.vjvcccAwdkOLA1Fc

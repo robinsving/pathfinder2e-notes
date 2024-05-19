@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Unusual Anatomy"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Unusual Anatomy"
 foundryId: Compendium.pf2e.spell-effects.Item.LMzFBnOEPzDGzHg4

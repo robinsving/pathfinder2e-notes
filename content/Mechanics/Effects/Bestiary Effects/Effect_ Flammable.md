@@ -1,5 +1,6 @@
 ---
 title: "Effect: Flammable"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Flammable"
 foundryId: Compendium.pf2e.bestiary-effects.Item.insc09aslLptd0dN

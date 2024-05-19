@@ -1,5 +1,6 @@
 ---
 title: "Belial"
+draft: true
 noteType: ":luggage:"
 aliases: "Belial"
 foundryId: Item.92PPU51CrMApxIOk

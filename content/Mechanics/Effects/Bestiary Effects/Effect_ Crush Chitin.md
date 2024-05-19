@@ -1,5 +1,6 @@
 ---
 title: "Effect: Crush Chitin"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Crush Chitin"
 foundryId: Compendium.pf2e.bestiary-effects.Item.7OJrBAEah6YFLzcK

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Dire Warning"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Dire Warning"
 foundryId: Compendium.pf2e.bestiary-effects.Item.Cc5WsKkbOPOzopCY

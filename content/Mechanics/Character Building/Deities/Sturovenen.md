@@ -1,5 +1,6 @@
 ---
 title: "Sturovenen"
+draft: true
 noteType: ":luggage:"
 aliases: "Sturovenen"
 foundryId: Item.p18VQZff54ntTHmo

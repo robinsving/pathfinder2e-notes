@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Dutiful Challenge"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Dutiful Challenge"
 foundryId: Compendium.pf2e.spell-effects.Item.UH2sT6eW5e31Xytd

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Divine Rebuttal"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Divine Rebuttal"
 foundryId: Compendium.pf2e.feat-effects.Item.jMQi2kDirzGgddti

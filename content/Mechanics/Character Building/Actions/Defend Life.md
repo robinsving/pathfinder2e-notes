@@ -1,5 +1,6 @@
 ---
 title: "Defend Life"
+draft: true
 noteType: ":luggage:"
 aliases: "Defend Life"
 foundryId: Item.2O72jqpLddtdlMAC

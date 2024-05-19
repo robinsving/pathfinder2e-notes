@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Iron Gut (3rd Level)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Iron Gut (3rd Level)"
 foundryId: Compendium.pf2e.spell-effects.Item.XTgxkQkhlap66e54

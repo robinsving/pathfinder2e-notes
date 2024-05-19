@@ -1,5 +1,6 @@
 ---
 title: "Oracular Curse"
+draft: true
 noteType: ":luggage:"
 aliases: "Oracular Curse"
 foundryId: Item.NTw3VPywkJzhA4y7

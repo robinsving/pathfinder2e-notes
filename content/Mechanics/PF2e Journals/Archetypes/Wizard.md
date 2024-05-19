@@ -1,5 +1,6 @@
 ---
 title: "Wizard"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Wizard"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.XszmLWy174esRrlg

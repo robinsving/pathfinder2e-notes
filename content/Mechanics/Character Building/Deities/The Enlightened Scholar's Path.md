@@ -1,5 +1,6 @@
 ---
 title: "The Enlightened Scholar's Path"
+draft: true
 noteType: ":luggage:"
 aliases: "The Enlightened Scholar's Path"
 foundryId: Item.DXDkHC9Qmi6UDdL9

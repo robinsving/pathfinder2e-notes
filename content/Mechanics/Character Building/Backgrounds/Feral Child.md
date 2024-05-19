@@ -1,5 +1,6 @@
 ---
 title: "Feral Child"
+draft: true
 noteType: ":luggage:"
 aliases: "Feral Child"
 foundryId: Item.74tEPWOM0UpyD1Hx

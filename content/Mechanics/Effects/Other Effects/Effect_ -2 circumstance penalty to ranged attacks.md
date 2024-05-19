@@ -1,5 +1,6 @@
 ---
 title: "Effect: -2 circumstance penalty to ranged attacks"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: -2 circumstance penalty to ranged attacks"
 foundryId: Compendium.pf2e.other-effects.Item.wVGSlZEGxsg1s8AZ

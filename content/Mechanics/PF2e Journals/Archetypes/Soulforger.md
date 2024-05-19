@@ -1,5 +1,6 @@
 ---
 title: "Soulforger"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Soulforger"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.LWgcWM8B85HHVCtZ

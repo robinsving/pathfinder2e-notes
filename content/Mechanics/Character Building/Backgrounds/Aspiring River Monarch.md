@@ -1,5 +1,6 @@
 ---
 title: "Aspiring River Monarch"
+draft: true
 noteType: ":luggage:"
 aliases: "Aspiring River Monarch"
 foundryId: Item.E9DjYzdWZcQmLskA

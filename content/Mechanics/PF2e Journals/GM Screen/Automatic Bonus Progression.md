@@ -1,5 +1,6 @@
 ---
 title: "Automatic Bonus Progression"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Automatic Bonus Progression"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.SnSGU7DPiogZ9JOr

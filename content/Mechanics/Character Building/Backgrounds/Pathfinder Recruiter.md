@@ -1,5 +1,6 @@
 ---
 title: "Pathfinder Recruiter"
+draft: true
 noteType: ":luggage:"
 aliases: "Pathfinder Recruiter"
 foundryId: Item.4r2k3DUSZ34rGR16

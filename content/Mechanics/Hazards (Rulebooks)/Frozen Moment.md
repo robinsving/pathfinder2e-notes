@@ -1,5 +1,6 @@
 ---
 title: Frozen Moment
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

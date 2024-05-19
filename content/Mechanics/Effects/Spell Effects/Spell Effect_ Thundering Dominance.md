@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Thundering Dominance"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Thundering Dominance"
 foundryId: Compendium.pf2e.spell-effects.Item.81TfqzTfIqkQA4Dy

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Emblazon Energy (Weapon, Fire)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Emblazon Energy (Weapon, Fire)"
 foundryId: Compendium.pf2e.feat-effects.Item.GCEOngH5zL0rRyle

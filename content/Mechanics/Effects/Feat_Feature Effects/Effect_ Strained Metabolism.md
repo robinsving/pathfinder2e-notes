@@ -1,5 +1,6 @@
 ---
 title: "Effect: Strained Metabolism"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Strained Metabolism"
 foundryId: Compendium.pf2e.feat-effects.Item.lZPbv3nBRWmfbs3z

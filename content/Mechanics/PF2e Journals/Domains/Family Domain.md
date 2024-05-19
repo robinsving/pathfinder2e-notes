@@ -1,5 +1,6 @@
 ---
 title: "Family Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Family Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.SAnmegCTIqGW9S7S

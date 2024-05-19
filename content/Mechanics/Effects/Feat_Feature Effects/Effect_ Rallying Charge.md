@@ -1,5 +1,6 @@
 ---
 title: "Effect: Rallying Charge"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Rallying Charge"
 foundryId: Compendium.pf2e.feat-effects.Item.wjNNHgX6ceKLbn8Q

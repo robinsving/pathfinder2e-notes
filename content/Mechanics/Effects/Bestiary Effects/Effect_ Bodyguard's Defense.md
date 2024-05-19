@@ -1,5 +1,6 @@
 ---
 title: "Effect: Bodyguard's Defense"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Bodyguard's Defense"
 foundryId: Compendium.pf2e.bestiary-effects.Item.IfUod2VxNmZMGGPq

@@ -1,5 +1,6 @@
 ---
 title: "Lifestyle Expenses"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Lifestyle Expenses"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.PfoKLAsQeXHsDgzf

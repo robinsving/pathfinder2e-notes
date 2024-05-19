@@ -1,5 +1,6 @@
 ---
 title: "Pazuzu"
+draft: true
 noteType: ":luggage:"
 aliases: "Pazuzu"
 foundryId: Item.N4pAYkKoQoNxLCh2

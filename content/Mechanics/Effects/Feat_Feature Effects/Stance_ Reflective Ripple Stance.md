@@ -1,5 +1,6 @@
 ---
 title: "Stance: Reflective Ripple Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Reflective Ripple Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.QDQwHxNowRwzUx9R

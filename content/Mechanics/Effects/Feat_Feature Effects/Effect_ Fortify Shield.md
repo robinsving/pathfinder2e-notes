@@ -1,5 +1,6 @@
 ---
 title: "Effect: Fortify Shield"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Fortify Shield"
 foundryId: Compendium.pf2e.feat-effects.Item.ghZFZWUh5Z20vOlR

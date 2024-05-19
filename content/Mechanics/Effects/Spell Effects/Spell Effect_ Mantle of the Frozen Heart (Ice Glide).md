@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Mantle of the Frozen Heart (Ice Glide)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Mantle of the Frozen Heart (Ice Glide)"
 foundryId: Compendium.pf2e.spell-effects.Item.YCno88Te0nfwFgVo

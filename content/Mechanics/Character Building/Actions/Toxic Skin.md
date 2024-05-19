@@ -1,5 +1,6 @@
 ---
 title: "Toxic Skin"
+draft: true
 noteType: ":luggage:"
 aliases: "Toxic Skin"
 foundryId: Item.NvTRHp2zxutHzXlR

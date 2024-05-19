@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Lay on Hands (Vs. Undead)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Lay on Hands (Vs. Undead)"
 foundryId: Compendium.pf2e.spell-effects.Item.JhihziXQuoteftdd

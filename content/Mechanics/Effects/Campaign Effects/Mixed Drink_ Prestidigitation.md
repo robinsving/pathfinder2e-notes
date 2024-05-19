@@ -1,5 +1,6 @@
 ---
 title: "Mixed Drink: Prestidigitation"
+draft: true
 noteType: ":luggage:"
 aliases: "Mixed Drink: Prestidigitation"
 foundryId: Compendium.pf2e.campaign-effects.Item.j8hA7CsmSY90tBqw

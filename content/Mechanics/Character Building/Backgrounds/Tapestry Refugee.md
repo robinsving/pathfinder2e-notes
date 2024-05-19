@@ -1,5 +1,6 @@
 ---
 title: "Tapestry Refugee"
+draft: true
 noteType: ":luggage:"
 aliases: "Tapestry Refugee"
 foundryId: Item.WbEpjYJlUfIsGtTT

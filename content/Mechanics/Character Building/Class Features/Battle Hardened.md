@@ -1,5 +1,6 @@
 ---
 title: "Battle Hardened"
+draft: true
 noteType: ":luggage:"
 aliases: "Battle Hardened"
 foundryId: Item.wsaDF2x1Niao4GPz

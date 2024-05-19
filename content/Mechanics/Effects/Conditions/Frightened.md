@@ -1,5 +1,6 @@
 ---
 title: Frightened 1
+draft: true
 noteType: ":luggage:"
 aliases:
   - Frightened 1

@@ -1,5 +1,6 @@
 ---
 title: "Stitching Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Stitching Strike"
 foundryId: Item.bc2a7U4lZs4Z8zx8

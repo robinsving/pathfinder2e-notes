@@ -1,5 +1,6 @@
 ---
 title: "Damage Avoidance: Fortitude"
+draft: true
 noteType: ":luggage:"
 aliases: "Damage Avoidance: Fortitude"
 foundryId: Item.Jmc7DUovwaiNLMtS

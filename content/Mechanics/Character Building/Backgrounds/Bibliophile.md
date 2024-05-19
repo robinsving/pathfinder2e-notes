@@ -1,5 +1,6 @@
 ---
 title: "Bibliophile"
+draft: true
 noteType: ":luggage:"
 aliases: "Bibliophile"
 foundryId: Item.lO4qYxlsynAQGiH6

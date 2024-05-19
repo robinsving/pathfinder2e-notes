@@ -1,5 +1,6 @@
 ---
 title: "Effect: Gleaming Armor"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Gleaming Armor"
 foundryId: Compendium.pf2e.bestiary-effects.Item.CoPPOCyfADvybcxV

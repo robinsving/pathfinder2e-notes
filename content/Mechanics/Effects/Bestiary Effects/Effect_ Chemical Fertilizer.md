@@ -1,5 +1,6 @@
 ---
 title: "Effect: Chemical Fertilizer"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Chemical Fertilizer"
 foundryId: Compendium.pf2e.bestiary-effects.Item.s4XFUgK8UgKnpKrX

@@ -1,5 +1,6 @@
 ---
 title: "Halcyon Speaker"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Halcyon Speaker"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.pDmUITVao0FDMnVf

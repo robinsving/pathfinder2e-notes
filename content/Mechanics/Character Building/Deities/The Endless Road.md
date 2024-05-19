@@ -1,5 +1,6 @@
 ---
 title: "The Endless Road"
+draft: true
 noteType: ":luggage:"
 aliases: "The Endless Road"
 foundryId: Item.QbVLzkfGj8sAIA55

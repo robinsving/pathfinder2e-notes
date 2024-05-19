@@ -1,5 +1,6 @@
 ---
 title: "Stance: Air Shroud"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Air Shroud"
 foundryId: Compendium.pf2e.feat-effects.Item.XFc3dVzTe7KnpjuP

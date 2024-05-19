@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Rapid Adaptation (Aquatic Base Swim Speed)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Rapid Adaptation (Aquatic Base Swim Speed)"
 foundryId: Compendium.pf2e.spell-effects.Item.fGK6zJ7mWz9D5QYo

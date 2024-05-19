@@ -1,5 +1,6 @@
 ---
 title: "Jet"
+draft: true
 noteType: ":luggage:"
 aliases: "Jet"
 foundryId: Item.kTuniWBGho5ssm4d

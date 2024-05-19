@@ -1,5 +1,6 @@
 ---
 title: "Highborn Snoop"
+draft: true
 noteType: ":luggage:"
 aliases: "Highborn Snoop"
 foundryId: Item.GN47I0dE8Zthi4Yd

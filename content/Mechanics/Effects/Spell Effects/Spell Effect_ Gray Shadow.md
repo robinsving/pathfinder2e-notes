@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Gray Shadow"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Gray Shadow"
 foundryId: Compendium.pf2e.spell-effects.Item.7tYv9lY3ksSUny2h

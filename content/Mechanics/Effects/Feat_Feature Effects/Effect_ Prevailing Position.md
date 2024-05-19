@@ -1,5 +1,6 @@
 ---
 title: "Effect: Prevailing Position"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Prevailing Position"
 foundryId: Compendium.pf2e.feat-effects.Item.COsdMolZraFRTdP8

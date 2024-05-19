@@ -1,5 +1,6 @@
 ---
 title: "Ranginori"
+draft: true
 noteType: ":luggage:"
 aliases: "Ranginori"
 foundryId: Item.mci9ZW4n3G6gcO7n

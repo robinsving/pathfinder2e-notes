@@ -1,5 +1,6 @@
 ---
 title: "Effect: Psychic Rapport"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Psychic Rapport"
 foundryId: Compendium.pf2e.feat-effects.Item.Dbr5hInQXH904Ca7

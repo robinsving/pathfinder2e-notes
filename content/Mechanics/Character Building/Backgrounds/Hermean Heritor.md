@@ -1,5 +1,6 @@
 ---
 title: "Hermean Heritor"
+draft: true
 noteType: ":luggage:"
 aliases: "Hermean Heritor"
 foundryId: Item.SewRzrzzQL49OyW1

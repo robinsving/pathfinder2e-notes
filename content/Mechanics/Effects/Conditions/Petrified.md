@@ -1,5 +1,6 @@
 ---
 title: "Petrified"
+draft: true
 noteType: ":luggage:"
 aliases: "Petrified"
 foundryId: Item.29bVgZfr89zyQ4h7

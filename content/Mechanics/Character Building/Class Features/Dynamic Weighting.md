@@ -1,5 +1,6 @@
 ---
 title: "Dynamic Weighting"
+draft: true
 noteType: ":luggage:"
 aliases: "Dynamic Weighting"
 foundryId: Item.acbJEKzXEXDttUEs

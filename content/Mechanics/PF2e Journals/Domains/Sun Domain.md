@@ -1,5 +1,6 @@
 ---
 title: "Sun Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Sun Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.CkBvj5y1lAm1jnsc

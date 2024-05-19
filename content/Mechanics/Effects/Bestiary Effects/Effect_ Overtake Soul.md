@@ -1,5 +1,6 @@
 ---
 title: "Effect: Overtake Soul"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Overtake Soul"
 foundryId: Compendium.pf2e.bestiary-effects.Item.xiOi7btey4AS6jhe

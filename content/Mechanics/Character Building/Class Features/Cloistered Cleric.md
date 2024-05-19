@@ -1,5 +1,6 @@
 ---
 title: "Cloistered Cleric"
+draft: true
 noteType: ":luggage:"
 aliases: "Cloistered Cleric"
 foundryId: Item.tCtzAxi5TIvEmSWg

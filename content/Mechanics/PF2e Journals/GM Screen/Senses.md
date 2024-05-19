@@ -1,5 +1,6 @@
 ---
 title: "Senses"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Senses"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.SiMXtLf4YQeigzIE

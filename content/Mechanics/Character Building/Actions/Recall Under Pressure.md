@@ -1,5 +1,6 @@
 ---
 title: "Recall Under Pressure"
+draft: true
 noteType: ":luggage:"
 aliases: "Recall Under Pressure"
 foundryId: Item.Ztbpgya3PFyOr6vc

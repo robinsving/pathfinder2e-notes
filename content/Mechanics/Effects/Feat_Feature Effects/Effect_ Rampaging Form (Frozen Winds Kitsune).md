@@ -1,5 +1,6 @@
 ---
 title: "Effect: Rampaging Form (Frozen Winds Kitsune)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Rampaging Form (Frozen Winds Kitsune)"
 foundryId: Compendium.pf2e.feat-effects.Item.WRe8qbemruWxkN8d

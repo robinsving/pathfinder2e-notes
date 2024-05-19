@@ -1,5 +1,6 @@
 ---
 title: "Quick Adventure Groups"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Quick Adventure Groups"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.zVcfWP1ac0JhNEhY

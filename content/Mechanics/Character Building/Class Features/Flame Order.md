@@ -1,5 +1,6 @@
 ---
 title: "Flame Order"
+draft: true
 noteType: ":luggage:"
 aliases: "Flame Order"
 foundryId: Item.JNZ2Vp4ss4leQLrz

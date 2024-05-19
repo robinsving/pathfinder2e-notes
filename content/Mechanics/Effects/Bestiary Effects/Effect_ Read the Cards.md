@@ -1,5 +1,6 @@
 ---
 title: "Effect: Read the Cards"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Read the Cards"
 foundryId: Compendium.pf2e.bestiary-effects.Item.8tCNgEE9OsQE9Xnh

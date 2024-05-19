@@ -1,5 +1,6 @@
 ---
 title: "Way of the Vanguard"
+draft: true
 noteType: ":luggage:"
 aliases: "Way of the Vanguard"
 foundryId: Item.oXfdeSEt1TqbRF2L

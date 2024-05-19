@@ -1,5 +1,6 @@
 ---
 title: "Alchemist"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Alchemist"
 foundryId: Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.Om4e4tsgNWrComie

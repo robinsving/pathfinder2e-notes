@@ -1,5 +1,6 @@
 ---
 title: "Blunt Snout"
+draft: true
 noteType: ":luggage:"
 aliases: "Blunt Snout"
 foundryId: Item.LoQgpibRIN6qVj0f

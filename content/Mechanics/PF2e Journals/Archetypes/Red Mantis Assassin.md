@@ -1,5 +1,6 @@
 ---
 title: "Red Mantis Assassin"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Red Mantis Assassin"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.CB9YE4P7A2Wty1IX

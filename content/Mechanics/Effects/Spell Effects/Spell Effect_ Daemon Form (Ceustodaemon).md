@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Daemon Form (Ceustodaemon)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Daemon Form (Ceustodaemon)"
 foundryId: Compendium.pf2e.spell-effects.Item.1n84AqLtsdT8I64W

@@ -1,5 +1,6 @@
 ---
 title: "Passion Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Passion Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.ajCEExOaxuB4C1tY

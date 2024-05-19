@@ -1,5 +1,6 @@
 ---
 title: "Stance: Fane's Fourberie"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Fane's Fourberie"
 foundryId: Compendium.pf2e.feat-effects.Item.GvqB4M8LrHpzYEvl

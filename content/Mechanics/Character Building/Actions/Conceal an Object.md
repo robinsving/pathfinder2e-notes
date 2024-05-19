@@ -1,5 +1,6 @@
 ---
 title: "Conceal an Object"
+draft: true
 noteType: ":luggage:"
 aliases: "Conceal an Object"
 foundryId: Item.A8sHyTxzg2L8PJ42

@@ -1,5 +1,6 @@
 ---
 title: "Korada"
+draft: true
 noteType: ":luggage:"
 aliases: "Korada"
 foundryId: Item.HSaEnWou4d4XWOyM

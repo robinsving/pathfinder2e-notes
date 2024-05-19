@@ -1,5 +1,6 @@
 ---
 title: "Zevgavizeb"
+draft: true
 noteType: ":luggage:"
 aliases: "Zevgavizeb"
 foundryId: Item.y68LvA9V3Fd0FDJJ

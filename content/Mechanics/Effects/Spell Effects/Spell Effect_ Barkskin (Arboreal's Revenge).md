@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Barkskin (Arboreal's Revenge)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Barkskin (Arboreal's Revenge)"
 foundryId: Compendium.pf2e.spell-effects.Item.mCb9mWAmgWPQrkTY

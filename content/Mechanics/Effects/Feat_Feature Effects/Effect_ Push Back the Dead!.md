@@ -1,5 +1,6 @@
 ---
 title: "Effect: Push Back the Dead!"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Push Back the Dead!"
 foundryId: Compendium.pf2e.feat-effects.Item.OeZ0E1oUKyGPxPy0

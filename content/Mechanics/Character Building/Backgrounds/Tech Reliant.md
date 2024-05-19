@@ -1,5 +1,6 @@
 ---
 title: "Tech Reliant"
+draft: true
 noteType: ":luggage:"
 aliases: "Tech Reliant"
 foundryId: Item.OhfWVucciXjC46bk

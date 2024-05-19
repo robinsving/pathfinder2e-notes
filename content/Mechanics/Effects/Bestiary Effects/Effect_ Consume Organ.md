@@ -1,5 +1,6 @@
 ---
 title: "Effect: Consume Organ"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Consume Organ"
 foundryId: Compendium.pf2e.bestiary-effects.Item.Qa0HP5uCuqh4vxBh

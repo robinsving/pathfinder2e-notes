@@ -1,5 +1,6 @@
 ---
 title: "Finish The Job"
+draft: true
 noteType: ":luggage:"
 aliases: "Finish The Job"
 foundryId: Item.iC9x7CpaBEd8feWA

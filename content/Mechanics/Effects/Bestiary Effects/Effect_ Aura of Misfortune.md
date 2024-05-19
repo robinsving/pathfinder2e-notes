@@ -1,5 +1,6 @@
 ---
 title: "Effect: Aura of Misfortune"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Aura of Misfortune"
 foundryId: Compendium.pf2e.bestiary-effects.Item.QoneHsjZKtGHWlam

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Guardian's Aegis"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Guardian's Aegis"
 foundryId: Compendium.pf2e.bestiary-effects.Item.AL7E03DYahfDhbcR

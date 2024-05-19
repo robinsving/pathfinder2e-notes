@@ -1,5 +1,6 @@
 ---
 title: "Effect: Gloom Aura"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Gloom Aura"
 foundryId: Compendium.pf2e.bestiary-effects.Item.Me16QQGxpivWE2WW

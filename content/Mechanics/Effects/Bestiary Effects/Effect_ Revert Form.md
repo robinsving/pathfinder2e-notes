@@ -1,5 +1,6 @@
 ---
 title: "Effect: Revert Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Revert Form"
 foundryId: Compendium.pf2e.bestiary-effects.Item.SA5f54t1dVah5fJm

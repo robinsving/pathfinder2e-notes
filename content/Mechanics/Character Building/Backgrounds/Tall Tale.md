@@ -1,5 +1,6 @@
 ---
 title: "Tall Tale"
+draft: true
 noteType: ":luggage:"
 aliases: "Tall Tale"
 foundryId: Item.8mJXWdIqvpv01PXj

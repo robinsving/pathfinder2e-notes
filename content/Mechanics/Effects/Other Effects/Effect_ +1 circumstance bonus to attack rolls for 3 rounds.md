@@ -1,5 +1,6 @@
 ---
 title: "Effect: +1 circumstance bonus to attack rolls for 3 rounds"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: +1 circumstance bonus to attack rolls for 3 rounds"
 foundryId: Compendium.pf2e.other-effects.Item.IUvO6CatanKAgmNr

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Bristle"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Bristle"
 foundryId: Compendium.pf2e.feat-effects.Item.4Zj71naHbY6O9ggP

@@ -1,5 +1,6 @@
 ---
 title: "Life Block"
+draft: true
 noteType: ":luggage:"
 aliases: "Life Block"
 foundryId: Item.Ud3DqoX8UCw9cqxB

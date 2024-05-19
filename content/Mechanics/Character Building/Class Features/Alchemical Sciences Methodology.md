@@ -1,5 +1,6 @@
 ---
 title: "Alchemical Sciences Methodology"
+draft: true
 noteType: ":luggage:"
 aliases: "Alchemical Sciences Methodology"
 foundryId: Item.aEivZHtnTrJs85bb

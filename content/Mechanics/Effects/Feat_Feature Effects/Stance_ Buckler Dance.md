@@ -1,5 +1,6 @@
 ---
 title: "Stance: Buckler Dance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Buckler Dance"
 foundryId: Compendium.pf2e.feat-effects.Item.PS17dsXkTdQmOv7w

@@ -1,5 +1,6 @@
 ---
 title: "Swordmaster"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Swordmaster"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.Y4DiXz5I8krCh1fC

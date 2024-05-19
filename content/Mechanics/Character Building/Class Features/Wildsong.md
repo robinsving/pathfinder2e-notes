@@ -1,5 +1,6 @@
 ---
 title: Wildsong
+draft: true
 noteType: ":luggage:"
 aliases:
   - Wildsong

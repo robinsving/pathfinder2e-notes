@@ -1,5 +1,6 @@
 ---
 title: "Controlled"
+draft: true
 noteType: ":luggage:"
 aliases: "Controlled"
 foundryId: Item.oslJeC7KzsJV9Mw8

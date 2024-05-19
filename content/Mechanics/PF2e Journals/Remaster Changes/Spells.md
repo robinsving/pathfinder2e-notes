@@ -1,5 +1,6 @@
 ---
 title: "Spells"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Spells"
 foundryId: Compendium.pf2e.journals.JournalEntry.6L2eweJuM8W7OCf2.JournalEntryPage.Gtvdok4YnzNR2Xx4

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Tail Toxin"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Tail Toxin"
 foundryId: Compendium.pf2e.feat-effects.Item.Q0DKJRnDuuUnLpvn

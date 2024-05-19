@@ -1,5 +1,6 @@
 ---
 title: "High-Quality Items"
+draft: true
 noteType: ":sticky-note:"
 aliases: "High-Quality Items"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.DUDsA3sIlOlibvIu

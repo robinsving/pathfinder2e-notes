@@ -1,5 +1,6 @@
 ---
 title: "Menagerie Dung Sweeper"
+draft: true
 noteType: ":luggage:"
 aliases: "Menagerie Dung Sweeper"
 foundryId: Item.oKuc68IyjrkQkW0U

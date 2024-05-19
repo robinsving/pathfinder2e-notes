@@ -1,5 +1,6 @@
 ---
 title: "Patron's Gift"
+draft: true
 noteType: ":luggage:"
 aliases: "Patron's Gift"
 foundryId: Item.js2op6iL49BEJNx1

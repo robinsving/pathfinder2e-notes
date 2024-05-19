@@ -1,5 +1,6 @@
 ---
 title: "Will of the Pupil"
+draft: true
 noteType: ":luggage:"
 aliases: "Will of the Pupil"
 foundryId: Item.4Xedt1Y4pGwgbbbd

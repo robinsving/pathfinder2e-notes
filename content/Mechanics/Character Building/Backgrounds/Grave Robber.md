@@ -1,5 +1,6 @@
 ---
 title: "Grave Robber"
+draft: true
 noteType: ":luggage:"
 aliases: "Grave Robber"
 foundryId: Item.piACCLp9YSAgNpWT

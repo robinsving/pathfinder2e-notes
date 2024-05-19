@@ -1,5 +1,6 @@
 ---
 title: "Raconteur's Reload"
+draft: true
 noteType: ":luggage:"
 aliases: "Raconteur's Reload"
 foundryId: Item.PjJf3U8OBztAI7AC

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Mangling Rend"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Mangling Rend"
 foundryId: Compendium.pf2e.bestiary-effects.Item.5roCV7EbPx1G5xOd

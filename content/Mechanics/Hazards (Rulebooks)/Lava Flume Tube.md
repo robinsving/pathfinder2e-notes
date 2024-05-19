@@ -1,5 +1,6 @@
 ---
 title: Lava Flume Tube
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

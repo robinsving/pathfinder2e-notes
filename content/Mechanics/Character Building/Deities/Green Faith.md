@@ -1,5 +1,6 @@
 ---
 title: "Green Faith"
+draft: true
 noteType: ":luggage:"
 aliases: "Green Faith"
 foundryId: Item.C70dLpflonufshp7

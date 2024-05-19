@@ -1,5 +1,6 @@
 ---
 title: "Former Aspis Agent"
+draft: true
 noteType: ":luggage:"
 aliases: "Former Aspis Agent"
 foundryId: Item.bNcUBo0Hlj71NHcR

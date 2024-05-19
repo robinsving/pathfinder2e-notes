@@ -1,5 +1,6 @@
 ---
 title: "Gathered Lore"
+draft: true
 noteType: ":luggage:"
 aliases: "Gathered Lore"
 foundryId: Item.DNex8GUWwIHW6uSs

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Saoc Astrology"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Saoc Astrology"
 foundryId: Compendium.pf2e.feat-effects.Item.6ACbQIpmmemxmoBJ

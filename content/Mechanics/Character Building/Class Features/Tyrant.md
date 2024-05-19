@@ -1,5 +1,6 @@
 ---
 title: "Tyrant"
+draft: true
 noteType: ":luggage:"
 aliases: "Tyrant"
 foundryId: Item.BVQnK9CAyJgbV97u

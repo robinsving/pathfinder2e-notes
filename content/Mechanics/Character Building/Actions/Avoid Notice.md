@@ -1,5 +1,6 @@
 ---
 title: "Avoid Notice"
+draft: true
 noteType: ":luggage:"
 aliases: "Avoid Notice"
 foundryId: Item.JcedDmM2vcAv1Y4R

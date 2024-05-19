@@ -1,5 +1,6 @@
 ---
 title: "Hex Spells"
+draft: true
 noteType: ":luggage:"
 aliases: "Hex Spells"
 foundryId: Item.UYQcqzsUiD0e2KpQ

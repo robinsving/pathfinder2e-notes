@@ -1,5 +1,6 @@
 ---
 title: "Gunslinger Weapon Mastery"
+draft: true
 noteType: ":luggage:"
 aliases: "Gunslinger Weapon Mastery"
 foundryId: Item.5hs5Wwlj4wasuLof

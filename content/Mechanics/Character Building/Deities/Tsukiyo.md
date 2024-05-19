@@ -1,5 +1,6 @@
 ---
 title: "Tsukiyo"
+draft: true
 noteType: ":luggage:"
 aliases: "Tsukiyo"
 foundryId: Item.Fxc7iizyRxWXfQFN

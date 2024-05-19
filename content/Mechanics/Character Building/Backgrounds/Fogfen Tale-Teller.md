@@ -1,5 +1,6 @@
 ---
 title: "Fogfen Tale-Teller"
+draft: true
 noteType: ":luggage:"
 aliases: "Fogfen Tale-Teller"
 foundryId: Item.4Tf21VWSEj3R6NMQ

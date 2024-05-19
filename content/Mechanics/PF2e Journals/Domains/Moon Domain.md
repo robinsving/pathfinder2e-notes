@@ -1,5 +1,6 @@
 ---
 title: "Moon Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Moon Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.Y3DFBCWiM9GBIlfl

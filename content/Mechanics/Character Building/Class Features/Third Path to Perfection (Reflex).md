@@ -1,5 +1,6 @@
 ---
 title: "Third Path to Perfection (Reflex)"
+draft: true
 noteType: ":luggage:"
 aliases: "Third Path to Perfection (Reflex)"
 foundryId: Item.TCd0sGrJDIQmoZtf

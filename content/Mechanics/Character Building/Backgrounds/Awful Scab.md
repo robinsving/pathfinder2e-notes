@@ -1,5 +1,6 @@
 ---
 title: "Awful Scab"
+draft: true
 noteType: ":luggage:"
 aliases: "Awful Scab"
 foundryId: Item.DMp2oJEdE5BLvNMu

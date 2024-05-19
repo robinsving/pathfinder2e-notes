@@ -1,5 +1,6 @@
 ---
 title: "Goblinblood Orphan"
+draft: true
 noteType: ":luggage:"
 aliases: "Goblinblood Orphan"
 foundryId: Item.l96kWXV11dgK5Jrq

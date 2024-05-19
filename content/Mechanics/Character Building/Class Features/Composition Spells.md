@@ -1,5 +1,6 @@
 ---
 title: "Composition Spells"
+draft: true
 noteType: ":luggage:"
 aliases: "Composition Spells"
 foundryId: Item.J447gjATTgvMzIqc

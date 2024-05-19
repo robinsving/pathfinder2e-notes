@@ -1,5 +1,6 @@
 ---
 title: "Gendowyn"
+draft: true
 noteType: ":luggage:"
 aliases: "Gendowyn"
 foundryId: Item.pwvJzTQv4lLpylYC

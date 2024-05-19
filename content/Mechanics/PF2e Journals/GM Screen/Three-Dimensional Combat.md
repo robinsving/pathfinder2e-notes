@@ -1,5 +1,6 @@
 ---
 title: "Three-Dimensional Combat"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Three-Dimensional Combat"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.ok2IPQGIrxj8h1vs

@@ -1,5 +1,6 @@
 ---
 title: "Corpse Tender"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Corpse Tender"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.jFhTp57zO3ej6HDt

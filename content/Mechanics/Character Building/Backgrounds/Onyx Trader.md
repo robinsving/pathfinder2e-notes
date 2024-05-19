@@ -1,5 +1,6 @@
 ---
 title: "Onyx Trader"
+draft: true
 noteType: ":luggage:"
 aliases: "Onyx Trader"
 foundryId: Item.VSbDGTeO7u58WkYo

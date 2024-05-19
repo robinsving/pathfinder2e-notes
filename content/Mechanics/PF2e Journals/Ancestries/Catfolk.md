@@ -1,5 +1,6 @@
 ---
 title: "Catfolk"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Catfolk"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.5S1Pq3GoEzLfBbH7

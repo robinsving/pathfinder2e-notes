@@ -1,5 +1,6 @@
 ---
 title: "Wicked Thorns"
+draft: true
 noteType: ":luggage:"
 aliases: "Wicked Thorns"
 foundryId: Item.2P5KpaFZ6wvGF8Bd

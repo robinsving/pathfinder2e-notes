@@ -1,5 +1,6 @@
 ---
 title: "Nature's Edge"
+draft: true
 noteType: ":luggage:"
 aliases: "Nature's Edge"
 foundryId: Item.C9uewyYkfUg5j1ay

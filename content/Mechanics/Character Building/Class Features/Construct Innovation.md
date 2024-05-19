@@ -1,5 +1,6 @@
 ---
 title: "Construct Innovation"
+draft: true
 noteType: ":luggage:"
 aliases: "Construct Innovation"
 foundryId: Item.zK1M2XPRS5ES8RbZ

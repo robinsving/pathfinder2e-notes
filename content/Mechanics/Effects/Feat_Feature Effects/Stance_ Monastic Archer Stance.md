@@ -1,5 +1,6 @@
 ---
 title: "Stance: Monastic Archer Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Monastic Archer Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.1dxD3xsTzak6GNj5

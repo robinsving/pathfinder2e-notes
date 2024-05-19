@@ -1,5 +1,6 @@
 ---
 title: "Effect: Safeguard Soul"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Safeguard Soul"
 foundryId: Compendium.pf2e.feat-effects.Item.tlft5vzk66iWCVRq

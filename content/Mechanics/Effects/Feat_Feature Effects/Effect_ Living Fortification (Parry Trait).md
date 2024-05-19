@@ -1,5 +1,6 @@
 ---
 title: "Effect: Living Fortification (Parry Trait)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Living Fortification (Parry Trait)"
 foundryId: Compendium.pf2e.feat-effects.Item.WxE5S3KY1DR5Nbxm

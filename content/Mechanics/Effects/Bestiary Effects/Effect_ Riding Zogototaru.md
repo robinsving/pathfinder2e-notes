@@ -1,5 +1,6 @@
 ---
 title: "Effect: Riding Zogototaru"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Riding Zogototaru"
 foundryId: Compendium.pf2e.bestiary-effects.Item.QzJv3TybABeCjwQc

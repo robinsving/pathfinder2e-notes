@@ -1,5 +1,6 @@
 ---
 title: "Elite/Weak Adjustments"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Elite/Weak Adjustments"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.lcCPztCqmXpwdmWx

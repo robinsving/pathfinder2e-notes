@@ -1,5 +1,6 @@
 ---
 title: "Effect: Tail Lash (Attack Roll)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Tail Lash (Attack Roll)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.QqC9xymSXSVunDgl

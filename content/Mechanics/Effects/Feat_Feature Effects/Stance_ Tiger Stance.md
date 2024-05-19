@@ -1,5 +1,6 @@
 ---
 title: "Stance: Tiger Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Tiger Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.pf9yvKNg6jZLrE30

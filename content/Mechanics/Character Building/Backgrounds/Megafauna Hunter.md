@@ -1,5 +1,6 @@
 ---
 title: "Megafauna Hunter"
+draft: true
 noteType: ":luggage:"
 aliases: "Megafauna Hunter"
 foundryId: Item.HZ6KYVwPVHBKPJNl

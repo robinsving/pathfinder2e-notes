@@ -1,5 +1,6 @@
 ---
 title: "Effect: Mist Cloud"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Mist Cloud"
 foundryId: Compendium.pf2e.bestiary-effects.Item.5SLAqVPYa0kliRDt

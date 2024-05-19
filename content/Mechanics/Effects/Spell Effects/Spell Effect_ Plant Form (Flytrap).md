@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Plant Form (Flytrap)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Plant Form (Flytrap)"
 foundryId: Compendium.pf2e.spell-effects.Item.JrNHFNxJayevlv2G

@@ -1,5 +1,6 @@
 ---
 title: "Earn Income"
+draft: true
 noteType: ":luggage:"
 aliases: "Earn Income"
 foundryId: Item.HbB7G3st2OT5fNaN

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Divine Infusion (Heal)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Divine Infusion (Heal)"
 foundryId: Compendium.pf2e.feat-effects.Item.cH8JD3ub4eEKuIAD

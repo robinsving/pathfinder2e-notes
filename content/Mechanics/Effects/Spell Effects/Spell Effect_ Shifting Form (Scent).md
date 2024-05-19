@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Shifting Form (Scent)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Shifting Form (Scent)"
 foundryId: Compendium.pf2e.spell-effects.Item.byXkHIKFwuKrZ55M

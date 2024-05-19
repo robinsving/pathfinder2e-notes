@@ -1,5 +1,6 @@
 ---
 title: "Mirror"
+draft: true
 noteType: ":luggage:"
 aliases: "Mirror"
 foundryId: Item.YyoyMbnoYuDiNrUI

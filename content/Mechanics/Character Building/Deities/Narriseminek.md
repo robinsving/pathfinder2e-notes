@@ -1,5 +1,6 @@
 ---
 title: "Narriseminek"
+draft: true
 noteType: ":luggage:"
 aliases: "Narriseminek"
 foundryId: Item.jEymnepOD7KOOdCJ

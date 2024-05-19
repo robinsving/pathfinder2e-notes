@@ -1,5 +1,6 @@
 ---
 title: Armageddon Orb
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

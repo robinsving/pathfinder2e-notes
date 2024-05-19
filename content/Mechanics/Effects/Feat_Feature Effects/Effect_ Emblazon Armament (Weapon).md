@@ -1,5 +1,6 @@
 ---
 title: "Effect: Emblazon Armament (Weapon)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Emblazon Armament (Weapon)"
 foundryId: Compendium.pf2e.feat-effects.Item.U1MpMtRnFqEDBJwd

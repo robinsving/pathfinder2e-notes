@@ -1,5 +1,6 @@
 ---
 title: "Speed Boosters"
+draft: true
 noteType: ":luggage:"
 aliases: "Speed Boosters"
 foundryId: Item.F4SlVBQ6s9lrbUzm

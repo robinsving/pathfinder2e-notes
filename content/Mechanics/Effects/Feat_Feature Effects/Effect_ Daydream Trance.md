@@ -1,5 +1,6 @@
 ---
 title: "Effect: Daydream Trance"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Daydream Trance"
 foundryId: Compendium.pf2e.feat-effects.Item.RATDyLyxXN3qmOas

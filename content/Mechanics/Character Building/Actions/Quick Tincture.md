@@ -1,5 +1,6 @@
 ---
 title: "Quick Tincture"
+draft: true
 noteType: ":luggage:"
 aliases: "Quick Tincture"
 foundryId: Item.PAHP9OP1LtxI4Av3

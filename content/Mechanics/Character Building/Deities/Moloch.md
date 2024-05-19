@@ -1,5 +1,6 @@
 ---
 title: "Moloch"
+draft: true
 noteType: ":luggage:"
 aliases: "Moloch"
 foundryId: Item.w77guiLaIvIb8lYn

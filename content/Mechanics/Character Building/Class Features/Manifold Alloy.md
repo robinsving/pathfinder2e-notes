@@ -1,5 +1,6 @@
 ---
 title: "Manifold Alloy"
+draft: true
 noteType: ":luggage:"
 aliases: "Manifold Alloy"
 foundryId: Item.O0YmCtD0LlAz3M20

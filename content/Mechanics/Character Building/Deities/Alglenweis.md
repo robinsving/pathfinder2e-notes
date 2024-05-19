@@ -1,5 +1,6 @@
 ---
 title: "Alglenweis"
+draft: true
 noteType: ":luggage:"
 aliases: "Alglenweis"
 foundryId: Item.jCwZT7xf6Mhu6k0j

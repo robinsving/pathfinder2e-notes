@@ -1,5 +1,6 @@
 ---
 title: "Kinetic Gate"
+draft: true
 noteType: ":luggage:"
 aliases: "Kinetic Gate"
 foundryId: Item.VwUyK747kGRGicnC

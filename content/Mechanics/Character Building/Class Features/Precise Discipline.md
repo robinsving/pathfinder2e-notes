@@ -1,5 +1,6 @@
 ---
 title: "Precise Discipline"
+draft: true
 noteType: ":luggage:"
 aliases: "Precise Discipline"
 foundryId: Item.fN8QKDPHiXdNjtkH

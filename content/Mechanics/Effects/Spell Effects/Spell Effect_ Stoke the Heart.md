@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Stoke the Heart"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Stoke the Heart"
 foundryId: Compendium.pf2e.spell-effects.Item.TpVkVALUBrBQjULn

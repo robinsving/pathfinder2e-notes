@@ -1,5 +1,6 @@
 ---
 title: "Effect: +2 status bonus to AC and all saving throws"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: +2 status bonus to AC and all saving throws"
 foundryId: Compendium.pf2e.other-effects.Item.sq8lhVfn0pl5WJ4t

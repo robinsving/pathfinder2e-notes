@@ -1,5 +1,6 @@
 ---
 title: "Immobilized"
+draft: true
 noteType: ":luggage:"
 aliases: "Immobilized"
 foundryId: Item.cQOu8j36aAVm6KjL

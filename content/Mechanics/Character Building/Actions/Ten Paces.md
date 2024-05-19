@@ -1,5 +1,6 @@
 ---
 title: "Ten Paces"
+draft: true
 noteType: ":luggage:"
 aliases: "Ten Paces"
 foundryId: Item.8P8W2TqyDby0nDCT

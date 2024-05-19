@@ -1,5 +1,6 @@
 ---
 title: "The Tenets of Evil"
+draft: true
 noteType: ":luggage:"
 aliases: "The Tenets of Evil"
 foundryId: Item.HIDmH4IVx3kgk7Cx

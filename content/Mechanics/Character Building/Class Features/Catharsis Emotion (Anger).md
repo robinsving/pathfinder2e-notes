@@ -1,5 +1,6 @@
 ---
 title: "Catharsis Emotion (Anger)"
+draft: true
 noteType: ":luggage:"
 aliases: "Catharsis Emotion (Anger)"
 foundryId: Item.bXfOtxyRGB7mF977

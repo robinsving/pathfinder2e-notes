@@ -1,5 +1,6 @@
 ---
 title: "Energy Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Energy Shot"
 foundryId: Item.l0qdhqtx01EFpNoy

@@ -1,5 +1,6 @@
 ---
 title: "Goldhand Arms Dealer"
+draft: true
 noteType: ":luggage:"
 aliases: "Goldhand Arms Dealer"
 foundryId: Item.VbRcFblkub6DzHit

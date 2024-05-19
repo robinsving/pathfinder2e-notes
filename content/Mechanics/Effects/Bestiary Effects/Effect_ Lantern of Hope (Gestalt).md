@@ -1,5 +1,6 @@
 ---
 title: "Effect: Lantern of Hope (Gestalt)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Lantern of Hope (Gestalt)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.hdsl0XexqEL2emE3

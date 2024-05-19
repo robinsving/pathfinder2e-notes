@@ -1,5 +1,6 @@
 ---
 title: "Stance: Disarming Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Disarming Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.LxSev4GNKv26DbZw

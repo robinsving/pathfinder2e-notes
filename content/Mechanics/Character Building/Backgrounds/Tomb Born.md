@@ -1,5 +1,6 @@
 ---
 title: "Tomb Born"
+draft: true
 noteType: ":luggage:"
 aliases: "Tomb Born"
 foundryId: Item.RiphPbjasutt5ZfI

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Battle Medicine Immunity"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Battle Medicine Immunity"
 foundryId: Compendium.pf2e.feat-effects.Item.2XEYQNZTCGpdkyR6

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Deceitful Feast (Failure)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Deceitful Feast (Failure)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.vc3AOrJpacJ7T1hO

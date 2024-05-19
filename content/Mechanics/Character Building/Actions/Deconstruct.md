@@ -1,5 +1,6 @@
 ---
 title: "Deconstruct"
+draft: true
 noteType: ":luggage:"
 aliases: "Deconstruct"
 foundryId: Item.BKZEQWMKzamX1beg

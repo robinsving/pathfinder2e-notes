@@ -1,5 +1,6 @@
 ---
 title: "Breath Weapon (Cold) (Cone)"
+draft: true
 noteType: ":luggage:"
 aliases: "Breath Weapon (Cold) (Cone)"
 foundryId: Item.cVFZRXa33JmEA9iA

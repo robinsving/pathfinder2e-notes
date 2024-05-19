@@ -1,5 +1,6 @@
 ---
 title: "Effect: Educate Allies (Ally)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Educate Allies (Ally)"
 foundryId: Compendium.pf2e.feat-effects.Item.WrWSieH9Acy6XuzV

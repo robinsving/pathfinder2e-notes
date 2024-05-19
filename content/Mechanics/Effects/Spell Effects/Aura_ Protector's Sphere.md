@@ -1,5 +1,6 @@
 ---
 title: "Aura: Protector's Sphere"
+draft: true
 noteType: ":luggage:"
 aliases: "Aura: Protector's Sphere"
 foundryId: Compendium.pf2e.spell-effects.Item.3bcUiWwc5KLc4X0T

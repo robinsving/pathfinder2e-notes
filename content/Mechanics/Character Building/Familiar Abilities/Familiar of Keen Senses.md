@@ -1,5 +1,6 @@
 ---
 title: "Familiar of Keen Senses"
+draft: true
 noteType: ":luggage:"
 aliases: "Familiar of Keen Senses"
 foundryId: Item.cFBvr3TpoI0vepBX

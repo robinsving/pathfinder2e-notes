@@ -1,5 +1,6 @@
 ---
 title: "Effect: Maiden's Mending"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Maiden's Mending"
 foundryId: Compendium.pf2e.feat-effects.Item.FIgud5jqZgIjwkRE

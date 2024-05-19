@@ -1,5 +1,6 @@
 ---
 title: "Effect: Instinctual Tinker (Critical Success)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Instinctual Tinker (Critical Success)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.TEzLEXBZzNCp6flg

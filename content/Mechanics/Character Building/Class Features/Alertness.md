@@ -1,5 +1,6 @@
 ---
 title: "Alertness"
+draft: true
 noteType: ":luggage:"
 aliases: "Alertness"
 foundryId: Item.lZWFw3mtyCh8VvS8

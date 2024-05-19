@@ -1,5 +1,6 @@
 ---
 title: "Effect: Resurrectionist"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Resurrectionist"
 foundryId: Compendium.pf2e.feat-effects.Item.YaSxccYfE5ShFdFd

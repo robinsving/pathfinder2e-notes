@@ -1,5 +1,6 @@
 ---
 title: "Turpin Rowe Lumberjack"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Turpin Rowe Lumberjack"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.uGsGn5sgR7wn0TQD

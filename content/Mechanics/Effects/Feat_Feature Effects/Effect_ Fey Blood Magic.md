@@ -1,5 +1,6 @@
 ---
 title: "Effect: Fey Blood Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Fey Blood Magic"
 foundryId: Compendium.pf2e.feat-effects.Item.rJpkKaPRGaH0pLse

@@ -1,5 +1,6 @@
 ---
 title: "Hyper Boosters"
+draft: true
 noteType: ":luggage:"
 aliases: "Hyper Boosters"
 foundryId: Item.msRE0qTCBnifivY9

@@ -1,5 +1,6 @@
 ---
 title: "Earth Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Earth Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.zkiLWWYzzqoxmN2J

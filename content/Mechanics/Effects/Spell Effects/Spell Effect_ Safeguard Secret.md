@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Safeguard Secret"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Safeguard Secret"
 foundryId: Compendium.pf2e.spell-effects.Item.3HEiYVhqypfc4IsP

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Raise Menhir"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Raise Menhir"
 foundryId: Compendium.pf2e.feat-effects.Item.AggnVD5loQHLb7zj

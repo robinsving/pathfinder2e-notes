@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Discern Secrets (Recall Knowledge)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Discern Secrets (Recall Knowledge)"
 foundryId: Compendium.pf2e.spell-effects.Item.hdOb5Iu6Zd3pHoGI

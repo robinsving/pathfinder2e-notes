@@ -1,5 +1,6 @@
 ---
 title: "Ghoran"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Ghoran"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.kRjkrWAqQNXj3LLP

@@ -1,5 +1,6 @@
 ---
 title: "Encounter Building & XP Awards"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Encounter Building & XP Awards"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.9hfEG4kJmEbrjGS1

@@ -1,5 +1,6 @@
 ---
 title: "Alseta"
+draft: true
 noteType: ":luggage:"
 aliases: "Alseta"
 foundryId: Item.u18s7pKk0Gg80EgW

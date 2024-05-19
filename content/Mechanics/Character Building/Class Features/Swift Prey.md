@@ -1,5 +1,6 @@
 ---
 title: "Swift Prey"
+draft: true
 noteType: ":luggage:"
 aliases: "Swift Prey"
 foundryId: Item.QCrBKxfgzDJfbnT2

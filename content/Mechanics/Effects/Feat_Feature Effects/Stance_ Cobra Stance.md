@@ -1,5 +1,6 @@
 ---
 title: "Stance: Cobra Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Cobra Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.CgxYa0lrLUjS2ZhI

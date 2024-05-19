@@ -1,5 +1,6 @@
 ---
 title: "The Prismatic Ray"
+draft: true
 noteType: ":luggage:"
 aliases: "The Prismatic Ray"
 foundryId: Item.WcIWWeSwu6crU774

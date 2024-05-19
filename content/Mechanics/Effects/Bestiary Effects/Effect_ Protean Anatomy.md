@@ -1,5 +1,6 @@
 ---
 title: "Effect: Protean Anatomy"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Protean Anatomy"
 foundryId: Compendium.pf2e.bestiary-effects.Item.c6SiBB3mzV8lZUQr

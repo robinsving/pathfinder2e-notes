@@ -1,5 +1,6 @@
 ---
 title: "Effect: Blood Wake"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Blood Wake"
 foundryId: Compendium.pf2e.bestiary-effects.Item.oORIapm28xioxPDp

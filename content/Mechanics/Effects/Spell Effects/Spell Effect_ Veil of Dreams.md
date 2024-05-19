@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Veil of Dreams"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Veil of Dreams"
 foundryId: Compendium.pf2e.spell-effects.Item.hkLhZsH3T6jc9S1y

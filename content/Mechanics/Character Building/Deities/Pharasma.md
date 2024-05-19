@@ -1,5 +1,6 @@
 ---
 title: "Pharasma"
+draft: true
 noteType: ":luggage:"
 aliases: "Pharasma"
 foundryId: Item.THSgZlPuShSdBsEf

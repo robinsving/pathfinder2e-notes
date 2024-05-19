@@ -1,5 +1,6 @@
 ---
 title: "Effect: Share Defenses"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Share Defenses"
 foundryId: Compendium.pf2e.bestiary-effects.Item.zqgntQXIEbulBgZX

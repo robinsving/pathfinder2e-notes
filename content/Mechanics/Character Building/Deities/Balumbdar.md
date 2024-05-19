@@ -1,5 +1,6 @@
 ---
 title: "Balumbdar"
+draft: true
 noteType: ":luggage:"
 aliases: "Balumbdar"
 foundryId: Item.ky6UFcK2eoYK0hMQ

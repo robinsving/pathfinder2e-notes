@@ -1,5 +1,6 @@
 ---
 title: "Stance: Stumbling Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Stumbling Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.BCyGDKcplkJiSAKJ

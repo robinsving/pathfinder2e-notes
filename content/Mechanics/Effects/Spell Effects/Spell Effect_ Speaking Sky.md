@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Speaking Sky"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Speaking Sky"
 foundryId: Compendium.pf2e.spell-effects.Item.mhklZ6wjfty0bF44

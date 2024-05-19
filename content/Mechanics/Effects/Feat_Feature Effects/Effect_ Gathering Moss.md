@@ -1,5 +1,6 @@
 ---
 title: "Effect: Gathering Moss"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Gathering Moss"
 foundryId: Compendium.pf2e.feat-effects.Item.p0S3VHkRgMye7RSI

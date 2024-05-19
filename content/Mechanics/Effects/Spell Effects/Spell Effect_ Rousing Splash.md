@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Rousing Splash"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Rousing Splash"
 foundryId: Compendium.pf2e.spell-effects.Item.IYvzqymG4xOhqFir

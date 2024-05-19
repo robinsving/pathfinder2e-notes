@@ -1,5 +1,6 @@
 ---
 title: "Clockwork Researcher"
+draft: true
 noteType: ":luggage:"
 aliases: "Clockwork Researcher"
 foundryId: Item.CrG06F6E9x4eQvQT

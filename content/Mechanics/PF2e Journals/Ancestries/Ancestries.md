@@ -1,5 +1,6 @@
 ---
 title: "Ancestries"
+draft: true
 noteType: ":book:"
 aliases: "Ancestries"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn

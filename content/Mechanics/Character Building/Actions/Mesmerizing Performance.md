@@ -1,5 +1,6 @@
 ---
 title: "Mesmerizing Performance"
+draft: true
 noteType: ":luggage:"
 aliases: "Mesmerizing Performance"
 foundryId: Item.Ql3irDRmmZdzhZ97

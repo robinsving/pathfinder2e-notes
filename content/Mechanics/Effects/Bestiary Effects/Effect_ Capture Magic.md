@@ -1,5 +1,6 @@
 ---
 title: "Effect: Capture Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Capture Magic"
 foundryId: Compendium.pf2e.bestiary-effects.Item.E0fYyli4aCVmevgJ

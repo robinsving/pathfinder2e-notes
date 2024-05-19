@@ -1,5 +1,6 @@
 ---
 title: "Game Hunter"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Game Hunter"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.8RYKz1WDPMJBmMNt

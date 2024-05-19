@@ -1,5 +1,6 @@
 ---
 title: Grasp Of The Damned
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

@@ -1,5 +1,6 @@
 ---
 title: "School of Unified Magical Theory"
+draft: true
 noteType: ":luggage:"
 aliases: "School of Unified Magical Theory"
 foundryId: Item.aEHc6AoLRPUKr8d4

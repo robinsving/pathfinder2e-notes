@@ -1,5 +1,6 @@
 ---
 title: "Raging Resistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Raging Resistance"
 foundryId: Item.UK8ssUITk27UnMgk

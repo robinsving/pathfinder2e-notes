@@ -1,5 +1,6 @@
 ---
 title: "Retraining"
+draft: true
 noteType: ":luggage:"
 aliases: "Retraining"
 foundryId: Item.q0BBxDpicDVeuGf3

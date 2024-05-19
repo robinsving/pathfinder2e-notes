@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Ghostly Weapon"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Ghostly Weapon"
 foundryId: Compendium.pf2e.spell-effects.Item.EScdpppYsf9KhG4D

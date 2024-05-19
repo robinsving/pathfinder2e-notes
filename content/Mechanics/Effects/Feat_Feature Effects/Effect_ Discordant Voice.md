@@ -1,5 +1,6 @@
 ---
 title: "Effect: Discordant Voice"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Discordant Voice"
 foundryId: Compendium.pf2e.feat-effects.Item.oXG7eX26FmePmwUF

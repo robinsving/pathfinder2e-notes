@@ -1,5 +1,6 @@
 ---
 title: "Magnum Opus"
+draft: true
 noteType: ":luggage:"
 aliases: "Magnum Opus"
 foundryId: Item.oolQnV7HpMpQNgZg

@@ -1,5 +1,6 @@
 ---
 title: "Rostland Partisan"
+draft: true
 noteType: ":luggage:"
 aliases: "Rostland Partisan"
 foundryId: Item.4bZdadigTKpO6iG7

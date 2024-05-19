@@ -1,5 +1,6 @@
 ---
 title: "Studious Spells"
+draft: true
 noteType: ":luggage:"
 aliases: "Studious Spells"
 foundryId: Item.kdqQRDrM0KkHB8Zs

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Mountain Stronghold"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Mountain Stronghold"
 foundryId: Compendium.pf2e.feat-effects.Item.EfMaI6AnROP4X9lN

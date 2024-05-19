@@ -1,5 +1,6 @@
 ---
 title: "Stance: Point Blank Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Point Blank Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.9HPxAKpP3WJmICBx

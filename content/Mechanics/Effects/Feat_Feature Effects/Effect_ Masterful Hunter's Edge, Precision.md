@@ -1,5 +1,6 @@
 ---
 title: "Effect: Masterful Hunter's Edge, Precision"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Masterful Hunter's Edge, Precision"
 foundryId: Compendium.pf2e.feat-effects.Item.Lt5iSfx8fxHSdYXz

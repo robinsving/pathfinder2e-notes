@@ -1,5 +1,6 @@
 ---
 title: "Hathor"
+draft: true
 noteType: ":luggage:"
 aliases: "Hathor"
 foundryId: Item.WoWJneQptyd4setF

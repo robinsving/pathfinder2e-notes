@@ -1,5 +1,6 @@
 ---
 title: "Pulura"
+draft: true
 noteType: ":luggage:"
 aliases: "Pulura"
 foundryId: Item.DQ9nMupRTsfOQvsI

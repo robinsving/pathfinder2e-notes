@@ -1,5 +1,6 @@
 ---
 title: "Stance: Cobra Stance (Cobra Envenom)"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Cobra Stance (Cobra Envenom)"
 foundryId: Compendium.pf2e.feat-effects.Item.2Qpt0CHuOMeL48rN

@@ -1,5 +1,6 @@
 ---
 title: "Viking"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Viking"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.2CbiV0VtDKZfQNte

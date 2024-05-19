@@ -1,5 +1,6 @@
 ---
 title: "Final Blade Survivor"
+draft: true
 noteType: ":luggage:"
 aliases: "Final Blade Survivor"
 foundryId: Item.xfPp3gbGmFhNetDS

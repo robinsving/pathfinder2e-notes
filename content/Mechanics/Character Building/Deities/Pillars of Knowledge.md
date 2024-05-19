@@ -1,5 +1,6 @@
 ---
 title: "Pillars of Knowledge"
+draft: true
 noteType: ":luggage:"
 aliases: "Pillars of Knowledge"
 foundryId: Item.sTvW9DVjyNO5KFIa

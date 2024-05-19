@@ -1,5 +1,6 @@
 ---
 title: "Nirmathi Guerrilla"
+draft: true
 noteType: ":luggage:"
 aliases: "Nirmathi Guerrilla"
 foundryId: Item.M3vnTaMZ6MlKOARf

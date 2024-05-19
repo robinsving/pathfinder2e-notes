@@ -1,5 +1,6 @@
 ---
 title: "Energetic Meltdown"
+draft: true
 noteType: ":luggage:"
 aliases: "Energetic Meltdown"
 foundryId: Item.bCKDZrk5xjFOTTNu

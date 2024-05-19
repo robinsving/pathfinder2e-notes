@@ -1,5 +1,6 @@
 ---
 title: "Spell Repertoire (Bard)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Repertoire (Bard)"
 foundryId: Item.Jqhsn7YlbbciF4YJ

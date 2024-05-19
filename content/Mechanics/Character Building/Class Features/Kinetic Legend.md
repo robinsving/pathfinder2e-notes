@@ -1,5 +1,6 @@
 ---
 title: "Kinetic Legend"
+draft: true
 noteType: ":luggage:"
 aliases: "Kinetic Legend"
 foundryId: Item.hVtjRa76CZa1PzTf

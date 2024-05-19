@@ -1,5 +1,6 @@
 ---
 title: "Battlefield Surveyor"
+draft: true
 noteType: ":luggage:"
 aliases: "Battlefield Surveyor"
 foundryId: Item.3PddpLYSGIhHuMsM

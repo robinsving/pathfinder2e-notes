@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Soothing Words"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Soothing Words"
 foundryId: Compendium.pf2e.spell-effects.Item.an4yZ6dyIDOFa1wa

@@ -1,5 +1,6 @@
 ---
 title: "Occult Spellcasting"
+draft: true
 noteType: ":luggage:"
 aliases: "Occult Spellcasting"
 foundryId: Item.MKVzvtRE2BgXfIAD

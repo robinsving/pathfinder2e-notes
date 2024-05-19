@@ -1,5 +1,6 @@
 ---
 title: "Unsponsored"
+draft: true
 noteType: ":luggage:"
 aliases: "Unsponsored"
 foundryId: Item.dVZgvWCEd5Hiwq41

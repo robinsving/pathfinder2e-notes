@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Necromancer's Generosity"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Necromancer's Generosity"
 foundryId: Compendium.pf2e.spell-effects.Item.cwetyC5o4dRyFWJZ

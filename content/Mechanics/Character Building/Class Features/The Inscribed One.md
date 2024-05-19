@@ -1,5 +1,6 @@
 ---
 title: "The Inscribed One"
+draft: true
 noteType: ":luggage:"
 aliases: "The Inscribed One"
 foundryId: Item.0elM0FsErSW28WIW

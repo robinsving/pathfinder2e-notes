@@ -1,5 +1,6 @@
 ---
 title: "Free Spirit"
+draft: true
 noteType: ":luggage:"
 aliases: "Free Spirit"
 foundryId: Item.Xw915rJqOLXvUsvV

@@ -1,5 +1,6 @@
 ---
 title: "Diobel Pearl Diver"
+draft: true
 noteType: ":luggage:"
 aliases: "Diobel Pearl Diver"
 foundryId: Item.bvPrKam0ReSVEBDn

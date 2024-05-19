@@ -1,5 +1,6 @@
 ---
 title: "Effect: Crimson Shroud"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Crimson Shroud"
 foundryId: Compendium.pf2e.feat-effects.Item.6YhbQmOmbmy84W1C

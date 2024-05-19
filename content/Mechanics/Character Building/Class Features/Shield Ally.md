@@ -1,5 +1,6 @@
 ---
 title: "Shield Ally"
+draft: true
 noteType: ":luggage:"
 aliases: "Shield Ally"
 foundryId: Item.954cqXWFRthb7pJG

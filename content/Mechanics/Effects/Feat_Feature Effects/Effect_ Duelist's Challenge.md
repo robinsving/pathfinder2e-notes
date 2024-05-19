@@ -1,5 +1,6 @@
 ---
 title: "Effect: Duelist's Challenge"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Duelist's Challenge"
 foundryId: Compendium.pf2e.feat-effects.Item.maBSHuVHyGwga9uC

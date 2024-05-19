@@ -1,5 +1,6 @@
 ---
 title: "Cantrip Connection"
+draft: true
 noteType: ":luggage:"
 aliases: "Cantrip Connection"
 foundryId: Item.4lk5ti21ibiunyjQ

@@ -1,5 +1,6 @@
 ---
 title: "Ravithra"
+draft: true
 noteType: ":luggage:"
 aliases: "Ravithra"
 foundryId: Item.jBkxsClfTJIZ0e5K

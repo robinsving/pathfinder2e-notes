@@ -1,5 +1,6 @@
 ---
 title: "Weapon Traits"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Weapon Traits"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.dnbUao9yk8Bs99eT

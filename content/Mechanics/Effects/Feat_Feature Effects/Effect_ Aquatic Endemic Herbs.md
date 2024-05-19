@@ -1,5 +1,6 @@
 ---
 title: "Effect: Aquatic Endemic Herbs"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Aquatic Endemic Herbs"
 foundryId: Compendium.pf2e.feat-effects.Item.NviQYIVZbPCSWLqT

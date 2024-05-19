@@ -1,5 +1,6 @@
 ---
 title: "Effect: Bon Mot"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Bon Mot"
 foundryId: Compendium.pf2e.feat-effects.Item.GoSls6SKCFmSoDxT

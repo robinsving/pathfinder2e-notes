@@ -1,5 +1,6 @@
 ---
 title: "Flexible Spellcaster (Class Archetype)"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Flexible Spellcaster (Class Archetype)"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.4YtHynO8i1a33zo9

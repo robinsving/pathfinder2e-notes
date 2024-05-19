@@ -1,5 +1,6 @@
 ---
 title: "Erudite"
+draft: true
 noteType: ":luggage:"
 aliases: "Erudite"
 foundryId: Item.AD4L30FmnQnggV1k

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Pest Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Pest Form"
 foundryId: Compendium.pf2e.spell-effects.Item.ydsLEGjY89Akc4oZ

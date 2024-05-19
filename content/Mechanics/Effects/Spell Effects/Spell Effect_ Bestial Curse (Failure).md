@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Bestial Curse (Failure)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Bestial Curse (Failure)"
 foundryId: Compendium.pf2e.spell-effects.Item.8wCVSzWYcURWewbd

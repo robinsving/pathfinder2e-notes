@@ -1,5 +1,6 @@
 ---
 title: "Third Doctrine (Warpriest)"
+draft: true
 noteType: ":luggage:"
 aliases: "Third Doctrine (Warpriest)"
 foundryId: Item.c0cMfKUyZFQ8pnrh

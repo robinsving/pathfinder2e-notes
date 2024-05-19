@@ -1,5 +1,6 @@
 ---
 title: "Dahak"
+draft: true
 noteType: ":luggage:"
 aliases: "Dahak"
 foundryId: Item.MgKTHNHkzZbyI8Sl

@@ -1,5 +1,6 @@
 ---
 title: "Effect: -10-foot circumstance penalty to your land Speed"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: -10-foot circumstance penalty to your land Speed"
 foundryId: Compendium.pf2e.other-effects.Item.NU5wAbJLZO6T86eB

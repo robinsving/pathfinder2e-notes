@@ -1,5 +1,6 @@
 ---
 title: "Keepers of the Hearth"
+draft: true
 noteType: ":luggage:"
 aliases: "Keepers of the Hearth"
 foundryId: Item.K71ayHY3Oj8NRNDX

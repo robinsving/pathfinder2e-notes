@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Call to Arms"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Call to Arms"
 foundryId: Compendium.pf2e.spell-effects.Item.PNEGSVYhMKf6kQZ6

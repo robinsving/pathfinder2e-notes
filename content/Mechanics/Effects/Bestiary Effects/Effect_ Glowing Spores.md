@@ -1,5 +1,6 @@
 ---
 title: "Effect: Glowing Spores"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Glowing Spores"
 foundryId: Compendium.pf2e.bestiary-effects.Item.eZL4B1P4H8hr1CAn

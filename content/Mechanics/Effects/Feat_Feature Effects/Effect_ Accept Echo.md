@@ -1,5 +1,6 @@
 ---
 title: "Effect: Accept Echo"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Accept Echo"
 foundryId: Compendium.pf2e.feat-effects.Item.2ca1ZuqQ7VkunAh3

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Favored Terrain (Gain Swim Speed)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Favored Terrain (Gain Swim Speed)"
 foundryId: Compendium.pf2e.feat-effects.Item.OhLcaJeQy4Nf5Mwo

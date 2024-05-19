@@ -1,5 +1,6 @@
 ---
 title: "Effect: Primal Aegis"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Primal Aegis"
 foundryId: Compendium.pf2e.feat-effects.Item.5PIaLkys5ZqP2BUv

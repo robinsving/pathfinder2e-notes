@@ -1,5 +1,6 @@
 ---
 title: "Pain Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Pain Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.FtW1gtbHgO0KofPl

@@ -1,5 +1,6 @@
 ---
 title: "The Offering Plate"
+draft: true
 noteType: ":luggage:"
 aliases: "The Offering Plate"
 foundryId: Item.naU20EvAd7AdVHvn

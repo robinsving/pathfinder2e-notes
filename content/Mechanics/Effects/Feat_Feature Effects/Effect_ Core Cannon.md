@@ -1,5 +1,6 @@
 ---
 title: "Effect: Core Cannon"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Core Cannon"
 foundryId: Compendium.pf2e.feat-effects.Item.Ljrx4N5XACKSk1Ks

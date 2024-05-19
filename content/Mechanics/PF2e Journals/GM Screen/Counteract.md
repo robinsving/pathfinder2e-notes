@@ -1,5 +1,6 @@
 ---
 title: "Counteract"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Counteract"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.mmfWcV3Iyql5nzTo

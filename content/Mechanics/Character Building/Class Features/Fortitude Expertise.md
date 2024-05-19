@@ -1,5 +1,6 @@
 ---
 title: Fortitude Expertise
+draft: true
 noteType: ":luggage:"
 aliases:
   - Fortitude Expertise

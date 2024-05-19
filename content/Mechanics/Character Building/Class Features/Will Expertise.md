@@ -1,5 +1,6 @@
 ---
 title: Will Expertise
+draft: true
 noteType: ":luggage:"
 aliases:
   - Will Expertise

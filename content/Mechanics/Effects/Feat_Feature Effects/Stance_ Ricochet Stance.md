@@ -1,5 +1,6 @@
 ---
 title: "Stance: Ricochet Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Ricochet Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.Unfl4QQURWaX2zfd

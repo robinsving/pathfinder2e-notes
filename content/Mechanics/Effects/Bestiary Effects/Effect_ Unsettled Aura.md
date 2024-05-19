@@ -1,5 +1,6 @@
 ---
 title: "Effect: Unsettled Aura"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Unsettled Aura"
 foundryId: Compendium.pf2e.bestiary-effects.Item.aOpSI5tApXF5xHCM

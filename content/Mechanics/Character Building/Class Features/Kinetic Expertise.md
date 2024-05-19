@@ -1,5 +1,6 @@
 ---
 title: "Kinetic Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Kinetic Expertise"
 foundryId: Item.jqSwpV9V2gpj5yiK

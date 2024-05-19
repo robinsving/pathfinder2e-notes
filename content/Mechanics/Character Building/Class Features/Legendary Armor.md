@@ -1,5 +1,6 @@
 ---
 title: "Legendary Armor"
+draft: true
 noteType: ":luggage:"
 aliases: "Legendary Armor"
 foundryId: Item.0goMly18Wyhn3Y8B

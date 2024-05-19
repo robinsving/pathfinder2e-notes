@@ -1,5 +1,6 @@
 ---
 title: "Effect: Benevolent Spirit Deck"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Benevolent Spirit Deck"
 foundryId: Compendium.pf2e.feat-effects.Item.k8gB0eDuAlGRoeQj

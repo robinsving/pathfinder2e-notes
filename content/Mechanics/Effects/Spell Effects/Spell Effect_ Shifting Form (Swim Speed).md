@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Shifting Form (Swim Speed)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Shifting Form (Swim Speed)"
 foundryId: Compendium.pf2e.spell-effects.Item.Um25D1qLtZWOSBny

@@ -1,5 +1,6 @@
 ---
 title: "Bastet"
+draft: true
 noteType: ":luggage:"
 aliases: "Bastet"
 foundryId: Item.OJdLh33D1iAKpbWS

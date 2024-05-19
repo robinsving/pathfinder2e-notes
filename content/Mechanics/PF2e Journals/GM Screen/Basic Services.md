@@ -1,5 +1,6 @@
 ---
 title: "Basic Services"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Basic Services"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.FzzMt7ybWy03D9qZ

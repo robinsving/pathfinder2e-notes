@@ -1,5 +1,6 @@
 ---
 title: "Pacification Tools"
+draft: true
 noteType: ":luggage:"
 aliases: "Pacification Tools"
 foundryId: Item.MuaMduwXhoYsT53c

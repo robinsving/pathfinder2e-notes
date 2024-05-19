@@ -1,5 +1,6 @@
 ---
 title: Vorpal Executioner
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

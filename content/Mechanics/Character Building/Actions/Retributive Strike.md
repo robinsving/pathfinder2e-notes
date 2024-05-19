@@ -1,5 +1,6 @@
 ---
 title: "Retributive Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Retributive Strike"
 foundryId: Item.KsqvXyYjXeqs89O5

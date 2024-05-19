@@ -1,5 +1,6 @@
 ---
 title: "Effect: Graveknight's Curse"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Graveknight's Curse"
 foundryId: Compendium.pf2e.bestiary-effects.Item.6rnB7nK6J6zF4vea

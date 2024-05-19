@@ -1,5 +1,6 @@
 ---
 title: "Effect: Swell"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Swell"
 foundryId: Compendium.pf2e.bestiary-effects.Item.JlaO7fgm53Om1DxB

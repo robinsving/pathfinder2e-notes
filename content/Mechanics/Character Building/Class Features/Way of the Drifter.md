@@ -1,5 +1,6 @@
 ---
 title: "Way of the Drifter"
+draft: true
 noteType: ":luggage:"
 aliases: "Way of the Drifter"
 foundryId: Item.TUQqtpvwivgHB9uo

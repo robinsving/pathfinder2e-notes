@@ -1,5 +1,6 @@
 ---
 title: "Effect: Draconic Breath Weapon Aura"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Draconic Breath Weapon Aura"
 foundryId: Compendium.pf2e.bestiary-effects.Item.lJGAJF9QiXCOPd2I

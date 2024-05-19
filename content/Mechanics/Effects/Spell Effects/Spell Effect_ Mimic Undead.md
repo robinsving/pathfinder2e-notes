@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Mimic Undead"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Mimic Undead"
 foundryId: Compendium.pf2e.spell-effects.Item.xPVOvWNJORvm8EwP

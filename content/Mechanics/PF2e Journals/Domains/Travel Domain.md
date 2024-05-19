@@ -1,5 +1,6 @@
 ---
 title: "Travel Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Travel Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.bTujFcUut9RX4GCy

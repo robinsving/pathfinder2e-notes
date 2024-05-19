@@ -1,5 +1,6 @@
 ---
 title: "Effect: Battle Cry"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Battle Cry"
 foundryId: Compendium.pf2e.bestiary-effects.Item.Yqq4AkZ9lrm4CcID

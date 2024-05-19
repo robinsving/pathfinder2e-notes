@@ -1,5 +1,6 @@
 ---
 title: "Rogue's Racket"
+draft: true
 noteType: ":luggage:"
 aliases: "Rogue's Racket"
 foundryId: Item.pX4iPnSBpvedMPg9

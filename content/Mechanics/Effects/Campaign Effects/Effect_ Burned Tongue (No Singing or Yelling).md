@@ -1,5 +1,6 @@
 ---
 title: "Effect: Burned Tongue (No Singing or Yelling)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Burned Tongue (No Singing or Yelling)"
 foundryId: Compendium.pf2e.campaign-effects.Item.XOE1gp3phFyxL4Dq

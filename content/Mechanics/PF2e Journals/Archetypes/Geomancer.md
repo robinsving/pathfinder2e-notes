@@ -1,5 +1,6 @@
 ---
 title: "Geomancer"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Geomancer"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.I6FbkKYncDuu7eWq

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Stone Body"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Stone Body"
 foundryId: Compendium.pf2e.feat-effects.Item.7cG8kpQvh2oyBV8d

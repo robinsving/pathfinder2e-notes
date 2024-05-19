@@ -1,5 +1,6 @@
 ---
 title: "Lesson of Elements"
+draft: true
 noteType: ":luggage:"
 aliases: "Lesson of Elements"
 foundryId: Item.K7vCfv908DhvHpRZ

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Aura of Despair"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Aura of Despair"
 foundryId: Compendium.pf2e.feat-effects.Item.MNkIxAishE22TqL3

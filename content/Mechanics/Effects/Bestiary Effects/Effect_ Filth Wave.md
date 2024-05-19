@@ -1,5 +1,6 @@
 ---
 title: "Effect: Filth Wave"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Filth Wave"
 foundryId: Compendium.pf2e.bestiary-effects.Item.Qomp2EujVCbzJb4X

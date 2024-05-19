@@ -1,5 +1,6 @@
 ---
 title: "Temperature Effects"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Temperature Effects"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.kxDloJH5ImKnIV9P

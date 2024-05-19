@@ -1,5 +1,6 @@
 ---
 title: "Prove Peace"
+draft: true
 noteType: ":luggage:"
 aliases: "Prove Peace"
 foundryId: Item.45ZgyTGgds3ht76V

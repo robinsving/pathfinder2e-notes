@@ -1,5 +1,6 @@
 ---
 title: "Effect: Howl of Vengeful Fury"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Howl of Vengeful Fury"
 foundryId: Compendium.pf2e.bestiary-effects.Item.X1Q1uBiylZoJg3Co

@@ -1,5 +1,6 @@
 ---
 title: "Character Wealth"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Character Wealth"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.ts7gtyAhDEI4V7Ve

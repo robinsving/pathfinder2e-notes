@@ -1,5 +1,6 @@
 ---
 title: "Layered Mesh"
+draft: true
 noteType: ":luggage:"
 aliases: "Layered Mesh"
 foundryId: Item.KlzDsUlc3ZNT6sQq

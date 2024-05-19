@@ -1,5 +1,6 @@
 ---
 title: "Feats"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Feats"
 foundryId: Compendium.pf2e.journals.JournalEntry.6L2eweJuM8W7OCf2.JournalEntryPage.8fgkR236jbcX08qz

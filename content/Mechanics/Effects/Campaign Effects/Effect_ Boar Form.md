@@ -1,5 +1,6 @@
 ---
 title: "Effect: Boar Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Boar Form"
 foundryId: Compendium.pf2e.campaign-effects.Item.LJOZk2O6KS3iulXy

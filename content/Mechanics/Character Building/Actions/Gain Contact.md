@@ -1,5 +1,6 @@
 ---
 title: "Gain Contact"
+draft: true
 noteType: ":luggage:"
 aliases: "Gain Contact"
 foundryId: Item.AD67I0BOQerceVB9

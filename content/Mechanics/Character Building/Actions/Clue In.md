@@ -1,5 +1,6 @@
 ---
 title: "Clue In"
+draft: true
 noteType: ":luggage:"
 aliases: "Clue In"
 foundryId: Item.GzVLApgjkxv4skRj

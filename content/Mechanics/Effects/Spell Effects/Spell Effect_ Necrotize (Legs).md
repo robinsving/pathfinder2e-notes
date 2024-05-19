@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Necrotize (Legs)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Necrotize (Legs)"
 foundryId: Compendium.pf2e.spell-effects.Item.ndj0TpLxyzbyzcm4

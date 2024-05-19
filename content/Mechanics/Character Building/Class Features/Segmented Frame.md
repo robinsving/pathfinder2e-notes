@@ -1,5 +1,6 @@
 ---
 title: "Segmented Frame"
+draft: true
 noteType: ":luggage:"
 aliases: "Segmented Frame"
 foundryId: Item.dv61kQ82wVoZ422G

@@ -1,5 +1,6 @@
 ---
 title: "Defend"
+draft: true
 noteType: ":luggage:"
 aliases: "Defend"
 foundryId: Item.eD616pGMiIKcy3VI

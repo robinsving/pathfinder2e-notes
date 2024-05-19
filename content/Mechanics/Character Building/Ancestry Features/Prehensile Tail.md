@@ -1,5 +1,6 @@
 ---
 title: "Prehensile Tail"
+draft: true
 noteType: ":luggage:"
 aliases: "Prehensile Tail"
 foundryId: Item.pE4kax5fC1yfmpm9

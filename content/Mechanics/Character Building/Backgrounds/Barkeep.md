@@ -1,5 +1,6 @@
 ---
 title: "Barkeep"
+draft: true
 noteType: ":luggage:"
 aliases: "Barkeep"
 foundryId: Item.a4zo1znfYiyh1Hpf

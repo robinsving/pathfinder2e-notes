@@ -1,5 +1,6 @@
 ---
 title: "Sponsored by Family"
+draft: true
 noteType: ":luggage:"
 aliases: "Sponsored by Family"
 foundryId: Item.jfVxy0TWirfZxbv7

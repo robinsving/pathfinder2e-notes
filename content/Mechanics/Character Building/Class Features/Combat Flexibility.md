@@ -1,5 +1,6 @@
 ---
 title: "Combat Flexibility"
+draft: true
 noteType: ":luggage:"
 aliases: "Combat Flexibility"
 foundryId: Item.YiMjquwa7lj4t7E9

@@ -1,5 +1,6 @@
 ---
 title: "Esoteric Order of the Palatine Eye"
+draft: true
 noteType: ":luggage:"
 aliases: "Esoteric Order of the Palatine Eye"
 foundryId: Item.im43tWpMxTWjucKv

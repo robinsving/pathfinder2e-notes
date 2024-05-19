@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Shrink"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Shrink"
 foundryId: Compendium.pf2e.spell-effects.Item.LXf1Cqi1zyo4DaLv

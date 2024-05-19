@@ -1,5 +1,6 @@
 ---
 title: "Enhanced Resistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Enhanced Resistance"
 foundryId: Item.7gTXXcD0eYqnxHct

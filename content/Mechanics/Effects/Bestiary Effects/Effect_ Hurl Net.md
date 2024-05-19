@@ -1,5 +1,6 @@
 ---
 title: "Effect: Hurl Net"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Hurl Net"
 foundryId: Compendium.pf2e.bestiary-effects.Item.q2D1QBalqBQfKzTc

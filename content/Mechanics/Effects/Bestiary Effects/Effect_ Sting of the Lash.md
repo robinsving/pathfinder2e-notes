@@ -1,5 +1,6 @@
 ---
 title: "Effect: Sting of the Lash"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Sting of the Lash"
 foundryId: Compendium.pf2e.bestiary-effects.Item.6GC248hHu3LdOAtS

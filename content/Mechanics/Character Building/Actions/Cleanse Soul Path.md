@@ -1,5 +1,6 @@
 ---
 title: "Cleanse Soul Path"
+draft: true
 noteType: ":luggage:"
 aliases: "Cleanse Soul Path"
 foundryId: Item.Lny34Pa7YtCOYlYf

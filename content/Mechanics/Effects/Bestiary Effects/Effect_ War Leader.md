@@ -1,5 +1,6 @@
 ---
 title: "Effect: War Leader"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: War Leader"
 foundryId: Compendium.pf2e.bestiary-effects.Item.64wrP9IbfHbj1mrA

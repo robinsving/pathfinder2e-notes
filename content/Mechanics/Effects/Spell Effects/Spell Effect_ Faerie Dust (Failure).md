@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Faerie Dust (Failure)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Faerie Dust (Failure)"
 foundryId: Compendium.pf2e.spell-effects.Item.LHREWCGPkWsc4GGJ

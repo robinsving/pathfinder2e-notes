@@ -1,5 +1,6 @@
 ---
 title: "Effect: Favored Terrain (Gain Climb Speed)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Favored Terrain (Gain Climb Speed)"
 foundryId: Compendium.pf2e.feat-effects.Item.sDftJWPPSUeSZD3A

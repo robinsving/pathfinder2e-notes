@@ -1,5 +1,6 @@
 ---
 title: "Effect: Defensive Slice"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Defensive Slice"
 foundryId: Compendium.pf2e.bestiary-effects.Item.EwhWYPCNM8bIIYEI

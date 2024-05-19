@@ -1,5 +1,6 @@
 ---
 title: "Visions of Sin"
+draft: true
 noteType: ":luggage:"
 aliases: "Visions of Sin"
 foundryId: Item.K2Tx7bQuEeIUjgZP

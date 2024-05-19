@@ -1,5 +1,6 @@
 ---
 title: "Lumber Consortium Laborer"
+draft: true
 noteType: ":luggage:"
 aliases: "Lumber Consortium Laborer"
 foundryId: Item.ZGR38igMI5GKhJ8b

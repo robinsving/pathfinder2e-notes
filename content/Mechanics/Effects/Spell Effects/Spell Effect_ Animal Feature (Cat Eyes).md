@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Animal Feature (Cat Eyes)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Animal Feature (Cat Eyes)"
 foundryId: Compendium.pf2e.spell-effects.Item.dCQCzapIk53xmDo5

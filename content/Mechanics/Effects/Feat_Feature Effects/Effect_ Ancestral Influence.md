@@ -1,5 +1,6 @@
 ---
 title: "Effect: Ancestral Influence"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Ancestral Influence"
 foundryId: Compendium.pf2e.feat-effects.Item.vkgmMBMd2e2BwiwJ

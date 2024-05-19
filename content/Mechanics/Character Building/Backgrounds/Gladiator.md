@@ -1,5 +1,6 @@
 ---
 title: "Gladiator"
+draft: true
 noteType: ":luggage:"
 aliases: "Gladiator"
 foundryId: Item.SYtMi1cHN92dSeAN

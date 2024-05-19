@@ -1,5 +1,6 @@
 ---
 title: "Effect: Profane Gift"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Profane Gift"
 foundryId: Compendium.pf2e.bestiary-effects.Item.g5Yen1FhEMCzCJkv

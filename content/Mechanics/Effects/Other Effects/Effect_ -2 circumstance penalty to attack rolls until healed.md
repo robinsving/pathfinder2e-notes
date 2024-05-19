@@ -1,5 +1,6 @@
 ---
 title: "Effect: -2 circumstance penalty to attack rolls until healed"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: -2 circumstance penalty to attack rolls until healed"
 foundryId: Compendium.pf2e.other-effects.Item.Ck0MQP9og75AWix7

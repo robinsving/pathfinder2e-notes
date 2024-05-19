@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Insect Form (Spider)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Insect Form (Spider)"
 foundryId: Compendium.pf2e.spell-effects.Item.782NyomkDHyfsUn6

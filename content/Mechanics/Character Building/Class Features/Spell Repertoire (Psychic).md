@@ -1,5 +1,6 @@
 ---
 title: "Spell Repertoire (Psychic)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Repertoire (Psychic)"
 foundryId: Item.EEI6Xf3QyguBp80S

@@ -1,5 +1,6 @@
 ---
 title: "Relentless Dedication"
+draft: true
 noteType: ":luggage:"
 aliases: "Relentless Dedication"
 foundryId: Item.YHjYfAPLvfTf8d9Z

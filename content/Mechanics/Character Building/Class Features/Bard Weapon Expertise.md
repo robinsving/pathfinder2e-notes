@@ -1,5 +1,6 @@
 ---
 title: "Bard Weapon Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Bard Weapon Expertise"
 foundryId: Item.nNK1HYzOcGTcqBQj

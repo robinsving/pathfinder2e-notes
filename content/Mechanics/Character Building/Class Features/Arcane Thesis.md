@@ -1,5 +1,6 @@
 ---
 title: "Arcane Thesis"
+draft: true
 noteType: ":luggage:"
 aliases: "Arcane Thesis"
 foundryId: Item.JqvnlKZRANactbbE

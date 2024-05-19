@@ -1,5 +1,6 @@
 ---
 title: "Lesson of Mischief"
+draft: true
 noteType: ":luggage:"
 aliases: "Lesson of Mischief"
 foundryId: Item.sTCBJJ5DAO6OgodB

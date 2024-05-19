@@ -1,5 +1,6 @@
 ---
 title: "Effect: Brand of the Impenitent"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Brand of the Impenitent"
 foundryId: Compendium.pf2e.bestiary-effects.Item.BmAw66zEkifSvOtg

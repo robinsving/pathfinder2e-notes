@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Take its Course (Affliction, Hinder)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Take its Course (Affliction, Hinder)"
 foundryId: Compendium.pf2e.spell-effects.Item.R27azQfzeFuFc48G

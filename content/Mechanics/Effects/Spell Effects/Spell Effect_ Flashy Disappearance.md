@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Flashy Disappearance"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Flashy Disappearance"
 foundryId: Compendium.pf2e.spell-effects.Item.4vlorajqpFcS5Ozi

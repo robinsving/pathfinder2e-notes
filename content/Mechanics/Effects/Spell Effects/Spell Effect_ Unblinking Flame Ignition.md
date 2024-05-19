@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Unblinking Flame Ignition"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Unblinking Flame Ignition"
 foundryId: Compendium.pf2e.spell-effects.Item.hya8NfBB1GJofTXm

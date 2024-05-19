@@ -1,5 +1,6 @@
 ---
 title: "Astrological Augur"
+draft: true
 noteType: ":luggage:"
 aliases: "Astrological Augur"
 foundryId: Item.OOAY8eftpTKcCXWp

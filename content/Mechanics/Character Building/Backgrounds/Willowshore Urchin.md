@@ -1,5 +1,6 @@
 ---
 title: "Willowshore Urchin"
+draft: true
 noteType: ":luggage:"
 aliases: "Willowshore Urchin"
 foundryId: Item.jbS1Ww4a8ucwsUtL

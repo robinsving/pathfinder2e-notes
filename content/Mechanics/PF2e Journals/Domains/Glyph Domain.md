@@ -1,5 +1,6 @@
 ---
 title: "Glyph Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Glyph Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.9g1dNytABTpmmGkG

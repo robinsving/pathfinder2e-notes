@@ -1,5 +1,6 @@
 ---
 title: "Effect: Fleet Tempo"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Fleet Tempo"
 foundryId: Compendium.pf2e.feat-effects.Item.pQ9e5njvIOe5QzFa

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Dragon's Rage Wings"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Dragon's Rage Wings"
 foundryId: Compendium.pf2e.feat-effects.Item.wmBSuZPqiDyUNwXH

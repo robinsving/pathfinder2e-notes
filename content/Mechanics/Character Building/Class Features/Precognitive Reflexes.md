@@ -1,5 +1,6 @@
 ---
 title: "Precognitive Reflexes"
+draft: true
 noteType: ":luggage:"
 aliases: "Precognitive Reflexes"
 foundryId: Item.XIXWS2TgYJYengzh

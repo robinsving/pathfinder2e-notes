@@ -1,5 +1,6 @@
 ---
 title: "Perpetual Infusions (Bomber)"
+draft: true
 noteType: ":luggage:"
 aliases: "Perpetual Infusions (Bomber)"
 foundryId: Item.FSGu9fX9Ca1WJ9w0

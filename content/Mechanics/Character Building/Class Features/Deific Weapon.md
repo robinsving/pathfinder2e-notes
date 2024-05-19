@@ -1,5 +1,6 @@
 ---
 title: "Deific Weapon"
+draft: true
 noteType: ":luggage:"
 aliases: "Deific Weapon"
 foundryId: Item.yygJFtnaOcz1ok16

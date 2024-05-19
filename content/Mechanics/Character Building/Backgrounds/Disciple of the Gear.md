@@ -1,5 +1,6 @@
 ---
 title: "Disciple of the Gear"
+draft: true
 noteType: ":luggage:"
 aliases: "Disciple of the Gear"
 foundryId: Item.kLQubW5kgV9vSV9Z

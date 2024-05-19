@@ -1,5 +1,6 @@
 ---
 title: "Effect: Rune of Destruction (Greatsword)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Rune of Destruction (Greatsword)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.svXRrZvixRInmabj

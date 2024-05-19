@@ -1,5 +1,6 @@
 ---
 title: "Oenopion-Ooze Tender"
+draft: true
 noteType: ":luggage:"
 aliases: "Oenopion-Ooze Tender"
 foundryId: Item.1XHE2rFuC8Ud320G

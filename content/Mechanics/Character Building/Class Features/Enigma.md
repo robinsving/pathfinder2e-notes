@@ -1,5 +1,6 @@
 ---
 title: "Enigma"
+draft: true
 noteType: ":luggage:"
 aliases: "Enigma"
 foundryId: Item.KG1PagWmrzs9fwLt

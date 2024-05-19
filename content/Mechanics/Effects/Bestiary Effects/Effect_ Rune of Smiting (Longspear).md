@@ -1,5 +1,6 @@
 ---
 title: "Effect: Rune of Smiting (Longspear)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Rune of Smiting (Longspear)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.Y5vsF5Kb8oNIccWo

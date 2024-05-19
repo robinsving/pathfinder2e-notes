@@ -1,5 +1,6 @@
 ---
 title: "Taldan Schemer"
+draft: true
 noteType: ":luggage:"
 aliases: "Taldan Schemer"
 foundryId: Item.3rwKHcaKRObYfrv8

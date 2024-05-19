@@ -1,5 +1,6 @@
 ---
 title: "Resist Elf Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Resist Elf Magic"
 foundryId: Item.g26Z5GPs0ELbkam0

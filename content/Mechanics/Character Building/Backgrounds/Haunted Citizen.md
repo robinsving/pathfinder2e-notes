@@ -1,5 +1,6 @@
 ---
 title: "Haunted Citizen"
+draft: true
 noteType: ":luggage:"
 aliases: "Haunted Citizen"
 foundryId: Item.0dX8nohBvqSNWf4q

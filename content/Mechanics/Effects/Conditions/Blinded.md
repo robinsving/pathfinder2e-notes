@@ -1,5 +1,6 @@
 ---
 title: "Blinded"
+draft: true
 noteType: ":luggage:"
 aliases: "Blinded"
 foundryId: Item.kSXpwZ03cqJnLLJG

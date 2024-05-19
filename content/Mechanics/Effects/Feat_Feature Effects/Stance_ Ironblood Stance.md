@@ -1,5 +1,6 @@
 ---
 title: "Stance: Ironblood Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Ironblood Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.tPKXLtDJ3bzJcXlv

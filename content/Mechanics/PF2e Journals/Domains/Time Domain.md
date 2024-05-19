@@ -1,5 +1,6 @@
 ---
 title: "Time Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Time Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.3P0NWwP3s7bIiidH

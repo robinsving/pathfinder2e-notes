@@ -1,5 +1,6 @@
 ---
 title: "Effect: Aura Junction (Air)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Aura Junction (Air)"
 foundryId: Compendium.pf2e.feat-effects.Item.Mnvd3jV4EW6nAJKI

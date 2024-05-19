@@ -1,5 +1,6 @@
 ---
 title: "Entity's Resurgence"
+draft: true
 noteType: ":luggage:"
 aliases: "Entity's Resurgence"
 foundryId: Item.STBYMGwgSg96VgvA

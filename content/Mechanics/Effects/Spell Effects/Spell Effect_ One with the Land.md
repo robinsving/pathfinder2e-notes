@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: One with the Land"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: One with the Land"
 foundryId: Compendium.pf2e.spell-effects.Item.Mp7252yAsSA8lCEA

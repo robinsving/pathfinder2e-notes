@@ -1,5 +1,6 @@
 ---
 title: "Belkzen Slayer"
+draft: true
 noteType: ":luggage:"
 aliases: "Belkzen Slayer"
 foundryId: Item.kDmYawSosndOxgxQ

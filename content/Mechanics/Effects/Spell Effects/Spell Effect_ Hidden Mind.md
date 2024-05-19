@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Hidden Mind"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Hidden Mind"
 foundryId: Compendium.pf2e.spell-effects.Item.DBaMtFHRPEg1JeLs

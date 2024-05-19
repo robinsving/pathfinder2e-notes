@@ -1,5 +1,6 @@
 ---
 title: "Weapon Improviser"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Weapon Improviser"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.HDTW0vr8QL20M5ND

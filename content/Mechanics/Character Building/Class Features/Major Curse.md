@@ -1,5 +1,6 @@
 ---
 title: "Major Curse"
+draft: true
 noteType: ":luggage:"
 aliases: "Major Curse"
 foundryId: Item.aTDWTWtrWv07bNj4

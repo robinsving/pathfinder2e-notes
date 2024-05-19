@@ -1,5 +1,6 @@
 ---
 title: "Craft"
+draft: true
 noteType: ":luggage:"
 aliases: "Craft"
 foundryId: Item.h5msfgMEp3cvCToe

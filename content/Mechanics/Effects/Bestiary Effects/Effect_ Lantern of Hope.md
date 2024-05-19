@@ -1,5 +1,6 @@
 ---
 title: "Effect: Lantern of Hope"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Lantern of Hope"
 foundryId: Compendium.pf2e.bestiary-effects.Item.37wbBpPBi5eBtNqM

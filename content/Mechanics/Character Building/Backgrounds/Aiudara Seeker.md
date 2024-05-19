@@ -1,5 +1,6 @@
 ---
 title: "Aiudara Seeker"
+draft: true
 noteType: ":luggage:"
 aliases: "Aiudara Seeker"
 foundryId: Item.xKzPaSF765D9qBW5

@@ -1,5 +1,6 @@
 ---
 title: "Dual-Weapon Warrior"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Dual-Weapon Warrior"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.sAFWD8D0RKH4m25n

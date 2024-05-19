@@ -1,5 +1,6 @@
 ---
 title: "Kineticist"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Kineticist"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.1kRGIb5LPPKypQpN

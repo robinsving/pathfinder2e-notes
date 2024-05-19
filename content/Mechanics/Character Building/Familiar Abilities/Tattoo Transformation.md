@@ -1,5 +1,6 @@
 ---
 title: "Tattoo Transformation"
+draft: true
 noteType: ":luggage:"
 aliases: "Tattoo Transformation"
 foundryId: Item.3mFLAouVzbMxizhM

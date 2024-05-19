@@ -1,5 +1,6 @@
 ---
 title: "Academy Dropout"
+draft: true
 noteType: ":luggage:"
 aliases: "Academy Dropout"
 foundryId: Item.3KkvBVoNJ9wkptW7

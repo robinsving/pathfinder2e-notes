@@ -1,5 +1,6 @@
 ---
 title: "Effect: Rune of Flames (Rock)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Rune of Flames (Rock)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.3QUaxNvpHDmf9cTo

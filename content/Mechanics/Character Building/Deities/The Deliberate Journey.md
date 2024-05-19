@@ -1,5 +1,6 @@
 ---
 title: "The Deliberate Journey"
+draft: true
 noteType: ":luggage:"
 aliases: "The Deliberate Journey"
 foundryId: Item.xvYYIPdVpL5lF9Yf

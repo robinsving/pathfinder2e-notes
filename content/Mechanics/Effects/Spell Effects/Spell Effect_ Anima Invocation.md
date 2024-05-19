@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Anima Invocation"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Anima Invocation"
 foundryId: Compendium.pf2e.spell-effects.Item.0koqUuC1YW4F1l5z

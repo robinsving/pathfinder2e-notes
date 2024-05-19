@@ -1,5 +1,6 @@
 ---
 title: "Sword Scion"
+draft: true
 noteType: ":luggage:"
 aliases: "Sword Scion"
 foundryId: Item.xjGlRjmIHd08tTKD

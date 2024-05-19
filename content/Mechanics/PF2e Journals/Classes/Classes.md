@@ -1,5 +1,6 @@
 ---
 title: "Classes"
+draft: true
 noteType: ":book:"
 aliases: "Classes"
 foundryId: Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6

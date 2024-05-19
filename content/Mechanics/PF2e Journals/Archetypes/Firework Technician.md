@@ -1,5 +1,6 @@
 ---
 title: "Firework Technician"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Firework Technician"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.S4BZW9c5n6CctDxl

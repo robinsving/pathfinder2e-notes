@@ -1,5 +1,6 @@
 ---
 title: "Effect: Putrid Stench"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Putrid Stench"
 foundryId: Compendium.pf2e.bestiary-effects.Item.xmES7HVxM7L3j1EN

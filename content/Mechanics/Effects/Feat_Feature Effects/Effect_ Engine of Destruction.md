@@ -1,5 +1,6 @@
 ---
 title: "Effect: Engine of Destruction"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Engine of Destruction"
 foundryId: Compendium.pf2e.feat-effects.Item.nlMZCi8xi9YSvlYR

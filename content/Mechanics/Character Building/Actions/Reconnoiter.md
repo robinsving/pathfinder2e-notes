@@ -1,5 +1,6 @@
 ---
 title: "Reconnoiter"
+draft: true
 noteType: ":luggage:"
 aliases: "Reconnoiter"
 foundryId: Item.UxRHz19PyrqCFalC

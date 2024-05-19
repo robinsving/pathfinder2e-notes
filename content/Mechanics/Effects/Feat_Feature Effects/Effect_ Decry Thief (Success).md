@@ -1,5 +1,6 @@
 ---
 title: "Effect: Decry Thief (Success)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Decry Thief (Success)"
 foundryId: Compendium.pf2e.feat-effects.Item.FyaekbWsazkJhJda

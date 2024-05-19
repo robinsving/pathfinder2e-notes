@@ -1,5 +1,6 @@
 ---
 title: "Material Hardness, Hit Points and Broken Threshold"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Material Hardness, Hit Points and Broken Threshold"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.C4b2AvMpVpe5BcVv

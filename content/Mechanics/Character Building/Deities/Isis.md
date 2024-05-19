@@ -1,5 +1,6 @@
 ---
 title: "Isis"
+draft: true
 noteType: ":luggage:"
 aliases: "Isis"
 foundryId: Item.5PBU3sdjyumJlmoe

@@ -1,5 +1,6 @@
 ---
 title: "Dispelling Bullet"
+draft: true
 noteType: ":luggage:"
 aliases: "Dispelling Bullet"
 foundryId: Item.rNF27Lv23SDy4dlb

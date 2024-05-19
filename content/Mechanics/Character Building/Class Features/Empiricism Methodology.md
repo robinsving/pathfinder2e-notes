@@ -1,5 +1,6 @@
 ---
 title: "Empiricism Methodology"
+draft: true
 noteType: ":luggage:"
 aliases: "Empiricism Methodology"
 foundryId: Item.1MAbK1rYp2Qetjr2

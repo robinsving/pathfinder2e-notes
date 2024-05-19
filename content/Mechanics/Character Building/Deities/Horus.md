@@ -1,5 +1,6 @@
 ---
 title: "Horus"
+draft: true
 noteType: ":luggage:"
 aliases: "Horus"
 foundryId: Item.xEUUqz3TDNIpExsD

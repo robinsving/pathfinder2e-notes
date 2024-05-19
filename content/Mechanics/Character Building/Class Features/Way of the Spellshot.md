@@ -1,5 +1,6 @@
 ---
 title: "Way of the Spellshot"
+draft: true
 noteType: ":luggage:"
 aliases: "Way of the Spellshot"
 foundryId: Item.gAwe7ua7xgSP6wIQ

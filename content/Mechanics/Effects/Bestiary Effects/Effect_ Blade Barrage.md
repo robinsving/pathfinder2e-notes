@@ -1,5 +1,6 @@
 ---
 title: "Effect: Blade Barrage"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Blade Barrage"
 foundryId: Compendium.pf2e.bestiary-effects.Item.aMQxiTCdTxVcradv

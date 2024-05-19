@@ -1,5 +1,6 @@
 ---
 title: "Effect: Jury-Rig"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Jury-Rig"
 foundryId: Compendium.pf2e.bestiary-effects.Item.WYJdjmvfm8J6sG6g

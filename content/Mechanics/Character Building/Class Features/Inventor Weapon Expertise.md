@@ -1,5 +1,6 @@
 ---
 title: "Inventor Weapon Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Inventor Weapon Expertise"
 foundryId: Item.Cb8biacRxw3vOKr4

@@ -1,5 +1,6 @@
 ---
 title: "Manifest Soulforged Armament"
+draft: true
 noteType: ":luggage:"
 aliases: "Manifest Soulforged Armament"
 foundryId: Item.Uu0GwFdM28eJDn3b

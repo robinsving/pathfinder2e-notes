@@ -1,5 +1,6 @@
 ---
 title: "Eldritch Anatomist"
+draft: true
 noteType: ":luggage:"
 aliases: "Eldritch Anatomist"
 foundryId: Item.CHzyi3jFthZGF76j

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Lift Nature's Caul (Bonus)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Lift Nature's Caul (Bonus)"
 foundryId: Compendium.pf2e.spell-effects.Item.ihv1azg80N3kj7Vo

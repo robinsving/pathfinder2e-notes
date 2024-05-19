@@ -1,5 +1,6 @@
 ---
 title: "Legendary Spellcaster"
+draft: true
 noteType: ":luggage:"
 aliases: "Legendary Spellcaster"
 foundryId: Item.Q2Msjxl2pBLq4j5f

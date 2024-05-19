@@ -1,5 +1,6 @@
 ---
 title: "Legendary Parents"
+draft: true
 noteType: ":luggage:"
 aliases: "Legendary Parents"
 foundryId: Item.RFCHcjbvWdskZ0eI

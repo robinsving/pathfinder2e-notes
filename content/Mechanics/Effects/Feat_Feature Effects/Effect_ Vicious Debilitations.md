@@ -1,5 +1,6 @@
 ---
 title: "Effect: Vicious Debilitations"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Vicious Debilitations"
 foundryId: Compendium.pf2e.feat-effects.Item.Rgt9hH3W1oh9dvku

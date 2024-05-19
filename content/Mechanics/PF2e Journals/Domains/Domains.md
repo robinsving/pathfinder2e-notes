@@ -1,5 +1,6 @@
 ---
 title: "Domains"
+draft: true
 noteType: ":book:"
 aliases: "Domains"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr

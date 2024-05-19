@@ -1,5 +1,6 @@
 ---
 title: "Integrated Gauntlet"
+draft: true
 noteType: ":luggage:"
 aliases: "Integrated Gauntlet"
 foundryId: Item.1ZEgRSsVXB7dGAfb

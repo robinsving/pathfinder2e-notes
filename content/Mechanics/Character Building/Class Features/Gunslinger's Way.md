@@ -1,5 +1,6 @@
 ---
 title: "Gunslinger's Way"
+draft: true
 noteType: ":luggage:"
 aliases: "Gunslinger's Way"
 foundryId: Item.ei5bzt0cGFZNeBOc

@@ -1,5 +1,6 @@
 ---
 title: "Kinspeech"
+draft: true
 noteType: ":luggage:"
 aliases: "Kinspeech"
 foundryId: Item.VjegcOYfV4pjwhKb

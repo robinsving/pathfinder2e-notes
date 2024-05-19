@@ -1,5 +1,6 @@
 ---
 title: "Effect: Crush of Hundreds"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Crush of Hundreds"
 foundryId: Compendium.pf2e.bestiary-effects.Item.R8clbf7gtIlU3fIj

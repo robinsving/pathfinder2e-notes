@@ -1,5 +1,6 @@
 ---
 title: "Oozemorph"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Oozemorph"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.tJQ5f8C8m5gpZsF1

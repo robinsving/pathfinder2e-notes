@@ -1,5 +1,6 @@
 ---
 title: "Rogue Resilience"
+draft: true
 noteType: ":luggage:"
 aliases: "Rogue Resilience"
 foundryId: Item.8zFiEZPebdq8j1ns

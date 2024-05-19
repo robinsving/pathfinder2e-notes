@@ -1,5 +1,6 @@
 ---
 title: "Blessed One"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Blessed One"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.SUDV5hFZ9WocxWqv

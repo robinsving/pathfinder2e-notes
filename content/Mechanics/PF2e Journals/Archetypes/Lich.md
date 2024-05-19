@@ -1,5 +1,6 @@
 ---
 title: "Lich"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Lich"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.r43lPEEL7WHOZjHL

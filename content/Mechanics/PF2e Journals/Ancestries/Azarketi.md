@@ -1,5 +1,6 @@
 ---
 title: "Azarketi"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Azarketi"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.SNhp04cirQnnBTbb

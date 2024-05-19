@@ -1,5 +1,6 @@
 ---
 title: "Osprey Barnraiser"
+draft: true
 noteType: ":luggage:"
 aliases: "Osprey Barnraiser"
 foundryId: Item.7M7BNQ0ljQE7UTHE

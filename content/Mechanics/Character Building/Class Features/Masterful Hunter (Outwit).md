@@ -1,5 +1,6 @@
 ---
 title: "Masterful Hunter (Outwit)"
+draft: true
 noteType: ":luggage:"
 aliases: "Masterful Hunter (Outwit)"
 foundryId: Item.7pQJCUxExh32Qe85

@@ -1,5 +1,6 @@
 ---
 title: "Resolute Faith"
+draft: true
 noteType: ":luggage:"
 aliases: "Resolute Faith"
 foundryId: Item.CosKawHnCMflhVaB

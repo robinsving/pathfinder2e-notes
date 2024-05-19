@@ -1,5 +1,6 @@
 ---
 title: "Effect: +2 status bonus to attack rolls"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: +2 status bonus to attack rolls"
 foundryId: Compendium.pf2e.other-effects.Item.lTwF7aCtQ6napqYu

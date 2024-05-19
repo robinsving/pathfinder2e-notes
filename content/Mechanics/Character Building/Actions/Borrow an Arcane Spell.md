@@ -1,5 +1,6 @@
 ---
 title: "Borrow an Arcane Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Borrow an Arcane Spell"
 foundryId: Item.hwzk1RhIjkS7SOBp

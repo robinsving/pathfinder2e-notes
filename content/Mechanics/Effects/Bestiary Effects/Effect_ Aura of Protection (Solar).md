@@ -1,5 +1,6 @@
 ---
 title: "Effect: Aura of Protection (Solar)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Aura of Protection (Solar)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.s16XQpDz2HNzR9BB

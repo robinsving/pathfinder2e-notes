@@ -1,5 +1,6 @@
 ---
 title: "Aura: Angelic Halo"
+draft: true
 noteType: ":luggage:"
 aliases: "Aura: Angelic Halo"
 foundryId: Compendium.pf2e.spell-effects.Item.jPZXZjetdauqYuEH

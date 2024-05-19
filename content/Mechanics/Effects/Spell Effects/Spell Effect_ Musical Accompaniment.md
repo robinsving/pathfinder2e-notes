@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Musical Accompaniment"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Musical Accompaniment"
 foundryId: Compendium.pf2e.spell-effects.Item.nLige83aiMBh0ylb

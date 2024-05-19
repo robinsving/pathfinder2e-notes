@@ -1,5 +1,6 @@
 ---
 title: "Effect: Shared Avoidance"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Shared Avoidance"
 foundryId: Compendium.pf2e.feat-effects.Item.svVczVV174KfJRDf

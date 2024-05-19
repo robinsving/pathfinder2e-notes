@@ -1,5 +1,6 @@
 ---
 title: Dance Of Death
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

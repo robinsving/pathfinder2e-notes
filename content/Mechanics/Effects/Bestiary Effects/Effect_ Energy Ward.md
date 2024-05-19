@@ -1,5 +1,6 @@
 ---
 title: "Effect: Energy Ward"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Energy Ward"
 foundryId: Compendium.pf2e.bestiary-effects.Item.No817gKxdliCVQ9K

@@ -1,5 +1,6 @@
 ---
 title: "Stance: Vitality-Manipulation Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Vitality-Manipulation Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.h45sUZFs5jhuQdCE

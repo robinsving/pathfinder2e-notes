@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Ooze Form (Ochre Jelly)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Ooze Form (Ochre Jelly)"
 foundryId: Compendium.pf2e.spell-effects.Item.PpkOZVoHkBZUmddx

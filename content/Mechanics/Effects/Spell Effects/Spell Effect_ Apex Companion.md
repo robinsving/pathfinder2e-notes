@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Apex Companion"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Apex Companion"
 foundryId: Compendium.pf2e.spell-effects.Item.NXzo2kdgVixIZ2T1

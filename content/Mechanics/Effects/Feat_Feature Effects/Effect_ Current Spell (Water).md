@@ -1,5 +1,6 @@
 ---
 title: "Effect: Current Spell (Water)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Current Spell (Water)"
 foundryId: Compendium.pf2e.feat-effects.Item.DhvSMIFs6xifgQHX

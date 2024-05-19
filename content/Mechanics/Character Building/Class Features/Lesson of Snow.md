@@ -1,5 +1,6 @@
 ---
 title: "Lesson of Snow"
+draft: true
 noteType: ":luggage:"
 aliases: "Lesson of Snow"
 foundryId: Item.Jf1Yw7snlbJXQpE7

@@ -1,5 +1,6 @@
 ---
 title: "Interrogation Methodology"
+draft: true
 noteType: ":luggage:"
 aliases: "Interrogation Methodology"
 foundryId: Item.Up4yK7NJD2OqppLH

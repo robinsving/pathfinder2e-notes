@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Accelerating Touch"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Accelerating Touch"
 foundryId: Compendium.pf2e.spell-effects.Item.alyNtkHLNnt98Ewz

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Follow The Expert"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Follow The Expert"
 foundryId: Compendium.pf2e.other-effects.Item.VCSpuc3Tf3XWMkd3

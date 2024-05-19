@@ -1,5 +1,6 @@
 ---
 title: "Drain Bonded Item"
+draft: true
 noteType: ":luggage:"
 aliases: "Drain Bonded Item"
 foundryId: Item.B4kNDO0Qf7zL9VV8

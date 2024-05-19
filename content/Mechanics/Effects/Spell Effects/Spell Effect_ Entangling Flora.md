@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Entangling Flora"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Entangling Flora"
 foundryId: Compendium.pf2e.spell-effects.Item.rjM25qfw5BKj9h97

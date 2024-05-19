@@ -1,5 +1,6 @@
 ---
 title: "Undead Slayer"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Undead Slayer"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.mV0K9sxD3TWnZDcy

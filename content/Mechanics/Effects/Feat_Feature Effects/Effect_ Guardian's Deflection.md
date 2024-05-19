@@ -1,5 +1,6 @@
 ---
 title: "Effect: Guardian's Deflection"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Guardian's Deflection"
 foundryId: Compendium.pf2e.feat-effects.Item.w6X7io56B2HHTOvs

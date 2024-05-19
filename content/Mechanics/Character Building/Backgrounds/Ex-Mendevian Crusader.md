@@ -1,5 +1,6 @@
 ---
 title: "Ex-Mendevian Crusader"
+draft: true
 noteType: ":luggage:"
 aliases: "Ex-Mendevian Crusader"
 foundryId: Item.NZ5tGLNIIdYd3lGS

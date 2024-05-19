@@ -1,5 +1,6 @@
 ---
 title: "Persistent Damage"
+draft: true
 noteType: ":luggage:"
 aliases: "Persistent Damage"
 foundryId: Item.j3TuGNhnzkHv25HP

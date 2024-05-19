@@ -1,5 +1,6 @@
 ---
 title: "Effect: Distracting Feint"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Distracting Feint"
 foundryId: Compendium.pf2e.feat-effects.Item.7hRgBo0fRQBxMK7g

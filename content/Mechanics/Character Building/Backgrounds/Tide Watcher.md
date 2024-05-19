@@ -1,5 +1,6 @@
 ---
 title: "Tide Watcher"
+draft: true
 noteType: ":luggage:"
 aliases: "Tide Watcher"
 foundryId: Item.SCQvWXZ09EfMhpZ8

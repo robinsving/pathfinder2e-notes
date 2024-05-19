@@ -1,5 +1,6 @@
 ---
 title: "Blade Ally"
+draft: true
 noteType: ":luggage:"
 aliases: "Blade Ally"
 foundryId: Item.bSUJ1bRwr5ZXFFdv

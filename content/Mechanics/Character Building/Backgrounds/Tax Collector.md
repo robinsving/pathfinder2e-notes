@@ -1,5 +1,6 @@
 ---
 title: "Tax Collector"
+draft: true
 noteType: ":luggage:"
 aliases: "Tax Collector"
 foundryId: Item.usMCyAWtu5ut1h9t

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Share Pain"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Share Pain"
 foundryId: Compendium.pf2e.bestiary-effects.Item.iXVsVqttUGlfdIHS

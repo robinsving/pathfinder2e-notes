@@ -1,5 +1,6 @@
 ---
 title: "Sniping Duo"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Sniping Duo"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.A5HwvubNii1d2UND

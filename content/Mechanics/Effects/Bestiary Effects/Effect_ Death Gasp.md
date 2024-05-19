@@ -1,5 +1,6 @@
 ---
 title: "Effect: Death Gasp"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Death Gasp"
 foundryId: Compendium.pf2e.bestiary-effects.Item.lyeRL7khixdlJsaf

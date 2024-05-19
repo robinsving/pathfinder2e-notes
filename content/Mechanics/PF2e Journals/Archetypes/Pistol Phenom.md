@@ -1,5 +1,6 @@
 ---
 title: "Pistol Phenom"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Pistol Phenom"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.wMUAm1PJ1HjJ8fFU

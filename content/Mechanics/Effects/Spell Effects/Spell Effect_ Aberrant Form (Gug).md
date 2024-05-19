@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Aberrant Form (Gug)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Aberrant Form (Gug)"
 foundryId: Compendium.pf2e.spell-effects.Item.sfJyQKmoxSRo6FyP

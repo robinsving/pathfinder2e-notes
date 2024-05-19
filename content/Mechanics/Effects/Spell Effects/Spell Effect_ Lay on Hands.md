@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Lay on Hands"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Lay on Hands"
 foundryId: Compendium.pf2e.spell-effects.Item.lyLMiauxIVUM3oF1

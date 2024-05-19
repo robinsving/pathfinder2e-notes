@@ -1,5 +1,6 @@
 ---
 title: "Effect: Share Rage"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Share Rage"
 foundryId: Compendium.pf2e.feat-effects.Item.RoGEt7lrCdfaueB9

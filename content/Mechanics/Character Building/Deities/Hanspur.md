@@ -1,5 +1,6 @@
 ---
 title: "Hanspur"
+draft: true
 noteType: ":luggage:"
 aliases: "Hanspur"
 foundryId: Item.yd2ISmJEZtx5Y7gU

@@ -1,5 +1,6 @@
 ---
 title: "Osprey Spellcaster"
+draft: true
 noteType: ":luggage:"
 aliases: "Osprey Spellcaster"
 foundryId: Item.mdx22FXAqm6aUq6w

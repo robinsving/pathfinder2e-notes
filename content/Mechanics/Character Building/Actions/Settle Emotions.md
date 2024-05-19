@@ -1,5 +1,6 @@
 ---
 title: "Settle Emotions"
+draft: true
 noteType: ":luggage:"
 aliases: "Settle Emotions"
 foundryId: Item.lNlec312LdFnU18L

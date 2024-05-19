@@ -1,5 +1,6 @@
 ---
 title: "Covered Reload"
+draft: true
 noteType: ":luggage:"
 aliases: "Covered Reload"
 foundryId: Item.sf7ghkFrZK7o0rhe

@@ -1,5 +1,6 @@
 ---
 title: Doomed
+draft: true
 noteType: ":luggage:"
 aliases:
   - Doomed 1

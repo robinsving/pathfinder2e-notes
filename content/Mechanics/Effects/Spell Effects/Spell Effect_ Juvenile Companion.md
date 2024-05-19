@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Juvenile Companion"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Juvenile Companion"
 foundryId: Compendium.pf2e.spell-effects.Item.0bfqYkNaWsdTmtrc

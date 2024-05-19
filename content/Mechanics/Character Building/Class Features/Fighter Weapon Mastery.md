@@ -1,5 +1,6 @@
 ---
 title: "Fighter Weapon Mastery"
+draft: true
 noteType: ":luggage:"
 aliases: "Fighter Weapon Mastery"
 foundryId: Item.14xrFD0kcGgtfVXY

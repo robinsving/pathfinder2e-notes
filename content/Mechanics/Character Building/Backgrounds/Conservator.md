@@ -1,5 +1,6 @@
 ---
 title: "Conservator"
+draft: true
 noteType: ":luggage:"
 aliases: "Conservator"
 foundryId: Item.Wog1ELVdSbylELjo

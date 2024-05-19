@@ -1,5 +1,6 @@
 ---
 title: "Gogunta"
+draft: true
 noteType: ":luggage:"
 aliases: "Gogunta"
 foundryId: Item.P4lFsTVFDx7mYHtg

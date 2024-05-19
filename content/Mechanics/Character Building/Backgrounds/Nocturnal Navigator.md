@@ -1,5 +1,6 @@
 ---
 title: "Nocturnal Navigator"
+draft: true
 noteType: ":luggage:"
 aliases: "Nocturnal Navigator"
 foundryId: Item.RX8iGLKN8j2IKfxF

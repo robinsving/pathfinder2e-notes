@@ -1,5 +1,6 @@
 ---
 title: "Mixed Drink: Luck"
+draft: true
 noteType: ":luggage:"
 aliases: "Mixed Drink: Luck"
 foundryId: Compendium.pf2e.campaign-effects.Item.e8K0YTKxzf0bhayh

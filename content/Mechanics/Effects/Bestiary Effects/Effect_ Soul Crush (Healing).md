@@ -1,5 +1,6 @@
 ---
 title: "Effect: Soul Crush (Healing)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Soul Crush (Healing)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.oKNFSWJW2jat8Dli

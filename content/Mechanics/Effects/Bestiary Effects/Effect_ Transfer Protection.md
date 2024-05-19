@@ -1,5 +1,6 @@
 ---
 title: "Effect: Transfer Protection"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Transfer Protection"
 foundryId: Compendium.pf2e.bestiary-effects.Item.kHRbOHKEedKaBFH5

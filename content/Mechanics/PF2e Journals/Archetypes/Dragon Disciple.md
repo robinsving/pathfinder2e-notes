@@ -1,5 +1,6 @@
 ---
 title: "Dragon Disciple"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Dragon Disciple"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.SO9d7RSf1zqmTlmW

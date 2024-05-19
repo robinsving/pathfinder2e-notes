@@ -1,5 +1,6 @@
 ---
 title: "Anti-Tech Activist"
+draft: true
 noteType: ":luggage:"
 aliases: "Anti-Tech Activist"
 foundryId: Item.Dp0hG8fsF63RZRh2

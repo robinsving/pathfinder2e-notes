@@ -1,5 +1,6 @@
 ---
 title: "Effect: Protective Mentor Boon (Admired) (PFS)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Protective Mentor Boon (Admired) (PFS)"
 foundryId: Compendium.pf2e.feat-effects.Item.lbe8XDSZB8gwyg90

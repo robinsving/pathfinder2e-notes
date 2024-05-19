@@ -1,5 +1,6 @@
 ---
 title: "Ability Boosts"
+draft: true
 noteType: ":luggage:"
 aliases: "Ability Boosts"
 foundryId: Item.qbuAvP5NEQyzmvgf

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Countless Eyes"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Countless Eyes"
 foundryId: Compendium.pf2e.spell-effects.Item.BfaFe1cI9IkpvmmY

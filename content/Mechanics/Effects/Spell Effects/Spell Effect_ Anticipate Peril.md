@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Anticipate Peril"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Anticipate Peril"
 foundryId: Compendium.pf2e.spell-effects.Item.4ag0OHKfjROmR4Pm

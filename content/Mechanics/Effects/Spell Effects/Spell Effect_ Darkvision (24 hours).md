@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Darkvision (24 hours)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Darkvision (24 hours)"
 foundryId: Compendium.pf2e.spell-effects.Item.inNfTmtWpsxeGBI9

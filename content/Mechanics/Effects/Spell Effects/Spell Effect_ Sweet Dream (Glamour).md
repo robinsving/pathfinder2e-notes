@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Sweet Dream (Glamour)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Sweet Dream (Glamour)"
 foundryId: Compendium.pf2e.spell-effects.Item.MJSoRFfEdM4j5mNG

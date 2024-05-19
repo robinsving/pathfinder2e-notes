@@ -1,5 +1,6 @@
 ---
 title: "Devastator"
+draft: true
 noteType: ":luggage:"
 aliases: "Devastator"
 foundryId: Item.l7pGqiAeGfv3dlLD

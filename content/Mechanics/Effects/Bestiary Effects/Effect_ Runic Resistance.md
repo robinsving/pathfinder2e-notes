@@ -1,5 +1,6 @@
 ---
 title: "Effect: Runic Resistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Runic Resistance"
 foundryId: Compendium.pf2e.bestiary-effects.Item.P4bNtDVyknQwjTPo

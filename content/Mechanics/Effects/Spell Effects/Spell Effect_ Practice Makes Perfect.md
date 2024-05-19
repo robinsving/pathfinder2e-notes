@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Practice Makes Perfect"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Practice Makes Perfect"
 foundryId: Compendium.pf2e.spell-effects.Item.XMBoKRRyooKnGkHk

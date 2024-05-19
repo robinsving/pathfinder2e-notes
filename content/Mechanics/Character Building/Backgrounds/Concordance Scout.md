@@ -1,5 +1,6 @@
 ---
 title: "Concordance Scout"
+draft: true
 noteType: ":luggage:"
 aliases: "Concordance Scout"
 foundryId: Item.eMAH5IPXTiIJqF7y

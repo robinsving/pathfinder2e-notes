@@ -1,5 +1,6 @@
 ---
 title: "Restore the Mind"
+draft: true
 noteType: ":luggage:"
 aliases: "Restore the Mind"
 foundryId: Item.T9uOTIOv8QQP9yqF

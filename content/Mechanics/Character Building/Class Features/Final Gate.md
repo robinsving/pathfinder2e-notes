@@ -1,5 +1,6 @@
 ---
 title: "Final Gate"
+draft: true
 noteType: ":luggage:"
 aliases: "Final Gate"
 foundryId: Item.vteqqncgI31iIfFK

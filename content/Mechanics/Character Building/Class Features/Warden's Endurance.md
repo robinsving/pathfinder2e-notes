@@ -1,5 +1,6 @@
 ---
 title: "Warden's Endurance"
+draft: true
 noteType: ":luggage:"
 aliases: "Warden's Endurance"
 foundryId: Item.mSIEi3Vx8b4cXTFi

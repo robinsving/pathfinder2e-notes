@@ -1,5 +1,6 @@
 ---
 title: "Pyre Tender"
+draft: true
 noteType: ":luggage:"
 aliases: "Pyre Tender"
 foundryId: Item.HuE05DiR12zj67k6

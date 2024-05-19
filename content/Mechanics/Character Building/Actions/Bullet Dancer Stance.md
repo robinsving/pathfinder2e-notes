@@ -1,5 +1,6 @@
 ---
 title: "Bullet Dancer Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Bullet Dancer Stance"
 foundryId: Item.zKE4R0gfm5boXpNH

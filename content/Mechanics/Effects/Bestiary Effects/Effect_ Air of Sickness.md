@@ -1,5 +1,6 @@
 ---
 title: "Effect: Air of Sickness"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Air of Sickness"
 foundryId: Compendium.pf2e.bestiary-effects.Item.XSXMGb5h4Um6YXiT

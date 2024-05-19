@@ -1,5 +1,6 @@
 ---
 title: "Effect: Haywire"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Haywire"
 foundryId: Compendium.pf2e.bestiary-effects.Item.XaYM6Td0yhx2POau

@@ -1,5 +1,6 @@
 ---
 title: "Stance: Paragon's Guard"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Paragon's Guard"
 foundryId: Compendium.pf2e.feat-effects.Item.6EDoy3OSFZ4L3Vs7

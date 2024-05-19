@@ -1,5 +1,6 @@
 ---
 title: "Effect: Channel the Godmind"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Channel the Godmind"
 foundryId: Compendium.pf2e.feat-effects.Item.7hQnwwsixZmXzdIT

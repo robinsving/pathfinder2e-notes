@@ -1,5 +1,6 @@
 ---
 title: "Fighter"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Fighter"
 foundryId: Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.HZbrRRVzW7w17L2W

@@ -1,5 +1,6 @@
 ---
 title: "Urban Prosperity"
+draft: true
 noteType: ":luggage:"
 aliases: "Urban Prosperity"
 foundryId: Item.gRlMdGYyiNHgZbxV

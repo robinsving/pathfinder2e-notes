@@ -1,5 +1,6 @@
 ---
 title: Hammer Of Forbiddance
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

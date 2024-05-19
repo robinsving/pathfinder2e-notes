@@ -1,5 +1,6 @@
 ---
 title: "Stand"
+draft: true
 noteType: ":luggage:"
 aliases: "Stand"
 foundryId: Item.GyPhYoiigY6DwiKJ

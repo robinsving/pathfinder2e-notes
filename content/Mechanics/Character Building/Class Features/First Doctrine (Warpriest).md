@@ -1,5 +1,6 @@
 ---
 title: "First Doctrine (Warpriest)"
+draft: true
 noteType: ":luggage:"
 aliases: "First Doctrine (Warpriest)"
 foundryId: Item.P45wjIf4NAdmUVRb

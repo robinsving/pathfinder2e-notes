@@ -1,5 +1,6 @@
 ---
 title: Eternal Flame
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

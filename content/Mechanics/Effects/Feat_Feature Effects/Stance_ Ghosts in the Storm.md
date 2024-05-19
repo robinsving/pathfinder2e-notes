@@ -1,5 +1,6 @@
 ---
 title: "Stance: Ghosts in the Storm"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Ghosts in the Storm"
 foundryId: Compendium.pf2e.feat-effects.Item.sPIaly8bgNxgcNvT

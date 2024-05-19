@@ -1,5 +1,6 @@
 ---
 title: "Effect: Rune of Destruction (Longspear)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Rune of Destruction (Longspear)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.vJAHjBoEuFKGQoGs

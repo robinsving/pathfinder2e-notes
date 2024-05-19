@@ -1,5 +1,6 @@
 ---
 title: "Catharsis Emotion (Dedication)"
+draft: true
 noteType: ":luggage:"
 aliases: "Catharsis Emotion (Dedication)"
 foundryId: Item.CGKmBtklCBDJzKHA

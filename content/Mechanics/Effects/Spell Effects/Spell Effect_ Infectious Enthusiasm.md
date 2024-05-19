@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Infectious Enthusiasm"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Infectious Enthusiasm"
 foundryId: Compendium.pf2e.spell-effects.Item.nU4SxAk6XreHUi5h

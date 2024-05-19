@@ -1,5 +1,6 @@
 ---
 title: "Earn Income"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Earn Income"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.aBALUjLyOqXKlhrP

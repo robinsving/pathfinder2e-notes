@@ -1,5 +1,6 @@
 ---
 title: "Effect: Guided Skill"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Guided Skill"
 foundryId: Compendium.pf2e.feat-effects.Item.iaZ6P59YVhdnFIN8

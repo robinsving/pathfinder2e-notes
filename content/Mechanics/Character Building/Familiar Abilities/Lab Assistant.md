@@ -1,5 +1,6 @@
 ---
 title: "Lab Assistant"
+draft: true
 noteType: ":luggage:"
 aliases: "Lab Assistant"
 foundryId: Item.LeoC6rVQiWCRJ6BJ

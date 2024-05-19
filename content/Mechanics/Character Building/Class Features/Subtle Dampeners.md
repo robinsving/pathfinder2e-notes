@@ -1,5 +1,6 @@
 ---
 title: "Subtle Dampeners"
+draft: true
 noteType: ":luggage:"
 aliases: "Subtle Dampeners"
 foundryId: Item.KYgjgxLdzb2RSOUX

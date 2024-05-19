@@ -1,5 +1,6 @@
 ---
 title: "Learn a Spell"
+draft: true
 noteType: ":luggage:"
 aliases: "Learn a Spell"
 foundryId: Item.TjrQ7c0Bmtx6o5Bt

@@ -1,5 +1,6 @@
 ---
 title: "Silence in Snow"
+draft: true
 noteType: ":luggage:"
 aliases: "Silence in Snow"
 foundryId: Item.zwqbYCyHeVH1H04p

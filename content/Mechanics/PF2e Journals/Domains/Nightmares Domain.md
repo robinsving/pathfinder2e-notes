@@ -1,5 +1,6 @@
 ---
 title: "Nightmares Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Nightmares Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.R20JXF43vU5RQyUj

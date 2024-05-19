@@ -1,5 +1,6 @@
 ---
 title: "Effect: Splintered Ground"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Splintered Ground"
 foundryId: Compendium.pf2e.bestiary-effects.Item.86uYNsVXzYWxqLTV

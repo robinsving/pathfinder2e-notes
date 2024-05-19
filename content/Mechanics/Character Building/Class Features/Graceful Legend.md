@@ -1,5 +1,6 @@
 ---
 title: "Graceful Legend"
+draft: true
 noteType: ":luggage:"
 aliases: "Graceful Legend"
 foundryId: Item.kxQEDTWY6KKIebVp

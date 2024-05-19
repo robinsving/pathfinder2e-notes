@@ -1,5 +1,6 @@
 ---
 title: "Spellshot (Class Archetype)"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Spellshot (Class Archetype)"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.FJGPBhYmD7xTFsrW

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Bond in Light"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Bond in Light"
 foundryId: Compendium.pf2e.bestiary-effects.Item.4bR1i7qzmSJ5No6O

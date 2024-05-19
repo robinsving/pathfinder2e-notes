@@ -1,5 +1,6 @@
 ---
 title: "Sun Wukong"
+draft: true
 noteType: ":luggage:"
 aliases: "Sun Wukong"
 foundryId: Item.zaAiCqyprenv4xx8

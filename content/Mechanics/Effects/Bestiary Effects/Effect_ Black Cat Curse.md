@@ -1,5 +1,6 @@
 ---
 title: "Effect: Black Cat Curse"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Black Cat Curse"
 foundryId: Compendium.pf2e.bestiary-effects.Item.8z4Q84UlS8cMYVWu

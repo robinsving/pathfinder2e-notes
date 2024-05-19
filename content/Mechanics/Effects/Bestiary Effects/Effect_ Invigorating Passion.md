@@ -1,5 +1,6 @@
 ---
 title: "Effect: Invigorating Passion"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Invigorating Passion"
 foundryId: Compendium.pf2e.bestiary-effects.Item.5syHrFGAE6lo0FUr

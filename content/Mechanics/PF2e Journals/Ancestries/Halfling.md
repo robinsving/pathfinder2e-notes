@@ -1,5 +1,6 @@
 ---
 title: "Halfling"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Halfling"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.voI7uPS9vsG74JIn

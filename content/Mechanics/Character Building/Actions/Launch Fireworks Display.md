@@ -1,5 +1,6 @@
 ---
 title: "Launch Fireworks Display"
+draft: true
 noteType: ":luggage:"
 aliases: "Launch Fireworks Display"
 foundryId: Item.qNSPGDoePwo5B6P7

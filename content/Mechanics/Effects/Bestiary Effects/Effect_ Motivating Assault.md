@@ -1,5 +1,6 @@
 ---
 title: "Effect: Motivating Assault"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Motivating Assault"
 foundryId: Compendium.pf2e.bestiary-effects.Item.XH49blfNDjkqnH5N

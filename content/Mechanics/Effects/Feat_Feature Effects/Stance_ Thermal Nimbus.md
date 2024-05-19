@@ -1,5 +1,6 @@
 ---
 title: "Stance: Thermal Nimbus"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Thermal Nimbus"
 foundryId: Compendium.pf2e.feat-effects.Item.2EMak2C8x6pFwoUi

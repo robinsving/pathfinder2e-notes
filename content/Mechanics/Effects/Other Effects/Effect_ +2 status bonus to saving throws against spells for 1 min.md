@@ -1,5 +1,6 @@
 ---
 title: "Effect: +2 status bonus to saving throws against spells for 1 min"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: +2 status bonus to saving throws against spells for 1 min"
 foundryId: Compendium.pf2e.other-effects.Item.PaS2kwv4vueI4PC7

@@ -1,5 +1,6 @@
 ---
 title: "Whirlwind Maul"
+draft: true
 noteType: ":luggage:"
 aliases: "Whirlwind Maul"
 foundryId: Item.BuFaraZkRGJWJnC1

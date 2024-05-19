@@ -1,5 +1,6 @@
 ---
 title: "Effect: Witchflame (Failure)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Witchflame (Failure)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.L7SiTshdimUPWfnB

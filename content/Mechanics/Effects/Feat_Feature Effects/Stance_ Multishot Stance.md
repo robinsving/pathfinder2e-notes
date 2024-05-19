@@ -1,5 +1,6 @@
 ---
 title: "Stance: Multishot Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Multishot Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.l4QUaedYofnfXig0

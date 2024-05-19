@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Illusory Shroud"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Illusory Shroud"
 foundryId: Compendium.pf2e.spell-effects.Item.b8JCq6n1STl3Wkwy

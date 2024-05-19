@@ -1,5 +1,6 @@
 ---
 title: "Fire Warden"
+draft: true
 noteType: ":luggage:"
 aliases: "Fire Warden"
 foundryId: Item.KvMgnqWkOhZpLTNK

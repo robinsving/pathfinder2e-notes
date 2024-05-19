@@ -1,5 +1,6 @@
 ---
 title: "Call Companion"
+draft: true
 noteType: ":luggage:"
 aliases: "Call Companion"
 foundryId: Item.tWq8zkbUJ2yNMYkT

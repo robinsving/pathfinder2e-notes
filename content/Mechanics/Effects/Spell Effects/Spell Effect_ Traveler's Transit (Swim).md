@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Traveler's Transit (Swim)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Traveler's Transit (Swim)"
 foundryId: Compendium.pf2e.spell-effects.Item.0R42NyuEZMVALjQs

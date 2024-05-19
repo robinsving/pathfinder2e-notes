@@ -1,5 +1,6 @@
 ---
 title: "Shadow Lodge Defector"
+draft: true
 noteType: ":luggage:"
 aliases: "Shadow Lodge Defector"
 foundryId: Item.VsI328rsFkvBgMLp

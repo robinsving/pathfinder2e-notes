@@ -1,5 +1,6 @@
 ---
 title: "Order of the Pyre"
+draft: true
 noteType: ":luggage:"
 aliases: "Order of the Pyre"
 foundryId: Item.2TnZdTTtv5G6o1PQ

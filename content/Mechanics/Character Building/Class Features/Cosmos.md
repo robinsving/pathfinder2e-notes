@@ -1,5 +1,6 @@
 ---
 title: "Cosmos"
+draft: true
 noteType: ":luggage:"
 aliases: "Cosmos"
 foundryId: Item.JjO5e9E9QUdy9CQz

@@ -1,5 +1,6 @@
 ---
 title: "Detecting Creatures"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Detecting Creatures"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.Edn6qQNVcEVpkhPl

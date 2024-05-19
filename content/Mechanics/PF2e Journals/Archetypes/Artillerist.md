@@ -1,5 +1,6 @@
 ---
 title: "Artillerist"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Artillerist"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.bkTCYlTFNifrM3sh

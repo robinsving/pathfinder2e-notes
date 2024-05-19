@@ -1,5 +1,6 @@
 ---
 title: "Lesson of Favors"
+draft: true
 noteType: ":luggage:"
 aliases: "Lesson of Favors"
 foundryId: Item.VRJ51zFUEnsvDS2T

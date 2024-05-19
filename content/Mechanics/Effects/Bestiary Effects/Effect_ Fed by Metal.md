@@ -1,5 +1,6 @@
 ---
 title: "Effect: Fed by Metal"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Fed by Metal"
 foundryId: Compendium.pf2e.bestiary-effects.Item.OMJnZspk5YHai8yn

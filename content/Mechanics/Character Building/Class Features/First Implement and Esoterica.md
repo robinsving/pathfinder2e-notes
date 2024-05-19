@@ -1,5 +1,6 @@
 ---
 title: "First Implement and Esoterica"
+draft: true
 noteType: ":luggage:"
 aliases: "First Implement and Esoterica"
 foundryId: Item.Emc2Jh06zzVT7d4m

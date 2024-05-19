@@ -1,5 +1,6 @@
 ---
 title: "Effect: Spray Toxic Oil"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Spray Toxic Oil"
 foundryId: Compendium.pf2e.bestiary-effects.Item.75B7z49jfQbWcSy9

@@ -1,5 +1,6 @@
 ---
 title: "Stance: Gorilla Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Gorilla Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.RozqjLocahvQWERr

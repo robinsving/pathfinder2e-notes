@@ -1,5 +1,6 @@
 ---
 title: "Kofusachi"
+draft: true
 noteType: ":luggage:"
 aliases: "Kofusachi"
 foundryId: Item.fXWg6d4OV7wEU88G

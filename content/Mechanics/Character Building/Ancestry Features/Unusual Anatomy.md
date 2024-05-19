@@ -1,5 +1,6 @@
 ---
 title: "Unusual Anatomy"
+draft: true
 noteType: ":luggage:"
 aliases: "Unusual Anatomy"
 foundryId: Item.GzBXpIroJpWI31Ly

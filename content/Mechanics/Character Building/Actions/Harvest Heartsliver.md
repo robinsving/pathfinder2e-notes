@@ -1,5 +1,6 @@
 ---
 title: "Harvest Heartsliver"
+draft: true
 noteType: ":luggage:"
 aliases: "Harvest Heartsliver"
 foundryId: Item.96ijmRWUWyWeOwQ3

@@ -1,5 +1,6 @@
 ---
 title: "Empty Whispers"
+draft: true
 noteType: ":luggage:"
 aliases: "Empty Whispers"
 foundryId: Item.UQPAHIAhgKY5su6d

@@ -1,5 +1,6 @@
 ---
 title: "Stylish Tricks"
+draft: true
 noteType: ":luggage:"
 aliases: "Stylish Tricks"
 foundryId: Item.m3RAIri67rMoF7ZK

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Combat Mentor Boon (PFS)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Combat Mentor Boon (PFS)"
 foundryId: Compendium.pf2e.feat-effects.Item.q2kY0TzXloJ8HLNO

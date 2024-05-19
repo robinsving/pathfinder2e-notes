@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Daemon Form (Meladaemon)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Daemon Form (Meladaemon)"
 foundryId: Compendium.pf2e.spell-effects.Item.zIRnnuj4lARq43DA

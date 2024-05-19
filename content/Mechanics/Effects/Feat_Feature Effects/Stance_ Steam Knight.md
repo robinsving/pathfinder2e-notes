@@ -1,5 +1,6 @@
 ---
 title: "Stance: Steam Knight"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Steam Knight"
 foundryId: Compendium.pf2e.feat-effects.Item.cmCLIMgtd4TLA23p

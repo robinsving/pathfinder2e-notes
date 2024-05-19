@@ -1,5 +1,6 @@
 ---
 title: "Effect: Activate Defenses"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Activate Defenses"
 foundryId: Compendium.pf2e.bestiary-effects.Item.ya8r3IdzQ7QGNH8N

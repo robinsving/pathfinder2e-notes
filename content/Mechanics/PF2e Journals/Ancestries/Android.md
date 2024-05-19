@@ -1,5 +1,6 @@
 ---
 title: "Android"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Android"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.dyusFHHyaQOaQhZ0

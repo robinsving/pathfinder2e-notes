@@ -1,5 +1,6 @@
 ---
 title: "Barbed Quills"
+draft: true
 noteType: ":luggage:"
 aliases: "Barbed Quills"
 foundryId: Item.z07sdZOZ0M5shalT

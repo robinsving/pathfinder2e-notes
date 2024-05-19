@@ -1,5 +1,6 @@
 ---
 title: "Ambassador"
+draft: true
 noteType: ":luggage:"
 aliases: "Ambassador"
 foundryId: Item.Ly95Bxleuf1MPch5

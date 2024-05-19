@@ -1,5 +1,6 @@
 ---
 title: "Effect: Anoint Ally"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Anoint Ally"
 foundryId: Compendium.pf2e.feat-effects.Item.nnF7RSVlC6swbSw8

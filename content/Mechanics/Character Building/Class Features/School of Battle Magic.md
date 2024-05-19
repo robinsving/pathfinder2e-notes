@@ -1,5 +1,6 @@
 ---
 title: "School of Battle Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "School of Battle Magic"
 foundryId: Item.6eoPWbr6Tye1i2jQ

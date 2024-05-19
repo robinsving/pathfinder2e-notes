@@ -1,5 +1,6 @@
 ---
 title: "Basic Actions"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Basic Actions"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.8qYJAx4O97sSxbUF

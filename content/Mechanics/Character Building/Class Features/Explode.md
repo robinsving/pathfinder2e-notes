@@ -1,5 +1,6 @@
 ---
 title: "Explode"
+draft: true
 noteType: ":luggage:"
 aliases: "Explode"
 foundryId: Item.2iyvUohk2mME9WCW

@@ -1,5 +1,6 @@
 ---
 title: "Psychic Duelist"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Psychic Duelist"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.uA6XIArPfGSwBvZi

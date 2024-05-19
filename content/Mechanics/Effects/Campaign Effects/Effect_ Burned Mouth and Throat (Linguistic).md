@@ -1,5 +1,6 @@
 ---
 title: "Effect: Burned Mouth and Throat (Linguistic)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Burned Mouth and Throat (Linguistic)"
 foundryId: Compendium.pf2e.campaign-effects.Item.nwFhhgZRggDoDgdk

@@ -1,5 +1,6 @@
 ---
 title: "Greater Field Discovery (Toxicologist)"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Field Discovery (Toxicologist)"
 foundryId: Item.AjX2wrlh8wSSChDM

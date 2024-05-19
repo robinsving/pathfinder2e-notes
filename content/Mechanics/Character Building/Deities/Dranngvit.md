@@ -1,5 +1,6 @@
 ---
 title: "Dranngvit"
+draft: true
 noteType: ":luggage:"
 aliases: "Dranngvit"
 foundryId: Item.7pWIBuIebDovYtnh

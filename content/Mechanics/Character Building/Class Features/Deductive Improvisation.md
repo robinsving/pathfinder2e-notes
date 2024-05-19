@@ -1,5 +1,6 @@
 ---
 title: "Deductive Improvisation"
+draft: true
 noteType: ":luggage:"
 aliases: "Deductive Improvisation"
 foundryId: Item.OyT1oADndCeiJX2g

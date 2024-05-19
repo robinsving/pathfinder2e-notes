@@ -1,5 +1,6 @@
 ---
 title: "Effect: Compelled Performance"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Compelled Performance"
 foundryId: Compendium.pf2e.bestiary-effects.Item.Yb5rg3MEojIHQX8H

@@ -1,5 +1,6 @@
 ---
 title: "Rogue Expertise"
+draft: true
 noteType: ":luggage:"
 aliases: "Rogue Expertise"
 foundryId: Item.83gARMWf1bMASMKP

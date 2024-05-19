@@ -1,5 +1,6 @@
 ---
 title: "Outskirt Dweller"
+draft: true
 noteType: ":luggage:"
 aliases: "Outskirt Dweller"
 foundryId: Item.4lYaCIs55WxeqBHJ

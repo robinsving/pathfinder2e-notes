@@ -1,5 +1,6 @@
 ---
 title: "Ydajisk"
+draft: true
 noteType: ":luggage:"
 aliases: "Ydajisk"
 foundryId: Item.MzZxCwPdhiNDYYY8

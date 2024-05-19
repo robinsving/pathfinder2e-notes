@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Unbreaking Wave Barrier"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Unbreaking Wave Barrier"
 foundryId: Compendium.pf2e.spell-effects.Item.v09uwq1eHEAy2bgh

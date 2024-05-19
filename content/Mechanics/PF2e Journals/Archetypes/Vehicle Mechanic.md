@@ -1,5 +1,6 @@
 ---
 title: "Vehicle Mechanic"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Vehicle Mechanic"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.Q72YDLPh0urLfWPm

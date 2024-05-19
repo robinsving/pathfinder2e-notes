@@ -1,5 +1,6 @@
 ---
 title: "Smoke Blending"
+draft: true
 noteType: ":luggage:"
 aliases: "Smoke Blending"
 foundryId: Item.slqE7hagnVu3fLgr

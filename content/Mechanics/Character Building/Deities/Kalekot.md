@@ -1,5 +1,6 @@
 ---
 title: "Kalekot"
+draft: true
 noteType: ":luggage:"
 aliases: "Kalekot"
 foundryId: Item.49iwf3spTxSTIvqE

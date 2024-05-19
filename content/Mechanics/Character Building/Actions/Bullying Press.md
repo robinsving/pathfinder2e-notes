@@ -1,5 +1,6 @@
 ---
 title: "Bullying Press"
+draft: true
 noteType: ":luggage:"
 aliases: "Bullying Press"
 foundryId: Item.Hlc3Gb3ntVKfsBPp

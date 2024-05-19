@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Devil Form (Sarglagon)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Devil Form (Sarglagon)"
 foundryId: Compendium.pf2e.spell-effects.Item.fKeZDm8kpDFK5HWp

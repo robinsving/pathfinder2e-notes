@@ -1,5 +1,6 @@
 ---
 title: "Masterful Hunter (Precision)"
+draft: true
 noteType: ":luggage:"
 aliases: "Masterful Hunter (Precision)"
 foundryId: Item.CsnQMw7lbK1PmrYq

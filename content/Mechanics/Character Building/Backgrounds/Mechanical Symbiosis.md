@@ -1,5 +1,6 @@
 ---
 title: "Mechanical Symbiosis"
+draft: true
 noteType: ":luggage:"
 aliases: "Mechanical Symbiosis"
 foundryId: Item.S6o8r8kO5QtaWjAA

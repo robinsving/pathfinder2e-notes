@@ -1,5 +1,6 @@
 ---
 title: "Jinx"
+draft: true
 noteType: ":luggage:"
 aliases: "Jinx"
 foundryId: Item.rJDbYpFCJ95JOtpt

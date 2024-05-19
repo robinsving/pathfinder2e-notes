@@ -1,5 +1,6 @@
 ---
 title: "Bravery"
+draft: true
 noteType: ":luggage:"
 aliases: "Bravery"
 foundryId: Item.baxiPN4xwVEMlwRN

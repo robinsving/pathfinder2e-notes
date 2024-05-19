@@ -1,5 +1,6 @@
 ---
 title: "Master Tricks"
+draft: true
 noteType: ":luggage:"
 aliases: "Master Tricks"
 foundryId: Item.J5xfqvfmVjnmZZFD

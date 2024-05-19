@@ -1,5 +1,6 @@
 ---
 title: Poisoned Dart Gallery
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

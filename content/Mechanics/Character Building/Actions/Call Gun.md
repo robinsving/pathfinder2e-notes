@@ -1,5 +1,6 @@
 ---
 title: "Call Gun"
+draft: true
 noteType: ":luggage:"
 aliases: "Call Gun"
 foundryId: Item.utokRbpX0D1fS7lX

@@ -1,5 +1,6 @@
 ---
 title: "Seafarers' Hope"
+draft: true
 noteType: ":luggage:"
 aliases: "Seafarers' Hope"
 foundryId: Item.n41BJT29ZTyL0RPc

@@ -1,5 +1,6 @@
 ---
 title: "Perpetual Infusions (Chirurgeon)"
+draft: true
 noteType: ":luggage:"
 aliases: "Perpetual Infusions (Chirurgeon)"
 foundryId: Item.DVdN3al98n1XZ3hv

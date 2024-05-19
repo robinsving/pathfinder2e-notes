@@ -1,5 +1,6 @@
 ---
 title: "Gymnast"
+draft: true
 noteType: ":luggage:"
 aliases: "Gymnast"
 foundryId: Item.80hzNAVt2CN2n5s7

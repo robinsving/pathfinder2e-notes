@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Righteous Might"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Righteous Might"
 foundryId: Compendium.pf2e.spell-effects.Item.W4lb3417rNDd9tCq

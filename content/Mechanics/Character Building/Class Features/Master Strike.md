@@ -1,5 +1,6 @@
 ---
 title: "Master Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Master Strike"
 foundryId: Item.lJlawjv7xFPKX2Wu

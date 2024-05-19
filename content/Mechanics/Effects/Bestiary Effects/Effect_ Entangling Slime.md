@@ -1,5 +1,6 @@
 ---
 title: "Effect: Entangling Slime"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Entangling Slime"
 foundryId: Compendium.pf2e.bestiary-effects.Item.jQmfZcPD6xVYx5nb

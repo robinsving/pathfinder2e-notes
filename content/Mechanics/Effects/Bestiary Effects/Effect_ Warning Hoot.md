@@ -1,5 +1,6 @@
 ---
 title: "Effect: Warning Hoot"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Warning Hoot"
 foundryId: Compendium.pf2e.bestiary-effects.Item.RbyXD99lybxPK6yS

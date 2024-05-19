@@ -1,5 +1,6 @@
 ---
 title: "Effect: Active Mutagen"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Active Mutagen"
 foundryId: Compendium.pf2e.bestiary-effects.Item.wE4S9lwOhtaRAm9n

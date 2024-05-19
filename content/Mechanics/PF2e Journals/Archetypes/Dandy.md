@@ -1,5 +1,6 @@
 ---
 title: "Dandy"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Dandy"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.s9kLzXOCl2GNT6TY

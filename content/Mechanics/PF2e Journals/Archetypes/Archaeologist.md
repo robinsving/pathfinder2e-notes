@@ -1,5 +1,6 @@
 ---
 title: "Archaeologist"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Archaeologist"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.O79hOcsaQyj3aQC5

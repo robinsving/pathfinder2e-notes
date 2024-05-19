@@ -1,5 +1,6 @@
 ---
 title: "Damage Avoidance: Will"
+draft: true
 noteType: ":luggage:"
 aliases: "Damage Avoidance: Will"
 foundryId: Item.8whUxv2QELC5N3tx

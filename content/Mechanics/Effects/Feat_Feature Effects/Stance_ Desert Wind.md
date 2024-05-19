@@ -1,5 +1,6 @@
 ---
 title: "Stance: Desert Wind"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Desert Wind"
 foundryId: Compendium.pf2e.feat-effects.Item.gcR66Xgi12ICOVt7

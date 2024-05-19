@@ -1,5 +1,6 @@
 ---
 title: "Effect: Hamstring"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Hamstring"
 foundryId: Compendium.pf2e.bestiary-effects.Item.otUESSH8BDdPKHtb

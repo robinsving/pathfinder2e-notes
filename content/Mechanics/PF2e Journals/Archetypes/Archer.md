@@ -1,5 +1,6 @@
 ---
 title: "Archer"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Archer"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.o71hqcfzhCKXcSml

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Rune of Smiting (Rock)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Rune of Smiting (Rock)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.bV70ZxnUAoYnfXaZ

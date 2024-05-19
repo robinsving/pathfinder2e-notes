@@ -1,5 +1,6 @@
 ---
 title: "Final Spite"
+draft: true
 noteType: ":luggage:"
 aliases: "Final Spite"
 foundryId: Item.xzDkmw5UZtadi3If

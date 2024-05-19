@@ -1,5 +1,6 @@
 ---
 title: "Stance: Clinging Shadows Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Clinging Shadows Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.uFYvW3kFP9iyNfVX

@@ -1,5 +1,6 @@
 ---
 title: "Elemental"
+draft: true
 noteType: ":luggage:"
 aliases: "Elemental"
 foundryId: Item.dKzCouVNGtfc1oaV

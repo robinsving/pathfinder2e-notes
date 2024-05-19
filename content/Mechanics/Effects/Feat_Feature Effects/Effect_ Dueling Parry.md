@@ -1,5 +1,6 @@
 ---
 title: "Effect: Dueling Parry"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Dueling Parry"
 foundryId: Compendium.pf2e.feat-effects.Item.1nCwQErK6hpkNvfw

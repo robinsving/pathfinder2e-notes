@@ -1,5 +1,6 @@
 ---
 title: "Effect: Curl Up"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Curl Up"
 foundryId: Compendium.pf2e.bestiary-effects.Item.QjgLHIgRXIk3KAOY

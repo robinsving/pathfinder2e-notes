@@ -1,5 +1,6 @@
 ---
 title: "Effect: Bosun's Command - Speed Bonus"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Bosun's Command - Speed Bonus"
 foundryId: Compendium.pf2e.bestiary-effects.Item.yG27Ixwdpxqbrhzf

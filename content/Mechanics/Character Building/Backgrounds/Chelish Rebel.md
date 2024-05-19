@@ -1,5 +1,6 @@
 ---
 title: "Chelish Rebel"
+draft: true
 noteType: ":luggage:"
 aliases: "Chelish Rebel"
 foundryId: Item.RLD7ZmKO4IUPgOdX

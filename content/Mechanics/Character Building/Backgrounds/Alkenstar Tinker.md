@@ -1,5 +1,6 @@
 ---
 title: "Alkenstar Tinker"
+draft: true
 noteType: ":luggage:"
 aliases: "Alkenstar Tinker"
 foundryId: Item.EeoFKJKKToJFan8D

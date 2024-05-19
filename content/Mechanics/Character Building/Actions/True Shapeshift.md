@@ -1,5 +1,6 @@
 ---
 title: "True Shapeshift"
+draft: true
 noteType: ":luggage:"
 aliases: "True Shapeshift"
 foundryId: Item.48ABD925dqHFvTjL

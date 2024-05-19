@@ -1,5 +1,6 @@
 ---
 title: "Friend of Greensteeples"
+draft: true
 noteType: ":luggage:"
 aliases: "Friend of Greensteeples"
 foundryId: Item.eiUIwJZbhrtuRagM

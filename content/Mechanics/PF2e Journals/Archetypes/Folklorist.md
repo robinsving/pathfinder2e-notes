@@ -1,5 +1,6 @@
 ---
 title: "Folklorist"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Folklorist"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.0pPtVXH6Duitakbp

@@ -1,5 +1,6 @@
 ---
 title: "Aura: Protective Ward"
+draft: true
 noteType: ":luggage:"
 aliases: "Aura: Protective Ward"
 foundryId: Compendium.pf2e.spell-effects.Item.5p3bKvWsJgo83FS1

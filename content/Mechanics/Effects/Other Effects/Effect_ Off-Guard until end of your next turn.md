@@ -1,5 +1,6 @@
 ---
 title: "Effect: Off-Guard until end of your next turn"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Off-Guard until end of your next turn"
 foundryId: Compendium.pf2e.other-effects.Item.y1GwyXv7iOf8DhBg

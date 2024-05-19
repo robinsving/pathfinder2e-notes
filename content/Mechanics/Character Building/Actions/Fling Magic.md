@@ -1,5 +1,6 @@
 ---
 title: "Fling Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Fling Magic"
 foundryId: Item.fQwwbTMwOX4BM6db

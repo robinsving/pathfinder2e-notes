@@ -1,5 +1,6 @@
 ---
 title: "Witch Lessons"
+draft: true
 noteType: ":luggage:"
 aliases: "Witch Lessons"
 foundryId: Item.rJTLpnfeVPdusVnH

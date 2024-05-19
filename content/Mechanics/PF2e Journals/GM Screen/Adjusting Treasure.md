@@ -1,5 +1,6 @@
 ---
 title: "Adjusting Treasure"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Adjusting Treasure"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.f2wr86966A0oUUA0

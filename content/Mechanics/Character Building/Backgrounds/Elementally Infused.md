@@ -1,5 +1,6 @@
 ---
 title: "Elementally Infused"
+draft: true
 noteType: ":luggage:"
 aliases: "Elementally Infused"
 foundryId: Item.pGJm5Qm2vOiOMLpY

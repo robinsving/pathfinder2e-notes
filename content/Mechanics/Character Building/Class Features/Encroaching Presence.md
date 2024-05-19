@@ -1,5 +1,6 @@
 ---
 title: "Encroaching Presence"
+draft: true
 noteType: ":luggage:"
 aliases: "Encroaching Presence"
 foundryId: Item.dAfLj18NToag7PRJ

@@ -1,5 +1,6 @@
 ---
 title: "Lastwall Survivor"
+draft: true
 noteType: ":luggage:"
 aliases: "Lastwall Survivor"
 foundryId: Item.XwntUfqfxr58wavo

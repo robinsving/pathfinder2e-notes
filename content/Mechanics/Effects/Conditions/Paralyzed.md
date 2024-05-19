@@ -1,5 +1,6 @@
 ---
 title: Paralyzed
+draft: true
 noteType: ":luggage:"
 aliases:
   - Paralyzed

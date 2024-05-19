@@ -1,5 +1,6 @@
 ---
 title: "Ranger"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Ranger"
 foundryId: Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.gdEmPPRYhRai7I1N

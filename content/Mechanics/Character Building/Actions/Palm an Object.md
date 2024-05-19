@@ -1,5 +1,6 @@
 ---
 title: "Palm an Object"
+draft: true
 noteType: ":luggage:"
 aliases: "Palm an Object"
 foundryId: Item.D3Bybxoe2TLG9RJ5

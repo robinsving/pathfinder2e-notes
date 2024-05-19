@@ -1,5 +1,6 @@
 ---
 title: "Saloon Entertainer"
+draft: true
 noteType: ":luggage:"
 aliases: "Saloon Entertainer"
 foundryId: Item.QoVABwiukHD0vIWK

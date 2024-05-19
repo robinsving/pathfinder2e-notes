@@ -1,5 +1,6 @@
 ---
 title: "Effect: Witchflame (Critical Failure)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Witchflame (Critical Failure)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.McawF8weCe7O81um

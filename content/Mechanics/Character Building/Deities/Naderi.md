@@ -1,5 +1,6 @@
 ---
 title: "Naderi"
+draft: true
 noteType: ":luggage:"
 aliases: "Naderi"
 foundryId: Item.bg4ujzgqbV3HGgvZ

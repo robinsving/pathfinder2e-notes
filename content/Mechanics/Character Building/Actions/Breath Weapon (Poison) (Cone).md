@@ -1,5 +1,6 @@
 ---
 title: "Breath Weapon (Poison) (Cone)"
+draft: true
 noteType: ":luggage:"
 aliases: "Breath Weapon (Poison) (Cone)"
 foundryId: Item.3ex22lITK5BIrf6T

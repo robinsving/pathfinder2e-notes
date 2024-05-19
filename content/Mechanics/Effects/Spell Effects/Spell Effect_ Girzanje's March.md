@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Girzanje's March"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Girzanje's March"
 foundryId: Compendium.pf2e.spell-effects.Item.QJRaVbulmpOzWi6w

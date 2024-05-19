@@ -1,5 +1,6 @@
 ---
 title: "Conflux Spells"
+draft: true
 noteType: ":luggage:"
 aliases: "Conflux Spells"
 foundryId: Item.3xChn6R1ebie1yyk

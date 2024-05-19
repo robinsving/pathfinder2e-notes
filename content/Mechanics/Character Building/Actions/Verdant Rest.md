@@ -1,5 +1,6 @@
 ---
 title: "Verdant Rest"
+draft: true
 noteType: ":luggage:"
 aliases: "Verdant Rest"
 foundryId: Item.GgOT86m5mPjZx6Km

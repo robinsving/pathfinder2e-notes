@@ -1,5 +1,6 @@
 ---
 title: "Effect: Soul Siphon"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Soul Siphon"
 foundryId: Compendium.pf2e.bestiary-effects.Item.SjrM6XVTLySToS12

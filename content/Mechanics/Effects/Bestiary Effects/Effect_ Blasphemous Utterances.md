@@ -1,5 +1,6 @@
 ---
 title: "Effect: Blasphemous Utterances"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Blasphemous Utterances"
 foundryId: Compendium.pf2e.bestiary-effects.Item.jrfuplUEq3PIo6j1

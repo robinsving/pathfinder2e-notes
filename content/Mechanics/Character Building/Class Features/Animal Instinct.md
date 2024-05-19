@@ -1,5 +1,6 @@
 ---
 title: "Animal Instinct"
+draft: true
 noteType: ":luggage:"
 aliases: "Animal Instinct"
 foundryId: Item.aMYRx90BD3UcbRV3

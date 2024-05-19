@@ -1,5 +1,6 @@
 ---
 title: "Death and Dying"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Death and Dying"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.uxdPLsxY8fNrenDR

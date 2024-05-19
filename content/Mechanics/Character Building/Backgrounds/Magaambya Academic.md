@@ -1,5 +1,6 @@
 ---
 title: "Magaambya Academic"
+draft: true
 noteType: ":luggage:"
 aliases: "Magaambya Academic"
 foundryId: Item.3okVhrxBqZ0BTbMD

@@ -1,5 +1,6 @@
 ---
 title: "Trickery Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Trickery Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.xJtbGqoz3BcCjUik

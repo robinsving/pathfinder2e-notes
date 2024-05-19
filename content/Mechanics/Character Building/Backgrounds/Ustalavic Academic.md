@@ -1,5 +1,6 @@
 ---
 title: "Ustalavic Academic"
+draft: true
 noteType: ":luggage:"
 aliases: "Ustalavic Academic"
 foundryId: Item.hTLE3Iwsaxm27BJ4

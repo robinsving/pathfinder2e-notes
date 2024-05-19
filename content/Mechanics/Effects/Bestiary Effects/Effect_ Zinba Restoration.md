@@ -1,5 +1,6 @@
 ---
 title: "Effect: Zinba Restoration"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Zinba Restoration"
 foundryId: Compendium.pf2e.bestiary-effects.Item.dslTaCkliOH5lZ6k

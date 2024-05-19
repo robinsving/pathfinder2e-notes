@@ -1,5 +1,6 @@
 ---
 title: "Psychic Weapon Specialization"
+draft: true
 noteType: ":luggage:"
 aliases: "Psychic Weapon Specialization"
 foundryId: Item.EBfZWQ5FbI9MN9LS

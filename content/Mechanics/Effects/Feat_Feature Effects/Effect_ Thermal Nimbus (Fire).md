@@ -1,5 +1,6 @@
 ---
 title: "Effect: Thermal Nimbus (Fire)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Thermal Nimbus (Fire)"
 foundryId: Compendium.pf2e.feat-effects.Item.IYeAJ0sB2zCgus1b

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Litany of Righteousness"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Litany of Righteousness"
 foundryId: Compendium.pf2e.spell-effects.Item.46vCC77mBNBWtmx3

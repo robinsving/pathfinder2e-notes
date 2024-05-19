@@ -1,5 +1,6 @@
 ---
 title: "Knight Reclaimant"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Knight Reclaimant"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.OcioDiLTdgzvT8VX

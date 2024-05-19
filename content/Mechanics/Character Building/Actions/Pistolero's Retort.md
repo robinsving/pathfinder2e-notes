@@ -1,5 +1,6 @@
 ---
 title: "Pistolero's Retort"
+draft: true
 noteType: ":luggage:"
 aliases: "Pistolero's Retort"
 foundryId: Item.ITXMRBkAHzjrFxvD

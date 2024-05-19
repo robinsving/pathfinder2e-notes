@@ -1,5 +1,6 @@
 ---
 title: "Effect: Ghosts in the Storm (Activation)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Ghosts in the Storm (Activation)"
 foundryId: Compendium.pf2e.feat-effects.Item.Sb3ZdFs61atILypS

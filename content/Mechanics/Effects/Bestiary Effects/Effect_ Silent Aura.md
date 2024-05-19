@@ -1,5 +1,6 @@
 ---
 title: "Effect: Silent Aura"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Silent Aura"
 foundryId: Compendium.pf2e.bestiary-effects.Item.YKCsmlMgI0aS7joO

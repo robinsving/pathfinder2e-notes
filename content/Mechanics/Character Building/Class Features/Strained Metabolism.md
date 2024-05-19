@@ -1,5 +1,6 @@
 ---
 title: "Strained Metabolism"
+draft: true
 noteType: ":luggage:"
 aliases: "Strained Metabolism"
 foundryId: Item.AJnXstznBOKJrA0q

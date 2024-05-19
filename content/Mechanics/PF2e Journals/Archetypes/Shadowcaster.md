@@ -1,5 +1,6 @@
 ---
 title: "Shadowcaster"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Shadowcaster"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.wHs6IGCMaXsgFNop

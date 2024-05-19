@@ -1,5 +1,6 @@
 ---
 title: "Shed Spirit"
+draft: true
 noteType: ":luggage:"
 aliases: "Shed Spirit"
 foundryId: Item.fUo1CO0031G6N1pg

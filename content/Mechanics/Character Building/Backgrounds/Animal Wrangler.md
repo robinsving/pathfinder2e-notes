@@ -1,5 +1,6 @@
 ---
 title: "Animal Wrangler"
+draft: true
 noteType: ":luggage:"
 aliases: "Animal Wrangler"
 foundryId: Item.6DzW0dHNDc6mrWrb

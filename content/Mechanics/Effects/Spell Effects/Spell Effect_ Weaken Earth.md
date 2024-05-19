@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Weaken Earth"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Weaken Earth"
 foundryId: Compendium.pf2e.spell-effects.Item.uD13zIE22foqmFgt

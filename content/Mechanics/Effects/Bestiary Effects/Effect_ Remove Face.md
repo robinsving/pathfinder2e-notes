@@ -1,5 +1,6 @@
 ---
 title: "Effect: Remove Face"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Remove Face"
 foundryId: Compendium.pf2e.bestiary-effects.Item.NLjzI7gt6djXSoXc

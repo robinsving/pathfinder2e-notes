@@ -1,5 +1,6 @@
 ---
 title: "Effect: Artificer's Command"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Artificer's Command"
 foundryId: Compendium.pf2e.bestiary-effects.Item.FjcvJWPFwkyy5vEk

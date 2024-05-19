@@ -1,5 +1,6 @@
 ---
 title: "Greater Field Discovery (Chirurgeon)"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Field Discovery (Chirurgeon)"
 foundryId: Item.cnKp7vp9hTblbOLO

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Keen insight"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Keen insight"
 foundryId: Compendium.pf2e.campaign-effects.Item.yJWWTfZkAF4raa4R

@@ -1,5 +1,6 @@
 ---
 title: "Assassin"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Assassin"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.0e2o62hyCxbIkVoC

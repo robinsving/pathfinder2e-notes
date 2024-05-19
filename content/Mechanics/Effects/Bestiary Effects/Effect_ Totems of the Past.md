@@ -1,5 +1,6 @@
 ---
 title: "Effect: Totems of the Past"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Totems of the Past"
 foundryId: Compendium.pf2e.bestiary-effects.Item.UuEUZU1fSUb23yOk

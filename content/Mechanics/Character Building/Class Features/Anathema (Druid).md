@@ -1,5 +1,6 @@
 ---
 title: "Anathema (Druid)"
+draft: true
 noteType: ":luggage:"
 aliases: "Anathema (Druid)"
 foundryId: Item.QkhjJTodT53yO9LN

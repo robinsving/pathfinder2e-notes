@@ -1,5 +1,6 @@
 ---
 title: "Inconspicuous Appearance"
+draft: true
 noteType: ":luggage:"
 aliases: "Inconspicuous Appearance"
 foundryId: Item.NxbStWLGok94hOY8

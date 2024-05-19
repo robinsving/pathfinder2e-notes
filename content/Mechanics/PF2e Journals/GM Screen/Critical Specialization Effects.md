@@ -1,5 +1,6 @@
 ---
 title: "Critical Specialization Effects"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Critical Specialization Effects"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.PVrMSF93KIejBTMm

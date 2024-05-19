@@ -1,5 +1,6 @@
 ---
 title: "Breath Weapon (Electricity) (Cone)"
+draft: true
 noteType: ":luggage:"
 aliases: "Breath Weapon (Electricity) (Cone)"
 foundryId: Item.8rcnbv1cdZkvI3GG

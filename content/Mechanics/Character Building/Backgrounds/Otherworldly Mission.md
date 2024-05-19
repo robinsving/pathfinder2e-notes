@@ -1,5 +1,6 @@
 ---
 title: "Otherworldly Mission"
+draft: true
 noteType: ":luggage:"
 aliases: "Otherworldly Mission"
 foundryId: Item.aM8v2eE8wWVsru0a

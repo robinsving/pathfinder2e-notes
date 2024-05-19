@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Insect Form (Mantis)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Insect Form (Mantis)"
 foundryId: Compendium.pf2e.spell-effects.Item.llrOM8rPP9nxIuEN

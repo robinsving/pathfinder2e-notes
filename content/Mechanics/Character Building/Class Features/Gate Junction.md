@@ -1,5 +1,6 @@
 ---
 title: "Gate Junction"
+draft: true
 noteType: ":luggage:"
 aliases: "Gate Junction"
 foundryId: Item.JQCS5WAEoBizIiN1

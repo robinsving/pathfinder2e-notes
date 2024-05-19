@@ -1,5 +1,6 @@
 ---
 title: "Stance: Bullet Dancer Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Bullet Dancer Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.6ctQFQfSZ6o1uyyZ

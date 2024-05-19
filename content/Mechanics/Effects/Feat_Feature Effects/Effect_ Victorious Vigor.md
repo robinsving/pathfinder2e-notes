@@ -1,5 +1,6 @@
 ---
 title: "Effect: Victorious Vigor"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Victorious Vigor"
 foundryId: Compendium.pf2e.feat-effects.Item.0pq3MPLH0C9z4tj3

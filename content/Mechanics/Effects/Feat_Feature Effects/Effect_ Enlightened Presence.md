@@ -1,5 +1,6 @@
 ---
 title: "Effect: Enlightened Presence"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Enlightened Presence"
 foundryId: Compendium.pf2e.feat-effects.Item.XM1AA8z5cHm8sJXM

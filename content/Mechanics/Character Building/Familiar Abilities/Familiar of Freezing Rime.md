@@ -1,5 +1,6 @@
 ---
 title: "Familiar of Freezing Rime"
+draft: true
 noteType: ":luggage:"
 aliases: "Familiar of Freezing Rime"
 foundryId: Item.2P48uZPGtAHq1gPh

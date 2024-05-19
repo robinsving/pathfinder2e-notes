@@ -1,5 +1,6 @@
 ---
 title: "Stalwart Defender"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Stalwart Defender"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.ukLpSqTkmRLvZj0z

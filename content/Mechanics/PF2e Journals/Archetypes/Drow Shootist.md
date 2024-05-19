@@ -1,5 +1,6 @@
 ---
 title: "Drow Shootist"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Drow Shootist"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.JzUDumJ3Dlyame4z

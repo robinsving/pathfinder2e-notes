@@ -1,5 +1,6 @@
 ---
 title: "The Silent Whisper"
+draft: true
 noteType: ":luggage:"
 aliases: "The Silent Whisper"
 foundryId: Item.8HnBC8s6CMJt2M1b

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Perfect Resistance"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Perfect Resistance"
 foundryId: Compendium.pf2e.feat-effects.Item.DyX4E7KDkzRnDxzc

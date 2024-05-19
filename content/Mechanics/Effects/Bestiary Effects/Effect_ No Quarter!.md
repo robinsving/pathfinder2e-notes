@@ -1,5 +1,6 @@
 ---
 title: "Effect: No Quarter!"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: No Quarter!"
 foundryId: Compendium.pf2e.bestiary-effects.Item.TjRZbd52qWPjTbNT

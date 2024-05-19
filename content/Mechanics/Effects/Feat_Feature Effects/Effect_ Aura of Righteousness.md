@@ -1,5 +1,6 @@
 ---
 title: "Effect: Aura of Righteousness"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Aura of Righteousness"
 foundryId: Compendium.pf2e.feat-effects.Item.L0hDj8vFk1IWh01L

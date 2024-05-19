@@ -1,5 +1,6 @@
 ---
 title: "Effect: Bully the Departed"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Bully the Departed"
 foundryId: Compendium.pf2e.bestiary-effects.Item.gHczZWA34WQx4px0

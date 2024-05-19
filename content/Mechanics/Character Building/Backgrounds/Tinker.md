@@ -1,5 +1,6 @@
 ---
 title: "Tinker"
+draft: true
 noteType: ":luggage:"
 aliases: "Tinker"
 foundryId: Item.xg64WMQNPaQdWnKM

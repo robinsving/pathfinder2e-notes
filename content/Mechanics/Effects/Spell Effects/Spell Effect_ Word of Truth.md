@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Word of Truth"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Word of Truth"
 foundryId: Compendium.pf2e.spell-effects.Item.Wsgum7pZrPtASRf6

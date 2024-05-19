@@ -1,5 +1,6 @@
 ---
 title: "Mystic Tutor"
+draft: true
 noteType: ":luggage:"
 aliases: "Mystic Tutor"
 foundryId: Item.bYq2h5QTk0R2zFuT

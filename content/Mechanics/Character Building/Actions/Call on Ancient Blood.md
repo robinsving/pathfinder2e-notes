@@ -1,5 +1,6 @@
 ---
 title: "Call on Ancient Blood"
+draft: true
 noteType: ":luggage:"
 aliases: "Call on Ancient Blood"
 foundryId: Item.xPzkYz1NQFeHgNaK

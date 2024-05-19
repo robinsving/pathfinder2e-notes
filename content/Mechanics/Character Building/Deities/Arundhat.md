@@ -1,5 +1,6 @@
 ---
 title: "Arundhat"
+draft: true
 noteType: ":luggage:"
 aliases: "Arundhat"
 foundryId: Item.1J6IuJFZnquK51hk

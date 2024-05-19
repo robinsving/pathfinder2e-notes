@@ -1,5 +1,6 @@
 ---
 title: Titanic Flytrap
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

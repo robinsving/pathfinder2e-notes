@@ -1,5 +1,6 @@
 ---
 title: "Lost and Alone"
+draft: true
 noteType: ":luggage:"
 aliases: "Lost and Alone"
 foundryId: Item.c2lkKzrUED5B3fG5

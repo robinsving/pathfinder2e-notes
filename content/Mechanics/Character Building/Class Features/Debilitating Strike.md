@@ -1,5 +1,6 @@
 ---
 title: "Debilitating Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Debilitating Strike"
 foundryId: Item.x5s91V8zP7cTcYfy

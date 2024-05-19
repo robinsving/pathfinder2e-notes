@@ -1,5 +1,6 @@
 ---
 title: "Decipher Writing"
+draft: true
 noteType: ":luggage:"
 aliases: "Decipher Writing"
 foundryId: Item.0CvdzmkIHy62Lgn4

@@ -1,5 +1,6 @@
 ---
 title: "Artist"
+draft: true
 noteType: ":luggage:"
 aliases: "Artist"
 foundryId: Item.mdHdA1UyXdMperxf

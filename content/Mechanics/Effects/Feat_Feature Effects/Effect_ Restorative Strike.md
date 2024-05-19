@@ -1,5 +1,6 @@
 ---
 title: "Effect: Restorative Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Restorative Strike"
 foundryId: Compendium.pf2e.feat-effects.Item.jYxWTG5J171XVa5r

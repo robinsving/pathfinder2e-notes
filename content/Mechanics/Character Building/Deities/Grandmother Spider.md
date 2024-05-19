@@ -1,5 +1,6 @@
 ---
 title: "Grandmother Spider"
+draft: true
 noteType: ":luggage:"
 aliases: "Grandmother Spider"
 foundryId: Item.aKieHwSAI7mSL7M4

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Supercharge Prosthetic Eyes"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Supercharge Prosthetic Eyes"
 foundryId: Compendium.pf2e.feat-effects.Item.qSKVcw6brzrvfhUM

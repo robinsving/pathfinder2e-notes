@@ -1,5 +1,6 @@
 ---
 title: "Effect: Wild Shape (Oaksteward)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Wild Shape (Oaksteward)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.lBpprC8VD4GRzTtg

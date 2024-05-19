@@ -1,5 +1,6 @@
 ---
 title: "Effect: Downcast"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Downcast"
 foundryId: Compendium.pf2e.bestiary-effects.Item.zjVBG6uDd4WKWeKU

@@ -1,5 +1,6 @@
 ---
 title: "Assume a Role"
+draft: true
 noteType: ":luggage:"
 aliases: "Assume a Role"
 foundryId: Item.LOLkkUoXZYJdzb0t

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Sticky Spores"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Sticky Spores"
 foundryId: Compendium.pf2e.bestiary-effects.Item.g4CRjb2zS1pkVDbk

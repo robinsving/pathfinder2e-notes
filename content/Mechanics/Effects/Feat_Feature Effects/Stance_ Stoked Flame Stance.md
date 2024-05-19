@@ -1,5 +1,6 @@
 ---
 title: "Stance: Stoked Flame Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Stoked Flame Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.rp1YauUSULuqW8rs

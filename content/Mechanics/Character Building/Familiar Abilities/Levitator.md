@@ -1,5 +1,6 @@
 ---
 title: "Levitator"
+draft: true
 noteType: ":luggage:"
 aliases: "Levitator"
 foundryId: Item.0Zwmjn5aP8Lo2Jvf

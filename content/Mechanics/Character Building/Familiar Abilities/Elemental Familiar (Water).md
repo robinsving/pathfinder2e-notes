@@ -1,5 +1,6 @@
 ---
 title: "Elemental Familiar (Water)"
+draft: true
 noteType: ":luggage:"
 aliases: "Elemental Familiar (Water)"
 foundryId: Item.DIUJ2X5wn7CHvga4

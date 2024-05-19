@@ -1,5 +1,6 @@
 ---
 title: "Class Features"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Class Features"
 foundryId: Compendium.pf2e.journals.JournalEntry.6L2eweJuM8W7OCf2.JournalEntryPage.GRjgmsZRxLYcK7Ko

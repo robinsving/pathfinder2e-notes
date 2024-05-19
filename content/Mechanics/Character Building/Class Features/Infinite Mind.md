@@ -1,5 +1,6 @@
 ---
 title: "Infinite Mind"
+draft: true
 noteType: ":luggage:"
 aliases: "Infinite Mind"
 foundryId: Item.C6jI6w79S32qBzOG

@@ -1,5 +1,6 @@
 ---
 title: "School of Mentalism"
+draft: true
 noteType: ":luggage:"
 aliases: "School of Mentalism"
 foundryId: Item.ySzbVEVB2jDr6po9

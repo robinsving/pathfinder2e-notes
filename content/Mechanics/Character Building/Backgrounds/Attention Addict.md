@@ -1,5 +1,6 @@
 ---
 title: "Attention Addict"
+draft: true
 noteType: ":luggage:"
 aliases: "Attention Addict"
 foundryId: Item.4MtC2BZqJEQVTDJp

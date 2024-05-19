@@ -1,5 +1,6 @@
 ---
 title: "Kinetic Durability"
+draft: true
 noteType: ":luggage:"
 aliases: "Kinetic Durability"
 foundryId: Item.YOQ6jRqQoQYTrRo0

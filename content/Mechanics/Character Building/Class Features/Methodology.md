@@ -1,5 +1,6 @@
 ---
 title: "Methodology"
+draft: true
 noteType: ":luggage:"
 aliases: "Methodology"
 foundryId: Item.OhECd3S4BY8OKSo5

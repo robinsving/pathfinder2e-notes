@@ -1,5 +1,6 @@
 ---
 title: "Effect: Curse of Boiling Blood"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Curse of Boiling Blood"
 foundryId: Compendium.pf2e.bestiary-effects.Item.CUgmb7g65vYNT2hn

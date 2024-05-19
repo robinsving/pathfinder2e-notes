@@ -1,5 +1,6 @@
 ---
 title: "Greater Natural Reflexes"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Natural Reflexes"
 foundryId: Item.duQnpxDZ5fDp39jo

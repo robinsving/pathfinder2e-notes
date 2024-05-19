@@ -1,5 +1,6 @@
 ---
 title: "Shei"
+draft: true
 noteType: ":luggage:"
 aliases: "Shei"
 foundryId: Item.TiyWGLnO0plRsAsE

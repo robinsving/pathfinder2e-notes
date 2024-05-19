@@ -1,5 +1,6 @@
 ---
 title: "Hero Points"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Hero Points"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.pEjd65isUfXKSB18

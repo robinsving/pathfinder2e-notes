@@ -1,5 +1,6 @@
 ---
 title: "Gunsmith"
+draft: true
 noteType: ":luggage:"
 aliases: "Gunsmith"
 foundryId: Item.e93llirhCLpPnisf

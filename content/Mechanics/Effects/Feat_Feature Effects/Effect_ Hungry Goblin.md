@@ -1,5 +1,6 @@
 ---
 title: "Effect: Hungry Goblin"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Hungry Goblin"
 foundryId: Compendium.pf2e.feat-effects.Item.4xtHFRGI05SNe9rA

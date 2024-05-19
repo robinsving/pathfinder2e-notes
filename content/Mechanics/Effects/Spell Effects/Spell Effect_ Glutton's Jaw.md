@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Glutton's Jaw"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Glutton's Jaw"
 foundryId: Compendium.pf2e.spell-effects.Item.mrSulUdNbwzGSwfu

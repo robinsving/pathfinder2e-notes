@@ -1,5 +1,6 @@
 ---
 title: "Effect: Inspiring Marshal Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Inspiring Marshal Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.kzEPq4aczYb6OD2h

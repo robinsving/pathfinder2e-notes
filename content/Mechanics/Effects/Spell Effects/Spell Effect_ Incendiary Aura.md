@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Incendiary Aura"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Incendiary Aura"
 foundryId: Compendium.pf2e.spell-effects.Item.pE2TWhG97XbhgAdH

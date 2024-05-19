@@ -1,5 +1,6 @@
 ---
 title: "Erecura"
+draft: true
 noteType: ":luggage:"
 aliases: "Erecura"
 foundryId: Item.KlvW7qcvZsyTA0tD

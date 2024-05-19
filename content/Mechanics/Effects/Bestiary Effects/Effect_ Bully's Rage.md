@@ -1,5 +1,6 @@
 ---
 title: "Effect: Bully's Rage"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Bully's Rage"
 foundryId: Compendium.pf2e.bestiary-effects.Item.a0nJK2mKHwWYzpdG

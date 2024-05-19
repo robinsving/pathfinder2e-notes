@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Envenom Companion"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Envenom Companion"
 foundryId: Compendium.pf2e.spell-effects.Item.zPGVOLz6xhsQN35C

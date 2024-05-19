@@ -1,5 +1,6 @@
 ---
 title: "Effect: Wyrmblessed Blood Magic (Status Bonus - Self)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Wyrmblessed Blood Magic (Status Bonus - Self)"
 foundryId: Compendium.pf2e.feat-effects.Item.fILVhS5NuCtGXfri

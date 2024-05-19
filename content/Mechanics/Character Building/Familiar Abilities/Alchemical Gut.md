@@ -1,5 +1,6 @@
 ---
 title: "Alchemical Gut"
+draft: true
 noteType: ":luggage:"
 aliases: "Alchemical Gut"
 foundryId: Item.7FO48KS560KpSczo

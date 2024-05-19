@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Thicket of Knives"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Thicket of Knives"
 foundryId: Compendium.pf2e.spell-effects.Item.8ecGfjmxnBY3WWao

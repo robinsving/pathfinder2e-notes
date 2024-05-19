@@ -1,5 +1,6 @@
 ---
 title: "Perpetual Perfection (Chirurgeon)"
+draft: true
 noteType: ":luggage:"
 aliases: "Perpetual Perfection (Chirurgeon)"
 foundryId: Item.6tsbvgJrcqznxPpb

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Courageous Anthem"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Courageous Anthem"
 foundryId: Compendium.pf2e.spell-effects.Item.beReeFroAx24hj83

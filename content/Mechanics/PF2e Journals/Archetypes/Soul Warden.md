@@ -1,5 +1,6 @@
 ---
 title: "Soul Warden"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Soul Warden"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.9g14DjBZNj27goTt

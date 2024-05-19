@@ -1,5 +1,6 @@
 ---
 title: "Greater Kinetic Durability"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Kinetic Durability"
 foundryId: Item.hyWpIR0ZBuDnm4kl

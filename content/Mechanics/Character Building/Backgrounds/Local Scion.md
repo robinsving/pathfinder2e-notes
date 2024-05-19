@@ -1,5 +1,6 @@
 ---
 title: "Local Scion"
+draft: true
 noteType: ":luggage:"
 aliases: "Local Scion"
 foundryId: Item.bByv96HGpqfP4iQi

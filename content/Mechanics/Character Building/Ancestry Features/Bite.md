@@ -1,5 +1,6 @@
 ---
 title: "Bite"
+draft: true
 noteType: ":luggage:"
 aliases: "Bite"
 foundryId: Item.bwUXBkPoQ0hsGVN2

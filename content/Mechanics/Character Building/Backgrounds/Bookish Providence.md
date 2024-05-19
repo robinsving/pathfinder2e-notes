@@ -1,5 +1,6 @@
 ---
 title: "Bookish Providence"
+draft: true
 noteType: ":luggage:"
 aliases: "Bookish Providence"
 foundryId: Item.zqlJtH6sIolbU8Of

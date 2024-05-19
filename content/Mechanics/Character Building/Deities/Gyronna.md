@@ -1,5 +1,6 @@
 ---
 title: "Gyronna"
+draft: true
 noteType: ":luggage:"
 aliases: "Gyronna"
 foundryId: Item.lqF94L90WjEAaypC

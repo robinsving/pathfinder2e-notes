@@ -1,5 +1,6 @@
 ---
 title: "Sponsored by a Stranger"
+draft: true
 noteType: ":luggage:"
 aliases: "Sponsored by a Stranger"
 foundryId: Item.WgGz4Qx7QVJbhVln

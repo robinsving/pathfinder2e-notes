@@ -1,5 +1,6 @@
 ---
 title: "Tail Toxin"
+draft: true
 noteType: ":luggage:"
 aliases: "Tail Toxin"
 foundryId: Item.tbeZwQzZpxS74eWU

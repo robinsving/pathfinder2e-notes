@@ -1,5 +1,6 @@
 ---
 title: "Effect: Little Ripple's Blessing"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Little Ripple's Blessing"
 foundryId: Compendium.pf2e.campaign-effects.Item.GBaN8XZrzFp7C7fL

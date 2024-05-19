@@ -1,5 +1,6 @@
 ---
 title: "Marishi"
+draft: true
 noteType: ":luggage:"
 aliases: "Marishi"
 foundryId: Item.OGSLW7Y5zdpBMyl0

@@ -1,5 +1,6 @@
 ---
 title: "Amulet"
+draft: true
 noteType: ":luggage:"
 aliases: "Amulet"
 foundryId: Item.94x0PAnl2iBGOnP8

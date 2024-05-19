@@ -1,5 +1,6 @@
 ---
 title: "Issian Partisan"
+draft: true
 noteType: ":luggage:"
 aliases: "Issian Partisan"
 foundryId: Item.O3glQ74Y0J158QuO

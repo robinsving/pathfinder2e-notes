@@ -1,5 +1,6 @@
 ---
 title: "Effect: Clue In (Expertise)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Clue In (Expertise)"
 foundryId: Compendium.pf2e.feat-effects.Item.uA1Ofqoyi0UiZIPk

@@ -1,5 +1,6 @@
 ---
 title: "Gray Gardener"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Gray Gardener"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.DAVBjDSysgXgtVQu

@@ -1,5 +1,6 @@
 ---
 title: "Atteran Rancher"
+draft: true
 noteType: ":luggage:"
 aliases: "Atteran Rancher"
 foundryId: Item.pOxaNsXWxV93enGM

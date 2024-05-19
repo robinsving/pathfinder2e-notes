@@ -1,5 +1,6 @@
 ---
 title: "Player Screen"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Player Screen"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.ygboVjCAFRpcysUb

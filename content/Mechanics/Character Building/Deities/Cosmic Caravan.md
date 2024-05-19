@@ -1,5 +1,6 @@
 ---
 title: "Cosmic Caravan"
+draft: true
 noteType: ":luggage:"
 aliases: "Cosmic Caravan"
 foundryId: Item.5nZxrNnQWIOLHPiN

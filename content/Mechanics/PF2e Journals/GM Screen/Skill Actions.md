@@ -1,5 +1,6 @@
 ---
 title: "Skill Actions"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Skill Actions"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.uWJfFysCcoU1o2Hs

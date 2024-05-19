@@ -1,5 +1,6 @@
 ---
 title: "Linguist"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Linguist"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.mtc5frNxUHORGscz

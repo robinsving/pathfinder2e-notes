@@ -1,5 +1,6 @@
 ---
 title: "Effect: Dirty Bomb (Critical Failure)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Dirty Bomb (Critical Failure)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.ryY6fdqpC5Ztnagd

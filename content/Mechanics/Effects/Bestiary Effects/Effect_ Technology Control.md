@@ -1,5 +1,6 @@
 ---
 title: "Effect: Technology Control"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Technology Control"
 foundryId: Compendium.pf2e.bestiary-effects.Item.2ccLQxmTlTPySnOR

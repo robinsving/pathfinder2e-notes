@@ -1,5 +1,6 @@
 ---
 title: "Effect: Fresh Produce"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Fresh Produce"
 foundryId: Compendium.pf2e.feat-effects.Item.2GWZgsvMJF9DN0DO

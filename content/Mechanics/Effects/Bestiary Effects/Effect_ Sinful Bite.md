@@ -1,5 +1,6 @@
 ---
 title: "Effect: Sinful Bite"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Sinful Bite"
 foundryId: Compendium.pf2e.bestiary-effects.Item.9Qyu0HN5j6DO8Izc

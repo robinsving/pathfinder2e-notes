@@ -1,5 +1,6 @@
 ---
 title: "Gambler"
+draft: true
 noteType: ":luggage:"
 aliases: "Gambler"
 foundryId: Item.8AUsL13ghdB6P5wO

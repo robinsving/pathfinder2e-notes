@@ -1,5 +1,6 @@
 ---
 title: "Nagaji"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Nagaji"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.TlTIwW61zK0dk95v

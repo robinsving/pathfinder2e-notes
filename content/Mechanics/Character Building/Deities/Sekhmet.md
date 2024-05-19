@@ -1,5 +1,6 @@
 ---
 title: "Sekhmet"
+draft: true
 noteType: ":luggage:"
 aliases: "Sekhmet"
 foundryId: Item.iLwqVkDF98hNRmAr

@@ -1,5 +1,6 @@
 ---
 title: "Witchlight Follower"
+draft: true
 noteType: ":luggage:"
 aliases: "Witchlight Follower"
 foundryId: Item.atm9N85fL7FfS8Gp

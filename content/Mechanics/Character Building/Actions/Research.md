@@ -1,5 +1,6 @@
 ---
 title: "Research"
+draft: true
 noteType: ":luggage:"
 aliases: "Research"
 foundryId: Item.76rZt1yqgkivPJtn

@@ -1,5 +1,6 @@
 ---
 title: "Spell Repertoire (Oracle)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Repertoire (Oracle)"
 foundryId: Item.Qp7OLxtpWByekwYT

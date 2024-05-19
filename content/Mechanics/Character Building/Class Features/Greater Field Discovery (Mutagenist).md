@@ -1,5 +1,6 @@
 ---
 title: "Greater Field Discovery (Mutagenist)"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Field Discovery (Mutagenist)"
 foundryId: Item.QfukMjxaLFTRXl4i

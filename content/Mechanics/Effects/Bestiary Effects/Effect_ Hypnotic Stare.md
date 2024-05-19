@@ -1,5 +1,6 @@
 ---
 title: "Effect: Hypnotic Stare"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Hypnotic Stare"
 foundryId: Compendium.pf2e.bestiary-effects.Item.qFDiWpzk8cuwQGyH

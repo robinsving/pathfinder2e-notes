@@ -1,5 +1,6 @@
 ---
 title: "Infinite Invention"
+draft: true
 noteType: ":luggage:"
 aliases: "Infinite Invention"
 foundryId: Item.CxIQtOsqdZlUPYmV

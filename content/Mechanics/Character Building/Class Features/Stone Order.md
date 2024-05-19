@@ -1,5 +1,6 @@
 ---
 title: "Stone Order"
+draft: true
 noteType: ":luggage:"
 aliases: "Stone Order"
 foundryId: Item.U9vWGeVKa5OqQnJP

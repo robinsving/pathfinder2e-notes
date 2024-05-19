@@ -1,5 +1,6 @@
 ---
 title: "Stamina"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Stamina"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.IliVJaEHaOklcg86

@@ -1,5 +1,6 @@
 ---
 title: "Scholar of the Sky Key"
+draft: true
 noteType: ":luggage:"
 aliases: "Scholar of the Sky Key"
 foundryId: Item.KSHEHexnITfgWwJA

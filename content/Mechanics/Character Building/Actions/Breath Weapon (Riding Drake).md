@@ -1,5 +1,6 @@
 ---
 title: "Breath Weapon (Riding Drake)"
+draft: true
 noteType: ":luggage:"
 aliases: "Breath Weapon (Riding Drake)"
 foundryId: Item.UVVDO0pJhCKHKFqP

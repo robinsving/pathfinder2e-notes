@@ -1,5 +1,6 @@
 ---
 title: "Occult Librarian"
+draft: true
 noteType: ":luggage:"
 aliases: "Occult Librarian"
 foundryId: Item.i3D95lzuL1dAyqVV

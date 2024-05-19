@@ -1,5 +1,6 @@
 ---
 title: "Deceptive Sidestep"
+draft: true
 noteType: ":luggage:"
 aliases: "Deceptive Sidestep"
 foundryId: Item.qIR4GNCbW5lGAwk8

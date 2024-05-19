@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Monstrosity Form (Sea Serpent)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Monstrosity Form (Sea Serpent)"
 foundryId: Compendium.pf2e.spell-effects.Item.Eik8Fj8nGo2GLcbn

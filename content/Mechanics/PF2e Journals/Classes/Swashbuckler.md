@@ -1,5 +1,6 @@
 ---
 title: "Swashbuckler"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Swashbuckler"
 foundryId: Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.rsDTKu4HUuKft7fk

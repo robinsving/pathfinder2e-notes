@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Tangle Vine"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Tangle Vine"
 foundryId: Compendium.pf2e.spell-effects.Item.TwtUIEyenrtAbeiX

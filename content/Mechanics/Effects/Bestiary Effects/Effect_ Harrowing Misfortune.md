@@ -1,5 +1,6 @@
 ---
 title: "Effect: Harrowing Misfortune"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Harrowing Misfortune"
 foundryId: Compendium.pf2e.bestiary-effects.Item.7PYhxmQxCD5kzMlw

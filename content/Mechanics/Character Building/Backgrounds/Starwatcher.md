@@ -1,5 +1,6 @@
 ---
 title: "Starwatcher"
+draft: true
 noteType: ":luggage:"
 aliases: "Starwatcher"
 foundryId: Item.XwOnqIWaADtgzJGu

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Replenishment of War (Endlo)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Replenishment of War (Endlo)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.XE2YhBMl7wc6nQAZ

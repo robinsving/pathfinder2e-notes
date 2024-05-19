@@ -1,5 +1,6 @@
 ---
 title: "Circuit Judge"
+draft: true
 noteType: ":luggage:"
 aliases: "Circuit Judge"
 foundryId: Item.TQ5tqYvfSMOauUeM

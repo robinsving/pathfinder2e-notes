@@ -1,5 +1,6 @@
 ---
 title: "Effect: Breach the Abyss - Fire"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Breach the Abyss - Fire"
 foundryId: Compendium.pf2e.bestiary-effects.Item.HGP0c0tOK2WnC4p5

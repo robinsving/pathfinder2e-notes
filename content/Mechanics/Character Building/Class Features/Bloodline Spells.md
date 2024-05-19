@@ -1,5 +1,6 @@
 ---
 title: "Bloodline Spells"
+draft: true
 noteType: ":luggage:"
 aliases: "Bloodline Spells"
 foundryId: Item.Ij2tyr9wXxxfEO03

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Fiery Body"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Fiery Body"
 foundryId: Compendium.pf2e.spell-effects.Item.uIMaMzd6pcKmMNPJ

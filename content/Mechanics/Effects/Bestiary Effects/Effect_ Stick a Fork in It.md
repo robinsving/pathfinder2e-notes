@@ -1,5 +1,6 @@
 ---
 title: "Effect: Stick a Fork in It"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Stick a Fork in It"
 foundryId: Compendium.pf2e.bestiary-effects.Item.K3r1lfbtCTf3dFhV

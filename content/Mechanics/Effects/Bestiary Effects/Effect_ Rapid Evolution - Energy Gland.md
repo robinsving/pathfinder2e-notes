@@ -1,5 +1,6 @@
 ---
 title: "Effect: Rapid Evolution - Energy Gland"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Rapid Evolution - Energy Gland"
 foundryId: Compendium.pf2e.bestiary-effects.Item.RBfd5qwFkuKxNb57

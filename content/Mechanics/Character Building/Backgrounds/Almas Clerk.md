@@ -1,5 +1,6 @@
 ---
 title: "Almas Clerk"
+draft: true
 noteType: ":luggage:"
 aliases: "Almas Clerk"
 foundryId: Item.Kpu6eUqLQUKOVEhd

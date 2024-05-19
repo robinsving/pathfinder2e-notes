@@ -1,5 +1,6 @@
 ---
 title: "Order of the Chain"
+draft: true
 noteType: ":luggage:"
 aliases: "Order of the Chain"
 foundryId: Item.P0MbKKH6MHQrGUQx

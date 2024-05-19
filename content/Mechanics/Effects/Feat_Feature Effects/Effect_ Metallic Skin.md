@@ -1,5 +1,6 @@
 ---
 title: "Effect: Metallic Skin"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Metallic Skin"
 foundryId: Compendium.pf2e.feat-effects.Item.YIShkE3JCEuwCAxl

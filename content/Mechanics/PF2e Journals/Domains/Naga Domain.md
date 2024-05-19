@@ -1,5 +1,6 @@
 ---
 title: "Naga Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Naga Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.QzsUe3Rt3SifTQvb

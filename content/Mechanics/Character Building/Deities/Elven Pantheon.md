@@ -1,5 +1,6 @@
 ---
 title: "Elven Pantheon"
+draft: true
 noteType: ":luggage:"
 aliases: "Elven Pantheon"
 foundryId: Item.0LprsTWmNV4egHdx

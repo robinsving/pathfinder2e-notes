@@ -1,5 +1,6 @@
 ---
 title: "Effect: Splintered Ground (Critical Failure)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Splintered Ground (Critical Failure)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.hc7kR6quUE9ryRyj

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Fanatical Frenzy"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Fanatical Frenzy"
 foundryId: Compendium.pf2e.bestiary-effects.Item.3Wtzyb0ZgkaC7vHY

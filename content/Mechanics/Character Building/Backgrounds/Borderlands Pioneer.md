@@ -1,5 +1,6 @@
 ---
 title: "Borderlands Pioneer"
+draft: true
 noteType: ":luggage:"
 aliases: "Borderlands Pioneer"
 foundryId: Item.9TCSpChhEpTbGkum

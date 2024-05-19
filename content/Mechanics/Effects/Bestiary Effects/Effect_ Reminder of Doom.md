@@ -1,5 +1,6 @@
 ---
 title: "Effect: Reminder of Doom"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Reminder of Doom"
 foundryId: Compendium.pf2e.bestiary-effects.Item.IrXb05caCTkP792e

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Fleet Step"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Fleet Step"
 foundryId: Compendium.pf2e.spell-effects.Item.ThFug45WHkQQXcoF

@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Enlarge (Heightened 4th)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Enlarge (Heightened 4th)"
 foundryId: Compendium.pf2e.spell-effects.Item.41WThj17MZBXTO2X

@@ -1,5 +1,6 @@
 ---
 title: "Glowing Horn"
+draft: true
 noteType: ":luggage:"
 aliases: "Glowing Horn"
 foundryId: Item.QKNxsiDoo1CgOZoN

@@ -1,5 +1,6 @@
 ---
 title: "Plant Whisperer"
+draft: true
 noteType: ":luggage:"
 aliases: "Plant Whisperer"
 foundryId: Item.sheFIE3mfDs2Ze5a

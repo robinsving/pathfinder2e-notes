@@ -1,5 +1,6 @@
 ---
 title: "Order of the Scourge"
+draft: true
 noteType: ":luggage:"
 aliases: "Order of the Scourge"
 foundryId: Item.EpCe5uanzd58zEvO

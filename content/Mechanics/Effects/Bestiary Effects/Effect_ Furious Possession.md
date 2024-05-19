@@ -1,5 +1,6 @@
 ---
 title: "Effect: Furious Possession"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Furious Possession"
 foundryId: Compendium.pf2e.bestiary-effects.Item.KpRRcLsAiIhJFE03

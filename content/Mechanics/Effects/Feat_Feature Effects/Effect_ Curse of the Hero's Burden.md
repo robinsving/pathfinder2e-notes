@@ -1,5 +1,6 @@
 ---
 title: "Effect: Curse of the Hero's Burden"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Curse of the Hero's Burden"
 foundryId: Compendium.pf2e.feat-effects.Item.pQ3EjUm1lZW9t3el

@@ -1,5 +1,6 @@
 ---
 title: "Lissala"
+draft: true
 noteType: ":luggage:"
 aliases: "Lissala"
 foundryId: Item.E60F4O9IZK33ispQ

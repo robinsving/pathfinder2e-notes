@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Death Ward"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Death Ward"
 foundryId: Compendium.pf2e.spell-effects.Item.s6CwkSsMDGfUmotn

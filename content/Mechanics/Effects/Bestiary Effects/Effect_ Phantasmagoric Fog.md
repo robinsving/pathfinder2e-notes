@@ -1,5 +1,6 @@
 ---
 title: "Effect: Phantasmagoric Fog"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Phantasmagoric Fog"
 foundryId: Compendium.pf2e.bestiary-effects.Item.zGWc4q0rXW9eMoYT

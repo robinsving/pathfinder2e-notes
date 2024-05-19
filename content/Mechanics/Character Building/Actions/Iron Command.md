@@ -1,5 +1,6 @@
 ---
 title: "Iron Command"
+draft: true
 noteType: ":luggage:"
 aliases: "Iron Command"
 foundryId: Item.86NT1P2U1BaAzCRr

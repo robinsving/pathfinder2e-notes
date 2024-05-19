@@ -1,5 +1,6 @@
 ---
 title: "Effect: Arctic Endemic Herb"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Arctic Endemic Herb"
 foundryId: Compendium.pf2e.feat-effects.Item.2RwhJ9fbJtcQjW6s

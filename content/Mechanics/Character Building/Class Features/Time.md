@@ -1,5 +1,6 @@
 ---
 title: "Time"
+draft: true
 noteType: ":luggage:"
 aliases: "Time"
 foundryId: Item.E2aQbTimVzcNfBT6

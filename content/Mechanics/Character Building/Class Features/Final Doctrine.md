@@ -1,5 +1,6 @@
 ---
 title: "Final Doctrine"
+draft: true
 noteType: ":luggage:"
 aliases: "Final Doctrine"
 foundryId: Item.vEXOfgaTlF7uvbXu

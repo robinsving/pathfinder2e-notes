@@ -1,5 +1,6 @@
 ---
 title: "Perpetual Potency (Mutagenist)"
+draft: true
 noteType: ":luggage:"
 aliases: "Perpetual Potency (Mutagenist)"
 foundryId: Item.22gbI5sqNkhJfvCG

@@ -1,5 +1,6 @@
 ---
 title: "Bloodline: Wyrmblessed"
+draft: true
 noteType: ":luggage:"
 aliases: "Bloodline: Wyrmblessed"
 foundryId: Item.J8GFSV4uS99XxPkv

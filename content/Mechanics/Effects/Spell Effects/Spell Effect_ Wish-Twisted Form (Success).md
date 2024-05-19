@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Wish-Twisted Form (Success)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Wish-Twisted Form (Success)"
 foundryId: Compendium.pf2e.spell-effects.Item.qzZmVjtc9feqoQwA

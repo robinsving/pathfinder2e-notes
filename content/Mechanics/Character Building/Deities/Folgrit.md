@@ -1,5 +1,6 @@
 ---
 title: "Folgrit"
+draft: true
 noteType: ":luggage:"
 aliases: "Folgrit"
 foundryId: Item.0jiLnBlkoSH8lQsf

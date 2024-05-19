@@ -1,5 +1,6 @@
 ---
 title: "Effect: Rapid Evolution - Husk"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Rapid Evolution - Husk"
 foundryId: Compendium.pf2e.bestiary-effects.Item.iuy6AA6sQZUZkN9X

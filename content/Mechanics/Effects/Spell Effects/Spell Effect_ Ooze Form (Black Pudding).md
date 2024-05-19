@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Ooze Form (Black Pudding)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Ooze Form (Black Pudding)"
 foundryId: Compendium.pf2e.spell-effects.Item.EKdqKCuyWSkpXpyJ

@@ -1,5 +1,6 @@
 ---
 title: "Cover Tracks"
+draft: true
 noteType: ":luggage:"
 aliases: "Cover Tracks"
 foundryId: Item.29sPvfY09C6TC4V3

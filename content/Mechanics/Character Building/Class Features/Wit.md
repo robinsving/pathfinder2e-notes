@@ -1,5 +1,6 @@
 ---
 title: "Wit"
+draft: true
 noteType: ":luggage:"
 aliases: "Wit"
 foundryId: Item.ouRiZFxRTQXxEH0G

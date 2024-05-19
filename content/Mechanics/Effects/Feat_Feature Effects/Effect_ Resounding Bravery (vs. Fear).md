@@ -1,5 +1,6 @@
 ---
 title: "Effect: Resounding Bravery (vs. Fear)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Resounding Bravery (vs. Fear)"
 foundryId: Compendium.pf2e.feat-effects.Item.Cumdy84uIkUHG9zF

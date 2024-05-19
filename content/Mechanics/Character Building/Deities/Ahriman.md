@@ -1,5 +1,6 @@
 ---
 title: "Ahriman"
+draft: true
 noteType: ":luggage:"
 aliases: "Ahriman"
 foundryId: Item.gcfYyKxBFxAtHOPl

@@ -1,5 +1,6 @@
 ---
 title: "Drink Blood"
+draft: true
 noteType: ":luggage:"
 aliases: "Drink Blood"
 foundryId: Item.yDbZeX0PESAVuZgR

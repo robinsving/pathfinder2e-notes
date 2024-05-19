@@ -1,5 +1,6 @@
 ---
 title: "Effect: Snake Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Snake Form"
 foundryId: Compendium.pf2e.bestiary-effects.Item.YIXeQFdrt0vPvmsW

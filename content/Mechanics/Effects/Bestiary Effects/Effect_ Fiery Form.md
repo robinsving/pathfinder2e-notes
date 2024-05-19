@@ -1,5 +1,6 @@
 ---
 title: "Effect: Fiery Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Fiery Form"
 foundryId: Compendium.pf2e.bestiary-effects.Item.H99PJXU5cvJ4Oycm

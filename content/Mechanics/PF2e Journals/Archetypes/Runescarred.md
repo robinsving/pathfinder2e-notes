@@ -1,5 +1,6 @@
 ---
 title: "Runescarred"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Runescarred"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.j5uZbCwoHOOEO1bC

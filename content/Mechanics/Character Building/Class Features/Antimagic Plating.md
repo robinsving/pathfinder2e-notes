@@ -1,5 +1,6 @@
 ---
 title: "Antimagic Plating"
+draft: true
 noteType: ":luggage:"
 aliases: "Antimagic Plating"
 foundryId: Item.EHocmQgMNidzPrE9

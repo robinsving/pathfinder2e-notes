@@ -1,5 +1,6 @@
 ---
 title: "Darkvision"
+draft: true
 noteType: ":luggage:"
 aliases: "Darkvision"
 foundryId: Item.YH5s4zY34W5rhkD1

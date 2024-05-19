@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Fungal Infestation (Critical Failure)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Fungal Infestation (Critical Failure)"
 foundryId: Compendium.pf2e.spell-effects.Item.RLUhIyqH84Dle4vo

@@ -1,5 +1,6 @@
 ---
 title: "Inspiring Relationships"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Inspiring Relationships"
 foundryId: Compendium.pf2e.journals.JournalEntry.xtrW5GEtPPuXR6k2.JournalEntryPage.3H168yyaP6ze75kp

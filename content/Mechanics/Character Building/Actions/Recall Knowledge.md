@@ -1,5 +1,6 @@
 ---
 title: "Recall Knowledge"
+draft: true
 noteType: ":luggage:"
 aliases: "Recall Knowledge"
 foundryId: Item.lEcTGyB9uZ2o5bWM

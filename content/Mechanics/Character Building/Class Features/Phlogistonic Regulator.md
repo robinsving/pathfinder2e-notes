@@ -1,5 +1,6 @@
 ---
 title: "Phlogistonic Regulator"
+draft: true
 noteType: ":luggage:"
 aliases: "Phlogistonic Regulator"
 foundryId: Item.RD0MffeykjWbHN0z

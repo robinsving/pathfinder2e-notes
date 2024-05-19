@@ -1,5 +1,6 @@
 ---
 title: "Effect: Demonic Blood Magic (Self)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Demonic Blood Magic (Self)"
 foundryId: Compendium.pf2e.feat-effects.Item.aKRo5TIhUtu0kyEr

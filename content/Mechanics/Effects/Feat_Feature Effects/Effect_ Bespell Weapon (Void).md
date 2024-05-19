@@ -1,5 +1,6 @@
 ---
 title: "Effect: Bespell Weapon (Void)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Bespell Weapon (Void)"
 foundryId: Compendium.pf2e.feat-effects.Item.G1IRkppxJCYdfqXo

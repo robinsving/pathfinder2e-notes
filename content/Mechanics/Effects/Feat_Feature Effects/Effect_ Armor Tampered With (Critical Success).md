@@ -1,5 +1,6 @@
 ---
 title: "Effect: Armor Tampered With (Critical Success)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Armor Tampered With (Critical Success)"
 foundryId: Compendium.pf2e.feat-effects.Item.rzcpTJU9MvW1x1gz

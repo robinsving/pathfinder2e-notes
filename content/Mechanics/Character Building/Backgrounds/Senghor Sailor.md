@@ -1,5 +1,6 @@
 ---
 title: "Senghor Sailor"
+draft: true
 noteType: ":luggage:"
 aliases: "Senghor Sailor"
 foundryId: Item.O7u9LkjJCEzgggg9

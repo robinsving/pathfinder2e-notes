@@ -1,5 +1,6 @@
 ---
 title: "Consume Flesh"
+draft: true
 noteType: ":luggage:"
 aliases: "Consume Flesh"
 foundryId: Item.Z2p6rA1kf0A4edFn

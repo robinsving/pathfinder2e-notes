@@ -1,5 +1,6 @@
 ---
 title: "Collect Spirit Remnant"
+draft: true
 noteType: ":luggage:"
 aliases: "Collect Spirit Remnant"
 foundryId: Item.iMKHK0hR7N3b9uVZ

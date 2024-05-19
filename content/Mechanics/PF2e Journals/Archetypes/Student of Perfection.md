@@ -1,5 +1,6 @@
 ---
 title: "Student of Perfection"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Student of Perfection"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.EwlYs1OzaMj9BB5I

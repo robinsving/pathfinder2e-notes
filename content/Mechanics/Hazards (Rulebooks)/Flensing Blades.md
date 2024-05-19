@@ -1,5 +1,6 @@
 ---
 title: Flensing Blades
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

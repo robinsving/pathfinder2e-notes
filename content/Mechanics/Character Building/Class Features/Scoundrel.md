@@ -1,5 +1,6 @@
 ---
 title: "Scoundrel"
+draft: true
 noteType: ":luggage:"
 aliases: "Scoundrel"
 foundryId: Item.52yObjdnQNLF1qf2

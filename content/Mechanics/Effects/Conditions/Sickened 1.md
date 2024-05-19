@@ -1,5 +1,6 @@
 ---
 title: "Sickened 1"
+draft: true
 noteType: ":luggage:"
 aliases: "Sickened 1"
 foundryId: Item.O0TeI3YqmW0FiJIF

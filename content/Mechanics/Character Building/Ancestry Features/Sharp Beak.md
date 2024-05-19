@@ -1,5 +1,6 @@
 ---
 title: "Sharp Beak"
+draft: true
 noteType: ":luggage:"
 aliases: "Sharp Beak"
 foundryId: Item.OkhjfDOAArTpgTeL

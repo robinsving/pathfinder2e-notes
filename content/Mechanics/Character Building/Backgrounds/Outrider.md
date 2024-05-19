@@ -1,5 +1,6 @@
 ---
 title: "Outrider"
+draft: true
 noteType: ":luggage:"
 aliases: "Outrider"
 foundryId: Item.ns0B4v7Qjiokpu38

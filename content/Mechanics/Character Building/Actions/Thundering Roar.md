@@ -1,5 +1,6 @@
 ---
 title: "Thundering Roar"
+draft: true
 noteType: ":luggage:"
 aliases: "Thundering Roar"
 foundryId: Item.6OU0OTXcFCCB8DsG

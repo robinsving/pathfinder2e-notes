@@ -1,5 +1,6 @@
 ---
 title: "Effect: Barbed Net"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Barbed Net"
 foundryId: Compendium.pf2e.bestiary-effects.Item.HafP5vrdGdoqoFMo

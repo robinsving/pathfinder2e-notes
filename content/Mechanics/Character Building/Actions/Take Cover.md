@@ -1,5 +1,6 @@
 ---
 title: "Take Cover"
+draft: true
 noteType: ":luggage:"
 aliases: "Take Cover"
 foundryId: Item.z8wYS6cYeqDsWJlh

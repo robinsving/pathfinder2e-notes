@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Elemental Form (Fire)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Elemental Form (Fire)"
 foundryId: Compendium.pf2e.spell-effects.Item.phIoucsDa3iplMm2

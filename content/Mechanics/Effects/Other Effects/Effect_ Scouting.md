@@ -1,5 +1,6 @@
 ---
 title: "Effect: Scouting"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Scouting"
 foundryId: Compendium.pf2e.other-effects.Item.EMqGwUi3VMhCjTlF

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Monster Warden"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Monster Warden"
 foundryId: Compendium.pf2e.feat-effects.Item.nlaxROgSSLVHZ1hx

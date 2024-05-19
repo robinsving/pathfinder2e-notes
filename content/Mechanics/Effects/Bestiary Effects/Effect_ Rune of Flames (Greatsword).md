@@ -1,5 +1,6 @@
 ---
 title: "Effect: Rune of Flames (Greatsword)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Rune of Flames (Greatsword)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.zBQM4rzLfkLzpET6

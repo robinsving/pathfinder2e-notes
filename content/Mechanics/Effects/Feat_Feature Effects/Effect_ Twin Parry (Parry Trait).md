@@ -1,5 +1,6 @@
 ---
 title: "Effect: Twin Parry (Parry Trait)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Twin Parry (Parry Trait)"
 foundryId: Compendium.pf2e.feat-effects.Item.EDpjey6SCdvIYqEc

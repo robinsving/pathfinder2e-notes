@@ -1,5 +1,6 @@
 ---
 title: "Stance: Tenacious Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Tenacious Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.Ms6WPXRWfXb2KpG2

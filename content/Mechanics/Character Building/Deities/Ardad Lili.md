@@ -1,5 +1,6 @@
 ---
 title: "Ardad Lili"
+draft: true
 noteType: ":luggage:"
 aliases: "Ardad Lili"
 foundryId: Item.qlHKZbkJl4388CcV

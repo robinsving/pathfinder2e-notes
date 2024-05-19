@@ -1,5 +1,6 @@
 ---
 title: "Effect: Bloom Regeneration"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Bloom Regeneration"
 foundryId: Compendium.pf2e.bestiary-effects.Item.BKZS6xpUndRSnxK1

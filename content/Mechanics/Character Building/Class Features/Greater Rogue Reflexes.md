@@ -1,5 +1,6 @@
 ---
 title: "Greater Rogue Reflexes"
+draft: true
 noteType: ":luggage:"
 aliases: "Greater Rogue Reflexes"
 foundryId: Item.mCM1woWMVzoiAbmu

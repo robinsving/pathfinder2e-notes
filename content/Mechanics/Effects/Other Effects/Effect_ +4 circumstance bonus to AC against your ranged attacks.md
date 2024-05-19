@@ -1,5 +1,6 @@
 ---
 title: "Effect: +4 circumstance bonus to AC against your ranged attacks"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: +4 circumstance bonus to AC against your ranged attacks"
 foundryId: Compendium.pf2e.other-effects.Item.pbKvPM4cnmGTkDiZ

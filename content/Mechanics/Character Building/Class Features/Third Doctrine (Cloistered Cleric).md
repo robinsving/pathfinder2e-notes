@@ -1,5 +1,6 @@
 ---
 title: "Third Doctrine (Cloistered Cleric)"
+draft: true
 noteType: ":luggage:"
 aliases: "Third Doctrine (Cloistered Cleric)"
 foundryId: Item.kxNKOsdvs1P3EJpP

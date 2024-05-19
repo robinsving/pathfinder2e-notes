@@ -1,5 +1,6 @@
 ---
 title: "Quick Refugee"
+draft: true
 noteType: ":luggage:"
 aliases: "Quick Refugee"
 foundryId: Item.Jw2kxWwFgFQflg1o

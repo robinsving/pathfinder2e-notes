@@ -1,5 +1,6 @@
 ---
 title: "Effect: Hurtful Critique"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Hurtful Critique"
 foundryId: Compendium.pf2e.bestiary-effects.Item.HKyMZobjOsd6WFuo

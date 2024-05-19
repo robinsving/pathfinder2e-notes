@@ -1,5 +1,6 @@
 ---
 title: "Camouflage Pigmentation"
+draft: true
 noteType: ":luggage:"
 aliases: "Camouflage Pigmentation"
 foundryId: Item.wXbFKGAtodUEvw7K

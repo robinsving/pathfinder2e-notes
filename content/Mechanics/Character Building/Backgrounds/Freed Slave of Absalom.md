@@ -1,5 +1,6 @@
 ---
 title: "Freed Slave of Absalom"
+draft: true
 noteType: ":luggage:"
 aliases: "Freed Slave of Absalom"
 foundryId: Item.wWsoiYWvEPX0w7FV

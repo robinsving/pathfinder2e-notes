@@ -1,5 +1,6 @@
 ---
 title: "Dreamer of the Verdant Moon"
+draft: true
 noteType: ":luggage:"
 aliases: "Dreamer of the Verdant Moon"
 foundryId: Item.vr8wdTL6Z1zu3m6X

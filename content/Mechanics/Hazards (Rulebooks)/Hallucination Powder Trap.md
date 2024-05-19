@@ -1,5 +1,6 @@
 ---
 title: Hallucination Powder Trap
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

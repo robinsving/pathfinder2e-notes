@@ -1,5 +1,6 @@
 ---
 title: "Vishkanya"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Vishkanya"
 foundryId: Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.1lCAkGgIYYkczZ28

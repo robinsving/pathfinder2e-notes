@@ -1,5 +1,6 @@
 ---
 title: "Captivator"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Captivator"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.b7oePIMEMdFFS5TH

@@ -1,5 +1,6 @@
 ---
 title: "Psi Cantrips and Amps"
+draft: true
 noteType: ":luggage:"
 aliases: "Psi Cantrips and Amps"
 foundryId: Item.0d8Gar3MJgrfDPjx

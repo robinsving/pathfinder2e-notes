@@ -1,5 +1,6 @@
 ---
 title: "Ruin Delver"
+draft: true
 noteType: ":luggage:"
 aliases: "Ruin Delver"
 foundryId: Item.NmoK244KpS5T5X8b

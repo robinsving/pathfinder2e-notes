@@ -1,5 +1,6 @@
 ---
 title: "Trailblazer"
+draft: true
 noteType: ":luggage:"
 aliases: "Trailblazer"
 foundryId: Item.m1RuPIBtkPW1e5Ec

@@ -1,5 +1,6 @@
 ---
 title: "Wards of the Pharaoh"
+draft: true
 noteType: ":luggage:"
 aliases: "Wards of the Pharaoh"
 foundryId: Item.oZu60kt69aHJ9226

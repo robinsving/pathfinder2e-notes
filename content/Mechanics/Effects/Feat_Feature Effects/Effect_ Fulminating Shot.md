@@ -1,5 +1,6 @@
 ---
 title: "Effect: Fulminating Shot"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Fulminating Shot"
 foundryId: Compendium.pf2e.feat-effects.Item.UE0yky6aW0WCF0Qg

@@ -1,5 +1,6 @@
 ---
 title: "Trapsmith"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Trapsmith"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.lc3iBCamQ8jvr9dp

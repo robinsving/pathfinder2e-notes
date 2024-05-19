@@ -1,5 +1,6 @@
 ---
 title: "Fortress of Will"
+draft: true
 noteType: ":luggage:"
 aliases: "Fortress of Will"
 foundryId: Item.5II7D39YCRVG0DaD

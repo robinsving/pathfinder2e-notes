@@ -1,5 +1,6 @@
 ---
 title: "Gravelady's Guard"
+draft: true
 noteType: ":luggage:"
 aliases: "Gravelady's Guard"
 foundryId: Item.gh39dTzVTme1p9Ca

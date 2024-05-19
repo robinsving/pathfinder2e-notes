@@ -1,5 +1,6 @@
 ---
 title: "Fightbreaker"
+draft: true
 noteType: ":luggage:"
 aliases: "Fightbreaker"
 foundryId: Item.eItANuuRY36aWQb1

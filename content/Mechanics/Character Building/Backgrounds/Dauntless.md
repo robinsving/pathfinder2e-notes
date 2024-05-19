@@ -1,5 +1,6 @@
 ---
 title: "Dauntless"
+draft: true
 noteType: ":luggage:"
 aliases: "Dauntless"
 foundryId: Item.AG42lOdBVM0XySJJ

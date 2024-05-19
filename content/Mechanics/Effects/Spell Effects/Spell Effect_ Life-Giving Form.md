@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Life-Giving Form"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Life-Giving Form"
 foundryId: Compendium.pf2e.spell-effects.Item.lIl0yYdS9zojOZhe

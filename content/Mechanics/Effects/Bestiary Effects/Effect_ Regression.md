@@ -1,5 +1,6 @@
 ---
 title: "Effect: Regression"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Regression"
 foundryId: Compendium.pf2e.bestiary-effects.Item.Rn1aE4uvq30iiH0Y

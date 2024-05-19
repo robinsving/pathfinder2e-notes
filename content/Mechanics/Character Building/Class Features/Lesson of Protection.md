@@ -1,5 +1,6 @@
 ---
 title: "Lesson of Protection"
+draft: true
 noteType: ":luggage:"
 aliases: "Lesson of Protection"
 foundryId: Item.m9AiHFs56WhT2Sev

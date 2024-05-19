@@ -1,5 +1,6 @@
 ---
 title: "Invisible"
+draft: true
 noteType: ":luggage:"
 aliases: "Invisible"
 foundryId: Item.2OP7m8vsI3lMi8Se

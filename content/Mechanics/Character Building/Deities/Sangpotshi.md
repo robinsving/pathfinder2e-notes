@@ -1,5 +1,6 @@
 ---
 title: "Sangpotshi"
+draft: true
 noteType: ":luggage:"
 aliases: "Sangpotshi"
 foundryId: Item.t1VHqg4zTqdfoln9

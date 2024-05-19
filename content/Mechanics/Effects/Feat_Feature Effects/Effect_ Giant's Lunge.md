@@ -1,5 +1,6 @@
 ---
 title: "Effect: Giant's Lunge"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Giant's Lunge"
 foundryId: Compendium.pf2e.feat-effects.Item.N2CSGvtPXloOEPrK

@@ -1,5 +1,6 @@
 ---
 title: "Shoanti Name-Bearer"
+draft: true
 noteType: ":luggage:"
 aliases: "Shoanti Name-Bearer"
 foundryId: Item.dUpYf2rqfKUFlxyO

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Caustic Mucus"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Caustic Mucus"
 foundryId: Compendium.pf2e.bestiary-effects.Item.TbmkcfpKIs558skY

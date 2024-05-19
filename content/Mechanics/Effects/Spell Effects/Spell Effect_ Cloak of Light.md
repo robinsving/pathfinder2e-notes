@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Cloak of Light"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Cloak of Light"
 foundryId: Compendium.pf2e.spell-effects.Item.eRRiss7y7TsneiEu

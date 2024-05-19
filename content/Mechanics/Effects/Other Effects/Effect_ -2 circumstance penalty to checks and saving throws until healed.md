@@ -1,5 +1,6 @@
 ---
 title: "Effect: -2 circumstance penalty to checks and saving throws until healed"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: -2 circumstance penalty to checks and saving throws until healed"
 foundryId: Compendium.pf2e.other-effects.Item.c6cwOc4Zri6QiqsR

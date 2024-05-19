@@ -1,5 +1,6 @@
 ---
 title: "Effect: Aquatic Combat"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Aquatic Combat"
 foundryId: Compendium.pf2e.other-effects.Item.TPbr1kErAAJKBi3V

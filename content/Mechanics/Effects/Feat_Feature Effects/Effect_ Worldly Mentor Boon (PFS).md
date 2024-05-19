@@ -1,5 +1,6 @@
 ---
 title: "Effect: Worldly Mentor Boon (PFS)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Worldly Mentor Boon (PFS)"
 foundryId: Compendium.pf2e.feat-effects.Item.oKJr59FYdDORxLcR

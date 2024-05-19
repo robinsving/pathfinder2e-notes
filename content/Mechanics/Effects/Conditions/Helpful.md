@@ -1,5 +1,6 @@
 ---
 title: "Helpful"
+draft: true
 noteType: ":luggage:"
 aliases: "Helpful"
 foundryId: Item.S5AC40pVkWuHwANj

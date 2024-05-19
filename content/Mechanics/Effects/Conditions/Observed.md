@@ -1,5 +1,6 @@
 ---
 title: "Observed"
+draft: true
 noteType: ":luggage:"
 aliases: "Observed"
 foundryId: Item.vd97jb6czpakfX0j

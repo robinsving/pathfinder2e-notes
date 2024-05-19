@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Lucky Number"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Lucky Number"
 foundryId: Compendium.pf2e.spell-effects.Item.fvIlSZPwojixVvyZ

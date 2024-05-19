@@ -1,5 +1,6 @@
 ---
 title: "Stance: Mountain Stance"
+draft: true
 noteType: ":luggage:"
 aliases: "Stance: Mountain Stance"
 foundryId: Compendium.pf2e.feat-effects.Item.gYpy9XBPScIlY93p

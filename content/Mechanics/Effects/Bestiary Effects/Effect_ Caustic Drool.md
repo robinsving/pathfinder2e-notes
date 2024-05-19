@@ -1,5 +1,6 @@
 ---
 title: "Effect: Caustic Drool"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Caustic Drool"
 foundryId: Compendium.pf2e.bestiary-effects.Item.5M3RGpOuxizPM5Iy

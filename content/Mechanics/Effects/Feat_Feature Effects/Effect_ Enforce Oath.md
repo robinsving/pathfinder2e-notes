@@ -1,5 +1,6 @@
 ---
 title: "Effect: Enforce Oath"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Enforce Oath"
 foundryId: Compendium.pf2e.feat-effects.Item.LF8xzzFsFJKxejqv

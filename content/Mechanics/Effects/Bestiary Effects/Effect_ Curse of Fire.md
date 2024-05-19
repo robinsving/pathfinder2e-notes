@@ -1,5 +1,6 @@
 ---
 title: "Effect: Curse of Fire"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Curse of Fire"
 foundryId: Compendium.pf2e.bestiary-effects.Item.VFIVdYmS3XTdd3hj

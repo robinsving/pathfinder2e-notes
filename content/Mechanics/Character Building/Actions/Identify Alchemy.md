@@ -1,5 +1,6 @@
 ---
 title: "Identify Alchemy"
+draft: true
 noteType: ":luggage:"
 aliases: "Identify Alchemy"
 foundryId: Item.zyi5zieBMQE2OFj3

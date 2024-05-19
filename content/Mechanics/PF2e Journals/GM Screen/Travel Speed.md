@@ -1,5 +1,6 @@
 ---
 title: "Travel Speed"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Travel Speed"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.YVLMgNxXTUQuDJgp

@@ -1,5 +1,6 @@
 ---
 title: "Grizzled Muckrucker"
+draft: true
 noteType: ":luggage:"
 aliases: "Grizzled Muckrucker"
 foundryId: Item.0Dbly5pKQg8f1sQn

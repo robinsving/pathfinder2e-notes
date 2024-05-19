@@ -1,5 +1,6 @@
 ---
 title: "Selfish Shield"
+draft: true
 noteType: ":luggage:"
 aliases: "Selfish Shield"
 foundryId: Item.0I2iw9pbHLqAJawa

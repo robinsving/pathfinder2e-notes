@@ -1,5 +1,6 @@
 ---
 title: "Effect: Commander's Aura"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Commander's Aura"
 foundryId: Compendium.pf2e.bestiary-effects.Item.5NSWRxAsJuvwyl0E

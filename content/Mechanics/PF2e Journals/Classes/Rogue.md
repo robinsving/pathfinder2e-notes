@@ -1,5 +1,6 @@
 ---
 title: "Rogue"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Rogue"
 foundryId: Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.u4qPrDRBagxG9wj8

@@ -1,5 +1,6 @@
 ---
 title: "Arazni"
+draft: true
 noteType: ":luggage:"
 aliases: "Arazni"
 foundryId: Item.1uncmMS50sIw7JRD

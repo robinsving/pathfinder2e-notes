@@ -1,5 +1,6 @@
 ---
 title: "Findeladlara"
+draft: true
 noteType: ":luggage:"
 aliases: "Findeladlara"
 foundryId: Item.QxruIPwDEYnVsY2d

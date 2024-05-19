@@ -1,5 +1,6 @@
 ---
 title: Hidden Pit
+draft: true
 noteType: "hazard"
 aliases:
 foundryId: Actor.

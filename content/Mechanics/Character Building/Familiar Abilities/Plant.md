@@ -1,5 +1,6 @@
 ---
 title: "Plant"
+draft: true
 noteType: ":luggage:"
 aliases: "Plant"
 foundryId: Item.ctIUbmtfeeJ1p89y

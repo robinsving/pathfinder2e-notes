@@ -1,5 +1,6 @@
 ---
 title: "Strategic Strike"
+draft: true
 noteType: ":luggage:"
 aliases: "Strategic Strike"
 foundryId: Item.yomYuOQOhizpNrqE

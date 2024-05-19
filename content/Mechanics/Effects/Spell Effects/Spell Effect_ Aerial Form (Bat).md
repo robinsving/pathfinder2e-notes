@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Aerial Form (Bat)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Aerial Form (Bat)"
 foundryId: Compendium.pf2e.spell-effects.Item.jvwKRHtOiPAm4uAP

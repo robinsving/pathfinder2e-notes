@@ -1,5 +1,6 @@
 ---
 title: "Spell Effect: Element Embodied (Air)"
+draft: true
 noteType: ":luggage:"
 aliases: "Spell Effect: Element Embodied (Air)"
 foundryId: Compendium.pf2e.spell-effects.Item.J60rN48XzBGHmR6m

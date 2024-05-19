@@ -1,5 +1,6 @@
 ---
 title: "Lysianassa"
+draft: true
 noteType: ":luggage:"
 aliases: "Lysianassa"
 foundryId: Item.jbhMbULg8nJIszDj

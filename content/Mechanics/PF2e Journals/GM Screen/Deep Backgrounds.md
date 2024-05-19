@@ -1,5 +1,6 @@
 ---
 title: "Deep Backgrounds"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Deep Backgrounds"
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.kAMseeY0TewNmnLQ

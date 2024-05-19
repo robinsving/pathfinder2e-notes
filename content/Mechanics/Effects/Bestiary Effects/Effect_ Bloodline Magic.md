@@ -1,5 +1,6 @@
 ---
 title: "Effect: Bloodline Magic"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Bloodline Magic"
 foundryId: Compendium.pf2e.bestiary-effects.Item.tvybMInVm415jA3p

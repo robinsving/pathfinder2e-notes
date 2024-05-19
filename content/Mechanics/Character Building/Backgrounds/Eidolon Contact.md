@@ -1,5 +1,6 @@
 ---
 title: "Eidolon Contact"
+draft: true
 noteType: ":luggage:"
 aliases: "Eidolon Contact"
 foundryId: Item.vFopejHKcvJtNejL

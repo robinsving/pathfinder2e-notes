@@ -1,5 +1,6 @@
 ---
 title: "Angradd"
+draft: true
 noteType: ":luggage:"
 aliases: "Angradd"
 foundryId: Item.DzGDz3YnHOkWCuOz

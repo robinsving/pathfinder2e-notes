@@ -1,5 +1,6 @@
 ---
 title: "Aspiring Free-Captain"
+draft: true
 noteType: ":luggage:"
 aliases: "Aspiring Free-Captain"
 foundryId: Item.fhn2cstipMKp96XG

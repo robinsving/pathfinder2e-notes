@@ -1,5 +1,6 @@
 ---
 title: "Time Mage"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Time Mage"
 foundryId: Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.ydELQFQq0lGLTvrA

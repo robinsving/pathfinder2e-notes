@@ -1,5 +1,6 @@
 ---
 title: "Wealth Domain"
+draft: true
 noteType: ":sticky-note:"
 aliases: "Wealth Domain"
 foundryId: Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.mJBp4KIszuqrmnp5

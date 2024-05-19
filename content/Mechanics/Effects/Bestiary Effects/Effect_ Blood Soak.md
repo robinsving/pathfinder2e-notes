@@ -1,5 +1,6 @@
 ---
 title: "Effect: Blood Soak"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Blood Soak"
 foundryId: Compendium.pf2e.bestiary-effects.Item.wPIGBcpCqCWgrCiq

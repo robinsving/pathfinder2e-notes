@@ -1,5 +1,6 @@
 ---
 title: "Boarding Assault"
+draft: true
 noteType: ":luggage:"
 aliases: "Boarding Assault"
 foundryId: Item.pFkj76vE0OsOiKBV

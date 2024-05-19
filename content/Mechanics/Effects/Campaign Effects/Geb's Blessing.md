@@ -1,5 +1,6 @@
 ---
 title: "Geb's Blessing"
+draft: true
 noteType: ":luggage:"
 aliases: "Geb's Blessing"
 foundryId: Compendium.pf2e.campaign-effects.Item.SvR7Ez1lfnN4You5

@@ -1,5 +1,6 @@
 ---
 title: "Effect: Manipulate Luck (Good)"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Manipulate Luck (Good)"
 foundryId: Compendium.pf2e.bestiary-effects.Item.2DlOfFoYLGSlfugH

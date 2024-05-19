@@ -1,5 +1,6 @@
 ---
 title: "Adanye"
+draft: true
 noteType: ":luggage:"
 aliases: "Adanye"
 foundryId: Item.0PMgVnfTvW2AeHf6

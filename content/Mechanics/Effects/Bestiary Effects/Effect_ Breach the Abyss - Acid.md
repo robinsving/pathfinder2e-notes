@@ -1,5 +1,6 @@
 ---
 title: "Effect: Breach the Abyss - Acid"
+draft: true
 noteType: ":luggage:"
 aliases: "Effect: Breach the Abyss - Acid"
 foundryId: Compendium.pf2e.bestiary-effects.Item.v1oNhc9xa8nWxmFQ

@@ -1,5 +1,6 @@
 ---
 title: "Rampaging Ferocity"
+draft: true
 noteType: ":luggage:"
 aliases: "Rampaging Ferocity"
 foundryId: Item.PKGfuQ0lsLzCjWRT
