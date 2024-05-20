@@ -4,6 +4,7 @@ RIP (Soulforge)
 Gud som låtsas vara Cleric. "Död"
 [[Mephistopheles]]
 Monk
+
 # DeZalin, Charin
 Female Demon
 Occult Magiker
@@ -13,6 +14,7 @@ Mäktigast av Cheliax magiker
 - Hög Will
 - AC >= 42
 - Kan göra [[Mechanics/Spells_Rituals/Rituals/Level 5/Resurrect|Resurrect]]
+
 # Emalisar Sandivar
 (Sann-divar)
 Male, human Arcane Magiker

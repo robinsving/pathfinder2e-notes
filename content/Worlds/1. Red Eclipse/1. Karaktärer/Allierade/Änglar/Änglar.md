@@ -1,9 +1,13 @@
+
+Änglarna är Androider skapade av [[Marcos del Ray]]. De jagar de som har "tagit" deras blod.
+Förmodligen är det de som tog [[Familj|Zaina]] Wontan.
+
+Sunlord Talashos är en av Desnas 3 ärkeänglar
+
+
+
 %% Begin Waypoint %%
 - [[Nightspear]]
 - [[Statyer]]
-- [[Worlds/1. Red Eclipse/1. Karaktärer/Allierade/Änglar/Valheru]]
 
 %% End Waypoint %%
-- [[Nightspear]]
-- [[Statyer]]
-- [[WorldS/1. Red Eclipse/1. Karaktärer/Allies/Änglar/Valheru]]

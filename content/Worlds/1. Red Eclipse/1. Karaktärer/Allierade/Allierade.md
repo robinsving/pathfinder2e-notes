@@ -14,8 +14,8 @@
 - [[Renata]]
 - [[Sons of Marcos]]
 - [[Sybil]]
-- **[Valheru](Worlds/1.%20Red%20Eclipse/1.%20Karaktärer/Allierade/Valheru/Valheru.md)**
+- **[[Valheru]]**
 - [[Zelphar]]
-- **[Änglar](Änglar.md)**
+- **[[Änglar]]**
 
 %% End Waypoint %%

@@ -1,5 +1,5 @@
 # Ursprung
-För länge sedan var [[WorldS/1. Red Eclipse/1. Karaktärer/Allies/Valheru/Valheru|Valheru]] den enda rasen på Golarion.
+För länge sedan var [[Valheru]] den enda rasen på Golarion - ett av de [[12 riken]] som finns.
 De hade 50 miljoner individer, och var mycket långlivade.
 
 # Första demoninvasionen
@@ -17,7 +17,7 @@ Efter 1000 år så visade Sonya och Desna upp sig sin styrka. Desna syster genom
 Efter att [[Marcos del Ray]](?) lyckades skapa Shardplates för att matcha Shardblades.
 Kunde stänga portalerna genom att nyttja kraften från en av (11) månarna - Primus.
 När vi kunde skicka in spioner till andra realms fick vi veta mer om Demonerna:
-I första riket hade de en Soul Smith som kunde återuppliva demoner. Om man inte använde Shardblades, eller Dragon Fire.
+I första riket hade de en Soul Smith som kunde återuppliva demoner. Om man inte använde [[Shardblade]], eller Dragon Fire.
 
 ## Aroden och Marcos
 Aroden var Valheru, och ritade upp hur man kunde använda månen Primus som kunde drivas som en sköld för energi.
@@ -26,6 +26,7 @@ De äldre bestämde sig för att gå på Arodens plan, och Marcos hjälpte till 
 Skölden tog en portal och nyttjade den för att skapa en vägg mellan rikena.
 
 Det fungerade bra i början, men efter ett tag (**hur**?) så gick demonerna till anfall mot skölden. [[Marcos del Ray]] behövde dra mer kraft från månen, men med ökande styrkor från demonerna så splittrades månen och började falla ned mot marken.
+- [ ] Hur fick demonerna reda på var Marcos sköld befann sig? Kan det finnas en förrädare bland Valheru? Leshy?
 Båda sidor insåg att en (tillfällig) vapenvila var enda sättet att låta Golarion överleva nedfallet.
 
 ## Pakten
@@ -61,6 +62,5 @@ Det var förkrossande, men de äldre vägrade acceptera att det var Demonerna, m
 En dag hittade jag en krigare i krig, som var hårt besatt ([[Grimm]]) vars sinne var gott och familjärt. Hans själ huserade även ett fragment av Desnas själ.
 Det gav Sonya en idé, att om Desna återfötts, så kan hon också. Återfödd som en människa så skulle hon kunna kringgå pakten och återaktivera den gömda portalen som går mot första riket.
 Återfödd i Golarion, fäst vid Grimm. Med den delen och bevarad kropp så kan vi återskapa henne med hjälp av Soul Forge.
-
 
 I ett valv i Soul Forge så har [[Asmodeus]] en del av varje mäktig demons själ. Krossar man en sådan så dör demonen.

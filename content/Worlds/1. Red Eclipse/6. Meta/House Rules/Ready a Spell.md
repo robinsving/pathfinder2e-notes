@@ -1,1 +1,1 @@
-Om man gör [[Mechanics/Rules/Actions/Ready|Ready]] under två rundor i rad så kan man kasta en 2-action spell istället för bara en single action
+Om man gör [[Mechanics/Rules/Actions/Ready|Ready]] under två rundor i rad så kan man kasta en 2-action spell istället för bara en single action (*⬻{ .Pathfinder }*). Väldigt dödligt, och från och med nu så kommer ingen att vilja gå runt hörn.

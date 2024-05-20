@@ -14,6 +14,7 @@ The nation's landscape consists of dense forests, rolling hills, and the foothil
 Despite its struggles, Isger remains a resilient nation, striving for stability and prosperity in the face of adversity.
 
 %% Begin Waypoint %%
+- [[Alex grotta]]
 - [[Alyssas Ring]]
 - [[Breachill]]
 - [[Hellknight Hills]]

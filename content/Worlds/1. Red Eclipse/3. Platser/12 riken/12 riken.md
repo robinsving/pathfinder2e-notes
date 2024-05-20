@@ -10,36 +10,36 @@ Det finns "Tolv riken av helvetet". I verkligheten är världar som är anslutna
 Rikena börjar med nollte riket. Bristen på liv.
 # 1. Hades
 Demonernas hemvärld. Asmodeus styr Helvetet. Där finns även en Soul Forge som kan återuppstå demoner som stupar i krig.
-*[[Asmodeus]]*
+>*[[Asmodeus]]*
 # 2. Styx
 Tieflings hemvärld. Tieflings är ej samma sak som halvblod, vilket verkar vara någon med mekanisk skapelse.
-*[[Mephistopheles]]*
+>*[[Mephistopheles]]*
 # 3. Ares
 Goblins hemvärld.
 Leds av [[Belial]] - ärkedemon.
 Ares är inte tredje klotet från solen, till skillnad från alla andra världar.
-*[[Baalzebul]]*
+>*[[Baalzebul]]*
 # 4. Avani
 Kitsunes hemvärld.
 *[[Moloch]]*
 # 5. Afra
 Kobolds hemvärld. Kobolds är ej samma som drakar, eller ens besläktade.
-*[[Geryon]]*
+>*[[Geryon]]*
 # 6. Gaea
 Orcernas hemvärld.
-*[[Belial]]*
+>*[[Belial]]*
 # 7. Pacha
 Gnomernas hemvärld.
 Leds av [[Mammon]].
 # 8. Terra
 Dvärgarnas hemvärld.
 Leds av [[Geryon]]
-*[[Dispater]]*
+>*[[Dispater]]*
 # 9. Tellus
 Människor hemvärld.
 Leds av [[Dispater]].
 800 år sedan människornas motstånd föll.
-*[[Barbatos]]*
+>*[[Barbatos]]*
 # 10. Golarion
 Valherus hemvärld.
 # 11. "Det elfte riket"
