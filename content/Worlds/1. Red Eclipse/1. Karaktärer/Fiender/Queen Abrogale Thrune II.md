@@ -1,9 +1,14 @@
-# History
-The Queen is the Ruler of the [[Cheliax]] empire, of which [[Isger]] is a vassal state. Known to be a daemon worshiper and rumored to be a descendant of [[Asmodeus]], archdemon of Hell.
+# Historik
+Drottning Thrune är [[Cheliax]] härskarinna, och styr därför över [[Isger]], hennes vassal. Känd demon-dyrkare.
+> [!note]
+> Rumored to be a descendant of [[Asmodeus]], archdemon of Hell.
 
-The queen is not fully Human, but a Tiefling.
+Drottningen är inte människa, utan en Tiefling
 
-# Allies
-- [[Mages of Cheliax]]
+# Allierade
+- [[Emalysra]]
+- [[Dysalin]]
+- [[Abbott Tuition]]
 - [[Hellknights]]
 - [[Elite Knights]]
+- [[Worlds/1. Red Eclipse/1. Karaktärer/Fiender/Antipaladin|Antipaladin]]

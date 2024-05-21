@@ -1,5 +1,5 @@
-Två dagar kvar!
-Kom och bevittna SKs eskapader!
+>Två dagar kvar!
+>Kom och bevittna SKs eskapader!
 
 ## Är CC Svarta korpen?
 | Argument för | Argument emot |

@@ -3,6 +3,7 @@ aliases:
   - Grimm
 character: pc
 owner: Robin
+status:
 ---
 
 %% Begin Waypoint %%

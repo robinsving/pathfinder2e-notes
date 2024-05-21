@@ -1,6 +1,7 @@
 ---
 tags:
   - quest
+  - completed
 ---
 Om det skulle bli ett krig med Cheliax så är det bra med allierade
 

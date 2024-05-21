@@ -6,8 +6,7 @@
 	- [[Linteria, the Succubus]]
 - [[Elite Knights]]
 - [[Hybrid]]
-- [[Mages of Cheliax]]
-- [[Queen Abrogale Thrune II]]
+- [[Queen Abrogale Thrune II]] et al.
 - [[Renviq Harduun, the Litch - RIP]]
 - [[Svarta Korpen -  former Knight]]
 - [[Vilree]]

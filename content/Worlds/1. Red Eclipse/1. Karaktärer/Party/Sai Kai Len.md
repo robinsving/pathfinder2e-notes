@@ -5,7 +5,7 @@ aliases:
   - Sai
   - Kai
   - Leonardo
-character: pc
+character: npc
 owner: Robin
 ---
 [[Psychic]] [[Eldritch Archer|Eldritch Archer]].

@@ -1,4 +1,4 @@
-För att efterlikna Lenin i beteende som en fantasykaraktär, som har en stark vilja att förändra strukturer och omvandla samhället, kan hen överväga följande handlingar:
+För att efterlikna Lenin, som har en stark vilja att förändra strukturer och omvandla samhället, kan hen överväga följande handlingar:
 
 1. **Agitera och Organisera:**
     - Hen kan aktivt agitera för förändring bland odödliga själar, organisera möten och sammanträden för att bygga en enad front mot dödsgudens överhöghet.
