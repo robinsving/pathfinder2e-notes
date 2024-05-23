@@ -1,0 +1,22 @@
+{
+  "accentColor": "#c92626",
+  "theme": "moonstone",
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "Theme - All Alternate Themes",
+    "Pathfinder2E-TTRPG-Statblock",
+    "PF2e-Actions-Font",
+    "S - Encoded Fonts",
+    "S - Checkboxes",
+    "S - Dataview Cards",
+    "S - Embed Adjustments",
+    "S - Encoded Icons",
+    "folder-notes-folder-color",
+    "S - Images Adjustments",
+    "S - External Link Icons",
+    "S - Folder Styles Rewritten",
+    "S - Callouts"
+  ],
+  "nativeMenus": true
+}

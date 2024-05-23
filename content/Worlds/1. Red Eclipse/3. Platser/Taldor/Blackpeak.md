@@ -1,0 +1,1 @@
+Vulkan belagd i [World's Edge Mountains](https://pathfinderwiki.com/wiki/World%27s_Edge_Mountains "World's Edge Mountains") i [[Taldor]].

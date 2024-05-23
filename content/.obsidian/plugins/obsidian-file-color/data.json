@@ -1,0 +1,44 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "v1cC1org9YGlpD7tjdFcf",
+      "name": "NPCs",
+      "value": "#ffa8a8"
+    },
+    {
+      "id": "q0xgTMSDgHDEmu4c8QboJ",
+      "name": "PCs",
+      "value": "#9e1593"
+    },
+    {
+      "id": "gswWoigK9rHjqlGnSvQmo",
+      "name": "Locations",
+      "value": "#31b493"
+    },
+    {
+      "id": "hfHsew7KUGo2mWfc7XP1n",
+      "name": "Red Eclipse",
+      "value": "#db0000"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Worlds/1. Red Eclipse/3. Platser",
+      "color": "gswWoigK9rHjqlGnSvQmo"
+    },
+    {
+      "path": "Worlds/1. Red Eclipse/1. Karaktärer/Party",
+      "color": "q0xgTMSDgHDEmu4c8QboJ"
+    },
+    {
+      "path": "PC",
+      "color": "q0xgTMSDgHDEmu4c8QboJ"
+    },
+    {
+      "path": "Worlds/1. Red Eclipse",
+      "color": "hfHsew7KUGo2mWfc7XP1n"
+    }
+  ]
+}

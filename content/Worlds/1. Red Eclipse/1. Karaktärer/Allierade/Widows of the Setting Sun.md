@@ -6,6 +6,6 @@ Flög i en storm och höll på att gå under. Vanja togs över och "teleporterad
 
 Transporterade Magnus från en ___ utbrytarstyrka till litchen.
 
-Transport av [[The Tetraeder Visions]]  till [[Cheliax]] adel.
+Transport av [[Tetraeder Hunt]]  till [[Cheliax]] adel.
 - Plockades upp på en båt i Arkadiska havet till Egorian 
 - Båten som lämnade av den brann upp.

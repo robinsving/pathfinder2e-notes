@@ -1,0 +1,82 @@
+/*@settings
+name: Folder Styles
+id: folder-styles
+settings:
+    - 
+        id: info-text-SlRvb-folder-styles
+        type: info-text
+        title: Folder Styles by SlRvb
+        description: "[Folder Styles How-To Guide](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Folder+Styles)"
+        markdown: true
+    - 
+        title: Folder Styles
+        id: file-explorer-flat
+        type: class-toggle
+        default: true
+*/
+
+/*Example: This is the code to color each root folder
+.nav-folder-title[data-path="50 Nebula"],
+.nav-folder-title[data-path="50 Nebula"] + .nav-folder-children {
+	--folder-icon: "\f23c";
+	--folder-font: var(--rmx);
+	--folder-vertical-align: -2px;
+	
+	--folder: #cd82eb;    
+	--accent-color: 115, 69, 128;
+}
+*/
+
+/* Open folders, root + non-root - content */
+.file-explorer-flat .mod-root .nav-folder-children > .nav-folder:not(.is-collapsed) > .nav-folder-title > .nav-folder-title-content {
+  text-align: left;
+  --folder-icon: "\f181";
+  --folder-font: var(--rmx);
+  --folder-open: rgb(var(--accent-color));
+  padding-top: 0px;
+  padding-bottom: 0px;
+  letter-spacing: 0.15em;
+  border-left: 2px solid #ddadf0;
+}
+
+/* All root - title */
+.file-explorer-flat .nav-folder.mod-root > .nav-folder-children > .nav-folder > .nav-folder-title:not(:hover), .file-explorer-flat .nav-folder.mod-root > .nav-folder-children > .nav-folder:not(.is-collapsed) > .nav-folder-title:not(:hover) {
+  color: var(--file-color-color);
+}
+
+/* Open root - title */
+.file-explorer-flat .nav-folder.mod-root > .nav-folder-children > .nav-folder:not(.is-collapsed) > .nav-folder-title {
+  background-color: none;  
+  border-bottom: 2px solid var(--explorer-root-border-color);
+}
+
+/* Open root - content */
+.file-explorer-flat .nav-folder.mod-root > .nav-folder-children > .nav-folder:not(.is-collapsed) > .nav-folder-title > .nav-folder-title-content {
+  border-left: none;
+}
+
+/* Collapsed folders, root + non-root */
+.file-explorer-flat .nav-folder.mod-root * > .nav-folder.is-collapsed {
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  border-bottom: 2px solid var(--explorer-root-border-color);
+  --folder-icon: "\f180";
+	--folder-font: var(--rmx);
+	--folder-vertical-align: -2px;
+	--folder: #cd82eb;
+}
+
+/* All file titles have invisible borders, which we can remove for compactness */
+.file-explorer-flat .nav-folder.mod-root > .nav-folder-children .nav-folder > .nav-folder-title, .nav-folder.mod-root > .nav-folder-children .nav-file > .nav-file-title {
+  border: none;
+}
+
+/* Compress */
+.nav-folder-title .nav-folder-title-content::before {
+    vertical-align: var(--folder-vertical-align);
+}
+
+/* Remove extra border */
+.file-explorer-flat .nav-folder.mod-root > .nav-folder-children > .nav-folder > .nav-folder-children {
+  border-width: var(--explorer-root-folder-indentation-width);
+}

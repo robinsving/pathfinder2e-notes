@@ -4,7 +4,7 @@ tags:
   - quest
 ---
 [[Rädda Fanny]] 
-Rädda [[Ilju Pirla]] och [[Glak]].
+Rädda [[Ilju]] och [[Glak]].
 
 ~Rädda [[Nightspear]]~ . Han är kvar i Midnight Temple. Blir korrumperad just nu.
 Hur räddade vi [[Morrigna]]?

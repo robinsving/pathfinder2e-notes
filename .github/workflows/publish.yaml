@@ -19,6 +19,8 @@ jobs:
         with:
           source: content
           page_title: "The Crimson World"
+          quartz_config: quartz.config.ts
+          quartz_layout: quartz.layout.ts
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
   deploy:

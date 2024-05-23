@@ -51,7 +51,7 @@ Rikena avslutar med tolfte riket. Överflöd på liv.
 ## Resor
 Man kan resa mellan riken, men bara ett hopp i taget.
 Man kan även, efter mycket tid, byta hemrike.
-[[Marcos del Ray]] skapade en portal som kunde ta en från Golarion till Hades. Den får sin energi genom 6 nycklar, [[The Tetraeder Visions]].
+[[Marcos del Ray]] skapade en portal som kunde ta en från Golarion till Hades. Den får sin energi genom 6 nycklar, [[Tetraeder Hunt]].
 ## Själar
 Allas själar, deras blueprints, lämnar hemriket när man dör och återföds i ett nytt rike, antingen ovanför eller nedanför sitt hemrike.
 
