@@ -1,6 +1,5 @@
 ---
 name: Healing Plaster
-draft: true
 alias: Healing Plaster
 tags:
   - pf2e/spell

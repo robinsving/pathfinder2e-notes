@@ -1,6 +1,5 @@
 ---
 name: Gouging Claw
-draft: true
 alias: Gouging Claw
 tags:
   - pf2e/spell

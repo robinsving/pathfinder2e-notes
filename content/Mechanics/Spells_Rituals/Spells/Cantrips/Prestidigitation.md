@@ -1,6 +1,5 @@
 ---
 name: Prestidigitation
-draft: true
 alias: Prestidigitation
 tags:
   - pf2e/spell

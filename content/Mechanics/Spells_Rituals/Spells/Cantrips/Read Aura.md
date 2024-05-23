@@ -1,6 +1,5 @@
 ---
 name: Read Aura
-draft: true
 alias: Read Aura
 tags:
   - pf2e/spell

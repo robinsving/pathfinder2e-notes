@@ -1,6 +1,5 @@
 ---
 name: Shield
-draft: true
 alias: Shield
 tags:
   - pf2e/spell

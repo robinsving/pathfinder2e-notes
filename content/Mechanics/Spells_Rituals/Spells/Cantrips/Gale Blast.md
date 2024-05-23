@@ -1,6 +1,5 @@
 ---
 name: Gale Blast
-draft: true
 alias: Gale Blast
 tags:
   - pf2e/spell

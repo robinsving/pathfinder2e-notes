@@ -1,6 +1,5 @@
 ---
 name: Warp Step
-draft: true
 alias: Warp Step
 tags:
   - pf2e/spell

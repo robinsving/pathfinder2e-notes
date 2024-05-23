@@ -1,6 +1,5 @@
 ---
 name: Invoke True Name
-draft: true
 alias: Invoke True Name
 tags:
   - pf2e/spell

@@ -1,6 +1,5 @@
 ---
 name: Infectious Enthusiasm
-draft: true
 alias: Infectious Enthusiasm
 tags:
   - pf2e/spell

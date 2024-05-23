@@ -1,6 +1,5 @@
 ---
 name: Time Sense
-draft: true
 alias: Time Sense
 tags:
   - pf2e/spell

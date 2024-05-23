@@ -1,6 +1,5 @@
 ---
 name: Puff of Poison
-draft: true
 alias: Puff of Poison
 tags:
   - pf2e/spell

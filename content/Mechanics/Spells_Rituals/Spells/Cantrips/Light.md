@@ -1,6 +1,5 @@
 ---
 name: Light
-draft: true
 alias: Light
 tags:
   - pf2e/spell

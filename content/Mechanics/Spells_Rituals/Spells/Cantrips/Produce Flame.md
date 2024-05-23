@@ -1,6 +1,5 @@
 ---
 name: Produce Flame
-draft: true
 alias: Produce Flame
 tags:
   - pf2e/spell

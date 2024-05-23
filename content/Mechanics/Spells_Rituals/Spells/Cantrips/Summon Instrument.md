@@ -1,6 +1,5 @@
 ---
 name: Summon Instrument
-draft: true
 alias: Summon Instrument
 tags:
   - pf2e/spell

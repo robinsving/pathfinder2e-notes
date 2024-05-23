@@ -1,6 +1,5 @@
 ---
 name: Know Direction
-draft: true
 alias: Know Direction
 tags:
   - pf2e/spell

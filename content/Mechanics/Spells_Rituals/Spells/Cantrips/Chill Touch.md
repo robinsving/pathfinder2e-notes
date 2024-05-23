@@ -1,6 +1,5 @@
 ---
 name: Chill Touch
-draft: true
 alias: Chill Touch
 tags:
   - pf2e/spell

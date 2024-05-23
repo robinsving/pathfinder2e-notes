@@ -1,6 +1,5 @@
 ---
 name: Torturous Trauma
-draft: true
 alias: Torturous Trauma
 tags:
   - pf2e/spell

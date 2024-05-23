@@ -1,6 +1,5 @@
 ---
 name: Guidance
-draft: true
 alias: Guidance
 tags:
   - pf2e/spell

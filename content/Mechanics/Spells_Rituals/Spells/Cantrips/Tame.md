@@ -1,6 +1,5 @@
 ---
 name: Tame
-draft: true
 alias: Tame
 tags:
   - pf2e/spell
