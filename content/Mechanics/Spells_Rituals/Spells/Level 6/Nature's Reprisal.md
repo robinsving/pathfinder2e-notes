@@ -1,6 +1,6 @@
 ---
 name: Nature's Reprisal
-draft: true
+
 alias: Nature's Reprisal
 tags:
   - pf2e/spell

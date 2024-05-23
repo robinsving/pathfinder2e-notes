@@ -1,6 +1,6 @@
 ---
 name: Ooze Form
-draft: true
+
 alias: Ooze Form
 tags:
   - pf2e/spell

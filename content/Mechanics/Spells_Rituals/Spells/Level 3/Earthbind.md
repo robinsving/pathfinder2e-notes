@@ -1,6 +1,6 @@
 ---
 name: Earthbind
-draft: true
+
 alias: Earthbind
 tags:
   - pf2e/spell

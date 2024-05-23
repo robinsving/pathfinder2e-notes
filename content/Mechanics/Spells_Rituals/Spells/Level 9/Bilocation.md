@@ -1,6 +1,6 @@
 ---
 name: Bilocation
-draft: true
+
 alias: Bilocation
 tags:
   - pf2e/spell

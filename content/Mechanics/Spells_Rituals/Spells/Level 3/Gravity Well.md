@@ -1,6 +1,6 @@
 ---
 name: Gravity Well
-draft: true
+
 alias: Gravity Well
 tags:
   - pf2e/spell

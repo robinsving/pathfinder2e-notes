@@ -1,6 +1,6 @@
 ---
 name: Eclipse Burst
-draft: true
+
 alias: Eclipse Burst
 tags:
   - pf2e/spell

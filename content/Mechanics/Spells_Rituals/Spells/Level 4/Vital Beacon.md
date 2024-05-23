@@ -1,6 +1,6 @@
 ---
 name: Vital Beacon
-draft: true
+
 alias: Vital Beacon
 tags:
   - pf2e/spell

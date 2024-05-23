@@ -1,6 +1,6 @@
 ---
 name: Divine Decree
-draft: true
+
 alias: Divine Decree
 tags:
   - pf2e/spell

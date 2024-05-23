@@ -1,6 +1,6 @@
 ---
 name: Project Image
-draft: true
+
 alias: Project Image
 tags:
   - pf2e/spell

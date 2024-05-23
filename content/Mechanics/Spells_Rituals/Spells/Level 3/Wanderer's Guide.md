@@ -1,6 +1,6 @@
 ---
 name: Wanderer's Guide
-draft: true
+
 alias: Wanderer's Guide
 tags:
   - pf2e/spell

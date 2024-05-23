@@ -1,6 +1,6 @@
 ---
 name: Soulshelter Vessel
-draft: true
+
 alias: Soulshelter Vessel
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Bestial Curse
-draft: true
+
 alias: Bestial Curse
 tags:
   - pf2e/spell

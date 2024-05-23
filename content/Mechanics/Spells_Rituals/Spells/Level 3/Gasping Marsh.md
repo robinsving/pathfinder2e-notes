@@ -1,6 +1,6 @@
 ---
 name: Gasping Marsh
-draft: true
+
 alias: Gasping Marsh
 tags:
   - pf2e/spell

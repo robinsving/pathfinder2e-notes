@@ -1,6 +1,6 @@
 ---
 name: Invisibility Sphere
-draft: true
+
 alias: Invisibility Sphere
 tags:
   - pf2e/spell

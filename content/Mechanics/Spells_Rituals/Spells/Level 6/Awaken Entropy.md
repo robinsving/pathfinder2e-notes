@@ -1,6 +1,6 @@
 ---
 name: Awaken Entropy
-draft: true
+
 alias: Awaken Entropy
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Calm Emotions
-draft: true
+
 alias: Calm Emotions
 tags:
   - pf2e/spell

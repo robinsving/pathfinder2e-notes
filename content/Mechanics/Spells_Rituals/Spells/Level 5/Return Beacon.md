@@ -1,6 +1,6 @@
 ---
 name: Return Beacon
-draft: true
+
 alias: Return Beacon
 tags:
   - pf2e/spell

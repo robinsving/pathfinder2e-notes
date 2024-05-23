@@ -1,6 +1,6 @@
 ---
 name: Blazing Dive
-draft: true
+
 alias: Blazing Dive
 tags:
   - pf2e/spell

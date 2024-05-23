@@ -1,6 +1,6 @@
 ---
 name: Oneiric Mire
-draft: true
+
 alias: Oneiric Mire
 tags:
   - pf2e/spell

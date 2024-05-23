@@ -1,6 +1,6 @@
 ---
 name: Detect Creator
-draft: true
+
 alias: Detect Creator
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Shape Wood
-draft: true
+
 alias: Shape Wood
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Animus Mine
-draft: true
+
 alias: Animus Mine
 tags:
   - pf2e/spell

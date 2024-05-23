@@ -1,6 +1,6 @@
 ---
 name: Vampiric Touch
-draft: true
+
 alias: Vampiric Touch
 tags:
   - pf2e/spell

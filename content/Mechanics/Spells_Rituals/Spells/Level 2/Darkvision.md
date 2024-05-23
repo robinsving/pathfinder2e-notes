@@ -1,6 +1,6 @@
 ---
 name: Darkvision
-draft: true
+
 alias: Darkvision
 tags:
   - pf2e/spell

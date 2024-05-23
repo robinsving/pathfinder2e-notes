@@ -1,6 +1,6 @@
 ---
 name: Roaring Applause
-draft: true
+
 alias: Roaring Applause
 tags:
   - pf2e/spell

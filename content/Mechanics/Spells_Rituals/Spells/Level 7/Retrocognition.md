@@ -1,6 +1,6 @@
 ---
 name: Retrocognition
-draft: true
+
 alias: Retrocognition
 tags:
   - pf2e/spell

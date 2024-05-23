@@ -1,6 +1,6 @@
 ---
 name: Breath of Life
-draft: true
+
 alias: Breath of Life
 tags:
   - pf2e/spell

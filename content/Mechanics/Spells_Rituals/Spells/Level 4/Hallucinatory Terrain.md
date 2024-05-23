@@ -1,6 +1,6 @@
 ---
 name: Hallucinatory Terrain
-draft: true
+
 alias: Hallucinatory Terrain
 tags:
   - pf2e/spell

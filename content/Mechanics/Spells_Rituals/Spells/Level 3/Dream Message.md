@@ -1,6 +1,6 @@
 ---
 name: Dream Message
-draft: true
+
 alias: Dream Message
 tags:
   - pf2e/spell

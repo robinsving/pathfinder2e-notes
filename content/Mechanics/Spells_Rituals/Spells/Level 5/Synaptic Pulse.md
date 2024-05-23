@@ -1,6 +1,6 @@
 ---
 name: Synaptic Pulse
-draft: true
+
 alias: Synaptic Pulse
 tags:
   - pf2e/spell

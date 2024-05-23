@@ -1,6 +1,6 @@
 ---
 name: Knock
-draft: true
+
 alias: Knock
 tags:
   - pf2e/spell

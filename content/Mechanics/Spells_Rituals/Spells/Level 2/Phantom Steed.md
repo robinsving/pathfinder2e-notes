@@ -1,6 +1,6 @@
 ---
 name: Phantom Steed
-draft: true
+
 alias: Phantom Steed
 tags:
   - pf2e/spell

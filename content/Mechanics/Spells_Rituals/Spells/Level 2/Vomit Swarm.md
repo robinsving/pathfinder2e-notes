@@ -1,6 +1,6 @@
 ---
 name: Vomit Swarm
-draft: true
+
 alias: Vomit Swarm
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Speak with Plants
-draft: true
+
 alias: Speak with Plants
 tags:
   - pf2e/spell

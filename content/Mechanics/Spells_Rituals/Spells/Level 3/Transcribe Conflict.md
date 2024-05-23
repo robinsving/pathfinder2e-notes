@@ -1,6 +1,6 @@
 ---
 name: Transcribe Conflict
-draft: true
+
 alias: Transcribe Conflict
 tags:
   - pf2e/spell

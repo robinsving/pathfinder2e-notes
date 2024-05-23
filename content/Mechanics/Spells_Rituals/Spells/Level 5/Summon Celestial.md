@@ -1,6 +1,6 @@
 ---
 name: Summon Celestial
-draft: true
+
 alias: Summon Celestial
 tags:
   - pf2e/spell

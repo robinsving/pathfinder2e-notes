@@ -1,6 +1,6 @@
 ---
 name: Mask of Terror
-draft: true
+
 alias: Mask of Terror
 tags:
   - pf2e/spell

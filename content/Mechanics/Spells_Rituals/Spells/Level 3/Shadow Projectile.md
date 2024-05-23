@@ -1,6 +1,6 @@
 ---
 name: Shadow Projectile
-draft: true
+
 alias: Shadow Projectile
 tags:
   - pf2e/spell

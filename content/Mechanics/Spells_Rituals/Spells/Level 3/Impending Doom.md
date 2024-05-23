@@ -1,6 +1,6 @@
 ---
 name: Impending Doom
-draft: true
+
 alias: Impending Doom
 tags:
   - pf2e/spell

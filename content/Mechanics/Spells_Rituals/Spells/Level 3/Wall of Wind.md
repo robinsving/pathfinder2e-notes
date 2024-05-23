@@ -1,6 +1,6 @@
 ---
 name: Wall of Wind
-draft: true
+
 alias: Wall of Wind
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Enhance Victuals
-draft: true
+
 alias: Enhance Victuals
 tags:
   - pf2e/spell

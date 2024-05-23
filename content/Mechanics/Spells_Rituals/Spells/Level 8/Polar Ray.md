@@ -1,6 +1,6 @@
 ---
 name: Polar Ray
-draft: true
+
 alias: Polar Ray
 tags:
   - pf2e/spell

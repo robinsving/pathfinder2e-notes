@@ -1,6 +1,6 @@
 ---
 name: Sculpt Sound
-draft: true
+
 alias: Sculpt Sound
 tags:
   - pf2e/spell

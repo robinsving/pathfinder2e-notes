@@ -1,6 +1,6 @@
 ---
 name: Cast into Time
-draft: true
+
 alias: Cast into Time
 tags:
   - pf2e/spell

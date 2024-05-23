@@ -1,6 +1,6 @@
 ---
 name: Duplicate Foe
-draft: true
+
 alias: Duplicate Foe
 tags:
   - pf2e/spell

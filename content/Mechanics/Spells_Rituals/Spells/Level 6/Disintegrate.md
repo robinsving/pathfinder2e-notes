@@ -1,6 +1,6 @@
 ---
 name: Disintegrate
-draft: true
+
 alias: Disintegrate
 tags:
   - pf2e/spell

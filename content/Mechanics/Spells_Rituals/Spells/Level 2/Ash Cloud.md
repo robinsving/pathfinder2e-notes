@@ -1,6 +1,6 @@
 ---
 name: Ash Cloud
-draft: true
+
 alias: Ash Cloud
 tags:
   - pf2e/spell

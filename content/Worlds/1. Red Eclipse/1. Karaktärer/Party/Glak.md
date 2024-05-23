@@ -1,3 +1,10 @@
+---
+owner: Fredrik
+character: pc
+status: alive
+class: Rogue
+---
+
 Desertör
 
 Har stor familj. 15 syskon, 8 helsyskon. Lämnade som liten och vet inte var hans hem är.

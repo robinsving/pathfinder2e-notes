@@ -1,6 +1,6 @@
 ---
 name: Wall of Water
-draft: true
+
 alias: Wall of Water
 tags:
   - pf2e/spell

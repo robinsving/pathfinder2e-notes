@@ -1,6 +1,6 @@
 ---
 name: Deafness
-draft: true
+
 alias: Deafness
 tags:
   - pf2e/spell

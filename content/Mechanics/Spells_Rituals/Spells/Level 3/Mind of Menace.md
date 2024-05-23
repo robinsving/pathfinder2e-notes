@@ -1,6 +1,6 @@
 ---
 name: Mind of Menace
-draft: true
+
 alias: Mind of Menace
 tags:
   - pf2e/spell

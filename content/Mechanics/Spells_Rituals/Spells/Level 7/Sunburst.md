@@ -1,6 +1,6 @@
 ---
 name: Sunburst
-draft: true
+
 alias: Sunburst
 tags:
   - pf2e/spell

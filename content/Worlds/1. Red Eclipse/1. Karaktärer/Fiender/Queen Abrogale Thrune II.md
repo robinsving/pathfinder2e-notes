@@ -1,7 +1,7 @@
 # Historik
 Drottning Thrune är [[Cheliax]] härskarinna, och styr därför över [[Isger]], hennes vassal. Känd demon-dyrkare.
-> [!note]
-> Rumored to be a descendant of [[Asmodeus]], archdemon of Hell.
+> [!Rumor]
+> Is maybe a descendant of [[Asmodeus]], archdemon of Hell.
 
 Drottningen är inte människa, utan en Tiefling
 

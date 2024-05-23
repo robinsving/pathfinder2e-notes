@@ -1,6 +1,6 @@
 ---
 name: Sonata Span
-draft: true
+
 alias: Sonata Span
 tags:
   - pf2e/spell

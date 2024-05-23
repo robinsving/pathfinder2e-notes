@@ -1,6 +1,6 @@
 ---
 name: Vicious Jealousy
-draft: true
+
 alias: Vicious Jealousy
 tags:
   - pf2e/spell

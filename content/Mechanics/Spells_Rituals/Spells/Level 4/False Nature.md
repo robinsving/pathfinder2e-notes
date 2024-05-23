@@ -1,6 +1,6 @@
 ---
 name: False Nature
-draft: true
+
 alias: False Nature
 tags:
   - pf2e/spell

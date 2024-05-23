@@ -1,6 +1,6 @@
 ---
 name: Clownish Curse
-draft: true
+
 alias: Clownish Curse
 tags:
   - pf2e/spell

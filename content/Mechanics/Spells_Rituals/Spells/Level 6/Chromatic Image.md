@@ -1,6 +1,6 @@
 ---
 name: Chromatic Image
-draft: true
+
 alias: Chromatic Image
 tags:
   - pf2e/spell

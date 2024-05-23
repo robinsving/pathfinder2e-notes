@@ -1,6 +1,6 @@
 ---
 name: Private Sanctum
-draft: true
+
 alias: Private Sanctum
 tags:
   - pf2e/spell

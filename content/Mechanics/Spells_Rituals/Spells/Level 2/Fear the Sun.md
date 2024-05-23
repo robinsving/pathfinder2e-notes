@@ -1,6 +1,6 @@
 ---
 name: Fear the Sun
-draft: true
+
 alias: Fear the Sun
 tags:
   - pf2e/spell

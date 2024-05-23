@@ -1,6 +1,6 @@
 ---
 name: Painful Vibrations
-draft: true
+
 alias: Painful Vibrations
 tags:
   - pf2e/spell

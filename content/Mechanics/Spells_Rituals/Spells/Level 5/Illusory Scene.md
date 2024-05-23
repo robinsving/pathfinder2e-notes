@@ -1,6 +1,6 @@
 ---
 name: Illusory Scene
-draft: true
+
 alias: Illusory Scene
 tags:
   - pf2e/spell

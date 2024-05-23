@@ -1,6 +1,6 @@
 ---
 name: Modify Memory
-draft: true
+
 alias: Modify Memory
 tags:
   - pf2e/spell

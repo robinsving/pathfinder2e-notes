@@ -1,6 +1,6 @@
 ---
 name: Whirling Scarves
-draft: true
+
 alias: Whirling Scarves
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: False Vision
-draft: true
+
 alias: False Vision
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Field of Life
-draft: true
+
 alias: Field of Life
 tags:
   - pf2e/spell

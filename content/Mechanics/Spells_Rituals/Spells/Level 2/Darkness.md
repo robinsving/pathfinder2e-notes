@@ -1,6 +1,6 @@
 ---
 name: Darkness
-draft: true
+
 alias: Darkness
 tags:
   - pf2e/spell

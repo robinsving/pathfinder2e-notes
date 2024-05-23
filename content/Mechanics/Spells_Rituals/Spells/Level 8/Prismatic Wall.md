@@ -1,6 +1,6 @@
 ---
 name: Prismatic Wall
-draft: true
+
 alias: Prismatic Wall
 tags:
   - pf2e/spell

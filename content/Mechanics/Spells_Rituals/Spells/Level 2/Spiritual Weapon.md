@@ -1,6 +1,6 @@
 ---
 name: Spiritual Weapon
-draft: true
+
 alias: Spiritual Weapon
 tags:
   - pf2e/spell

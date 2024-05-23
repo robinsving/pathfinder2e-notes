@@ -1,6 +1,6 @@
 ---
 name: Hypnopompic Terrors
-draft: true
+
 alias: Hypnopompic Terrors
 tags:
   - pf2e/spell

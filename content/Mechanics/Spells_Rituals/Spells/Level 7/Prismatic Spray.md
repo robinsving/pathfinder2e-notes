@@ -1,6 +1,6 @@
 ---
 name: Prismatic Spray
-draft: true
+
 alias: Prismatic Spray
 tags:
   - pf2e/spell

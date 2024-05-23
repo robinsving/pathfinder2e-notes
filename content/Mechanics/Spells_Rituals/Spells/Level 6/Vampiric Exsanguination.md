@@ -1,6 +1,6 @@
 ---
 name: Vampiric Exsanguination
-draft: true
+
 alias: Vampiric Exsanguination
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Envenom Companion
-draft: true
+
 alias: Envenom Companion
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Sending
-draft: true
+
 alias: Sending
 tags:
   - pf2e/spell

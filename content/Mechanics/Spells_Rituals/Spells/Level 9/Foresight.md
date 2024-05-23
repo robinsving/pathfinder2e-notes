@@ -1,6 +1,6 @@
 ---
 name: Foresight
-draft: true
+
 alias: Foresight
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Shatter
-draft: true
+
 alias: Shatter
 tags:
   - pf2e/spell

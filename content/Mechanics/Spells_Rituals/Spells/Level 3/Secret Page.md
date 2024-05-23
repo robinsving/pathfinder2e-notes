@@ -1,6 +1,6 @@
 ---
 name: Secret Page
-draft: true
+
 alias: Secret Page
 tags:
   - pf2e/spell

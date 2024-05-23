@@ -1,6 +1,6 @@
 ---
 name: Aerial Form
-draft: true
+
 alias: Aerial Form
 tags:
   - pf2e/spell

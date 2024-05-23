@@ -5,9 +5,14 @@ aliases:
   - Sai
   - Kai
   - Leonardo
-character: npc
 owner: Robin
+character: npc
+status: alive
+class: Fighter
 ---
-[[Psychic]] [[Eldritch Archer|Eldritch Archer]].
+# Build
+- Bow fighter
+- Dedication [[Psychic]]
+- Dedication [[Eldritch Archer|Eldritch Archer]]
 
 Arbetar för [[Isger]]'s underrättelsetjänst - mer specifikt [[Nadi]].

@@ -1,6 +1,6 @@
 ---
 name: Restore Senses
-draft: true
+
 alias: Restore Senses
 tags:
   - pf2e/spell

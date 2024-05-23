@@ -1,6 +1,6 @@
 ---
 name: Water Walk
-draft: true
+
 alias: Water Walk
 tags:
   - pf2e/spell

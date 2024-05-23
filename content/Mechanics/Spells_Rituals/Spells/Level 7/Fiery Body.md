@@ -1,6 +1,6 @@
 ---
 name: Fiery Body
-draft: true
+
 alias: Fiery Body
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Humanoid Form
-draft: true
+
 alias: Humanoid Form
 tags:
   - pf2e/spell

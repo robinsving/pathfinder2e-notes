@@ -1,6 +1,6 @@
 ---
 name: Possession
-draft: true
+
 alias: Possession
 tags:
   - pf2e/spell

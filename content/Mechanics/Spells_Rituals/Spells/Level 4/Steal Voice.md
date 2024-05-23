@@ -1,6 +1,6 @@
 ---
 name: Steal Voice
-draft: true
+
 alias: Steal Voice
 tags:
   - pf2e/spell

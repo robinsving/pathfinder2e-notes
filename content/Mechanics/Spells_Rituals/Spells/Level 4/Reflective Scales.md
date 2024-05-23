@@ -1,6 +1,6 @@
 ---
 name: Reflective Scales
-draft: true
+
 alias: Reflective Scales
 tags:
   - pf2e/spell

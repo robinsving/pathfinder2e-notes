@@ -1,6 +1,6 @@
 ---
 name: Fated Confrontation
-draft: true
+
 alias: Fated Confrontation
 tags:
   - pf2e/spell

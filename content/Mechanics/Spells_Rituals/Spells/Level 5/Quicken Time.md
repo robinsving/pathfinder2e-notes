@@ -1,6 +1,6 @@
 ---
 name: Quicken Time
-draft: true
+
 alias: Quicken Time
 tags:
   - pf2e/spell

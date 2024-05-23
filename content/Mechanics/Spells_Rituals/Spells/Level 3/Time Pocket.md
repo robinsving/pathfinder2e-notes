@@ -1,6 +1,6 @@
 ---
 name: Time Pocket
-draft: true
+
 alias: Time Pocket
 tags:
   - pf2e/spell

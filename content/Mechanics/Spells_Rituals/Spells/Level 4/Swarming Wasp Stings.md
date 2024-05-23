@@ -1,6 +1,6 @@
 ---
 name: Swarming Wasp Stings
-draft: true
+
 alias: Swarming Wasp Stings
 tags:
   - pf2e/spell

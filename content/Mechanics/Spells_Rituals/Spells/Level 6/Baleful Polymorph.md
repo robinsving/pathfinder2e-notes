@@ -1,6 +1,6 @@
 ---
 name: Baleful Polymorph
-draft: true
+
 alias: Baleful Polymorph
 tags:
   - pf2e/spell

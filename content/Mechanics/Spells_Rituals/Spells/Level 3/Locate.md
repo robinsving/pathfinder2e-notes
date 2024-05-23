@@ -1,6 +1,6 @@
 ---
 name: Locate
-draft: true
+
 alias: Locate
 tags:
   - pf2e/spell

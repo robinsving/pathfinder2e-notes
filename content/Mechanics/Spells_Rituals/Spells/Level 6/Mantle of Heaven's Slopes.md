@@ -1,6 +1,6 @@
 ---
 name: Mantle of Heaven's Slopes
-draft: true
+
 alias: Mantle of Heaven's Slopes
 tags:
   - pf2e/spell

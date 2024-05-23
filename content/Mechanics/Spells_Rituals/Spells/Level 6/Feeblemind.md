@@ -1,6 +1,6 @@
 ---
 name: Feeblemind
-draft: true
+
 alias: Feeblemind
 tags:
   - pf2e/spell

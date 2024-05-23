@@ -1,6 +1,6 @@
 ---
 name: Wall of Stone
-draft: true
+
 alias: Wall of Stone
 tags:
   - pf2e/spell

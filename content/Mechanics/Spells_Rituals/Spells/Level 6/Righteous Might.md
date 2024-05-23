@@ -1,6 +1,6 @@
 ---
 name: Righteous Might
-draft: true
+
 alias: Righteous Might
 tags:
   - pf2e/spell

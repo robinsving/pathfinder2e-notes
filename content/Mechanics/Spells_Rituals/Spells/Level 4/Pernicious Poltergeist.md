@@ -1,6 +1,6 @@
 ---
 name: Pernicious Poltergeist
-draft: true
+
 alias: Pernicious Poltergeist
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Burning Blossoms
-draft: true
+
 alias: Burning Blossoms
 tags:
   - pf2e/spell

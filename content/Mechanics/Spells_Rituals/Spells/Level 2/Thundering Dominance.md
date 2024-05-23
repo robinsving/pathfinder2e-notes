@@ -1,6 +1,6 @@
 ---
 name: Thundering Dominance
-draft: true
+
 alias: Thundering Dominance
 tags:
   - pf2e/spell

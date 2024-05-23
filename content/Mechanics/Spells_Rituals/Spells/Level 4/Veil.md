@@ -1,6 +1,6 @@
 ---
 name: Veil
-draft: true
+
 alias: Veil
 tags:
   - pf2e/spell

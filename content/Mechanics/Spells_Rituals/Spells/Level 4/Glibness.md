@@ -1,6 +1,6 @@
 ---
 name: Glibness
-draft: true
+
 alias: Glibness
 tags:
   - pf2e/spell

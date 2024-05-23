@@ -3,7 +3,8 @@ aliases:
   - Grimm
 character: pc
 owner: Robin
-status:
+status: alive
+class: Champion
 ---
 
 %% Begin Waypoint %%
@@ -14,11 +15,11 @@ status:
 - [[Beskrivning]]
 - [[Dualiteten hos Grimm]]
 - [[Familj]]
-- [[Grimm]]
-- **[Items](./Items/Items.md)**
+- **[[Föremål]]**
 	- [[Brev från Chief Marshal Galiax]]
 	- [[Grandmother's locket]]
 	- [[Shardblade]]
+- [[Grimm]]
 - [[Ordern]]
 - [[Squad]]
 - [[Tro]]

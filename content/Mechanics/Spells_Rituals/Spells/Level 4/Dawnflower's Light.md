@@ -1,6 +1,6 @@
 ---
 name: Dawnflower's Light
-draft: true
+
 alias: Dawnflower's Light
 tags:
   - pf2e/spell

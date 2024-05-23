@@ -1,6 +1,6 @@
 ---
 name: Dinosaur Form
-draft: true
+
 alias: Dinosaur Form
 tags:
   - pf2e/spell

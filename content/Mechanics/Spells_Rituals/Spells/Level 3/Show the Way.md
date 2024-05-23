@@ -1,6 +1,6 @@
 ---
 name: Show the Way
-draft: true
+
 alias: Show the Way
 tags:
   - pf2e/spell

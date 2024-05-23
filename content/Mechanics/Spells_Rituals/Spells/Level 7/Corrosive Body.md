@@ -1,6 +1,6 @@
 ---
 name: Corrosive Body
-draft: true
+
 alias: Corrosive Body
 tags:
   - pf2e/spell

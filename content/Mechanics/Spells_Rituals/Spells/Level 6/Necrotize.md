@@ -1,6 +1,6 @@
 ---
 name: Necrotize
-draft: true
+
 alias: Necrotize
 tags:
   - pf2e/spell

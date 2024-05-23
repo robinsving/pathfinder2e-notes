@@ -1,6 +1,6 @@
 ---
 name: Infectious Ennui
-draft: true
+
 alias: Infectious Ennui
 tags:
   - pf2e/spell

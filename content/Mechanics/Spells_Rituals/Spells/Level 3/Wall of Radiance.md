@@ -1,6 +1,6 @@
 ---
 name: Wall of Radiance
-draft: true
+
 alias: Wall of Radiance
 tags:
   - pf2e/spell

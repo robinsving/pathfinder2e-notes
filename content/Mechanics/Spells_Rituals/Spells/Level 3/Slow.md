@@ -1,6 +1,6 @@
 ---
 name: Slow
-draft: true
+
 alias: Slow
 tags:
   - pf2e/spell

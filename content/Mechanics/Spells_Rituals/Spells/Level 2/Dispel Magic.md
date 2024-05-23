@@ -1,6 +1,6 @@
 ---
 name: Dispel Magic
-draft: true
+
 alias: Dispel Magic
 tags:
   - pf2e/spell

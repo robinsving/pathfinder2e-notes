@@ -1,6 +1,6 @@
 ---
 name: Martyr's Intervention
-draft: true
+
 alias: Martyr's Intervention
 tags:
   - pf2e/spell

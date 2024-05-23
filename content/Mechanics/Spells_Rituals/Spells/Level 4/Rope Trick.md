@@ -1,6 +1,6 @@
 ---
 name: Rope Trick
-draft: true
+
 alias: Rope Trick
 tags:
   - pf2e/spell

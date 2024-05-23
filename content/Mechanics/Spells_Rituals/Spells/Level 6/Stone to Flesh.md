@@ -1,6 +1,6 @@
 ---
 name: Stone to Flesh
-draft: true
+
 alias: Stone to Flesh
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Shift Blame
-draft: true
+
 alias: Shift Blame
 tags:
   - pf2e/spell

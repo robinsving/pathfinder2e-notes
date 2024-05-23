@@ -1,6 +1,6 @@
 ---
 name: Morass of Ages
-draft: true
+
 alias: Morass of Ages
 tags:
   - pf2e/spell

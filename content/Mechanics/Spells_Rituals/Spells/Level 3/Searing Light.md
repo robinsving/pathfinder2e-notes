@@ -1,6 +1,6 @@
 ---
 name: Searing Light
-draft: true
+
 alias: Searing Light
 tags:
   - pf2e/spell

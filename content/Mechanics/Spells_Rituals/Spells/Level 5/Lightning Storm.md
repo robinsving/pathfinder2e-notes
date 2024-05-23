@@ -1,6 +1,6 @@
 ---
 name: Lightning Storm
-draft: true
+
 alias: Lightning Storm
 tags:
   - pf2e/spell

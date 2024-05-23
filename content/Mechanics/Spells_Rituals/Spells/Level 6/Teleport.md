@@ -1,6 +1,6 @@
 ---
 name: Teleport
-draft: true
+
 aliases:
   - Teleport
 tags:

@@ -1,6 +1,6 @@
 ---
 name: Maze
-draft: true
+
 alias: Maze
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Warp Mind
-draft: true
+
 alias: Warp Mind
 tags:
   - pf2e/spell

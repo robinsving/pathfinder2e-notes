@@ -1,6 +1,6 @@
 ---
 name: Deluge
-draft: true
+
 alias: Deluge
 tags:
   - pf2e/spell

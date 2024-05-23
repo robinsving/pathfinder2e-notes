@@ -1,6 +1,6 @@
 ---
 name: Infectious Melody
-draft: true
+
 alias: Infectious Melody
 tags:
   - pf2e/spell

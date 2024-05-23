@@ -1,6 +1,6 @@
 ---
 name: Telepathy
-draft: true
+
 alias: Telepathy
 tags:
   - pf2e/spell

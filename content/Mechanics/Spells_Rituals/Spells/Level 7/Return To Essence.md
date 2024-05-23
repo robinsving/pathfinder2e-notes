@@ -1,6 +1,6 @@
 ---
 name: Return To Essence
-draft: true
+
 alias: Return To Essence
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Summon Draconic Legion
-draft: true
+
 alias: Summon Draconic Legion
 tags:
   - pf2e/spell

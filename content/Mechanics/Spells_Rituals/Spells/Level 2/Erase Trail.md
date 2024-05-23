@@ -1,6 +1,6 @@
 ---
 name: Erase Trail
-draft: true
+
 alias: Erase Trail
 tags:
   - pf2e/spell

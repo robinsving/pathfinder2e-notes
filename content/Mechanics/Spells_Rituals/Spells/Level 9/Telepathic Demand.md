@@ -1,6 +1,6 @@
 ---
 name: Telepathic Demand
-draft: true
+
 alias: Telepathic Demand
 tags:
   - pf2e/spell

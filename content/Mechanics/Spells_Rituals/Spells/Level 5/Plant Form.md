@@ -1,6 +1,6 @@
 ---
 name: Plant Form
-draft: true
+
 alias: Plant Form
 tags:
   - pf2e/spell

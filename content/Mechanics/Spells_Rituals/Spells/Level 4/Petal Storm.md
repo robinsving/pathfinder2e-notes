@@ -1,6 +1,6 @@
 ---
 name: Petal Storm
-draft: true
+
 alias: Petal Storm
 tags:
   - pf2e/spell

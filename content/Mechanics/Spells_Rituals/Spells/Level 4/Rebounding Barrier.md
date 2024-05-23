@@ -1,6 +1,6 @@
 ---
 name: Rebounding Barrier
-draft: true
+
 alias: Rebounding Barrier
 tags:
   - pf2e/spell

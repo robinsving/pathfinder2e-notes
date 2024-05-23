@@ -1,6 +1,6 @@
 ---
 name: Glitterdust
-draft: true
+
 alias: Glitterdust
 tags:
   - pf2e/spell

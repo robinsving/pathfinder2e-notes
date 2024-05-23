@@ -1,6 +1,6 @@
 ---
 name: Unseasonable Squall
-draft: true
+
 alias: Unseasonable Squall
 tags:
   - pf2e/spell

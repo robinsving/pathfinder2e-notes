@@ -1,6 +1,6 @@
 ---
 name: Consecrate Flesh
-draft: true
+
 alias: Consecrate Flesh
 tags:
   - pf2e/spell

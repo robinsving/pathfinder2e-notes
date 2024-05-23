@@ -1,6 +1,6 @@
 ---
 name: Threefold Aspect
-draft: true
+
 alias: Threefold Aspect
 tags:
   - pf2e/spell

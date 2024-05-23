@@ -1,6 +1,6 @@
 ---
 name: Magical Fetters
-draft: true
+
 alias: Magical Fetters
 tags:
   - pf2e/spell

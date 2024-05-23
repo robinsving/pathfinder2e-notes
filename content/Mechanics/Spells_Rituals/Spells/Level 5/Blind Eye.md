@@ -1,6 +1,6 @@
 ---
 name: Blind Eye
-draft: true
+
 alias: Blind Eye
 tags:
   - pf2e/spell

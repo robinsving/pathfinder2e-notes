@@ -1,6 +1,6 @@
 ---
 name: Shadow Zombie
-draft: true
+
 alias: Shadow Zombie
 tags:
   - pf2e/spell

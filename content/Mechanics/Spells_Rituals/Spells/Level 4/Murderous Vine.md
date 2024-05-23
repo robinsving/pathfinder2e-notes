@@ -1,6 +1,6 @@
 ---
 name: Murderous Vine
-draft: true
+
 alias: Murderous Vine
 tags:
   - pf2e/spell

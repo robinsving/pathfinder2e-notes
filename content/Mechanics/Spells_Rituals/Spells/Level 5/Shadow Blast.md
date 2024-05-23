@@ -1,6 +1,6 @@
 ---
 name: Shadow Blast
-draft: true
+
 alias: Shadow Blast
 tags:
   - pf2e/spell

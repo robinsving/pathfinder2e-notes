@@ -1,6 +1,6 @@
 ---
 name: Volcanic Eruption
-draft: true
+
 alias: Volcanic Eruption
 tags:
   - pf2e/spell

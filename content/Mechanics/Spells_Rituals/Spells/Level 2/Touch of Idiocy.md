@@ -1,6 +1,6 @@
 ---
 name: Touch of Idiocy
-draft: true
+
 alias: Touch of Idiocy
 tags:
   - pf2e/spell

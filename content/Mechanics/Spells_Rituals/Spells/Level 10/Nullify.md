@@ -1,6 +1,6 @@
 ---
 name: Nullify
-draft: true
+
 alias: Nullify
 tags:
   - pf2e/spell

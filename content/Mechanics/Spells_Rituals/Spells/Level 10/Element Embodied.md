@@ -1,6 +1,6 @@
 ---
 name: Element Embodied
-draft: true
+
 alias: Element Embodied
 tags:
   - pf2e/spell

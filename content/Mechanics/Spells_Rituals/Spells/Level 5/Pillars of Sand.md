@@ -1,6 +1,6 @@
 ---
 name: Pillars of Sand
-draft: true
+
 alias: Pillars of Sand
 tags:
   - pf2e/spell

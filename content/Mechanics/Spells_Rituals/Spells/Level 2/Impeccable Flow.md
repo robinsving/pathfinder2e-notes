@@ -1,6 +1,6 @@
 ---
 name: Impeccable Flow
-draft: true
+
 alias: Impeccable Flow
 tags:
   - pf2e/spell

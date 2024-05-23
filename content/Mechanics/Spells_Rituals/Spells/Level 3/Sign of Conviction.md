@@ -1,6 +1,6 @@
 ---
 name: Sign of Conviction
-draft: true
+
 alias: Sign of Conviction
 tags:
   - pf2e/spell

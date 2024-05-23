@@ -1,6 +1,6 @@
 ---
 name: Endure Elements
-draft: true
+
 alias: Endure Elements
 tags:
   - pf2e/spell

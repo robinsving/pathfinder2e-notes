@@ -1,6 +1,6 @@
 ---
 name: Blink Charge
-draft: true
+
 alias: Blink Charge
 tags:
   - pf2e/spell

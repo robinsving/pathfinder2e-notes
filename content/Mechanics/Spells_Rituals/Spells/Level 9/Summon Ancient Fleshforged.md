@@ -1,6 +1,6 @@
 ---
 name: Summon Ancient Fleshforged
-draft: true
+
 alias: Summon Ancient Fleshforged
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Implement of Destruction
-draft: true
+
 alias: Implement of Destruction
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Detect Scrying
-draft: true
+
 alias: Detect Scrying
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Cloak of Light
-draft: true
+
 alias: Cloak of Light
 tags:
   - pf2e/spell

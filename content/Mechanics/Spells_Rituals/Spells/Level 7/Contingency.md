@@ -1,6 +1,6 @@
 ---
 name: Contingency
-draft: true
+
 alias: Contingency
 tags:
   - pf2e/spell

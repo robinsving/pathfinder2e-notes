@@ -1,6 +1,6 @@
 ---
 name: Misdirection
-draft: true
+
 alias: Misdirection
 tags:
   - pf2e/spell

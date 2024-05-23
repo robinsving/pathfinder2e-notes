@@ -1,6 +1,6 @@
 ---
 name: Pack Attack
-draft: true
+
 alias: Pack Attack
 tags:
   - pf2e/spell

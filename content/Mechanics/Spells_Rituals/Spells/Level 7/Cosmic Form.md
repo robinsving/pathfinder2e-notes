@@ -1,6 +1,6 @@
 ---
 name: Cosmic Form
-draft: true
+
 alias: Cosmic Form
 tags:
   - pf2e/spell

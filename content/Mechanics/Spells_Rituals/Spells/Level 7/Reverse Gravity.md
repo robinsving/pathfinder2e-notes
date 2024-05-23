@@ -1,6 +1,6 @@
 ---
 name: Reverse Gravity
-draft: true
+
 alias: Reverse Gravity
 tags:
   - pf2e/spell

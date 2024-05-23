@@ -1,6 +1,6 @@
 ---
 name: Elemental Zone
-draft: true
+
 alias: Elemental Zone
 tags:
   - pf2e/spell

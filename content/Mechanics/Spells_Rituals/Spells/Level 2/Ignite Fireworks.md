@@ -1,6 +1,6 @@
 ---
 name: Ignite Fireworks
-draft: true
+
 alias: Ignite Fireworks
 tags:
   - pf2e/spell

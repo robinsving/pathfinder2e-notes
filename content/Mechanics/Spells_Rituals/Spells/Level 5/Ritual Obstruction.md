@@ -1,6 +1,6 @@
 ---
 name: Ritual Obstruction
-draft: true
+
 alias: Ritual Obstruction
 tags:
   - pf2e/spell

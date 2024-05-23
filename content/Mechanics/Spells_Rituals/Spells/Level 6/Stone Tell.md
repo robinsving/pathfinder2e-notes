@@ -1,6 +1,6 @@
 ---
 name: Stone Tell
-draft: true
+
 alias: Stone Tell
 tags:
   - pf2e/spell

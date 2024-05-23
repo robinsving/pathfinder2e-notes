@@ -1,6 +1,6 @@
 ---
 name: Remake
-draft: true
+
 alias: Remake
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Rime Slick
-draft: true
+
 alias: Rime Slick
 tags:
   - pf2e/spell

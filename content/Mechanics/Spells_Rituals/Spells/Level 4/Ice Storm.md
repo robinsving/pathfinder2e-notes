@@ -1,6 +1,6 @@
 ---
 name: Ice Storm
-draft: true
+
 alias: Ice Storm
 tags:
   - pf2e/spell

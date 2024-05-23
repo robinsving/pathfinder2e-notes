@@ -1,6 +1,6 @@
 ---
 name: Zero Gravity
-draft: true
+
 alias: Zero Gravity
 tags:
   - pf2e/spell

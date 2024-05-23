@@ -1,6 +1,6 @@
 ---
 name: Chameleon Coat
-draft: true
+
 alias: Chameleon Coat
 tags:
   - pf2e/spell

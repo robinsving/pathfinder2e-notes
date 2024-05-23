@@ -1,6 +1,6 @@
 ---
 name: Summon Giant
-draft: true
+
 alias: Summon Giant
 tags:
   - pf2e/spell

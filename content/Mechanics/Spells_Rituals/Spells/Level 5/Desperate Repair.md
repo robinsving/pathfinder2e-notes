@@ -1,6 +1,6 @@
 ---
 name: Desperate Repair
-draft: true
+
 alias: Desperate Repair
 tags:
   - pf2e/spell

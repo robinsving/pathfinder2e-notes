@@ -1,6 +1,6 @@
 ---
 name: Zealous Conviction
-draft: true
+
 alias: Zealous Conviction
 tags:
   - pf2e/spell

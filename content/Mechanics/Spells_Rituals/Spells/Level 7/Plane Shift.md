@@ -1,6 +1,6 @@
 ---
 name: Plane Shift
-draft: true
+
 alias: Plane Shift
 tags:
   - pf2e/spell

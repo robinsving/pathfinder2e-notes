@@ -1,6 +1,6 @@
 ---
 name: Agonizing Despair
-draft: true
+
 alias: Agonizing Despair
 tags:
   - pf2e/spell

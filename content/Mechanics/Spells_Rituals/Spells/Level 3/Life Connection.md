@@ -1,6 +1,6 @@
 ---
 name: Life Connection
-draft: true
+
 alias: Life Connection
 tags:
   - pf2e/spell

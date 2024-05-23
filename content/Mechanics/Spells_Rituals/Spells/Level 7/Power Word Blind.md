@@ -1,6 +1,6 @@
 ---
 name: Power Word Blind
-draft: true
+
 alias: Power Word Blind
 tags:
   - pf2e/spell

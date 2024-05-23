@@ -1,6 +1,6 @@
 ---
 name: Alter Reality
-draft: true
+
 alias: Alter Reality
 tags:
   - pf2e/spell

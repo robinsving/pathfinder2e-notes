@@ -1,6 +1,6 @@
 ---
 name: Clairaudience
-draft: true
+
 alias: Clairaudience
 tags:
   - pf2e/spell

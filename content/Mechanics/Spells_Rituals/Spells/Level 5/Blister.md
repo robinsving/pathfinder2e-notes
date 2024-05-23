@@ -1,6 +1,6 @@
 ---
 name: Blister
-draft: true
+
 alias: Blister
 tags:
   - pf2e/spell

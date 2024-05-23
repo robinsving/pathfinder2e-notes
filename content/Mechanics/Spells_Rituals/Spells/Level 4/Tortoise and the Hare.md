@@ -1,6 +1,6 @@
 ---
 name: Tortoise and the Hare
-draft: true
+
 alias: Tortoise and the Hare
 tags:
   - pf2e/spell

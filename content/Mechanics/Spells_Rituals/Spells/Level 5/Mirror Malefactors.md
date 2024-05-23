@@ -1,6 +1,6 @@
 ---
 name: Mirror Malefactors
-draft: true
+
 alias: Mirror Malefactors
 tags:
   - pf2e/spell

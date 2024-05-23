@@ -1,6 +1,6 @@
 ---
 name: Magic Mouth
-draft: true
+
 alias: Magic Mouth
 tags:
   - pf2e/spell

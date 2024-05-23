@@ -1,6 +1,6 @@
 ---
 name: Heat Metal
-draft: true
+
 alias: Heat Metal
 tags:
   - pf2e/spell

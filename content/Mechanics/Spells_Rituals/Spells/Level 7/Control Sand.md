@@ -1,6 +1,6 @@
 ---
 name: Control Sand
-draft: true
+
 alias: Control Sand
 tags:
   - pf2e/spell

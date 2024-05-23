@@ -1,6 +1,6 @@
 ---
 name: Cozy Cabin
-draft: true
+
 alias: Cozy Cabin
 tags:
   - pf2e/spell

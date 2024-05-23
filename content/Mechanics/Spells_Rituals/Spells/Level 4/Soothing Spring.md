@@ -1,6 +1,6 @@
 ---
 name: Soothing Spring
-draft: true
+
 alias: Soothing Spring
 tags:
   - pf2e/spell

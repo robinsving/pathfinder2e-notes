@@ -1,6 +1,6 @@
 ---
 name: Unspeakable Shadow
-draft: true
+
 alias: Unspeakable Shadow
 tags:
   - pf2e/spell

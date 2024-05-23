@@ -1,6 +1,6 @@
 ---
 name: Summon Anarch
-draft: true
+
 alias: Summon Anarch
 tags:
   - pf2e/spell

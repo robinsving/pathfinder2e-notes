@@ -1,6 +1,6 @@
 ---
 name: Clairvoyance
-draft: true
+
 alias: Clairvoyance
 tags:
   - pf2e/spell

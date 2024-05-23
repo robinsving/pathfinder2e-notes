@@ -1,6 +1,6 @@
 ---
 name: Nightmare
-draft: true
+
 alias: Nightmare
 tags:
   - pf2e/spell

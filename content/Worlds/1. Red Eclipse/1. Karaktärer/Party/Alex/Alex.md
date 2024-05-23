@@ -2,17 +2,19 @@
 aliases:
   - Laitais
   - Awett Vida
-character: pc
 owner: Robin
+character: pc
+status: alive
+class: Druid
 ---
 
 %% Begin Waypoint %%
 - [[Alex Retur]]
 - **Bakgrund**
 	- [[Current life - Leaf]]
-	- [[Past life - Boulder]]
-	- [[Past life - Petal, Awett Vida]]
-	- [[Past life - Stump]]
+	- [[Past life 1 - Stump]]
+	- [[Past life 2 - Boulder]]
+	- [[Past life 3 - Petal, Awett Vida]]
 	- [[Quick]]
 - **Leninismen**
 	- [[10 Handlingar]]

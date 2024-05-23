@@ -1,6 +1,6 @@
 ---
 name: Divine Armageddon
-draft: true
+
 alias: Divine Armageddon
 tags:
   - pf2e/spell

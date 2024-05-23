@@ -1,6 +1,6 @@
 ---
 name: Rouse Skeletons
-draft: true
+
 alias: Rouse Skeletons
 tags:
   - pf2e/spell

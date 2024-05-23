@@ -1,6 +1,6 @@
 ---
 name: Paranoia
-draft: true
+
 alias: Paranoia
 tags:
   - pf2e/spell

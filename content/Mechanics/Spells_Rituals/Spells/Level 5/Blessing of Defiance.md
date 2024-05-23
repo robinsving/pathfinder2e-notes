@@ -1,6 +1,6 @@
 ---
 name: Blessing of Defiance
-draft: true
+
 alias: Blessing of Defiance
 tags:
   - pf2e/spell

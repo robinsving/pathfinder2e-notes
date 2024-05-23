@@ -1,6 +1,6 @@
 ---
 name: Clone Companion
-draft: true
+
 alias: Clone Companion
 tags:
   - pf2e/spell

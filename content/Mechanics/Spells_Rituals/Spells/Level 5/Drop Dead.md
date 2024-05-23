@@ -1,6 +1,6 @@
 ---
 name: Drop Dead
-draft: true
+
 alias: Drop Dead
 tags:
   - pf2e/spell

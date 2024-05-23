@@ -1,6 +1,6 @@
 ---
 name: Life Pact
-draft: true
+
 alias: Life Pact
 tags:
   - pf2e/spell

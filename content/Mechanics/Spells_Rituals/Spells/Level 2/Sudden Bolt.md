@@ -1,6 +1,6 @@
 ---
 name: Sudden Bolt
-draft: true
+
 alias: Sudden Bolt
 tags:
   - pf2e/spell

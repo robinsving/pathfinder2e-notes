@@ -1,6 +1,6 @@
 ---
 name: Banishment
-draft: true
+
 alias: Banishment
 tags:
   - pf2e/spell

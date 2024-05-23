@@ -1,6 +1,6 @@
 ---
 name: Blink
-draft: true
+
 alias: Blink
 tags:
   - pf2e/spell

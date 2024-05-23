@@ -1,6 +1,6 @@
 ---
 name: Enervation
-draft: true
+
 alias: Enervation
 tags:
   - pf2e/spell

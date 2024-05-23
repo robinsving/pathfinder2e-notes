@@ -1,6 +1,6 @@
 ---
 name: Energy Aegis
-draft: true
+
 alias: Energy Aegis
 tags:
   - pf2e/spell

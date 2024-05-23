@@ -1,6 +1,6 @@
 ---
 name: Devour Life
-draft: true
+
 alias: Devour Life
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Shadow Army
-draft: true
+
 alias: Shadow Army
 tags:
   - pf2e/spell

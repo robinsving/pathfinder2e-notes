@@ -1,6 +1,6 @@
 ---
 name: Spiritual Anamnesis
-draft: true
+
 alias: Spiritual Anamnesis
 tags:
   - pf2e/spell

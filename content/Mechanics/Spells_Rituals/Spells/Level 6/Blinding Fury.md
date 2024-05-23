@@ -1,6 +1,6 @@
 ---
 name: Blinding Fury
-draft: true
+
 alias: Blinding Fury
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Entrancing Eyes
-draft: true
+
 alias: Entrancing Eyes
 tags:
   - pf2e/spell

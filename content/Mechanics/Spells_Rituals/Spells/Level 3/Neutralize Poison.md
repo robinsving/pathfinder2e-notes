@@ -1,6 +1,6 @@
 ---
 name: Neutralize Poison
-draft: true
+
 alias: Neutralize Poison
 tags:
   - pf2e/spell

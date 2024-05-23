@@ -1,6 +1,6 @@
 ---
 name: Voracious Gestalt
-draft: true
+
 alias: Voracious Gestalt
 tags:
   - pf2e/spell

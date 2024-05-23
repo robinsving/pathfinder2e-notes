@@ -1,6 +1,6 @@
 ---
 name: All is One, One is All
-draft: true
+
 alias: All is One, One is All
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Create Food
-draft: true
+
 alias: Create Food
 tags:
   - pf2e/spell

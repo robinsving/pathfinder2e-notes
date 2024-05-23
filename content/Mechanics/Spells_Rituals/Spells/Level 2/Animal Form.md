@@ -1,6 +1,6 @@
 ---
 name: Animal Form
-draft: true
+
 alias: Animal Form
 tags:
   - pf2e/spell

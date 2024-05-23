@@ -1,6 +1,6 @@
 ---
 name: Iron Gut
-draft: true
+
 alias: Iron Gut
 tags:
   - pf2e/spell

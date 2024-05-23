@@ -1,6 +1,6 @@
 ---
 name: Insect Form
-draft: true
+
 alias: Insect Form
 tags:
   - pf2e/spell

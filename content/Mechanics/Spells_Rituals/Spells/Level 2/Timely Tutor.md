@@ -1,6 +1,6 @@
 ---
 name: Timely Tutor
-draft: true
+
 alias: Timely Tutor
 tags:
   - pf2e/spell

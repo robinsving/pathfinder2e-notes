@@ -1,6 +1,6 @@
 ---
 name: Falling Sky
-draft: true
+
 alias: Falling Sky
 tags:
   - pf2e/spell

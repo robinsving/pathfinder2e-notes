@@ -1,6 +1,6 @@
 ---
 name: Positive Attunement
-draft: true
+
 alias: Positive Attunement
 tags:
   - pf2e/spell

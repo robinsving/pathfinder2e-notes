@@ -1,6 +1,6 @@
 ---
 name: Guiding Star
-draft: true
+
 alias: Guiding Star
 tags:
   - pf2e/spell

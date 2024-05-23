@@ -1,6 +1,6 @@
 ---
 name: Punishing Winds
-draft: true
+
 alias: Punishing Winds
 tags:
   - pf2e/spell

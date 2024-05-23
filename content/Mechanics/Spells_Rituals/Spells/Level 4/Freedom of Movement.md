@@ -1,6 +1,6 @@
 ---
 name: Freedom of Movement
-draft: true
+
 alias: Freedom of Movement
 tags:
   - pf2e/spell

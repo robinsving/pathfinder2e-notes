@@ -1,6 +1,6 @@
 ---
 name: Shrink
-draft: true
+
 alias: Shrink
 tags:
   - pf2e/spell

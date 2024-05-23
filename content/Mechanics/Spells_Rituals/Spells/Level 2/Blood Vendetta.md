@@ -1,6 +1,6 @@
 ---
 name: Blood Vendetta
-draft: true
+
 alias: Blood Vendetta
 tags:
   - pf2e/spell

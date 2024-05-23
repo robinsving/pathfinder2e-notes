@@ -1,6 +1,6 @@
 ---
 name: Invisibility
-draft: true
+
 alias: Invisibility
 tags:
   - pf2e/spell

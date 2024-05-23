@@ -1,6 +1,6 @@
 ---
 name: Replicate
-draft: true
+
 alias: Replicate
 tags:
   - pf2e/spell

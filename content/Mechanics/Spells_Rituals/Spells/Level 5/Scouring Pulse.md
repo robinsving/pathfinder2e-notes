@@ -1,6 +1,6 @@
 ---
 name: Scouring Pulse
-draft: true
+
 alias: Scouring Pulse
 tags:
   - pf2e/spell

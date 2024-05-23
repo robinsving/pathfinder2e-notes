@@ -1,6 +1,6 @@
 ---
 name: Resplendent Mansion
-draft: true
+
 alias: Resplendent Mansion
 tags:
   - pf2e/spell

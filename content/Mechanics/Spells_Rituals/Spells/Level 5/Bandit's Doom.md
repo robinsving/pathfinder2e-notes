@@ -1,6 +1,6 @@
 ---
 name: Bandit's Doom
-draft: true
+
 alias: Bandit's Doom
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Dinosaur Fort
-draft: true
+
 alias: Dinosaur Fort
 tags:
   - pf2e/spell

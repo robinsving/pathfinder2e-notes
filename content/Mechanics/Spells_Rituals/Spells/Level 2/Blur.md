@@ -1,6 +1,6 @@
 ---
 name: Blur
-draft: true
+
 alias: Blur
 tags:
   - pf2e/spell

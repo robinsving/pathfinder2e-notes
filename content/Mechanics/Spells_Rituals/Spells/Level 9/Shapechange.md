@@ -1,6 +1,6 @@
 ---
 name: Shapechange
-draft: true
+
 alias: Shapechange
 tags:
   - pf2e/spell

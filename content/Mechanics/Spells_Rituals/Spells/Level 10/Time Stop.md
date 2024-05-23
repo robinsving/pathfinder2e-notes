@@ -1,6 +1,6 @@
 ---
 name: Time Stop
-draft: true
+
 alias: Time Stop
 tags:
   - pf2e/spell

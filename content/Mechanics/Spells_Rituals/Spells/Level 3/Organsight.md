@@ -1,6 +1,6 @@
 ---
 name: Organsight
-draft: true
+
 alias: Organsight
 tags:
   - pf2e/spell

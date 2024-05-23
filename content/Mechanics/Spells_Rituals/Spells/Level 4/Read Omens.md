@@ -1,6 +1,6 @@
 ---
 name: Read Omens
-draft: true
+
 alias: Read Omens
 tags:
   - pf2e/spell

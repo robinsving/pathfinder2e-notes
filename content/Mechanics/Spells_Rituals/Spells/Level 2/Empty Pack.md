@@ -1,6 +1,6 @@
 ---
 name: Empty Pack
-draft: true
+
 alias: Empty Pack
 tags:
   - pf2e/spell

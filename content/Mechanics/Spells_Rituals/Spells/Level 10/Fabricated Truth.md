@@ -1,6 +1,6 @@
 ---
 name: Fabricated Truth
-draft: true
+
 alias: Fabricated Truth
 tags:
   - pf2e/spell

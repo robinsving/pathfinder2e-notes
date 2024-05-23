@@ -1,6 +1,6 @@
 ---
 name: Horrid Wilting
-draft: true
+
 alias: Horrid Wilting
 tags:
   - pf2e/spell

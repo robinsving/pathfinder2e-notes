@@ -1,6 +1,6 @@
 ---
 name: Nature's Enmity
-draft: true
+
 alias: Nature's Enmity
 tags:
   - pf2e/spell

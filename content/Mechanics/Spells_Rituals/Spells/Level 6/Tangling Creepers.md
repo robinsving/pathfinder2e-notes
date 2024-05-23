@@ -1,6 +1,6 @@
 ---
 name: Tangling Creepers
-draft: true
+
 alias: Tangling Creepers
 tags:
   - pf2e/spell

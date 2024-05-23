@@ -1,6 +1,6 @@
 ---
 name: Radiant Beam
-draft: true
+
 alias: Radiant Beam
 tags:
   - pf2e/spell

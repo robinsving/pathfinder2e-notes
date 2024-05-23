@@ -1,6 +1,6 @@
 ---
 name: Extract Poison
-draft: true
+
 alias: Extract Poison
 tags:
   - pf2e/spell

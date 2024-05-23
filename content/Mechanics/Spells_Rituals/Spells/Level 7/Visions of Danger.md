@@ -1,6 +1,6 @@
 ---
 name: Visions of Danger
-draft: true
+
 alias: Visions of Danger
 tags:
   - pf2e/spell

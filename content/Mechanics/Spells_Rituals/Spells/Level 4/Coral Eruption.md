@@ -1,6 +1,6 @@
 ---
 name: Coral Eruption
-draft: true
+
 alias: Coral Eruption
 tags:
   - pf2e/spell

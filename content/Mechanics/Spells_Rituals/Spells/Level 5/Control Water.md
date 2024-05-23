@@ -1,6 +1,6 @@
 ---
 name: Control Water
-draft: true
+
 alias: Control Water
 tags:
   - pf2e/spell

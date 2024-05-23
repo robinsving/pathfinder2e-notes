@@ -1,6 +1,6 @@
 ---
 name: Nondetection
-draft: true
+
 alias: Nondetection
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Aura of the Unremarkable
-draft: true
+
 alias: Aura of the Unremarkable
 tags:
   - pf2e/spell

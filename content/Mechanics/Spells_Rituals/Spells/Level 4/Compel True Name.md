@@ -1,6 +1,6 @@
 ---
 name: Compel True Name
-draft: true
+
 alias: Compel True Name
 tags:
   - pf2e/spell

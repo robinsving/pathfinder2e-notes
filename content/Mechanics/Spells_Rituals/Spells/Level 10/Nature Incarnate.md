@@ -1,6 +1,6 @@
 ---
 name: Nature Incarnate
-draft: true
+
 alias: Nature Incarnate
 tags:
   - pf2e/spell

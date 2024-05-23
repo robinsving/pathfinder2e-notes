@@ -1,6 +1,6 @@
 ---
 name: Moment of Renewal
-draft: true
+
 alias: Moment of Renewal
 tags:
   - pf2e/spell

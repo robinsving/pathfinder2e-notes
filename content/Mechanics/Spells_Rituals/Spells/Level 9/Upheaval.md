@@ -1,6 +1,6 @@
 ---
 name: Upheaval
-draft: true
+
 alias: Upheaval
 tags:
   - pf2e/spell

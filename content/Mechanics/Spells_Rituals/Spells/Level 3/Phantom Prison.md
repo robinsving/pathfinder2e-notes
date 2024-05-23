@@ -1,6 +1,6 @@
 ---
 name: Phantom Prison
-draft: true
+
 alias: Phantom Prison
 tags:
   - pf2e/spell

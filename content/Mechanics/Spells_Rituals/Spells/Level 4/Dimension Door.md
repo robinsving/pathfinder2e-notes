@@ -1,6 +1,6 @@
 ---
 name: Dimension Door
-draft: true
+
 aliases:
   - Dimension Door
   - Translocate

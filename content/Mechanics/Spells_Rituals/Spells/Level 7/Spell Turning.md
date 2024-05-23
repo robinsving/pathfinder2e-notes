@@ -1,6 +1,6 @@
 ---
 name: Spell Turning
-draft: true
+
 alias: Spell Turning
 tags:
   - pf2e/spell

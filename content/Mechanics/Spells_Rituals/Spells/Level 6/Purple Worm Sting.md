@@ -1,6 +1,6 @@
 ---
 name: Purple Worm Sting
-draft: true
+
 alias: Purple Worm Sting
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Mirecloak
-draft: true
+
 alias: Mirecloak
 tags:
   - pf2e/spell

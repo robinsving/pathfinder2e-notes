@@ -1,6 +1,6 @@
 ---
 name: Instant Armor
-draft: true
+
 alias: Instant Armor
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Ravenous Darkness
-draft: true
+
 alias: Ravenous Darkness
 tags:
   - pf2e/spell

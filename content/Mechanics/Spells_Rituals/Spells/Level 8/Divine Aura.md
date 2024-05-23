@@ -1,6 +1,6 @@
 ---
 name: Divine Aura
-draft: true
+
 alias: Divine Aura
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Bloodspray Curse
-draft: true
+
 alias: Bloodspray Curse
 tags:
   - pf2e/spell

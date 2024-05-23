@@ -1,6 +1,6 @@
 ---
 name: Infectious Comedy
-draft: true
+
 alias: Infectious Comedy
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Talking Corpse
-draft: true
+
 alias: Talking Corpse
 tags:
   - pf2e/spell

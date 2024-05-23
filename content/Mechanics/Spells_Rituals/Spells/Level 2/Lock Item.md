@@ -1,6 +1,6 @@
 ---
 name: Lock Item
-draft: true
+
 alias: Lock Item
 tags:
   - pf2e/spell

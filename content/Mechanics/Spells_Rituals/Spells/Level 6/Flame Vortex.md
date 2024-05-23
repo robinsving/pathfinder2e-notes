@@ -1,6 +1,6 @@
 ---
 name: Flame Vortex
-draft: true
+
 alias: Flame Vortex
 tags:
   - pf2e/spell

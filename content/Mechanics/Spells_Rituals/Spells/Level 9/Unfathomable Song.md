@@ -1,6 +1,6 @@
 ---
 name: Unfathomable Song
-draft: true
+
 alias: Unfathomable Song
 tags:
   - pf2e/spell

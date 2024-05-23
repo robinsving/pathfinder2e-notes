@@ -1,6 +1,6 @@
 ---
 name: Sanguine Mist
-draft: true
+
 alias: Sanguine Mist
 tags:
   - pf2e/spell

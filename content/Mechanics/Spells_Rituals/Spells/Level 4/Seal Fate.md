@@ -1,6 +1,6 @@
 ---
 name: Seal Fate
-draft: true
+
 alias: Seal Fate
 tags:
   - pf2e/spell

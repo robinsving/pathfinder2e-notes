@@ -1,6 +1,6 @@
 ---
 name: Summon Deific Herald
-draft: true
+
 alias: Summon Deific Herald
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Status
-draft: true
+
 alias: Status
 tags:
   - pf2e/spell

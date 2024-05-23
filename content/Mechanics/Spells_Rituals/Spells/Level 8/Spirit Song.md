@@ -1,6 +1,6 @@
 ---
 name: Spirit Song
-draft: true
+
 alias: Spirit Song
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Lure Dream
-draft: true
+
 alias: Lure Dream
 tags:
   - pf2e/spell

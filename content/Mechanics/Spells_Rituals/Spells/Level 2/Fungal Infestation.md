@@ -1,6 +1,6 @@
 ---
 name: Fungal Infestation
-draft: true
+
 alias: Fungal Infestation
 tags:
   - pf2e/spell

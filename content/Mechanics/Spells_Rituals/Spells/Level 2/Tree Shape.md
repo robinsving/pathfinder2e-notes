@@ -1,6 +1,6 @@
 ---
 name: Tree Shape
-draft: true
+
 alias: Tree Shape
 tags:
   - pf2e/spell

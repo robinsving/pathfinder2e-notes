@@ -1,6 +1,6 @@
 ---
 name: Pyrotechnics
-draft: true
+
 alias: Pyrotechnics
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Restoration
-draft: true
+
 alias: Restoration
 tags:
   - pf2e/spell

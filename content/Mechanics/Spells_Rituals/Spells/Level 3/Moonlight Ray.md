@@ -1,6 +1,6 @@
 ---
 name: Moonlight Ray
-draft: true
+
 alias: Moonlight Ray
 tags:
   - pf2e/spell

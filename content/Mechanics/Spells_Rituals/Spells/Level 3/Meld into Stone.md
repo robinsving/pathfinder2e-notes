@@ -1,6 +1,6 @@
 ---
 name: Meld into Stone
-draft: true
+
 alias: Meld into Stone
 tags:
   - pf2e/spell

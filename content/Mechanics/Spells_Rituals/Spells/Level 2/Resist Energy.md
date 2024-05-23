@@ -1,6 +1,6 @@
 ---
 name: Resist Energy
-draft: true
+
 alias: Resist Energy
 tags:
   - pf2e/spell

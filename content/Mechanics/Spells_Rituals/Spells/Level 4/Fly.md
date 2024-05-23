@@ -1,6 +1,6 @@
 ---
 name: Fly
-draft: true
+
 alias: Fly
 tags:
   - pf2e/spell

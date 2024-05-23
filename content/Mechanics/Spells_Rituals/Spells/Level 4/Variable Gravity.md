@@ -1,6 +1,6 @@
 ---
 name: Variable Gravity
-draft: true
+
 alias: Variable Gravity
 tags:
   - pf2e/spell

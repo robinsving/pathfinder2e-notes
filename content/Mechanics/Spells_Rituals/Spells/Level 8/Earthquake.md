@@ -1,6 +1,6 @@
 ---
 name: Earthquake
-draft: true
+
 alias: Earthquake
 tags:
   - pf2e/spell

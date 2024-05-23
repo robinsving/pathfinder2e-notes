@@ -1,6 +1,6 @@
 ---
 name: Fire Shield
-draft: true
+
 alias: Fire Shield
 tags:
   - pf2e/spell

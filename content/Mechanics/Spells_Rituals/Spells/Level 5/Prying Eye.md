@@ -1,6 +1,6 @@
 ---
 name: Prying Eye
-draft: true
+
 alias: Prying Eye
 tags:
   - pf2e/spell

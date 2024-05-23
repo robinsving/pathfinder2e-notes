@@ -1,6 +1,6 @@
 ---
 name: Hypnotic Pattern
-draft: true
+
 alias: Hypnotic Pattern
 tags:
   - pf2e/spell

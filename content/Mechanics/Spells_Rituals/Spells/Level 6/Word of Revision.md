@@ -1,6 +1,6 @@
 ---
 name: Word of Revision
-draft: true
+
 alias: Word of Revision
 tags:
   - pf2e/spell

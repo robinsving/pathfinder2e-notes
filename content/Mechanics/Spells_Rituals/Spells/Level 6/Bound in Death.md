@@ -1,6 +1,6 @@
 ---
 name: Bound in Death
-draft: true
+
 alias: Bound in Death
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Barkskin
-draft: true
+
 alias: Barkskin
 tags:
   - pf2e/spell

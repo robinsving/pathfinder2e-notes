@@ -1,6 +1,6 @@
 ---
 name: Temporal Twin
-draft: true
+
 alias: Temporal Twin
 tags:
   - pf2e/spell

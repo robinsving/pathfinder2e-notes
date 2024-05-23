@@ -1,6 +1,6 @@
 ---
 name: Faerie Fire
-draft: true
+
 alias: Faerie Fire
 tags:
   - pf2e/spell

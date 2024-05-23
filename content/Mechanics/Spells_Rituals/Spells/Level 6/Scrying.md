@@ -1,6 +1,6 @@
 ---
 name: Scrying
-draft: true
+
 alias: Scrying
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Subconscious Suggestion
-draft: true
+
 alias: Subconscious Suggestion
 tags:
   - pf2e/spell

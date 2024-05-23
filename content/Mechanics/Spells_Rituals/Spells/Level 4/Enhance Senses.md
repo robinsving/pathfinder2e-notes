@@ -1,6 +1,6 @@
 ---
 name: Enhance Senses
-draft: true
+
 alias: Enhance Senses
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Mirror's Misfortune
-draft: true
+
 alias: Mirror's Misfortune
 tags:
   - pf2e/spell

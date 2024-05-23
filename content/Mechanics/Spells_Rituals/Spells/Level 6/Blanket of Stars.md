@@ -1,6 +1,6 @@
 ---
 name: Blanket Of Stars
-draft: true
+
 alias: Blanket Of Stars
 tags:
   - pf2e/spell

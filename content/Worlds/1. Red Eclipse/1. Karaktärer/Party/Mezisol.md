@@ -1,6 +1,10 @@
 ---
 aliases:
   - Messi
+owner: Johannes
+character: pc
+status: alive
+class: Bard
 ---
 # ABC
 Gnome

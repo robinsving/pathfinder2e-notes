@@ -1,6 +1,6 @@
 ---
 name: Inevitable Disaster
-draft: true
+
 alias: Inevitable Disaster
 tags:
   - pf2e/spell

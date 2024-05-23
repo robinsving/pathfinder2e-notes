@@ -1,6 +1,6 @@
 ---
 name: Warding Aggression
-draft: true
+
 alias: Warding Aggression
 tags:
   - pf2e/spell

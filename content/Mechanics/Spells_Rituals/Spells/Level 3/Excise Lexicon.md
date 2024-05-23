@@ -1,6 +1,6 @@
 ---
 name: Excise Lexicon
-draft: true
+
 alias: Excise Lexicon
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Sea of Thought
-draft: true
+
 alias: Sea of Thought
 tags:
   - pf2e/spell

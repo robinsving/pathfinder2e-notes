@@ -1,6 +1,6 @@
 ---
 name: Persistent Servant
-draft: true
+
 alias: Persistent Servant
 tags:
   - pf2e/spell

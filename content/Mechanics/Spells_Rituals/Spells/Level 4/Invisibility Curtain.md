@@ -1,6 +1,6 @@
 ---
 name: Invisibility Curtain
-draft: true
+
 alias: Invisibility Curtain
 tags:
   - pf2e/spell

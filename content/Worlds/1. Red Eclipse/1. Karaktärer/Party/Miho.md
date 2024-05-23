@@ -1,3 +1,10 @@
+---
+owner: Mikael
+character: pc
+status: alive
+class: Cleric
+---
+
 Infadibullum.
 
 Sökare efter förlorad kunskap om aeromantik. Flygande städer etc. i Xian Ti Origin av släkten.

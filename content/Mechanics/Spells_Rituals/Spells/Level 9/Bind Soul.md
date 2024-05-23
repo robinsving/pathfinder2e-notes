@@ -1,6 +1,6 @@
 ---
 name: Bind Soul
-draft: true
+
 alias: Bind Soul
 tags:
   - pf2e/spell

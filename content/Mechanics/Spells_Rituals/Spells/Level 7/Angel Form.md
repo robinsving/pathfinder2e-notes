@@ -1,6 +1,6 @@
 ---
 name: Angel Form
-draft: true
+
 alias: Angel Form
 tags:
   - pf2e/spell

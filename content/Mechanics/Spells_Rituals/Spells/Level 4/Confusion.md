@@ -1,6 +1,6 @@
 ---
 name: Confusion
-draft: true
+
 alias: Confusion
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Spellwrack
-draft: true
+
 alias: Spellwrack
 tags:
   - pf2e/spell

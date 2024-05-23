@@ -1,6 +1,6 @@
 ---
 name: Sea Surge
-draft: true
+
 alias: Sea Surge
 tags:
   - pf2e/spell

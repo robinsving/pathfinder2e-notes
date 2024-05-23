@@ -1,6 +1,6 @@
 ---
 name: Horrifying Blood Loss
-draft: true
+
 alias: Horrifying Blood Loss
 tags:
   - pf2e/spell

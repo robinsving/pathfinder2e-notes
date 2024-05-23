@@ -1,6 +1,6 @@
 ---
 name: Dirge of Remembrance
-draft: true
+
 alias: Dirge of Remembrance
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Scorching Ray
-draft: true
+
 alias: Scorching Ray
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Phantom Crowd
-draft: true
+
 alias: Phantom Crowd
 tags:
   - pf2e/spell

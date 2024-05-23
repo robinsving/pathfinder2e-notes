@@ -1,6 +1,6 @@
 ---
 name: Chroma Leach
-draft: true
+
 alias: Chroma Leach
 tags:
   - pf2e/spell

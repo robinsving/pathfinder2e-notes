@@ -1,6 +1,6 @@
 ---
 name: Acid Arrow
-draft: true
+
 alias: Acid Arrow
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Summon Entity
-draft: true
+
 alias: Summon Entity
 tags:
   - pf2e/spell

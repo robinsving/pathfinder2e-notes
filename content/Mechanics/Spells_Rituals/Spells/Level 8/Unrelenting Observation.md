@@ -1,6 +1,6 @@
 ---
 name: Unrelenting Observation
-draft: true
+
 alias: Unrelenting Observation
 tags:
   - pf2e/spell

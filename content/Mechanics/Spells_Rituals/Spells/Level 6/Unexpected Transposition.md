@@ -1,6 +1,6 @@
 ---
 name: Unexpected Transposition
-draft: true
+
 alias: Unexpected Transposition
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Perseis's Precautions
-draft: true
+
 alias: Perseis's Precautions
 tags:
   - pf2e/spell

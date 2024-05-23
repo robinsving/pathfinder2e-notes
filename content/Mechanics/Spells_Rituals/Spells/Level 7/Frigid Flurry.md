@@ -1,6 +1,6 @@
 ---
 name: Frigid Flurry
-draft: true
+
 alias: Frigid Flurry
 tags:
   - pf2e/spell

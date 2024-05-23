@@ -1,6 +1,6 @@
 ---
 name: Glyph of Warding
-draft: true
+
 alias: Glyph of Warding
 tags:
   - pf2e/spell

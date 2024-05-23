@@ -1,6 +1,6 @@
 ---
 name: Creation
-draft: true
+
 alias: Creation
 tags:
   - pf2e/spell

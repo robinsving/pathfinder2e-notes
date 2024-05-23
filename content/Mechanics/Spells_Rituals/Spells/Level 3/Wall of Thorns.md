@@ -1,6 +1,6 @@
 ---
 name: Wall of Thorns
-draft: true
+
 alias: Wall of Thorns
 tags:
   - pf2e/spell

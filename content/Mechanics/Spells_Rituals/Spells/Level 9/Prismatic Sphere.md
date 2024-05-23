@@ -1,6 +1,6 @@
 ---
 name: Prismatic Sphere
-draft: true
+
 alias: Prismatic Sphere
 tags:
   - pf2e/spell

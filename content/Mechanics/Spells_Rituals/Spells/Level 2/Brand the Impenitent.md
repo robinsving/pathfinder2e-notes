@@ -1,6 +1,6 @@
 ---
 name: Brand the Impenitent
-draft: true
+
 alias: Brand the Impenitent
 tags:
   - pf2e/spell

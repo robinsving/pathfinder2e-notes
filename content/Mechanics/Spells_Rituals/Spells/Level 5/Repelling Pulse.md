@@ -1,6 +1,6 @@
 ---
 name: Repelling Pulse
-draft: true
+
 alias: Repelling Pulse
 tags:
   - pf2e/spell

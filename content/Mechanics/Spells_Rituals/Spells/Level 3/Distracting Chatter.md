@@ -1,6 +1,6 @@
 ---
 name: Distracting Chatter
-draft: true
+
 alias: Distracting Chatter
 tags:
   - pf2e/spell

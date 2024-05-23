@@ -1,6 +1,6 @@
 ---
 name: Repulsion
-draft: true
+
 alias: Repulsion
 tags:
   - pf2e/spell

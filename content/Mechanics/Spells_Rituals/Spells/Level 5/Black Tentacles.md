@@ -1,6 +1,6 @@
 ---
 name: Black Tentacles
-draft: true
+
 alias: Black Tentacles
 tags:
   - pf2e/spell

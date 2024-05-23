@@ -1,6 +1,6 @@
 ---
 name: Death Ward
-draft: true
+
 alias: Death Ward
 tags:
   - pf2e/spell

@@ -1,6 +1,6 @@
 ---
 name: Chilling Darkness
-draft: true
+
 alias: Chilling Darkness
 tags:
   - pf2e/spell

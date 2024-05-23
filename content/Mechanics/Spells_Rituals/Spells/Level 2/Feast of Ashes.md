@@ -1,6 +1,6 @@
 ---
 name: Feast of Ashes
-draft: true
+
 alias: Feast of Ashes
 tags:
   - pf2e/spell

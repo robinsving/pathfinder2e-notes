@@ -1,6 +1,6 @@
 ---
 name: Tempest of Shades
-draft: true
+
 alias: Tempest of Shades
 tags:
   - pf2e/spell

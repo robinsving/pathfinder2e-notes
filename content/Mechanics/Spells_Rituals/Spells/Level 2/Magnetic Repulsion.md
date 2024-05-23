@@ -1,6 +1,6 @@
 ---
 name: Magnetic Repulsion
-draft: true
+
 alias: Magnetic Repulsion
 tags:
   - pf2e/spell

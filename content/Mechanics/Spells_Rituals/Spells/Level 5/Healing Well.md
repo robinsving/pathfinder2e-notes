@@ -1,6 +1,6 @@
 ---
 name: Healing Well
-draft: true
+
 alias: Healing Well
 tags:
   - pf2e/spell

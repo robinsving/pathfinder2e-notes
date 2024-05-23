@@ -1,6 +1,6 @@
 ---
 name: Time Beacon
-draft: true
+
 alias: Time Beacon
 tags:
   - pf2e/spell

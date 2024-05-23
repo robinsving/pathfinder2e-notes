@@ -1,6 +1,6 @@
 ---
 name: Magnificent Mansion
-draft: true
+
 alias: Magnificent Mansion
 tags:
   - pf2e/spell

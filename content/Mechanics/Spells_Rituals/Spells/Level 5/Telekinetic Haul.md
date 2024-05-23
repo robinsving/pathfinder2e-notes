@@ -1,6 +1,6 @@
 ---
 name: Telekinetic Haul
-draft: true
+
 alias: Telekinetic Haul
 tags:
   - pf2e/spell

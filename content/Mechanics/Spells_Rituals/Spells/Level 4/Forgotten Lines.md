@@ -1,6 +1,6 @@
 ---
 name: Forgotten Lines
-draft: true
+
 alias: Forgotten Lines
 tags:
   - pf2e/spell

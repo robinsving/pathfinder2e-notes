@@ -5,8 +5,10 @@ tags:
   - quest
 ---
 # Döda [[Queen Abrogale Thrune II]]
-Vi har fått i uppdrag att döda Drottningen.
+Vi har fått i uppdrag att döda Drottningen, [[Queen Abrogale Thrune II]].
 
 För att åstadkomma detta måste vi först besegra de två mäktiga magikerna:
-[[Mages of Cheliax#DeZalin, Charin]]
-[[Mages of Cheliax#Emalisar Sandivar]]
+[[Dysalin]]
+[[Emalysra]]
+
+Drottningen kommer att vara omringad av sina [[Elite Knights]], minst 3 st.
