@@ -1,9 +1,5 @@
----
-title: Artifact
-tags: pf2e/trait
-draft: true
----
 # Artifact
+#pf2e/trait 
 *Source* Gamemastery Guide pg. 250
 
 Items with this trait are artifacts. These magic items can’t be crafted by normal means, and they can’t be damaged by normal means. Artifacts are always rare or unique.

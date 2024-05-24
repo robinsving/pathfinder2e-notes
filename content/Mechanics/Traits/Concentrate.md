@@ -1,9 +1,5 @@
----
-title: Concentrate
-tags: pf2e/trait
-draft: true
----
 # Concentrate
+#pf2e/trait 
 *Source* Core Rulebook pg. 630
 
 An action with this trait requires a degree of mental concentration and discipline.

@@ -1,9 +1,5 @@
----
-title: Occult
-tags: pf2e/trait
-draft: true
----
 # Occult
+#pf2e/trait 
 *Source* Core Rulebook pg. 634 3.0
 
 This magic comes from the occult tradition, calling upon bizarre and ephemeral mysteries. Anything with this trait is magical.

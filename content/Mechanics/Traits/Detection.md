@@ -1,10 +1,6 @@
 
----
-title: Detection
-tags: pf2e/trait
-draft: true
----
 # Detection
+#pf2e/trait 
 *Source* Core Rulebook pg. 630
 
 Effects with this trait attempt to determine the presence or location of a person, object, or aura.

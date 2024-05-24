@@ -1,9 +1,5 @@
----
-title: Revelation
-tags: pf2e/trait
-draft: true
----
 # Revelation
+#pf2e/trait 
 *Source* Core Rulebook pg. 635 3.0
 
 Effects with this trait see things as they truly are.

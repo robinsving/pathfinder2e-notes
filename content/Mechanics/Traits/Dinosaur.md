@@ -1,9 +1,5 @@
----
-title: Dinosaur
-tags: pf2e/trait
-draft: true
----
 # Dinosaur
+#pf2e/trait 
 *Source* Core Rulebook pg. 630 3.0
 
 These reptiles have survived from prehistoric times.

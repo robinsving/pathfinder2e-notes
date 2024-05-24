@@ -1,10 +1,6 @@
 
----
-title: Morph
-tags: pf2e/trait
-draft: true
----
 # Morph
+#pf2e/trait 
 *Source* Core Rulebook pg. 634 
 
 Effects that slightly alter a creature's form have the morph trait. Any Strikes specifically granted by a morph effect are magical. You can be affected by multiple morph spells at once, but if you morph the same body part more than once, the second morph effect attempts to [counteract](../Rules/Counteracting.md) the first (in the same manner as two [Polymorph](Polymorph.md) effects, described in that trait).

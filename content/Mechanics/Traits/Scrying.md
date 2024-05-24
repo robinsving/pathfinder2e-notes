@@ -1,9 +1,5 @@
----
-title: Scrying
-tags: pf2e/trait
-draft: true
----
 # Scrying
+#pf2e/trait 
 *Source* Core Rulebook pg. 636 3.0
 
 A scrying effect lets you see, hear, or otherwise get sensory information from a distance using a sensor or apparatus, rather than your own eyes and ears.

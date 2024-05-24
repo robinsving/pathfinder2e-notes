@@ -1,9 +1,5 @@
----
-title: Olfactory
-tags: pf2e/trait
-draft: true
----
 # Olfactory
+#pf2e/trait 
 *Source* Bestiary pg. 168
 
 An olfactory effect can affect only creatures that can smell it. This applies only to olfactory parts of the effect, as determined by the GM.

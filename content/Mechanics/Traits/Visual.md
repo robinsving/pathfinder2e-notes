@@ -1,9 +1,5 @@
----
-title: Visual
-tags: pf2e/trait
-draft: true
----
 # Visual
+#pf2e/trait 
 *Source* Core Rulebook pg. 638 3.0
 
 A visual effect can affect only creatures that can see it. This applies only to visible parts of the effect, as determined by the GM.

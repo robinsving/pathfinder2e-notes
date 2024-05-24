@@ -1,9 +1,5 @@
----
-title: Psychic
-tags: pf2e/trait
-draft: true
----
 # Psychic
+#pf2e/trait 
 *Source* Dark Archive pg. 221
 
 This indicates abilities from the psychic class.

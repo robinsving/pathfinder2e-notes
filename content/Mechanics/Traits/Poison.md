@@ -1,9 +1,5 @@
----
-title: Poison
-tags: pf2e/trait
-draft: true
----
 # Poison
+#pf2e/trait 
 *Source* Core Rulebook pg. 635 3.0
 
 An effect with this trait delivers a poison or deals poison damage. An item with this trait is poisonous and might cause an affliction.

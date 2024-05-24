@@ -1,9 +1,5 @@
----
-title: Sonic
-tags: pf2e/trait
-draft: true
----
 # Sonic
+#pf2e/trait 
 *Source* Core Rulebook pg. 636 
 
 An effect with the sonic trait functions only if it makes sound, meaning it has no effect in an area of silence or in a vacuum.

@@ -1,9 +1,5 @@
----
-title: Haunt
-tags: pf2e/trait
-draft: true
----
 # Haunt
+#pf2e/trait 
 *Source* Core Rulebook pg. 632 3.0
 
 A hazard with this trait is a spiritual echo, often of someone with a tragic death. Putting a haunt to rest often involves resolving the haunt’s unfinished business. A haunt that hasn’t been properly put to rest always returns after a time.

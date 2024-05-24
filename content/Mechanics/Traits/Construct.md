@@ -1,9 +1,5 @@
----
-title: Construct
-tags: pf2e/trait
-draft: true
----
 # Construct
+#pf2e/trait 
 *Source* Bestiary 2 pg. 346 2.0
 
 A construct is an artificial creature empowered by a force other than necromancy. Constructs are often mindless; they are immune to bleed damage, death effects, disease, healing, necromancy, nonlethal attacks, poison, and the [Doomed](../Conditions/Doomed.md), [Drained](../Conditions/Drained.md), [Fatigued](../Conditions/Fatigued.md), [Paralyzed](../Conditions/Paralyzed.md), [Sickened](../Conditions/Sickened.md), and [Unconscious](../Conditions/Unconscious.md) conditions; and they may have Hardness based on the materials used to construct their bodies.

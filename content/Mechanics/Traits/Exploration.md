@@ -1,9 +1,5 @@
----
-title: Exploration
-tags: pf2e/trait
-draft: true
----
 # Exploration
+#pf2e/trait 
 *Source* Core Rulebook pg. 631 3.0
 
 An activity with this trait takes more than a turn to use, and can usually be used only during exploration mode.

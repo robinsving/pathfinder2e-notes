@@ -1,9 +1,5 @@
----
-title: Possession
-tags: pf2e/trait
-draft: true
----
 # Possession
+#pf2e/trait 
 *Source* Core Rulebook pg. 635 3.0
 
 Effects with this trait allow a creature to project its mind and spirit into a target. A creature immune to mental effects can't use a possession effect. While possessing a target, a possessor's true body is [Unconscious](../Conditions/Unconscious.md) (and can't wake up normally), unless the possession effect allows the creature to physically enter the target. Whenever the target takes damage, the possessor takes half that amount of damage as mental damage.

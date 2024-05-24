@@ -1,9 +1,5 @@
----
-title: Ethereal
-tags: pf2e/trait
-draft: true
----
 # Ethereal
+#pf2e/trait 
 *Source* Core Rulebook pg. 631 3.0
 
 Ethereal creatures are natives of the Ethereal Plane. They can survive the basic environmental effects of the Ethereal Plane.

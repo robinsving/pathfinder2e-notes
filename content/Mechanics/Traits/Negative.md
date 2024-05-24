@@ -1,9 +1,5 @@
----
-title: Negative
-tags: pf2e/trait
-draft: true
----
 # Negative
+#pf2e/trait 
 *Source* Core Rulebook pg. 634 3.0
 
 Effects with this trait heal undead creatures with negative energy, deal negative damage to living creatures, or manipulate negative energy. Planes with this trait are vast, empty reaches that suck the life from the living. Creatures with this trait are natives of the Negative Energy Plane. They can survive the basic environmental effects of the Negative Energy Plane.

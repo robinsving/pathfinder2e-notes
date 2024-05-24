@@ -1,9 +1,5 @@
----
-title: Demon
-tags: pf2e/trait
-draft: true
----
 # Demon
+#pf2e/trait 
 *Source* Core Rulebook pg. 630 3.0
 
 A family of fiends, demons hail from or trace their origins to the Abyss. Most are irredeemably chaotic evil and have darkvision.

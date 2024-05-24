@@ -1,9 +1,5 @@
----
-title: Abjuration
-tags: pf2e/trait
-draft: true
----
 # Abjuration
+#pf2e/trait 
 *Source* Core Rulebook pg. 628 3.0
 
 Effects and magic items with this trait are associated with the abjuration school of magic, typically involving protection or wards.

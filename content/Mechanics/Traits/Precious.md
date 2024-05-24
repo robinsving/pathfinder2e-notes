@@ -1,9 +1,5 @@
----
-title: Precious
-tags: pf2e/trait
-draft: true
----
 # Precious
+#pf2e/trait 
 *Source* Core Rulebook pg. 635 3.0
 
 Valuable materials with special properties have the precious trait. They can be substituted for base materials when you [Craft](../Activities/Craft.md) items.

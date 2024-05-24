@@ -1,9 +1,5 @@
----
-title: Inhaled
-tags: pf2e/trait
-draft: true
----
 # Inhaled
+#pf2e/trait 
 *Source* Core Rulebook pg. 633 3.0
 
 This poison is delivered when breathed in.

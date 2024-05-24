@@ -1,9 +1,5 @@
----
-title: Force
-tags: pf2e/trait
-draft: true
----
 # Force
+#pf2e/trait 
 *Source* Core Rulebook pg. 632 3.0
 
 Effects with this trait deal force damage or create objects made of pure magical force.

@@ -1,9 +1,5 @@
----
-title: Minion
-tags: pf2e/trait
-draft: true
----
 # Minion
+#pf2e/trait 
 *Source* Core Rulebook pg. 634 3.0
 
 Minions are creatures that directly serve another creature. A creature with this trait can use only 2 actions per turn, doesn't have reactions, and can't act when it's not your turn. Your minion acts on your turn in combat, once per turn, when you spend an action to issue it commands. 

@@ -1,9 +1,5 @@
----
-title: Spirit
-tags: pf2e/trait
-draft: true
----
 # Spirit
+#pf2e/trait 
 *Source* Core Rulebook pg. 636 3.0
 
 Spirits are ephemeral creatures defined by their spiritual self and often lacking a physical form.

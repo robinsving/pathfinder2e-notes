@@ -1,9 +1,5 @@
----
-title: Fire
-tags: pf2e/trait
-draft: true
----
 # Fire
+#pf2e/trait 
 *Source* Core Rulebook pg. 632 3.0
 
 Effects with the fire trait deal fire damage or either conjure or manipulate fire. Those that manipulate fire have no effect in an area without fire. Creatures with this trait consist primarily of fire or have a magical connection to that element. Planes with this trait are composed of flames that continually burn with no fuel source. Fire planes are extremely [Hostile](../Conditions/Hostile.md) to non-fire creatures.

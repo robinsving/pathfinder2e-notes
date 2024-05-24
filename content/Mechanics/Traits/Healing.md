@@ -1,9 +1,5 @@
----
-title: Healing
-tags: pf2e/trait
-draft: true
----
 # Healing
+#pf2e/trait 
 *Source* Core Rulebook pg. 632 3.0
 
 A healing effect restores a creature's body, typically by restoring Hit Points, but sometimes by removing [diseases](../Rules/Afflictions.md) or other debilitating effects.

@@ -1,9 +1,5 @@
----
-title: Cleric
-tags: pf2e/trait
-draft: true
----
 # Cleric
+#pf2e/trait 
 *Source* Core Rulebook pg. 629 3.0
 
 This indicates abilities from the cleric class.

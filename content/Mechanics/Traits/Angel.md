@@ -1,9 +1,5 @@
----
-title: Angel
-tags: pf2e/trait
-draft: true
----
 # Angel
+#pf2e/trait 
 *Source* Core Rulebook pg. 628 3.0
 
 This family of celestials is native to the plane of Nirvana. Most angels are neutral good, have darkvision, and have a weakness to evil damage.

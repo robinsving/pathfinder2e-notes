@@ -1,9 +1,5 @@
----
-title: Monk
-tags: pf2e/trait
-draft: true
----
 # Monk
+#pf2e/trait 
 *Source* Core Rulebook pg. 634 3.0
 
 Abilities with this trait are from the monk class. A weapon with this trait is primarily used by monks.

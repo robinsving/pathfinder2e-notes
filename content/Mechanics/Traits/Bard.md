@@ -1,9 +1,5 @@
----
-title: Bard
-tags: pf2e/trait
-draft: true
----
 # Bard
+#pf2e/trait 
 *Source* Core Rulebook pg. 629 3.0
 This indicates abilities from the bard class.
 

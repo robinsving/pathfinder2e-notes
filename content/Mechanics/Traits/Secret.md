@@ -1,10 +1,6 @@
 
----
-title: Secret
-tags: pf2e/trait
-draft: true
----
 # Secret
+#pf2e/trait 
 *Source* Core Rulebook pg. 636
 
 The GM rolls the check for this ability in secret.

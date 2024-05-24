@@ -1,6 +1,7 @@
 ---
 alias: Divination
 tags: pf2e/trait
+draft: true
 ---
 
 # Divination

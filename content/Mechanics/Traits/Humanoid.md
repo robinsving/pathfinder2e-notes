@@ -1,9 +1,5 @@
----
-title: Humanoid
-tags: pf2e/trait
-draft: true
----
 # Humanoid
+#pf2e/trait 
 *Source* Core Rulebook pg. 633 3.0
 
 Humanoid creatures reason and act much like humans. They typically stand upright and have two arms and two legs.

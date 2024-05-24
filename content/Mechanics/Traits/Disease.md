@@ -1,9 +1,5 @@
----
-title: Disease
-tags: pf2e/trait
-draft: true
----
 # Disease
+#pf2e/trait 
 *Source* Core Rulebook pg. 631 3.0
 
 An effect with this trait applies one or more diseases. A disease is typically an affliction.

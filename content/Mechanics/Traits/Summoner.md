@@ -1,9 +1,5 @@
----
-title: Summoner
-tags: pf2e/trait
-draft: true
----
 # Summoner
+#pf2e/trait 
 *Source* Secrets of Magic pg. 254 1.1
 
 This indicates abilities from the summoner class.

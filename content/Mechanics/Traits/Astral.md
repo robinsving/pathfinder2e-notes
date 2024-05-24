@@ -1,9 +1,5 @@
----
-title: Astral
-tags: pf2e/trait
-draft: true
----
 # Astral
+#pf2e/trait 
 *Source* Core Rulebook pg. 628 3.0
 
 Astral creatures are native of the Astral Plane. They can survive the basic environmental effects of the Astral Plane.

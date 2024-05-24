@@ -1,9 +1,5 @@
----
-title: Air
-tags: pf2e/trait
-draft: true
----
 # Air
+#pf2e/trait 
 *Source* Core Rulebook pg. 628 3.0
 
 Effects with the air trait either manipulate or conjure air. Those that manipulate air have no effect in a vacuum or an area without air. Creatures with this trait consist primarily of air or have a magical connection to that element.

@@ -1,9 +1,5 @@
----
-title: Fortune
-tags: pf2e/trait
-draft: true
----
 # Fortune
+#pf2e/trait 
 *Source* Core Rulebook pg. 632 3.0
 
 A fortune effect beneficially alters how you roll your dice. You can never have more than one fortune effect alter a single roll. If multiple fortune effects would apply, you have to pick which to use. If a fortune effect and a misfortune effect would apply to the same roll, the two cancel each other out, and you roll normally.

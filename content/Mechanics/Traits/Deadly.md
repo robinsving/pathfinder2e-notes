@@ -1,9 +1,5 @@
----
-title: Deadly
-tags: pf2e/trait
-draft: true
----
 # Deadly
+#pf2e/trait 
 *Source* Core Rulebook pg. 282 3.0
 
 On a critical hit, the weapon adds a weapon damage die of the listed size. Roll this after doubling the weapon's damage. This increases to two dice if the weapon has a greater striking rune and three dice if the weapon has a major striking rune.

@@ -1,6 +1,7 @@
 ---
 aliases: Cantrip
 tags: pf2e/trait
+draft: true
 ---
 
 # Cantrip

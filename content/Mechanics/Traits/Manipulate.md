@@ -1,9 +1,5 @@
----
-title: Manipulate
-tags: pf2e/trait
-draft: true
----
 # Manipulate
+#pf2e/trait 
 *Source* Core Rulebook pg. 633 3.0
 
 You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.

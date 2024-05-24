@@ -1,10 +1,6 @@
 
----
-title: Polymorph
-tags: pf2e/trait
-draft: true
----
 # Polymorph
+#pf2e/trait 
 *Source* Core Rulebook pg. 635
 
 These effects transform the target into a new form. 
