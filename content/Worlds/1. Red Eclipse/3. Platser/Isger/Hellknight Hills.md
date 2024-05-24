@@ -4,7 +4,7 @@ aliases:
   - Altaerein
   - Citadel
 ---
-2h från [[Breachill]] ligger ett citadel som tidigare användes av en [[Hellknight]] Order of the Nail, som inte längre innehar platsen.
+2h från [[Breachill]] ligger ett citadel som tidigare användes av en [[Hellknights]] Order of the Nail, som inte längre innehar platsen.
 
 Den innehas just nu av Bejun, [[Sofia]], samt goblin-klanen Bumble Barrages.
 

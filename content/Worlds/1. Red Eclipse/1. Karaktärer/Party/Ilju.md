@@ -7,6 +7,7 @@ aliases:
   - Ilju Pirla
 ---
 
+![[Solaire-removebg-preview.png|200]]
 Före detta sjukvårdare i en liten armé
 -   Desertör
 -   Flirtade med kaptenens fru

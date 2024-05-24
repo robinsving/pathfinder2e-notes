@@ -6,6 +6,8 @@ character: pc
 status: alive
 class: Bard
 ---
+![[mezisol-removebg-preview.png|200]]
+
 # ABC
 Gnome
 Berömd kändis

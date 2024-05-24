@@ -4,9 +4,10 @@ character: npc
 status: deceased
 class: Ranger
 ---
+
+![[char.jpg|200]]
 # Liv och uppväxt
 Slum boy från [[Cheliax]] huvudstad. Han kom inte in i matan, för han bodde på gatan.
-![https://i.pinimg.com/736x/7a/5e/6c/7a5e6c98fdc7577cd3bb63e4a140e0a8.jpg|200](https://i.pinimg.com/736x/7a/5e/6c/7a5e6c98fdc7577cd3bb63e4a140e0a8.jpg)
 
 # Död och efterspel
 ## Statue

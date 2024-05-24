@@ -7,6 +7,7 @@ character: pc
 status: alive
 class: Druid
 ---
+![[alex_v3.png|200]]
 
 %% Begin Waypoint %%
 - [[Alex Retur]]

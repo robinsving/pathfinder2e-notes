@@ -7,6 +7,7 @@ status: alive
 class: Champion
 ---
 
+![[grimm_v2_bg.png|200]]
 %% Begin Waypoint %%
 - **Bakgrund**
 	- [[Demonen!]]
