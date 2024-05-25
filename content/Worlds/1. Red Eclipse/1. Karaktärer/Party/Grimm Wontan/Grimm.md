@@ -1,9 +1,9 @@
 Nee: 2nd Kuthona
 # Ancestry & heritage
-Grimm är en halv-[[Mechanics/Rules/traits/orc]]. Han har även någonting annat i sitt blod. Ängeln Nefaria från [[Prison break]] avslöjade detta till att vara [[Mechanics/Rules/traits/aasimar-apg|Aasimar]]]-blod.
+Grimm är en halv-[[Mechanics/Character Building/Ancestries/Orc|Orc]]. Han har även någonting annat i sitt blod. Ängeln Nefaria från [[Prison break]] avslöjade detta till att vara [[Mechanics/Rules/traits/aasimar-apg|Aasimar]]]-blod.
 Det finns flera effekter av detta
 - han ser ut som en fullblodig [[Mechanics/Character Building/Ancestries/Orc|Orc]], medan hans syster, som också är halv-orc, ser ut som en human.
-- han har blodsmagi ([[Mechanics/Rules/traits/sorcerer]])
+- han har blodsmagi ([[Mechanics/Character Building/archetypes/sorcerer|sorcerer]])
 - Hans ärr helar snabbare än vanligt
 
 - Han har en speciell mormor, [[Familj#Mormor Zaina Wontan - Mormor]] 

@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "robinsving.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
+    parseTags: true,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
