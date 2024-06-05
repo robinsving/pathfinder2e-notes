@@ -5,11 +5,12 @@ aliases:
 ---
 
 Det finns "Tolv riken av helvetet". I verkligheten är världar som är anslutna till varandra, i lager.
+Alla ser lite förstörda ut, fram till 
 
 # 0. Void
 Rikena börjar med nollte riket. Bristen på liv.
 # 1. Hades
-Demonernas hemvärld. Asmodeus styr Helvetet. Där finns även en Soul Forge som kan återuppstå demoner som stupar i krig.
+Demonernas hemvärld. Asmodeus styr Hades. Där finns även en Soul Forge som kan återuppstå demoner som stupar i krig.
 >*[[Asmodeus]]*
 # 2. Styx
 Tieflings hemvärld. Tieflings är ej samma sak som halvblod, vilket verkar vara någon med mekanisk skapelse.
@@ -37,8 +38,9 @@ Leds av [[Geryon]]
 >*[[Dispater]]*
 # 9. Tellus
 Människor hemvärld.
-Leds av [[Dispater]].
+Leds av [[dispater-logm|Dispater]].
 800 år sedan människornas motstånd föll.
+Troligen är världen ganska förstörd, och ser ut som andra helveten.
 >*[[Barbatos]]*
 # 10. Golarion
 Valherus hemvärld.

@@ -1,8 +1,18 @@
+---
+aliases:
+  - Elite Knight
+  - Eliten
+---
 # Elite Knight
 6 st total, men 2 (+1) är avlidna.
 
+Namn: Erik, Nils, Peter
+
+Crit on 50
+Hits on 46
 Hits on 40
 Miss on 37
+
 Force resistance 10
 Fire immune
 No [[Cold]] weakness

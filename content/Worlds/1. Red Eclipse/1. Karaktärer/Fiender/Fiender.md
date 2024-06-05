@@ -1,12 +1,16 @@
 %% Begin Waypoint %%
 - [[Antipaladin]]
+- **Chelianska magikerna**
+	- [[Abbott Tuition]]
+	- [[Dysalin]]
+	- [[Emalysra]]
 - **Demoner**
 	- [[Contessa Lrilatha]]
 	- [[Demontyper]]
 	- [[Linteria, the Succubus]]
-- [[Elite Knights]]
+- [[Drottning Abrogale Thrune II]]
+- [[Elite]]
 - [[Hybrid]]
-- [[Queen Abrogale Thrune II]] et al.
 - [[Renviq Harduun, the Litch - RIP]]
 - [[Svarta Korpen -  former Knight]]
 - [[Vilree]]

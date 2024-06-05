@@ -74,7 +74,7 @@ Gör ett spektakel och dra bort fokus från kroppen, täck med magi? Lägg [[Fan
 	- [x]  hon ska ta sig loss (Sjömansknop som ser stabil ut, men lätt går upp)
 	- [x]  hon ska ta sig ut (gömma sig i [[Spacious Pouch (Type I)]] och ta ut den kropp som finns där) efter att hon faller ner
 - [x]  Dra fram kviven till Fanny och hugg ned (eller pressa in långsamt, men med kraft om det är bättre teatraliskt)
-	- [x] Dedikera offret till vår [[Queen Abrogale Thrune II]] och [[Cheliax]] ära
+	- [x] Dedikera offret till vår [[Drottning Abrogale Thrune II]] och [[Cheliax]] ära
 - [x]  Invänta publikens jubel
 - [x]  Ropa efter fackla till [[Glak]] (eller dylik)
 - [x]  [[Glak]] letar och "råkar" stöta till bålen så att Fanny och [[Spacious Pouch (Type I)]] ramlar ner

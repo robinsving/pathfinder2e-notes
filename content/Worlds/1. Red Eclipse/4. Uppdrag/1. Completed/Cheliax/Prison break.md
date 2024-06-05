@@ -17,8 +17,8 @@ Vi kanske kan smyga in på natten, men det verkar vara aktivitet där under den 
 ### Fångtransport
 > Vi fångade dessa två. En olaglig taverna i Trick Alley.
 > De hade den här. Cheliax pistol.
-> Vi har rapporterat det till en [[Elite Knights|Elite Knight]] som kommer att komma hit och "prata" med fångarna imorgon. 
-> Du vill väl inte låta [[Elite Knights]] komma hit och se att det är tomt?
+> Vi har rapporterat det till en [[Elite|Elite Knight]] som kommer att komma hit och "prata" med fångarna imorgon. 
+> Du vill väl inte låta [[Elite]] komma hit och se att det är tomt?
 
 [[Grimm|Victor Doc]], Sergant i Scourge
 #### Warden

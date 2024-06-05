@@ -1,3 +1,10 @@
+---
+aliases:
+  - Thrune
+  - drottningen
+  - Abrogale
+---
+
 # Historik
 Drottning Thrune är [[Cheliax]] härskarinna, och styr därför över [[Isger]], hennes vassal. Känd demon-dyrkare.
 > [!Rumor]
@@ -9,6 +16,6 @@ Drottningen är inte människa, utan en Tiefling
 - [[Emalysra]]
 - [[Dysalin]]
 - [[Abbott Tuition]]
-- [[Hellknights]]
-- [[Elite Knights]]
+- [[Hellknight]]
+- [[Elite]]
 - [[Worlds/1. Red Eclipse/1. Karaktärer/Fiender/Antipaladin|Antipaladin]]
