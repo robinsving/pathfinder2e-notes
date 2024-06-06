@@ -1,8 +1,9 @@
 ---
 aliases:
   - HK
-  - Hellknighten
+  - Hellknights
   - Hellknight
+  - Hellknighten
 ---
 In Pathfinder 2e TTRPG, the Hellknights are a renowned order of knights known for their unwavering discipline, commitment to law and order, and their ruthless pursuit of justice. They operate primarily in the region of [[Cheliax|Cheliax]], a nation heavily influenced by devil worship and diabolism.
 
