@@ -1,3 +1,8 @@
+---
+aliases:
+  - kristallsvärd
+---
+
 Dessa mytomspunna vapen är stora och imponerande, med en slående design och unika egenskaper.
 
 # Utseende

@@ -2,6 +2,7 @@
 aliases:
   - Elite Knight
   - Eliten
+  - Eliter
 ---
 # Elite Knight
 6 st total, men 2 (+1) är avlidna.
