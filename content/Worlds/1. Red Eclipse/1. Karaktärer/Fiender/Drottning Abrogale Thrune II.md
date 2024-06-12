@@ -10,12 +10,19 @@ Drottning Thrune är [[Cheliax]] härskarinna, och styr därför över [[Isger]]
 > [!Rumor]
 > Is maybe a descendant of [[Asmodeus]], archdemon of Hell.
 
-Drottningen är inte människa, utan en Tiefling
+Drottningen är inte människa, utan en Tiefling.
+
+# Stats
+Immunities: void effects
+AC: crit på 48
 
 # Allierade
-- [[Emalysra]]
-- [[Dysalin]]
-- [[Abbott Tuition]]
+## Specifika
+- [[Emalysra]] 🪦
+- [[Dysalin]] 🪦
+- [[Abbott Tuition]] 🪦
+- [[Elite]] 🪦🪦🪦🪦🧍‍♂🧍‍♂
+- Balor 🧍‍♂
+## Generella
 - [[Hellknight]]
-- [[Elite]]
 - [[Worlds/1. Red Eclipse/1. Karaktärer/Fiender/Antipaladin|Antipaladin]]

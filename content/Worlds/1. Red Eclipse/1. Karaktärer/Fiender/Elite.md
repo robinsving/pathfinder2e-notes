@@ -5,9 +5,12 @@ aliases:
   - Eliter
 ---
 # Elite Knight
-6 st total, men 2 (+1) är avlidna.
+6 st total, men 4 (+1) är avlidna.
 
-Namn: Erik, Nils, Peter
+Kända medlemmar:
+- Erik
+- Nils
+- Peter
 
 Crit on 50
 Hits on 46
@@ -19,14 +22,14 @@ Fire immune
 No [[Cold]] weakness
 Some Physical resistance
 
-[[Stupefied]] 1 on hit (vs casters) - Från Vorpal rune?
-[[Drained]] 1 on hit
-[[Persistant Bleed]] on hit
+[[Stupefied]] 1 on hit (vs casters)
+~~[[Drained]] 1 on hit~~
+Persistant Bleed on hit
 
 Flaming shoes
-Vorpal rune
+[[Vorpal]] rune
 
-Ej darkvision, men blind fight
+Ej darkvision, men [[Blind-Fight]]
 
-[[Mechanics/Spells_Rituals/Spells/Level 3/Haste|Haste]]
+[[Haste]]
 
