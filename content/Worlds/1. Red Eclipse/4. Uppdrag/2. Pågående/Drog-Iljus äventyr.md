@@ -1,3 +1,8 @@
+---
+tags:
+  - quest
+---
+
 Fixa Iljus et al. beroende.
 
 Nuvarande symptom:

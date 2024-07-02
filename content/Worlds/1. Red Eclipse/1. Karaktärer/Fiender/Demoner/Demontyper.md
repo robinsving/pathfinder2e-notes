@@ -3,6 +3,7 @@ tags: []
 ---
 # Hints
 Demoners blod är svavel-doftande
+De sprängs när de dör, om de är mäktiga nog. [[balor]] tog nästan död på flera i vårt [[Party]]
 
 Två typer av demoner som inte gillar varandra (endast allierade mot gudomligheter)
 -   Infernal - in Cheliax
@@ -15,11 +16,11 @@ Brände ned rådhuset i [[Breachill]].
 # Dageimond (Demonic)
 ==[[Demon]]==
 I Posandis källare höll bröderna på att summona en demonprins.
-# Belnot (large)
+# Balnot (large)
 ==[[Demon]]==
-# Belor  (huge)
+# Balor  (huge)
 ==[[Demon]]==
-# Belnor (Gargantuan)
+# Balnor (Gargantuan)
 ==[[Demon]]==
 # [[Babau]] <-
 Lönnmördardemon som anföll i [[Breachill]] på kvällen, ensam. Reagerade starkt på [[Grimm]].
