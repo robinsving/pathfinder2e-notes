@@ -3,7 +3,7 @@ tags:
   - quest
 ---
 Om Sofia tror rätt så är det ett övernaturligt väsen som är fängslat. Demon/drake och ingetdera. Den är frammanad in till Golarion.
-Om en demon tillåts besitta en demon så är de lättare att kontrollera.
+Om en demon tillåts besitta en drake så är de lättare att kontrollera, samt vice versa.
 
 Alverna frammanade en drake och hoppades att fånga en demon i drakkroppen för att nyttja till egna syften. Det gick lite fel.
 Någonting från [[Nowhere|mellanvärlden]] smög sig in och tog över Demondraken.
