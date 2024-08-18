@@ -17,12 +17,13 @@ Det finns en Demondrake som flyger omkring i närheten, men det är osäkert om 
 # Aska - Byn vid foten av vulkanen
 Vakten Alma Coin är byns väktare.
 
-De har väntat på Miho. För att stoppa Corelianus.
+De har väntat på Miho. För att stoppa Coriolanus.
 Mihos symbol för [[sarenrae|Sarenrae]] för en Hope (Mockingjay) att promptas till att säga att "han" har skickat oss.
 Hon är en del av motståndsrörelsen (Partisanerna) i Ash. Hon har ett [[Mechanics/Character Building/equipment/items/vorpal|Vorpal]]-vapen, och är en av världens främsta lönnmördare.
 
-"Arkubelen" är under kontroll av Cornelius, som har fäste på berget.
-Dynamit redo. "Device" redo.
+[[Tellus#Alkebulan]] är under kontroll av [[Coriolanus]], som har sitt fäste på berget.
+Dynamit redo.
+Anti-teleporterings-tetraeder redo.
 
 När vi pratade med oss for 4 månader sedan, så sa han att han skulle återvända inom 1 månad.
 Hon tjänar [[Marcos del Ray]]. Han brukar visa upp sig var 3:e år.
@@ -35,6 +36,8 @@ Planen är:
 - skapa distraktion
 - placera dynamit för att spränga ner den överskjutande delen
 - lägga en mackapär (tetraeder) som hindrar demoner från teleportering, som måste till tronrummet (gången utanför, eller skattrummet)
-	- 5ggr medsols, 2ggr medsols, tryck på 4 hörn på bas samtidigt
+	- 5ggr medsols, 2ggr motsols, tryck på 4 hörn på bas samtidigt
 	- När den aktiveras så märker demonerna det
-- Ha magi för att ha mass-kommunikation
+
+Bonus om vi kan få tag på
+- Magi för att ha mass-kommunikation

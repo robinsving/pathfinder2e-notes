@@ -6,6 +6,7 @@
 	- [[Emalysra]]
 - **Demoner**
 	- [[Contessa Lrilatha]]
+	- [[Coriolanus]]
 	- [[Demontyper]]
 	- [[Linteria, the Succubus]]
 - [[Drottning Abrogale Thrune II]]

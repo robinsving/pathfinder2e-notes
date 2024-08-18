@@ -2,9 +2,11 @@
 - [[Barnes Drake, The Fox]]
 - [[Bo Grendel]]
 - [[CC]]
+- **[[Condoin]]**
 - [[Durgar Soulblade, blacksmith]]
 - [[Elizar Dryflagon]]
 - [[Fanny Knickerbocker]]
+- [[Hope]]
 - [[Magnus Grindlewald]]
 - [[Mia]]
 - [[Milamber]]
@@ -15,6 +17,7 @@
 - [[Sons of Marcos]]
 - [[Sybil]]
 - **[[Valheru]]**
+- [[Widows of the Setting Sun]]
 - [[Zelphar]]
 - **[[Änglar]]**
 
