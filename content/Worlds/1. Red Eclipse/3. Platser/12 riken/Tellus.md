@@ -8,11 +8,10 @@ Leds av [[dispater-logm|Dispater]].
 # 4 Landområden
 ## Erebu
 Styrs av [[dispater-logm|Dispater]] själv, i staden Urbs Aeterna
-
-## Asuva
+## Assuwa
 Styrs av Titus
 Producerar krigsmateriel, forskning
-## Anuak
+## Anahuak
 Styrs av Scipio
 Producerar all mat
 ## Alkebulan

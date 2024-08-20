@@ -9,7 +9,7 @@ status: alive
 ![[Emsu.png|200]]
 
 Vem är denna karismatiske dvärg?
-- [ ] Fråga [[Emsu]] en massa saker, när det finns tid
-- [ ] Vem är [[Emsu]]?
-- [ ] Varför var han i [[Drottning Abrogale Thrune II]]s tronrum?
-- [ ] Vad kan ha tillföra till [[Party|Röda Armén]]?
+- [x] Fråga [[Emsu]] en massa saker, när det finns tid
+- [x] Vem är [[Emsu]]?
+- [x] Varför var han i [[Drottning Abrogale Thrune II]]s tronrum?
+- [x] Vad kan ha tillföra till [[Party|Röda Armén]]?
