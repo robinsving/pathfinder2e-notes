@@ -1,6 +1,7 @@
 ---
 aliases:
   - Mengkare, Lamind, Meckhard, Marcos
+  - Marcos del Ray
 ---
 [[Valheru]]-magiker som är arkitekt till stängningen av helvetesportarna.
 Har även kunskaper inom Alkemi.

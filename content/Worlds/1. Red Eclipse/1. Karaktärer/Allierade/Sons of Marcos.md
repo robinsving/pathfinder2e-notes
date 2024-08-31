@@ -1,5 +1,5 @@
 Grupp av [[Automaton]] som lever i Tian Xi.
 Origin okänd.
 
-Förmodligen relaterade till [[Marcos del Ray]].
+Förmodligen relaterade till [[Marcos]].
 Anser Demoner till att vara brått mot naturens lagar.

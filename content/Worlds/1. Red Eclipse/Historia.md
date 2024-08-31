@@ -11,10 +11,10 @@ Som tur är så hade Demonerna sträckt sina arméer tunna med anfall på andra 
 Efter 1000 år så visade Sonya och Desna upp sig sin styrka. Desna syster genom stridsband.
 - [[Desna]]. Månens skvadroner av drakar
 - [[Sonya del Ray]]. Solens styrkor.
-- [[Marcos del Ray]]. Uppfinnare
+- [[Marcos]]. Uppfinnare
 
 ## Motståndet
-Efter att [[Marcos del Ray]](?) lyckades skapa Shardplates för att matcha Shardblades.
+Efter att [[Marcos]](?) lyckades skapa Shardplates för att matcha Shardblades.
 Kunde stänga portalerna genom att nyttja kraften från en av (11) månarna - Primus.
 När vi kunde skicka in spioner till andra realms fick vi veta mer om Demonerna:
 I första riket hade de en Soul Smith som kunde återuppliva demoner. Om man inte använde [[Shardblade]], eller Dragon Fire.
@@ -25,7 +25,7 @@ Marcos hittade ett sätt att fuska med en portal som gick direkt till första ri
 De äldre bestämde sig för att gå på Arodens plan, och Marcos hjälpte till att fullfölja den.
 Skölden tog en portal och nyttjade den för att skapa en vägg mellan rikena.
 
-Det fungerade bra i början, men efter ett tag (**hur**?) så gick demonerna till anfall mot skölden. [[Marcos del Ray]] behövde dra mer kraft från månen, men med ökande styrkor från demonerna så splittrades månen och började falla ned mot marken.
+Det fungerade bra i början, men efter ett tag (**hur**?) så gick demonerna till anfall mot skölden. [[Marcos]] behövde dra mer kraft från månen, men med ökande styrkor från demonerna så splittrades månen och började falla ned mot marken.
 - [ ] Hur fick demonerna reda på var Marcos sköld befann sig? Kan det finnas en förrädare bland Valheru? Leshy?
 Båda sidor insåg att en (tillfällig) vapenvila var enda sättet att låta Golarion överleva nedfallet.
 

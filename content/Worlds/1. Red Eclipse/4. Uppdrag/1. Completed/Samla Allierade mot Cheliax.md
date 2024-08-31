@@ -15,7 +15,7 @@ Om det skulle bli ett krig med Cheliax så är det bra med allierade
 
 # Magiker vs. 5 Mäktiga magiker i Cheliax
 -   Milamber Condoin ✅
--   Mentalo Rickardo (Mengkare/[[Marcos del Ray]]?) - senast verksam i Sarusan
+-   Mentalo Rickardo (Mengkare/[[Marcos]]?) - senast verksam i Sarusan
 	-   "Ära till splitterbärarna"
 	-   "El honor de Shardbearer"
 -   Sybil ✅
