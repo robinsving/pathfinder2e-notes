@@ -1,8 +1,7 @@
 ---
 tags:
   - quest
-aliases:
-  - Stop Nightspear
+aliases: []
 ---
 [[Nightspear]] har inte lyckats få sitt sinne tillbaka. Just nu håller han på att förinta delar av [[Cheliax]] utan till synes rim och reson.
 
