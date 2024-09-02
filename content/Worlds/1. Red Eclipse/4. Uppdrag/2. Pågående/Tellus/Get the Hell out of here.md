@@ -38,7 +38,9 @@ Partisanerna är resistensen.
 Hon tjänar [[Marcos]]. Han brukar visa upp sig var 3:e år.
 
 Finns inga män i området.
-"Min väns systers 'mission' börjar om en vecka", så det börjar bli svårt att hinna med.
+"Min väns systers, Prims,  'mission' börjar om en vecka", så det börjar bli svårt att hinna med.
+
+En partisan heter Effy, och är slaktare. Hon hjälper oss med att skapa en distraktion.
 
 ### Planen i enkelhet
 Planen är:

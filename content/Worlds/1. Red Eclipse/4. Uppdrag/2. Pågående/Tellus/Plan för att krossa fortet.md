@@ -15,7 +15,7 @@ Förberedelser för [[Plan för att få tag på staven]]
 - [[Migration]] på morgonen
 - Alex flyger upp och gömmer sig ett par 100ft ifrån fortet
 	- 3 rör, 3 dynamit, 3 stubin av liknande längd 23ft, 22ft, 21ft
-- Distraktion skapas av [[Plan för att få tag på staven]]
+- Distraktion skapas av [[Hope]] med hjälp av [[Get the Hell out of here#Partisanerna]]
 - Mindre tryckande känsla/sending informerar Alex om att [[Coriolanus]] är borta
 - Alex flyger runt som en galning
 	- [[Negate Aroma]], rank 1
@@ -28,11 +28,10 @@ Förberedelser för [[Plan för att få tag på staven]]
 ## Dagen D
 - [[Migration]] på morgonen
 - Alla flyger upp och gömmer sig ett par 100ft ifrån fortet
-- Distraktion
-	 - [ ] Hur gör vi distraktion?
-	 - [ ] Ska vi ta skattkammaren?
-		 - [[earthglide-cloak-apg|Earthglide Cloak]] in
-		 - [[Rewinding Step]] ut
+- Distraktion skapas av [[Plan för att få tag på staven]]
+ - [ ] Ska vi ta skattkammaren?
+	 - [[Earthglide Cloak]] in
+	 - [[Rewinding Step]] ut
 - Alex gör massa magi
 	- [[Negate Aroma]], rank 1 x 2
 	- [[Mechanics/Spells/Spells/Level 2/Invisibility|Invisibility]], rune x 2
