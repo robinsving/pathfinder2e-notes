@@ -39,7 +39,7 @@ Hon tjänar [[Marcos]]. Han brukar visa upp sig var 3:e år.
 
 Finns inga män i området.
 "Min väns systers, Prims,  'mission' börjar om en vecka", så det börjar bli svårt att hinna med.
-
+### Effy
 En partisan heter Effy, och är slaktare. Hon hjälper oss med att skapa en distraktion.
 
 ### Planen i enkelhet
