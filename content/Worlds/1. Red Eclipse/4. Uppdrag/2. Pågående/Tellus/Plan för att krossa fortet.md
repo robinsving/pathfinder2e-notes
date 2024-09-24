@@ -2,6 +2,9 @@
 tags:
   - quest
 ---
+# Det som är avklarat
+2 hål för dynamit
+1 hål för devis/Miho
 # Alt.1 Alex flygtur
 ## Synopsis
 Dagar i förväg lägger Alex [[Negate Aroma]] och [[Mechanics/Spells/Spells/Level 2/Invisibility|Invisibility]], samt flyger upp till fortet.
@@ -29,7 +32,7 @@ Förberedelser för [[Plan för att få tag på staven]]
 - [[Migration]] på morgonen
 - Alla flyger upp och gömmer sig ett par 100ft ifrån fortet
 - Distraktion skapas av [[Plan för att få tag på staven]]
- - [ ] Ska vi ta skattkammaren?
+ - [x] Ska vi ta skattkammaren?
 	 - [[Earthglide Cloak]] in
 	 - [[Rewinding Step]] ut
 - Alex gör massa magi
