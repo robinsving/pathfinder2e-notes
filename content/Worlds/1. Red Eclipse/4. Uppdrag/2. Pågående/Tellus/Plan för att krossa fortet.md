@@ -1,10 +1,19 @@
 ---
 tags:
   - quest
+aliases:
+  - krossa fortet
 ---
-# Det som är avklarat
-2 hål för dynamit
-1 hål för devis/Miho
+# Status
+~~2 hål för dynamit~~
+~~1 hål för devis/Miho~~
+Fortets ytterdel, samt härskare [[Coriolanus]] är förpassad till lavan.
+
+# Kvarvarande potentiella uppgifter
+- [ ] Rensa ut resterande boende
+- [ ] Rädda [[Demondraken]]
+- [ ] Sno luftskepp
+
 # Alt.1 Alex flygtur
 ## Synopsis
 Dagar i förväg lägger Alex [[Negate Aroma]] och [[Mechanics/Spells/Spells/Level 2/Invisibility|Invisibility]], samt flyger upp till fortet.
@@ -18,7 +27,7 @@ Förberedelser för [[Plan för att få tag på staven]]
 - [[Migration]] på morgonen
 - Alex flyger upp och gömmer sig ett par 100ft ifrån fortet
 	- 3 rör, 3 dynamit, 3 stubin av liknande längd 23ft, 22ft, 21ft
-- Distraktion skapas av [[Hope]] med hjälp av [[Get the Hell out of here#Partisanerna]]
+- Distraktion skapas av [[Hope]] med hjälp av [[Partisanerna 1]]
 - Mindre tryckande känsla/sending informerar Alex om att [[Coriolanus]] är borta
 - Alex flyger runt som en galning
 	- [[Negate Aroma]], rank 1

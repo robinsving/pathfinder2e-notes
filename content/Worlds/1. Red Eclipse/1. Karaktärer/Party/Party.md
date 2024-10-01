@@ -2,8 +2,11 @@
 aliases:
   - Röd Skymning
   - Röda Armén
+  - Skymningen
+  - Röda Förmörkelsen
+  - Röda mörkret
 ---
-Partyt som äventyrar heter [[Red Eclipse|Röda armén]], eller nåt
+Partyt som äventyrar heter Röda armén, eller nåt
 
 ```dataview
 TABLE character

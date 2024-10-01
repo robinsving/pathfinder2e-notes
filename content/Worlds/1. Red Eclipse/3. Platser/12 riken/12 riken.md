@@ -36,7 +36,7 @@ Leds av [[Mammon]].
 Dvärgarnas hemvärld.
 Leds av [[Geryon]]
 >*[[Dispater]]*
-# 9. Tellus
+# 9. [[Tellus]]
 Människor hemvärld.
 Leds av [[dispater-logm|Dispater]].
 800 år sedan människornas motstånd föll.

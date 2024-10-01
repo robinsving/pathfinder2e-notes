@@ -3,6 +3,7 @@ aliases:
   - Citadel Altaerein
   - Altaerein
   - Citadel
+  - Hellknight Hills
 ---
 2h från [[Breachill]] ligger ett citadel som tidigare användes av en [[Hellknight]] Order of the Nail, som inte längre innehar platsen.
 

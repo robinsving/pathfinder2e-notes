@@ -1,9 +1,13 @@
 ---
 tags:
   - quest
+  - completed
 aliases:
   - Staven
 ---
+# Status
+Avklarad, [[Alex]] har tagit staven, och alla demoner som vaktar är döda.
+
 # Staven
 Staven är kanske en unik variant av [[Staff of Final Rest (Major)]]. Kanske att modifikationerna är att den korsats med en [[Staff of Power]].
 Antagligen en [[Divine]] stav.

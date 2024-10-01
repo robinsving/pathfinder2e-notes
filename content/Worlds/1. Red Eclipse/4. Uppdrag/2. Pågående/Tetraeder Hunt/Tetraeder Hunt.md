@@ -10,14 +10,14 @@ Vi behöver 6 nycklar.
 
 # Nycklar
 
-| Plats                        | Beskrivning                                                                                                            | Vision                        |
-| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| Sybil                        | Svart tetraeder, ca 5x5 cm stor                                                                                        | kort genomgång av botanik     |
-| [[Drottning Abrogale Thrune II]] | Liten sten, runt halsen                                                                                                | ?                             |
-| [[Cheliax]]                  | En ny levererad av [[Widows of the Setting Sun]]. Transport till Cheliax adel - Thrune Manor. 8 månader sedan. 50x50cm | ?                             |
-| Miho                         | Magi som kan återuppliva folk                                                                                          | [[Resurrection Stone Vision]] |
-| Sybil                        | 15x15cm                                                                                                                | [[Ocean vision]]?             |
-| Ön i Mwangi                  | [[Dantes ö]], håller Dracodemondevourer fången                                                                         | [[Ocean vision]]?             |
+| Plats                                         | Beskrivning                                                                                                            | Vision                        |
+| --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| Sybil                                         | Svart tetraeder, ca 5x5 cm stor                                                                                        | kort genomgång av botanik     |
+| ~~[[Drottning Abrogale Thrune II]]~~ [[Alex]] | Liten sten, runt halsen                                                                                                | ?                             |
+| [[Cheliax]]                                   | En ny levererad av [[Widows of the Setting Sun]]. Transport till Cheliax adel - Thrune Manor. 8 månader sedan. 50x50cm | ?                             |
+| Miho                                          | Magi som kan återuppliva folk                                                                                          | [[Resurrection Stone Vision]] |
+| Sybil                                         | 15x15cm                                                                                                                | [[Ocean vision]]?             |
+| Ön i Mwangi                                   | [[Dantes ö]], håller Dracodemondevourer fången                                                                         | [[Ocean vision]]?             |
 # Övriga visioner
 Visioner kan man även få från andra föremål
 

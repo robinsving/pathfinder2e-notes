@@ -1,3 +1,8 @@
+---
+aliases:
+  - Eerliv
+---
+
 Förgiftade Bort. Försökte förgifta Etran's Folly.
 
 Lyckades få tag på en bok om all världens gifter, efter att ha stulit den från partyt.

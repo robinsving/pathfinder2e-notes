@@ -1,0 +1,9 @@
+**Elidir** (pronounced EL-eh-deer) is both the capital of [[Isger]] and the nation's largest city. Far from the Chitterwood, Elidir escaped the worst of the Goblinblood Wars, a fact that still engenders bitterness from those whose homes were overrun. It is a commonly held belief throughout the rest of the country that if the capital had been in greater danger during the war, the fighting would have been over much faster.
+
+## Trade
+
+Elidir stands at the center of the important Conerica Straits trade route and is a popular stopping point for caravans. However, those traders who are not seeking to stop can easily bypass the city using its famous Rampways.
+
+## Pathfinder Society
+
+Members of the [Pathfinder Society](https://pathfinderwiki.com/wiki/Pathfinder_Society "Pathfinder Society") meet secretly once a month at a temple of [Erastil](https://pathfinderwiki.com/wiki/Erastil "Erastil") outside of town to discuss the Society's activities in Isger. They are particularly interested in the ancient sites of the extinct [Isgeri](https://pathfinderwiki.com/wiki/Isgeri "Isgeri") tribes who were defeated by [Taldor's](https://pathfinderwiki.com/wiki/Taldor "Taldor") [Seventh Army of Exploration](https://pathfinderwiki.com/wiki/Seventh_Army_of_Exploration "Seventh Army of Exploration") in [2133 AR](https://pathfinderwiki.com/wiki/2133_AR "2133 AR"). Since such activity is against the wishes of Isger's [Chelaxian](https://pathfinderwiki.com/wiki/Cheliax "Cheliax") masters, the Pathfinders must conduct all of their activities in secret.[9](https://pathfinderwiki.com/wiki/Elidir#cite_note-seekers-of-secrets-a-guide-to-the-pathfinder-society-9-10-9)[10](https://pathfinderwiki.com/wiki/Elidir#cite_note-what-lies-in-dust-48-10)

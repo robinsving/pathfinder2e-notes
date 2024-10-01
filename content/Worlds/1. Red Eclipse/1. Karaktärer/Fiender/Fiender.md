@@ -1,9 +1,11 @@
 %% Begin Waypoint %%
+- [[Alma]]
 - [[Antipaladin]]
 - **Chelianska magikerna**
 	- [[Abbott Tuition]]
 	- [[Dysalin]]
 	- [[Emalysra]]
+- [[Demondraken]]
 - **Demoner**
 	- [[Contessa Lrilatha]]
 	- [[Coriolanus]]

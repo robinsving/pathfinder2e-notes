@@ -17,6 +17,6 @@ class: Fighter
 # Build
 - Bow fighter
 - Dedication [[Psychic]]
-- Dedication [[Eldritch Archer|Eldritch Archer]]
+- Dedication [[eldritch-archer-apg]]
 
 Arbetar för [[Isger]]'s underrättelsetjänst - mer specifikt [[Nadi]].
