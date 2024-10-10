@@ -1,8 +1,11 @@
 # Aska - Byn vid foten av vulkanen
 Aska är en liten by som ligger i foten av en vulkan i [[Alkebulan]]
 
+# Status
+Eventuellt lever den upp till sitt namn, sedan [[Coriolanus]] förlorade lite prestige där.
+
 ## Alma Coin
-Vakten [[Alma|Alma Coin]] är byns väktare.
+Vakten [[Alma|Alma Coin]] är byns väktare. Hon är nu död, av [[Emsu]]s hand.
 
 ## Hope
 [[Hope]], även känd som [[Hope|Mockingjay]].
@@ -11,7 +14,7 @@ Mihos symbol för [[sarenrae|Sarenrae]] för en Hope (Mockingjay) att promptas t
 Hon är en del av motståndsrörelsen (Partisanerna) i Ash. Hon har ett [[Vorpal]]-vapen, och är en av världens främsta lönnmördare.
 
 ## Partisanerna
-Partisanerna är resistensen.
+Partisanerna är resistansen.
 >[[Tellus#Alkebulan]] är under kontroll av [[Coriolanus]], som har sitt fäste på berget.
 >Dynamit redo.
 >Anti-teleporterings-tetraeder redo.

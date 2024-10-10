@@ -5,7 +5,7 @@
 - [[Elizar Dryflagon]]
 - [[Magnus Grindlewald]]
 - [[Mia]]
-- [[Milamber]]
+- [[Milamber Condoin]]
 - [[Miranda]]
 - [[Mr. Akkula]]
 - [[Nadi]]

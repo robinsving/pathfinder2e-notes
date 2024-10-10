@@ -15,9 +15,10 @@ Despite its struggles, Isger remains a resilient nation, striving for stability 
 
 %% Begin Waypoint %%
 - [[Alex grotta]]
-- [[Alyssas Ring]]
-- [[Breachill]]
+- **Breachhill**
+	- [[Alyssas Ring]]
+	- [[Breachill]]
+	- [[Hellknight Hills]]
 - [[Elidir]]
-- [[Hellknight Hills]]
 
 %% End Waypoint %%

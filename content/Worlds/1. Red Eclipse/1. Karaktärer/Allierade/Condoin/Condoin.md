@@ -24,7 +24,7 @@ Duke James is one of the few, possibly only, self made nobles of Isger. He was r
 > Nadi är dottern till Duke James? (Sai Kai Len)
 # Milamber Condoin
 Archmage of Isger, adopted cousin of Prince Arutha. Said to be one of the main reasons for Isger's increased independence during the last few decades, acting as a force in being. Although for the last few years his public appearances has been few and far between.
-Was hiding away as [[Milamber]].
+Was hiding away as [[Milamber Condoin]].
 # Countess Miranda Black
 
 Free agent of the court of Isger, known as "the problem solver"/"Fixaren". Loved by many, feared by all.

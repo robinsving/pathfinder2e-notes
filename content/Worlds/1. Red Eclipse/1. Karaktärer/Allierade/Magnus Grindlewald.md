@@ -2,8 +2,9 @@
 aliases:
   - Magnus
   - Grindlewald
+characterType: Allierade
 ---
-# Hostoria 
+# Historia 
 Tidigare läromästare till [[Condoin#Milamber Condoin (Pug)|Pug]].
 
 Fast hos Samlaren
