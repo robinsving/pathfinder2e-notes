@@ -13,3 +13,5 @@ Vem är denna karismatiske dvärg?
 - [x] Vem är [[Emsu]]?
 - [x] Varför var han i [[Drottning Abrogale Thrune II]]s tronrum?
 - [x] Vad kan ha tillföra till [[Party|Röda Armén]]?
+Emsu är utskickad av [[Torag]]
+Är [[Ilju]] en delad själ i Emsus kropp?
