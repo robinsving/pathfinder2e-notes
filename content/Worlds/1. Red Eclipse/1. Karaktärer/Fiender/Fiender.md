@@ -7,8 +7,8 @@
 	- [[Emalysra]]
 - [[Demondraken]]
 - **Demoner**
+	- [[Balorn]]
 	- [[Contessa Lrilatha]]
-	- [[Coriolanus]]
 	- [[Demontyper]]
 	- [[Linteria, the Succubus]]
 - [[Drottning Abrogale Thrune II]]
@@ -17,6 +17,9 @@
 - [[Hybrid]]
 - [[Renviq Harduun, the Litch - RIP]]
 - [[Svarta Korpen -  former Knight]]
+- **Tellus demongudar**
+	- [[Coriolanus]]
+	- [[Titus]]
 - [[Vilree]]
 
 %% End Waypoint %%

@@ -5,11 +5,11 @@ Leds av [[dispater-logm|Dispater]].
 
 >800 år sedan människornas sista motstånd föll.
 
-# 4 Landområden
+# 4 Landområden (Kontinenter)
 ## Erebu
 Styrs av [[dispater-logm|Dispater]] själv, i staden Urbs Aeterna
 ## Assuwa
-Styrs av Titus
+Styrs av [[Titus]]
 Producerar krigsmateriel, forskning
 ## Anahuak
 Styrs av Scipio

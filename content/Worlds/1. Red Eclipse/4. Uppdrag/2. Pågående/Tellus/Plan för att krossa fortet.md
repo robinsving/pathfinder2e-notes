@@ -10,9 +10,9 @@ aliases:
 Fortets ytterdel, samt härskare [[Coriolanus]] är förpassad till lavan.
 
 # Kvarvarande potentiella uppgifter
-- [ ] Rensa ut resterande boende
+- [x] Rensa ut resterande boende
 - [x] Rädda [[Demondraken]]
-- [ ] Sno luftskepp
+- [x] Sno luftskepp
 
 # Alt.1 Alex flygtur
 ## Synopsis
@@ -61,5 +61,5 @@ Förberedelser för [[Plan för att få tag på staven]]
 	- Fåglar kanske inte är snabbare än en drake
 
 ## Dagen efter
-- [ ] Döda alla kvarvarande [[balor]]s, om några
-- [ ] Ta reda på om vi kan prata med Draken, och frigöra honom från sitt fängelse
+- [x] Döda alla kvarvarande [[balor]]s, om några
+- [x] ~~Ta reda på om vi kan prata med Draken, och frigöra honom från sitt fängelse~~

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Messi
+  - Mezi
 owner: Johannes
 character: pc
 status: alive
@@ -21,7 +21,7 @@ Född i Golarion.
 Ej en sol-och-vårare
 
 
-Auditory Spells with [[Sustain a Spell]] 
+Auditory Spells with [[Sustain]] 
 [[Illusory Creature]]
 [[Enthrall]]
 [[Unfathomable Song]]
