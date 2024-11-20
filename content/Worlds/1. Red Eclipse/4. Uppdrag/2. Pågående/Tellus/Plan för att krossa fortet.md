@@ -11,7 +11,7 @@ Fortets ytterdel, samt härskare [[Coriolanus]] är förpassad till lavan.
 
 # Kvarvarande potentiella uppgifter
 - [x] Rensa ut resterande boende
-- [x] Rädda [[Demondraken]]
+- [x] ~~Rädda [[Demondraken]]~~
 - [x] Sno luftskepp
 
 # Alt.1 Alex flygtur
