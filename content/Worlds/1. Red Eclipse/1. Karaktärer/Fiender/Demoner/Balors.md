@@ -3,8 +3,10 @@ aliases:
   - Balorerna
   - Balor
   - Baloren
+  - Balorer
 ---
 Balorerna är [[balor|Balor]].
+2 Balors lever i [[Alkebulan]] fortfarande, varav en håller sig borta i en vecka.
 
 # Defences
 **Hit points**: ~

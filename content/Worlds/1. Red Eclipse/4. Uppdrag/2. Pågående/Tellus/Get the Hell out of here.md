@@ -5,7 +5,7 @@ tags:
   - quest
 ---
 # Status
-[[Milamber Condoin]] har lyckats fly, med "Horseshoe of [[Mechanics/Spells/Spells/Level 4/Nightmare|Nightmare]]"
+[[Milamber]] har lyckats fly, med "Horseshoe of [[Mechanics/Spells/Spells/Level 4/Nightmare|Nightmare]]"
 
 Vi är fast på [[Tellus]], det 10e [[12 riken|riket]].
 

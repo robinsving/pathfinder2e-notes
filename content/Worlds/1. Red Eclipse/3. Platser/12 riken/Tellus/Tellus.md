@@ -15,7 +15,7 @@ Producerar krigsmateriel, forskning
 Styrs av Scipio
 Producerar all mat
 ## [[Alkebulan]]
-Hanzi
+Tanzi är Emilias by
 Pilgrim upp. Hälften kommer tillbaka. De är gravida med flickor - 8 månader.
 De som är gravida med pojkar = demoner - 16 månader.
 [[2024-11-14#Pilgrimsritualen]]

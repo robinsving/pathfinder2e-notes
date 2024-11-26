@@ -7,7 +7,7 @@
 	- [[Emalysra]]
 - [[Demondraken]]
 - **Demoner**
-	- [[Balorn]]
+	- [[Balors]]
 	- [[Contessa Lrilatha]]
 	- [[Demontyper]]
 	- [[Linteria, the Succubus]]

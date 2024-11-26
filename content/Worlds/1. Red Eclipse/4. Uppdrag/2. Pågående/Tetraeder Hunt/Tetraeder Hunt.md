@@ -5,7 +5,7 @@ tags:
 aliases:
   - Tetraeder
 ---
-Används som meddelande-lagring, men kan även användas som nycklar för att låsa upp [[Marcos]] portal.
+Används som meddelande-lagring, men kan även användas som nycklar för att låsa upp [[Markos]] portal.
 Vi behöver 6 nycklar.
 
 # Nycklar
