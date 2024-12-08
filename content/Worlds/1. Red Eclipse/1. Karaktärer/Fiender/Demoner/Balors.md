@@ -9,7 +9,7 @@ Balorerna är [[balor|Balor]].
 2 Balors lever i [[Alkebulan]] fortfarande, varav en håller sig borta i en vecka.
 
 # Defences
-**Hit points**: ~
+**Hit points**: ~500?
 **AC**: 45
 **Fort** save: high
 **Reflex/Will** save: mid
