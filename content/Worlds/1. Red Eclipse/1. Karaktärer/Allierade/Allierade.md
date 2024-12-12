@@ -20,6 +20,6 @@
 - [[Sybil]]
 - **[[Valheru]]**
 - [[Widows of the Setting Sun]]
-- **[[Änglar]]**
+- **[[Änglarna]]**
 
 %% End Waypoint %%

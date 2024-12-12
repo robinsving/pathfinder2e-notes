@@ -21,6 +21,7 @@ class: Champion
 	- [[Grandmother's locket]]
 	- [[Shardblade]]
 - [[Grimm]]
+- [[Memes]]
 - [[Ordern]]
 - [[Squad]]
 - [[Tro]]
