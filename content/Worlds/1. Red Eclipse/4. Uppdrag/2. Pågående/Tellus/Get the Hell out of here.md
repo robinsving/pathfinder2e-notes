@@ -3,6 +3,7 @@ aliases:
   - Fly från Tellus
 tags:
   - quest
+  - completed
 ---
 # Status
 [[Milamber]] har lyckats fly, med "Horseshoe of [[Mechanics/Spells/Spells/Level 4/Nightmare|Nightmare]]", och kan öppna en portal från [[Hellknight Hills|Citadel]].

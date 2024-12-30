@@ -16,7 +16,7 @@ Balorerna är [[balor|Balor]].
 
 # IWR
 **Immunities**: [[Mechanics/Rule References/Fire|Fire]]
-**Vulnerabilities**: [[Mechanics/Character Building/equipment/items/holy|Holy]] 20, [[cold-iron|Cold Iron]] 20
+**Vulnerabilities**: [[Mechanics/Character Building/equipment/items/holy|Holy]] 20, [[cold-iron|Cold Iron]] 20, [[Mechanics/Rules/traits/cold|Cold]] 20
 **Resistances**: ?
 
 # Special abilities
