@@ -1,6 +1,11 @@
 # Önskade föremål
 
-## Warding Statuette
+# Warding Statuette
 https://2e.aonprd.com/Equipment.aspx?ID=2242
 
-- [x] Fråga GM hur man ändrar om Holy sword så att det fungerar för Grimms subclass
+# Helm of Zeal
+https://2e.aonprd.com/Equipment.aspx?ID=3435
+
+# Unmemorable Mantle (Major)
+https://2e.aonprd.com/Equipment.aspx?ID=513
+

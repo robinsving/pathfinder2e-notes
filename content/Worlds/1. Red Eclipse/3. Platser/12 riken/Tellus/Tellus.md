@@ -8,7 +8,7 @@ Leds av [[dispater-logm|Dispater]].
 # 4 Landområden (Kontinenter)
 ## Erebu
 Styrs av [[dispater-logm|Dispater]] själv, i staden Urbs Aeterna
-## Assuwa
+## [[Assuwa]]
 Styrs av [[Titus]]
 Producerar krigsmateriel, forskning
 ## Anahuak

@@ -3,6 +3,7 @@
 - [[CC]]
 - [[Eloise]]
 - [[Fanny Knickerbocker]]
+- [[Tai Ling]]
 - [[Zelphar]]
 
 %% End Waypoint %%

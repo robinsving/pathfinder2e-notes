@@ -27,6 +27,7 @@ Skölden tog en portal och nyttjade den för att skapa en vägg mellan rikena.
 
 Det fungerade bra i början, men efter ett tag (**hur**?) så gick demonerna till anfall mot skölden. [[Markos]] behövde dra mer kraft från månen, men med ökande styrkor från demonerna så splittrades månen och började falla ned mot marken.
 - [ ] Hur fick demonerna reda på var Marcos sköld befann sig? Kan det finnas en förrädare bland Valheru? Leshy?
+
 Båda sidor insåg att en (tillfällig) vapenvila var enda sättet att låta Golarion överleva nedfallet.
 
 ## Pakten

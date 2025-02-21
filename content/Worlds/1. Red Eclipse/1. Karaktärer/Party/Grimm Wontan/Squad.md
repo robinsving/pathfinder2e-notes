@@ -1,7 +1,7 @@
 # Historia
 >Jag var inte allmänt omtyckt i sin tid i armen. Eftersom jag via mina föräldrar hade "köpt" en rank så blev vissa upprörda. Främst så hade han inte visat att han förtjänade respekten som ranken innebar. Jag försökte att se till att förtjäna respekt, men det ledde mest till att andra inom min rank började se ner på mig.
 >Den enda jag hade på min sida var Reggie.
->Efter ett antal år så lyckades jag rädda en överordnad från att mista en arm under en träningsexercis och som belöning så blev jag flyttad till en avdelning som lånades ut till [[Andoran|Andoran's arme]]. Jag fick då välja sin egen [[Squad]].
+>Efter ett antal år så lyckades jag rädda min överordnade Jace Callum från att mista en arm under en träningsexercis och som belöning så blev jag flyttad till en avdelning som lånades ut till [[Andoran|Andoran's arme]]. Jag fick då välja sin egen [[Squad]].
 >Reggie frivilliganmälde sig. Han fick med sig CC och Nick.
 >De fick med sig Jack.
 >Zi Xu Liang och Crimson träffade vi i Andoran. Zi Xu blev tilldelad mig, men Crimson var helt utanför i Andoran, på grund av hennes Demoniska påbrå. Det krävdes lite övertalning att få henne att slunga magi för min squad.
