@@ -1,8 +1,8 @@
 %% Begin Waypoint %%
 - [[Flying]]
-- [[Worlds/1. Red Eclipse/6. Meta/House Rules/Hero points]]
+- [[Hero point]]
 - [[No Reaction when Stunned]]
-- [[Worlds/1. Red Eclipse/6. Meta/House Rules/Reactive Strike]]
+- [[Reactive Strike]]
 - [[Ready a Spell]]
 - [[Underwater spells]]
 

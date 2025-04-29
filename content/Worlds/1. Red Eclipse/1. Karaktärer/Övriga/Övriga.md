@@ -4,6 +4,7 @@
 - [[Eloise]]
 - [[Fanny Knickerbocker]]
 - [[Tai Ling]]
+- [[Tiefling]]
 - [[Zelphar]]
 
 %% End Waypoint %%
