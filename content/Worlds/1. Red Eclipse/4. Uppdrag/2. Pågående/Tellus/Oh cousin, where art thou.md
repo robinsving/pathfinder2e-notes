@@ -11,10 +11,37 @@ Denna [[Valheru]] valde att stanna när hans folk lämnade. Nu måste vi hitta h
 [[Markos|Marcos del Ray]] är tillfångatagen i [[Assuwa]] på [[Tellus]]. 
 
 >Han är på övre våningen i Titanen i staden Jùrén, [[Assuwa]], [[Tellus]]. Om de inte förstått vem de har så har vi kanske lite tid till att planera. Ni kan inte låta de förstå vem de har!
+>- Sofia
 
 - [x] [[Tai Ling]] kan hjälpa oss med att ta oss in om vi fixar fram sprängmedel (vi har fixat [[disintegration-bolt|Disintegration Bolt]]).
 
-# Plan för att ta oss in i [[Titanen]]
+# Plan för att sno [[Void Cutter]] först
+- Kl. 18
+- Glak låser upp
+- Grimm glider in ([[earthglide-cloak-apg|Earthglide Cloak]]) och drar bort tvärslån
+	- Om det inte går att komma in, vänta till midnatt
+	- [[disintegration-bolt|Disintegration Bolt]]
+- Förhindra larm? [[Glak]]
+- Fight
+	- Döda alla fiender
+	- Dör inte själva (Ktill)
+- Kontakta [[Tai Ling]]
+- Kanske lite [[Resting]]
+- Blinka rakt upp 500 ft
+	- Stealth mode
+- Flyga närmare [[Titanen]]
+- Blinka in i [[Titanen]]s tredje våning
+- Vad gör vi där uppe?
+	- Dölja larmknapp
+		- [[illusion|Illusion]] wall från [[Miho]]?
+	- Döda vakterna
+	- *Blockera dörrar?*
+	- Rädda [[Markos|Marcos del Ray]]
+	- *Rensa ut andra rum?*
+- Blinka ut
+- Solnedgång, high fives
+
+# ~~Plan för att ta oss in i [[Titanen]]
 - Hur flyger vi upp? 5 spelare (+ Lowka)
 	- Grimm
 		- egen [[Flying]]
