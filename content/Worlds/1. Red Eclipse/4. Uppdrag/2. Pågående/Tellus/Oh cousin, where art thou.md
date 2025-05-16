@@ -16,7 +16,7 @@ Denna [[Valheru]] valde att stanna när hans folk lämnade. Nu måste vi hitta h
 - [x] [[Tai Ling]] kan hjälpa oss med att ta oss in om vi fixar fram sprängmedel (vi har fixat [[disintegration-bolt|Disintegration Bolt]]).
 
 # Plan för att sno [[Void Cutter]] först
-- Ca ll. 18
+- Ca kl. 18
 - Glak låser upp
 - Grimm glider in ([[earthglide-cloak-apg|Earthglide Cloak]]) och drar bort tvärslån
 	- Om det inte går att komma in, vänta till midnatt
