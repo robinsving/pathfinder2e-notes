@@ -12,14 +12,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build
-        uses: konstfish/quartz-build-action@v5
+        uses:  robinsving/quartz-build-action@main
         with:
           source: content
           page_title: "The Crimson World"
