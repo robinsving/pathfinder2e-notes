@@ -18,6 +18,6 @@ Ostenso blev bränd när vi var nära nog att observera ett "stjärnfall" närma
 
 # Att göra
 - [x] Kolla på globen i Lamonds tempel efter Nightspears attacker - finns det en logik till ordningen?
-- [ ] Kanske att man kan få hjälp av en annan ängel. Sunlord Talashos? ([[Desna]] har 3 ärkeänglar, har inte [[Sofia]] några?)
-- [ ] Statyerna är änglar, kanske man kan återuppväcka dem, eller studera dem för att få reda på hur man stänger av dem?
+- [x] Kanske att man kan få hjälp av en annan ängel. Sunlord Talashos? ([[Desna]] har 3 ärkeänglar, har inte [[Sofia]] några?)
+- [x] Statyerna är änglar, kanske man kan återuppväcka dem, eller studera dem för att få reda på hur man stänger av dem?
 

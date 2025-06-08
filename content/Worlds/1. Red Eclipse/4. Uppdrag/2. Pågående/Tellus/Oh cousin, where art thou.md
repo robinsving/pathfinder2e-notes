@@ -15,6 +15,14 @@ Denna [[Valheru]] valde att stanna när hans folk lämnade. Nu måste vi hitta h
 
 - [x] [[Tai Ling]] kan hjälpa oss med att ta oss in om vi fixar fram sprängmedel (vi har fixat [[disintegration-bolt|Disintegration Bolt]]).
 
+# Plan för att ta oss in i [[Titanen]] nu när vi misslyckats med att vara sneaky
+- [ ] Skaka av eventuella flygande förföljare
+- [ ] [[See Invisibility]] för att försäkra oss om att ingen följer oss
+- [ ] Ta oss till grottan där [[Ktill]] hittades
+- [ ] Använd Minifier för att ta in [[Void Cutter|skeppet]] till grottan? Alternativt så blinkar [[Miho]] in oss
+- [ ] Kräla genom grottgångarna hela vägen till [[Titanen]]
+- [ ] Smyga oss upp?
+
 # Plan för att sno [[Void Cutter]] först
 - Ca kl. 18
 - Glak låser upp

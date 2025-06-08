@@ -10,3 +10,4 @@ Han brusar lätt upp och blir arg. [[Mechanics/Rules/traits/barbarian|Barbarian]
 
 # Orsaken att han var i vattnet
 Han är på flykt från [[Titus]]. Han behövde bygga en flotte, eftersom staden [[Júrén|Juren]] ligger i en dal, omringad av höga klippor.
+Han hade flytt från [[Titanen]] genom ett grottsystem som finns i [[Titanen]]s källare
