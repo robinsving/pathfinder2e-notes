@@ -4,7 +4,7 @@ Flög i en storm och höll på att gå under. Vanja togs över och "teleporterad
 
 [[Mia]] ensam överlevare.
 
-Transporterade Magnus från en ___ utbrytarstyrka till litchen.
+Transporterade Magnus från en utbrytarstyrka till litchen.
 
 Transport av [[Tetraeder Hunt]]  till [[Cheliax]] adel.
 - Plockades upp på en båt i Arkadiska havet till Egorian 

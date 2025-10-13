@@ -23,6 +23,7 @@ class: Champion
 - [[Grimm]]
 - [[Memes]]
 - [[Ordern]]
+- [[Project Ancestry]]
 - [[Squad]]
 - [[Tro]]
 

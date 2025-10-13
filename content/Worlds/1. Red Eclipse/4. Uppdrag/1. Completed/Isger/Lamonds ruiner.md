@@ -14,7 +14,7 @@ Ruinerna är gammalt laboratorium
 Alkemi/magi
 
 Bok i 6e våningen
-- 1 st levereras till [[Sybil|Laolith]]
+- 1 st levereras till [[Sibyl|Laolith]]
 - 1 st levereras till [[Vilree|Eerliv]] (Reliant Book Company)
 	- Gift / antidot (universal antidot)
 

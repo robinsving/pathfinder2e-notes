@@ -21,12 +21,15 @@ I första riket hade de en Soul Smith som kunde återuppliva demoner. Om man int
 
 ## Aroden och Marcos
 Aroden var Valheru, och ritade upp hur man kunde använda månen Primus som kunde drivas som en sköld för energi.
-Marcos hittade ett sätt att fuska med en portal som gick direkt till första riket.
+
+Marcos hittade ett sätt att "fuska" med en portal som gick direkt till första riket. Dilemmat är att om man inte vill slåss i 1000-tals år, så räcker det inte med förstöra [[Soulforge]], utan man måste hugga huvudena av alla ledare också.
+
 De äldre bestämde sig för att gå på Arodens plan, och Marcos hjälpte till att fullfölja den.
 Skölden tog en portal och nyttjade den för att skapa en vägg mellan rikena.
 
 Det fungerade bra i början, men efter ett tag (**hur**?) så gick demonerna till anfall mot skölden. [[Markos]] behövde dra mer kraft från månen, men med ökande styrkor från demonerna så splittrades månen och började falla ned mot marken.
-- [ ] Hur fick demonerna reda på var Marcos sköld befann sig? Kan det finnas en förrädare bland Valheru? Leshy?
+- [x] Hur fick demonerna reda på var Marcos sköld befann sig? Kan det finnas en förrädare bland Valheru? Leshy?
+De visste att det fanns en risk med skölden, att den var en svag länk.
 
 Båda sidor insåg att en (tillfällig) vapenvila var enda sättet att låta Golarion överleva nedfallet.
 

@@ -21,7 +21,7 @@ Vem pratar vi med?
 - Sten - Tuskhead's ~~eller Posandi Bros~~.
 - Råvirke - Crystalized granit 3-5tn x 3 + 10tn~~
 
-Leverera stenen till [[Sybil]] så får vi runor för att skydda
+Leverera stenen till [[Sibyl]] så får vi runor för att skydda
 
 ## Vill du ha lite vatten?
 >Det går lika bra med rovöl

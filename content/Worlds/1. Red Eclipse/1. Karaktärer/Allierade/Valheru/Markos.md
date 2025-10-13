@@ -4,7 +4,6 @@ aliases:
   - Mengkare
   - Lamond
   - Meckhard
-  - Marco
 ---
 [[Valheru]]-magiker som är arkitekt till stängningen av helvetesportarna.
 Har även kunskaper inom Alkemi.

@@ -16,8 +16,9 @@
 	- [[Partisanerna 1]]
 	- [[Prim]]
 - [[Renata]]
-- [[Sons of Marcos]]
-- [[Sybil]]
+- [[Sibyl]]
+- **[[Sons of Marcos]]**
+	- [[Koli]]
 - **[[Valheru]]**
 - [[Widows of the Setting Sun]]
 - **[[Änglarna]]**

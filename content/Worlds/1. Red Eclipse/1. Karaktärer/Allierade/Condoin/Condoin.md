@@ -4,18 +4,16 @@
 
 Current ruler of Isger, he is said to have dedicated his life to peacefully gain Isger's independence from the empire of Cheliax. With skill and cunning in the game of politics he has managed to make Isger one of the most independent of Cheliax's vassal states, shielding his subjects from Queen Abrogail's darker appetites. He is generally well liked by his people.
 
-# Alak Condoin
-Order of the Godclaw
-
-Fick hjälp av oss att hitta en familjering i Hellknights Hills
 
 # Princess Anita Condoin
 
 Wife of prince Arutha, sits on the ruling council. Is known to step up and rule in her husbands place when he is travelling or otherwise unavailable.
 
-# Prince Borric Condoin
+# Prince Borric Condoin (Alak Condoin)
 
 Son of Arutha Condoin, heir presumptive to the throne of Isger but conditional to the approval of Queen Abrogail Thrune II of Cheliax. Little is known about him, he has been kept mostly out of the public's eye. Ill tongues claims that he's both a cripple and spoiled rotten by his mother, princess Anita.
+
+Fick hjälp av oss att hitta en familjering i Hellknights Hills
 
 # Duke James Jamison
 

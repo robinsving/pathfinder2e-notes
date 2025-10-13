@@ -11,8 +11,11 @@ Styrs av [[dispater-logm|Dispater]] själv, i staden Urbs Aeterna
 ## [[Assuwa]]
 Styrs av [[Titus]]
 Producerar krigsmateriel, forskning
+
+Marcos blir tillfångatagen.
+
 ## Anahuak
-Styrs av Scipio
+Styrs av Scipio, men som nu är död.
 Producerar all mat
 ## [[Alkebulan]]
 Tanzi är Emilias by

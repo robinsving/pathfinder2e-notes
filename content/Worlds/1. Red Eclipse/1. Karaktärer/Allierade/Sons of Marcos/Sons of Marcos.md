@@ -1,4 +1,4 @@
-Grupp av [[Automaton]] som lever i Tian Xi.
+Grupp av [[Automaton]] som lever i [[Tian Xi]].
 Origin okänd.
 
 Förmodligen relaterade till [[Markos]].

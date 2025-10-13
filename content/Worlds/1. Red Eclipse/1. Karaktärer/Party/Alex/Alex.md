@@ -5,7 +5,7 @@ aliases:
   - Vida
 owner: Robin
 character: pc
-status: alive
+status: retired
 class: "[[Mechanics/Character Building/Classes/Druid|Druid]]"
 ---
 ![[alex_v3.png|200]]

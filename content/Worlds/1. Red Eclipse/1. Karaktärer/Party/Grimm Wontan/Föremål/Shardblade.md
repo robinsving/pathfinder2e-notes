@@ -6,8 +6,6 @@ aliases:
 Dessa mytomspunna vapen är stora och imponerande, med en slående design och unika egenskaper.
 
 # Utseende
->Ett Shardblade är vanligtvis långt och smalt, med en distinkt design som skiljer sig från vanliga svärd. Det är tillverkat av kristall och metall och glänser i olika nyanser av färger, ofta skimrande i silver, blått eller vitt. Det är oerhört vackert och förmedlar en känsla av övernaturlig skönhet.
-
 Storleken och formen anpassar sig till sin bärares vilja, och den kan förvandlas till vilket slashing-vapen som helst.
 
 # Egenskaper
@@ -16,6 +14,7 @@ Storleken och formen anpassar sig till sin bärares vilja, och den kan förvandl
 # Magiska krafter
 >Shardblades har en ovanlig egenskap att skära genom nästan allt organiskt material med lätthet. De kan skära igenom kläder, metall och till och med människor, men de kan inte skada sten eller andra icke-organiska material. När de träffar en levande varelse, oavsett om det är en människa eller en annan varelse, orsakar bladet omedelbart en genomträngande och dödlig skada.
 
+Den guidar en död persons (demons) själ mot det "goda", men är man för nära [[Soulforge]] så kommer den inte att fungera.
 De kan manifesteras (i en hand?) som en del av en [[Move#Actions]].
 
 # Magiskt ursprung
