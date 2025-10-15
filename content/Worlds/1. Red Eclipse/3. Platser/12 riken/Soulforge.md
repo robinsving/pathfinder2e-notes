@@ -1,0 +1,1 @@
+En konstruktion i [[12 riken|Första Riket Hades]] som binder [[demon|Demon]]iska själar till sig, och tillåter pånyttfödelse.

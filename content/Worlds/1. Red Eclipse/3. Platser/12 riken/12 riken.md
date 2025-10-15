@@ -10,7 +10,7 @@ Alla ser lite förstörda ut, fram till
 # 0. Void
 Rikena börjar med nollte riket. Bristen på liv.
 # 1. Hades
-Demonernas hemvärld. Asmodeus styr Hades. Där finns även en Soul Forge som kan återuppstå demoner som stupar i krig.
+Demonernas hemvärld. Asmodeus styr Hades. Där finns även en [[Soulforge]] som kan återuppstå demoner som stupar i krig.
 >*[[Asmodeus]]*
 # 2. Styx
 Tieflings hemvärld. Tieflings är ej samma sak som halvblod, vilket verkar vara någon med mekanisk skapelse.
