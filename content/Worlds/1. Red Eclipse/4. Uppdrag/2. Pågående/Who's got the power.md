@@ -11,7 +11,6 @@ The home is in the Dragon's Circle in [[Tian Xi]], not too far from the portal.
 
 Platsen vakas över av [[Sons of Marcos]].
 
-# Skelettdrakar
-Inuti laboratoriet finns [[undead|Undead]] [[Mechanics/Rules/traits/dragon|Dragon]]s
+
 
 # Tusenfoting
