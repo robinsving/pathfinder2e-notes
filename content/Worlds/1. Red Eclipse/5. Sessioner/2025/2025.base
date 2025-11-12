@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - file.folder == "Worlds/1. Red Eclipse/5. Sessioner/2025"
+        - '!file.name.contains(".base")'
     order:
       - file.name
       - quest

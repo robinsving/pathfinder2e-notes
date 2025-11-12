@@ -1,0 +1,13 @@
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Worlds/1. Red Eclipse/1. Karaktärer")
+        - '!file.folder.containsAny("Grimm Wontan", "Alex")'
+        - '!file.name.contains(".base")'
+    order:
+      - file.name
+    sort: []
