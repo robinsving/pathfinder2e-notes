@@ -1,5 +1,5 @@
 # Saker att fråga
-- [x] En **till** grupp har klarat [[Starstone Citadel]]?
+- [x] En **till** grupp har klarat [[Starstone]]?
 
 [[Sonya del Ray]] reborn
 

@@ -10,4 +10,4 @@ Absalom är också ett centrum för äventyrare och resenärer, eftersom det är
 # Absaloms förintelse
 I förberedelse för att ta över Inner-Sea-regionen skapade [[Cheliax|Cheliax]] ett artificiellt vulkanutbrott, som ödelade hela regionen. Utav hela Absaloms befolkning som befann sig på Kortos-öarna så var det bara ett tiotal personer som överlevde - bland andra Grimms [[Familj]].
 
-Det enda som man kan se överlevt i ruinerna av Absalom är [[Starstone Citadel]]
+Det enda som man kan se överlevt i ruinerna av Absalom är [[Starstone]]

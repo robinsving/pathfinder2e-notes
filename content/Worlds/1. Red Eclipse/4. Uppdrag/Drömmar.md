@@ -18,5 +18,5 @@ Alla i [[Breachill]] har drömmar.
 ![[Pasted image 20231122213347.png]]
 
 # Betydelse
-Det finns tre vägar. Ta den som inte syns
+Det finns tre vägar. Ta den som inte syns?
 ![[Grimm_dream.png]]

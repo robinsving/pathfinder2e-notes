@@ -53,9 +53,9 @@ Rikena avslutar med tolfte riket. Överflöd på liv.
 ## Resor
 Man kan resa mellan riken, men bara ett hopp i taget.
 Man kan även, efter mycket tid, byta hemrike.
-[[Markos]] skapade en portal som kunde ta en från Golarion till Hades. Den får sin energi genom 6 nycklar, [[Tetraeder Hunt]].
+[[Marcos]] skapade en portal som kunde ta en från Golarion till Hades. Den får sin energi genom 6 nycklar, [[Tetraeder Hunt]].
 ## Själar
 Allas själar, deras blueprints, lämnar hemriket när man dör och återföds i ett nytt rike, antingen ovanför eller nedanför sitt hemrike.
 
->Själar fungerar inte som vi tror. Det är mer som en ritning. När man dör så försvinner ritningen en dimension bort från ditt ursprungshem. De födda i elfte riket kan sluta återfödas. [[Desna]] och [[WorldS/1. Red Eclipse/1. Karaktärer/Allies/Valheru/Valheru|Valheru]] från Golarion hör nu till Elfte.
+>Själar fungerar inte som vi tror. Det är mer som en ritning. När man dör så försvinner ritningen en dimension bort från ditt ursprungshem. De födda i elfte riket kan sluta återfödas. [[Desna]] och [[Valheru]] från Golarion hör nu till Elfte.
 

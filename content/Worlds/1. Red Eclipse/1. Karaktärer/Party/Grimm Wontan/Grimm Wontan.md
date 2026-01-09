@@ -13,7 +13,7 @@ class: Champion
 	- [[Demonen!]]
 	- [[Desertertör!]]
 	- [[Quick notes]]
-- [[Beskrivning]]
+- [[spel/Pathfinder/Pathfinder Vault/Worlds/1. Red Eclipse/1. Karaktärer/Party/Grimm Wontan/Beskrivning]]
 - [[Dualiteten hos Grimm]]
 - [[Familj]]
 - **[[Föremål]]**

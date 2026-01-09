@@ -4,12 +4,12 @@ tags:
   - completed
 ---
 
-# Kusin [[Markos|Marcos del Ray]]
-[[Markos|Mengkare, Lamind, Meckhard, Marcos]] - kärt barn har många namn.
+# Kusin [[Marcos|Marcos del Ray]]
+[[Marcos|Mengkare, Lamind, Meckhard, Marcos]] - kärt barn har många namn.
 
 Denna [[Valheru]] valde att stanna när hans folk lämnade. Nu måste vi hitta honom. ~~Troligen kan vi hitta information i [[Sands of Time]].~~
 
-[[Markos|Marcos del Ray]] är tillfångatagen i [[Assuwa]] på [[Tellus]]. 
+[[Marcos|Marcos del Ray]] är tillfångatagen i [[Assuwa]] på [[Tellus]]. 
 
 >Han är på övre våningen i Titanen i staden Jùrén, [[Assuwa]], [[Tellus]]. Om de inte förstått vem de har så har vi kanske lite tid till att planera. Ni kan inte låta de förstå vem de har!
 >- Sofia
@@ -45,7 +45,7 @@ Denna [[Valheru]] valde att stanna när hans folk lämnade. Nu måste vi hitta h
 		- [[illusion|Illusion]] wall från [[Miho]]?
 	- Döda vakterna
 	- *Blockera dörrar?*
-	- Rädda [[Markos|Marcos del Ray]]
+	- Rädda [[Marcos|Marcos del Ray]]
 	- *Rensa ut andra rum?*
 - Blinka ut
 - Solnedgång, high fives
@@ -70,7 +70,7 @@ Denna [[Valheru]] valde att stanna när hans folk lämnade. Nu måste vi hitta h
 	- Flygningen upp tar ca 1 minut
 - Hur flyger vi ner?
 	- Grimm flyger själv
-		- Bär [[Markos|Marcos del Ray]]
+		- Bär [[Marcos|Marcos del Ray]]
 	- Glak flyger själv (+ Lowka)
 	- [[Gentle Landing]] x 3 eller [[Soft Landing]] x 1
 - Vad gör vi där uppe?
@@ -78,11 +78,11 @@ Denna [[Valheru]] valde att stanna när hans folk lämnade. Nu måste vi hitta h
 		- [[illusion|Illusion]] wall från [[Miho]]?
 	- Döda vakterna
 	- *Blockera dörrar?*
-	- Rädda [[Markos|Marcos del Ray]]
+	- Rädda [[Marcos|Marcos del Ray]]
 	- *Rensa ut andra rum?*
 - Vad händer när vi kommer ner?
 	- Vi måste ta oss en bit för att komma till [[Void Cutter|skeppet]]. 5-10 minuter gång
 	- Glak låser upp
 	- Grimm glider in ([[earthglide-cloak-apg|Earthglide Cloak]]) och drar bort tvärslån
-- Hur gör vi med [[Markos|Marcos del Ray]]?
+- Hur gör vi med [[Marcos|Marcos del Ray]]?
 	- Grimm bär honom genom gatorna, om vi inte kan väcka honom ([[Moment of Renewal]])

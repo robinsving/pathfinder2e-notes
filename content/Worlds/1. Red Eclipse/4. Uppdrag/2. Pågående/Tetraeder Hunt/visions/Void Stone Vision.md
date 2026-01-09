@@ -1,4 +1,4 @@
-[[Markos|Marcos del Ray]] står vid en portal.
+[[Marcos|Marcos del Ray]] står vid en portal.
 
 > Om detta funkar, så kan vi äntligen hålla Void borta
 

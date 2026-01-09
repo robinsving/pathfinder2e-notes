@@ -1,6 +1,7 @@
 ---
 aliases:
   - Mara
+  - Nadia
 ---
 
 Även känd som Mara. Nadi "jobbade" som barmaid när [[Grimm]] träffade partyt. Det var hon som hjälpte dem när Partyt blev tillfångatagna.

@@ -1,6 +1,6 @@
 Den briljanta.
 Metallic fjäll.
-Kusin till [[Markos]].
+Kusin till [[Marcos]].
 
 En av de 10 i [[Valheru]] council.
 

@@ -40,9 +40,10 @@
 -   Avliden
 
 ## Human *male* - Reginald "Reggie" Winslowe
--   Battle medic/Alchemist
--   Paramore
--   Avliden
+- Battle Medicine
+- Swashbuckler/Musician
+- Paramore
+- Avliden
 
 ## Tiefling *female* - Maccath the Crimson ("Crimson")
 -   Half-deamon

@@ -1,0 +1,1 @@
+[[Golarion]] måne. Delade tidigare himmelen med [[Tritos]], men är nu ensam.

@@ -4,7 +4,7 @@ tags:
 aliases:
   - Tetraeder
 ---
-Används som meddelande-lagring, men kan även användas som nycklar för att låsa upp [[Markos]] portal.
+Används som meddelande-lagring, men kan även användas som nycklar för att låsa upp [[Marcos]] portal.
 Vi behöver 6 nycklar.
 
 # Nycklar
@@ -17,6 +17,8 @@ Vi behöver 6 nycklar.
 | ~~Miho~~ [[Sofia]]                             | Magi som kan återuppliva folk                                                                                          | [[Resurrection Stone Vision]] |
 | Sybil                                          | 15x15cm                                                                                                                | [[Ocean vision]]?             |
 | Ön i Mwangi                                    | [[Dantes ö]], håller Dracodemondevourer fången                                                                         | [[Ocean vision]]?             |
+Nu har vi fått tag på alla utom den i [[Mwangi]].
+
 # Övriga visioner
 Visioner kan man även få från andra föremål
 

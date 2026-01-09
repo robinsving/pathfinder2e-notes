@@ -1,4 +1,4 @@
-Titanen är en massiv staty. Där finns [[Markos|Marcos del Ray]].
+Titanen är en massiv staty. Där finns [[Marcos|Marcos del Ray]].
 
 # Vapenexperiment
 Enligt [[Tai Ling]] så pågår det vapenexperimenterande inne i Titanen

@@ -16,7 +16,7 @@ Alv-liknande ras som levde på Golarion för länga sedan. Lite kraftigare än a
 
 %% Begin Waypoint %%
 - [[Dante]]
-- [[Markos]]
+- [[Marcos]]
 - [[Sofia]]
 - [[Sonya del Ray]]
 - [[Yashna del Lin]]

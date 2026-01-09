@@ -5,7 +5,7 @@ tags:
 ---
 1 dags ritt från [[Breachill]] ligger Lamonds ruiner
 
-[[Markos|Mengkare]] var en [[Valheru]] 
+[[Marcos|Mengkare]] var en [[Valheru]] 
 Pussel för att bevisa sin rättmätighet att vara där.
 > "Månen är nyckeln för att ta sig in"
 

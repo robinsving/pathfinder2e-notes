@@ -4,7 +4,7 @@ tags:
 ---
 Transfer runes (price/10 GP) 1 day of work
 
-- [[Elite]] - armor runes, om man bara kan rensa ut kroppen ur rustningen :check:
+- [[Elite]] - armor runes, om man bara kan rensa ut kroppen ur rustningen ✅
 	- Implaccable ✅
 	- Anti-magic ✅
 - [[Elite]] - weapon rune, om man bara kan få svärdet att dö (Bag of Ilju-Lost-It)✅
