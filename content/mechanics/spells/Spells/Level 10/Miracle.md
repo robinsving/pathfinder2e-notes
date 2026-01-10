@@ -31,7 +31,6 @@ components:
 ***
 You request aid directly from your divine source. Your divine source always refuses a request out of line with its nature, and it might grant a different request (potentially more powerful or better fitting its nature) than the one you asked for. A casting of miracle can do any of the following things.
 
-
 Duplicate any spell from the divine list of 9th level or lower to which you have access.
 
 Duplicate any spell from another spell list of 7th level or lower. It must be common or you must have access.

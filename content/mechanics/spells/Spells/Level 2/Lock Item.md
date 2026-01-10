@@ -44,5 +44,4 @@ One object held by a creature becomes fused to that creature's hand and can't be
 **Failure** The creature is affected for 4 rounds.  
 **Critical Failure** The creature is affected for 1 minute.  
 
-
 **Heightened (+2)** You can target either 1 additional object held by the same creature or 1 additional object held by 1 additional creature.  

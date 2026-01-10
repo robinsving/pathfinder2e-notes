@@ -44,5 +44,4 @@ You cause mental distress to a creature, goading it to strike back at you. You d
 **Failure** The target takes full damage and the penalty.  
 **Critical Failure** The target takes double damage, and the status penalty is -2.  
 
-
 **Heightened (+1)** The damage increases by 1d10.  

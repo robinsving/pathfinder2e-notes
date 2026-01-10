@@ -50,5 +50,4 @@ The target appears to be a gruesome and terrifying creature. The effect is uniqu
 **Failure** The creature becomes [[Frightened]] 2 before using its action.  
 **Critical Failure** The creature becomes [[Frightened]] 2, and its action fails and is wasted.  
 
-
 **Heightened (8th)** You can target up to 5 creatures. If a creature uses a hostile action or reaction that affects multiple targets simultaneously, it needs to attempt only one save against mask of terror.  

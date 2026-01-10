@@ -31,7 +31,6 @@ components:
 ***
 You request a direct intercession from the natural world. Nature always refuses unnatural requests and might grant a different request (potentially more powerful or better fitting its character) than the one you asked for. A primal phenomenon spell can do any of the following things.
 
-
 Duplicate any spell from the primal spell list of 9th level or lower to which you have access.
 
 Duplicate any spell from another spell list of 7th level or lower. It must be common or you must have access.

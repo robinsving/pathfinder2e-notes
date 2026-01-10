@@ -42,5 +42,4 @@ Extending a finger, you fire a beam of negative energy that weakens the life for
 **Failure** The creature takes 4d8 persistent negative damage and becomes [[Drained]] 1.  
 **Critical Failure** The creature takes 4d8 persistent negative damage and becomes [[Drained]] 2 and [[Doomed]] 1.  
 
-
 **Heightened (+2)** The persistent negative damage increases by 1d8 persistent negative damage on a success, or by 2d8 persistent negative damage on a failure or critical failure.  

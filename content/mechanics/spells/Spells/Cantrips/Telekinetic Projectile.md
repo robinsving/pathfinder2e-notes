@@ -39,5 +39,4 @@ You hurl a loose, unattended object that is within range and that has 1 Bulk or 
 **Critical Success** You deal double damage.  
 **Success** You deal full damage.  
 
-
 **Heightened (+1)** The damage increases by 1d6.  

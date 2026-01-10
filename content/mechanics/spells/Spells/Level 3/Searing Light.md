@@ -46,5 +46,4 @@ If the light passes through an area of magical darkness or targets a creature af
 **Critical Success** The target takes double fire damage, as well as double good damage if a fiend or undead.  
 **Success** The target takes full damage  
 
-
 **Heightened (+1)** The fire damage increases by 2d6, and the good damage against fiends and undead increases by 2d6.  

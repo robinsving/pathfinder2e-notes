@@ -37,5 +37,4 @@ You can adjust how strongly gravity grips you, changing between low gravity, nor
 
 **High Gravity** You become encumbered. You gain a +2 status bonus to your saving throws and DCs to resist forced movement and attempts to knock you [[Prone]]. You reduce the distance forced movement moves you by half or 10 feet, whichever is more. You can only jump half as high and far. Rather than the normal calculation for falling damage, you take bludgeoning damage equal to the distance you fall. Abilities that adjust how much falling damage you take still apply.  
 
-
 **Heightened (6th)** The duration increases to 1 hour  

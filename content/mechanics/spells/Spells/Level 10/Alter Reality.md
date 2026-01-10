@@ -37,5 +37,4 @@ Duplicate any spell from another spell list of 7th level or lower. It must be co
 Produce any effect whose power is in line with the above.  
 Reverse certain effects that refer to the [[Wish]] spell.  
 
-
 At the GM's discretion, you can try to produce greater effects, but this is dangerous and the spell may have only a partial effect.

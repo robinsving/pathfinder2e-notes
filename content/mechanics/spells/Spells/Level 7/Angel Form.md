@@ -43,7 +43,6 @@ Darkvision.
 One or more attacks specific to the battle form you choose. You're trained with them. Your attack modifier is +25, and you use the listed damage. Melee attacks are Strength based (for the purpose of the [[enfeebled]] condition, for example), and ranged attacks are Dexterity based. If your attack modifier is higher for the given unarmed attack or weapon, you can use it instead.  
 Athletics modifier of +25, unless your own modifier is higher.  
 
-
 You also gain specific abilities based on the type of angel you choose:  
 **Balisse**  
 

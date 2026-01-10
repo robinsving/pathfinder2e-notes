@@ -46,7 +46,6 @@ components:
 ***
 You call upon the unimaginable power of world-ending cataclysms, ripping a small piece of each cataclysm and combining them together into one horrifically powerful attack. The following effects come down upon all creatures in the area. Treat the resistances of creatures in the area as if they were 10 lower for the purpose of determining the cataclysm's damage. Each creature attempts one basic Reflex save that applies to all five types of damage.
 
-
 Flesh-dissolving acid rain deals 3d10 acid damage.
 
 A roaring earthquake shakes and bludgeons creatures on the ground, dealing 3d10 bludgeoning damage.

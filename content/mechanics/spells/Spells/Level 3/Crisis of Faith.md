@@ -43,5 +43,4 @@ To many deities, casting this spell on a follower of your own deity without sign
 **Failure** The target takes full damage; if the target can cast divine spells, it's [[Stupefied]] 1 for 1 round.  
 **Critical Failure** The target takes double damage, is [[Stupefied]] 1 for 1 round, and can't cast divine spells for 1 round.  
 
-
 **Heightened (+1)** The damage increases by 2d6 (or by 2d8 if the target is a divine spellcaster).  

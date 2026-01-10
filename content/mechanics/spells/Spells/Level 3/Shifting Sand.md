@@ -46,7 +46,6 @@ You cause the surface to heave. The area becomes difficult terrain and any track
 **Failure** The creature is affected normally by the spell this turn.  
 **Critical Failure** The creature becomes [[Immobilized]] within the spell's area until it Escapes. If the creature was already immobilized by shifting sands, it also falls [[Prone]].  
 
-
 **Heightened (5th)** The status penalty increases to -2 and the spell's range increases to 60 feet.  
 **Heightened (7th)** The status penalty increases to -3, the spell's range increases to 60 feet, and the spell's area increases to a 30-foot burst.  
 **Heightened (9th)** The status penalty increases to -4, the spell's range increases to 60 feet, and the spell's area increases to a 40-foot burst.  

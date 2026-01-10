@@ -44,5 +44,4 @@ You remove loose dirt, dust, gravel, sand, and the like (though not solid stone)
 **Failure** The creature falls [[Prone]] in the nearest available space of its choice, or falls into the pit if it prefers.  
 **Critical Failure** The creature falls into the pit excavated by the spell and lands Prone, taking falling damage as normal.  
 
-
 **Heightened (+2)** The spell can excavate an additional 5-foot cube of earth. If you excavate all four 5-foot cubes beneath a Large creature, it must attempt a Reflex save or Acrobatics check, as above.  

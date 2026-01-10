@@ -44,5 +44,4 @@ You behold the many timelines that weave around a creature, and in so doing, you
 **Failure** As success, but the creature must commit at least two of its actions for the next turn-"I will Stride toward Valeros and then Strike with my claws." All of these actions are similarly locked in and can't be changed, but the creature can take them in any order.  
 **Critical Failure** As failure, but the creature must commit all of its actions for the next turn.  
 
-
 **Heightened (7th)** Instead of affecting a single target, the spell affects all enemies within a 30-foot emanation.  

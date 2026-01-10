@@ -39,7 +39,6 @@ components:
 ***
 You necrotize part of a creature's body, harming it and debilitating it as its body putrefies, mimicking the natural process of decay. The target takes 12d6 negative damage and one of the following debilitations; roll 1d4 to randomly determine which. The effects depend on its Fortitude save.
 
-
 Bones The target's bones necrotize and become spongy and weak, giving it weakness 3 to bludgeoning damage.
 
 Joints The target's joints necrotize, making its movements ungainly and clumsy. It becomes [[Clumsy]] 1.

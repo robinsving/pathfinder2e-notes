@@ -45,5 +45,4 @@ A brilliant and clamorous display of sparks and colorful fireworks explode aroun
 **Failure** The creature takes full damage and is dazzled for 3 rounds.  
 **Critical Failure** The creature takes double damage, takes 1d4 persistent fire damage, and is dazzled for 1 minute.  
 
-
 **Heightened (+2)** The initial fire damage increases by 1d8, the sonic damage increases by 1d8, and the persistent fire damage a creature takes on a critical failure increases by 1d4.  

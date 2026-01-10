@@ -41,7 +41,6 @@ You briefly conjure a kaiju, a massive, rampaging monster with a unique name and
 **Arrive** ([[necromancy]], [[negative]]) **Channel Void** Each foe in a 100-foot emanation takes 16d8 negative damage with a basic Fortitude save;  
 **Depart** ([[transmutation]]) **Gravitic Repulsion** Each foe in a 50-foot emanation is pushed 100 feet away unless it succeeds at a Fortitude save.  
 
-
 **Agyra, the Forever Storm** Speed 80 feet, fly 200 feet;  
 **Arrive** ([[electricity]], [[evocation]]) **Breath of a Thousand Storms** Agyra shoots two 1,200-foot lines of electricity, one from each of her heads. The lines can't overlap. Each creature along one of the lines takes 6d12 electricity damage with a basic Reflex save. On a failure, the creature is also [[Slowed]] 1 for 1 round (or for 1 minute on a critical failure);  
 **Depart** ([[evocation]], [[sonic]]) **Thunderous Blast** Each creature within a 100-foot emanation takes 6d10 sonic damage with a basic Reflex save, and is also knocked [[Prone]] on a failed save.  

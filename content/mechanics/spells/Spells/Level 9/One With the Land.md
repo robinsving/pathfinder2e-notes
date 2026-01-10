@@ -34,7 +34,6 @@ components:
 ***
 You merge with an adjacent natural feature with enough volume to fit you and your worn and held possessions, such as the ground or a large tree. Your merged form is visible within the feature, and creatures can target and attack you normally, though you have cover and can use it to Hide or Take Cover within the feature. You can cast spells while in the feature as long as they don't require line of effect beyond the feature. You can Dismiss the spell. While merged, you gain the following additional benefits.
 
-
 You immediately become aware of the surrounding terrain features, and you gain tremorsense as an imprecise sense with a range of 200 feet.
 
 You can make terrain vengeance Strikes by commanding plants, rocks, and other natural features to attack your foes. These are melee Strikes that use your spell attack roll, can target any creature within 60 feet of you, and deal 5d12 bludgeoning, piercing, or slashing damage. You choose the damage type each time you make a terrain vengeance Strike.

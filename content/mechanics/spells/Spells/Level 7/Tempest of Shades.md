@@ -42,12 +42,10 @@ You channel the forces of undeath to briefly call forth an amalgam of the vengef
 
 **Arrive** ([[negative]]) **Vortex of Death** Each enemy creature within a 60-foot emanation must attempt a Fortitude save with the following effects.  
 
-
 **Critical Success** The creature is unaffected  
 **Success** The creature is [[Drained]] 1.  
 **Failure** The creature is [[Drained]] 2.  
 **Critical Failure** The creature is [[Drained]] 3.  
-
 
 **Depart** ([[emotion]], [[fear]], [[mental]]) **Howl of Eternity** The vengeful dead lets out an anguished scream. All your enemies within a 100-foot emanation must attempt Will saves with the following effects.  
 

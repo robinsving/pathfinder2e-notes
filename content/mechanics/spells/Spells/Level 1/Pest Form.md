@@ -44,5 +44,4 @@ Weakness 5 to physical damage. (If you take physical damage in this form, you ta
 Low-light vision and imprecise scent 30 feet.  
 Acrobatics and Stealth modifiers of +10, unless your own modifier is higher; Athletics modifier -4.  
 
-
 **Heightened (4th)** You can turn into a flying creature, such as a bird, which grants you a fly Speed of 20 feet.  

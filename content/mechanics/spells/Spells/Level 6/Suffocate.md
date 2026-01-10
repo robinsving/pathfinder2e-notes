@@ -41,5 +41,4 @@ You forcefully and cruelly draw the living breath from a creature's lungs, deali
 **Failure** The creature takes full damage. For the duration, the creature must hold its breath or suffocate.  
 **Critical Failure** The creature takes double damage, and all the air is pulled from the creature's lungs. The creature falls [[Unconscious]] and starts suffocating for the duration.  
 
-
 **Heightened (9th)** You can target up to 5 creatures.  

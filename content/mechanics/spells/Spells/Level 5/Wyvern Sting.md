@@ -43,7 +43,6 @@ You duplicate the venomous sting of a wyvern. You deal 3d4 piercing damage to th
 **Critical Failure** The target is afflicted with wyvern venom at stage 2.  
 
 
-
 **Wyvern Venom (poison) Level 9**  
 
 Maximum Duration 6 rounds  

@@ -41,6 +41,5 @@ You fill the area with an oppressive, arid swelter that overwhelms creatures wit
 **Failure** The creature is [[Sickened]] 1.  
 **Critical Failure** The creature is [[Sickened]] 2.  
 
-
 **Heightened (4th)** Once per round when you Sustain the Spell, you can move the center of the burst to a new location within range.  
 **Heightened (7th)** As the 4th-level version, except the range is 120 feet and the area is a 20-foot burst.  

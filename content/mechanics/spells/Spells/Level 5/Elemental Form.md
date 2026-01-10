@@ -46,7 +46,6 @@ Darkvision.
 One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +18, and your damage bonus is +9. These are Dexterity based (air or fire) or Strength based (earth or water). If your corresponding unarmed attack modifier is higher, you can use it instead.  
 Acrobatics (air or fire) or Athletics (earth or water) modifier of +20; ignore this change if your own modifier is higher.  
 
-
 You also gain specific abilities based on the type of elemental you choose:  
 **Air**  
 Fly Speed 80 feet, movement doesn't trigger reactions;  

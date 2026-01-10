@@ -43,7 +43,6 @@ You use the power of nightmares to magically replicate the venomous attack of th
 **Critical Failure** The target is afflicted with Leng spider venom at stage 2.  
 
 
-
 **Leng Spider Venom (incapacitation, poison) Level 13**  
 
 Maximum Duration 6 rounds  

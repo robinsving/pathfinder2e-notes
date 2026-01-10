@@ -45,5 +45,4 @@ You cause a length or section of Rope or a rope-like object to animate and follo
 **Tie** The Rope ties itself around a willing creature or an object that's unattended or attended by a willing creature.  
  **Undo** The Rope undoes one of its knots, ties, or bindings.  
 
-
 **Heightened (+2)** The range increases by 50 feet, and you can animate 50 more feet of Rope.  

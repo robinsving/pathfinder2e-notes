@@ -43,5 +43,4 @@ You utter a potent litany from your faith, a mandate that harms those who oppose
 **Failure** The creature takes full damage and is [[Enfeebled]] 2 for 1 minute.  
 **Critical Failure** The creature takes double damage and is [[Enfeebled]] 2 for 1 minute. On your home plane, a creature that critically fails is banished with the effect of a failed [[Banishment]] save. A 10th-level creature or lower must attempt a Will save. On a failure, it's [[Paralyzed]] for 1 minute; on a critical failure, it dies.  
 
-
 **Heightened (+1)** The damage increases by 1d10, and the level of creatures that must attempt a second save on a critical failure increases by 2.  

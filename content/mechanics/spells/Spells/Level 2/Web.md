@@ -47,5 +47,4 @@ Each time a creature in the web begins to use a move action or enters the web du
 **Failure** The creature takes a -10-foot circumstance penalty to its Speeds until the start of its next turn.  
 **Critical Failure** The creature is Immobilized until the start of its next turn, after which it takes a -10-foot circumstance penalty to its Speeds for 1 round. It can attempt to Escape to remove its Immobilized condition.  
 
-
 **Heightened (4th)** The spell's area increases to a 20-foot burst, and its range increases to 60 feet.  

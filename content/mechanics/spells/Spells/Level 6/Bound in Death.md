@@ -46,5 +46,4 @@ Each time you sustain this spell, you can choose to deal 6d8 damage to yourself,
 **Failure** The target takes half the damage of the effect instead of you, then can't take damage from bound in death for 1 round. Apply any immunity, resistances, or weaknesses you have to the damage before halving it, and the target still applies any immunity, resistances, weaknesses, and the like it has.  
 **Critical Failure** The target takes half the damage of the effect.  
 
-
 **Heightened (+2)** The damage you can choose to deal to yourself each time you sustain the spell increases by 3d8.  

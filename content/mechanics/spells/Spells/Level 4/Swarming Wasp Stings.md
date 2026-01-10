@@ -43,7 +43,6 @@ You manifest a swarm of disembodied wasp stingers that stab creatures in the are
 **Critical Failure** The target is afflicted with swarming wasp venom at stage 2.  
 
 
-
 **Swarming Wasp Venom (poison) Level 7**  
 
 Maximum Duration 6 rounds  

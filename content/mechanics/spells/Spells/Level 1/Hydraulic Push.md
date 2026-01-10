@@ -42,5 +42,4 @@ You call forth a powerful blast of pressurized water that bludgeons the target a
 **Critical Success** The target takes 6d6 bludgeoning damage and is knocked back 10 feet.  
 **Success** The target takes 3d6 bludgeoning damage and is knocked back 5 feet.  
 
-
 **Heightened (+1)** The damage increases by 2d6.  

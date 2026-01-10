@@ -50,5 +50,4 @@ Each creature in the area becomes drowsy and might fall asleep. A creature that 
 **Failure** The creature falls Unconscious. If it's still Unconscious after 1 minute, it wakes up automatically.  
 **Critical Failure** The creature falls Unconscious. If it's still Unconscious after 1 hour, it wakes up automatically.  
 
-
 **Heightened (4th)** The creatures fall Unconscious for 1 round on a failure or 1 minute on a critical failure. They fall Prone and release what they're holding, and they can't attempt Perception checks to wake up. When the duration ends, the creature is sleeping normally instead of automatically waking up.  

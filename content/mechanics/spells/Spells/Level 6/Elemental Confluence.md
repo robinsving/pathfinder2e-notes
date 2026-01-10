@@ -43,7 +43,6 @@ components:
 ***
 You conjure four types of elementals who combine forces to form into a chaotic storm. The confluence has AC 28 and 120 Hit Points, weakness 10 to area effects, and immunity to bleed and poison. Creatures can move through the confluence; creatures within the confluence are concealed, and all creatures outside the confluence are concealed to creatures within it. When you Cast or Sustain this Spell, you choose up to two different types of elementals to act.
 
-
 Air (air, electricity) The elemental looses a bolt of electricity from the confluence, dealing 4d4 electricity damage to creatures within 20 feet of the confluence, with a basic Reflex save. This doesn't affect creatures that are completely inside of the confluence.
 
 Earth (earth) The confluence gains a +2 circumstance bonus to AC and resistance 10 to all physical damage (except adamantine) for 1 round.

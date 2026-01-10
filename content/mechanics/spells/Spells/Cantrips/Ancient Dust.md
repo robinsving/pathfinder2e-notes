@@ -42,5 +42,4 @@ You cough up a cloud of gray soil, echoing the dust in the graves of Kemnebi's m
 **Failure** The creature takes full damage and persistent damage.  
 **Critical Failure** The creature takes double damage and double the persistent damage.  
 
-
 **Heightened (+2)** The initial negative damage increases by 1d6, and the persistent damage increases by 1.  

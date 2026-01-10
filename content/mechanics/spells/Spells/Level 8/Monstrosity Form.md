@@ -62,7 +62,6 @@ Melee 1 body ([[reach]] 10 feet) Damage 2d8+20 bludgeoning;
 
 **Sea Serpent**  
 
-
 Speed 20 feet, swim Speed 90 feet;  
 Melee 1 jaws ([[reach]] 15 feet), Damage 2d12+20 piercing;  
 Melee 1 tail ([[reach]] 25 feet), Damage 2d8+20 bludgeoning;  

@@ -35,6 +35,6 @@ components:
 **Cast** `=this.time` | `=this.components`  
 **Range** `=this.range`; **Targets** `=this.target`  
 **Duration** `=this.duration`  
-**Cost** `=this.cost` 
+**Cost** `=this.cost`  
 ***
 You wrench the target's soul away before it can pass on to the afterlife and imprison it in a black sapphire. While the soul is in the gem, the target can't be returned to life through any means, even powerful magic such as wish. If the gem is destroyed or bind soul is counteracted on the gem, the soul is freed. The gem has AC 16 and Hardness 10. A gem can't hold more than one soul, and any attempt wastes the spell.

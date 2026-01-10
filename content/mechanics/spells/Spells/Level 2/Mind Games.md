@@ -37,7 +37,7 @@ components:
 **Cast** `=this.time` | `=this.components`  
 **Range** `=this.range`; **Targets** `=this.target`  
 **Saving Throw** `=this.save`; **Duration** `=this.duration`  
-**Cost** `=this.cost` 
+**Cost** `=this.cost`  
 ***
 You lock minds with the target, trying to mentally subdue them. The target must attempt a Will save. Each time you Sustain this Spell, the target attempts another Will save.  
 **Critical Success** You are [[Stunned]] 1 and the spell ends.  

@@ -43,5 +43,4 @@ The target believes its teeth are falling out, crawling along its face, stabbing
 **Failure** The target takes full damage and persistent mental damage and is[[Frightened]] 1.  
 **Critical Failure** The target takes full damage and persistent mental damage and is [[Frightened]] 3.  
 
-
 **Heightened (+2)** You can target two additional creatures, the mental damage increases by 2d4, and the persistent mental damage increases by 1d4.  

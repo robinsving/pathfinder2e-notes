@@ -42,6 +42,5 @@ You blast the area with grit that scours away soil and gets into creatures' eyes
 **Failure** The creature is [[Dazzled]] for 1 minute or until it uses an Interact action to get the sand out of its eyes.  
 **Critical Failure** As failure, but the creature is also [[Blinded]] for its next action.  
 
-
 **Heightened (3rd)** Once per round when you Sustain the Spell, you can move the center of the burst to a spot within range.  
 **Heightened (6th)** As the 3rd-level version, except the range is 120 feet and the area is a 20-foot burst.  

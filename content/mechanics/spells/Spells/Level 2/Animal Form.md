@@ -37,13 +37,11 @@ You call upon primal energy to transform yourself into a Medium animal battle fo
 
 You gain the following statistics and abilities regardless of which battle form you choose:
 
-
 AC = 16 + your level. Ignore your armor's check penalty and Speed reduction.  
 5 temporary Hit Points.  
 Low-light vision and imprecise scent 30 feet.  
 One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can use. You're trained with them. Your attack modifier is +9, and your damage bonus is +1. These attacks are Strength based (for the purpose of the [[Enfeebled]] condition, for example). If your unarmed attack bonus is higher, you can use it instead.  
 Athletics modifier of +9, unless your own modifier is higher.  
-
 
 You also gain specific abilities based on the type of animal you choose:  
 **Ape**  

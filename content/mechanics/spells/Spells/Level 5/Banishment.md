@@ -46,5 +46,4 @@ You send the target back to its home plane. The target must attempt a Will save.
 **Failure** The target is banished.  
 **Critical Failure** The target is banished and can't return by any means to the plane it's banished from for 1 week.  
 
-
 **Heightened (9th)** You can target up to 10 creatures. The extra material component affects targets to which it is anathema.  

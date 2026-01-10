@@ -45,5 +45,4 @@ You create a phantasmal image of the most beautiful creature imaginable to the t
 **Failure** The target is entranced by the vision, becoming stupefied 1 for 1 round and moving toward the image's location via the most direct route possible for 1 round, bypassing any obvious hazards and enemies in the way. The target is then [[Fascinated]] by the illusion for 1 round.  
 **Critical Failure** As failure, except the target is [[Stupefied]] 2 and becomes fascinated by the illusion for 1 minute instead of 1 round.  
 
-
 **Heightened (+2)** You can target an additional creature in range.  

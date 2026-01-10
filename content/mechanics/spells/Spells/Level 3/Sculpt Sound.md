@@ -42,5 +42,4 @@ Because this spell obscures sound instead of preventing it, using the spell to q
 **Failure** The affected sound from the creature is altered in the way you determine.  
 **Critical Failure** The affected sound from the creature is altered and the target becomes [[Stupefied]] 2 for 1 minute as it struggles with the disorienting effects of its altered sound.  
 
-
 **Heightened (5th)** You can target up to 6 creatures or 6 objects, altering the sounds of all affected creatures or objects in the same way.  

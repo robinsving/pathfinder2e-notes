@@ -46,5 +46,4 @@ Moonburst's cold damage is silver damage for the purposes of weaknesses, resista
 **Failure** The creature or object takes full damage.  
 **Critical Failure** The creature or object takes full damage. If it's a creature, it's [[Blinded]] for an unlimited duration. If the globe overlaps with an area of magical darkness, moonburst attempts to counteract the darkness effect.  
 
-
 **Heightened (+1)** The cold damage increases by 1d10, and the positive damage against undead increases by 1d10 positive{1d10 positive damage}.  

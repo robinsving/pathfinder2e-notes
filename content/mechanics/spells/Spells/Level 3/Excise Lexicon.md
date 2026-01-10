@@ -43,5 +43,4 @@ You reach into a creature's mind and extract its knowledge of a word. Choose a w
 **Failure** The spell's duration is 1 day.  
 **Critical Failure** The spell's duration is unlimited.  
 
-
 **Heightened (+2)** You excise one additional word.  

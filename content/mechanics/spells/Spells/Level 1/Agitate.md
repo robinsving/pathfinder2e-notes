@@ -46,5 +46,4 @@ You send the target's mind and body into overdrive, forcing it to become restles
 **Failure** The duration is 2 rounds.  
 **Critical Failure** The duration is 4 rounds.  
 
-
 **Heightened (+1)** The damage increases by 2d8.  

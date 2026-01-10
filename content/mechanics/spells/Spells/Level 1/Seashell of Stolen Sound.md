@@ -36,7 +36,7 @@ components:
 **Cast** `=this.time` | `=this.components`; **Trigger** `=this.trigger`  
 **Range** `=this.range`  
 **Duration** `=this.duration`  
-**Cost** `=this.cost` 
+**Cost** `=this.cost`  
 ***
 You store a sound in a seashell to use as you will: the last words of a loved one, a dragon's mighty roar, the compromising conversation between two powerful diplomats, or even more strange and secret. As part of Casting this Spell, you must present an unbroken seashell. When you Cast the Spell, magic swirls around the triggering creature, copying the sounds they make, as well as any background noise, for the next minute and storing them in the seashell.
 

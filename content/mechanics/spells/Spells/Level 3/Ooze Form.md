@@ -44,7 +44,6 @@ No vision and motion sense 30 feet. You can sense nearby motion through vibratio
 One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can use. You're trained with them. Your attack modifier is +14, and you use the listed damage. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your unarmed attack modifier is higher, you can use it instead.  
 Athletics modifier of +14, unless your own is higher.  
 
-
 You also gain specific abilities based on the ooze:  
 **Black Pudding** Speed 15 feet, climb 15 feet;  
 

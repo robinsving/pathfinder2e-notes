@@ -41,7 +41,6 @@ components:
 ***
 All life dances one step from the precipice, one heartbeat from disaster. You open your eyes wide and see doom waiting in the wings, then invite it to step forward. A spectral omen of disaster appears above the target's head- traditionally, this is a downward-pointing sword, but some spellcasters report seeing a hangman's noose or a grinning skull instead. When you Cast this Spell, pick one of the following triggers.
 
-
 The target moves more than its Speed in a single round.
 
 The target makes more than one Strike in a single round.

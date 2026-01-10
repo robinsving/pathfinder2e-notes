@@ -43,5 +43,4 @@ You cause the creature's vision to become particularly sensitive. The creature m
 **Failure** The creature is dazzled for 1 minute.  
 **Critical Failure** The creature gains Light Blindness for 1 minute. If the creature is already exposed to bright light, it immediately becomes [[Blinded]], as it isn't acclimated to its newly acquired light blindness.  
 
-
 **Heightened (6th)** You can target up to 10 creatures.  

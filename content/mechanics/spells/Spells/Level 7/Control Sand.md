@@ -38,7 +38,6 @@ You whip up a small sandstorm around your body. When a creature starts its turn 
 
 Choose one of the following additional effects when you cast this spell. On subsequent rounds, you can switch to a different effect once per round as a free action triggered by sustaining the spell.
 
-
 Sand Shield You create a magical shield made of sand. The sand shield provides no benefit to AC, but it does allow you to use the Shield Block reaction and acts as a shield for this purpose. The sand shield has Hardness 14, 21 Hit Points, and no Broken Threshold; when the shield's HP are reduced to 0, you can't use its Shield Block reaction again until the next time you Sustain the Spell and choose the sand shield effect.
 
 Sandblast You direct a jet of sand at a single target. One creature of your choice within 30 feet takes 8d6 slashing damage (basic Reflex save). On a critical failure, the creature is also [[Dazzled]] for 1 minute.

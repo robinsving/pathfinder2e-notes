@@ -44,5 +44,4 @@ You ward the target item against those who would steal it. When a creature attem
 **Failure** The creature takes full damage and is [[Doomed]] 2.  
 **Critical Failure** The creature takes double damage and is [[Doomed]] 3.  
 
-
 **Heightened (+2)** The damage increases by 2d8.  

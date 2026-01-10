@@ -42,5 +42,4 @@ You can channel the fury of your deity against foes of opposed alignment. Choose
 **Failure** The creature takes full damage and is [[Sickened]] 1.  
 **Critical Failure** The creature takes full damage and is [[Sickened]] 2; while it is sickened, it is also [[Slowed]] 1.  
 
-
 **Heightened (+1)** The damage increases by 1d10.  

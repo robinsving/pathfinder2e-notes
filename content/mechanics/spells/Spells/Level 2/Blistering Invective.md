@@ -48,5 +48,4 @@ A heap of insults and invectives spew from your mouth-words so devastating your 
 **Failure** The target becomes [[Frightened]] 1 and takes the full persistent fire damage.  
 **Critical Failure** The target becomes [[Frightened]] 2 and takes double the persistent fire damage.  
 
-
 **Heightened (+2)** You can target two additional creatures, and the persistent damage increases by 2d6.  

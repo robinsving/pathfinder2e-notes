@@ -41,7 +41,6 @@ Darkvision.
 One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can use. You're trained with them. Your attack modifier is +18, and you use the listed damage. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your unarmed attack modifier is higher, you can use it instead.  
 Athletics modifier of +20, unless your own modifier is higher.  
 
-
 You also gain specific abilities based on the type of aberration you choose:  
 **Chuul**  
 Speed 30 feet, swim 25 feet;  

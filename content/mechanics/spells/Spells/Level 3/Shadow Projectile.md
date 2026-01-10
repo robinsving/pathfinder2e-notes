@@ -40,5 +40,4 @@ You create an illusory duplicate of your ally's ranged attack to confuse your op
 **Failure** The creature is flat-footed against the triggering attack and takes full damage from your illusory projectile.  
 **Critical Failure** As failure, but double damage.  
 
-
 **Heightened (+2)** The damage increases by 1d8.  

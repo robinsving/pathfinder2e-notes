@@ -38,7 +38,6 @@ A spray of rainbow light beams cascades from your open hand. Each creature in th
 
 Prismatic Spray
 
-
 1d8
 
 Color

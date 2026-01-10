@@ -39,7 +39,6 @@ You wrap the target in armor made of sheets of colored light. The armor sheds br
 
 When you cast the spell, roll 2d8{1d8 twice} on the table below to see the armor's colors (rerolling any duplicates). Each color grants resistance 5 to the indicated damage type. If you spend three actions to Cast the Spell, roll 3d8{three} times instead.
 
-
 **Red** fire  
 **Orange** acid  
 **Yellow** electricity  

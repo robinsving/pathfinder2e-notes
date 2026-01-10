@@ -40,5 +40,4 @@ You swing a weapon you're holding, and the weapon magically multiplies into dupl
 **Failure** The target takes full damage.  
 **Critical Failure** The target takes double damage and is subject to the weapon's critical specialization effect.  
 
-
 **Heightened (+1)** Add another damage die.  

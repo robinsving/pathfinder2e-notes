@@ -34,6 +34,6 @@ components:
 **Cast** `=this.time` | `=this.components`  
 **Area** `=this.area`  
 **Duration** `=this.duration`  
-**Cost** `=this.cost` 
+**Cost** `=this.cost`  
 ***
 You sanctify the area, sprinkling it with holy water and warding it against your foes. Choose aberrations, celestials, dragons, fiends, monitors, or undead. All creatures in the area gain a +1 status bonus to AC, attack rolls, damage rolls, and saving throws against the chosen creatures.

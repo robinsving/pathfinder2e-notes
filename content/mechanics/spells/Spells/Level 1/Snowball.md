@@ -42,5 +42,4 @@ You throw a magically propelled and chilled ball of dense snow. The target takes
 **Success** The target takes full damage and a -5-foot status penalty to its Speeds for 1 round.  
 **Failure** No effect.  
 
-
 **Heightened (+1)** The damage increases by 2d4.  

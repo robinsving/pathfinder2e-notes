@@ -37,5 +37,4 @@ You attune yourself to an underlying cosmic order to the world. While you remain
 **Heightened (8th)** The status bonus increases to +3.  
 
 
-
 Note: The automation for the critical failure effect defaults to 10 rounds and must be altered manually.

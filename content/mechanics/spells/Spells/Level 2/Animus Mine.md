@@ -43,5 +43,4 @@ The first creature that uses a mental effect against you triggers the animus min
 **Failure** The creature takes full damage and is [[Stunned]] 1.  
 **Critical Failure** The creature takes double damage and is [[Stunned]] 1. You are unaffected by the triggering mental effect.  
 
-
 **Heightened (+1)** The damage increases by 2d8.  

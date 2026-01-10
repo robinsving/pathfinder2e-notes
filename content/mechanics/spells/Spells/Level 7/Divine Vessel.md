@@ -35,7 +35,6 @@ You accept otherworldly energies into your body; while you are still recognizabl
 
 If you were Medium or smaller, you become Large, as the effects of [[Enlarge]]. You must have space to expand into, or the spell is lost. You also gain the following benefits.
 
-
 40 temporary Hit Points.
 
 A fly Speed equal to your Speed.

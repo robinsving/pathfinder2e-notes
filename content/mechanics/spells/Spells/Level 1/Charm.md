@@ -52,6 +52,5 @@ You can Dismiss the spell. If you use hostile actions against the target, the sp
 **Failure** The target's attitude becomes [[Friendly]] toward you. If it was Friendly, it becomes [[Helpful]]. It can't use hostile actions against you.  
 **Critical Failure** The target's attitude becomes Helpful toward you, and it can't use hostile actions against you.  
 
-
 **Heightened (4th)** The duration lasts until the next time you make your daily preparations.  
 **Heightened (8th)** The duration lasts until the next time you make your daily preparations, and you can target up to 10 creatures.  

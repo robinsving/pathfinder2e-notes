@@ -45,5 +45,4 @@ You call forth a servitor forged from raw positive energy to heal and bolster yo
 
 **Depart** ([[healing]], [[necromancy]], [[positive]]) *Servitor's Blessing* The servitor disappears in a 30‑foot emanation of positive energy. All willing living creatures within heal 3d8 Hit Points. All undead within take that much damage, with a basic Fortitude save.  
 
-
 **Heightened (+2)** The Arrive effect's temporary Hit Points increase by 8, and the Depart effect's healing and damage to undead increase by 1d8.  

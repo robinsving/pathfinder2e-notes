@@ -47,5 +47,4 @@ You inflict despair on creatures in the area. The effects for each creature are 
 **Failure** As success, but the duration is 1 minute.  
 **Critical Failure** As failure, and the creature is automatically [[Slowed]] 1 for 1 minute.  
 
-
 **Heightened (7th)** The area increases to a 60-foot cone.  

@@ -45,5 +45,4 @@ You create a wave of energy that ripples through the earth. Terrestrial creature
 **Failure** The creature falls [[Prone]].  
 **Critical Failure** As failure, plus the creature takes 1d6 damage.  
 
-
 **Heightened (+1)** The area increases by 5 feet (to a 20-foot cone at 2nd level, and so on).  

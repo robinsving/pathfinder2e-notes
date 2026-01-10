@@ -42,7 +42,6 @@ Low-light vision.
 One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can use. You're trained with them. Your attack modifier is +16, and you use the listed damage. These attacks are Dexterity based. If your attack modifier is higher for the given unarmed attack or weapon, you can use it instead.  
 Acrobatics modifiers of +16, unless your own modifier is higher.  
 
-
 You also gain specific abilities based on the type of fey:  
 **Dryad**  
 

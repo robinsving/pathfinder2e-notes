@@ -38,5 +38,4 @@ components:
 ***
 By imposing your will upon the water, you can raise or lower the level of water in the chosen area by 10 feet. Water creatures in the area are subjected to the effects of [[Slow]].
 
-
 Area 50 ft long by 50 ft wide

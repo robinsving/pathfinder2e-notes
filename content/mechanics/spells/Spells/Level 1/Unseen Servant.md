@@ -38,7 +38,6 @@ components:
 ***
 You summon an unseen servant, which you can command as part of Sustaining the Spell. It serves you until its Hit Points are reduced to 0, at which point the spell ends, or until you stop Sustaining the Spell. The unseen servant gains the summoned trait.
 
-
 ## Unseen Servant
 
 ==[[No Alignment]]== ==[[Medium]]== ==[[Mindless]]==
@@ -48,7 +47,6 @@ You summon an unseen servant, which you can command as part of Sustaining the Sp
 **Skills** Stealth +8    
 **Str** -4, **Dex** +2, **Con** +0, **Int** -5, **Wis** +0, **Cha** +0    
 **Invisible** An unseen servant is invisible, though it normally doesnt Sneak, so it is usually only hidden.  
-
 
 **Saves** _AC_ 13; _Fort_ +0, _Ref_ +4, _Will_ +0    
 **HP** 4; Immunities disease, mental, non-magical attacks, paralysis, poison, precision, unconscious ; Resistances all damage 5 (except force or ghost touch)  

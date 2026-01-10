@@ -34,7 +34,6 @@ components:
 ***
 You call forth three illusory images of yourself, and each of the four of you takes on a different color, your colors all shifting each time someone attacks you. This has the effects of [[Mirror Image]], except that whenever a foe destroys one of the images, roll 1d4{1d4} to see which color the image was when it was destroyed. The attacker takes the corresponding effect.
 
-
 Red 5 fire damage and 5 mental damage.
 
 Orange 5 acid damage and 5 mental damage.

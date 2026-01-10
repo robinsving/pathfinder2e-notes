@@ -50,7 +50,6 @@ One or more unarmed melee attacks specific to the battle form you choose, which 
 Athletics modifier of +23, unless your own modifier is higher.  
 Breath Weapon 2 (arcane, evocation) The shape, damage, and damage type of your breath weapon depend on your specific dragon form (see below). A creature in the area attempts a basic save against your spell DC. This is a Reflex save unless stated otherwise in the special ability description for your specific dragon form. Once activated, your breath weapon can't be used again for [[/br 1d4 #rounds]]{1d4 rounds}. Your breath weapon has the trait corresponding to the type of damage it deals.  
 
-
 You also gain specific abilities based on the type of dragon:  
 **Black**  
 Swim Speed 60 feet;  

@@ -36,7 +36,6 @@ components:
 ***
 You unleash a dangerous consonance of reverberating sound, focusing on a single target or spreading out to damage many foes. The number of actions you spend Casting this Spell determines its targets, range, area, and other parameters.
 
-
 1 (verbal) The spell deals 1d4 sonic damage to a single enemy, with a basic Fortitude save.
 
 2 (somatic, verbal) The spell deals 2d4 sonic damage to all creatures in a 10-foot burst, with a basic Fortitude save.

@@ -44,5 +44,4 @@ Wind flows from your outstretched hands and whirls around you in a 5-foot emanat
 **Failure** The creature takes full damage and is pushed 5 feet away from you.  
 **Critical Failure** The creature takes double damage and is pushed 10 feet away from you.  
 
-
 **Heightened (+2)** The damage increases by 1d6.  

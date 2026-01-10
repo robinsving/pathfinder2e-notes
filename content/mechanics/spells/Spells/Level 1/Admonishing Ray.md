@@ -38,5 +38,4 @@ A ray of energy bludgeons your target into submission without causing lasting ha
 **Critical Success** The target takes double damage.  
 **Success** The target takes full damage.  
 
-
 **Heightened (+1)** The damage increases by 2d6.  

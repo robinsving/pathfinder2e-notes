@@ -43,7 +43,6 @@ You afflict the target with the supernatural disease known as internal insurrect
 **Critical Failure** The target is afflicted with internal insurrection at stage 2.  
 
 
-
 **Internal Insurrection (disease) Level 7.**  
 
 The target can't recover from the clumsy condition from internal insurrection until the disease is cured  

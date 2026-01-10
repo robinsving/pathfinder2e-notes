@@ -45,5 +45,4 @@ Your target's mind tumbles down a deep well of dread, dwelling so intently on de
 **Failure** The target takes full damage and becomes [[Frightened]] 2.  
 **Critical Failure** The target takes double damage and becomes [[Frightened]] 3.  
 
-
 **Heightened (+1)** Increase the damage by 2d6 mental.  

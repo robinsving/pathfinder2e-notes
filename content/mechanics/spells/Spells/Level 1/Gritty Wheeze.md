@@ -44,5 +44,4 @@ Water creatures and plant creatures use the outcome one degree of success worse 
 **Failure** The creature takes full damage and is [[Dazzled]] for 1 round.  
 **Critical Failure** The creature takes double damage and is dazzled for 1 minute.  
 
-
 **Heightened (+1)** The damage increases by 2d4.  

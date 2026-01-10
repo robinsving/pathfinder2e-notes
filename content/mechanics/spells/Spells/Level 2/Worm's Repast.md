@@ -42,5 +42,4 @@ Gnawing worms materialize within the flesh of the target creature, dealing 4d6 p
 **Failure** The target takes full initial and persistent damage and is [[Flat-Footed]] due to the pain for as long as it takes persistent damage.  
 **Critical Failure** As failure, but the target takes double the initial damage and is also [[Slowed]] 1 by the pain for as long as it takes persistent damage.  
 
-
 **Heightened (+2)** The initial and persistent damage increase by 2d6 and 1d6, respectively  

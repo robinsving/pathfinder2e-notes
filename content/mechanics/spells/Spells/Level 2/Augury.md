@@ -40,5 +40,4 @@ You gain a vague glimpse of the future. During the casting of this spell, ask ab
 **Nothing** There won't be particularly good or bad results.  
 
 
-
 The GM rolls a secret DC 6 flat check. On a failure, the result is always "nothing." This makes it impossible to tell whether a "nothing" result is accurate. If anyone asks about the same topic as the first casting of augury during an additional casting, the GM uses the secret roll result from the first casting. If circumstances change, though, it's possible to get a different result.

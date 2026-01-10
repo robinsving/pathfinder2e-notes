@@ -46,5 +46,4 @@ If the creature is undead or has negative healing, it instead takes 1d8 positive
 **Failure** The creature is damaged immediately and at the end of each of your turns (so twice in the round you Cast the Spell).  
 **Critical Failure** As failure, and the damage is doubled.  
 
-
 **Heightened (+3)** The damage and healing each increase by 1d8{1d8}.  

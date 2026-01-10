@@ -45,5 +45,4 @@ You override a target's olfactory senses, luring them to a specific location thr
 **Failure** The target is [[Stupefied]] 2 and moves toward the selected location via the most direct route possible for 1 round, bypassing any obvious hazards and enemies in the way.  
 **Critical Failure** The target is [[Stupefied]] 4 and moves to the selected location via the most direct route possible for 1 round, bypassing any obvious hazards and enemies in the way. If the creature reaches the destination, it must remain in that location for 1d4 rounds but can otherwise act normally.  
 
-
 **Heightened (+2)** You target 1 additional creature, selecting a different square within range as their destination.  

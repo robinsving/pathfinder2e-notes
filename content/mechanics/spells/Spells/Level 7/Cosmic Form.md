@@ -43,7 +43,6 @@ Darkvision.
 One or more attacks specific to the battle form you use. You're trained with them. Your attack modifier is +25, and you use the listed damage. The melee attacks are Strength based (for the purpose of the enfeebled condition, for example), and the ranged attacks are Dexterity based. If your unarmed attack modifier is higher, you can use it instead.  
 Athletics modifier of +25, unless your own is higher.  
 
-
 You also gain specific abilities based on the stellar body:  
 **Moon** Speed 30 feet, fly 50 feet;  
 

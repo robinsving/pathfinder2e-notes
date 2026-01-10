@@ -41,5 +41,4 @@ You utter an arcane word of power that can make the target [[Blinded]] upon hear
 **12th-13th** The target is Blinded for 1d4 minutes.  
 **14th or Higher** The target is [[Dazzled]] for 1 minute.  
 
-
 **Heightened (+1)** The levels at which each outcome applies increase by 2.  

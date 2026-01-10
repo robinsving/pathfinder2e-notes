@@ -49,5 +49,4 @@ You implant a subconscious suggestion deep within the target's mind for them to 
 **Failure** The suggestion remains in the target's subconscious until the next time you prepare. If the trigger occurs before then, the target immediately follows your suggestion. The effect has a duration of 1 minute, or until the target has completed a finite suggestion or the suggestion becomes self-destructive or has other obvious negative effects.  
 **Critical Failure** As failure, but the duration is 1 hour.  
 
-
 **Heightened (9th)** You can target up to 10 creatures.  

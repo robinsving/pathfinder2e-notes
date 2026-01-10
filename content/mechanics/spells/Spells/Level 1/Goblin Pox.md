@@ -45,7 +45,6 @@ Your touch afflicts the target with goblin pox, an irritating allergenic rash. T
 **Critical Failure** The target is afflicted with goblin pox at stage 2.  
 
 
-
 **Goblin Pox (disease) Level 1.**  
 
 Goblins and goblin dogs are immune.  

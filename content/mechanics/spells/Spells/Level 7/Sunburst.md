@@ -46,5 +46,4 @@ A powerful globe of searing sunlight explodes in the area, dealing 8d10 fire dam
 **Failure** The creature takes full damage.  
 **Critical Failure** The creature takes full damage. If it's a creature, it becomes [[Blinded]] permanently.  
 
-
 **Heightened (+1)** The fire damage increases by 1d10, and the positive damage against undead increases by 1d10.  

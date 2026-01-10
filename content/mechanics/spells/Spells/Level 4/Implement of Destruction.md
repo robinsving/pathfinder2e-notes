@@ -45,5 +45,4 @@ You solemnly declare that the target weapon will bring death to a foe, implantin
 **Failure** The target weapon deals an additional 2d6 persistent mental damage to the target enemy. If the enemy is critically hit by the weapon, the enemy is [[Doomed]] 1 for as long as it takes this persistent mental damage.  
 **Critical Failure** The target weapon deals an additional 4d6 persistent mental damage to the target enemy. If the enemy is critically hit by the weapon, the enemy is doomed 1.  
 
-
 **Heightened (+2)** Increase the mental damage by 1d6 on a success, and increase the persistent mental damage by 1d6 on a failure or by 2d6 on a critical failure.  

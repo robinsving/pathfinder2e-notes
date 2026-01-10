@@ -47,5 +47,4 @@ You dilate the flow of time around the target, slowing its actions.
 **Failure** The target is [[Slowed]] 1 for 1 minute.  
 **Critical Failure** The target is [[Slowed]] 2 for 1 minute.  
 
-
 **Heightened (6th)** You can target up to 10 creatures.  

@@ -45,5 +45,4 @@ You point at a target in range, and its skin grows searing blisters filled with 
 **Failure** As success, but the target grows two blisters.  
 **Critical Failure** As success, but the target grows four blisters.  
 
-
 **Heightened (+1)** The damage of a popped blister increases by 1d6 acid damage.  

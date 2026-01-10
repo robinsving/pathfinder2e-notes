@@ -35,5 +35,4 @@ You attune yourself to a spiritual plane of the Outer Sphere, connecting your sp
 **Heightened (+2)** The resistance increases by 5.  
 
 
-
 The nine main planes of the Outer Sphere are the homes of many deities, celestials, monitors, and fiends. Their names, along with their alignments, are: Heaven (LG), Nirvana (NG), Elysium (CG), Axis (LN), the Boneyard (N), the Maelstrom (CN), Hell (LE), Abaddon (NE), and the Abyss (CE).

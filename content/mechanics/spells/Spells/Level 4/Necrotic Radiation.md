@@ -44,5 +44,4 @@ You imbue the touched object or space with slow-acting necrotic radiation. If yo
 **Failure** The creature manages to slightly protect the object. The spell lasts 10 minutes.  
 **Critical Failure** The spell lasts the full 24 hours.  
 
-
 **Heightened (+2)** Increase the radiation's negative damage by 1d6  

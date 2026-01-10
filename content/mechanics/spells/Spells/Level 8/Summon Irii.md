@@ -42,7 +42,6 @@ You cast your spell, whisper your words of power, and find that an irii is alrea
 **Arrive** ([[divination]], [[fortune]], [[lawful]], [[prediction]])**Decree the Immutability of Time** While within 30 feet of the fate, you and your allies who roll below 10 on a d20 for an attack roll, Perception check, saving throw, or skill check get a 10 instead  
 **Depart** ([[divination]], [[misfortune]], [[prediction]]) **Observe the Inevitability of Destiny** Each enemy within a 30-foot emanation must attempt a Will save. If a creature fails its save, until the end of its next turn, any time it rolls above 10 on a d20 for an attack roll, Perception check, saving throw, or skill check, it gets a 10 instead.  
 
-
 **Fortune** The fortune stands before you with its golden horns and moth-scale wings, a sly smirk on its elfin face  
 **Arrive** ([[chaotic]], [[divination]], [[fortune]], [[prediction]]) **Decree the Chaos of Infinity** While within 30 feet of the fortune, you and your allies roll twice and take the higher roll on all damage rolls, Perception checks, and saving throws  
 **Depart** ([[divination]], [[misfortune]], [[prediction]]) **Sunder Eternity's Authority** Each enemy within a 30-foot emanation must attempt a Will save. A creature that fails its save must roll twice and take the lower result on all damage rolls, Perception checks, and saving throws until the end of its next turn.  

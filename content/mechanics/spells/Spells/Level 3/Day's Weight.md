@@ -43,5 +43,4 @@ You fast-forward time for a single creature, burdening it with the aches and pai
 **Failure** The target is fatigued and enfeebled 1 for the duration.  
 **Critical Failure** The target is fatigued and [[Enfeebled]] 2 for the duration. The fatigued condition doesn't end when the spell's duration does (but can still be removed with a night's rest or by similar means).  
 
-
 **Heightened (6th)** You can target up to 10 creatures.  

@@ -43,5 +43,4 @@ components:
 This spell wards against those who attempt to subvert your mind and turns mental magic back on them. When the spell is complete, you gain the Fight with Fear reaction; once you use the reaction, the spell ends.  
 
 
-
 **Fight with Fear | reaction | [[Concentrate]], [[Emotion]], [[Enchantment]], [[Fear]], [[Mental]] | Trigger** A creature that you can see uses a mental effect against you; **Effect** The triggering creature must attempt a Will save, which has the following effects.

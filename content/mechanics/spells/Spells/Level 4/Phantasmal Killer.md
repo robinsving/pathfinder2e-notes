@@ -49,5 +49,4 @@ You create a phantasmal image of the most fearsome creature imaginable to the ta
 **Failure** The target takes 8d6 mental damage and is [[Frightened]] 2.  
 **Critical Failure** The target is so afraid it might die. It must attempt a Fortitude save; if the target fails, it dies. On a successful Fortitude save, the target takes 12d6 mental damage, is [[Fleeing]] until the end of its next turn, and is [[Frightened]] 4. This effect has the incapacitation trait.  
 
-
 **Heightened (+1)** The damage increases by 2d6 on a failure and by 3d6 on a critical failure.  

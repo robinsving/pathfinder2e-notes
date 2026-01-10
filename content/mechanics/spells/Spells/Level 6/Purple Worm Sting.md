@@ -45,7 +45,6 @@ You replicate the attack of a deadly purple worm. You deal 3d6 piercing damage t
 **Critical Failure** The target is afflicted with purple worm venom at stage 2.  
 
 
-
 **Purple Worm Venom (poison) Level 11**  
 
 Maximum Duration 6 rounds.  

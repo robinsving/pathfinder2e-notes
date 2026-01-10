@@ -40,11 +40,10 @@ components:
 **Cast** `=this.time` | `=this.components`  
 **Range** `=this.range`; **Targets** `=this.target`  
 **Duration** `=this.duration`  
-**Cost** `=this.cost` 
+**Cost** `=this.cost`  
 ***
 A magical flame springs up from the object, as bright as a torch. It doesn't need oxygen, react to water, or generate heat.  
 **Heightened (+1)** The cost increases as follows:  
-
 
 16 gp for 3rd level  
 

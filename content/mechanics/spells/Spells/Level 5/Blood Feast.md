@@ -40,5 +40,4 @@ If you are a gug, increase the piercing damage by 2d6 and increase the [[Persist
 **Success** The creature takes full damage.  
 **Failure** You miss and the creature takes no damage.  
 
-
 **Heightened (+1)** The piercing damage increases by 2d6, and the [[Persistent Bleed Damage]] on a critical increases by 1.  

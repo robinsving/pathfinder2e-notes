@@ -39,5 +39,4 @@ components:
 You create a buffer in the link between yourself and your eidolon in order to prevent you from falling alongside your bonded ally. You gain the Sever Conduit reaction; after using it, the spell ends.  
 
 
-
 **Sever Conduit | reaction | [[Concentrate]] | Trigger** Your eidolon takes damage that would bring you to 0 Hit Points and comes from an effect other than a [[Death]] effect; **Effect** You quickly shut the buffer in your link with your eidolon, causing your bonded ally to wink out 

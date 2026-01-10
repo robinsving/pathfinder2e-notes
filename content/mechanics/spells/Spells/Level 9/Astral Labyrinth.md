@@ -46,5 +46,4 @@ In addition, any creature that tries to depart or arrive in a location in the ar
 **Failure** The creature is [[Stunned]] 1, you are mentally alerted that something has failed its save against this spell, and the creature arrives in the empty space closest to the point you chose instead of its intended destination.  
 **Critical Failure** The creature is [[Stunned]] 3, you get a mental glimpse of its appearance, and the creature arrives in the empty space closest to the point you chose instead of its intended destination.  
 
-
 **Heightened (10th)** You and creatures transported by your spells can't get a result worse than success on the saving throw to teleport into or out of the area.  

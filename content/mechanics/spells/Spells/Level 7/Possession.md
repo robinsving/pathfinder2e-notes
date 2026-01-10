@@ -46,5 +46,4 @@ You send your mind and soul into the target's body, attempting to take control. 
 **Failure** You possess the target and take partial control of it. You no longer have a separate turn; instead, you might control the target. At the start of each of the target's turns, it attempts another Will save. If it fails, it's [[Controlled]] by you on that turn; if it succeeds, it chooses its own actions; and if it critically succeeds, it forces you out and the spell ends.  
 **Critical Failure** You possess the target fully, and it can only watch as you manipulate it like a puppet. The target is Controlled by you.  
 
-
 **Heightened (9th)** The duration is 10 minutes, and you can physically enter the creature's body, protecting your physical body while the spell lasts.  

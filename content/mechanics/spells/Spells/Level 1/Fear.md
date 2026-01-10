@@ -51,5 +51,4 @@ You plant fear in the target; it must attempt a Will save.
 **Failure** The target is [[Frightened]] 2.  
 **Critical Failure** The target is [[Frightened]] 3 and [[Fleeing]] for 1 round.  
 
-
 **Heightened (3rd)** You can target up to five creatures.  

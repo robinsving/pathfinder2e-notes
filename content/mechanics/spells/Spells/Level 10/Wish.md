@@ -31,7 +31,6 @@ components:
 ***
 You state a wish, making your greatest desire come true. A wish spell can produce any one of the following effects.
 
-
 Duplicate any spell from the arcane list of 9th level or lower to which you have access.
 
 Duplicate any spell from another spell list of 7th level or lower. It must be common or you must have access.

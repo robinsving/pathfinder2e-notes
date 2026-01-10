@@ -45,5 +45,4 @@ If the ray passes through an area of magical light or targets a creature affecte
 **Critical Success** The target takes double damage.  
 **Success** The target takes full damage.  
 
-
 **Heightened (+1)** The cold damage increases by 2d6, and the evil damage against celestials increases by 2d6.  

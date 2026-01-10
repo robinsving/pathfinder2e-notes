@@ -44,7 +44,6 @@ You replicate the fiery venom of the tor linnorm and inflict an enemy with the d
 **Critical Failure** The target is afflicted with tor linnorm venom at stage 2.  
 
 
-
 **Tor Linnorm Venom (fire, injury, poison) Level 17**  
 
 Maximum Duration 10 rounds  

@@ -42,5 +42,4 @@ In addition, unless the initial target critically succeeds, creatures within 30 
 **Failure** The creature is [[Sickened]] 1.  
 **Critical Failure** The character is [[Sickened]] 2.  
 
-
 **Heightened (+1)** The damage increases by 2d6 piercing.  

@@ -44,5 +44,4 @@ A thin crack rips through the earth, erupting with magma, then swiftly seals up.
 **Failure** The creature takes full damage, and it falls [[Prone]].  
 **Critical Failure** The target takes double damage, and it falls prone.  
 
-
 **Heightened (+1)** The damage increases by 1d6 bludgeoning and 1d6 fire  

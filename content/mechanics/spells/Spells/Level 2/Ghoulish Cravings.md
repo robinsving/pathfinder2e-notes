@@ -44,7 +44,6 @@ You touch the target to afflict it with ghoul fever, infesting it with hunger an
 **Critical Failure** The target is afflicted with ghoul fever at stage 3.  
 
 
-
 **Ghoul Fever (disease) Level 3**  
 
 Stage 1 carrier with no ill effects (1 day)  

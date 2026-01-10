@@ -43,5 +43,4 @@ The target's senses are suddenly rewired in unexpected ways, causing them to pro
 **Failure** The target is affected for 1 minute.  
 **Critical Failure** As failure, and the target is [[Stunned]] 2 as it attempts to process the sensory shifts.  
 
-
 **Heightened (9th)** You can target up to five creatures.  

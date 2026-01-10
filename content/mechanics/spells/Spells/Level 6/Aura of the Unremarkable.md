@@ -42,5 +42,4 @@ You and allies in the area appear to be completely innocuous to other creatures 
 **Failure** The creature believes your actions are normal and unworthy of concern.  
 **Critical Failure** The creature believes you are performing other actions entirely, such as helping a local or waving to a noble, as determined by the GM. The creature doesn't have a chance of remembering events normally.  
 
-
 Any hostile actions by you or your allies against a creature or its allies break the effect of the spell for that creature. So, for example, if an interrogated local's friends or threatened noble's guards saw your actions, they would be unaffected by this spell. When the spell ends (or when affected allies move outside the range of the emanation), observers see things normally but the altered perceptions from earlier events remain in mind. Each mention of the events as noteworthy, such as being questioned about them by an authority figure, grants the target another Will save to break the effect and remember things normally (unless the creature critically failed their save).

@@ -39,6 +39,6 @@ components:
 You splash a glob of acid that splatters your target and nearby creatures. Make a spell attack. If you hit, you deal 1d6 acid damage plus 1 acid splash damage. On a critical success, the target also takes 1 persistent acid damage.  
 
 **Heightened (3rd)** The initial damage increases to 1d6 + your spellcasting ability modifier, and the [[Persistent Damage]] increases to 2 persistent acid.  
-**Heightened (5th)** The initial damage increases to 2d6 + your spellcasting ability modifier, the Persistent Damage increases to 3 persistent acid, and the splash damage increases to 2.
-**Heightened (7th)** The initial damage increases to 3d6 + your spellcasting ability modifier, the Persistent Damage increases to 4 persistent acid, and the splash damage increases to 3.
+**Heightened (5th)** The initial damage increases to 2d6 + your spellcasting ability modifier, the Persistent Damage increases to 3 persistent acid, and the splash damage increases to 2.  
+**Heightened (7th)** The initial damage increases to 3d6 + your spellcasting ability modifier, the Persistent Damage increases to 4 persistent acid, and the splash damage increases to 3.  
 **Heightened (9th)** The initial damage increases to 4d6 + your spellcasting ability modifier, the Persistent Damage increases to 5 persistent acid, and the splash damage increases to 4.

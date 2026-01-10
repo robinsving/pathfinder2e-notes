@@ -41,7 +41,6 @@ Your faith is strong enough to briefly summon a direct representative of your de
 **Arrive** ([[enchantment]], [[good]], [[lawful]]) **Aura of Retribution** While within 100 feet of the herald, you and your allies gain the champion's Retributive Strike reaction;  
 **Depart** **Holy Smite** The herald casts 5th-level [[Divine Wrath]] (choosing good) in a 100-foot emanation.  
 
-
 **Neutral Good**  
 **Arrive** (enchantment, good) **Aura of Redemption** While within 100 feet of the herald, you and your allies gain the champion's Glimpse of Redemption reaction;  
 **Depart** **Merciful Healing** The herald casts the 3-action version of 5th-level [[Heal]] with a radius of 100 feet. This spell targets only you and your allies.  

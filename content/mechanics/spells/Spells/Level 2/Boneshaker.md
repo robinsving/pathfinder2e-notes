@@ -44,5 +44,4 @@ You reach out a hand and seize a creature's skeleton from afar, harming their bo
 **Failure** The target takes full damage and is [[Enfeebled]] 1. If you cast the 3-action version, you can move the target up to 15 feet; it can fall prone to avoid moving.  
 **Critical Failure** The target takes double damage and is [[Enfeebled]] 2. If you cast the 3-action version, you can move the target up to 25 feet, then knock the target prone; if you attempt to move the target to a hazardous location, such as into a pool of acid or off a cliff, it can fall prone to avoid moving.  
 
-
 **Heightened (+2)** The damage increases by 3d8.  

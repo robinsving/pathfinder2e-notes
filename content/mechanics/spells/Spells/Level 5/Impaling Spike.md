@@ -42,5 +42,4 @@ You conjure a spike that thrusts up from the earth beneath a target creature, po
 **Failure** The target is impaled through a leg or another non - vital body part. The creature takes full damage and, if it's standing on solid ground, becomes [[Immobilized]]. It can attempt to Escape(the DC is your spell DC). While it remains impaled, it takes damage from any weakness to cold iron it has at the end of each of its turns.  
 **Critical Failure** As failure, but the creature is impaled through a vital organ or its center of mass, taking double damage, and it is [[Flat-Footed]] as long as it's impaled.  
 
-
 **Heightened (+1)** The damage increases by 2d6 piercing.  

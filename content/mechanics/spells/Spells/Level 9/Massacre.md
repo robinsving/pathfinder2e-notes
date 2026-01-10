@@ -45,5 +45,4 @@ You unleash a wave of necromantic energy to snuff out the life force of those in
 **Failure** The creature takes 100 negative damage.  
 **Critical Failure** The creature dies.  
 
-
 **Heightened (10th)** The spell can affect living creatures up to 19th level. Increase the damage to 10d6 on a success, and to 115 on a failure.  

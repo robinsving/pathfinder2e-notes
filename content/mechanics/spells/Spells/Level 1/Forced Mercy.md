@@ -46,5 +46,4 @@ You soften the target's blows, ensuring they avoid vital areas and cause no last
 **Failure** The creature is affected for 1d4 rounds.  
 **Critical Failure** The creature is affected for 1 minute.  
 
-
 **Heightened (4th)** The range increases to 100 feet, and you can target up to 8 creatures.  

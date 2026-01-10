@@ -46,5 +46,4 @@ You curse the target, filling it with terror at the loss of its blood. The targe
 **Failure** The target is [[Frightened]] 2. Until it stops bleeding, its frightened value can't decrease below frightened 1.  
 **Critical Failure** As failure, but the target is [[Frightened]] 3.  
 
-
 **Heightened (4th)** You even terrify witnesses with the copious quantities of blood. You can target up to four creatures as secondary targets. These secondary targets don't need to be bleeding but must be able to see the primary target. Secondary targets must also attempt Will saves, with the same results, except their restriction on decreasing their frightened value depends on whether the primary target is still bleeding.  

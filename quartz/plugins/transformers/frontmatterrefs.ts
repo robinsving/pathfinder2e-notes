@@ -3,7 +3,7 @@ import { visit } from "unist-util-visit"
 import { QuartzPluginData } from "../vfile"
 import { unified } from "unified"
 import remarkParse from "remark-parse"
-import { Parent, Literal } from "unist"
+import { Parent } from "unist"
 
 export interface Options {
   prefix: string

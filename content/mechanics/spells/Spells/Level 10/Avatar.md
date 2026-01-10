@@ -33,7 +33,6 @@ components:
 ***
 You transform into an avatar of your deity, assuming a Huge battle form. You must have space to expand or the spell is lost. You have hands in this battle form and can take manipulate actions. You can Dismiss this spell. You gain the following statistics and abilities regardless of which deity's battle form you assume:
 
-
 AC = 25 + your level. Ignore your armor's check penalty and Speed reduction.  
 30 temporary Hit Points.  
 Darkvision.  

@@ -45,7 +45,6 @@ Darkvision.
 One or more attacks specific to the battle form you use. You're trained with them. Your attack modifier is +21, and you use the listed damage. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your unarmed attack modifier is higher, you can use it instead.  
 Athletics modifier of +23, unless your own modifier is higher.  
 
-
 You also gain specific abilities based on the type of Daemon you choose:  
 **Ceustodaemon**  
 Speed 25 feet;  

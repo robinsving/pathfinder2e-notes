@@ -43,7 +43,6 @@ Low-light vision.
 One or more attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +13, and your damage bonus is +2. These attacks are Strength based (for the purpose of the [[Enfeebled]] condition). If your unarmed attack modifier is higher, you can use it instead.  
 Athletics modifier of +13, unless your own is higher.  
 
-
 You also gain specific abilities based on the form you choose:  
 **Ant**  
 Speed 30 feet, climb Speed 30 feet;  

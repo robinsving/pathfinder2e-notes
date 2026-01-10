@@ -46,5 +46,4 @@ If you target an item held by the creature, the creature can Release the item to
 **Failure** The creature takes full damage and the object deals full persistent damage.  
 **Critical Failure** As failure, but the creature takes double damage and the object deals double persistent damage.  
 
-
 **Heightened (+1)** The initial damage increases by 2d6 and the persistent damage increases by 1d4.  

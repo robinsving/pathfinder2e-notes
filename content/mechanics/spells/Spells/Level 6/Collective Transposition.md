@@ -45,5 +45,4 @@ You teleport the targets to new positions within the area. The creatures must ea
 **Success** The target is unaffected.  
 **Failure** You teleport the target and choose its destination.  
 
-
 **Heightened (+1)** The number of targets increases by 1.  

@@ -40,5 +40,4 @@ You release a wave of temporal energy that sends creatures violently tumbling th
 **Failure** The creature falls into time. When it returns, it takes full damage and is [[Sickened]] 1.  
 **Critical Failure** The creature falls into time. When it returns, it takes double damage and is [[Sickened]] 2.  
 
-
 **Heightened (+1)** The bludgeoning damage increase by 2d6.  

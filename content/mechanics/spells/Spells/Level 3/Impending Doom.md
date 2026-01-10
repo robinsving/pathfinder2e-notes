@@ -48,5 +48,4 @@ You sift through myriad potential futures, seize upon one potential moment in wh
 **Failure** The creature is immediately flat-footed. On the second round, it becomes [[Frightened]] 2. Finally, on the third round, it also becomes [[Stunned]] 1. At the end of the third round, the creature takes full damage.  
 **Critical Failure** The creature is immediately flat-footed and [[Frightened]] 3. On the second round, it becomes stunned 1. Finally, on the third round, it also becomes [[Paralyzed]]. At the end of the third round, the creature takes double damage.  
 
-
 **Heightened (+1)** The damage increases by 2d6.  

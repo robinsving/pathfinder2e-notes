@@ -43,5 +43,4 @@ An elemental force fills your target, granting the target the swiftness of air, 
 **Fire** The target's melee unarmed Strikes and melee weapon Strikes deal 1d6 persistent fire damage on a hit.  
 **Water** The target takes on a watery sheen, gaining resistance 5 to fire and a swim Speed equal to its land Speed.  
 
-
 **Heightened (8th)** You can target up to 5 willing creatures.  

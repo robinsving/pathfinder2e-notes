@@ -42,5 +42,4 @@ The effect of the spell depends on the target's level.
 **14th-15th** The target is Stunned for 1 round.  
 **16th or Higher** The target is [[Stunned]] 1.  
 
-
 **Heightened (+1)** The levels at which each outcome applies increase by 2.  

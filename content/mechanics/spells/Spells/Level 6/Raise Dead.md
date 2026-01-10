@@ -37,7 +37,7 @@ components:
 **Lesson** `=this.lesson`  
 **Cast** `=this.time` | `=this.components`  
 **Range** `=this.range`; **Targets** `=this.target`  
-**Cost** `=this.cost` 
+**Cost** `=this.cost`  
 ***
 You attempt to call forth the dead creature's soul, requiring the creature's body to be present and relatively intact. The creature must have died within the past 3 days. If Pharasma has decided that the creature's time has come (at the GM's discretion), or if the creature doesn't wish to return to life, this spell automatically fails, but the diamonds aren't consumed in the casting.
 

@@ -41,6 +41,5 @@ Your voice projects like cracking thunder as you summon a localized storm, creat
 **Failure** The creature takes full damage and is knocked [[Prone]].  
 **Critical Failure** The creature takes double damage, is knocked prone, and is [[Stunned]] 1.  
 
-
 **Heightened (7th)** The damage increases to 8d6, and targets who critically fail are [[Stunned]] 2.  
 **Heightened (9th)** The damage increases to 10d6, and targets who critically fail are [[Stunned]] 3.  

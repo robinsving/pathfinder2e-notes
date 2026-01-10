@@ -46,7 +46,6 @@ Low-light vision.
 One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +17, and your damage bonus is +11. These attacks are Strength based (for the purpose of the [[Enfeebled]] condition, for example). If your unarmed attack modifier is higher, you can use it instead.  
 Athletics modifier of +19, unless your own modifier is higher.  
 
-
 You also gain specific abilities based on the type of plant you choose:  
 **Arboreal**  
 

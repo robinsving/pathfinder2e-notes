@@ -42,5 +42,4 @@ A cacophonous noise blasts out, dealing 2d10 sonic damage. Each creature must at
 **Failure** The creature takes full damage and is [[Deafened]] for 1 round.  
 **Critical Failure** The creature takes double damage, is Deafened for 1 minute, and is [[Stunned]] 1.  
 
-
 **Heightened (+1)** The damage increases by 1d10.  

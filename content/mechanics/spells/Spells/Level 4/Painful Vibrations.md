@@ -42,5 +42,4 @@ You send powerful sound waves through an opponent's body, vibrating its bones an
 **Failure** The target takes full damage, is [[Sickened]] 1, and is [[Deafened]] for 1 round.  
 **Critical Failure** The target takes double damage, is [[Sickened]] 2, and is deafened for 1 minute.  
 
-
 **Heightened (+1)** The damage increases by 2d6.  

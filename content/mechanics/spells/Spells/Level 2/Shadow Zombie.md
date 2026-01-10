@@ -44,5 +44,4 @@ You cast a shadow over the target zombie, briefly turning it into shadowy vapor 
 **Failure** The target becomes your shadowy minion for 1 minute.  
 **Critical Failure** As failure, but for 10 minutes.  
 
-
 **Heightened (4th)** You can target a zombie of level 5 or lower.  

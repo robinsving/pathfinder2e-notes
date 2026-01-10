@@ -41,5 +41,4 @@ You grasp a piece of the landscape-such as a tree, carriage, or piece of masonry
 **Failure** The creature takes full damage and is knocked [[Prone]].  
 **Critical Failure** The creature takes double damage, is knocked prone, and is [[Stunned]] 1.  
 
-
 **Heightened (+1)** The damage increases by 2d6.  

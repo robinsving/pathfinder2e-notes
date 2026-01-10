@@ -45,5 +45,4 @@ Regret eats away at the target's mind, punishing it for its violence until it ce
 **Failure** As success, except the curse damages the target at the end of each of its turns and lasts until the target spends a complete round without intentionally damaging another creature.  
 **Critical Failure** As success, except the curse damages the target at the end of each of its turns and lasts until the target spends 24 hours atoning for its perceived sins.  
 
-
 **Heightened (+2)** The amount of mental damage the target takes for each creature it damaged that turn increases by 1d8, and the maximum damage the target can take per turn increases by 4d8.  

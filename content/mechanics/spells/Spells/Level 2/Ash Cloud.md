@@ -47,5 +47,4 @@ You summon a tumultuous cloud of ash and smoke. The cloud is difficult terrain f
 **Failure** The target takes full damage and is [[Dazzled]] for 1 round.  
 **Critical Failure** The target takes double damage and is [[Blinded]] for 1 round.  
 
-
 **Heightened (+1)** The damage increases by 1d4.  

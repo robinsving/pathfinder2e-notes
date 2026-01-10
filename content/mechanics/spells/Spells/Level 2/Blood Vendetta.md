@@ -45,5 +45,4 @@ You curse the target, punishing it for having the audacity to spill your blood. 
 **Failure** The target takes the full persistent bleed damage. Until the bleeding stops, the target has weakness 1 to piercing and slashing damage.  
 **Critical Failure** As failure, but the target takes double the persistent bleed damage.  
 
-
 **Heightened (+2)** The persistent bleed damage increases by 2d6 persistent Bleed damage.  

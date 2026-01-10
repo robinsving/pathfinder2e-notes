@@ -44,7 +44,6 @@ You reproduce an imp's evil, poisonous sting, stabbing at an enemy and possibly 
 **Critical Failure** The target is afflicted with imp venom at stage 2.  
 
 
-
 **Imp Venom (poison) Level 3**  
 
 Maximum Duration 6 rounds  

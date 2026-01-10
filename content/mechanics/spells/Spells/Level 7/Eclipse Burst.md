@@ -45,5 +45,4 @@ A globe of freezing darkness explodes in the area, dealing 8d10 cold damage to c
 **Failure** The creature takes full damage.  
 **Critical Failure** The creature takes double damage and becomes [[Blinded]] by the darkness for an unlimited duration.  
 
-
 **Heightened (+1)** The cold damage increases by 1d10 and the negative damage against the living increases by 1d4.  

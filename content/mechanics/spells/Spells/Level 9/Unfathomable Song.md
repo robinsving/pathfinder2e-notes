@@ -51,11 +51,9 @@ Fleeting notes of a strange and unnatural song fill the air, overtaking the mind
 **Critical Failure** Roll 1d4+1 on the table below.  
 
 
-
 Result
 
 Effect
-
 
 1
 The target is [[Frightened]] 2

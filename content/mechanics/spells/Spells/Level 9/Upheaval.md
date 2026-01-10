@@ -36,7 +36,6 @@ The ground in the area shudders and crumbles as huge pillars of stone erupt into
 
 The GM might add additional effects in certain areas. Cliffs might collapse, causing creatures to fall, or a river might be blocked and flood the surrounding area.
 
-
 Stone Debris The area becomes difficult terrain.
 
 Rising Pillars Pillars of smooth stone rise from your chosen number of 10-foot squares on a surface in the area, ascending up to 60 feet in height. Each pillar stops when it hits a structure or ceiling unless that structure collapses (see below). The DC to Climb or Grab an Edge on a pillar is 30. Each creature on a pillar after it rises must succeed at a Reflex saving throw or fall off the nearest edge (the creature can choose which edge, if several are equally close). A creature on a pillar that is stopped by a structure falls without attempting a save.

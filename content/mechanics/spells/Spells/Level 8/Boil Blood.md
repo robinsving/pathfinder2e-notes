@@ -44,5 +44,4 @@ You heat a foe's blood and boil it within its veins. The target takes 10d10 fire
 **Failure** The target takes full damage and is [[Drained]] 2.  
 **Critical Failure** The target takes double damage and is [[Drained]] 3.  
 
-
 **Heightened (+1)** The damage increases by 1d10.  

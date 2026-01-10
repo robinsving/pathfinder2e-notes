@@ -41,5 +41,4 @@ You propel yourself through the fabric of space to deal a blow carrying the mome
 **Failure** The Strike deals no damage, but the target takes 1d8 force damage.  
 **Critical Failure** The Strike deals no damage, and you take 1d8 force damage.  
 
-
 **Heightened (+2)** The spell's range increases by 60 feet, and any force damage the spell deals is increased by 1d8 force.  

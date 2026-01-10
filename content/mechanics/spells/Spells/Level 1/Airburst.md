@@ -41,5 +41,4 @@ A blast of wind wildly pushes everything nearby. Unattended objects of 1 Bulk or
 **Failure** As success, and the creature is pushed 5 feet away from you.  
 **Critical Failure** The creature is pushed 5 feet away from you and can't use reactions until the end of your turn.  
 
-
 **Heightened (4th)** Increase the area to a 10-foot emanation and increase the distance objects and creatures are pushed to 10 feet.  

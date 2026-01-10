@@ -47,5 +47,4 @@ Illusory pain wracks the target, dealing 2d4 mental damage and 1d4 persistent Me
 **Failure** The target takes full initial and Persistent Damage, and the target is [[Sickened]] 1. If the target recovers from being Sickened, the Persistent Damage ends and the spell ends.  
 **Critical Failure** As failure, but the target is [[Sickened]] 2.  
 
-
 **Heightened (+1)** The damage increases by 2d4 and the Persistent Damage by 1d4.  

@@ -42,8 +42,6 @@ You draw elemental power from your surroundings, and combining it with your own 
 
 **3** (material, somatic, verbal) The spell is a 30-foot cone. On a failed saving throw, creatures are pushed 5 feet away from you, and on a critical failure they are pushed 10 feet away and are knocked prone.  
 
-
 **Two Rounds** If you spend 3 actions Casting the Spell, you can avoid finishing the spell and spend another 3 actions on your next turn to empower the spell even further. If you do, the spell is as 3 actions, but the area is a 60-foot cone, and for 1 round, the elements linger in the cone, racing off into the distance and making approaching you difficult, with the effects of [[Gust of Wind]].  
-
 
 **Heightened (+2)** The damage increases by 2d6, and the distance that enemies are pushed back if you spent 3 actions or 2 rounds increases by 5 feet on a failed save and 10 feet on a critical failure.  

@@ -42,5 +42,4 @@ You sing a funereal dirge to force restless spirits to fully manifest in the Mat
 **Failure** The creature takes full damage and becomes semi-corporeal until the spell ends. All attacks against it get the benefit of a ghost touch rune.  
 **Critical Failure** As failure, but double damage.  
 
-
 **Heightened (+1)** The damage increases by 1d10.  

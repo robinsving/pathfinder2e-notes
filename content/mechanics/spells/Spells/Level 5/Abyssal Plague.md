@@ -47,7 +47,6 @@ Your touch afflicts the target with Abyssal plague, which siphons fragments of t
 **Critical Failure** The target is afflicted with Abyssal plague at stage 2.  
 
 
-
 **Abyssal Plague (disease) Level 9**  
 
 The target can't recover from the drained condition from Abyssal plague until the disease is cured  

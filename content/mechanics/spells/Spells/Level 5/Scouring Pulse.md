@@ -39,9 +39,10 @@ components:
 **Cast** `=this.time` | `=this.components`  
 **Range** `=this.range`; **Area** `=this.area`  
 **Basic Saving Throw** `=this.save`  
-***
-**Area** 10-foot radius, 60-foot-tall cylinder
 
+***
+
+**Area** 10-foot radius, 60-foot-tall cylinder
 
 You inundate the area with concentrated positive energy, which scours away the stain of undeath. Each creature in the area takes 6d8 positive damage and must attempt a basic Reflex save. Creatures that fail the save also take 1d8 persistent positive damage. Creatures that take persistent positive damage from scouring pulse are wreathed in a heatless halo of light. They emit bright light in a 5-foot radius preventing them from being [[Concealed]]; if the creature is [[Invisible]], they're concealed while affected by scouring pulse, rather than being undetected.  
 **Heightened (8th)** The positive damage increases to 9d8 damage, and the persistent positive damage increases to 2d8 persistent positive damage. Creatures remain suffused in light for 1d4 additional rounds after removing the persistent positive damage.  
