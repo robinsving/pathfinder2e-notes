@@ -1,6 +1,6 @@
 Två stycken pergament ligger ihoprullade tillsammans
 
-_Till mina äventyrarvänner i Röda Gänget (jag minns inte vad vi kallade oss, men det var väl någonting sådant - skyll inte på mig, jag var inte ens 3 månader när jag hörde det första gången, och vi använder det inte så ofta)._
+_Till mina äventyrarvänner i Röda Gänget (jag minns inte vad vi kallade oss, men det var väl någonting sådant - skyll inte på mig, jag var inte ens 3 månader gammal när jag hörde det första gången, och vi använder det inte så ofta)._
 
 _Jag antar att vänner är rätt ord; även om vi inte precis umgås med varandra så mycket socialt så har ni ändå lärt mig mycket om vem jag var._
 

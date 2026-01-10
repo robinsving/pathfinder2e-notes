@@ -3,7 +3,7 @@ aliases:
   - Grimm
 character: pc
 owner: Robin
-status: alive
+status: active
 class: Champion
 ---
 

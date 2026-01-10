@@ -11,12 +11,12 @@ Vi behöver 6 nycklar.
 
 | Plats                                          | Beskrivning                                                                                                            | Vision                        |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| Sybil                                          | Svart tetraeder, ca 5x5 cm stor                                                                                        | kort genomgång av botanik     |
+| ~~Sybil~~                                      | Svart tetraeder, ca 5x5 cm stor                                                                                        | kort genomgång av botanik     |
 | ~~[[Drottning Abrogale Thrune II]]~~ [[Sofia]] | Liten sten, runt halsen. Sten som kan ge Void Healing                                                                  | [[Void Stone Vision]]         |
 | ~~[[Cheliax]]~~ [[Hellknight Hills\|Citadel]]  | En ny levererad av [[Widows of the Setting Sun]]. Transport till Cheliax adel - Thrune Manor. 8 månader sedan. 50x50cm | ?                             |
 | ~~Miho~~ [[Sofia]]                             | Magi som kan återuppliva folk                                                                                          | [[Resurrection Stone Vision]] |
-| Sybil                                          | 15x15cm                                                                                                                | [[Ocean vision]]?             |
-| Ön i Mwangi                                    | [[Dantes ö]], håller Dracodemondevourer fången                                                                         | [[Ocean vision]]?             |
+| ~~Sybil~~                                      | 15x15cm                                                                                                                | [[Ocean vision]]?             |
+| Ön i Mwangi                                    | [[Dantes ö]], håller Dracodemondevourer fången                                                                         |                               |
 Nu har vi fått tag på alla utom den i [[Mwangi]].
 
 # Övriga visioner

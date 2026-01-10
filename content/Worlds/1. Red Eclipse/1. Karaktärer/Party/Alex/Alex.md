@@ -34,12 +34,9 @@ Hennes namn är Vida, och hon tillhörde druidcirkeln Awett (som inte längre fi
 - [[Past life 1 - Stump]]
 - [[Past life 2 - Boulder]]
 - [[Past life 3 - Petal, Awett Vida]]
+
 [[Quick]]
 
 # Character sheet
 Storm [[Mechanics/Character Building/Classes/Druid|Druid]]
 Air [[Kineticist Dedication]]
-
-# **Leninismen**
-- [[10 Handlingar]]
-- [[10 proklamationer]]

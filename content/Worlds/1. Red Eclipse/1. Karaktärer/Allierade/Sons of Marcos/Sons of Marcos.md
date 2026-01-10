@@ -1,4 +1,4 @@
-Grupp av [[Automaton]] som lever i [[Tian Xi]].
+Grupp av [[Mechanics/Character Building/Ancestries/Automaton]] som lever i [[Tian Xi]].
 Origin okänd.
 
 Förmodligen relaterade till [[Marcos]].
