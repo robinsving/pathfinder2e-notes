@@ -1,41 +1,44 @@
 ---
-title: "Lubaiko"
-draft: true
-noteType: ":luggage:"
-aliases: "Lubaiko"
-foundryId: Item.cJFdwTZ3rcsRjaC4
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/lome
+- deity/mwangi-gods
+- domain/ambition/deity
+- domain/change/deity
+- domain/destruction/deity
+- domain/fire/deity
+- domain/lightning/deity
+- domain/zeal/deity
+- trait/reach-20-feet
+- trait/versatile-fire
+aliases: ["Lubaiko", "The Spark in the Dust"]
 ---
+# Lubaiko (The Spark in the Dust) *([CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"))*  
+*Source: Lost Omens: The Mwangi Expanse p. 138*  
 
-# Lubaiko
+- **Category**: Mwangi Gods
+- **Anathema**: calm a crowd, douse a fire, sleep in the same place three nights in a row
+- **Areas of Concern**: wildfire, bad luck, inspiration, turmoil
+- **Follower Alignments**: [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-Fires and explosions of all kinds are Lubaiko's passion, from an ember that ignites a flour mill to an outrage that rips through a nation. She is the powder keg whose fuse has burned down, erupting into something momentous, be it for better or for worse. Roaming throughout the sky above Golarion, she delights in throwing her bolts into the fields and the minds of people, whenever conditions permit and wherever they may fall. Some believe the smoke from Lubaiko's fires are curses and misfortune flying up into the air to spread throughout the land. Yet Lubaiko's blazes also often clear the way for new growth.
+## Devotee benefits
 
-Though a dangerous god, Lubaiko has a playful, mischievous side, just as there is erratic beauty in dancing sparks and in the teasing whisper of a candle's flame. She loves men's clothing, the passion and tumult that flows with too much brandy, riotous jokes, and stories that make emotions run high. Her humor runs slightly on the sadistic side-she might set someone's sleeve aflame for the fun of it, or laugh hysterically at the bad luck of others, so long as no one (at least, who doesn't deserve it) gets too hurt. Though she had no involvement in the creation of gunpowder, she has likewise adopted it, delighting in burnt powder offerings, cannon salutes, and exploding kegs.
+- **Divine Ability**: Intelligence or Charisma
+- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Skill**: Diplomacy
+- **Favored Weapon**: [longspear](compendium/equipment/items/longspear.md)
+- **Domains**: [ambition](compendium/setting/domains.md#Ambition), [fire](compendium/setting/domains.md#Fire), [lightning](compendium/setting/domains.md#Lightning), [zeal](compendium/setting/domains.md#Zeal)
+- **Alternate Domains**: [change](compendium/setting/domains.md#Change), [destruction](compendium/setting/domains.md#Destruction)
+- **Cleric Spells**: 1st: [ill omen](compendium/spells/ill-omen-logm.md); 2nd: [flaming sphere](compendium/spells/flaming-sphere.md); 7th: [fiery body](compendium/spells/fiery-body.md)
 
-Revolutionaries, inventors, artists, and arsonists alike offer Lubaiko prayers to help their achievements quickly spread. She has also been known to intervene and protect others from destructive strife, such as saving a particular orchid or homestead, though she's as likely to do so on a whim as out of acknowledgment for a desperate plea. She attracts some followers who seek to spark upheaval to change the world, but most of her worshippers share her fascination with unabated power, even if it causes everything to burn to the ground.
+When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Lubaiko gains the following additional abilities.
 
-**Edicts** set fires, change the world, act with ambition or not at all
+```ad-embed-avatar
+title: [Avatar](compendium/spells/avatar.md) of Lubaiko
 
-**Anathema** calm a crowd, douse a fire, sleep in the same place three nights in a row
-
-**Areas of Concern** bad luck, inspiration, turmoil, wildfire
-
-## Avatar
-
-When casting the _[[Avatar]]_ spell, a worshipper of Lubaiko gains the following additional abilities.
-
-* * *
-
-Firebrands who worship Lubaiko—god of flames and explosions that burn wherever they may—tend to see themselves in the mercurial and capricious deity. While she can be sadistic and even wantonly destructive, her Firebrand worshippers focus instead on her ambition and zeal, and they take inspiration from her willingness to spark change regardless of the cost. They find particular meaning in her edict to change the world, rallying around this call as they foment rebellion and turmoil or spread the thrill of daredevil antics throughout Golarion. Those Firebrands who are drawn to Lubaiko tend to be diehard adventurers and travelers, for the wandering god herself never stays put and proscribes anything like a sedentary life.
-
-Although Lubaiko is often blamed for bad luck and even attracts some worshippers who revel in the misfortunes of their enemies (or sometimes in their own), her Firebrand worshippers rarely acknowledge this aspect. Along with all Firebrands, they tend to be remarkably lucky themselves and benefit greatly from a cavalier attitude toward any potential for negative consequences. From Lubaiko, they take the cue to welcome the unexpected or unintended, making the most of situations that burn out of control, figuratively or literally. Among the Firebrands, her worship consists primarily of simple rituals and ceremonies, such as a quick prayer for favor while lighting a fire or setting off a charge of gunpowder. This flexibility and simplicity helps to spread her worship, as does the mischievous glee with which so many of her Firebrand worshippers invoke her name as they set forth on daredevil escapades or whip up a crowd.
-
-Firebrands who venerate Lubaiko don't feel the need to dress in particular ways or flaunt oversized religious symbols. Like many of her worshippers, they tend to favor more functional clothing than is typical for Firebrands, but there are no required vestments. Worshippers often sport a small tattoo or pendant featuring her symbol, and they may also wear accessories or fabrics that incorporate decorative sparks or flames. But because Firebrands prize their ability to move in and out of oppressive societies and often work covertly to undermine tyranny, they know better than to trumpet their devotions to a god who is often anathema to those societies.
-
-**Lubaiko** Speed 30 feet, Fly speed 70 feet
-
-1 longspear (reach 20 feet), Damage `dice: 6d12+6` piercing damage
-
-1 flaming lightning (versatile fire, range 120 feet), Damage `dice: 6d6+3` electricity damage
+- **Speed**: Speed 30 feet, fly 70 feet
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") longspear (, [reach <20 feet>](rules/traits/reach-20-feet.md "Reach Weapon Trait")), **Damage** `6d12+6` piercing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") flaming lightning (, [versatile <fire>](rules/traits/versatile-fire.md "Versatile Weapon Trait")), **Damage** `6d6+3` electricity 
+```

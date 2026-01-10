@@ -1,21 +1,27 @@
 ---
-title: "Zohls"
-draft: true
-noteType: ":luggage:"
-aliases: "Zohls"
-foundryId: Item.rTEDBU1iY9EmVrFM
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/empyreal-lords
+- domain/ambition/deity
+- domain/cities/deity
+- domain/knowledge/deity
+- domain/truth/deity
+aliases: ["Zohls", "Verity"]
 ---
+# Zohls (Verity) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 128*  
 
-# Zohls
+- **Category**: Empyreal Lords
+- **Anathema**: make judgments without evidence, contaminate evidence, obstruct truths
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait")
 
-Zohls, also known as Verity, advocates for determination, investigation, and truth. She believes that mysteries lead to truth, but how one arrives at that truth is as important as the answer itself. All questions are puzzles, and all puzzles are worth solving. The more intricate the problem, the more rewarding the investigation, and through determination and ethical investigation, even the deepest of enigmas can be solved. Calculated, logical thinking is more important to Zohls than gut instinct. She sees patterns everywhere, and she teaches that detecting these patterns brings the truth to light. While all investigations are worth pursuing so long as they don't hurt innocents, investigations that reveal the truth of crimes or other horrors, and that lead to justice being served and victims finding peace, are the most important of all to Verity.
+## Devotee benefits
 
-When appearing to her followers, Verity is always practically dressed, usually wearing a tunic and breeches. She wears black and white clothing, as these colors represent the light of truth and the darkness of obscurity and the unknown. She keeps her light-brown hair pulled back in braids. On her back she has large wings made of parchment that never wrinkle, whether furled or unfurled. Followers of Zohls include detectives, scientists, researchers, historians, archivists, librarians, and even conspiracy theorists.
-
-**Edicts** Solve logic puzzles, investigate crimes, devise new solutions from research
-
-**Anathema** Make judgments without evidence, contaminate evidence, obstruct truths
-
-**Areas of Concern** determination, investigation, and truth
+- **Divine Ability**: Intelligence or Wisdom
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Society
+- **Favored Weapon**: [heavy crossbow](compendium/equipment/items/heavy-crossbow.md)
+- **Domains**: [ambition](compendium/setting/domains.md#Ambition), [cities](compendium/setting/domains.md#Cities), [knowledge](compendium/setting/domains.md#Knowledge), [truth](compendium/setting/domains.md#Truth)
+- **Cleric Spells**: 1st: [share lore](compendium/spells/share-lore-logm.md); 3rd: [hypercognition](compendium/spells/hypercognition.md); 7th: [retrocognition](compendium/spells/retrocognition.md)

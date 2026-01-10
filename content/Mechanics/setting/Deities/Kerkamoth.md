@@ -1,19 +1,27 @@
 ---
-title: "Kerkamoth"
-draft: true
-noteType: ":luggage:"
-aliases: "Kerkamoth"
-foundryId: Item.iI3mrSbO3HelyjKW
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/monitor-demigods
+- domain/darkness/deity
+- domain/decay/deity
+- domain/destruction/deity
+- domain/void/deity
+aliases: ["Kerkamoth", "The Waiting Void"]
 ---
+# Kerkamoth (The Waiting Void) *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 130*  
 
-# Kerkamoth
+- **Category**: Monitor Demigods
+- **Anathema**: attempt to preserve something indefinitely, perform an act of wanton and significant destruction
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
-Also known as the Waiting Void, the unseen Kerkamoth is the primordial inevitable of emptiness, entropy, and stillness. Though many people view decay and entropy as manifestations of chaos, followers of Kerkamoth understand that in an orderly universe, the end of one cycle makes way for the beginning of a new cycle. These worshippers track such transitions and work to properly dispose of those things that have outlived their usefulness, whether it's cleaning a cluttered closet or demolishing an old building. Yet, Kerkamoth opposes those who destroy with abandon and no greater purpose, which often brings them in conflict with daemons, demons, and proteans. Though they favor areas of emptiness and silence to commune with their patron, worshippers of Kerkamoth recognize that these too cannot last forever, inevitably to be filled with new creations.
+## Devotee benefits
 
-**Edicts** Clean cluttered spaces, embrace moments of silence
-
-**Anathema** Attempt to preserve something indefinitely, perform an act of wanton and significant destruction
-
-**Areas of Concern** emptiness, entropy, and stillness
+- **Divine Ability**: Constitution or Wisdom
+- **Divine Font**: [heal](compendium/spells/heal.md) or [harm](compendium/spells/harm.md)
+- **Divine Skill**: Occultism
+- **Favored Weapon**: [warhammer](compendium/equipment/items/warhammer.md)
+- **Domains**: [darkness](compendium/setting/domains.md#Darkness), [decay](compendium/setting/domains.md#Decay), [destruction](compendium/setting/domains.md#Destruction), [void](compendium/setting/domains.md#Void)
+- **Cleric Spells**: 1st: [penumbral shroud](compendium/spells/penumbral-shroud-logm.md); 5th: [shadow siphon](compendium/spells/shadow-siphon.md); 6th: [disintegrate](compendium/spells/disintegrate.md)

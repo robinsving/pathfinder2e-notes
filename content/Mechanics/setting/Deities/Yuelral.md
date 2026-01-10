@@ -1,19 +1,27 @@
 ---
-title: "Yuelral"
-draft: true
-noteType: ":luggage:"
-aliases: "Yuelral"
-foundryId: Item.TK4DNY2aiBGBrCaP
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/elven-gods
+- domain/creation/deity
+- domain/earth/deity
+- domain/knowledge/deity
+- domain/magic/deity
+aliases: ["Yuelral", "The Wise"]
 ---
+# Yuelral (The Wise) *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 128*  
 
-# Yuelral
+- **Category**: Elven Gods
+- **Anathema**: cut a gem for aesthetic purposes, defile nature, allow the irresponsible use of magic
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
-Yuelral is the elven goddess of magic. She is a patron of both divine and arcane magic, but prefers magic that deals with the natural world rather than magic that deals with metal and other artificial things. She is frequently worshiped by jewelers because of her affinity with crystals. These jewelers never cut their crystals, instead embracing their natural beauty. Yuelral is quick to embrace half elves, seeing past their mixed heritage to what lies within.
+## Devotee benefits
 
-**Edicts** Practice herbalism, use and enchant gems, encourage and teach magicians and jewelers, preserve elven magic and knowledge
-
-**Anathema** Cut a gem for aesthetic purposes, defile nature, allow the irresponsible use of magic
-
-**Areas of Concern** gems, craft, and magic
+- **Divine Ability**: Intelligence or Wisdom
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Arcana
+- **Favored Weapon**: [dagger](compendium/equipment/items/dagger.md)
+- **Domains**: [creation](compendium/setting/domains.md#Creation), [earth](compendium/setting/domains.md#Earth), [knowledge](compendium/setting/domains.md#Knowledge), [magic](compendium/setting/domains.md#Magic)
+- **Cleric Spells**: 1st: [shattering gem](compendium/spells/shattering-gem-logm.md); 2nd: [shape wood](compendium/spells/shape-wood.md); 3rd: [meld into stone](compendium/spells/meld-into-stone.md); 4th: [speak with plants](compendium/spells/speak-with-plants.md); 5th: [tree stride](compendium/spells/tree-stride.md); 6th: [tangling creepers](compendium/spells/tangling-creepers.md); 7th: [unfettered pack](compendium/spells/unfettered-pack.md); 8th: [prismatic wall](compendium/spells/prismatic-wall.md); 9th: [nature's enmity](compendium/spells/natures-enmity.md)

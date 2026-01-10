@@ -1,19 +1,27 @@
 ---
-title: "Saloc"
-draft: true
-noteType: ":luggage:"
-aliases: "Saloc"
-foundryId: Item.TmOuhleHfwAD6lTc
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/monitor-demigods
+- domain/change/deity
+- domain/death/deity
+- domain/freedom/deity
+- domain/knowledge/deity
+aliases: ["Saloc", "The Minder of Immortals"]
 ---
+# Saloc (The Minder of Immortals) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 130*  
 
-# Saloc
+- **Category**: Monitor Demigods
+- **Anathema**: manipulate or remove a creature's emotions with magic, spread nihilism or hopelessness
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait")
 
-Ruler of the planar metropolis of Spire's Edge in the Boneyard, the psychopomp usher Saloc is humanoid, but their face is devoid of features save stag horns, and two golden rings lined with eyes constantly rotate about their body. As a defense counsel in Pharasma's court, the Minder of Immortals argues that a person's intentions should be considered in equal part to the consequences of their actions when deciding their soul's afterlife. Saloc has even been known to resurrect condemned souls to give them a second chance to prove themselves. Mortals revere Saloc as the patron of agency, bronze, and education. These followers are people who seek to improve themselves or others, including both students and teachers. Some seek to earn their freedom from earthly prisons, while others wish to change their ways to avoid punishment in the hereafter.
+## Devotee benefits
 
-**Edicts** Help creatures grow and find purpose, offer second chances to failures, study different perspectives on ethics
-
-**Anathema** Manipulate or remove a creature's emotions with magic, spread nihilism or hopelessness
-
-**Areas of Concern** agency, bronze, and education
+- **Divine Ability**: Wisdom or Charisma
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Diplomacy
+- **Favored Weapon**: [guisarme](compendium/equipment/items/guisarme.md)
+- **Domains**: [change](compendium/setting/domains.md#Change), [death](compendium/setting/domains.md#Death), [freedom](compendium/setting/domains.md#Freedom), [knowledge](compendium/setting/domains.md#Knowledge)
+- **Cleric Spells**: 1st: share lore; 3rd: [hypercognition](compendium/spells/hypercognition.md); 5th: [dreaming potential](compendium/spells/dreaming-potential.md)

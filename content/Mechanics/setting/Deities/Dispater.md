@@ -1,17 +1,27 @@
 ---
-title: "Dispater"
-draft: true
-noteType: ":luggage:"
-aliases: "Dispater"
-foundryId: Item.MBjU6FKzJlE688EM
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/archdevils
+- domain/cities/deity
+- domain/confidence/deity
+- domain/duty/deity
+- domain/tyranny/deity
+aliases: ["Dispater", "Iron Lord"]
 ---
+# Dispater (Iron Lord) *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 74*  
 
-# Dispater
+- **Category**: Archdevils
+- **Anathema**: act above your station, neglect your defenses, betray a lover
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
-Hell's second layer is the Infernal City, Dis, and its ruler is the archdevil Dispater. The Iron Lord is the architect of the orderly perfection of Hell as a blueprint for the rest of the multiverse, responsible for Dis's own dark and startling perfection. He remains distant from the scheming and machinations of the other archdevils and the Material Plane, instead modeling calm and deliberate action combined with ruthless, merciless arrogance. As the most urbane of the archdevils, he attracts many followers among those who wish to see Hell's dark majesty spread across the universe.
+## Devotee benefits
 
-**Edicts** Uphold absolute law, pursue perfection in your surroundings, speak with refinement
-
-**Anathema** Act above your station, neglect your defenses, betray a lover
+- **Divine Ability**: Strength or Charisma
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Society
+- **Favored Weapon**: [mace](compendium/equipment/items/mace.md)
+- **Domains**: [cities](compendium/setting/domains.md#Cities), [confidence](compendium/setting/domains.md#Confidence), [duty](compendium/setting/domains.md#Duty), [tyranny](compendium/setting/domains.md#Tyranny)
+- **Cleric Spells**: 1st: [tether](compendium/spells/tether-logm.md); 4th: [suggestion](compendium/spells/suggestion.md); 6th: [flesh to stone](compendium/spells/flesh-to-stone.md)

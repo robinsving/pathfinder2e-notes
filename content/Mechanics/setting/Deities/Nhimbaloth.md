@@ -1,21 +1,27 @@
 ---
-title: "Nhimbaloth"
-draft: true
-noteType: ":luggage:"
-aliases: "Nhimbaloth"
-foundryId: Item.7b0IgfYQ2DWUH0FF
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/outer-gods
+- domain/decay/deity
+- domain/nature/deity
+- domain/undeath/deity
+- domain/void/deity
+aliases: ["Nhimbaloth", "The Empty Death"]
 ---
+# Nhimbaloth (The Empty Death) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 130*  
 
-# Nhimbaloth
+- **Category**: Outer Gods
+- **Anathema**: none
+- **Follower Alignments**: [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-An especially reclusive Outer God who hunts along the shores of the River of Souls, Nhimbaloth is a shapeless entity known as the Empty Death. She preys on those who hunt souls as they travel down the river, but she devours both hunter and soul indiscriminately; those she consumes have no afterlife or potential for resurrection. They are forever gone, and forever nothing.
+## Devotee benefits
 
-Nhimbaloth is said to see through will-o'-wisps, and her trace is left behind in a symmetrical pattern of seven divots along the shoreline, said to be her fingerprints. Faceless undead haunt the places where she has passed, and plant and animal life in the area is especially hostile to the living. One place where she has particular influence is within the Mushfens of southern Varisia, where will-o'-wisp oracles sap the drive and reason from their victims and leave them wandering in a vacuous stupor through the blasted swamp.
-
-**\[Abomination Vaults\]** The Empty Death's sphere of influence encompasses despair, ghosts, and swamps. As with most of the Outer Gods, Nhimbaloth cares nothing for those who worship her (and thus her clerics have no key anathemas), yet those who venerate the Empty Death nonetheless toil in vain to attract her favor.
-
-**Edicts** Create undead (particularly incorporeal undead), feast upon carnivores that have recently feasted upon others
-
-**Anathema** None
+- **Divine Ability**: Constitution or Wisdom
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Nature
+- **Favored Weapon**: [flail](compendium/equipment/items/flail.md)
+- **Domains**: [decay](compendium/setting/domains.md#Decay), [nature](compendium/setting/domains.md#Nature), [undeath](compendium/setting/domains.md#Undeath), [void](compendium/setting/domains.md#Void)
+- **Cleric Spells**: 1st: [grim tendrils](compendium/spells/grim-tendrils.md); 2nd: [entangle](compendium/spells/entangle.md); 5th: [cloudkill](compendium/spells/cloudkill.md)

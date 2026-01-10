@@ -1,19 +1,27 @@
 ---
-title: "Shax"
-draft: true
-noteType: ":luggage:"
-aliases: "Shax"
-foundryId: Item.a76OAhBLjqJgg4OA
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/demon-lords
+- domain/ambition/deity
+- domain/death/deity
+- domain/pain/deity
+- domain/trickery/deity
+aliases: ["Shax", "The Bloody Marquis"]
 ---
+# Shax (The Bloody Marquis) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 77*  
 
-# Shax
+- **Category**: Demon Lords
+- **Anathema**: sleep in a building with fewer than five rooms, allow a victim to escape due to gloating
+- **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-Shax, the Blood Marquis, is the demon lord of envy, lies, and sadistic murders. Shax's capacity for cruelty is legendary even among the ranks of demon lords, and he takes extreme pleasure in watching the last light of hope fade from the eyes of his victims. He is the original creator of the babau demons, and those whom he personally flays and corrupts with Abyssal influence remain exemplars of their kind. Shax appears as a human man with a dove's head, feet, and wings, carrying countless knives and other weapons all over his body. Shax is most frequently worshipped by sadists, lone murderers, and serial killers.
+## Devotee benefits
 
-**Edicts** Plot and commit murders, tell lies, torture creatures
-
-**Anathema** Sleep in a building with fewer than five rooms, allow a victim to escape due to gloating
-
-**Areas of Concern** envy, lies, and sadistic murders
+- **Divine Ability**: Dexterity or Charisma
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Intimidation
+- **Favored Weapon**: [dagger](compendium/equipment/items/dagger.md)
+- **Domains**: [ambition](compendium/setting/domains.md#Ambition), [death](compendium/setting/domains.md#Death), [pain](compendium/setting/domains.md#Pain), [trickery](compendium/setting/domains.md#Trickery)
+- **Cleric Spells**: 1st: [phantom pain](compendium/spells/phantom-pain.md); 2nd: [invisibility](compendium/spells/invisibility.md); 3rd: [haste](compendium/spells/haste.md)

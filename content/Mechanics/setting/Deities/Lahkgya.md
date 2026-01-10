@@ -1,15 +1,27 @@
 ---
-title: "Lahkgya"
-draft: true
-noteType: ":luggage:"
-aliases: "Lahkgya"
-foundryId: Item.dvLoV5b2oHA7G8wy
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/vudrani-gods
+- domain/indulgence/deity
+- domain/nature/deity
+- domain/swarm/deity
+- domain/trickery/deity
+aliases: ["Lahkgya", "Patron of Monkeys"]
 ---
+# Lahkgya (Patron of Monkeys) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 132*  
 
-# Lahkgya
+- **Category**: Vudrani Gods
+- **Anathema**: work honestly for something you could steal instead, kill a monkey
+- **Follower Alignments**: [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-**Edicts** Steal luxuries for yourself, destroy property for fun, demand bribes to spare creatures from your torments
+## Devotee benefits
 
-**Anathema** Work honestly for something you could steal instead, kill a monkey
+- **Divine Ability**: Dexterity or Intelligence
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Thievery
+- **Favored Weapon**: jaws or [battle axe](compendium/equipment/items/battle-axe.md)
+- **Domains**: [indulgence](compendium/setting/domains.md#Indulgence), [nature](compendium/setting/domains.md#Nature), [swarm](compendium/setting/domains.md#Swarm), [trickery](compendium/setting/domains.md#Trickery)
+- **Cleric Spells**: 1st: [fleet step](compendium/spells/fleet-step.md); 3rd: [mad monkeys](compendium/spells/mad-monkeys-apg.md); 4th: [confusion](compendium/spells/confusion.md)

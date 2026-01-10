@@ -1,17 +1,27 @@
 ---
-title: "Ydersius"
-draft: true
-noteType: ":luggage:"
-aliases: "Ydersius"
-foundryId: Item.RiLtD53AYGOUy0RP
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/b2
+- deity/other-gods
+- domain/ambition/deity
+- domain/indulgence/deity
+- domain/might/deity
+- domain/zeal/deity
+aliases: ["Ydersius"]
 ---
+# Ydersius *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
+*Source: Bestiary 2 p. 237*  
 
-# Ydersius
+- **Category**: Other Gods
+- **Anathema**: put the needs of others above those of serpentfolk, aid the spawn of Azlant
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-The serpentfolk god is not dead, but in his decapitated state, he might as well be. Reduced to a feral, animalistic existence, Ydersius is even less aware of his legacy than the lowest of the aapoph. Ydersius's symbol is a snake's skull surrounded by a skeletal ouroboros.
+## Devotee benefits
 
-**Edicts** seek to return Ydersius to life, fulfill your passions, conquer your foes with no mercy, achieve glory for serpentkind
-
-**Anathema** put the needs of others above those of serpentfolk, aid the spawn of Azlant
+- **Divine Ability**: Dexterity or Wisdom
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Deception
+- **Favored Weapon**: [dagger](compendium/equipment/items/dagger.md)
+- **Domains**: [ambition](compendium/setting/domains.md#Ambition), [indulgence](compendium/setting/domains.md#Indulgence), [might](compendium/setting/domains.md#Might), [zeal](compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [magic fang](compendium/spells/magic-fang.md); 5th: [cloudkill](compendium/spells/cloudkill.md); 6th: [purple worm sting](compendium/spells/purple-worm-sting.md)

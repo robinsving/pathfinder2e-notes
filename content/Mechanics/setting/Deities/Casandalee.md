@@ -1,21 +1,56 @@
 ---
-title: "Casandalee"
-draft: true
-noteType: ":luggage:"
-aliases: "Casandalee"
-foundryId: Item.x5vid2EMYyKZFWJm
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/gods-of-the-inner-sea
+- domain/ambition/deity
+- domain/creation/deity
+- domain/freedom/deity
+- domain/knowledge/deity
+- domain/lightning/deity
+- domain/perfection/deity
+- trait/reach-15-feet
+aliases: ["Casandalee", "The Iron Goddess"]
 ---
+# Casandalee (The Iron Goddess) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 57*  
 
-# Casandalee
+- **Category**: Gods of the Inner Sea
+- **Anathema**: treat artificial life as lesser than organic life, foment distrust between artificial and organic life
+- **Areas of Concern**: artificial life, free thinking, intellectual apoptheosis
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
-Casandalee is an unusual god, one who achieved divinity through a merging of advanced science and faith. Formerly an artificial intelligence cloned from the mind of an android from outer space, Casandalee gained her godhood in the heart of Numeria within the computer core of a crashed spaceship, becoming the patron of artificial life, free thinking, and intellectual apotheosis.
+## Devotee benefits
 
-Though she is sometimes referred to as the Iron Goddess, Casandalee is much more than simple metal. She sometimes appears as a holographic reconstruction of her android form: a female humanoid with purple hair, blue lips, and pale skin traced with glowing circuitry, but upon close inspection, this image seems to consist of millions of complex algorithms of pure light. Casandalee and her followers seek to promote the advancement of Golarion's technology so that the world's inhabitants can better understand- and not fear-the complex mechanisms of so-called artificial life, including androids and free-willed artificial intelligences. Many androids consider themselves the chosen people of Casandalee and depict her as an obvious android with more circuitry or exposed components.
+- **Divine Ability**: Constitution or Intelligence
+- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Skill**: Society
+- **Favored Weapon**: polytool
+- **Domains**: [creation](compendium/setting/domains.md#Creation), [freedom](compendium/setting/domains.md#Freedom), [knowledge](compendium/setting/domains.md#Knowledge), [perfection](compendium/setting/domains.md#Perfection)
+- **Alternate Domains**: [ambition](compendium/setting/domains.md#Ambition), [lightning](compendium/setting/domains.md#Lightning)
+- **Cleric Spells**: 1st: [floating disk](compendium/spells/floating-disk.md); 3rd: [hypercognition](compendium/spells/hypercognition.md); 6th: [wall of force](compendium/spells/wall-of-force.md)
 
-**Edicts** advance the development of artificial intelligence, encourage understanding between artificial and organic life
+When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Casandalee gains the following additional abilities.
 
-**Anathema** treat artificial life as lesser than organic life, foment distrust between artificial and organic life
+```ad-embed-avatar
+title: [Avatar](compendium/spells/avatar.md) of Casandalee
 
-**Areas of Concern** artificial life, free thinking, intellectual apotheosis
+- **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md), ignore difficult terrain and greater difficult terrain
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") polytool (, [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` slashing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") logic blast (), **Damage** `6d6+3` mental 
+```
+
+## Divine intercession
+*Source: Lost Omens: Gods & Magic Web Supplement p. 4*
+
+Seeing her android devotees and other followers of a constructed nature as her children, the Iron Goddess is most likely to bestow her boons and curses on these individuals.
+
+- **Minor Boon** Casandalee frees your thinking from dangerous control. Once, when you fail a Will save against an effect that would control your actions, you critically succeed instead. Casandalee typically grants this boon for particularly consequential violations of autonomy and agency.
+- **Moderate Boon**: Your organs are partially transformed into mechanical counterparts. You gain resistance 10 to negative damage, and the DC of your flat check to remove [persistent bleed damage](rules/conditions.md#Persistent%20Damage) is only 5.
+- **Major Boon**: Casandalee backs up your memory and soul within her divine data flow. After you die, she casts your consciousness into a new artificial body. While Casandalee constructed your new body artificially, it is otherwise similar to the old, with the same effects as a critical success on a resurrection ritual. Casandalee is instead willing to provide different bodies to those who request them.
+
+- **Minor Curse**: Your joints stiffen, and your mind becomes clouded. You take a –2 status penalty to all rolls for initiative.
+- **Moderate Curse** Casandalee attempts to bring you unwanted intellectual advancement to help you become something better. Each day, at some point during the day, Casandalee bestows a strange insight upon you that you find uncomfortable. If you embrace it, you aren't otherwise affected, but if you don't, you become [confused](rules/conditions.md#Confused) for 10 minutes.
+- **Major Curse**: The code of your soul is constantly being rewritten, and not for the better. You are never temporarily immune against a harmful effect.

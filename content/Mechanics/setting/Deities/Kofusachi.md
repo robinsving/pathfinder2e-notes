@@ -1,15 +1,27 @@
 ---
-title: "Kofusachi"
-draft: true
-noteType: ":luggage:"
-aliases: "Kofusachi"
-foundryId: Item.fXWg6d4OV7wEU88G
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/tian-gods
+- domain/luck/deity
+- domain/passion/deity
+- domain/travel/deity
+- domain/wealth/deity
+aliases: ["Kofusachi", "The Laughing God"]
 ---
+# Kofusachi (The Laughing God) *([CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 132*  
 
-# Kofusachi
+- **Category**: Tian Gods
+- **Anathema**: become tied to one location, judge another based on sexual desires or gender roles
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
-**Edicts** Support local businesses, bring prosperity to your community, sample life's pleasures
+## Devotee benefits
 
-**Anathema** Become tied to one location, judge another based on sexual desires or gender roles
+- **Divine Ability**: Dexterity or Constitution
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Performance
+- **Favored Weapon**: [staff](compendium/equipment/items/staff.md)
+- **Domains**: [luck](compendium/setting/domains.md#Luck), [passion](compendium/setting/domains.md#Passion), [travel](compendium/setting/domains.md#Travel), [wealth](compendium/setting/domains.md#Wealth)
+- **Cleric Spells**: 1st: [soothe](compendium/spells/soothe.md); 2nd: [hideous laughter](compendium/spells/hideous-laughter.md); 8th: [uncontrollable dance](compendium/spells/uncontrollable-dance.md)

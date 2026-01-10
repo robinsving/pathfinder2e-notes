@@ -1,19 +1,27 @@
 ---
-title: "Mother Vulture"
-draft: true
-noteType: ":luggage:"
-aliases: "Mother Vulture"
-foundryId: Item.SKexDMuQOQGK8A92
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/monitor-demigods
+- domain/change/deity
+- domain/death/deity
+- domain/decay/deity
+- domain/nature/deity
+aliases: ["Mother Vulture", "The Flesheater"]
 ---
+# Mother Vulture (The Flesheater) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 130*  
 
-# Mother Vulture
+- **Category**: Monitor Demigods
+- **Anathema**: poison insects or scavengers, waste food or good materials, allow rot to poison an area, create undead
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait")
 
-Though she usually appears as a blind young woman, in her natural form the Flesheater is an enormous, bloated creature with four wings and two long necks topped with masked heads and gaping maws. Mother Vulture reflects the dualistic process of decay. She is a vicious killer whose feasts stain the ground, representing the death inherent in decay, but also a thoughtful mother, representing the new life that can take root in the fertile soil left in the wake of destruction. Mother Vulture's mortal worshippers, who often dwell in deserts and swamps, revere her as the patron of consumption, renewal, and transformation. In this last aspect, she judges those souls who sought redemption in life, deciding whether their atonement was sufficient to avoid an undesired afterlife.
+## Devotee benefits
 
-**Edicts** Recycle rot and waste into useful creations, eat the flesh of your own people, kill without mercy if it benefits your community, help to raise children
-
-**Anathema** Poison insects or scavengers, waste food or good materials, allow rot to poison an area, create undead
-
-**Areas of Concern** consumption, renewal, and transformation
+- **Divine Ability**: Constitution or Wisdom
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Survival
+- **Favored Weapon**: [sickle](compendium/equipment/items/sickle.md)
+- **Domains**: [change](compendium/setting/domains.md#Change), [death](compendium/setting/domains.md#Death), [decay](compendium/setting/domains.md#Decay), [nature](compendium/setting/domains.md#Nature)
+- **Cleric Spells**: 1st: [soothe](compendium/spells/soothe.md); 4th: [aerial form](compendium/spells/aerial-form.md); 6th: [baleful polymorph](compendium/spells/baleful-polymorph.md)

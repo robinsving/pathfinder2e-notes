@@ -1,21 +1,27 @@
 ---
-title: "Ayrzul"
-draft: true
-noteType: ":luggage:"
-aliases: "Ayrzul"
-foundryId: Item.6uCJMaR2bGeMu1iX
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/elemental-lords
+- domain/destruction/deity
+- domain/earth/deity
+- domain/might/deity
+- domain/secrecy/deity
+aliases: ["Ayrzul", "The Fossilized King"]
 ---
+# Ayrzul (The Fossilized King) *([NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 126*  
 
-# Ayrzul
+- **Category**: Elemental Lords
+- **Anathema**: remove a creature's petrified condition, make a fire larger or hotter than necessary
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-Lord of buried secrets, earth, and metal, the Fossilized King Ayrzul is a mystery even on the Plane of Earth. No one has seen the elemental lord of earth outside of his realm, the Blistering Labyrinth, and few know the truth of Ayrzul's nature or the form he takes when he appears. Some say he is an immense, undead crystalline dragon, an ancient genie wizard, or even a discarded splinter from some long-forgotten deity, shed before their primeval destruction. His power, motives, and origins are likewise the subjects of innumerable rumors. This speculation is all inconsequential to the Fossilized King; even the politics of his plane falls outside his notice. Instead, the lord of Earth spends his time plotting against his bitter rival, [[Ymeri]], the elemental lord of fire.
+## Devotee benefits
 
-Ayrzul's followers include xiomorns-[[Sairazul]]'s children whom he has stolen-a handful of mephits and other elementals, and groups of humanoids on the Material Plane with an interest in the unseen hostility of the earth.
-
-**Edicts** Use the strength of stone to protect yourself and your secrets, obscure your true motives, slowly poison others
-
-**Anathema** Remove a creature's petrified condition, make a fire larger or hotter than necessary
-
-**Areas of Concern** buried secrets, earth, and metal
+- **Divine Ability**: Strength or Constitution
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Deception
+- **Favored Weapon**: [morningstar](compendium/equipment/items/morningstar.md)
+- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [earth](compendium/setting/domains.md#Earth), [might](compendium/setting/domains.md#Might), [secrecy](compendium/setting/domains.md#Secrecy)
+- **Cleric Spells**: 1st: shockwave; 2nd: summon elemental (earth only); 6th: [flesh to stone](compendium/spells/flesh-to-stone.md)

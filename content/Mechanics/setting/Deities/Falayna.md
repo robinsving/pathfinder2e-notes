@@ -1,21 +1,38 @@
 ---
-title: "Falayna"
-draft: true
-noteType: ":luggage:"
-aliases: "Falayna"
-foundryId: Item.UGtVzYLXHKdqv7Bp
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/empyreal-lords
+- domain/creation/deity
+- domain/freedom/deity
+- domain/might/deity
+- domain/wealth/deity
+- trait/reach-15-feet
+- trait/versatile-piercing
+aliases: ["Falayna", "Warrior's Ring"]
 ---
+# Falayna (Warrior's Ring) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 128*  
 
-# Falayna
+- **Category**: Empyreal Lords
+- **Anathema**: disrupt or destroy romantic unions, enforce a dress code, cower from fights
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
-Femininity, martial training, and rings are the purview of the Warrior's Ring. In the eyes of Falayna, there is as much grace and beauty in the martial arts as exists in any culture's definition of femininity. The strength of womanhood is a hallmark of femininity, and strength in arms reflects this, with the flourish and personality of a fighting style a vibrant means for self-expression. Followers of Falayna learn to fight so they can both express their body and defend themselves if necessary, and strive to feel beautiful doing so, both in form and in dress. Falayna also enjoys rings, and as such she is associated with events in which rings are given or exchanged, such as weddings.
+## Devotee benefits
 
-When the Warrior's Ring appears to mortals, her form is most often that of a muscular woman with the hair and eye colors most commonly associated with feminine beauty in the mortal's mind. She wears a bright silver breastplate on top of flowing, silken robes, her longsword _Betrothal_ sheathed across her back. On her fingers she wears rings of varying colors, styles, and stones; this jewelry seems to constantly shift, as if her fingers wear all the rings found in all the worlds. Followers of Falayna include warriors, soldiers, squires, jewelers, and those engaged to be married.
+- **Divine Ability**: Strength or Charisma
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Athletics
+- **Favored Weapon**: [longsword](compendium/equipment/items/longsword.md)
+- **Domains**: [creation](compendium/setting/domains.md#Creation), [freedom](compendium/setting/domains.md#Freedom), [might](compendium/setting/domains.md#Might), [wealth](compendium/setting/domains.md#Wealth)
+- **Cleric Spells**: 1st: [true strike](compendium/spells/true-strike.md); 3rd: [ghostly weapon](compendium/spells/ghostly-weapon.md); 5th: [cloak of colors](compendium/spells/cloak-of-colors.md)
 
-**Edicts** Wear and make beautiful things, train for combat, recover and return lost mementos
+```ad-embed-avatar
+title: [Avatar](compendium/spells/avatar.md) of Falayna
 
-**Anathema** Disrupt or destroy romantic unions, enforce a dress code, cower from fights
-
-**Areas of Concern** femininity, martial training, and rings
+- **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md)
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") longsword (, [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <piercing>](rules/traits/versatile-piercing.md "Versatile Weapon Trait")), **Damage** `6d8+6` slashing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ring salvo (), **Damage** `6d6+3` bludgeoning 
+```

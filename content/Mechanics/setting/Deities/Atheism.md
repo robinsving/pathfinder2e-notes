@@ -1,17 +1,16 @@
 ---
-title: "Atheism"
-draft: true
-noteType: ":luggage:"
-aliases: "Atheism"
-foundryId: Item.qHLqGmQ21XjFniXM
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/crb
+- deity/philosophy
+aliases: ["Atheists and Free Agents", "Atheism"]
 ---
+# Atheists and Free Agents (Atheism) *()*  
+*Source: Core Rulebook p. 440*  
 
-# Atheism
+- **Category**: Philosophy
+- **Anathema**: offer prayers to a deity
+- **Follower Alignments**: all
 
-While most concede that the gods exist, some do not view them as worthy of worship, and a few even deny their presence altogether.
-
-**Edicts** pursue your own agenda with faith in your ability to excel
-
-**Anathema** offer prayers to a deity
+## Devotee benefits

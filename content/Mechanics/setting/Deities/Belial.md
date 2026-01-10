@@ -1,17 +1,27 @@
 ---
-title: "Belial"
-draft: true
-noteType: ":luggage:"
-aliases: "Belial"
-foundryId: Item.92PPU51CrMApxIOk
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/archdevils
+- domain/change/deity
+- domain/passion/deity
+- domain/trickery/deity
+- domain/zeal/deity
+aliases: ["Belial", "The Pale Kiss"]
 ---
+# Belial (The Pale Kiss) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 74*  
 
-# Belial
+- **Category**: Archdevils
+- **Anathema**: impede an act of high hedonism, become too attached to a lover or project
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
-The lord of Hell's fourth layer, Phlegethon, is Belial. The Pale Kiss was created by Asmodeus as an object of adoration, with perfect form and beauty in the eyes of every creature. As a result, Belial has a virtually unlimited malleability of form, shifting between shapes almost constantly. His appearance is often as dualistic as his personality: half his body beautiful and half grotesque, much as he revels equally in pleasure and pain. As he is a creature of carnal desires, so are his followers: those who crave forbidden pleasures of the flesh but hide behind masks of respectability.
+## Devotee benefits
 
-**Edicts** Indulge your basest desires, create deadly weapons
-
-**Anathema** Impede an act of high hedonism, become too attached to a lover or project
+- **Divine Ability**: Intelligence or Charisma
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Diplomacy
+- **Favored Weapon**: [ranseur](compendium/equipment/items/ranseur.md)
+- **Domains**: [change](compendium/setting/domains.md#Change), [passion](compendium/setting/domains.md#Passion), [trickery](compendium/setting/domains.md#Trickery), [zeal](compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [charm](compendium/spells/charm.md); 2nd: [humanoid form](compendium/spells/humanoid-form.md); 3rd: [enthrall](compendium/spells/enthrall.md)

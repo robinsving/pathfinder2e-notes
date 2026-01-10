@@ -1,19 +1,27 @@
 ---
-title: "Lysianassa"
-draft: true
-noteType: ":luggage:"
-aliases: "Lysianassa"
-foundryId: Item.jbhMbULg8nJIszDj
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/elemental-lords
+- domain/change/deity
+- domain/fate/deity
+- domain/nature/deity
+- domain/water/deity
+aliases: ["Lysianassa", "Empress of the Torrent"]
 ---
+# Lysianassa (Empress of the Torrent) *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 126*  
 
-# Lysianassa
+- **Category**: Elemental Lords
+- **Anathema**: pollute clean bodies of water, dam a river, disrespect sincere gifts of water or drink
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
-Lysianassa, Empress of the Torrent, is the elemental lord of currents, tides, and water. Before she was trapped in the Gasping Pearl, the benevolent lord of water patrolled her plane as a powerful sailfish made of coral and streaked with mother of pearl. When she realized her capture was imminent, Lysianassa preserved the last of her strength within the Breath of Lysianassa, a vial that allowed her nautilus servant Riam the Unyielding to control the Plane of Water's tides. Since Riam's death, the currents of the Plane of Water have begun to slow, and may eventually come to a halt. Few recall the Empress of the Torrent's name, but cults dedicated to an enigmatic figure called the Queen of the Depths have begun to arise, heralding an event they refer to as the Awakening, and some planar scholars believe these cultists seek to free Lysianassa from her prison.
+## Devotee benefits
 
-**Edicts** Respect and aid natural cycles, promote life and growth, change to avoid stagnation, swim
-
-**Anathema** Pollute clean bodies of water, dam a river, disrespect sincere gifts of water or drink
-
-**Areas of Concern** currents, tides, and water
+- **Divine Ability**: Dexterity or Constitution
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Survival
+- **Favored Weapon**: [spear](compendium/equipment/items/spear.md)
+- **Domains**: [change](compendium/setting/domains.md#Change), [fate](compendium/setting/domains.md#Fate), [nature](compendium/setting/domains.md#Nature), [water](compendium/setting/domains.md#Water)
+- **Cleric Spells**: 1st: [hydraulic push](compendium/spells/hydraulic-push.md); 2nd: [aqueous orb](compendium/spells/aqueous-orb-apg.md); 5th: [control water](compendium/spells/control-water.md)

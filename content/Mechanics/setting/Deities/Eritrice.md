@@ -1,21 +1,27 @@
 ---
-title: "Eritrice"
-draft: true
-noteType: ":luggage:"
-aliases: "Eritrice"
-foundryId: Item.W72ktFhLLDD8SOOl
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/empyreal-lords
+- domain/confidence/deity
+- domain/glyph/deity
+- domain/knowledge/deity
+- domain/truth/deity
+aliases: ["Eritrice", "Heart-Speaker"]
 ---
+# Eritrice (Heart-Speaker) *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 128*  
 
-# Eritrice
+- **Category**: Empyreal Lords
+- **Anathema**: sow or perpetuate lies, obstruct discussion, argue in bad faith
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
-The Heart-Speaker Eritrice represents honest debate, opinions, and truth. Facts and information are important to Eritrice, but truths and wisdom gained through discussion are far more valuable to her than those gained through books. She maintains there is nothing wrong with disagreeing so long as the disagreement is respectful, and that it is crucial to be open to discussion, willing to consider new information, and receptive to forming new opinions. Opinions are valuable in that they help understand other views, but Eritrice reminds her followers that opinions are not facts and can be incorrect and even harmful. When lies are spoken or become the rule of the land, those that follow Eritrice work through networks of like-minded individuals to spread the truth using messages sent to all who will listen.
+## Devotee benefits
 
-In her mortal form, the Heart-Speaker appears as a muscular, 8-foot-tall woman with a female lion's head. She wears a rose-colored breastplate over a short kilt. When she speaks, her voice is so entrancing and compelling that those she appears to often don't take note of any of her other features. Those who value truth, from debaters to town criers to lawmakers, are among the followers of Eritrice.
-
-**Edicts** Spread truth, debate contentious issues, aid messengers
-
-**Anathema** Sow or perpetuate lies, obstruct discussion, argue in bad faith
-
-**Areas of Concern** honest debate, opinions, and truth
+- **Divine Ability**: Intelligence or Wisdom
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Diplomacy
+- **Favored Weapon**: [dagger](compendium/equipment/items/dagger.md)
+- **Domains**: [confidence](compendium/setting/domains.md#Confidence), [glyph](compendium/setting/domains.md#Glyph), [knowledge](compendium/setting/domains.md#Knowledge), [truth](compendium/setting/domains.md#Truth)
+- **Cleric Spells**: 1st: [mindlink](compendium/spells/mindlink.md); 2nd: [comprehend language](compendium/spells/comprehend-language.md); 3rd: [enthrall](compendium/spells/enthrall.md)

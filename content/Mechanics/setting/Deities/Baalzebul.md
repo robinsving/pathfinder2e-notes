@@ -1,17 +1,27 @@
 ---
-title: "Baalzebul"
-draft: true
-noteType: ":luggage:"
-aliases: "Baalzebul"
-foundryId: Item.Jo9kCdi0w3A5K62m
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/archdevils
+- domain/air/deity
+- domain/ambition/deity
+- domain/magic/deity
+- domain/trickery/deity
+aliases: ["Baalzebul", "Lord of Flies"]
 ---
+# Baalzebul (Lord of Flies) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 74*  
 
-# Baalzebul
+- **Category**: Archdevils
+- **Anathema**: provoke Baalzebul's envy, show humility
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
-Baalzebul was one of the first angels of Heaven, a glorious lieutenant who followed Asmodeus in his exodus to Hell. In this new realm, he led the infernal armies and trained several other archdevils as generals. When Asmodeus divided the nine realms of Hell between himself and the eight archdevils, Baalzebul protested, thinking he had earned a place at his god's side. Asmodeus responded by stripping away the archdevil's radiant form, reducing him to a figure composed of swarming flies. Now known as the Lord of Flies, he rules over Cocytus, the frozen seventh layer of Hell, and attracts followers possessed of deep ambition and a powerful drive to triumph.
+## Devotee benefits
 
-**Edicts** Convey yourself with regal dignity, claim what you desire and deserve, seek vengeance from those who wrong you
-
-**Anathema** Provoke Baalzebul's envy, show humility
+- **Divine Ability**: Dexterity or Charisma
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Deception
+- **Favored Weapon**: [spear](compendium/equipment/items/spear.md)
+- **Domains**: [air](compendium/setting/domains.md#Air), [ambition](compendium/setting/domains.md#Ambition), [magic](compendium/setting/domains.md#Magic), [trickery](compendium/setting/domains.md#Trickery)
+- **Cleric Spells**: 1st: [fleet step](compendium/spells/fleet-step.md); 2nd: [vomit swarm](compendium/spells/vomit-swarm-apg.md); 6th: [mislead](compendium/spells/mislead.md)

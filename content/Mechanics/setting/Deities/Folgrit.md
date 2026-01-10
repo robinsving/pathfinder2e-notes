@@ -1,17 +1,27 @@
 ---
-title: "Folgrit"
-draft: true
-noteType: ":luggage:"
-aliases: "Folgrit"
-foundryId: Item.0jiLnBlkoSH8lQsf
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/dwarven-gods
+- domain/cities/deity
+- domain/family/deity
+- domain/protection/deity
+- domain/repose/deity
+aliases: ["Folgrit", "The Watchful Mother"]
 ---
+# Folgrit (The Watchful Mother) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 126*  
 
-# Folgrit
+- **Category**: Dwarven Gods
+- **Anathema**: abandon your family, fail to defend your neighbors
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait")
 
-Folgrit is the wife of [[Torag]], and thus has a prominent role in the dwarven pantheon, having mothered several demigod children. She is patient with her husband and tries to stop him worrying too much, but also makes sure he is aware of the burden of responsibility he bears. Folgrit is the goddess of wives, mothers, and children, and tangentially the goddess of widows and orphans.
+## Devotee benefits
 
-**Edicts** Maintain the sanctity of a home, remain patient with others, take in those without families
-
-**Anathema** Abandon your family, fail to defend your neighbors
+- **Divine Ability**: Constitution or Wisdom
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Medicine
+- **Favored Weapon**: [staff](compendium/equipment/items/staff.md)
+- **Domains**: [cities](compendium/setting/domains.md#Cities), [family](compendium/setting/domains.md#Family), [repose](compendium/setting/domains.md#Repose), [protection](compendium/setting/domains.md#Protection)
+- **Cleric Spells**: 1st: [endure](compendium/spells/endure-logm.md); 4th: [fire shield](compendium/spells/fire-shield.md); 9th: [resplendent mansion](compendium/spells/resplendent-mansion.md)

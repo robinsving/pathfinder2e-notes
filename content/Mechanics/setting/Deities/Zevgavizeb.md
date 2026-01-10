@@ -1,19 +1,27 @@
 ---
-title: "Zevgavizeb"
-draft: true
-noteType: ":luggage:"
-aliases: "Zevgavizeb"
-foundryId: Item.y68LvA9V3Fd0FDJJ
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/demon-lords
+- domain/destruction/deity
+- domain/might/deity
+- domain/nature/deity
+- domain/wyrmkin/deity
+aliases: ["Zevgavizeb", "The Beast of Gluttondark"]
 ---
+# Zevgavizeb (The Beast of Gluttondark) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 77*  
 
-# Zevgavizeb
+- **Category**: Demon Lords
+- **Anathema**: surrender in combat, express weakness in the face of adversity, show mercy to the weak
+- **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-The Beast of Gluttondark's sphere of influence encompasses caverns, reptiles, the strong, and all-consuming hunger. A primordial qlippoth-turned-demon lord, Zevgavizeb seems to care little for his followers, and so he is more often propitiated than worshipped.
+## Devotee benefits
 
-**Edicts** expand your clutch's domain, dominate your enemies, demonstrate mastery over your crafts and environment, devour the weak
-
-**Anathema** surrender in combat, express weakness in the face of adversity, show mercy to the weak
-
-**Areas of Concern** caverns, reptiles, and troglodytes
+- **Divine Ability**: Strength or Constitution
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Survival
+- **Favored Weapon**: [spiked gauntlet](compendium/equipment/items/spiked-gauntlet.md)
+- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [might](compendium/setting/domains.md#Might), [nature](compendium/setting/domains.md#Nature), [wyrmkin](compendium/setting/domains.md#Wyrmkin)
+- **Cleric Spells**: 1st: [magic fang](compendium/spells/magic-fang.md); 4th: [dinosaur form](compendium/spells/dinosaur-form.md); 8th: [earthquake](compendium/spells/earthquake.md)

@@ -1,17 +1,27 @@
 ---
-title: "Apsu"
-draft: true
-noteType: ":luggage:"
-aliases: "Apsu"
-foundryId: Item.6EcsyDpaXr4WtRYw
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/other-gods
+- domain/creation/deity
+- domain/protection/deity
+- domain/travel/deity
+- domain/wyrmkin/deity
+aliases: ["Apsu", "The Waybringer"]
 ---
+# Apsu (The Waybringer) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 130*  
 
-# Apsu
+- **Category**: Other Gods
+- **Anathema**: fail to pursue a foe who has betrayed your mercy, attack a creature without certainty of wrongdoing
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
-Unsurprisingly, most of Apsu's worshipers are metallic dragons, although some non-aligned draconic creatures such as primal dragons and wyverns worship him as well. Few dragons practice divine magic, preferring to leave that to their humanoid allies. As Apsu's prime purpose is the destruction of Dahak, few non-dragons take up his cause, although honourable humanoids with an interest in draconic lore have taken up his faith from time to time. They typically wear a gold dragon's foot brooch, or have other custom-made equipment in the shape of a dragon's foot. Golarion lacks much of a centralized humanoid church of Apsu. The largest congregation of humanoid Apsu worshipers on the planet is known as the Platinum Band, which maintains relatively small centers of worship in Oppara and Absalom. Apsu is more widely worshiped by humanoids on the planet Triaxus, where he is the patron deity of the Dragon Legion. The Legion's leaders prohibit their priests from revealing Apsu's connection to Golarion, so younger legionnaires would not be tempted to prematurely journey there to help him. Instead, they hope to raise a grand army to offer Apsu when the time comes for him to fight Dahak.
+## Devotee benefits
 
-**Edicts** Seek and destroy evil, travel the world, help others fend for themselves
-
-**Anathema** Fail to pursue a foe who has betrayed your mercy, attack a creature without certainty of wrongdoing
+- **Divine Ability**: Wisdom or Charisma
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Diplomacy
+- **Favored Weapon**: jaws or [staff](compendium/equipment/items/staff.md)
+- **Domains**: [creation](compendium/setting/domains.md#Creation), [protection](compendium/setting/domains.md#Protection), [travel](compendium/setting/domains.md#Travel), [wyrmkin](compendium/setting/domains.md#Wyrmkin)
+- **Cleric Spells**: 1st: [magic fang](compendium/spells/magic-fang.md); 4th: [creation](compendium/spells/creation.md); 6th: dragon form (metallic dragons only)

@@ -1,19 +1,27 @@
 ---
-title: "Gogunta"
-draft: true
-noteType: ":luggage:"
-aliases: "Gogunta"
-foundryId: Item.P4lFsTVFDx7mYHtg
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/b1
+- deity/demon-lords
+- domain/indulgence/deity
+- domain/might/deity
+- domain/tyranny/deity
+- domain/water/deity
+aliases: ["Gogunta", "Song of the Swamp"]
 ---
+# Gogunta (Song of the Swamp) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
+*Source: Bestiary p. 45*  
 
-# Gogunta
+- **Category**: Demon Lords
+- **Anathema**: grant mercy to boggards who worship other gods
+- **Follower Alignments**: [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-Gogunta, Song of the Swamp, is the demon lord of amphibians, boggards, and swamps. Gogunta is worshipped as a goddess by boggards, who believe her to be an ascended mobogo, though scholars suspect she was a former hezrou who gained the favor of Dagon. Lending credence to this latter theory, her realm, a stinking salt marsh, is located within Dagon's oceanic realm. Gogunta appears as an enormous, multi-headed frog with dozens of eyes and even more tongues, though boggards typically depict her as a titanic boggard queen.
+## Devotee benefits
 
-**Edicts** sacrifice creatures by drowning them, frolic or sing in swamps, feed or aid amphibians
-
-**Anathema** grant mercy to boggards who worship other gods
-
-**Areas of Concern** amphibians, boggards, and swamps
+- **Divine Ability**: Strength or Wisdom
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Intimidation
+- **Favored Weapon**: [whip](compendium/equipment/items/whip.md)
+- **Domains**: [indulgence](compendium/setting/domains.md#Indulgence), [might](compendium/setting/domains.md#Might), [tyranny](compendium/setting/domains.md#Tyranny), [water](compendium/setting/domains.md#Water)
+- **Cleric Spells**: 1st: [jump](compendium/spells/jump.md); 3rd: [stinking cloud](compendium/spells/stinking-cloud.md); 5th: [black tentacles](compendium/spells/black-tentacles.md)

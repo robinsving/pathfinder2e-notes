@@ -1,19 +1,27 @@
 ---
-title: "Otolmens"
-draft: true
-noteType: ":luggage:"
-aliases: "Otolmens"
-foundryId: Item.IbbfnVDqa7j8LhI2
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/monitor-demigods
+- domain/creation/deity
+- domain/fate/deity
+- domain/knowledge/deity
+- domain/perfection/deity
+aliases: ["Otolmens", "The Universal"]
 ---
+# Otolmens (The Universal) *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 130*  
 
-# Otolmens
+- **Category**: Monitor Demigods
+- **Anathema**: suppress a factual report, ignore facts, misrepresent quantitative data
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait")
 
-The primordial inevitable of machinery, math, and physics, Otolmens the Universal is tasked with keeping the galaxies, stars, planets, and other heavenly bodies moving in their proper orbits. From her observatory in the city-plane of Axis, Otolmens and her myriad axiomite assistants track the motions of these objects on the Material Plane. When an anomaly is discovered, Otolmens dispatches inevitables to correct the problem. A mechanical being with multiple heads and limbs, Otolmens is said to spin like an orrery when in a flurry of activity. Her mathematical precision is revered by engineers and scientists, who form the core of her worship. Most pray to her hoping to receive divine inspiration or to stave off inaccurate calculations, but she may call upon her more powerful worshippers to fight threats to the very planet they inhabit.
+## Devotee benefits
 
-**Edicts** Relentlessly document and interpret data, correct cosmic errors
-
-**Anathema** Suppress a factual report, ignore facts, misrepresent quantitative data
-
-**Areas of Concern** machinery, math, and physics
+- **Divine Ability**: Dexterity or Intelligence
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Crafting
+- **Favored Weapon**: [mace](compendium/equipment/items/mace.md)
+- **Domains**: [creation](compendium/setting/domains.md#Creation), [fate](compendium/setting/domains.md#Fate), [knowledge](compendium/setting/domains.md#Knowledge), [perfection](compendium/setting/domains.md#Perfection)
+- **Cleric Spells**: 1st: [true strike](compendium/spells/true-strike.md); 4th: gravity well; 7th: [reverse gravity](compendium/spells/reverse-gravity.md)

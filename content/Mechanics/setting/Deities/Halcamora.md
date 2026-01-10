@@ -1,17 +1,27 @@
 ---
-title: "Halcamora"
-draft: true
-noteType: ":luggage:"
-aliases: "Halcamora"
-foundryId: Item.UQOzwAgklRqNGLWF
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/empyreal-lords
+- domain/indulgence/deity
+- domain/luck/deity
+- domain/nature/deity
+- domain/swarm/deity
+aliases: ["Halcamora", "Lady of Ripe Bounty"]
 ---
+# Halcamora (Lady of Ripe Bounty) *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 128*  
 
-# Halcamora
+- **Category**: Empyreal Lords
+- **Anathema**: salt or despoil the earth, spread plague or pestilence, carelessly use pesticides
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
-**Halcamora** is an agathion empyreal lord who watches over gardens, parks, and wineries.
+## Devotee benefits
 
-**Edicts** Cultivate gardens, share wine, keep helpful insects, teach others to farm
-
-**Anathema** Salt or despoil the earth, spread plague or pestilence, carelessly use pesticides
+- **Divine Ability**: Constitution or Wisdom
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Nature
+- **Favored Weapon**: [club](compendium/equipment/items/club.md)
+- **Domains**: [indulgence](compendium/setting/domains.md#Indulgence), [luck](compendium/setting/domains.md#Luck), [nature](compendium/setting/domains.md#Nature), [swarm](compendium/setting/domains.md#Swarm)
+- **Cleric Spells**: 1st: [summon plant or fungus](compendium/spells/summon-plant-or-fungus.md); 2nd: [touch of idiocy](compendium/spells/touch-of-idiocy.md); 4th: [speak with plants](compendium/spells/speak-with-plants.md)

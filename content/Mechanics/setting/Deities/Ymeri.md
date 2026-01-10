@@ -1,21 +1,27 @@
 ---
-title: "Ymeri"
-draft: true
-noteType: ":luggage:"
-aliases: "Ymeri"
-foundryId: Item.0GwqDP8jMklfjVgH
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/elemental-lords
+- domain/destruction/deity
+- domain/dust/deity
+- domain/fire/deity
+- domain/zeal/deity
+aliases: ["Ymeri", "Queen of the Inferno"]
 ---
+# Ymeri (Queen of the Inferno) *([NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 128*  
 
-# Ymeri
+- **Category**: Elemental Lords
+- **Anathema**: extinguish destructive blazes, allow yourself to stagnate or lose motivation
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-The elemental lord of fire is Ymeri, Queen of the Inferno, lord of fire, heat, and smoke. The sole ruler of the Plane of Fire, Ymeri governs from her Auroric Palace, taking the form of a six-armed reptilian centaur with burning wings. She has systematically destroyed all record of her birth and true origins, claiming to have always existed, and she wages a never-ending war against the other denizens of the Plane of Fire and against the shaitans of the Plane of Earth.
+## Devotee benefits
 
-Of all the elemental lords, Ymeri has the largest following. Some mephits and most fire elementals revere her, alongside some efreet and a few other creatures of the Plane of Fire, though few salamanders honor her name, and a covert order of efreeti known as the Secret Fire is dedicated to opposing her rule. On Golarion, the Queen of the Inferno is worshipped primarily by cabals of fire wizards, arsonists, and red dragons.
-
-**Edicts** Inspire your lessers with zeal and strategy, be passionate and quick of wit, destroy your foes with fire
-
-**Anathema** Extinguish destructive blazes, allow yourself to stagnate or lose motivation
-
-**Areas of Concern** fire, heat, and smoke
+- **Divine Ability**: Strength or Charisma
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Intimidation
+- **Favored Weapon**: [longsword](compendium/equipment/items/longsword.md)
+- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [dust](compendium/setting/domains.md#Dust), [fire](compendium/setting/domains.md#Fire), [zeal](compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [burning hands](compendium/spells/burning-hands.md); 2nd: summon elemental (fire only); 4th: [wall of fire](compendium/spells/wall-of-fire.md)

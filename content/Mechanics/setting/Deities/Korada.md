@@ -1,21 +1,27 @@
 ---
-title: "Korada"
-draft: true
-noteType: ":luggage:"
-aliases: "Korada"
-foundryId: Item.HSaEnWou4d4XWOyM
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/empyreal-lords
+- domain/change/deity
+- domain/healing/deity
+- domain/magic/deity
+- domain/protection/deity
+aliases: ["Korada", "The Open Hand of Harmony"]
 ---
+# Korada (The Open Hand of Harmony) *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 128*  
 
-# Korada
+- **Category**: Empyreal Lords
+- **Anathema**: cause lethal harm to a creature, deny a repentant creature an opportunity for redemption, ask a retired warrior to fight
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
-Korada, the Open Hand of Harmony, is concerned with foresight, forgiveness, and peace. In particular, he believes that although the tireless fight against wickedness is admirable, the ultimate triumph over evil will come in the form of redemption rather than destruction. Korada's dedication to peace is such that he and his followers refuse to cause harm to their attackers, instead using their martial skills only to defend themselves. Many Koradans seek greater wisdom through study or meditation in hopes of better understanding their foes so as to guide them toward redemption. This dedication to self-awareness, philosophy, and introspection is said to have allowed Korada greater insight into the workings of the universe, granting him the great gift of foresight. Korada rarely acts on his visions, however, believing the struggle that comes with true change is always worthwhile, whether or not such a change is successful.
+## Devotee benefits
 
-The Open Hand of Harmony takes the form of a lithe, athletic man donning simple robes. He is covered in sparse, light-brown fur and has three monkey tails that constantly writhe behind him, much like the dancing flames of a powerful fire. Most of Korada's followers are those who have lived imbalanced lives or faced persistent violence as they seek to find peace in their life and within themselves. Many of the evil individuals redeemed by Koradans soon become followers themselves.
-
-**Edicts** Forgive those who have wronged you, embrace a peaceful mindset, seek and allow redemption
-
-**Anathema** Cause lethal harm to a creature, deny a repentant creature an opportunity for redemption, ask a retired warrior to fight
-
-**Areas of Concern** foresight, forgiveness, and peace
+- **Divine Ability**: Wisdom or Charisma
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Diplomacy
+- **Favored Weapon**: fist
+- **Domains**: [change](compendium/setting/domains.md#Change), [healing](compendium/setting/domains.md#Healing), [magic](compendium/setting/domains.md#Magic), [protection](compendium/setting/domains.md#Protection)
+- **Cleric Spells**: 1st: [soothe](compendium/spells/soothe.md); 3rd: [slow](compendium/spells/slow.md); 4th: [resilient sphere](compendium/spells/resilient-sphere.md)

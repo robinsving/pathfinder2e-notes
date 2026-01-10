@@ -1,17 +1,27 @@
 ---
-title: "Dranngvit"
-draft: true
-noteType: ":luggage:"
-aliases: "Dranngvit"
-foundryId: Item.7pWIBuIebDovYtnh
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/dwarven-gods
+- domain/knowledge/deity
+- domain/might/deity
+- domain/travel/deity
+- domain/vigil/deity
+aliases: ["Dranngvit", "The Debt Minder"]
 ---
+# Dranngvit (The Debt Minder) *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 126*  
 
-# Dranngvit
+- **Category**: Dwarven Gods
+- **Anathema**: allow a slight to go unrecognized, avoid repaying a debt, force others into debts you know are unpayable
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
-Dranngvit is Torag's half-sister although some legends claim she was supposed to have been Torag's wife but lost out to Folgrit. Dranngvit is a dwarven deity but is seen as a necessary evil rather than a beloved deity. Most pay her worship only when they know they have wronged someone. The only dwarves who choose her as their actually patron deity are normally those consumed by hatred and nothing else. Dranngvit may be the mother of Kols, but even if she is, Folgrit still treats Kols like a son.
+## Devotee benefits
 
-**Edicts** Help reclaim just debts, seek appropriate vengeance against transgressions
-
-**Anathema** Allow a slight to go unrecognized, avoid repaying a debt, force others into debts you know are unpayable
+- **Divine Ability**: Constitution or Wisdom
+- **Divine Font**: [heal](compendium/spells/heal.md) or [harm](compendium/spells/harm.md)
+- **Divine Skill**: Intimidation
+- **Favored Weapon**: [light pick](compendium/equipment/items/light-pick.md)
+- **Domains**: [knowledge](compendium/setting/domains.md#Knowledge), [might](compendium/setting/domains.md#Might), [travel](compendium/setting/domains.md#Travel), [vigil](compendium/setting/domains.md#Vigil)
+- **Cleric Spells**: 1st: [longstrider](compendium/spells/longstrider.md); 2nd: [knock](compendium/spells/knock.md); 5th: [passwall](compendium/spells/passwall.md)

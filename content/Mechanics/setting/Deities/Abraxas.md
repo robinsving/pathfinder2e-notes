@@ -1,19 +1,27 @@
 ---
-title: "Abraxas"
-draft: true
-noteType: ":luggage:"
-aliases: "Abraxas"
-foundryId: Item.ZDb9lghqfqDjtFrl
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/demon-lords
+- domain/destruction/deity
+- domain/knowledge/deity
+- domain/magic/deity
+- domain/wyrmkin/deity
+aliases: ["Abraxas", "Master of the Final Incantation"]
 ---
+# Abraxas (Master of the Final Incantation) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 124*  
 
-# Abraxas
+- **Category**: Demon Lords
+- **Anathema**: destroy forbidden lore, reveal the entirety of a secret
+- **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-Abraxas, the Master of the Final Incantation, is the demon lord of forbidden lore, magic, and snakes. Abraxas has an encyclopedic knowledge of magical formulas and destructive secrets, favoring those that inflict suffering and destruction. His Final Incantation is a word of power that can unravel the mightiest of spells and unmake even artifacts. He takes the form of a viper-legged humanoid with a fanged, deformed bird's head. Abraxas's cults are most prevalent among the drow of Golarion, but small circles devoted to him can be found in most major cities on the surface as well.
+## Devotee benefits
 
-**Edicts** Learn and hoard forbidden magic, steal secrets from others
-
-**Anathema** Destroy forbidden lore, reveal the entirety of a secret
-
-**Areas of Concern** forbidden lore, magic, and snakes
+- **Divine Ability**: Intelligence or Wisdom
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Arcana
+- **Favored Weapon**: [whip](compendium/equipment/items/whip.md)
+- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [knowledge](compendium/setting/domains.md#Knowledge), [magic](compendium/setting/domains.md#Magic), [wyrmkin](compendium/setting/domains.md#Wyrmkin)
+- **Cleric Spells**: 1st: [share lore](compendium/spells/share-lore-logm.md); 2nd: [spectral hand](compendium/spells/spectral-hand.md); 3rd: [hypercognition](compendium/spells/hypercognition.md); 4th: [reflective scales](compendium/spells/reflective-scales-logm.md); 5th: [black tentacles](compendium/spells/black-tentacles.md); 6th: [feeblemind](compendium/spells/feeblemind.md); 7th: [spell turning](compendium/spells/spell-turning.md); 8th: [unrelenting observation](compendium/spells/unrelenting-observation.md); 9th: [disjunction](compendium/spells/disjunction.md)

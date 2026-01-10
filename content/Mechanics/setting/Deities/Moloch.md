@@ -1,17 +1,27 @@
 ---
-title: "Moloch"
-draft: true
-noteType: ":luggage:"
-aliases: "Moloch"
-foundryId: Item.w77guiLaIvIb8lYn
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/archdevils
+- domain/destruction/deity
+- domain/duty/deity
+- domain/fire/deity
+- domain/might/deity
+aliases: ["Moloch", "The Ashen Bull"]
 ---
+# Moloch (The Ashen Bull) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 75*  
 
-# Moloch
+- **Category**: Archdevils
+- **Anathema**: defy a military superior, flee in battle (unless ordered to do so), lose your combat edge due to your vices
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
-The general of Hell's armies, Moloch, embodies infernal discipline and incomparable destructive power. Across his ream of Malebolge, the sixth layer of Hell, the Ashen Bull trains countless legions of devils to wage unending war. He not only teaches obedience, but demands it, punishing even the slightest misstep or insurrection with immediate, fiery retribution. Despite his harsh nature, Moloch is the most widely worshipped of the archdevils among mortals, as he is the most likely to answer supplicants' mundane pleas. In exchange, he asks only their souls to add to his endless armies-a price many are willing to pay.
+## Devotee benefits
 
-**Edicts** Spread Hell's order through war, convert communities to sole worship of Moloch, sacrifice creatures in fire
-
-**Anathema** Defy a military superior, flee in battle (unless ordered to do so), lose your combat edge due to your vices
+- **Divine Ability**: Strength or Constitution
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Athletics
+- **Favored Weapon**: [whip](compendium/equipment/items/whip.md)
+- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [duty](compendium/setting/domains.md#Duty), [fire](compendium/setting/domains.md#Fire), [might](compendium/setting/domains.md#Might)
+- **Cleric Spells**: 1st: [burning hands](compendium/spells/burning-hands.md); 5th: [acid storm](compendium/spells/acid-storm-logm.md); 7th: [fiery body](compendium/spells/fiery-body.md)

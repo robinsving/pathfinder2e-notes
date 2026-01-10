@@ -1,21 +1,28 @@
 ---
-title: "Seafarers' Hope"
-draft: true
-noteType: ":luggage:"
-aliases: "Seafarers' Hope"
-foundryId: Item.n41BJT29ZTyL0RPc
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/lotg
+- deity/pantheon
+- domain/nature/deity
+- domain/travel/deity
+- domain/trickery/deity
+- domain/water/deity
+aliases: ["Seafarers' Hope"]
 ---
+# Seafarers' Hope *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
+*Source: Lost Omens: Travel Guide p. 94*  
 
-# Seafarers' Hope
+- **Category**: Pantheon
+- **Anathema**: put off travel until there are calm waters, refuse aid to those stranded at sea, stay too long on land
+- **Areas of Concern**: coastlines, the sea, seafarers, storms
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
-This pantheon originated in the Shackles for perhaps obvious reasons, but its worshippers now spread along most every coastline in the Inner Sea, so don't imagine that this pantheon is just for pirates or the less savory types in the import business-though it certainly appeals to them, too. The flashier deities in this pantheon are the better known, for who doesn't associate Besmara, the Pirate Queen, with her swashbuckling antics and Hei Feng, the Duke of Thunder, with the storms survivors still speak of years later? Yet the duality of Gozreh and the sustainability and care of Ylimancha round out this pantheon. The Wind and the Waves and the Harborwing strive for safety and balance between air, land, and sea, and it's for their care that many a frightened, stormtossed seafarer prays during a perilous journey. Followers of this pantheon aren't given to regular worship unless to utter a simple prayer or recitation on the bow of a ship at sea. Instead, the faithful find themselves most pious when the winds, waves, and thunder are in full force, threatening the survival of the ship, or when they pull into harbor after safely enduring a storm. At such times, joyous celebrations of dancing, singing, and pouring out libations to their gods mark their worship. Faithful followers are also committed to rescuing those at sea and have been known to sail into terrifying storms in search of the stranded.
+## Devotee benefits
 
-**Edicts** give thanks for safe passage, respect the sea, view all storms with optimism and perseverance
-
-**Anathema** put off travel until there are calm waters, refuse aid to those stranded at sea, stay too long on land
-
-**Areas of Concern** coastlines, the sea, seafarers, storms
-
-**Pantheon Members** [[Besmara]], [[Gozreh]], [[Hei Feng]], [[Ylimancha]]
+- **Divine Ability**: Constitution or Wisdom
+- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Skill**: Survival
+- **Favored Weapon**: [rapier](compendium/equipment/items/rapier.md)
+- **Domains**: [nature](compendium/setting/domains.md#Nature), [travel](compendium/setting/domains.md#Travel), [trickery](compendium/setting/domains.md#Trickery), [water](compendium/setting/domains.md#Water)
+- **Cleric Spells**: 1st: [gust of wind](compendium/spells/gust-of-wind.md); 3rd: [feet to fins](compendium/spells/feet-to-fins.md); 5th: [control water](compendium/spells/control-water.md)

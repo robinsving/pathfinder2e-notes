@@ -1,17 +1,27 @@
 ---
-title: "Hanspur"
-draft: true
-noteType: ":luggage:"
-aliases: "Hanspur"
-foundryId: Item.yd2ISmJEZtx5Y7gU
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/other-gods
+- domain/death/deity
+- domain/travel/deity
+- domain/water/deity
+- domain/wealth/deity
+aliases: ["Hanspur", "The Water Rat"]
 ---
+# Hanspur (The Water Rat) *([CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 130*  
 
-# Hanspur
+- **Category**: Other Gods
+- **Anathema**: impose needless laws or restrictions on others, aid daemons or the Horsemen
+- **Follower Alignments**: [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-**Hanspur** is a demigod of the waterways worshiped primarily in the River Kingdoms. Hanspur is the god of the watery domains of the Sellen River and considers himself lord of all who travel his domain. As a travel god, his shrines always lie just outside the town gates. Despite this, he is still paid at least lip service by the peoples of the River Kingdoms, as he smites those who displease him by sinking their boats and flooding their lands. Hanspur considers dams that completely block a river to be unnatural.
+## Devotee benefits
 
-**Edicts** Learn how to live off the river, guard river travelers from unnatural hazards, save others from drowning
-
-**Anathema** Impose needless laws or restrictions on others, aid daemons or the Horsemen
+- **Divine Ability**: Strength or Dexterity
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Athletics
+- **Favored Weapon**: [trident](compendium/equipment/items/trident.md)
+- **Domains**: [death](compendium/setting/domains.md#Death), [travel](compendium/setting/domains.md#Travel), [water](compendium/setting/domains.md#Water), [wealth](compendium/setting/domains.md#Wealth)
+- **Cleric Spells**: 1st: [hydraulic push](compendium/spells/hydraulic-push.md); 2nd: [aqueous orb](compendium/spells/aqueous-orb-apg.md); 4th: [solid fog](compendium/spells/solid-fog.md)

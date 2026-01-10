@@ -1,19 +1,27 @@
 ---
-title: "Narriseminek"
-draft: true
-noteType: ":luggage:"
-aliases: "Narriseminek"
-foundryId: Item.jEymnepOD7KOOdCJ
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/monitor-demigods
+- domain/delirium/deity
+- domain/freedom/deity
+- domain/knowledge/deity
+- domain/perfection/deity
+aliases: ["Narriseminek", "The Crownless, the Maker of Kings"]
 ---
+# Narriseminek (The Crownless, the Maker of Kings) *([CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 130*  
 
-# Narriseminek
+- **Category**: Monitor Demigods
+- **Anathema**: refuse to speak to a keketar, eschew a challenge by turning down a promotion or an advancement
+- **Follower Alignments**: [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
-Called the Crownless and the Maker of Kings, Narriseminek often appears as a protean with a scar around their pate, as if left by a burning crown. Their true form, though similar, is rarely seen: an iridescent and golden protean with a halo of burning eyes but empty eye sockets. The protean lord of ascendance, keketars, and revelations rarely interacts with non-proteans, but to their protean worshippers, they offer exalted transformations and revelations that can change a being's entire outlook. Worshippers of Narriseminek, both mortal and protean, spend their time divining the future and using magic to transform their bodies-a practice they also extend to any other willing creatures who ask. Their revelations take the form of patterns emerging in otherwise random events; Narriseminek's followers reject astrology and other forms of divination based on predictable cycles.
+## Devotee benefits
 
-**Edicts** Divine the future, transform the bodies of willing creatures, rebel against organized structures
-
-**Anathema** Refuse to speak to a keketar, eschew a challenge by turning down a promotion or an advancement
-
-**Areas of Concern** ascendance, keketars, and revelations
+- **Divine Ability**: Dexterity or Wisdom
+- **Divine Font**: [heal](compendium/spells/heal.md) or [harm](compendium/spells/harm.md)
+- **Divine Skill**: Occultism
+- **Favored Weapon**: [hatchet](compendium/equipment/items/hatchet.md)
+- **Domains**: [delirium](compendium/setting/domains.md#Delirium), [freedom](compendium/setting/domains.md#Freedom), [knowledge](compendium/setting/domains.md#Knowledge), [perfection](compendium/setting/domains.md#Perfection)
+- **Cleric Spells**: 1st: [mindlink](compendium/spells/mindlink.md); 4th: [confusion](compendium/spells/confusion.md); 5th: [synesthesia](compendium/spells/synesthesia.md)

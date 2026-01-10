@@ -1,21 +1,27 @@
 ---
-title: "Black Butterfly"
-draft: true
-noteType: ":luggage:"
-aliases: "Black Butterfly"
-foundryId: Item.ONPRpsmcr1pkApZ8
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/empyreal-lords
+- domain/freedom/deity
+- domain/secrecy/deity
+- domain/star/deity
+- domain/void/deity
+aliases: ["Black Butterfly", "The Silence Between"]
 ---
+# Black Butterfly (The Silence Between) *([CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 128*  
 
-# Black Butterfly
+- **Category**: Empyreal Lords
+- **Anathema**: disrupt another's meditation, interrupt tranquil moments, play noisy or discordant music
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
-The Silence Between flutters among and between the stars, representing distance, silence, and space. Often called Desna's Shadow, the Black Butterfly is sometimes believed to be an aspect of Desna that has broken off and taken on its own life; her interest in distance and space certainly reflects Desna's love of travel. The Black Butterfly finds the silence of the sea of stars useful for introspection and learning about oneself. Those who follow her take opportunities when they can to sit in silent meditation, in zones of silence and darkness when possible. Travel across large distances offers plenty to think about and contemplate, and the Black Butterfly encourages such journeys. She hates all evil, but she truly despises the powerful beings of evil that populate the Dark Tapestry, and her followers are expected to fight these beings and their followers without mercy.
+## Devotee benefits
 
-The Silence Between manifests as the silhouette of a woman with butterfly wings, and white hair and eyes. Her wings contain a shadow-or reflection-of all of the Dark Tapestry and everything within it. Parted lovers, the isolated, the introverted, those who have sworn vows of silence or don't communicate verbally, stargazers, explorers, and the melancholy are all found among the followers of the Black Butterfly.
-
-**Edicts** Study the stars, notice moments of silence, perform anonymous acts of kindness
-
-**Anathema** Disrupt another's meditation, interrupt tranquil moments, play noisy or discordant music
-
-**Areas of Concern** distance, silence, and space
+- **Divine Ability**: Dexterity or Wisdom
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Stealth
+- **Favored Weapon**: [starknife](compendium/equipment/items/starknife.md)
+- **Domains**: [freedom](compendium/setting/domains.md#Freedom), [secrecy](compendium/setting/domains.md#Secrecy), [star](compendium/setting/domains.md#Star), [void](compendium/setting/domains.md#Void)
+- **Cleric Spells**: 1st: [penumbral shroud](compendium/spells/penumbral-shroud-logm.md); 2nd: [blur](compendium/spells/blur.md); 4th: [blink](compendium/spells/blink.md)

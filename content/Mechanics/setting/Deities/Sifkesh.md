@@ -1,15 +1,27 @@
 ---
-title: "Sifkesh"
-draft: true
-noteType: ":luggage:"
-aliases: "Sifkesh"
-foundryId: Item.4qMBgBI2gDq9378c
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/demon-lords
+- domain/nightmares/deity
+- domain/pain/deity
+- domain/sorrow/deity
+- domain/trickery/deity
+aliases: ["Sifkesh", "The Whispered Doubt"]
 ---
+# Sifkesh (The Whispered Doubt) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 126*  
 
-# Sifkesh
+- **Category**: Demon Lords
+- **Anathema**: spread hope, offer forgiveness, sincerely honor or call upon another god
+- **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-**Edicts** Spread doubt among the faithful, ruin the reputation of religions, provoke wrongdoers to suicide instead of allowing for redemption
+## Devotee benefits
 
-**Anathema** Spread hope, offer forgiveness, sincerely honor or call upon another god
+- **Divine Ability**: Wisdom or Charisma
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Deception
+- **Favored Weapon**: war razor
+- **Domains**: [nightmares](compendium/setting/domains.md#Nightmares), [pain](compendium/setting/domains.md#Pain), [sorrow](compendium/setting/domains.md#Sorrow), [trickery](compendium/setting/domains.md#Trickery)
+- **Cleric Spells**: 1st: [ill omen](compendium/spells/ill-omen-logm.md); 4th: [crushing despair](compendium/spells/crushing-despair.md); 5th: [subconscious suggestion](compendium/spells/subconscious-suggestion.md)

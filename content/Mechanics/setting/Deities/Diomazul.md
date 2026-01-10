@@ -1,21 +1,40 @@
 ---
-title: "Diomazul"
-draft: true
-noteType: ":luggage:"
-aliases: "Diomazul"
-foundryId: Item.tYQ9oIkhDGphJI2y
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/vudrani-gods
+- domain/destruction/deity
+- domain/earth/deity
+- domain/water/deity
+- domain/zeal/deity
+- trait/forceful
+- trait/reach-15-feet
+- trait/versatile-p
+aliases: ["Diomazul", "The Serpent of Eighty Blades"]
 ---
+# Diomazul (The Serpent of Eighty Blades) *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 132*  
 
-# Diomazul
+- **Category**: Vudrani Gods
+- **Anathema**: provoke a fight, give mercy to anyone who provokes a fight with you
+- **Areas of Concern**: austerity, retribution, war
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
-An obscure Vudran god of war, Diomazul, the Serpent of Eighty Blades, is a patron of ascetic meditation, bitter renewals, and inordinate retribution. Devotees and theologians speak of Diomazul as having the likeness of a massive, hooded cobra in serene slumber—80 arms folded in stillness comprise this hood, each hand grasping a sheathed blade. When roused to violence by enemies, Diomazul awakens, retaining his tranquil countenance, but his hood flares in a bristle of steel as he draws all 80 blades to welcome his newfound foes and offer a gift of their unmaking. Once the Serpent of Eighty Blades has concluded evicting the life from his enemies, he entwines his body around their remains, crushing their bones into the earth and scattering their blood into the waters, burying all spoor of their existence under his immense form.
+## Devotee benefits
 
-As these depictions might suggest, Diomazul is a deity of dualistic, seemingly contradictory impulses who unifies the dichotomies of restraint and devastation within his being. Diomazul is a teacher of forbearance and detached contemplation, a paragon of indifference to personal contentment or suffering who meditates upon the universe, sloughing off whatever pain it can visit upon oneself. At the same time, Diomazul also embodies an endless, pitiless resolve to visit frightful destruction upon those who set themselves in opposition to him; once stirred from his reverie by insult or injury, vast and swift reprisal are sure to follow.
+- **Divine Ability**: Strength or Dexterity
+- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Skill**: Athletics
+- **Favored Weapon**: [scimitar](compendium/equipment/items/scimitar.md)
+- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [earth](compendium/setting/domains.md#Earth), [water](compendium/setting/domains.md#Water), [zeal](compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [phantom pain](compendium/spells/phantom-pain.md); 2nd: [slough skin](compendium/spells/slough-skin-logm.md); 4th: [weapon storm](compendium/spells/weapon-storm.md)
 
-In many ways, the Serpent of Eighty Blades is exactly like his name suggests, a coiled being of muscle and killing intent in absolute control of razor-sharp steel. Diomazul's blades split time into two unequal halves for his enemies: the impermanence of existence before meeting him and the decidedly much shorter impermanence of existence after raising his ire.
+```ad-embed-avatar
+title: [Avatar](compendium/spells/avatar.md) of Diomazul
 
-**Edicts** Remain celibate and detached from worldly pleasures, meditate, utterly destroy your enemies, erase all traces of defeated foes
-
-**Anathema** Provoke a fight, give mercy to anyone who provokes a fight with you
+- **Speed**: Speed 70 feet, burrow 40 feet, swim 40 feet
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") eighty-blade war dance (, [forceful](rules/traits/forceful.md "Forceful Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <P>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d8+6` slashing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") principle of retribution (damages only creatures who have previously attacked you), **Damage** `6d6+3`  
+```

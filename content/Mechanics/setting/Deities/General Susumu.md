@@ -1,17 +1,27 @@
 ---
-title: "General Susumu"
-draft: true
-noteType: ":luggage:"
-aliases: "General Susumu"
-foundryId: Item.f4XTxEGR6tan6lyz
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/tian-gods
+- domain/confidence/deity
+- domain/destruction/deity
+- domain/might/deity
+- domain/zeal/deity
+aliases: ["General Susumu", "The Black Daimyo"]
 ---
+# General Susumu (The Black Daimyo) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 132*  
 
-# General Susumu
+- **Category**: Tian Gods
+- **Anathema**: cower from fights, refuse a challenge from an equal, mistreat your weapons, abuse your mount
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
-**General Susumu,** also known as the Black Daimyo, is the Tian Xia patron deity of samurai who are interested more in glory and battle than honor and heroism. He is the brother of Shizuru, and the two seldom see eye to eye. His unholy symbol is a black winged horse, and he is worshiped primarily in Chu Ye, Hongal, Kaoling, Minkai, Shokuro, and Xa Hoi.
+## Devotee benefits
 
-**Edicts** Seek glory in battle, loudly proclaim your victories, protect your possessions and strongholds
-
-**Anathema** Cower from fights, refuse a challenge from an equal, mistreat your weapons, abuse your mount
+- **Divine Ability**: Strength or Dexterity
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Athletics
+- **Favored Weapon**: [longbow](compendium/equipment/items/longbow.md)
+- **Domains**: [confidence](compendium/setting/domains.md#Confidence), [destruction](compendium/setting/domains.md#Destruction), [might](compendium/setting/domains.md#Might), [zeal](compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [true strike](compendium/spells/true-strike.md); 2nd: [phantom steed](compendium/spells/phantom-steed.md); 3rd: [wall of wind](compendium/spells/wall-of-wind.md)

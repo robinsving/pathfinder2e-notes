@@ -1,19 +1,27 @@
 ---
-title: "Ydajisk"
-draft: true
-noteType: ":luggage:"
-aliases: "Ydajisk"
-foundryId: Item.MzZxCwPdhiNDYYY8
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/monitor-demigods
+- domain/change/deity
+- domain/glyph/deity
+- domain/knowledge/deity
+- domain/trickery/deity
+aliases: ["Ydajisk", "Mother of Tongues"]
 ---
+# Ydajisk (Mother of Tongues) *([CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 130*  
 
-# Ydajisk
+- **Category**: Monitor Demigods
+- **Anathema**: ban or discourage a language, explain a secret language or slang to outsiders, destroy literary works
+- **Follower Alignments**: [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-The protean lord of language evolution, lost words, and slang, Ydajisk manifests as a protean with six arms and a cobra's hood, surrounded by a cloud of drifting sounds, symbols, shapes, and myriad other sensory experiences that shift endlessly in and out of existence. Closer inspection reveals that their body is made from interlacing strands of poetic protean script. Ydajisk is also called the Mother of Tongues, though like all proteans, their gender changes as they will. Followers of Ydajisk are wanderers, reviving dead languages from ancient ruins, chronicling the dying tongues of cultures in decline, and discovering or inventing new words. All such knowledge acquired by agents of the Mother of Tongues passes into Ydajisk's realm, the Library of Stolen Words, where it is transcribed into books or stored in magical containers, alongside scrolls and tomes considered long lost by mortal scholars.
+## Devotee benefits
 
-**Edicts** Create using words, chronicle languages and prevent them from dying, help language evolve
-
-**Anathema** Ban or discourage a language, explain a secret language or slang to outsiders, destroy literary works
-
-**Areas of Concern** language evolution, lost words, and slang
+- **Divine Ability**: Intelligence or Charisma
+- **Divine Font**: [heal](compendium/spells/heal.md) or [harm](compendium/spells/harm.md)
+- **Divine Skill**: Society
+- **Favored Weapon**: jaws or [greatclub](compendium/equipment/items/greatclub.md)
+- **Domains**: [change](compendium/setting/domains.md#Change), [glyph](compendium/setting/domains.md#Glyph), [knowledge](compendium/setting/domains.md#Knowledge), [trickery](compendium/setting/domains.md#Trickery)
+- **Cleric Spells**: 1st: [message rune](compendium/spells/message-rune-logm.md); 2nd: [blistering invective](compendium/spells/blistering-invective-apg.md); 4th: [glibness](compendium/spells/glibness.md)

@@ -1,23 +1,44 @@
 ---
-title: "Angazhan"
-draft: true
-noteType: ":luggage:"
-aliases: "Angazhan"
-foundryId: Item.4srplqMmoe2J4zbR
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/demon-lords
+- domain/destruction/deity
+- domain/indulgence/deity
+- domain/might/deity
+- domain/nature/deity
+- domain/tyranny/deity
+- domain/zeal/deity
+- trait/agile
+- trait/reach-15-feet
+aliases: ["Angazhan", "The Ravenous King"]
 ---
+# Angazhan (The Ravenous King) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 124*  
 
-# Angazhan
+- **Category**: Demon Lords
+- **Anathema**: cower from fights, allow yourself to be [resurrected](compendium/spells/rituals/resurrect.md) instead of [reincarnated](compendium/spells/rituals/reincarnate-apg.md)
+- **Areas of Concern**: apes, jungles, tyrants
+- **Follower Alignments**: [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-Angazhan is a name well known in the Mwangi Expanse, and for good reason. Called the Ravenous King and Demon Lord of Beasts, he appears as an enormous and terrifying red-furred ape with six long fingers on each hand, massive and clawed. His red eyes, twisted horns, and viciously sharp fangs give him a demonic appearance. His followers range from gnolls to charau-kas to nalfeshnee demons that number in the thousands.
+## Devotee benefits
 
-Angazhan has astounding presence and influence, but that influence is rivaled by his raw power. He is skilled enough with weapons, but prefers to use his own abilities-his powerful fists, lethal fangs, sharp horns, and deadly tail. His terrible grasp extends beyond life into death, as well. Occasionally, those slain in combat by Angazhan's minions are reincarnated forcefully into an ape-like creature in the service of the Ravenous King. This curse causes the victim to serve eternally, and only upon death is there a chance for their soul to be retrieved before it slips into the Boneyard, to be sent on and suffer a never-ending torment in the Abyss.
+- **Divine Ability**: Strength or Constitution
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Athletics
+- **Favored Weapon**: fist, [spear](compendium/equipment/items/spear.md)
+- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [might](compendium/setting/domains.md#Might), [nature](compendium/setting/domains.md#Nature), [tyranny](compendium/setting/domains.md#Tyranny)
+- **Alternate Domains**: [indulgence](compendium/setting/domains.md#Indulgence), [zeal](compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [magic fang](compendium/spells/magic-fang.md); 3rd: animal form (ape only); 5th: [moon frenzy](compendium/spells/moon-frenzy.md)
 
-A pledge to Angazhan is a commitment to acquiring power. Angazhan encourages followers to destroy all who oppose them with relentless force, to dominate until nothing is left to challenge, and to treat obstacles as something to be crushed with swiftness. Those who fail these commands are quick to be cast aside. This strength lures dangerous figures, thievish creatures, and terrifying beings. Followers share less of a bond and more of an understanding that in the end they serve a lord whose dominance can't be rivaled.
+When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Angazhan gains the following additional abilities.
 
-Angazhan is the patron of Usaro, a feared and hated charau-ka city in the Mwangi Expanse. A representative of Angazhan, the Gorilla King, once ruled Usrao, but was recently killed, throwing the city into chaos.
+```ad-embed-avatar
+title: [Avatar](compendium/spells/avatar.md) of Angazhan
 
-**Edicts** Commit acts of brutal violence, test yourself against nature, make animals more dangerous
-
-**Anathema** Cower from fights, allow yourself to be resurrected instead of reincarnated
+- **Speed**: Speed 60 feet, climb 60 feet, swim 50 feet
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") fist (, [agile](rules/traits/agile.md "Agile Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` bludgeoning 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Bellowing Roar (), **Damage** `6d6+3` mental 
+```

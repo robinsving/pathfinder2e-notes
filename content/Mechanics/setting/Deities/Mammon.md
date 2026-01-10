@@ -1,17 +1,27 @@
 ---
-title: "Mammon"
-draft: true
-noteType: ":luggage:"
-aliases: "Mammon"
-foundryId: Item.cPvyM6LXjSY9YhxA
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/archdevils
+- domain/ambition/deity
+- domain/creation/deity
+- domain/toil/deity
+- domain/wealth/deity
+aliases: ["Mammon", "The Argent Prince"]
 ---
+# Mammon (The Argent Prince) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 75*  
 
-# Mammon
+- **Category**: Archdevils
+- **Anathema**: leave the cult of Mammon, allow those who steal from you to go unpunished
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
-Mammon, the Grasping One, oversees the vast treasuries of Hell secured in the vaults of Erebus, Hell's third layer. As his angelic form was slain, he has no form of his own, so instead he infuses the very wealth that he guards, taking forms composed of riches and extending his senses out through each nigh-uncountable coin-he knows well the exact sum held in Hell's vaults and the greatest treasures among them. His worshippers are the greedy rich and poor alike, and he often arranges for such mortals to stumble across a "lucky copper" through which he whispers encouragements for the bearer to indulge in greater and greater vices, eventually claiming their soul as his own.
+## Devotee benefits
 
-**Edicts** Gain financial control over others, gather new wealth, count your riches
-
-**Anathema** Leave the cult of Mammon, allow those who steal from you to go unpunished
+- **Divine Ability**: Wisdom or Charisma
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Thievery
+- **Favored Weapon**: [spear](compendium/equipment/items/spear.md)
+- **Domains**: [ambition](compendium/setting/domains.md#Ambition), [creation](compendium/setting/domains.md#Creation), [toil](compendium/setting/domains.md#Toil), [wealth](compendium/setting/domains.md#Wealth)
+- **Cleric Spells**: 1st: [shattering gem](compendium/spells/shattering-gem-logm.md); 4th: [creation](compendium/spells/creation.md); 7th: [magnificent mansion](compendium/spells/magnificent-mansion.md)

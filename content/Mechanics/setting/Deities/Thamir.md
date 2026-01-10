@@ -1,15 +1,27 @@
 ---
-title: "Thamir"
-draft: true
-noteType: ":luggage:"
-aliases: "Thamir"
-foundryId: Item.A36CuwiHEEnE7DLh
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/other-gods
+- domain/ambition/deity
+- domain/confidence/deity
+- domain/trickery/deity
+- domain/wealth/deity
+aliases: ["Thamir", "The Silent Blade"]
 ---
+# Thamir (The Silent Blade) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 130*  
 
-# Thamir
+- **Category**: Other Gods
+- **Anathema**: steal from the poor, beg for help or mercy from a fellow worshipper of Thamir
+- **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-**Edicts** Seize any opportunity that would benefit you, solve your problems With Violence, hide your true intentions
+## Devotee benefits
 
-**Anathema** Steal from the poor, beg for help or mercy from a fellow worshipper of Thamir
+- **Divine Ability**: Dexterity or Charisma
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Thievery
+- **Favored Weapon**: [dagger](compendium/equipment/items/dagger.md)
+- **Domains**: [ambition](compendium/setting/domains.md#Ambition), [confidence](compendium/setting/domains.md#Confidence), [trickery](compendium/setting/domains.md#Trickery), [wealth](compendium/setting/domains.md#Wealth)
+- **Cleric Spells**: 1st: [penumbral shroud](compendium/spells/penumbral-shroud-logm.md); 3rd: [invisibility sphere](compendium/spells/invisibility-sphere.md); 6th: [mislead](compendium/spells/mislead.md)

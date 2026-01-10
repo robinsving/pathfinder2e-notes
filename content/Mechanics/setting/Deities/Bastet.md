@@ -1,17 +1,27 @@
 ---
-title: "Bastet"
-draft: true
-noteType: ":luggage:"
-aliases: "Bastet"
-foundryId: Item.OJdLh33D1iAKpbWS
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/ancient-osirian-gods
+- domain/nature/deity
+- domain/passion/deity
+- domain/protection/deity
+- domain/trickery/deity
+aliases: ["Bastet", "The Sly Enchantress"]
 ---
+# Bastet (The Sly Enchantress) *([CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 124*  
 
-# Bastet
+- **Category**: Ancient Osirian Gods
+- **Anathema**: kill or abuse a house cat, abandon a child, choose to marry
+- **Follower Alignments**: [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
-Bastet is the patron of rogues and bards. She is particularly popular among women, and most of her clerics are female. They usually keep cats as pets, and when these cats die, they are mummified and buried with their owners.
+## Devotee benefits
 
-**Edicts** Learn secrets, tempt others into revelry, kill harmful snakes and evil spirits, heal diseases
-
-**Anathema** Kill or abuse a house cat, abandon a child, choose to marry
+- **Divine Ability**: Intelligence or Charisma
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Deception
+- **Favored Weapon**: claw or tekko-kagi
+- **Domains**: [nature](compendium/setting/domains.md#Nature), [passion](compendium/setting/domains.md#Passion), [protection](compendium/setting/domains.md#Protection), [trickery](compendium/setting/domains.md#Trickery)
+- **Cleric Spells**: 1st: pest form (cats only); 3rd: [animal vision](compendium/spells/animal-vision.md); 4th: [private sanctum](compendium/spells/private-sanctum.md)

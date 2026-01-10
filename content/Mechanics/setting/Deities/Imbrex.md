@@ -1,19 +1,27 @@
 ---
-title: "Imbrex"
-draft: true
-noteType: ":luggage:"
-aliases: "Imbrex"
-foundryId: Item.KpufYgqyvTumaOZP
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/eldest
+- domain/dreams/deity
+- domain/earth/deity
+- domain/family/deity
+- domain/might/deity
+aliases: ["Imbrex", "The Twins"]
 ---
+# Imbrex (The Twins) *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 78*  
 
-# Imbrex
+- **Category**: Eldest
+- **Anathema**: offend Imbrex
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
-Known as the Twins, Imbrex is the mysterious Eldest of twins, statues, and endings. Appearing as two immense stone statues hundreds of feet tall holding hands and looking outward, Imbrex neither moves nor speaks. The Eldest sometimes communicates with telepathic utterances that rend minds or deliver psychic enlightenment, but they more often express their will through startlingly realistic dreams that sometimes manifest into strange life. An entire city named Anophaeus sprawls at Imbrex's four feet, populated by jaded urbanites, eager aspirants, and prowling dream-creatures made real. An unusually high proportion of those born in Anophaeu are twins, and twins are also common among Imbrex's worshippers. Although Imbrex appears timeless in form, they are intrigued by dramatic endings, particularly apocalypses, and have foreknowledge of disasters to come.
+## Devotee benefits
 
-**Edicts** Pursue your own goals, bring things to their proper ending, split things in half or otherwise create pairs
-
-**Anathema** Offend Imbrex
-
-**Areas of Concern** twins, statues, and endings
+- **Divine Ability**: Constitution or Wisdom
+- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Skill**: Occultism
+- **Favored Weapon**: [war flail](compendium/equipment/items/war-flail.md)
+- **Domains**: [dreams](compendium/setting/domains.md#Dreams), [earth](compendium/setting/domains.md#Earth), [family](compendium/setting/domains.md#Family), [might](compendium/setting/domains.md#Might)
+- **Cleric Spells**: 1st: [mindlink](compendium/spells/mindlink.md); 2nd: [mirror image](compendium/spells/mirror-image.md); 4th: [stoneskin](compendium/spells/stoneskin.md)

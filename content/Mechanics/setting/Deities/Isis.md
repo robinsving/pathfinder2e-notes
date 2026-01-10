@@ -1,17 +1,27 @@
 ---
-title: "Isis"
-draft: true
-noteType: ":luggage:"
-aliases: "Isis"
-foundryId: Item.5PBU3sdjyumJlmoe
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/ancient-osirian-gods
+- domain/family/deity
+- domain/healing/deity
+- domain/magic/deity
+- domain/passion/deity
+aliases: ["Isis", "Queen of Miracles"]
 ---
+# Isis (Queen of Miracles) *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 124*  
 
-# Isis
+- **Category**: Ancient Osirian Gods
+- **Anathema**: Reveal sacred rites to the uninitiated, betray your children or your lover, discriminate based on social status
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
-**Isis** is a member of the pantheon often worshiped in Ancient Osirion.
+## Devotee benefits
 
-**Edicts** Provide aid to the sick and wounded, use magic to help others, mourn the cherished dead, ritually purify yourself before entering sacred areas
-
-**Anathema** Reveal sacred rites to the uninitiated, betray your children or your lover, discriminate based on social status
+- **Divine Ability**: Wisdom or Charisma
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Arcana
+- **Favored Weapon**: [staff](compendium/equipment/items/staff.md)
+- **Domains**: [family](compendium/setting/domains.md#Family), [healing](compendium/setting/domains.md#Healing), [magic](compendium/setting/domains.md#Magic), [passion](compendium/setting/domains.md#Passion)
+- **Cleric Spells**: 1st: [soothe](compendium/spells/soothe.md); 2nd: [humanoid form](compendium/spells/humanoid-form.md); 3rd: [animal vision](compendium/spells/animal-vision.md); 4th: [creation](compendium/spells/creation.md); 5th: [control water](compendium/spells/control-water.md); 6th: [wall of force](compendium/spells/wall-of-force.md); 7th: [magnificent mansion](compendium/spells/magnificent-mansion.md); 8th: [wind walk](compendium/spells/wind-walk.md); 9th: [shapechange](compendium/spells/shapechange.md)

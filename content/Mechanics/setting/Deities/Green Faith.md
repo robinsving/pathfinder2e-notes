@@ -1,19 +1,20 @@
 ---
-title: "Green Faith"
-draft: true
-noteType: ":luggage:"
-aliases: "Green Faith"
-foundryId: Item.C70dLpflonufshp7
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/crb
+- deity/philosophy
+aliases: ["Green Faith"]
 ---
+# Green Faith *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
+*Source: Core Rulebook p. 440*  
 
-# Green Faith
+- **Category**: Philosophy
+- **Anathema**: cause damage to natural settings, kill animals for reasons other than self-defense or sustenance, remove an element or indigenous species from a natural area, encourage imbalance in nature, allow abuse of natural resources
+- **Areas of Concern**: veneration of the natural world
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
-The worshippers of the Green Faith count many druids among their number. They view nature as divine and draw strength from the knowledge of their place in the natural order.
+## Devotee benefits
 
-**Edicts** guide civilization to grow in harmony with nature, preserve areas of natural wilderness, protect endangered species
-
-**Anathema** cause damage to natural settings, kill animals for reasons other than self-defense or sustenance, allow abuse of natural resources
-
-**Areas of Concern** veneration of the natural world
+- **Divine Ability**: Intelligence or Constitution
+- **Divine Skill**: Nature

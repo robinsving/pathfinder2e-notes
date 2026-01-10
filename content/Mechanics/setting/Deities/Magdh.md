@@ -1,19 +1,27 @@
 ---
-title: "Magdh"
-draft: true
-noteType: ":luggage:"
-aliases: "Magdh"
-foundryId: Item.bkVfuAc6ogaQOqCb
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/eldest
+- domain/fate/deity
+- domain/glyph/deity
+- domain/knowledge/deity
+- domain/truth/deity
+aliases: ["Magdh", "The Three"]
 ---
+# Magdh (The Three) *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 79*  
 
-# Magdh
+- **Category**: Eldest
+- **Anathema**: lie, share your divinations without payment (no matter how trivial)
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
-Magdh is the Eldest of foreknowledge, complexity, and triplets, and she is the greatest seer in the First World. Most often appearing as a woman with three faces set equidistantly around her head, Magdh looks across the skeins of fate into myriad alternate realities and possible futures. Among all the Eldest, she has the deepest knowledge of reality's true design and the ripples a single action or inaction can create throughout all of existence. Her communications are veiled in conditional language and oddly juxtaposed statements to an almost maddening degree, and thus she never communicates the prophetic truths she sees-so plain to her six eyes-in a straightforward way. Because of their shared knowledge of branching timelines, Shyka and Magdh can communicate more easily with each other about such topics, though the other Eldest are cautious around Magdh, lest a careless comment or errant gesture cause her to predict apocalyptic dooms.
+## Devotee benefits
 
-**Edicts** Use divination
-
-**Anathema** Lie, share your divinations without payment (no matter how trivial)
-
-**Areas of Concern** foreknowledge, complexity, and triplets
+- **Divine Ability**: Intelligence or Wisdom
+- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Skill**: Occultism
+- **Favored Weapon**: [scythe](compendium/equipment/items/scythe.md)
+- **Domains**: [fate](compendium/setting/domains.md#Fate), [glyph](compendium/setting/domains.md#Glyph), [knowledge](compendium/setting/domains.md#Knowledge), [truth](compendium/setting/domains.md#Truth)
+- **Cleric Spells**: 1st: [anticipate peril](compendium/spells/anticipate-peril-logm.md); 3rd: [threefold aspect](compendium/spells/threefold-aspect-apg.md); 6th: [scrying](compendium/spells/scrying.md)

@@ -1,19 +1,27 @@
 ---
-title: "Ketephys"
-draft: true
-noteType: ":luggage:"
-aliases: "Ketephys"
-foundryId: Item.9AMsQGr3Les2opn2
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/elven-gods
+- domain/darkness/deity
+- domain/moon/deity
+- domain/nature/deity
+- domain/secrecy/deity
+aliases: ["Ketephys", "The Hunter"]
 ---
+# Ketephys (The Hunter) *([CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 128*  
 
-# Ketephys
+- **Category**: Elven Gods
+- **Anathema**: take more than needed from the wilderness, hunt an animal for sport, aid Treerazer or his minions
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
-**Ketephys** is the tight-lipped elven god of the hunt, who instructs his followers to care for the forest and defend it from his arch-enemy [[Treerazer]].
+## Devotee benefits
 
-**Edicts** Hunt and kill demons and undead, maintain the health of the forest, provide for your community
-
-**Anathema** Take more than needed from the wilderness, hunt an animal for sport, aid Treerazer or his minions
-
-**Areas of Concern** hunting and the moon
+- **Divine Ability**: Dexterity or Wisdom
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Survival
+- **Favored Weapon**: [longbow](compendium/equipment/items/longbow.md)
+- **Domains**: [darkness](compendium/setting/domains.md#Darkness), [moon](compendium/setting/domains.md#Moon), [nature](compendium/setting/domains.md#Nature), [secrecy](compendium/setting/domains.md#Secrecy)
+- **Cleric Spells**: 1st: [pass without trace](compendium/spells/pass-without-trace.md); 2nd: [invisibility](compendium/spells/invisibility.md); 3rd: [animal vision](compendium/spells/animal-vision.md)

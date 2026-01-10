@@ -1,21 +1,27 @@
 ---
-title: "Ylimancha"
-draft: true
-noteType: ":luggage:"
-aliases: "Ylimancha"
-foundryId: Item.s1icW7CZA07hRQ8E
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/empyreal-lords
+- domain/air/deity
+- domain/nature/deity
+- domain/travel/deity
+- domain/water/deity
+aliases: ["Ylimancha", "Harborwing"]
 ---
+# Ylimancha (Harborwing) *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 128*  
 
-# Ylimancha
+- **Category**: Empyreal Lords
+- **Anathema**: imprison birds or clip their wings, poison coastal waters, overfish, aid [Pazuzu](compendium/setting/deities/pazuzu-logm.md) or his minions
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
-Ylimancha gazes out over the world's coastlines, presiding over coastal waters, fishers, and flying creatures. Also known as Harborwing, she believes in harmony between the seas, the skies, and the beings of the land. Sustenance and resources can be taken from the sea by those on shore, but not so much that the balance is upset. The sea may sometimes encroach on the land, but breakwaters can be built to keep communities on land dry and safe. Ylimancha likewise loves all creatures that fly, though the demon lord [[Pazuzu]] also claims dominion over them, bringing the two into endless conflict and causing her to mourn deeply each creature he converts to his worship.
+## Devotee benefits
 
-Harborwing most often appears as a very large seagull, pure white in color with the head of a Varisian woman with short, dark hair. She sometimes instead appears as a human woman with the head of an osprey. In this form she wears robes that sway like the waves of the sea, their blue folds foaming white at the edges, and she carries a teak longbow strung with gold. When she speaks, her voice carries the sound of the crashing waves. Followers of Ylimancha include fishers, sailors, merfolk, those who make their living on or in the sea, and flying creatures.
-
-**Edicts** Teach sustainable fishing, swim in saltwater, ﬂy
-
-**Anathema** Imprison birds or clip their wings, poison coastal waters, overﬁsh, aid Pazuzu or his minions
-
-**Areas of Concern** coastal waters, fishers, and flying creatures
+- **Divine Ability**: Dexterity or Wisdom
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Acrobatics
+- **Favored Weapon**: [longbow](compendium/equipment/items/longbow.md)
+- **Domains**: [air](compendium/setting/domains.md#Air), [nature](compendium/setting/domains.md#Nature), [travel](compendium/setting/domains.md#Travel), [water](compendium/setting/domains.md#Water)
+- **Cleric Spells**: 1st: [feather fall](compendium/spells/feather-fall.md); 3rd: [feet to fins](compendium/spells/feet-to-fins.md); 4th: [fly](compendium/spells/fly.md)

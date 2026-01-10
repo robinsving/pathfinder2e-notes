@@ -1,19 +1,28 @@
 ---
-title: "Elven Pantheon"
-draft: true
-noteType: ":luggage:"
-aliases: "Elven Pantheon"
-foundryId: Item.0LprsTWmNV4egHdx
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/pantheon
+- domain/creation/deity
+- domain/magic/deity
+- domain/moon/deity
+- domain/nature/deity
+aliases: ["Elven Pantheon"]
 ---
+# Elven Pantheon *([CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 93*  
 
-# Elven Pantheon
+- **Category**: Pantheon
+- **Anathema**: irreparably damage the natural environment (such as by overhunting or strip mining), have an unhealthy obsession or attachment
+- **Areas of Concern**: elves, magic, nature, tradition
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
-The traditional deities of the elven pantheon are [[Calistria]], [[Desna]], [[Findeladlara]] (goddess of twilight and traditional art and architecture), [[Ketephys]] (god of hunting and the moon), and [[Yuelral]] (goddess of gems, craft, and magic). Elves have also adopted [[Alseta]], a minor goddess of doors and transitions, as their patron of teleportation and aiudara (commonly known as elf gates). Most elves value magic, beauty, freedom, and friendship as part of a fulfilling life and tend to worship all of the deities together as exemplars of these values. Alongside full-blooded elves, many half-elves-whether raised by elves or seeking a closer connection to their elven heritage- worship the elven pantheon.
+## Devotee benefits
 
-**Edicts** learn and appreciate traditional elven arts, crafts, and magic, explore the worlds outside and within
-
-**Anathema** irreparably damage the natural environment (such as by overhunting or strip mining), have an unhealthy obsession or attachment
-
-**Areas of Concern** elves, magic, nature, tradition
+- **Divine Ability**: Dexterity or Intelligence
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Survival
+- **Favored Weapon**: [longbow](compendium/equipment/items/longbow.md), [shortbow](compendium/equipment/items/shortbow.md)
+- **Domains**: [creation](compendium/setting/domains.md#Creation), [magic](compendium/setting/domains.md#Magic), [moon](compendium/setting/domains.md#Moon), [nature](compendium/setting/domains.md#Nature)
+- **Cleric Spells**: 1st: [shillelagh](compendium/spells/shillelagh.md); 2nd: [shape wood](compendium/spells/shape-wood.md); 5th: [tree stride](compendium/spells/tree-stride.md)

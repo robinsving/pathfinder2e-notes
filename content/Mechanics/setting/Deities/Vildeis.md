@@ -1,21 +1,41 @@
 ---
-title: "Vildeis"
-draft: true
-noteType: ":luggage:"
-aliases: "Vildeis"
-foundryId: Item.RXy6pYRBWU4bn5Wf
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/empyreal-lords
+- domain/duty/deity
+- domain/pain/deity
+- domain/sorrow/deity
+- domain/zeal/deity
+- trait/agile
+- trait/finesse
+- trait/reach-15-feet
+- trait/thrown-40-feet
+- trait/versatile-slashing
+aliases: ["Vildeis", "The Cardinal Martyr"]
 ---
+# Vildeis (The Cardinal Martyr) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 128*  
 
-# Vildeis
+- **Category**: Empyreal Lords
+- **Anathema**: joke or laugh about injustice, sacrifice others in your place, indulge in luxury
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait")
 
-The Cardinal Martyr presides over devotion, sacrifice, and scars. Vildeis is driven entirely by her abhorrence for evil. Evil should not and must not be allowed to exist. It should be fought without pause and without rest until it is completely and utterly destroyed. Not only does the fight never end, but every sacrifice that needs to be made to end evil must be made, and is worth making. There are no material rewards to be had for destroying evil-its destruction is all the reward necessary, and that reward can be enjoyed only once there is no more evil. Scars are the marks the fight leaves behind, the memory of all the sacrifices made. Vildeis expects total commitment from her followers, who leave everything behind and dedicate their lives to destroying all that is vile.
+## Devotee benefits
 
-The Cardinal Martyr appears as a human woman covered in scars, each forming a rune depicting a sacrifice she has made. Her eyes are covered in a red cloth so that she cannot see the horrors of evil upon the world. Vildeis flies on gigantic, blood-colored wings, and the whispered screams of all the planes' martyrs can be heard in her presence. Followers of Vildeis include martyrs, paladins, and zealots.
+- **Divine Ability**: Constitution or Charisma
+- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Skill**: Medicine
+- **Favored Weapon**: [dagger](compendium/equipment/items/dagger.md)
+- **Domains**: [duty](compendium/setting/domains.md#Duty), [pain](compendium/setting/domains.md#Pain), [sorrow](compendium/setting/domains.md#Sorrow), [zeal](compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [phantom pain](compendium/spells/phantom-pain.md); 2nd: slough skin; 5th: [synaptic pulse](compendium/spells/synaptic-pulse.md)
 
-**Edicts** Sacrifice yourself in pursuit of good, champion noble causes, scar your body
+```ad-embed-avatar
+title: [Avatar](compendium/spells/avatar.md) of Vildeis
 
-**Anathema** Joke or laugh about injustice, sacrifice others in your place, indulge in luxury
-
-**Areas of Concern** devotion, sacrifice, and scars
+- **Speed**: Speed 30 feet, fly 70 feet
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") dagger (, [agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [thrown <40 feet>](rules/traits/thrown-40-feet.md "Thrown Weapon Trait"), [versatile <slashing>](rules/traits/versatile-slashing.md "Versatile Weapon Trait")), **Damage** `5d4+6` piercing and `1d6` [persistent bleed damage](rules/conditions.md#Persistent%20Damage) 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") cry of the martyred (), **Damage** `5d6+3` sonic and `1d6` persistent mental 
+```

@@ -1,21 +1,26 @@
 ---
-title: "Followers of Fate"
-draft: true
-noteType: ":luggage:"
-aliases: "Followers of Fate"
-foundryId: Item.BIARQ7mJqAWM8Tz7
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/b2
+- deity/creature
+- domain/family/deity
+- domain/fate/deity
+- domain/knowledge/deity
+- domain/truth/deity
+aliases: ["Followers Of Fate"]
 ---
+# Followers Of Fate *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
+*Source: Bestiary 2 p. 184*  
 
-# Followers of Fate
+- **Category**: Creature
+- **Anathema**: apologize for making an incorrect prediction, disrespect mothers, accept payment for fortune-telling
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
-On the Material Plane, some mortals worship norns as deities, while others, especially witches and bards, admire them as patrons or muses. Those who uphold norns as deities are known as Followers of Fate. Norns do little to discourage this veneration, but neither do they go out of their way to support such worship. Clerics who venerate norns might worship a specific norn or norn triumvirate, or all norns as a whole, but they gain the same benefits regardless of their choice.
+## Devotee benefits
 
-The religious symbol of Followers of Fate is a pair of shears cutting a golden thread, and their areas of concern are destiny, fate, and the aging process.
-
-**Edicts** make predictions of the future, offer advice and guidance to those in positions of power, provide comfort to the elderly
-
-**Anathema** apologize for making an incorrect prediction, disrespect mothers, accept payment for fortune-telling
-
-**Areas of Concern** destiny, fate, and the aging process.
+- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Skill**: Occultism
+- **Favored Weapon**: shears
+- **Domains**: [family](compendium/setting/domains.md#Family), [fate](compendium/setting/domains.md#Fate), [knowledge](compendium/setting/domains.md#Knowledge), [truth](compendium/setting/domains.md#Truth)
+- **Cleric Spells**: 1st: [mindlink](compendium/spells/mindlink.md); 2nd: [web](compendium/spells/web.md); 5th: [prying eye](compendium/spells/prying-eye.md)

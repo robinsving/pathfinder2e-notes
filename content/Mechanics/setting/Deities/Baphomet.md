@@ -1,19 +1,27 @@
 ---
-title: "Baphomet"
-draft: true
-noteType: ":luggage:"
-aliases: "Baphomet"
-foundryId: Item.lbNmAqxos3kgfbL5
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/demon-lords
+- domain/indulgence/deity
+- domain/might/deity
+- domain/secrecy/deity
+- domain/zeal/deity
+aliases: ["Baphomet", "Lord of the Labyrinth"]
 ---
+# Baphomet (Lord of the Labyrinth) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 76*  
 
-# Baphomet
+- **Category**: Demon Lords
+- **Anathema**: kill something that cannot significantly harm you, bargain with Asmodeus
+- **Follower Alignments**: [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-Baphomet, Lord of the Labyrinth, is the demon lord of beasts, labyrinths, and minotaurs. Baphomet was originally a consort of [[Lamashtu]] who achieved demon lord status after escaping from imprisonment in a labyrinth constructed by [[Asmodeus]]. Baphomet appears as an enormous emaciated minotaur with feathered wings and a goat-like head that bears three horns, as well as a blazing pentagram branded into his forehead. Baphomet's cults are among the most prolific in Golarion-human-dominated secret societies devoted to the demon lord are present in many cities and may have members ensconced in positions of political power, while most minotaurs prefer his patronage to that of Lamashtu.
+## Devotee benefits
 
-**Edicts** Confuse paths and roads, outwit your foes instead of overpowering them, pace labyrinths
-
-**Anathema** Kill something that cannot significantly harm you, bargain with [[Asmodeus]]
-
-**Areas of Concern** beasts, labyrinths, and minotaurs
+- **Divine Ability**: Intelligence or Wisdom
+- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Skill**: Survival
+- **Favored Weapon**: [glaive](compendium/equipment/items/glaive.md)
+- **Domains**: [indulgence](compendium/setting/domains.md#Indulgence), [might](compendium/setting/domains.md#Might), [secrecy](compendium/setting/domains.md#Secrecy), [zeal](compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [summon animal](compendium/spells/summon-animal.md); 2nd: [enlarge](compendium/spells/enlarge.md); 8th: [maze](compendium/spells/maze.md)

@@ -1,33 +1,56 @@
 ---
-title: "Besmara"
-draft: true
-noteType: ":luggage:"
-aliases: "Besmara"
-foundryId: Item.vNVhh9qLjy0dRc3i
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/gods-of-the-inner-sea
+- domain/destruction/deity
+- domain/trickery/deity
+- domain/water/deity
+- domain/wealth/deity
+- trait/deadly-3d8
+- trait/disarm
+- trait/finesse
+- trait/reach-15-feet
+aliases: ["Besmara", "The Pirate Queen"]
 ---
+# Besmara (The Pirate Queen) *([NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 55*  
 
-# Besmara
+- **Category**: Gods of the Inner Sea
+- **Anathema**: betray shipmates, forsake piracy, settle on land
+- **Areas of Concern**: piracy, sea monsters, and strife
+- **Follower Alignments**: [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-Once nothing more than a powerful spirit of water with the ability to manipulate sea monsters, Besmara grew slowly in power over the centuries from sacrifices made by seafaring people. After defeating and consuming rival spirits of battle, gold, and wood, she became a minor god of piracy, strife, and sea monsters.
+## Devotee benefits
 
-Besmara, the Pirate Queen, cuts a brash and bold figure, as she often is depicted wearing buccaneer apparel consisting of loose-fitting, eye-catching clothing and black boots, and her hair is wind-tossed on even the calmest day. She and her followers adhere to a simple code of greed: take what you desire, no matter who it might belong to. Despite this, Besmara and her worshippers are generally loyal to one another, knowing that while on the waves raiding ships for treasure, a pirate crew can survive only if its members trust one another.
+- **Divine Ability**: Dexterity or Constitution
+- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Skill**: Athletics
+- **Favored Weapon**: [rapier](compendium/equipment/items/rapier.md)
+- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [trickery](compendium/setting/domains.md#Trickery), [water](compendium/setting/domains.md#Water), [wealth](compendium/setting/domains.md#Wealth)
+- **Cleric Spells**: 1st: [hydraulic push](compendium/spells/hydraulic-push.md); 2nd: [feet to fins](compendium/spells/feet-to-fins.md); 6th: [mariner's curse](compendium/spells/mariners-curse.md)
 
-* * *
+When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Besmara gains the following additional abilities.
 
-The Pirate Queen Besmara began as a minor deity and gained power as she defeated other demigods. Now, with her rule over sea monsters and piracy, she attracts worshippers within the Firebrands. They likely spend more energy to ward off her ire than maintain her favor, as her temperament turns quickly. While her interest in them is fickle, she has granted them boons while in a good mood. The Firebrands must also contend with her less savory worshippers, such as undead crews seeking souls to consume. Despite the danger, Besmara fascinates many Firebrands, as using chaos to succeed matches their tactics.
+```ad-embed-avatar
+title: [Avatar](compendium/spells/avatar.md) of Besmara
 
-Her deeds serve as inspiration, as she managed to defeat countless other demigods and used their power to ascend to her full godhood. As the Pirate Queen and her ship the Seawraith raid the other planes and retreat back into the chaos of the Maelstrom, so do the Firebrands take advantage of the Eye of Abendego to raid well-off merchants or naval vessels and retreat into the safety of the storm. Her tendency to wait for the right tides or a lull in the enemy's defenses exemplifies the need to wait for the perfect circumstances.
+- **Speed**: Speed 40 feet, swim 70 feet, immune to [immobilized](rules/conditions.md#Immobilized)
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") rapier (, [deadly <3d8>](rules/traits/deadly-3d8.md "Deadly Weapon Trait"), [disarm](rules/traits/disarm.md "Disarm Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` piercing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ship's cannon (), **Damage** `6d6+3` bludgeoning 
+```
 
-The Firebrands' acceptance of Besmara attracts worshippers eager for glory and derring-do. As Besmara's armada is crewed by legendary pirates whose deeds outpaced their mortality, joining the Firebrands and becoming a legend among legends provides a way to catch Besmara's eye. A few reckless captains attract first- and second-mark Firebrands with the promise of breaking records and doing the impossible.
+## Divine intercession
+*Source: Lost Omens: Gods & Magic Web Supplement p. 4*
 
-When finding a windfall, every Firebrand captain or crew gives Besmara her due by tossing a share of the profit into the sea, ensuring that they don't provoke her ire. No captain wants to be responsible for an organization-wide rash of ill luck and dead winds. If there is a period of doldrums, captains provide extra tribute to avoid finger-pointing and pray for a break in the still air.
+Due to her fiery temperament, the Pirate Queen is quick to punish or reward her followers, and is equally fast at rescinding her favor or forgiving transgressions.
 
-Even the Firebrands who don't see themselves as pirates find meaning in the code of loyalty Besmara's devotees follow. Loyalty to crew, shipmates, and captains runs deep, especially with more formal pirate codes developed among Shackles Firebrands. Pirate codes among crews of Firebrands include a binding oath administered by a member of the Besmaran clergy. While each code is personalized to suit circumstances, these codes typically define "crew" to include land-based allies and other Firebrands.
+- **Minor Boon** Besmara wants you to amuse her, placing both plunder and peril in your path. This intercession often takes the form of an unexpected treasure map, a message in a bottle, or some other sign leading you to a great reward, assuming you can handle the challenges along the way.
+- **Moderate Boon**: You are at home on the seas and always ready to plunder an enemy vessel or defend your own. When aboard a boat, you gain a +2 status bonus to all initiative rolls, [Acrobatics](compendium/skills.md#Acrobatics) checks to [Balance](rules/actions/balance.md), and [Athletics](compendium/skills.md#Athletics) checks to [Climb](rules/actions/climb.md). In addition, you never get seasick.
+- **Major Boon**: You seem to be unaffected by storms. You ignore all effects and penalties caused by precipitation and winds, and you can see normally through fog, rain, and other weather conditions.
 
-**Edicts** sail the seas, stay loyal to captain and crew, take what you want
-
-**Anathema** betray shipmates, forsake piracy, settle on land
-
-**Areas of Concern** piracy, sea monsters, and strife
+- **Minor Curse**: You feel some of the effects of scurvy, making your wounds flow more easily. The DC of the flat check for you to remove [persistent bleed damage](rules/conditions.md#Persistent%20Damage) is 20 instead of 15 (or 15 instead of 10 if using extremely efficient methods to assist your recovery), and you don't recover from [persistent bleed damage](rules/conditions.md#Persistent%20Damage) automatically when you reach full Hit Points.
+- **Moderate Curse** You get seasick, becoming [sickened](rules/conditions.md#Sickened) whenever you can see the sea or are on a boat at sea. You can't reduce this condition until you can no longer see the sea or are off the boat, though you can manage to stomach enough food and water to survive on a voyage, with extreme discomfort.
+- **Major Curse**: You meet extreme financial ruin for daring to gravely offend the Pirate Queen. Besmara's agents steal all your booty and bring the spoils to Besmara's ship, Seawraith. If you want a chance to recover your lost wealth, you must parlay with the goddess and accept whatever dangerous terms she offers, usually requiring a heist she will find sufficiently amusing to watch whether you succeed or fail, and requiring you to trade your spoils from that quest for your previous belongings.

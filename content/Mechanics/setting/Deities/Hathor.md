@@ -1,17 +1,27 @@
 ---
-title: "Hathor"
-draft: true
-noteType: ":luggage:"
-aliases: "Hathor"
-foundryId: Item.WoWJneQptyd4setF
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/ancient-osirian-gods
+- domain/family/deity
+- domain/passion/deity
+- domain/sun/deity
+- domain/wealth/deity
+aliases: ["Hathor", "Mistress of Jubilation"]
 ---
+# Hathor (Mistress of Jubilation) *([CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 124*  
 
-# Hathor
+- **Category**: Ancient Osirian Gods
+- **Anathema**: Discriminate or slight someone based on appearance, intentionally disfigure a creature, refuse food to the starving
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
-**Hathor** is a member of the pantheon often worshiped in Ancient Osirion.
+## Devotee benefits
 
-**Edicts** Give wealth to new families, aid traders and miners, support musicians, protect and encourage lovers
-
-**Anathema** Discriminate or slight someone based on appearance, intentionally disfigure a creature, refuse food to the starving
+- **Divine Ability**: Strength or Charisma
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Performance
+- **Favored Weapon**: [shortsword](compendium/equipment/items/shortsword.md)
+- **Domains**: [family](compendium/setting/domains.md#Family), [passion](compendium/setting/domains.md#Passion), [sun](compendium/setting/domains.md#Sun), [wealth](compendium/setting/domains.md#Wealth)
+- **Cleric Spells**: 1st: [charm](compendium/spells/charm.md); 2nd: [tree shape](compendium/spells/tree-shape.md); 8th: [uncontrollable dance](compendium/spells/uncontrollable-dance.md)

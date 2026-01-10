@@ -1,19 +1,27 @@
 ---
-title: "Nurgal"
-draft: true
-noteType: ":luggage:"
-aliases: "Nurgal"
-foundryId: Item.mmvFqXBom5dYRLdt
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/demon-lords
+- domain/destruction/deity
+- domain/dust/deity
+- domain/fire/deity
+- domain/sun/deity
+aliases: ["Nurgal", "The Shining Scourge"]
 ---
+# Nurgal (The Shining Scourge) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 77*  
 
-# Nurgal
+- **Category**: Demon Lords
+- **Anathema**: heal a sunburn, change your name
+- **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-Nurgal, the Shining Scourge, is the demon lord of deserts, senseless warfare, and the sun. He was formerly a fully fledged deity of ancient Azlant, but fell to demigodhood after being defeated in combat. Nurgal represents the sun's potential for devastation, and his followers venerate him out of cowed awe. The demon lord appears as a muscular, tanned man with the head and lower body of a golden lion and a dragon's tail. He is almost always depicted as wielding a mace in the form of a miniature sun, held in a taloned hand. Nurgal's worshippers are primarily found in the deserts of Garund, Ninshabur, and Qadira.
+## Devotee benefits
 
-**Edicts** Wage war in the desert, deny water to your foes
-
-**Anathema** Heal a sunburn, change your name
-
-**Areas of Concern** deserts, senseless warfare, and the sun
+- **Divine Ability**: Constitution or Charisma
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Survival
+- **Favored Weapon**: [mace](compendium/equipment/items/mace.md)
+- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [dust](compendium/setting/domains.md#Dust), [fire](compendium/setting/domains.md#Fire), [sun](compendium/setting/domains.md#Sun)
+- **Cleric Spells**: 1st: [burning hands](compendium/spells/burning-hands.md); 2nd: [flaming sphere](compendium/spells/flaming-sphere.md); 3rd: [cup of dust](compendium/spells/cup-of-dust-logm.md)

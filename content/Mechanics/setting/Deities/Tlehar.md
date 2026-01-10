@@ -1,31 +1,46 @@
 ---
-title: "Tlehar"
-draft: true
-noteType: ":luggage:"
-aliases: "Tlehar"
-foundryId: Item.r6C6ZD103GwWANnx
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/lome
+- deity/mwangi-gods
+- domain/change/deity
+- domain/cities/deity
+- domain/creation/deity
+- domain/healing/deity
+- domain/passion/deity
+- domain/sun/deity
+- domain/vigil/deity
+- domain/zeal/deity
+- trait/reach-15-feet
+- trait/versatile-p
+aliases: ["Tlehar", "The Rising Sun"]
 ---
+# Tlehar (The Rising Sun) *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
+*Source: Lost Omens: The Mwangi Expanse p. 141*  
 
-# Tlehar
+- **Category**: Mwangi Gods
+- **Anathema**: lose your motivation to your regrets, spread despair, treat a loved one poorly
+- **Areas of Concern**: iron, love, rebirth
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
-The old gods of the threefold sun were all but forgotten under the rule of Walkena, the child god. But Tlehar never despaired, for the dawn must forever represent hope to all good people who gaze upon it. She holds the Bright Lions of Mzali especially dear in her heart, since they were a ray of hope to her people even when she couldn't be. Thanks to them, citizens of Mzali and beyond have been reminded of her loving embrace, and once again awaken with resolve in their hearts.
+## Devotee benefits
 
-Tlehar keeps watch over every birth and new beginning, as there is no greater symbol of hope than new life. Midwives and nurses pray to Tlehar to keep watch over their work and ensure the health of newborns. Those coming to terms with a new gender or sexuality may call on Tlehar's blessing and protection as they learn to better understand themselves. People fleeing from unsafe homes can seek out her followers for safe refuge; these followers of Tlehar wear discrete, iron charms to let others know that they will be ready to fight for them. No matter their needs, Tlehar represents a sanctuary of peace in a sea of fear. It is her hope that the people of Mzali will soon live in fear no longer.
+- **Divine Ability**: Intelligence or Charisma
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Crafting
+- **Favored Weapon**: [morningstar](compendium/equipment/items/morningstar.md)
+- **Domains**: [cities](compendium/setting/domains.md#Cities), [healing](compendium/setting/domains.md#Healing), [passion](compendium/setting/domains.md#Passion), [sun](compendium/setting/domains.md#Sun)
+- **Alternate Domains**: [change](compendium/setting/domains.md#Change), [creation](compendium/setting/domains.md#Creation), [vigil](compendium/setting/domains.md#Vigil), [zeal](compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [soothe](compendium/spells/soothe.md); 3rd: [enthrall](compendium/spells/enthrall.md); 5th: [dreaming potential](compendium/spells/dreaming-potential.md)
 
-The dawn goddess is depicted as a human woman with golden skin, the gray-furred head of a lioness, and eyes as black as night. She is often portrayed on Chohar's left side, opposite her sister, with one hand extended in welcome and the other holding an iron morningstar. While Tlehar is not typically as strict in her justice as her counterparts, she shows no mercy to those who hurt the ones they claim to love. She may be willing to forgive those who offer sincere repentance, but the lioness of the dawn has a will of iron. She believes that sometimes, protecting the hope of a better tomorrow means destroying those who cast darkness over the future.
+When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Tlehar gains the following additional abilities.
 
-**Edicts** give yourself fully to everything you attempt, always maintain hope that tomorrow will be a better day, treasure every gift you are given by those who matter to you.
+```ad-embed-avatar
+title: [Avatar](compendium/spells/avatar.md) of Tlehar
 
-**Anathema** lose your motivation to your regrets, spread despair, treat a loved one poorly
-
-## Avatar
-
-When casting the _[[Avatar]]_ spell, a worshipper of Tlehar gains the following additional abilities.
-
-**Tlehar** Speed 50 feet, Fly speed 70 feet, cannot be [[Immobilized]]
-
-Melee 1 morningstar (versatile piercing, reach 15 feet), Damage `dice: 6d6+6` bludgeoning
-
-Ranged 1 morning light (range increment 120 feet), Damage 3d6+3 fire and 3d6+3 vitality
+- **Speed**: Speed 50 feet, fly 70 feet, immune to [immobilized](rules/conditions.md#Immobilized)
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") morningstar (, [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d6+6` bludgeoning 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") morning light (), **Damage** `3d6+3` fire and `3d6+3` positive 
+```

@@ -1,17 +1,27 @@
 ---
-title: "Fumeiyoshi"
-draft: true
-noteType: ":luggage:"
-aliases: "Fumeiyoshi"
-foundryId: Item.OftfPZMNfkz6JqsW
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/tian-gods
+- domain/ambition/deity
+- domain/destruction/deity
+- domain/earth/deity
+- domain/undeath/deity
+aliases: ["Fumeiyoshi", "Lord of Envy"]
 ---
+# Fumeiyoshi (Lord of Envy) *([NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 132*  
 
-# Fumeiyoshi
+- **Category**: Tian Gods
+- **Anathema**: pass by food without stealing a bite, allow honor or tradition to prevent you from taking what you want
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-**Fumeiyoshi** is a Tian Xia deity most often associated with the undead and graves, although he is also the patron deity of the evil oni.
+## Devotee benefits
 
-**Edicts** Punish those who have good fortune they don't deserve, devour the pleasures of the living, encourage resentment, make graveyards supernaturally unsafe
-
-**Anathema** Pass by food without stealing a bite, allow honor or tradition to prevent you from taking what you want
+- **Divine Ability**: Constitution or Charisma
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Intimidation
+- **Favored Weapon**: naginata
+- **Domains**: [ambition](compendium/setting/domains.md#Ambition), [destruction](compendium/setting/domains.md#Destruction), [earth](compendium/setting/domains.md#Earth), [undeath](compendium/setting/domains.md#Undeath)
+- **Cleric Spells**: 1st: [grim tendrils](compendium/spells/grim-tendrils.md); 2nd: [feast of ashes](compendium/spells/feast-of-ashes-logm.md); 7th: [possession](compendium/spells/possession.md)

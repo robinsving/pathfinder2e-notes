@@ -1,35 +1,59 @@
 ---
-title: "Grandmother Spider"
-draft: true
-noteType: ":luggage:"
-aliases: "Grandmother Spider"
-foundryId: Item.aKieHwSAI7mSL7M4
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/gods-of-the-inner-sea
+- domain/change/deity
+- domain/creation/deity
+- domain/darkness/deity
+- domain/family/deity
+- domain/fate/deity
+- domain/trickery/deity
+- trait/deadly-3d8
+- trait/finesse
+- trait/reach-15-feet
+- trait/versatile-p
+aliases: ["Grandmother Spider", "The Weaver", "Nana Anadi"]
 ---
+# Grandmother Spider (The Weaver, Nana Anadi) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 60*  
 
-# Grandmother Spider
+- **Category**: Gods of the Inner Sea
+- **Anathema**: abuse someone you have power over; harm someone who has given you sincere kindness; let a slight go unanswered, own a slave
+- **Areas of Concern**: family, illusion, stories, twilight, weaving
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
-Throughout the Mwangi, there are few as highly respected as storytellers. As stewards of their peoples' oral traditions, they act as historians, educators, and entertainers, so it is only right that they pay homage to the goddess of stories, Grandmother Spider. Also known as Nana Anadi, Grandmother Spider was once content in her role as weaver of fate for the gods, as it gave her the ability to craft the grandest tales anyone had ever known. But as she told story after story at the other gods' whims, they failed to show proper respect to the one who made their glorious and terrible legends come to pass, treating her as a servant or a tool. Grandmother had no patience for overinflated egos, and even less for those who take credit for the work of others. She crafted unique humiliations tailored to each of the gods, and as tales of her mischief spread, she wove her own divinity from them. Some of the more prideful gods deny her still-worshiping Grandmother Spider is forbidden by Asmodeus for as long as she still twirls copies of his keys around her fingers, and Abadar still holds a grudge since the Century of the Unbalanced Scale. To the north of the Mwangi, there are almost no shrines dedicated to Grandmother Spider. But the clever and willful always find ways to revere her.
+## Devotee benefits
 
-No matter how their pride might be wounded, few have dared to take direct action against Grandmother Spider. Alone, she is dangerous enough, for they say Nana Anadi holds all the secrets of the world within her web. However, her sibling Achaekek, the Red Mantis, is a force that even gods fear. Though he treats his sister with indifference, he once lashed out at someone who sought to do Grandmother Spider harm with disproportionate retribution. That one act has been more than enough.
+- **Divine Ability**: Intelligence or Wisdom
+- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Skill**: Crafting
+- **Favored Weapon**: bola
+- **Domains**: [creation](compendium/setting/domains.md#Creation), [fate](compendium/setting/domains.md#Fate), [family](compendium/setting/domains.md#Family), [trickery](compendium/setting/domains.md#Trickery)
+- **Alternate Domains**: [change](compendium/setting/domains.md#Change), [darkness](compendium/setting/domains.md#Darkness)
+- **Cleric Spells**: 1st: [pest form](compendium/spells/pest-form.md); 2nd: [web](compendium/spells/web.md); 4th: [glibness](compendium/spells/glibness.md)
 
-Grandmother Spider uplifts those who rebel against the status quo, strike above their station, or otherwise fight for freedom. While she prefers subterfuge and cleverness, she does not eschew violence, viewing it as simply another tool-applied judiciously in the right place at the right time, it can accomplish a great deal. Abolitionists and freedom fighters across Mwangi view spiders as an omen of good fortune. Those who are forced to live and fight in secret against their oppressors take great comfort in the knowledge that Nana Anadi will still tell their stories long after they are gone.
+When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Grandmother Spider gains the following additional abilities.
 
-* * *
+```ad-embed-avatar
+title: [Avatar](compendium/spells/avatar.md) of Grandmother Spider
 
-Grandmother Spider, also known as Nana Anadi, is a goddess of storytelling who once wove fate and reality into existence at the behest of other gods. She values independence, family, and cleverness, and despises when the unworthy hold power over others.
+- **Speed**: Speed 70 feet, climb 70 feet, immune to [immobilized](rules/conditions.md#Immobilized)
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") leg (, [deadly <3d8>](rules/traits/deadly-3d8.md "Deadly Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d6+6` bludgeoning 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") venom web (), **Damage** `6d6+3` poison 
+```
 
-Grandmother Spider's faith is exceedingly rare in Avistan, but it's incredibly strong in Garund. She's a favorite among Firebrands who chafe under authority, seek retribution against their oppressors, or operate through cleverness, guile, and stealth. Her followers tend to utilize clever plans, political maneuvering, and public humiliation over more violent methods of change. Once avenged, such Firebrands usually attempt to find others struggling under oppressive or incompetent rule and help them "reweave fate" by sparking revolution or governmental reform.
+## Divine intercession
+*Source: Lost Omens: Gods & Magic Web Supplement p. 5*
 
-Firebrands who worship Grandmother Spider tend to be serious, focusing on altruistic goals rather than personal accolades, fame, or wealth. They value stories and strive to remember the comrades they've lost, to learn from their mistakes and maintain their legacy beyond death. Many can inspire or manipulate others through stories or craft convincing lies, distractions, or illusions. Among the Firebrands, the most famous of Grandmother Spider's worshippers are Nana's Chosen, also referred to as the Spiteweft. Nana's Chosen are eight Firebrands who specialize in toppling tyrants, monarchs, bureaucrats, and other powerful leaders they deem "undeserving" through a series of increasingly ignominious public humiliations, usually involving the seeding of rumors; the exposure of secrets, betrayals, and weaknesses; manufactured public embarrassments; and proving their professional incompetence.
+Though the Weaver often condones bad decisions so long as a lesson is learned, and is even willing to accept being fairly tricked herself, cruelty and predation upon the weak draw her outrage.
 
-Yet one need not devote one's life to Grandmother Spider to receive her aid, for the Weaver blesses all who question established hierarchies, usurp the status quo, or fight for freedom. Spiders are considered a good omen, as is the sight of a pristine spider's web or animals traveling in groups of eight. Those aiming to court her favor wear fabrics featuring diamonds or spiders, while those in need of subtlety or with little wealth to spare instead stitch a simple diamond into their clothes or paint a diamond upon their skin with paints or mud.
+- **Minor Boon** Grandmother Spider rescues your prank from the jaws of failure. Once, when you would fail a [Deception](compendium/skills.md#Deception) check, you critically succeed instead. Grandmother Spider typically grants this boon for deceptions that are necessary for an interesting or consequential prank.
+- **Moderate Boon**: You can feel tugs on the strands of fate. You gain a +2 status bonus to initiative rolls.
+- **Major Boon**: Grandmother Spider rejoices in freedom and tricks those who would limit it. Any time you would become [grabbed](rules/conditions.md#Grabbed), [immobilized](rules/conditions.md#Immobilized), or [restrained](rules/conditions.md#Restrained), attempt a DC 10 flat check. On a success, you ignore the effect, and the originator of the effect becomes [grabbed](rules/conditions.md#Grabbed), [immobilized](rules/conditions.md#Immobilized), or [restrained](rules/conditions.md#Restrained) instead. If this simply causes a creature to grab itself, it can usually [Escape](rules/actions/escape.md) as a free action, but it might be stuck if it tried to immobilize you in other ways.
 
-Grandmother Spider is the patron goddess of the spider-like anadi people, said to have led them out of darkness and to freedom at some nebulous point in the ancient past. Thus, many Firebrands of other ancestries consider it good luck to work alongside an anadi and go out of their way to join a cell led by an anadi or recruit anadis to the Firebrands.
-
-**Edicts** be skilled and clever, think for yourself, take due payment for your work, humiliate the powerful
-
-**Anathema** abuse someone you have power over, harm someone who has given you sincere kindness, let a slight go unanswered, enslave someone
-
-**Areas of Concern** family, illusion, stories, twilight, weaving
+- **Minor Curse**: When your pranks start going wrong, they dissolve into a string of catastrophic failures. When you roll a failure on a [Deception](compendium/skills.md#Deception) or [Stealth](compendium/skills.md#Stealth) check, you get a critical failure instead.
+- **Moderate Curse** Grandmother Spider weaves a web to ensnare you, and you trail webs behind you wherever you go. You become permanently [slowed](rules/conditions.md#Slowed) and take a –10-foot circumstance penalty to your Speeds.
+- **Major Curse**: Grandmother Spider throws all of her might behind the underdog. Any time a creature with a level lower than yours rolls a success on a check against you, it critically succeeds instead; any time you roll a failure on a check against a creature with a level lower than yours, you critically fail instead.

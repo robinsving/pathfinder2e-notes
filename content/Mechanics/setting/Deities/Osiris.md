@@ -1,15 +1,27 @@
 ---
-title: "Osiris"
-draft: true
-noteType: ":luggage:"
-aliases: "Osiris"
-foundryId: Item.qVYnicoMhGmizg8Z
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/ancient-osirian-gods
+- domain/change/deity
+- domain/healing/deity
+- domain/nature/deity
+- domain/soul/deity
+aliases: ["Osiris", "Lord of the Living"]
 ---
+# Osiris (Lord of the Living) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 124*  
 
-# Osiris
+- **Category**: Ancient Osirian Gods
+- **Anathema**: dismember a creature, desecrate a corpse, show ingratitude for a sincere gift
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait")
 
-**Edicts** Ensure the health of crops and vegetation, protect the bodies and souls of the worthy dead, avenge the wrongly murdered
+## Devotee benefits
 
-**Anathema** Dismember a creature, desecrate a corpse, show ingratitude for a sincere gift
+- **Divine Ability**: Constitution or Wisdom
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Nature
+- **Favored Weapon**: [flail](compendium/equipment/items/flail.md)
+- **Domains**: [change](compendium/setting/domains.md#Change), [healing](compendium/setting/domains.md#Healing), [nature](compendium/setting/domains.md#Nature), [soul](compendium/setting/domains.md#Soul)
+- **Cleric Spells**: 1st: [soothe](compendium/spells/soothe.md); 2nd: [false life](compendium/spells/false-life.md); 6th: [tangling creepers](compendium/spells/tangling-creepers.md)

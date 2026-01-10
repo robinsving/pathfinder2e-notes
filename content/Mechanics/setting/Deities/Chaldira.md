@@ -1,29 +1,57 @@
 ---
-title: "Chaldira"
-draft: true
-noteType: ":luggage:"
-aliases: "Chaldira"
-foundryId: Item.m1xEmmFcF5qVlmtO
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/gods-of-the-inner-sea
+- domain/confidence/deity
+- domain/luck/deity
+- domain/trickery/deity
+- domain/zeal/deity
+- trait/agile
+- trait/finesse
+- trait/nonlethal
+- trait/reach-15-feet
+- trait/versatile-s
+aliases: ["Chaldira", "The Calamitous Turn"]
 ---
+# Chaldira (The Calamitous Turn) *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 58*  
 
-# Chaldira
+- **Category**: Gods of the Inner Sea
+- **Anathema**: suffer a bully's insults to you or another without retort, abandon a friend in need, attribute a lucky turn of events to your own skill
+- **Areas of Concern**: battle, fortune, mischief
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
-Chaldira Zuzaristan, the Calamitous Turn, is a plucky, impulsive goddess venerated primarily by halflings. She embodies two aspects halflings see in themselves: a strong affinity for luck and bold determination to protect friends. Chaldira is hotheaded and cannot abide bullies in any form, and many of her worshippers are similarly impetuous, spoiling for any opportunity to leap fist-first at oppressors and tyrants. While many people consider this to be more of a vice than a virtue, Chaldira and her followers feel it is far better to run headlong into trouble than it is to meekly concede to evil out of fear or convenience. Chaldira is also the goddess of light-hearted mischief, insisting that harmless fun, even at others' expense, brings joy and strengthens ties within a community. While not all of Chaldira's followers are inveterate pranksters, most at least know some sleight-of-hand tricks. Chaldira is most often depicted as a halfling woman who matches the appearance of the local halfling community, with curly hair, freckles, and a patchwork red-and-green coat held together by several mismatched buttons.
+## Devotee benefits
 
-* * *
+- **Divine Ability**: Dexterity or Charisma
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Thievery
+- **Favored Weapon**: [shortsword](compendium/equipment/items/shortsword.md)
+- **Domains**: [confidence](compendium/setting/domains.md#Confidence), [luck](compendium/setting/domains.md#Luck), [trickery](compendium/setting/domains.md#Trickery), [zeal](compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [fleet step](compendium/spells/fleet-step.md); 2nd: [misdirection](compendium/spells/misdirection.md); 5th: [cloak of colors](compendium/spells/cloak-of-colors.md)
 
-Chaldira Zuzaristan is a halfling goddess who encourages her followers to protect the innocent, oppose tyranny, punch evil in the gut, and have fun while doing it. Much beloved by the Firebrands, she's also known as the Calamitous Turn. Generally considered a brave, hot-headed goddess, Chaldira is bold and tenacious. She trusts her instincts, follows her heart, and fights for what's right no matter the odds or opposition. This message resonates strongly with many Firebrands, regardless of their methodology.
+When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Chaldira gains the following additional abilities.
 
-For these Firebrands, Chaldira's most attractive qualities are her drive, determination, and pluck. She's the goddess they turn to when opposing a power bigger than themselves, whether through combat, guile, or social reform. From revolutionaries and activists who seek social and political change to do-gooders who literally fight tyrannical regimes, Chaldira is a source of bravery, comfort, and encouragement. Many Firebrands who follow Chaldira become leaders of rebellions or Firebrand cells as well as organizers of rallies, covert missions, uprisings, and other similar endeavors.
+```ad-embed-avatar
+title: [Avatar](compendium/spells/avatar.md) of Chaldira
 
-Chaldira is also a goddess of luck, and Firebrands about to undertake a particularly dangerous task often pray for her blessing. Integrating oversized, brightly colored buttons into one's attire has become a popular fashion trend among Firebrands and is intended to honor Chaldira or curry her favor. Those Firebrands who operate discreetly instead sew the buttons into their pockets, waistbands, or the lining of their coats for luck.
+- **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md), immune to [immobilized](rules/conditions.md#Immobilized)
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") shortsword (, [agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <s>](rules/traits/versatile-s.md "Versatile Weapon Trait")), **Damage** `6d6+6` piercing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") fistful of buttons (, [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")), **Damage** `6d6+3` bludgeoning 
+```
 
-Chaldira is a friendly goddess who frequently cooperates with other divinities. She draws Desna and Kurgess on madcap adventures, partners with Cayden Cailean or Milani to topple tyrants, and joins Picoperi or Thisamet when spreading laughter and mischief. Similarly, Chaldira's worshippers strive to build communities and strengthen bonds of togetherness, both among the people of the regions in which they operate and within the Firebrands themselves. Rebellions and political change require public support to succeed, and this support can only come from a community that feels united. Likewise, Chaldiran Firebrands are among those who encourage teamwork and collaboration between Firebrand cells. They act as messengers, go-betweens, facilitators, and greatly enjoy seeing a "team-up" between different Firebrand groups. They're the first to remind their fellows that, while the Firebrands face insurmountable odds, they needn't do so alone. Just as a single voice can be drowned out but a multitude can't be silenced, while one Firebrand is great, together they're unstoppable.
+## Divine intercession
+*Source: Lost Omens: Gods & Magic Web Supplement p. 5*
 
-**Edicts** seek out and challenge oppressors and tyrants, defend friends and the innocent, engage in mischief that doesn't harm others
+The Calamitous Turn's pleasure most often manifests as improbably good luck, while her displeasure creates startling misfortune.
 
-**Anathema** suffer a bully's insults to you or another without retort, abandon a friend in need, attribute a lucky turn of events to your own skill
+- **Minor Boon** Once, you can choose the result of the next ordinary coin you flip or ordinary die you roll. If this ability is used for personal gain at the expense of someone innocent or less fortunate, Chaldira levies her moderate curse on you as punishment.
+- **Moderate Boon**: You gain a lucky impetuousness, allowing you to roll for initiative twice and use the higher result once per day. This is a [fortune](rules/traits/fortune.md "Fortune Effect Trait") effect.
+- **Major Boon**: Chaldira's major boon grants truly improbable luck in combat. Your movement doesn't trigger reactions. You always succeed at flat checks you make to hit opponents with [attack](rules/traits/attack.md "Attack Combat Trait") actions; this is a [fortune](rules/traits/fortune.md "Fortune Effect Trait") effect.
 
-**Areas of Concern** battle, fortune, mischief
+- **Minor Curse**: Any time you refuse a request made in good faith, you vomit up a frog, mouse, or other small animal. This deals no damage and causes no conditions, but is obvious to all bystanders.
+- **Moderate Curse** You are plagued with ill luck just when fortune is most needed. You must always roll flat checks twice and use the worse result. This is a [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait") effect.
+- **Major Curse**: Ill luck causes even once-certain aid to fail with frustrating regularity. You cannot benefit from circumstance or status bonuses, or from [fortune](rules/traits/fortune.md "Fortune Effect Trait") effects.

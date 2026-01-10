@@ -1,17 +1,27 @@
 ---
-title: "Barbatos"
-draft: true
-noteType: ":luggage:"
-aliases: "Barbatos"
-foundryId: Item.RhBFT4IJ5KhUsWF5
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/archdevils
+- domain/magic/deity
+- domain/nature/deity
+- domain/travel/deity
+- domain/tyranny/deity
+aliases: ["Barbatos", "The Bearded Lord"]
 ---
+# Barbatos (The Bearded Lord) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 74*  
 
-# Barbatos
+- **Category**: Archdevils
+- **Anathema**: hide any plot against your masters, close or interfere with portals to Hell
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
-Barbatos is the youngest of the archdevils, and in fact is not truly a devil at all. His true nature remains unknown and perpetually cloaked, but when he appeared at Hell's gates bearing the souls of an entire mortal world and transformed them into Hell's first legion of barbazus as an offering, the Prince of Darkness saw fit to grant Barbatos rulership over Hell's first layer, Avernus. As Hell's doorwarden, Barbatos oversees the spaces between worlds, and his followers are those who tread such interstitial paths and hold no qualms about the ethics of their journeys.
+## Devotee benefits
 
-**Edicts** Veil your motives, make dangerous deals, offer incomplete and ruinous knowledge
-
-**Anathema** Hide any plot against your masters, close or interfere with portals to Hell
+- **Divine Ability**: Constitution or Wisdom
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Nature
+- **Favored Weapon**: [staff](compendium/equipment/items/staff.md)
+- **Domains**: [magic](compendium/setting/domains.md#Magic), [nature](compendium/setting/domains.md#Nature), [travel](compendium/setting/domains.md#Travel), [tyranny](compendium/setting/domains.md#Tyranny)
+- **Cleric Spells**: 1st: [magic fang](compendium/spells/magic-fang.md); 3rd: [paralyze](compendium/spells/paralyze.md); 4th: [clairvoyance](compendium/spells/clairvoyance.md)

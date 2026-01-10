@@ -1,21 +1,38 @@
 ---
-title: "Ragathiel"
-draft: true
-noteType: ":luggage:"
-aliases: "Ragathiel"
-foundryId: Item.jxB8V6HZ9jLT1sJ4
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/empyreal-lords
+- domain/destruction/deity
+- domain/duty/deity
+- domain/fire/deity
+- domain/zeal/deity
+- trait/reach-15-feet
+- trait/two-handed-d12
+aliases: ["Ragathiel", "General of Vengeance"]
 ---
+# Ragathiel (General of Vengeance) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 128*  
 
-# Ragathiel
+- **Category**: Empyreal Lords
+- **Anathema**: cower from combat, forgive those who have irreparably sinned, leave allies unwillingly in darkness
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait")
 
-The General of Vengeance presides over chivalry, duty, and vengeance, acting as the quintessential knight. Born of the archdevil Dispater and Feronia, a neutral demigoddess of fire, Ragathiel struggles to overcome the reputation of his parentage, and he understands the struggle to be accepted, to be trusted, and to fight against his own nature for the sake of good. He represents strength in battle, wrath upon the wicked, absolution or vengeance for the wronged, leadership when needed, and virtue and duty to the innocent. He expects his followers to destroy fiends when they find them and to work toward truly earning the trust and acceptance of those around them. Those who follow him lead by shining example and can be found on the front lines of battle or any conflict against evil they can find.
+## Devotee benefits
 
-The General of Vengeance appears as a massive giant, standing more than 20 feet tall, clad in golden plate armor that shines with its own light and carrying a sword that burns with holy fire. Five flaming wings stretch from his back, three on his left and two on his right-the sixth was lost, torn out by his father in a fit of fury. Followers of Ragathiel include crusaders, knights, soldiers, the falsely accused, the marginalized, and the wronged.
+- **Divine Ability**: Strength or Charisma
+- **Divine Font**: [heal](compendium/spells/heal.md) or [harm](compendium/spells/harm.md)
+- **Divine Skill**: Intimidation
+- **Favored Weapon**: [bastard sword](compendium/equipment/items/bastard-sword.md)
+- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [duty](compendium/setting/domains.md#Duty), [fire](compendium/setting/domains.md#Fire), [zeal](compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [true strike](compendium/spells/true-strike.md); 3rd: [haste](compendium/spells/haste.md); 4th: [fire shield](compendium/spells/fire-shield.md)
 
-**Edicts** Avenge the wronged, destroy evildoers, lead the charge in battle
+```ad-embed-avatar
+title: [Avatar](compendium/spells/avatar.md) of Ragathiel
 
-**Anathema** Cower from combat, forgive those who have irreparably sinned, leave allies unwillingly in darkness
-
-**Areas of Concern** chivalry, duty, and vengeance
+- **Speed**: Speed 30 feet, fly 70 feet
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") bastard sword (, [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), silver, two-handed <d12>), **Damage** `5d8+6` slashing and `1d8` fire 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") flames of righteous vengeance (), **Damage** `4d6+3` fire and `1d6` fire splash The caster is immune to this [splash](rules/traits/splash.md "Splash Weapon Trait") damage
+```

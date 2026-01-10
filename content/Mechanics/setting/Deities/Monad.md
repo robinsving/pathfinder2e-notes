@@ -1,19 +1,27 @@
 ---
-title: "Monad"
-draft: true
-noteType: ":luggage:"
-aliases: "Monad"
-foundryId: Item.15u5yVuHzrm32J1Z
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/monitor-demigods
+- domain/creation/deity
+- domain/knowledge/deity
+- domain/truth/deity
+- domain/void/deity
+aliases: ["Monad", "The Condition of All"]
 ---
+# Monad (The Condition of All) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 130*  
 
-# Monad
+- **Category**: Monitor Demigods
+- **Anathema**: allow your personal motivations to determine a major decision
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
-All aeons come from, return to, are connected with, and are guided by the Monad. The Condition of All is not a deity in the traditional sense. It exists both within and outside the multiverse and has influence over the entirety of existence. Though generally content to allow the multiverse to run its course, the Monad directs its aeons to intervene when events deviate from their ineffable design. Mortal scholars often personify the Monad as the deity of creation, the infinite, and truth. Even so, few worship it, and the Monad pays very little attention to mortal petitioners. Instead, scholars study and plot aeons' actions, striving to discern the Monad's ultimate goal or to uncover universal truths they can exploit for their own purposes. Only a rare few mortals can master the asceticism necessary to connect with the Monad, gaining hidden knowledge and powers akin to those of other divine spellcasters.
+## Devotee benefits
 
-**Edicts** Ensure balance between opposing forces, mediate disagreements
-
-**Anathema** Allow your personal motivations to determine a major decision
-
-**Areas of Concern** creation, the infinite, and truth
+- **Divine Ability**: Intelligence or Wisdom
+- **Divine Font**: [heal](compendium/spells/heal.md) or [harm](compendium/spells/harm.md)
+- **Divine Skill**: Occultism
+- **Favored Weapon**: fist
+- **Domains**: [creation](compendium/setting/domains.md#Creation), [knowledge](compendium/setting/domains.md#Knowledge), [truth](compendium/setting/domains.md#Truth), [void](compendium/setting/domains.md#Void)
+- **Cleric Spells**: 1st: [unseen servant](compendium/spells/unseen-servant.md); 2nd: [spectral hand](compendium/spells/spectral-hand.md); 4th: [gaseous form](compendium/spells/gaseous-form.md)

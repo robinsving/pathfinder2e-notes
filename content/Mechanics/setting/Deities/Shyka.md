@@ -1,19 +1,27 @@
 ---
-title: "Shyka"
-draft: true
-noteType: ":luggage:"
-aliases: "Shyka"
-foundryId: Item.Xdb2tQxpYuuDS74N
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/eldest
+- domain/decay/deity
+- domain/delirium/deity
+- domain/fate/deity
+- domain/time/deity
+aliases: ["Shyka", "The Many"]
 ---
+# Shyka (The Many) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 126*  
 
-# Shyka
+- **Category**: Eldest
+- **Anathema**: willingly tread where time does not pass
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
-The Eldest of entropy, reincarnation, and time, Shyka the Many is not a single entity but rather multiple beings who travel forward and backward through time. Each has sequentially held the title of Shyka, picking up the mantle and the knowledge that comes with it upon the passing (or disappearance) of a predecessor. Shyka visits so many overlapping temporal locations that other creatures encounter a random-seeming Shyka each time. This Eldest knows of the multiverse's birth as well as its death, having experienced both. Although Shyka claims to merely watch over the continuum of time, it's an open secret that the Eldest makes slight changes in line with their own goals-or requests that their worshippers do so, with abstruse promptings.
+## Devotee benefits
 
-**Edicts** Learn from the past, leave hourglasses in unusual places, give random gifts, create ephemeral things
-
-**Anathema** Willingly tread where time does not pass
-
-**Areas of Concern** entropy, reincarnation, and time
+- **Divine Ability**: Dexterity or Intelligence
+- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Skill**: Occultism
+- **Favored Weapon**: [light mace](compendium/equipment/items/light-mace.md)
+- **Domains**: [decay](compendium/setting/domains.md#Decay), [delirium](compendium/setting/domains.md#Delirium), [fate](compendium/setting/domains.md#Fate), [time](compendium/setting/domains.md#Time)
+- **Cleric Spells**: 1st: [anticipate peril](compendium/spells/anticipate-peril-logm.md); 3rd: [haste](compendium/spells/haste.md); 7th: [time beacon](compendium/spells/time-beacon-logm.md)

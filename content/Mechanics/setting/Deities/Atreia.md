@@ -1,19 +1,27 @@
 ---
-title: "Atreia"
-draft: true
-noteType: ":luggage:"
-aliases: "Atreia"
-foundryId: Item.uJehi628ddrXv7VN
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/elemental-lords
+- domain/fire/deity
+- domain/healing/deity
+- domain/protection/deity
+- domain/sun/deity
+aliases: ["Atreia", "The Lambent King"]
 ---
+# Atreia (The Lambent King) *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 126*  
 
-# Atreia
+- **Category**: Elemental Lords
+- **Anathema**: deny a suffering creature warmth, shade, or water; abandon a creature in darkness
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
-Responsible for fire, purification, and radiance, Atreia the Lambent King is the benevolent elemental lord of fire. When the multiverse was young, Atreia soared across the Plane of Fire as a triple-headed ibis, with wings that burned and eyes of flame, routing evil from the plane. Now, he is imprisoned within the Garnet Brand, a red gem encased in an eternal shroud of steam. Though he cannot hear or grant power to his followers from his prison, some groups of salamanders on the Plane of Fire still honor the Lambent King for his dominion over protection and life-giving fire, as do a few small circles of mortals who hold the discovery and purification of evil above all other causes. Statues depicting his likeness can be found across his former realms, hidden in ancient sites dedicated to healing and holy light.
+## Devotee benefits
 
-**Edicts** Burn away corruption, clear the way for new growth, purify tainted areas
-
-**Anathema** Deny a suffering creature warmth, shade, or water; abandon a creature in darkness
-
-**Areas of Concern** fire, purification, and radiance
+- **Divine Ability**: Wisdom or Charisma
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Performance
+- **Favored Weapon**: [katar](compendium/equipment/items/katar.md)
+- **Domains**: [fire](compendium/setting/domains.md#Fire), [healing](compendium/setting/domains.md#Healing), [protection](compendium/setting/domains.md#Protection), [sun](compendium/setting/domains.md#Sun)
+- **Cleric Spells**: 1st: [soothe](compendium/spells/soothe.md); 3rd: [ghostly weapon](compendium/spells/ghostly-weapon.md); 4th: [fire shield](compendium/spells/fire-shield.md)

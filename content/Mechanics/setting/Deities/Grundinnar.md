@@ -1,17 +1,27 @@
 ---
-title: "Grundinnar"
-draft: true
-noteType: ":luggage:"
-aliases: "Grundinnar"
-foundryId: Item.0m7JbRGjJXcmTz7H
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/dwarven-gods
+- domain/confidence/deity
+- domain/family/deity
+- domain/protection/deity
+- domain/truth/deity
+aliases: ["Grundinnar", "The Peacemaker"]
 ---
+# Grundinnar (The Peacemaker) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 126*  
 
-# Grundinnar
+- **Category**: Dwarven Gods
+- **Anathema**: sow discord among friends and allies, attack during parley
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait")
 
-Grundinnar is one of [[Torag]]'s many sons and is the dwarven god of friendship and loyalty. He is experienced at breaking up fights over his sister [[Bolka]], and has thus developed quite a strong sense of diplomacy. He uses this skill to end feuds, encourage neighborly conduct among his followers and works to ensure that dwarves remember friends they haven't seen in many years.
+## Devotee benefits
 
-**Edicts** Attempt to bridge the gap between feuding sides, maintain just treaties, maintain relations with neighbors
-
-**Anathema** Sow discord among friends and allies, attack during parley
+- **Divine Ability**: Constitution or Charisma
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Diplomacy
+- **Favored Weapon**: [light hammer](compendium/equipment/items/light-hammer.md)
+- **Domains**: [confidence](compendium/setting/domains.md#Confidence), [family](compendium/setting/domains.md#Family), [protection](compendium/setting/domains.md#Protection), [truth](compendium/setting/domains.md#Truth)
+- **Cleric Spells**: 1st: [anticipate peril](compendium/spells/anticipate-peril-logm.md); 4th: [resilient sphere](compendium/spells/resilient-sphere.md); 6th: [wall of force](compendium/spells/wall-of-force.md)

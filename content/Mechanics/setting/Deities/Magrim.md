@@ -1,17 +1,27 @@
 ---
-title: "Magrim"
-draft: true
-noteType: ":luggage:"
-aliases: "Magrim"
-foundryId: Item.FOHgKMTDTAjyK6pg
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/dwarven-gods
+- domain/death/deity
+- domain/duty/deity
+- domain/fate/deity
+- domain/glyph/deity
+aliases: ["Magrim", "The Taskmaster"]
 ---
+# Magrim (The Taskmaster) *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 126*  
 
-# Magrim
+- **Category**: Dwarven Gods
+- **Anathema**: treat gravesites irreverently, mistreat your tools, create undead, damage a soul
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
-Magrim is the demigod† overseer of the dwarven afterlife who first taught the dwarves how to commune with their gods. He is responsible for restoring wracked souls to be ready to return to the Material Plane of mortals. Together with Angradd, Magrim watches over battles. Torag, creator of the mortal dwarven race, is his younger brother.
+## Devotee benefits
 
-**Edicts** Perfect a craft or trade, carve runes, destroy undead, aid others with completing unfinished tasks
-
-**Anathema** Treat gravesites irreverently, mistreat your tools, create undead, damage a soul
+- **Divine Ability**: Constitution or Wisdom
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Crafting
+- **Favored Weapon**: [warhammer](compendium/equipment/items/warhammer.md)
+- **Domains**: [death](compendium/setting/domains.md#Death), [duty](compendium/setting/domains.md#Duty), [glyph](compendium/setting/domains.md#Glyph), [fate](compendium/setting/domains.md#Fate)
+- **Cleric Spells**: 1st: [temporary tool](compendium/spells/temporary-tool-logm.md); 2nd: [expeditious excavation](compendium/spells/expeditious-excavation-logm.md); 9th: [earthquake](compendium/spells/earthquake.md)

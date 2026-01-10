@@ -1,33 +1,44 @@
 ---
-title: "Uvuko"
-draft: true
-noteType: ":luggage:"
-aliases: "Uvuko"
-foundryId: Item.MHTlRqK7rNfHVDui
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/lome
+- deity/mwangi-gods
+- domain/air/deity
+- domain/change/deity
+- domain/cold/deity
+- domain/creation/deity
+- domain/healing/deity
+- domain/wyrmkin/deity
+- trait/reach-15-feet
+- trait/shove
+aliases: ["Uvuko", "The Diamond Ring"]
 ---
+# Uvuko (The Diamond Ring) *([CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"))*  
+*Source: Lost Omens: The Mwangi Expanse p. 141*  
 
-# Uvuko
+- **Category**: Mwangi Gods
+- **Anathema**: allow yourself and your surroundings to stagnate, crush an egg, use vile or cruel language
+- **Areas of Concern**: metamorphosis, cycles, growth, fertility
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
-The god Uvuko dances across the land, his body forming the boundary between earth and sky. His twisting tail churns the air into clouds, his creations spreading water to all those who thirst. His sliding scales till the earth, bringing forth plants that are nourished by Uvuko's rains. The worship of Uvuko is widespread in the Mwangi Expanse, found among many lizardfolk tribes, Mbe'ke and Taralu dwarves, and in the more cosmopolitan cities.
+## Devotee benefits
 
-Uvuko's followers agree on the ideal of change as an aspect of life, both for themselves and others. Much as Uvuko's constant motion brings renewal to the earth and sky, personal growth and choice allows the world to flourish. When creatures are denied their ability to choose, their energy is lost, and the great cycle of the world threatens to halt. For this reason, adherents of Uvuko adamantly oppose slavery and servitude, and readily fight to end either. Sickness likewise causes a creature to stagnate and rot, and so worshippers often train as healers, helping others to shed their illness like a snake sheds its skin.
+- **Divine Ability**: Strength or Wisdom
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Athletics
+- **Favored Weapon**: [maul](compendium/equipment/items/maul.md)
+- **Domains**: [change](compendium/setting/domains.md#Change), [creation](compendium/setting/domains.md#Creation), [healing](compendium/setting/domains.md#Healing), [wyrmkin](compendium/setting/domains.md#Wyrmkin)
+- **Alternate Domains**: [air](compendium/setting/domains.md#Air), [cold](compendium/setting/domains.md#Cold)
+- **Cleric Spells**: 1st: [fleet step](compendium/spells/fleet-step.md); 3rd: [haste](compendium/spells/haste.md); 6th: [dragon form](compendium/spells/dragon-form.md)
 
-Uvuko's worshippers also agree on the paramount importance of looking to the future with an unflinching attitude of eagerness and expectation. The past is the earth to be tilled, the future the endless potential of the empty sky. Evolving into a better self, being prepared for whatever is around the corner, and being self-aware are at the heart of Uvuko's teachings. The need to move on, as the individual changes and grows, whether from a place, a relationship, or a livelihood, is honored among Uvuko's followers.
+When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Uvuko gains the following additional abilities.
 
-Despite his age and power, Uvuko is an innocent god-sometimes, even shy. Rituals to Uvuko are often simply attempts to coax the god into actually visiting. Arguments, misery, or even a cross word spoken in anger can cause the god to dart away, and so priests seeking Uvuko's blessing must be careful to present a welcoming environment.
+```ad-embed-avatar
+title: [Avatar](compendium/spells/avatar.md) of Uvuko
 
-**Edicts** embrace change and the future, master adversity with flexibility, foster freedom and progress for others
-
-**Anathema** allow yourself and your surroundings to stagnate, crush an egg, use vile or cruel language
-
-## Avatar
-
-When casting the _[[Avatar]]_ spell, a worshipper of Uvoko gains the following additional abilities.
-
-**Uvoko** Speed 30 feet, Fly speed 70 feet, immune to [[Immobilized]]
-
-Melee 1 maul (shove, reach 15 feet), Damage `dice: 6d12+6` bludgeoning damage
-
-Ranged 1 breath of lightning (range increment 120 feet), Damage `dice: 6d6+3` electricity damage
+- **Speed**: Speed 30 feet, fly 70 feet, immune to [immobilized](rules/conditions.md#Immobilized)
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") maul (, [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [shove](rules/traits/shove.md "Shove Weapon Trait")), **Damage** `6d12+6` bludgeoning 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") breath of lightning (), **Damage** `6d6+3` electricity 
+```

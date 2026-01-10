@@ -1,19 +1,27 @@
 ---
-title: "Zura"
-draft: true
-noteType: ":luggage:"
-aliases: "Zura"
-foundryId: Item.d6QqRhdhTDr4maGt
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/demon-lords
+- domain/delirium/deity
+- domain/indulgence/deity
+- domain/nightmares/deity
+- domain/undeath/deity
+aliases: ["Zura", "The Vampire Queen"]
 ---
+# Zura (The Vampire Queen) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 77*  
 
-# Zura
+- **Category**: Demon Lords
+- **Anathema**: expose vampires, heal a bloody wound without drinking blood from it first
+- **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-Zura, the Vampire Queen, is the demon lord of blood, cannibalism, and vampires. According to legend, she is the reincarnated form of an Azlanti queen who indulged in blood rites and acts of cannibalism in a quest for eternal life. After death, she was reborn as a unique vampiric succubus who quickly ascended to the status of demon lord. Though many of her cults died out with the Azlanti empire, Zura is still worshipped by vampires and those aspiring to become vampires, particularly within Cheliax and Ustalav, as well as among the drow of the Darklands.
+## Devotee benefits
 
-**Edicts** Drink blood, seek vampirism, cause bleed damage
-
-**Anathema** Expose vampires, heal a bloody wound without drinking blood from it first
-
-**Areas of Concern** blood, cannibalism, and vampires
+- **Divine Ability**: Strength or Charisma
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Diplomacy
+- **Favored Weapon**: [rapier](compendium/equipment/items/rapier.md)
+- **Domains**: [delirium](compendium/setting/domains.md#Delirium), [indulgence](compendium/setting/domains.md#Indulgence), [nightmares](compendium/setting/domains.md#Nightmares), [undeath](compendium/setting/domains.md#Undeath)
+- **Cleric Spells**: 1st: [charm](compendium/spells/charm.md); 4th: [gaseous form](compendium/spells/gaseous-form.md); 6th: [dominate](compendium/spells/dominate.md)

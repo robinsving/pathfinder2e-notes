@@ -1,21 +1,30 @@
 ---
-title: "The Godclaw"
-draft: true
-noteType: ":luggage:"
-aliases: "The Godclaw"
-foundryId: Item.6XrKbElW00847fj3
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/pantheon
+- domain/duty/deity
+- domain/perfection/deity
+- domain/protection/deity
+- domain/tyranny/deity
+- domain/zeal/deity
+aliases: ["The Godclaw"]
 ---
+# The Godclaw *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 93*  
 
-# The Godclaw
+- **Category**: Pantheon
+- **Anathema**: rest when there is lawlessness to fight, believe you know or understand more than the pantheon
+- **Areas of Concern**: discipline, laws, order, strategy
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
-The Hellknight Order of the Godclaw reveres a pantheon of five deities: Iomedae and Torag are seen as Hellknights (concerned with offensive and defensive combat, respectively), Irori as the epitome of emotionless discipline, Abadar as a keeper of laws, and Asmodeus as a strategist king. Depictions of these deities as part of the Godclaw differ from traditional images, with the deities portrayed as stern, armored paragons of law. Though some members of the Order of the Godclaw dedicate themselves to individual gods, many take the whole pantheon as their patron, receiving spells despite their unorthodox (perhaps even heretical) beliefs.
+## Devotee benefits
 
-**Edicts** eliminate chaos at its root, be an exemplar of order (worthy of not one, but five), seek the universal laws that transcend individual faiths
-
-**Anathema** rest when there is lawlessness to fight, believe you know or understand more than the pantheon
-
-**Areas of Concern** discipline, laws, order, strategy
-
-**Pantheon Members** [[Abadar]], [[Asmodeus]], [[Iomedae]], [[Irori]], [[Torag]]
+- **Divine Ability**: Strength or Intelligence
+- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Skill**: Society
+- **Favored Weapon**: [morningstar](compendium/equipment/items/morningstar.md)
+- **Domains**: [perfection](compendium/setting/domains.md#Perfection), [protection](compendium/setting/domains.md#Protection), [tyranny](compendium/setting/domains.md#Tyranny), [zeal](compendium/setting/domains.md#Zeal)
+- **Alternate Domains**: [duty](compendium/setting/domains.md#Duty)
+- **Cleric Spells**: 1st: [phantom pain](compendium/spells/phantom-pain.md); 4th: [fire shield](compendium/spells/fire-shield.md); 6th: [dominate](compendium/spells/dominate.md)

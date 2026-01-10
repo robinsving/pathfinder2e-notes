@@ -1,33 +1,43 @@
 ---
-title: "Walkena"
-draft: true
-noteType: ":luggage:"
-aliases: "Walkena"
-foundryId: Item.CxetSOO8vJSjRVkg
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/mwangi-gods
+- domain/duty/deity
+- domain/family/deity
+- domain/fire/deity
+- domain/freedom/deity
+- domain/sun/deity
+- domain/tyranny/deity
+- trait/reach-20-feet
+- trait/versatile-fire
+aliases: ["Walkena", "The Child-God"]
 ---
+# Walkena (The Child-God) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 130*  
 
-# Walkena
+- **Category**: Mwangi Gods
+- **Anathema**: consort or trade with non-Mwangi peoples, defy Walkena's orders
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
-In the city-state of Mzali in the Mwangi Expanse resides an undead being of immense power, a child-sized god-king. In the past, Walkena was a mortal descendant of the gods that ruled over Mzali in ancient times, one of the sun kings from an old empire and a golden age of the city. Ages later, his preserved body was found by members of the Council of Mwanyisa, who ruled Mzali at that time. Believing him to be an omen of the city's impending resurgence, the council took him to put him on display in Mzali. When an army from the Sargavan city of Kalabuto attacked the city, Walkena awoke-this time as an undead creature-and slew each of the invaders in a purging rain of fire.
+## Devotee benefits
 
-Walkena is entirely different from how he was before his death. A sense of kindness and compassion was once common in his disposition, but after his revival he became controlling and unwavering. The young sun king previously embodied a gentle compassion; now he has become harsh like the summer sun. He purifies, but at a terrible cost.
+- **Divine Ability**: Strength or Wisdom
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Deception
+- **Favored Weapon**: [spear](compendium/equipment/items/spear.md)
+- **Domains**: [family](compendium/setting/domains.md#Family), [freedom](compendium/setting/domains.md#Freedom), [sun](compendium/setting/domains.md#Sun), [tyranny](compendium/setting/domains.md#Tyranny)
+- **Alternate Domains**: [duty](compendium/setting/domains.md#Duty), [fire](compendium/setting/domains.md#Fire)
+- **Cleric Spells**: 1st: [burning hands](compendium/spells/burning-hands.md); 3rd: [fireball](compendium/spells/fireball.md); 4th: [wall of fire](compendium/spells/wall-of-fire.md)
 
-Walkena's stance is that all residents of the Mwangi Expanse are bonded, that they must all practice unity. Those whom associate and conspire with outsiders are traitors and a danger. Although his means are not always considered good, he will do anything to protect his people, so long as they do not defy him. To restore his homeland to the glory it once held is his greatest goal.
+When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Walkena gains the following additional abilities.
 
-Though cruel in his rule and terrifying to his enemies, for a long time, Walkena was one of the strongest points of resistance against colonial forces and the exploitation of the Mwangi Expanse. Many were reluctant to confront the child-god's abuses, fearful of criticizing one of the Mwangi people's most prominent defenders. Walkena's seeming disdain for the new nation of Vidrian has many worried that Walkena might be more harmful than helpful in the long run. Despite this, Walkena remains a compelling figure to many. His grace comes through in every action and word he speaks. He blesses those that have dedicated themselves to the Mwangi Expanse. Walkena does not preach great rewards after death, but instead speaks to greatness in life.
+```ad-embed-avatar
+title: [Avatar](compendium/spells/avatar.md) of Walkena
 
-**Edicts** Uphold Mzali's laws, tend to Walkena and obey his instructions, oppose exploitation of the Mwangi Expanse
-
-**Anathema** Consort or trade with non-Mwangi peoples, defy Walkena's orders
-
-## Avatar
-
-When casting the _[[Avatar]]_ spell, a worshipper of Walkena gains the following additional abilities.
-
-**Walkena** Speed 60 feet, _[[Air Walk]]_
-
-1 holy spear (reach 20 feet; versatile fire), Damage `dice: 6d12+6` piercing damage
-
-1 sunfire (range increment 120 feet), Damage `dice: 6d6+6` fire damage
+- **Speed**: Speed 60 feet, [air walk](compendium/spells/air-walk.md)
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") holy spear (, [reach <20 feet>](rules/traits/reach-20-feet.md "Reach Weapon Trait"), [versatile <fire>](rules/traits/versatile-fire.md "Versatile Weapon Trait")), **Damage** `6d12+6` piercing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") sunfire (), **Damage** `6d6+6` fire 
+```

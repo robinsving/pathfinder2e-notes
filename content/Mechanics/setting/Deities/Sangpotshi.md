@@ -1,19 +1,20 @@
 ---
-title: "Sangpotshi"
-draft: true
-noteType: ":luggage:"
-aliases: "Sangpotshi"
-foundryId: Item.t1VHqg4zTqdfoln9
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/philosophy
+aliases: ["Sangpotshi"]
 ---
+# Sangpotshi *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 99*  
 
-# Sangpotshi
+- **Category**: Philosophy
+- **Anathema**: needlessly break significant traditions, actively interfere with the perfection efforts of another soul or allow others to do so
+- **Areas of Concern**: fate, karma, and reincarnation
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
-The philosophy of Sangpotshi, also known as the River of Life, centers around concepts of fate, karma, and cyclic reincarnation. Adherents believe each soul is judged upon its actions in life, and these actions determine its station when it returns to the living world. This cycle repeats until the soul reaches its perfected form through the accrual of experience and wisdom, whereupon it passes on to Pharasma's court and the afterlife to come.
+## Devotee benefits
 
-**Edicts** live selflessly; heed the wisdom of the learned, the wise, and those in stations of authority
-
-**Anathema** needlessly break significant traditions, actively interfere with the perfection efforts of another soul or allow others to do so
-
-**Areas of Concern** fate, karma, and reincarnation
+- **Divine Ability**: Intelligence or Wisdom
+- **Divine Skill**: Religion

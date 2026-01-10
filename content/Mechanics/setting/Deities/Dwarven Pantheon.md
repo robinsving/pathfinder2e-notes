@@ -1,19 +1,31 @@
 ---
-title: "Dwarven Pantheon"
-draft: true
-noteType: ":luggage:"
-aliases: "Dwarven Pantheon"
-foundryId: Item.cwYPblv5PcAdEmwT
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/pantheon
+- domain/creation/deity
+- domain/duty/deity
+- domain/family/deity
+- domain/glyph/deity
+- domain/protection/deity
+- domain/wealth/deity
+aliases: ["Dwarven Pantheon"]
 ---
+# Dwarven Pantheon *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 92*  
 
-# Dwarven Pantheon
+- **Category**: Pantheon
+- **Anathema**: dishonor your family, willingly break a contract or oath, irreparably damage an ancestral relic
+- **Areas of Concern**: ancestry, crafting, dwarves, relationships
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
-The dwarven gods are one large family, with [[Torag]] as its patriarch. He is joined by his brothers [[Magrim]] (the Taskmaster) and [[Angradd]] (the Forge Fire), his half-sister [[Dranngvit]] (the Debt Minder), and his wife [[Folgrit]] (the Watchful Mother). His children are [[Bolka]] (the Golden Gift), [[Grundinnar]] (the Peacemaker), [[Kols]] (the Oath-Keeper), and [[Trudd]] (the Mighty). Torag's evil former student [[Droskar]] (the Dark Smith), though technically part of the dwarven pantheon, is rarely invoked by any save duergars.
+## Devotee benefits
 
-**Edicts** develop skills useful to your community (especially crafting, mining, and trading), honor your ancestors through traditions and rituals
-
-**Anathema** dishonor your family, willingly break a contract or oath, irreparably damage an ancestral relic
-
-**Areas of Concern** ancestry, crafting, dwarves, relationships
+- **Divine Ability**: Constitution or Wisdom
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Diplomacy
+- **Favored Weapon**: [warhammer](compendium/equipment/items/warhammer.md)
+- **Domains**: [creation](compendium/setting/domains.md#Creation), [family](compendium/setting/domains.md#Family), [protection](compendium/setting/domains.md#Protection), [wealth](compendium/setting/domains.md#Wealth)
+- **Alternate Domains**: [duty](compendium/setting/domains.md#Duty), [glyph](compendium/setting/domains.md#Glyph)
+- **Cleric Spells**: 1st: [ant haul](compendium/spells/ant-haul.md); 4th: [creation](compendium/spells/creation.md); 7th: [retrocognition](compendium/spells/retrocognition.md)

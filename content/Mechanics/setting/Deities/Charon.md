@@ -1,23 +1,27 @@
 ---
-title: "Charon"
-draft: true
-noteType: ":luggage:"
-aliases: "Charon"
-foundryId: Item.8luibChfJcIPfM54
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/horsemen
+- domain/death/deity
+- domain/knowledge/deity
+- domain/soul/deity
+- domain/water/deity
+aliases: ["Charon", "The Boatman"]
 ---
+# Charon (The Boatman) *([NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 128*  
 
-# Charon
+- **Category**: Horsemen
+- **Anathema**: offer anything for free, extend mortal lifespans, grant true salvation to the doomed or dying
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-The First Horseman, eldest of his counterparts and the Boatman of the Styx, is a patient and cunning figure. Content to allow plans to take hold over time, Charon freely offers his power only to collect on his bargain decades or even centuries later. As the Horseman of Death, Charon concerns himself with miserable, pointless deaths that are devoid of any faith, mercy, or meaning, dragging those who perish in the depths of hopelessness and nihilism down into Abaddon and oblivion.
+## Devotee benefits
 
-Charon is the last surviving member of the original Horsemen who overthrew the First Daemon in their fit of jealous contempt. Holding knowledge from the earliest days of existence, he alone knows Abaddon's true history, but he keeps it to himself. This allows him to exploit opportunities with curious mortals, sweeping more souls into his dread kingdom.
-
-Charon appears as a tall, looming man dressed in a frayed cloak and gripping a lantern staff firmly in one hand, but it is widely believed that this form is a facade. His true face may be unknowable, hidden away at the end of the Styx within his sunken palace, the Drowning Court. Some theorize that this form is nothing more than a mouthpiece for a far more alien entity that lies beneath the waters of the Styx. Whatever the case, Charon is a timeless being whose bargains, promises, and bottomless hunger stretch back to the earliest days.
-
-**Edicts** End all mortal life, exploit those who fear death
-
-**Anathema** Offer anything for free, extend mortal lifespans, grant true salvation to the doomed or dying
-
-**Areas of Concern** death
+- **Divine Ability**: Constitution or Intelligence
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Occultism
+- **Favored Weapon**: [staff](compendium/equipment/items/staff.md)
+- **Domains**: [death](compendium/setting/domains.md#Death), [knowledge](compendium/setting/domains.md#Knowledge), [soul](compendium/setting/domains.md#Soul), [water](compendium/setting/domains.md#Water)
+- **Cleric Spells**: 1st: [grim tendrils](compendium/spells/grim-tendrils.md); 4th: [crushing despair](compendium/spells/crushing-despair.md); 9th: [weird](compendium/spells/weird.md)

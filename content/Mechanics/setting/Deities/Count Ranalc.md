@@ -1,19 +1,27 @@
 ---
-title: "Count Ranalc"
-draft: true
-noteType: ":luggage:"
-aliases: "Count Ranalc"
-foundryId: Item.Zxi2LnIauqSm3Lw4
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/eldest
+- domain/confidence/deity
+- domain/darkness/deity
+- domain/sorrow/deity
+- domain/travel/deity
+aliases: ["Count Ranalc", "The Traitor"]
 ---
+# Count Ranalc (The Traitor) *([CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 78*  
 
-# Count Ranalc
+- **Category**: Eldest
+- **Anathema**: ask for forgiveness, create permanent or long-lasting sources of light
+- **Follower Alignments**: [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-Once the lord of darkness and of the chaos of creation, Count Ranalc was cast out long ago by the other Eldest and titled "the Traitor," though the Eldest are not forthcoming about what heinous treachery Ranalc committed, and many among his worshippers claim that he was the one who was betrayed. In his new home in a remote corner of the Shadow Plane, Ranalc embraced his banishment and became the patron of exiles, shadows, betrayal, and the betrayed. Ranalc had long held a fascination with the world of Golarion, and he was alternately both friend and foil to the powerful archwizard Nex. On the day Nex besieged the city of Absalom with shadowy beings-beings certainly drawn from Ranalc's domain-the Eldest vanished from reality. Although he continues to grant spells to his devout worshippers, Ranalc has otherwise wholly disappeared. Theories about his disappearance abound, although they are as obscure and as self-contradictory as the enigmatic Eldest ever was.
+## Devotee benefits
 
-**Edicts** Work in shadows, hide your nature and motives, plot betrayals or revenge for betrayals
-
-**Anathema** Ask for forgiveness, create permanent or long-lasting sources of light
-
-**Areas of Concern** exiles, shadows, betrayal, and the betrayed
+- **Divine Ability**: Dexterity or Charisma
+- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Skill**: Stealth
+- **Favored Weapon**: [rapier](compendium/equipment/items/rapier.md)
+- **Domains**: [confidence](compendium/setting/domains.md#Confidence), [darkness](compendium/setting/domains.md#Darkness), [sorrow](compendium/setting/domains.md#Sorrow), [travel](compendium/setting/domains.md#Travel)
+- **Cleric Spells**: 1st: [penumbral shroud](compendium/spells/penumbral-shroud-logm.md); 4th: [private sanctum](compendium/spells/private-sanctum.md); 5th: [shadow walk](compendium/spells/shadow-walk.md)

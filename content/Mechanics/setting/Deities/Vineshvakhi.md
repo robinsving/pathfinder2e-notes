@@ -1,21 +1,42 @@
 ---
-title: "Vineshvakhi"
-draft: true
-noteType: ":luggage:"
-aliases: "Vineshvakhi"
-foundryId: Item.4ZUjPF93miVAK0kB
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/loil
+- deity/other-gods
+- domain/change/deity
+- domain/duty/deity
+- domain/knowledge/deity
+- domain/lightning/deity
+- domain/pain/deity
+- domain/protection/deity
+- domain/secrecy/deity
+- trait/reach-15-feet
+- trait/versatile-p
+aliases: ["Vineshvakhi", "The Pain of Purity"]
 ---
+# Vineshvakhi (The Pain of Purity) *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
+*Source: Lost Omens: Impossible Lands p. 319*  
 
-# Vineshvakhi
+- **Category**: Other Gods
+- **Anathema**: abandon your post, fail to protect your charge, willingly suffer corruption over death or grievous harm
+- **Areas of Concern**: guardians, locks, sacrifice, vaults
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait")
 
-In the pursuit of righteousness, one will suffer 10,000 little deaths. Those of purity will accept this torment and emerge knowing every danger the world might cast upon them, while those who flee like cowards from their task will know only their mortality. This truth was first claimed by Vineshvakhi, who even as a fledgling divinity couldn't begin to appreciate the gravity of his charge until he suffered pain and humiliation in its defense.
+## Devotee benefits
 
-In ancient days, Vineshvakhi was tasked with protecting a blessed vault. Whatever it contained, Vineshvakhi knew only that he was to protect it, that he was never to look upon it, and that the asuras in all their blasphemous horror would seek to steal it. The raid by the asuras was a three-pronged attack. Vineshvakhi bested waves of fiendish horrors, resolute in his actions and unwilling to give an inch of ground or willpower to their corrupting devices. He turned the tide against Gavidya the Numberless's hordes, and struck true against Taraksun the Wakener of Wrath. The skies in Heaven were an erupting cacophony of brilliant lights, crashing blades, and fiendish miasma; in the end, it was Bohga who won the day. The Treasurer rana warped Vineshvakhi's own hand to remove the lock. Unwilling to cede any ground, the god of guardians severed each of his six fingers and spat in the eye of the rana.
+- **Divine Ability**: Constitution or Wisdom
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Intimidation
+- **Favored Weapon**: [longsword](compendium/equipment/items/longsword.md)
+- **Domains**: [duty](compendium/setting/domains.md#Duty), [lightning](compendium/setting/domains.md#Lightning), [pain](compendium/setting/domains.md#Pain), [protection](compendium/setting/domains.md#Protection)
+- **Alternate Domains**: [change](compendium/setting/domains.md#Change), [knowledge](compendium/setting/domains.md#Knowledge), [secrecy](compendium/setting/domains.md#Secrecy)
+- **Cleric Spells**: 1st: [mage armor](compendium/spells/mage-armor.md); 2nd: [enlarge](compendium/spells/enlarge.md); 6th: [chain lightning](compendium/spells/chain-lightning.md)
 
-Throughout the Impossible Lands, the ramifications of this conflict still carry forth. Calikangs were born from these divine fallen fingers and seek greater communion with the father they feel they failed when they were still part of his flesh. Ever resurgent, so too do asuras remain in dire numbers, pursuing the death of the divine. Wanderers of Vineshvakhi's order, the virajvinesh serve as sacred bodyguards, fiend hunters, and sacred slayers second only to the clerics of Abadar in their devotion to protection as a blessed concept.
+```ad-embed-avatar
+title: [Avatar](compendium/spells/avatar.md) of Vineshvakhi
 
-**Edicts** protect holy people, places, and treasures; sacrifice common comforts and mortal joys for the sake of your charge
-
-**Anathema** abandon your post, fail to protect your charge, willingly suffer corruption over death or grievous harm
+- **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md), immune to [immobilized](rules/conditions.md#Immobilized)
+- **Shield**: shield (15 Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") longsword (, [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <P>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d8+6` slashing 
+```

@@ -1,15 +1,27 @@
 ---
-title: "Yaezhing"
-draft: true
-noteType: ":luggage:"
-aliases: "Yaezhing"
-foundryId: Item.2Xp7HqCJKbvRPA2o
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/tian-gods
+- domain/death/deity
+- domain/duty/deity
+- domain/pain/deity
+- domain/trickery/deity
+aliases: ["Yaezhing", "Minister of Blood"]
 ---
+# Yaezhing (Minister of Blood) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 132*  
 
-# Yaezhing
+- **Category**: Tian Gods
+- **Anathema**: show mercy to a target, take credit for your assassinations, refuse to punish a lawfully convicted criminal
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait")
 
-**Edicts** Commit assassinations for hire, strike unseen, carry out punishment for convicted criminals
+## Devotee benefits
 
-**Anathema** Show mercy to a target, take credit for your assassinations, refuse to punish a lawfully convicted criminal
+- **Divine Ability**: Dexterity or Intelligence
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Stealth
+- **Favored Weapon**: [shuriken](compendium/equipment/items/shuriken.md)
+- **Domains**: [death](compendium/setting/domains.md#Death), [duty](compendium/setting/domains.md#Duty), [pain](compendium/setting/domains.md#Pain), [trickery](compendium/setting/domains.md#Trickery)
+- **Cleric Spells**: 1st: [true strike](compendium/spells/true-strike.md); 2nd: [invisibility](compendium/spells/invisibility.md); 6th: [mislead](compendium/spells/mislead.md)

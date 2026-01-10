@@ -1,17 +1,27 @@
 ---
-title: "Eiseth"
-draft: true
-noteType: ":luggage:"
-aliases: "Eiseth"
-foundryId: Item.QDxRUQytZIGi64wr
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/queens-of-the-night
+- domain/ambition/deity
+- domain/destruction/deity
+- domain/might/deity
+- domain/zeal/deity
+aliases: ["Eiseth", "The Erinyes Queen"]
 ---
+# Eiseth (The Erinyes Queen) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 75*  
 
-# Eiseth
+- **Category**: Queens of the Night
+- **Anathema**: allow a slight to go unanswered, show humility or fear
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
-Hell's Valkyrie rules a domain spanning part of Dispater's realm, commanding her legions of erinyes and executioner devil soldiers as she sees fit. Eiseth operates outside Dispater's rule, and she has forged powerful alliances with those in Hell and beyond, having long ago rejected limitations placed upon her by others. Foremost among the Queens of the Night, she embodies battle, revenge, and wrath, and her ambitions are as lofty as her aerie of Widow's Cry, where she forges souls of the damned into unequaled infernal legions answering to her alone.
+## Devotee benefits
 
-**Edicts** Avenge all insults, claim what you desire and deserve, humiliate your foes in ironic fashion
-
-**Anathema** Allow a slight to go unanswered, show humility or fear
+- **Divine Ability**: Strength or Dexterity
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Intimidation
+- **Favored Weapon**: [longbow](compendium/equipment/items/longbow.md)
+- **Domains**: [ambition](compendium/setting/domains.md#Ambition), [destruction](compendium/setting/domains.md#Destruction), [might](compendium/setting/domains.md#Might), [zeal](compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [true strike](compendium/spells/true-strike.md); 3rd: [fireball](compendium/spells/fireball.md); 4th: [dimension door](compendium/spells/dimension-door.md)

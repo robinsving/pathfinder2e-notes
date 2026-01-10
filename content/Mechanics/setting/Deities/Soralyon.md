@@ -1,21 +1,27 @@
 ---
-title: "Soralyon"
-draft: true
-noteType: ":luggage:"
-aliases: "Soralyon"
-foundryId: Item.Dwl5O5F4cDoq5Jjx
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/empyreal-lords
+- domain/creation/deity
+- domain/earth/deity
+- domain/magic/deity
+- domain/protection/deity
+aliases: ["Soralyon", "The Mystic Angel"]
 ---
+# Soralyon (The Mystic Angel) *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 128*  
 
-# Soralyon
+- **Category**: Empyreal Lords
+- **Anathema**: defile sacred buildings, knowingly unearth evil monuments, destroy historical artifacts
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
-Guardians, monuments, and magic are the purview of the Mystic Angel. Soralyon believes that monuments and ruins are important links to the past. Guarding them against those who would defile or destroy them is of tremendous importance, lest people lose memories of who they are, where they came from, and what they have accomplished. As such, those who stand guard over monuments and ruins are blessed. Likewise, those who study monuments to the past and present with respect, or seek to preserve them for the future, are also blessed. Guardianship of others, but especially of those who study and preserve these relics to the past, is also of great importance to Soralyon. As magic is a valuable tool in guarding, studying, and preserving these monuments and people, Soralyon encourages the study of magic, preferably for use in learning or protection.
+## Devotee benefits
 
-When the Mystic Angel appears to mortals he usually does so as a handsome being beautifully carved of smooth marble, the hues of which range the entire spectrum of the stone but tend toward those most common locally. Followers of Soralyon include archaeologists, historians, bodyguards, guardians, sculptors, curators, and arcane spellcasters.
-
-**Edicts** Study monuments, craft golems and artwork from stone, guard ancient sites
-
-**Anathema** Defile sacred buildings, knowingly unearth evil monuments, destroy historical artifacts
-
-**Areas of Concern** guardians, monuments, and magic
+- **Divine Ability**: Strength or Intelligence
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Arcana
+- **Favored Weapon**: [pick](compendium/equipment/items/pick.md)
+- **Domains**: [creation](compendium/setting/domains.md#Creation), [earth](compendium/setting/domains.md#Earth), [magic](compendium/setting/domains.md#Magic), [protection](compendium/setting/domains.md#Protection)
+- **Cleric Spells**: 1st: [summon construct](compendium/spells/summon-construct.md); 3rd: [meld into stone](compendium/spells/meld-into-stone.md); 4th: [stoneskin](compendium/spells/stoneskin.md)

@@ -1,17 +1,27 @@
 ---
-title: "Azathoth"
-draft: true
-noteType: ":luggage:"
-aliases: "Azathoth"
-foundryId: Item.kKSeyWXNBZlyqb9q
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/outer-gods
+- domain/decay/deity
+- domain/destruction/deity
+- domain/nightmares/deity
+- domain/void/deity
+aliases: ["Azathoth", "The Primal Chaos"]
 ---
+# Azathoth (The Primal Chaos) *([CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 130*  
 
-# Azathoth
+- **Category**: Outer Gods
+- **Anathema**: none
+- **Follower Alignments**: [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-Azathoth is the Daemon Sultan and the Primal Chaos, a roiling mass of destructive and transformative power the size of a sun, dwelling in the darkness between the stars, deep in the center of the universe. There, masked from mortal sight by a veil of swirling colors, he is surrounded by the other Outer Gods that make up his court, dancing and cavorting about him endlessly, filling the void with the sound of ghastly flutes. Azathoth is utterly unaware of and uncaring toward those few who have come to revere and worship him. It is precisely this blind, uncaring nature that makes Azathoth the perfect embodiment of a blind, uncaring universe. Azathoth's name, however, has great power over the Outer Gods when properly invoked. He has also sometimes been summoned by mortal priests-and though these summons attract only a tiny sliver of his attention and manifest as a form other than that of the Primal Chaos, they nevertheless lead to destruction on a massive scale.
+## Devotee benefits
 
-**Edicts** Gather a court of devotees, create discordant piping or babbling
-
-**Anathema** None
+- **Divine Ability**: Constitution or Charisma
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Performance
+- **Favored Weapon**: [warhammer](compendium/equipment/items/warhammer.md)
+- **Domains**: [decay](compendium/setting/domains.md#Decay), [destruction](compendium/setting/domains.md#Destruction), [nightmares](compendium/setting/domains.md#Nightmares), [void](compendium/setting/domains.md#Void)
+- **Cleric Spells**: 1st: [ill omen](compendium/spells/ill-omen-logm.md); 5th: [synaptic pulse](compendium/spells/synaptic-pulse.md); 9th: [unfathomable song](compendium/spells/unfathomable-song.md)

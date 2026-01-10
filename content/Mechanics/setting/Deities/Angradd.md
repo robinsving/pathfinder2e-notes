@@ -1,17 +1,27 @@
 ---
-title: "Angradd"
-draft: true
-noteType: ":luggage:"
-aliases: "Angradd"
-foundryId: Item.DzGDz3YnHOkWCuOz
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/dwarven-gods
+- domain/fate/deity
+- domain/fire/deity
+- domain/protection/deity
+- domain/zeal/deity
+aliases: ["Angradd", "The Forge-Fire"]
 ---
+# Angradd (The Forge-Fire) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 126*  
 
-# Angradd
+- **Category**: Dwarven Gods
+- **Anathema**: allow weaker evils to survive due to the presence of larger evils, deceive others outside of tactical gain
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait")
 
-Angradd's faithful seek out and oppose evil wherever they can, and often compare themselves to a purifying flame that gains strength as it burns more foes. Against strong foes, they plan for a strategy and patiently build their strength and alliances for the chance of victory. Those worshippers who can no longer fight on the front line become trainers, preparing others to succeed them. Dwarves will offer prayers and sacrifices to Angradd if they are about to begin an offensive battle. Divine casters who revere the Forge-Fire as their patron deity have access to a special spell named planned assault, which provides them with extra protection in combat as long as they can plan ahead.
+## Devotee benefits
 
-**Edicts** Seek and destroy evil, study evil to learn the best way to destroy it, train others in righteous ways
-
-**Anathema** Allow weaker evils to survive due to the presence of larger evils, deceive others outside of tactical gain
+- **Divine Ability**: Strength or Constitution
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Athletics
+- **Favored Weapon**: [greataxe](compendium/equipment/items/greataxe.md)
+- **Domains**: [fate](compendium/setting/domains.md#Fate), [fire](compendium/setting/domains.md#Fire), [protection](compendium/setting/domains.md#Protection), [zeal](compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [burning hands](compendium/spells/burning-hands.md); 2nd: [blistering invective](compendium/spells/blistering-invective-apg.md); 3rd: [fireball](compendium/spells/fireball.md)

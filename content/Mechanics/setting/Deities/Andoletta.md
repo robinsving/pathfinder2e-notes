@@ -1,21 +1,27 @@
 ---
-title: "Andoletta"
-draft: true
-noteType: ":luggage:"
-aliases: "Andoletta"
-foundryId: Item.0i6xyDapbRx3sznA
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/empyreal-lords
+- domain/family/deity
+- domain/knowledge/deity
+- domain/protection/deity
+- domain/sorrow/deity
+aliases: ["Andoletta", "Grandmother Crow"]
 ---
+# Andoletta (Grandmother Crow) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 128*  
 
-# Andoletta
+- **Category**: Empyreal Lords
+- **Anathema**: hold a grudge, mock the dead, pass judgment hastily or carelessly
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait")
 
-Called Grandmother Crow, Andoletta represents consolation, respect, and security. Andoletta makes a clear distinction between guilt and innocence: there is no in-between. For those falsely accused or who show signs of redemption, she offers a path back to the light. That path is never an easy one, but it is one worth walking, and she stands beside those who make the trek. For the truly wicked and those who show no remorse, she has no mercy. For these reasons, her likeness is often found in courts, where she can watch over and ensure fairness to those accused of crimes. Andoletta also places great value on respect for the dead and the protection of children. To offer solace to the bereaved is true kindness and compassion. Children are slates with tremendous potential for good-if they can be guided and kept safe from evil.
+## Devotee benefits
 
-When she appears to mortals, Grandmother Crow does so as an older woman, gray-haired, wrinkled, and with keen, knowing eyes. She carries a walking stick and wears a cape of black crow feathers across her shoulders, giving the appearance of large, folded wings. Those who appeal to Andoletta include elders, the conflicted, the bereaved, the falsely accused, investigators, and judges.
-
-**Edicts** Respect elders, instill good virtues in children, seek and allow redemption
-
-**Anathema** Hold a grudge, mock the dead, pass judgment hastily or carelessly
-
-**Areas of Concern** consolation, respect, and security
+- **Divine Ability**: Wisdom or Charisma
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Society
+- **Favored Weapon**: [staff](compendium/equipment/items/staff.md)
+- **Domains**: [family](compendium/setting/domains.md#Family), [knowledge](compendium/setting/domains.md#Knowledge), [protection](compendium/setting/domains.md#Protection), [sorrow](compendium/setting/domains.md#Sorrow)
+- **Cleric Spells**: 1st: [shillelagh](compendium/spells/shillelagh.md); 4th: aerial form (bird only); 6th: [collective transposition](compendium/spells/collective-transposition.md)

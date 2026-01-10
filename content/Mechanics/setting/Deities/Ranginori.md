@@ -1,21 +1,27 @@
 ---
-title: "Ranginori"
-draft: true
-noteType: ":luggage:"
-aliases: "Ranginori"
-foundryId: Item.mci9ZW4n3G6gcO7n
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/elemental-lords
+- domain/air/deity
+- domain/freedom/deity
+- domain/lightning/deity
+- domain/travel/deity
+aliases: ["Ranginori", "Zephyrous Prince"]
 ---
+# Ranginori (Zephyrous Prince) *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 128*  
 
-# Ranginori
+- **Category**: Elemental Lords
+- **Anathema**: wrongfully imprison a creature, restrain a creature longer or more tightly than is necessary, suffocate a creature
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
-The benevolent elemental lord of air is Ranginori, the Zephyrous Prince, lord of air, welcome breezes, and thunderstorms. When he appears before mortals, Ranginori takes the form of an immense, lion-headed serpent spun from forbidding clouds, with hundreds of clawed feet and a mane that dances with lightning. Recently freed from his imprisonment within the Untouchable Opal by agents of the Pathfinder Society, the Zephyrous Prince has accumulated a small but loyal following in search of liberation, hope, and change for the multiverse. He is regaining his strength and preparing to find and liberate the other benevolent elemental lords, bringing balance back to the Elemental Planes.
+## Devotee benefits
 
-As the single free benevolent elemental lord, Ranginori is in a vulnerable situation, in desperate need of allies and followers to aid him against the combined might of the evil elemental lords. He has reestablished his realm on the Plane of Air: the Roaring Spark, a floating spiral of ruins that branch outward from a central crack of thunder. As the elemental lord regains his power and his domain returns to life, the vestiges of his ancient keeps and towers rebuild themselves while new branches form.
-
-**Edicts** Open closed areas to fresh air, travel throughout your surroundings daily, fly or make creations that fly
-
-**Anathema** Wrongfully imprison a creature, restrain a creature longer or more tightly than is necessary, suffocate a creature
-
-**Areas of Concern** air, welcome breezes, and thunderstorms
+- **Divine Ability**: Dexterity or Charisma
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Acrobatics
+- **Favored Weapon**: [whip](compendium/equipment/items/whip.md)
+- **Domains**: [air](compendium/setting/domains.md#Air), [freedom](compendium/setting/domains.md#Freedom), [lightning](compendium/setting/domains.md#Lightning), [travel](compendium/setting/domains.md#Travel)
+- **Cleric Spells**: 1st: [liberating command](compendium/spells/liberating-command-logm.md); 4th: [fly](compendium/spells/fly.md); 6th: [chain lightning](compendium/spells/chain-lightning.md)

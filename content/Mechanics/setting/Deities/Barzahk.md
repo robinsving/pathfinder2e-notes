@@ -1,19 +1,27 @@
 ---
-title: "Barzahk"
-draft: true
-noteType: ":luggage:"
-aliases: "Barzahk"
-foundryId: Item.HplTyJ5lvBbdL4C3
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/monitor-demigods
+- domain/death/deity
+- domain/knowledge/deity
+- domain/travel/deity
+- domain/vigil/deity
+aliases: ["Barzahk", "The Passage"]
 ---
+# Barzahk (The Passage) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 130*  
 
-# Barzahk
+- **Category**: Monitor Demigods
+- **Anathema**: celebrate specific calendar dates over others, avoid travel or change, freeze time for an object or creature
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
-Appearing as an enormous migratory bird-usually a corvid, but sometimes a songbird-draped in robes and carrying a tombstone lock and a giant bone key, Barzahk the Passage is the psychopomp usher who maintains the Dead Roads, the secret back routes between the planes and the mortal world. Among mortals, they are worshipped as a patron of compasses, travelers, and vigils. Barzahk is tasked with transporting the souls of those who die far from home to ensure that they reach their proper destination. Unfortunately, Barzahk wanders far and wide, and so they rarely attend to this duty. Thus his followers, both psychopomps and mortals, take it upon themselves to care for lost souls, both literal and figurative. Like their patron, followers of Barzahk are often migratory, helping those they find along the way.
+## Devotee benefits
 
-**Edicts** Aid travelers and those who return from the dead, tend to roadside graves, find missing objects or people
-
-**Anathema** Celebrate specific calendar dates over others, avoid travel or change, freeze time for an object or creature
-
-**Areas of Concern** compasses, travelers, and vigils
+- **Divine Ability**: Constitution or Wisdom
+- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Skill**: Survival
+- **Favored Weapon**: [club](compendium/equipment/items/club.md)
+- **Domains**: [death](compendium/setting/domains.md#Death), [knowledge](compendium/setting/domains.md#Knowledge), [travel](compendium/setting/domains.md#Travel), [vigil](compendium/setting/domains.md#Vigil)
+- **Cleric Spells**: 1st: [longstrider](compendium/spells/longstrider.md); 2nd: [knock](compendium/spells/knock.md); 6th: [teleport](compendium/spells/teleport.md)

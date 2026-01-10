@@ -1,23 +1,38 @@
 ---
-title: "Likha"
-draft: true
-noteType: ":luggage:"
-aliases: "Likha"
-foundryId: Item.dfoNs8YmWM1Y22md
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/vudrani-gods
+- domain/creation/deity
+- domain/knowledge/deity
+- domain/passion/deity
+- domain/sorrow/deity
+- trait/disarm
+- trait/reach-20-feet
+aliases: ["Likha", "The Teller"]
 ---
+# Likha (The Teller) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 132*  
 
-# Likha
+- **Category**: Vudrani Gods
+- **Anathema**: begin a performance or tale without first inviting the gods to watch, act out a death on stage
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
-The Teller has existed ever since the first sound of existence emanated from the focal point of the cosmos, blessing all of creation with the capacity for perception. She uttered the concept of language, she sang in echo with all that would be, and in hubris that would color all her sorrows, she thought to make that which emanated truth. In doing so, she birthed deception. The Teller watched the acts of the progenitor, Vudravati, and of her twin lovers Obari and Embaral.
+## Devotee benefits
 
-The Teller saw their violence, their jealousy, their fear for love in a time when love was beyond mere concept and circumstance. She also saw their joy, for each loved Vudravati with all that they could, and no lie inhabited their heart that could cloud this truth. Truth itself was their greatest treasure and most unkind burden. So the Teller watched the oceans be born and the Vudrani emerge into this world, crafted by all the love the twins could hold for the Sleeping Mother; still, the Teller feared what harm her folly could cast upon the world.
+- **Divine Ability**: Intelligence or Charisma
+- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Skill**: Performance
+- **Favored Weapon**: [hatchet](compendium/equipment/items/hatchet.md)
+- **Domains**: [creation](compendium/setting/domains.md#Creation), [knowledge](compendium/setting/domains.md#Knowledge), [passion](compendium/setting/domains.md#Passion), [sorrow](compendium/setting/domains.md#Sorrow)
+- **Cleric Spells**: 1st: [illusory disguise](compendium/spells/illusory-disguise.md); 3rd: [enthrall](compendium/spells/enthrall.md); 5th: [illusory scene](compendium/spells/illusory-scene.md)
 
-The Teller found her redemption and peace in this cosmic misstep within the lands that would become Vudra. She took the form of a most careful listener: an elephant whose skin scintillated with the humble glow of moonlight. She perceived the fledgling mortal folk and how they wielded truth and lies through the lens of memory's fallible shroud, which obscures both for the benefit of either and all. She learned of stories and cherished them deeply. She was named Likha by those who she listened to and those who listened to her, and her joy was rapturous. Children who tell white lies claim that Likha saw truth in their words.
+```ad-embed-avatar
+title: [Avatar](compendium/spells/avatar.md) of Likha
 
-Playwrights beseech her as a muse for inspiration. Written works are etched with her mark, and her elephantine form is carved into the doorways of playhouses and sculpted into statues to sit in the alcoves of grand libraries.
-
-**Edicts** Tell history to others, sponsor or perform in plays and recitals, adapt ancient works into modern language
-
-**Anathema** Begin a performance or tale without first inviting the gods to watch, act out a death on stage
+- **Speed**: Speed 70 feet, immune to [immobilized](rules/conditions.md#Immobilized)
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") trunk (, [disarm](rules/traits/disarm.md "Disarm Weapon Trait"), [reach <20 feet>](rules/traits/reach-20-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` bludgeoning plus grasping trunk
+- **Grasping Trunk** A Large or smaller creature hit by the avatar's trunk is [grabbed](rules/conditions.md#Grabbed). If the avatar moves, it can bring the [grabbed](rules/conditions.md#Grabbed) creature along with it.
+```

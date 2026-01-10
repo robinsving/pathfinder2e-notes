@@ -1,19 +1,27 @@
 ---
-title: "Dagon"
-draft: true
-noteType: ":luggage:"
-aliases: "Dagon"
-foundryId: Item.3iery6wLNqubGTqT
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/demon-lords
+- domain/change/deity
+- domain/destruction/deity
+- domain/water/deity
+- domain/zeal/deity
+aliases: ["Dagon", "The Shadow in the Sea"]
 ---
+# Dagon (The Shadow in the Sea) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 76*  
 
-# Dagon
+- **Category**: Demon Lords
+- **Anathema**: break a sworn oath, settle in a land-locked area, share Dagon's secrets with outsiders
+- **Follower Alignments**: [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-Dagon, the Shadow in the Sea, is the demon lord of deformity, the sea, and sea monsters. He holds court in an infinite ocean covered in disconcerting islands and deep-sea trenches filled with incomprehensible sunken cities. He appears as a massive creature with the lower body of an eel, a head reminiscent of deep-sea predators, and four thrashing tentacles in place of arms. Dagon began as a qlippoth, and no mortal understands his transformation into a demon lord, though it earned him the enmity of his former kin. Dagon is primarily worshipped by boggards, sahuagin, skum, and marsh giants, though desperate or depraved coastal villages have been known to pledge themselves to the demon lord.
+## Devotee benefits
 
-**Edicts** Swim underwater, improve your own strength, encourage the spread of dangerous sea monsters
-
-**Anathema** Break a sworn oath, settle in a land-locked area, share Dagon's secrets with outsiders
-
-**Areas of Concern** deformity, the sea, and sea monsters
+- **Divine Ability**: Strength or Constitution
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Athletics
+- **Favored Weapon**: [trident](compendium/equipment/items/trident.md)
+- **Domains**: [change](compendium/setting/domains.md#Change), [destruction](compendium/setting/domains.md#Destruction), [water](compendium/setting/domains.md#Water), [zeal](compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [hydraulic push](compendium/spells/hydraulic-push.md); 3rd: [feet to fins](compendium/spells/feet-to-fins.md); 6th: [chain lightning](compendium/spells/chain-lightning.md)

@@ -1,23 +1,45 @@
 ---
-title: "Aakriti"
-draft: true
-noteType: ":luggage:"
-aliases: "Aakriti"
-foundryId: Item.dox287ReN6T9rmz0
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/loil
+- deity/eldest
+- domain/change/deity
+- domain/creation/deity
+- domain/fate/deity
+- domain/freedom/deity
+- domain/knowledge/deity
+- domain/time/deity
+- trait/disarm
+- trait/finesse
+- trait/nonlethal
+- trait/reach-20-feet
+- trait/trip
+aliases: ["Aakriti", "The Evershifting"]
 ---
+# Aakriti (The Evershifting) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
+*Source: Lost Omens: Impossible Lands p. 310*  
 
-# Aakriti
+- **Category**: Eldest
+- **Anathema**: fail to study a new creature if safely able, force a creature to live in the wrong body, reject creatures or information due to bigoted or rigid beliefs
+- **Areas of Concern**: discovery, life, ooze, potential
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
-No one knows where and when Aakriti came into existence. Some divine scholars surmise they've always been a part of the primordial soup of creation. The most popular theory, as reflected in various religious iconography, is that Aakriti is the pupae of a primordial deity that took damage in their chrysalis state and became unable to molt into their final form.
+## Devotee benefits
 
-Known as Aakriti the Evershifting, this ooze deity represents the ever-evolving nature of creation and life as well the potential of the unknown. New life crawls forth from their primordial depths in an explosion of the bizarre and colorful, adjusting in their own individual ways to the challenges of existence. As each life moves through the various cycles of growth over time, they must be flexible and adapt to the changes, especially at its crux—the state of transition. Sometimes a new step involves a frightening destruction of identity, but it should be embraced instead of feared, as the primordial nothingness holds the potential for new creations beyond the wildest imaginings of one's current self. Those who stay rigid in their beliefs or refuse to change will become trapped in the shells of their old selves and crush themselves in their struggle to avoid growth. Aakriti also has no love for those who entrap creatures into a form unwillingly and will sometimes intercede against them.
+- **Divine Ability**: Constitution or Charisma
+- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Skill**: Acrobatics
+- **Favored Weapon**: [whip](compendium/equipment/items/whip.md)
+- **Domains**: [change](compendium/setting/domains.md#Change), [creation](compendium/setting/domains.md#Creation), [fate](compendium/setting/domains.md#Fate), [time](compendium/setting/domains.md#Time)
+- **Alternate Domains**: [freedom](compendium/setting/domains.md#Freedom), [knowledge](compendium/setting/domains.md#Knowledge)
+- **Cleric Spells**: 1st: [ant haul](compendium/spells/ant-haul.md); 3rd: [insect form](compendium/spells/insect-form.md); 9th: [shapechange](compendium/spells/shapechange.md)
 
-Aakriti's faith is relatively sparse within the Inner Sea region, mostly seen in small pockets within Desna's followers or the alchemists of ooze-infested Oenopion. As the more adventurous members of those communities, such as bards, travel to distant lands, word of Aakriti's belief spreads. Most centers of worship for Aakriti aren't permanent temples, but instead small, portable shrines made of malleable, decomposable materials like clay and paper.
+```ad-embed-avatar
+title: [Avatar](compendium/spells/avatar.md) of Aakriti
 
-When Aakriti makes the rare appearance to a mortal, they appear as an ever-shifting oobleck of varied hues, moving from a crawling larva to pulsating pupa, morphing into a butterfly before transforming into another form.
-
-**Edicts** create without reservation, help others unlock their true potential, observe the mysteries of life
-
-**Anathema** fail to study a new creature if safely able, force a creature to live in the wrong body, reject creatures or information due to bigoted or rigid beliefs
+- **Speed**: Speed 70 feet, immune to [immobilized](rules/conditions.md#Immobilized), ignore difficult terrain and greater difficult terrain
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") tendril whip (, [disarm](rules/traits/disarm.md "Disarm Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), [reach <20 feet>](rules/traits/reach-20-feet.md "Reach Weapon Trait"), [trip](rules/traits/trip.md "Trip Weapon Trait")), **Damage** `6d6+6` slashing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") thorns (), **Damage** `6d6+6` piercing 
+```

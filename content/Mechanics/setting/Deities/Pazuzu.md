@@ -1,19 +1,27 @@
 ---
-title: "Pazuzu"
-draft: true
-noteType: ":luggage:"
-aliases: "Pazuzu"
-foundryId: Item.N4pAYkKoQoNxLCh2
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/demon-lords
+- domain/air/deity
+- domain/swarm/deity
+- domain/trickery/deity
+- domain/tyranny/deity
+aliases: ["Pazuzu", "King of the Wind Demons"]
 ---
+# Pazuzu (King of the Wind Demons) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 77*  
 
-# Pazuzu
+- **Category**: Demon Lords
+- **Anathema**: deny a flying creature the ability to fly, abuse Pazuzu's name or call on Pazuzu for help, aid worshippers of Lamashtu
+- **Follower Alignments**: [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
-Pazuzu, King of the Wind Demons, is the demon lord of the sky, temptation, and winged creatures. He counts himself among the most ancient of demon lords, though his constant warring with [[Lamashtu]] has hindered his accumulation of power to the point of denying him godhood. He is exceptionally active in meddling in mortal affairs and takes great pleasure in possessing and corrupting good-hearted folk who invoke his name. Pazuzu appears as a humanoid figure with eagle's talons, two pairs of bird wings, a scorpion tail, and an avian demonic head. He is worshipped by harpies, other evil winged creatures, and by countless champions and clerics who fell from grace at his temptations.
+## Devotee benefits
 
-**Edicts** Tempt others to immoral acts, revel in flight, possess or magically influence others to cause calamities
-
-**Anathema** Deny a flying creature the ability to ﬂy, abuse Pazuzu's name or call on Pazuzu for help, aid worshippers of Lamashtu
-
-**Areas of Concern** the sky, temptation, and winged creatures
+- **Divine Ability**: Dexterity or Charisma
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Diplomacy
+- **Favored Weapon**: [longsword](compendium/equipment/items/longsword.md)
+- **Domains**: [air](compendium/setting/domains.md#Air), [swarm](compendium/setting/domains.md#Swarm), [trickery](compendium/setting/domains.md#Trickery), [tyranny](compendium/setting/domains.md#Tyranny)
+- **Cleric Spells**: 1st: [gust of wind](compendium/spells/gust-of-wind.md); 3rd: [suggestion](compendium/spells/suggestion.md); 4th: [fly](compendium/spells/fly.md)

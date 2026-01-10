@@ -1,17 +1,27 @@
 ---
-title: "Anubis"
-draft: true
-noteType: ":luggage:"
-aliases: "Anubis"
-foundryId: Item.ilex2NpCKFkgNtsM
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/ancient-osirian-gods
+- domain/death/deity
+- domain/protection/deity
+- domain/soul/deity
+- domain/vigil/deity
+aliases: ["Anubis", "Guardian of the Tomb"]
 ---
+# Anubis (Guardian of the Tomb) *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 124*  
 
-# Anubis
+- **Category**: Ancient Osirian Gods
+- **Anathema**: desecrate a corpse, rob a tomb, trap a soul
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
-Anubis is the son of Osiris and Nephthys, born out of wedlock and he assisted Isis in the mummification of his father. He frequently works with Isis, Neith, Nephthys, and Selket in the protection of the dead, and is an enemy of Set due to his association with undead.
+## Devotee benefits
 
-**Edicts** Lay bodies to rest, destroy undead, be impartial in judgment
-
-**Anathema** Desecrate a corpse, rob a tomb, trap a soul
+- **Divine Ability**: Dexterity or Wisdom
+- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Skill**: Occultism
+- **Favored Weapon**: [flail](compendium/equipment/items/flail.md)
+- **Domains**: [death](compendium/setting/domains.md#Death), [protection](compendium/setting/domains.md#Protection), [soul](compendium/setting/domains.md#Soul), [vigil](compendium/setting/domains.md#Vigil)
+- **Cleric Spells**: 1st: [unseen servant](compendium/spells/unseen-servant.md); 3rd: shifting sand; 5th: [wall of stone](compendium/spells/wall-of-stone.md)

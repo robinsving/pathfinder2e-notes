@@ -1,17 +1,27 @@
 ---
-title: "Imot"
-draft: true
-noteType: ":luggage:"
-aliases: "Imot"
-foundryId: Item.tx0DeRSmkdJDoLc7
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/monitor-demigods
+- domain/death/deity
+- domain/destruction/deity
+- domain/fate/deity
+- domain/glyph/deity
+aliases: ["Imot", "The Symbol of Doom"]
 ---
+# Imot (The Symbol of Doom) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 130*  
 
-# Imot
+- **Category**: Monitor Demigods
+- **Anathema**: withhold your understanding of a portent, prevent the destruction of things that cannot be saved
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
-**Imot** is an agender psychopomp usher born from the guilt and desire for hindsight felt by mortals after a tragedy. It arranges calamities to kill off cultures that overstay their welcome. Imot is compelled to hide clues to every natural disaster using symbolism and equations; these clues induce a subconscious unease in those that do not understand them, and provide insight to those that do (though they usually end up figuring them out too late). For this reason, Imot is concerned with fear (particularly of personal failures) and self-blame for inevitable disasters, and judges souls who died unavoidable deaths.
+## Devotee benefits
 
-**Edicts** Search for omens in the natural world, push the boundaries of mathematics, study past disasters
-
-**Anathema** Withhold your understanding of a portent, prevent the destruction of things that cannot be saved
+- **Divine Ability**: Strength or Intelligence
+- **Divine Font**: [heal](compendium/spells/heal.md) or [harm](compendium/spells/harm.md)
+- **Divine Skill**: Occultism
+- **Favored Weapon**: [shield boss](compendium/equipment/items/shield-boss.md)
+- **Domains**: [death](compendium/setting/domains.md#Death), [destruction](compendium/setting/domains.md#Destruction), [fate](compendium/setting/domains.md#Fate), [glyph](compendium/setting/domains.md#Glyph)
+- **Cleric Spells**: 1st: [ill omen](compendium/spells/ill-omen-logm.md); 2nd: [paranoia](compendium/spells/paranoia.md); 6th: [phantasmal calamity](compendium/spells/phantasmal-calamity.md)

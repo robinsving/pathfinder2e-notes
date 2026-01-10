@@ -1,19 +1,20 @@
 ---
-title: "Prophecies of Kalistrade"
-draft: true
-noteType: ":luggage:"
-aliases: "Prophecies of Kalistrade"
-foundryId: Item.o2ZVn1L4OViCNbcr
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/crb
+- deity/philosophy
+aliases: ["Prophecies of Kalistrade"]
 ---
+# Prophecies of Kalistrade *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
+*Source: Core Rulebook p. 440*  
 
-# Prophecies of Kalistrade
+- **Category**: Philosophy
+- **Anathema**: spend money frivolously; offer money to those who don't deserve wealth; overindulge in physical pleasures, food, or drink; give charity to others
+- **Areas of Concern**: trade, wealth, self-denial, stability
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
-The secular prophecies of Kalistrade are famously centered on a single principle: amassing personal wealth both in search of and as evidence of personal enlightenment. The prophets of Kalistrade, often referred to as Kalistocrats, believe that achieving purity of body, mind, and spirit will lead to financial success, and thus they avoid certain foods and eschew contact with most persons and objects as impure. To avoid contamination and contact with nonbelievers they wear long, white gloves, and they wear distinctive, all-white clothing to represent their purity-often incorporating their symbol, a circle inside a triangle that is itself inscribed in a larger circle.
+## Devotee benefits
 
-**Edicts** accumulate personal wealth, foster and aid mercantile pursuits, welcome newcomers regardless of gender or ancestry
-
-**Anathema** spend money frivolously; offer money to those who don't deserve wealth; overindulge in physical pleasures, food, or drink
-
-**Areas of Concern** trade, wealth, self-denial, stability
+- **Divine Ability**: Intelligence or Charisma
+- **Divine Skill**: Diplomacy

@@ -1,17 +1,27 @@
 ---
-title: "Geryon"
-draft: true
-noteType: ":luggage:"
-aliases: "Geryon"
-foundryId: Item.4LBwx94rhFEJWaaW
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-deity
 tags:
-  - Item
+- compendium/src/pf2e/logm
+- deity/archdevils
+- domain/might/deity
+- domain/truth/deity
+- domain/water/deity
+- domain/wyrmkin/deity
+aliases: ["Geryon", "The Serpent"]
 ---
+# Geryon (The Serpent) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
+*Source: Lost Omens: Gods & Magic p. 75*  
 
-# Geryon
+- **Category**: Archdevils
+- **Anathema**: declare knowledge heresy or forbidden, break your word
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
-Once the mightiest of asura ranas, Geryon betrayed hundreds of Hell's original asura inhabitants to aid Asmodeus in claiming the plane, in the process earning himself the title the Source of Lies. His realm of Stygia, Hell's fifth layer, hews most closely to the nature of Hell before Asmodeus reshaped the plane, and it contains the sunken ruins of countless cities and libraries predating the war against Heaven. The archdevil hoards knowledge and secrets-especially that which has been forbidden- while spreading falsehoods and heresies to mislead the ignorant, and his followers revel in the same.
+## Devotee benefits
 
-**Edicts** Hoard knowledge, test the boundaries of taboo, spread falsehoods to dupe the foolhardy
-
-**Anathema** Declare knowledge heresy or forbidden, break your word
+- **Divine Ability**: Intelligence or Wisdom
+- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Skill**: Occultism
+- **Favored Weapon**: [war flail](compendium/equipment/items/war-flail.md)
+- **Domains**: [might](compendium/setting/domains.md#Might), [truth](compendium/setting/domains.md#Truth), [water](compendium/setting/domains.md#Water), [wyrmkin](compendium/setting/domains.md#Wyrmkin)
+- **Cleric Spells**: 1st: [acidic burst](compendium/spells/acidic-burst-logm.md); 4th: animal form (snake only); 6th: [hypercognition](compendium/spells/hypercognition.md)
