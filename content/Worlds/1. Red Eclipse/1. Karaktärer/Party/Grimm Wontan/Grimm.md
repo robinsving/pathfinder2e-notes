@@ -20,6 +20,9 @@ Det finns flera effekter av detta
 	- Han blev alkoholist efter kriget, och levde i Absalom och söp och spelade kort under 4 år
 	- På grund av den förlust han kände efter deserteringen
 
+# Effekter
+Han har just nu [[Cayden Cailean - Minor Boon]], vilket inte är helt till en fördel när man är alkoholist.
+
 # Tidslinje
 
 37 år sedan - född. Desna dog, och en del av hennes ritning fäste sig vid Grimm.
