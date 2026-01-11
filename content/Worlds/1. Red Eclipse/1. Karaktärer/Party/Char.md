@@ -12,7 +12,7 @@ Slum boy från [[Cheliax]] huvudstad. Han kom inte in i matan, för han bodde p�
 # Död och efterspel
 ## Statue
 
-The stone statue now depicts Char fighting a belnot. In one of the tiefling's leg there is a stabbed sword held by the demon, and around his waist there is a flaming whip holding him. Despite this he is holding a horn of the demon in one hand and is seemingly striking down the other hand where he is weilding Char's Eclipse. On the ground between them there are two short swords on the ground. On Char's shoulder stands a bird with its wings spread.
+The stone statue now depicts Char fighting a Belnor (a type of huge demon). In one of the tiefling's leg there is a stabbed sword held by the demon, and around his waist there is a flaming whip holding him. Despite this he is holding a horn of the demon in one hand and is seemingly striking down the other hand where he is wielding Char's [[Eclipse]]. On the ground between them there are two short swords on the ground. On Char's shoulder stands a bird with its wings spread.
 
 ## Plaque
 

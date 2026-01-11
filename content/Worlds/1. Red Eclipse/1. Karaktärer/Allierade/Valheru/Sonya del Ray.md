@@ -1,5 +1,8 @@
+
+# Alias: [[Desna]]
 Den briljanta.
-Metallic fjäll.
+I sin drakform hade hon metallisk fjäll.
+
 Kusin till [[Marcos]].
 
 En av de 10 i [[Valheru]] council.

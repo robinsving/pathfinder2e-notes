@@ -1,5 +1,9 @@
 ---
 alias:
+class: Barbarian
+character: pc
+owner: Simon
+status: alive
 ---
 Ktill är en [[Mechanics/Rules/traits/orc|Orc]] som vi plockade upp mitt i havet i [[Assuwa]], på väg mot [[Júrén]]. Han är en gammal befälhavare.
 

@@ -15,8 +15,10 @@ class: Fighter
 ![[SaiKaiLen_alternative_token.png|200]]
 
 # Build
-- Bow fighter
+- Bow [[Fighter]]
 - Dedication [[Psychic]]
-- Dedication [[eldritch-archer-apg]]
+- Dedication [[Eldritch Archer]]
 
 Arbetar för [[Isger]]'s underrättelsetjänst - mer specifikt [[Nadi]].
+
+Senast vi såg Lenny så skulle hon undersöka var den mörka Phoenixen i [[Taldor]]s [[Blackpeak]] tog vägen, och sedan rapportera tillbaka till [[Nadi]].

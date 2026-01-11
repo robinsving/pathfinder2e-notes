@@ -17,7 +17,7 @@ Utan vapen till hands letade han frenetiskt efter någonting att skydda sig med 
 
 "Ge hän, helvetets avkomma". Demonen gav en blick på främlingen och flydde sedan därifrån.
 
-Personen introducerade sig som Zelphar. Han sa sig ha känt demonens närvaro. Den äldre krigaren verkade intresserad av om demonen hade sagt någonting ---
+Personen introducerade sig som [[Zelphar]]. Han sa sig ha känt demonens närvaro. Den äldre krigaren verkade intresserad av om demonen hade sagt någonting ---
 
 Han bestämde sig efter den kvällen för att inte dricka mer, och med sina föräldrars hjälp lyckades han hålla sig nykter.
 
@@ -29,10 +29,10 @@ Några veckor senare när han efter en dagsritt återvände till sitt hem fann h
 
 ---
 
-Genom åren han levde under Absalom's Temple of the Shining Star lärde han sig mycket om att kanalisera sin nyfunna dedikation till Prismatic Ray för att hjälpa folk i nöd. Han tränade även i smedja och lyckades skapa sin egen rustning och sköld. Även lättare magiska saker lärde han sig att skapa.
+Genom åren han levde under Absalom's Temple of the Shining Star lärde han sig mycket om att kanalisera sin nyfunna dedikation till [[The Prismatic Ray]] för att hjälpa folk i nöd. Han tränade även i smedja och lyckades skapa sin egen rustning och sköld. Även lättare magiska saker lärde han sig att skapa.
 
-En dag fick han höra några prata om Zelphar. De pratade om han var (varit?) en medlem av Hellknightordern i Isger… och att han kände krigaren Zaina.
+En dag fick han höra några prata om [[Zelphar]]. De pratade om han var (varit?) en medlem av Hellknightordern i [[Isger]]… och att han kände krigaren [[Zaina]].
 
-När han fick höra att Breachhill höll sin CALL FOR HEROES så bestämde han sig för att resa dit.
+När han fick höra att [[Breachill]] höll sin CALL FOR HEROES så bestämde han sig för att resa dit.
 
 [Temple of the Shining Star!]

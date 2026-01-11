@@ -5,6 +5,7 @@ aliases:
   - Skymningen
   - Röda Förmörkelsen
   - Röda mörkret
+  - Lag Crimson
 ---
 Partyt som äventyrar heter Röda armén, eller nåt
 
