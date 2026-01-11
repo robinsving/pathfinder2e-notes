@@ -1,6 +1,5 @@
 ---
 title: "The Perplexing Jest"
-draft: true
 noteType: ":luggage:"
 aliases: "The Perplexing Jest"
 foundryId: Item.syLsTddeoCXcVeZd

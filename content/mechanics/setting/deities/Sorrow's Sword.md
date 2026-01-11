@@ -1,6 +1,5 @@
 ---
 title: "Sorrow's Sword"
-draft: true
 noteType: ":luggage:"
 aliases: "Sorrow's Sword"
 foundryId: Item.BNUafaOr9K90ASgL

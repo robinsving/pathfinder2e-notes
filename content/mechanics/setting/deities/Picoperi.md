@@ -1,6 +1,5 @@
 ---
 title: "Picoperi"
-draft: true
 noteType: ":luggage:"
 aliases: "Picoperi"
 foundryId: Item.FMg83nft3UbEkBaF

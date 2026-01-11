@@ -1,6 +1,5 @@
 ---
 title: "Mephistopheles"
-draft: true
 noteType: ":luggage:"
 aliases: "Mephistopheles"
 foundryId: Item.N3UN1aP0LR7qcQfK

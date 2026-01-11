@@ -1,6 +1,5 @@
 ---
 title: "Lady Razor"
-draft: true
 noteType: ":luggage:"
 aliases: "Lady Razor"
 foundryId: Item.aC1ZnJzLvwWlwakR

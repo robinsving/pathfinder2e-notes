@@ -1,6 +1,5 @@
 ---
 title: "Norgorber"
-draft: true
 noteType: ":luggage:"
 aliases: "Norgorber"
 foundryId: Item.5ZPTOcGMRzBqrMiX

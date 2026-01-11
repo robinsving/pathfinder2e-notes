@@ -1,6 +1,5 @@
 ---
 title: "Kitumu"
-draft: true
 noteType: ":luggage:"
 aliases: "Kitumu"
 foundryId: Item.OeE5mW1Hor2v1fj6

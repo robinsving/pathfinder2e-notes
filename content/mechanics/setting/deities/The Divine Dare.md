@@ -1,6 +1,5 @@
 ---
 title: "The Divine Dare"
-draft: true
 noteType: ":luggage:"
 aliases: "The Divine Dare"
 foundryId: Item.R8McHQoaks7zvOTR

@@ -1,6 +1,5 @@
 ---
 title: "Stag Mother of the Forest of Stones"
-draft: true
 noteType: ":luggage:"
 aliases: "Stag Mother of the Forest of Stones"
 foundryId: Item.bmHpmyBUUW9NNTTN

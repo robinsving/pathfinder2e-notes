@@ -1,6 +1,5 @@
 ---
 title: "Rovagug"
-draft: true
 noteType: ":luggage:"
 aliases: "Rovagug"
 foundryId: Item.7wnXyfWBO4QB9xc1

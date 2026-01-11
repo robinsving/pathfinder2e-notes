@@ -1,6 +1,5 @@
 ---
 title: "The Resplendent Court"
-draft: true
 noteType: ":luggage:"
 aliases: "The Resplendent Court"
 foundryId: Item.zdZfMzM83L1w4sLQ

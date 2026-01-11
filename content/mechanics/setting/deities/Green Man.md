@@ -1,6 +1,5 @@
 ---
 title: "Green Man"
-draft: true
 noteType: ":luggage:"
 aliases: "Green Man"
 foundryId: Item.qQAyfgK8Bf5HsRfK

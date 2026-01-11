@@ -1,6 +1,5 @@
 ---
 title: "Rowdrosh"
-draft: true
 noteType: ":luggage:"
 aliases: "Rowdrosh"
 foundryId: Item.5lkxbkcMrXmHRdU7

@@ -1,6 +1,5 @@
 ---
 title: "The Last Breath"
-draft: true
 noteType: ":luggage:"
 aliases: "The Last Breath"
 foundryId: Item.YPqWxtQ3mL90apZn

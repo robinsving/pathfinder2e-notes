@@ -1,6 +1,5 @@
 ---
 title: "Arundhat (The Sacred Perfume)"
-draft: true
 noteType: ":luggage:"
 aliases: "Arundhat (The Sacred Perfume)"
 foundryId: Item.RNStQBFUcbJH51vT

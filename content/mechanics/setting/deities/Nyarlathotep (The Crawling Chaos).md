@@ -1,6 +1,5 @@
 ---
 title: "Nyarlathotep (The Crawling Chaos)"
-draft: true
 noteType: ":luggage:"
 aliases: "Nyarlathotep (The Crawling Chaos)"
 foundryId: Item.E1Hlk37lOy5hK6xA

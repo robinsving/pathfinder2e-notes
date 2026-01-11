@@ -1,6 +1,5 @@
 ---
 title: "Gozreh"
-draft: true
 noteType: ":luggage:"
 aliases: "Gozreh"
 foundryId: Item.xgNZEACa22A3CYss

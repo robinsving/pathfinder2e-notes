@@ -1,6 +1,5 @@
 ---
 title: "Enkaar, the Malformed Prisoner"
-draft: true
 noteType: ":luggage:"
 aliases: "Enkaar, the Malformed Prisoner"
 foundryId: Item.SfZNsobjHUSYnrIx

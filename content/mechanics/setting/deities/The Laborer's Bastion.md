@@ -1,6 +1,5 @@
 ---
 title: "The Laborer's Bastion"
-draft: true
 noteType: ":luggage:"
 aliases: "The Laborer's Bastion"
 foundryId: Item.1E6GTtoh4qbVKyQS

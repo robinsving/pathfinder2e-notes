@@ -1,6 +1,5 @@
 ---
 title: "Iomedae"
-draft: true
 noteType: ":luggage:"
 aliases: "Iomedae"
 foundryId: Item.N3g1jSmatJqehwVN

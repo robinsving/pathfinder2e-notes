@@ -1,6 +1,5 @@
 ---
 title: "Desna"
-draft: true
 noteType: ":luggage:"
 aliases: "Desna"
 foundryId: Item.J7AwXu5wXW4tQt1a

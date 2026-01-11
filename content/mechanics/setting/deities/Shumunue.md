@@ -1,6 +1,5 @@
 ---
 title: "Shumunue"
-draft: true
 noteType: ":luggage:"
 aliases: "Shumunue"
 foundryId: Item.Vske6rUVlygANspe

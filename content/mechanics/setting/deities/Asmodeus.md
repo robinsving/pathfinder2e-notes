@@ -1,6 +1,5 @@
 ---
 title: "Asmodeus"
-draft: true
 noteType: ":luggage:"
 aliases: "Asmodeus"
 foundryId: Item.sxGCboVQCIzpdyUa

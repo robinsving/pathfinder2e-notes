@@ -1,6 +1,5 @@
 ---
 title: "Laudinmio"
-draft: true
 noteType: ":luggage:"
 aliases: "Laudinmio"
 foundryId: Item.qOW78zGl1H5LGVFK

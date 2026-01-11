@@ -1,6 +1,5 @@
 ---
 title: "Nethys"
-draft: true
 noteType: ":luggage:"
 aliases: "Nethys"
 foundryId: Item.gwVe425fU63rgmH8

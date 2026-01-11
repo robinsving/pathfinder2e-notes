@@ -1,6 +1,5 @@
 ---
 title: "Fandarra"
-draft: true
 noteType: ":luggage:"
 aliases: "Fandarra"
 foundryId: Item.nK5arsmwdqPvgDCD

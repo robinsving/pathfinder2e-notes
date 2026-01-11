@@ -1,6 +1,5 @@
 ---
 title: "Ferrumnestra"
-draft: true
 noteType: ":luggage:"
 aliases: "Ferrumnestra"
 foundryId: Item.dmWEPsLdYGzAoeGO

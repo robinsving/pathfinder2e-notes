@@ -1,6 +1,5 @@
 ---
 title: "Demon Bringers"
-draft: true
 noteType: ":luggage:"
 aliases: "Demon Bringers"
 foundryId: Item.svpTZL67PZpTsRfT

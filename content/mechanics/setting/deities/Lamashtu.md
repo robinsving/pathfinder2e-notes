@@ -1,6 +1,5 @@
 ---
 title: "Lamashtu"
-draft: true
 noteType: ":luggage:"
 aliases: "Lamashtu"
 foundryId: Item.onA8b187pwJCV39c

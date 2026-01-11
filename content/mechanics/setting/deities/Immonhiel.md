@@ -1,6 +1,5 @@
 ---
 title: "Immonhiel"
-draft: true
 noteType: ":luggage:"
 aliases: "Immonhiel"
 foundryId: Item.rHqjOiwRRXk3iaFQ

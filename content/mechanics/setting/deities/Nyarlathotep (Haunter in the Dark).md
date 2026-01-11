@@ -1,6 +1,5 @@
 ---
 title: "Nyarlathotep (Haunter in the Dark)"
-draft: true
 noteType: ":luggage:"
 aliases: "Nyarlathotep (Haunter in the Dark)"
 foundryId: Item.wUZaQrFoTmlu8W6O

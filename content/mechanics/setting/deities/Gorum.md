@@ -1,6 +1,5 @@
 ---
 title: "Gorum"
-draft: true
 noteType: ":luggage:"
 aliases: "Gorum"
 foundryId: Item.jHPj4Dl6dJOz3Bka

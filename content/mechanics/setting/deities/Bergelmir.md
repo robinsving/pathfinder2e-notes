@@ -1,6 +1,5 @@
 ---
 title: "Bergelmir"
-draft: true
 noteType: ":luggage:"
 aliases: "Bergelmir"
 foundryId: Item.6Rv0tUuUeU3YPuv9

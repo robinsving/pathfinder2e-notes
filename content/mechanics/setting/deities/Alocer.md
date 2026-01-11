@@ -1,6 +1,5 @@
 ---
 title: "Alocer"
-draft: true
 noteType: ":luggage:"
 aliases: "Alocer"
 foundryId: Item.pghJxoTrKQOqgFlX

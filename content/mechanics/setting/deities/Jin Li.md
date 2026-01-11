@@ -1,6 +1,5 @@
 ---
 title: "Jin Li"
-draft: true
 noteType: ":luggage:"
 aliases: "Jin Li"
 foundryId: Item.6F2YUnFKdnrqyLpJ
