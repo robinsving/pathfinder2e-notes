@@ -2,7 +2,7 @@ The polished heavy armour created dancing reflections on the walls of the empty 
 
 The book. It was supposed to have given him the missing piece of the puzzle, the final clues to figuring out what was going on. Instead he had found only strange glyphs and ripped out pages. His muscular jaw was shut tight. Sweat had formed from the ride here - athletic though he was, a whole night's hard riding was no simple task.
 
-He threw the book on the floor and looked at it for a second before slowly picking it up again and placing it back into the chest where he found it. He took out the [[Grandmother's locket|other item]] from within and studied its feathery engravings a bit before placing it in his backpack. Closing the lid, he placed the now broken lock on top of the chest, then with a sigh he left the attic and went down to the main floor of the manor.
+He threw the book on the floor and looked at it for a second before slowly picking it up again and placing it back into the chest where he found it. He took out the [[Zainas halssmycke|other item]] from within and studied its feathery engravings a bit before placing it in his backpack. Closing the lid, he placed the now broken lock on top of the chest, then with a sigh he left the attic and went down to the main floor of the manor.
 
 His orc father spoke softly as he approached.
 
@@ -19,7 +19,7 @@ On his ride back he prayed. It had been a long time since he had last done that.
 
 Forgiveness for shirking his duties to his men - his deities' edicts were those of protection, of defending others, which left little arguing on his part that he had done them wrong.
 
-But mostly he prayed that a battle had not been called. He knew that he was not only the lynchpin of many of the strategies they had been practicing - not surprising considering his prowess with the shield - but he was also one whom the others listened to, and looked up to. What would they think when they awoke in the morning and he was gone without a word? Would they think that he had abandoned them, now, when battle was a part of their days?
+But mostly he prayed that a battle had not been called. He knew that he was not only the lynchpin of many of the strategies they had been practicing within the squad - mostly due to his prowess with the shield - but he was also one whom the others listened to. What would they think when they awoke in the morning and he was gone without a word? Would they think that he had abandoned them, now, when battle was a part of their days?
 
 They would never forgive him.
 

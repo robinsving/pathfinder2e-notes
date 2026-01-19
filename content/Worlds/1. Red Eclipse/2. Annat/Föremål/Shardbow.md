@@ -1,0 +1,1 @@
+Båge som är så hårt spänd att den endast kan användas av en person med [[Shardplate]].
