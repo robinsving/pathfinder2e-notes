@@ -1,3 +1,10 @@
+---
+owner: Robin
+character: pc
+status: active
+class: "[[Champion]]"
+---
+
 Nee: 2nd Kuthona
 # Ancestry & heritage
 Grimm är en halv-orc ([[dromaar]]). Han har även någonting annat i sitt blod. Ängeln Nefaria från [[Prison break]] avslöjade detta till att vara [[Aasimar]]-blod.
