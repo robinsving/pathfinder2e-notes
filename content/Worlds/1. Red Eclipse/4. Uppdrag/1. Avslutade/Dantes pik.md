@@ -1,6 +1,7 @@
 ---
 tags:
   - quest
+  - completed
 ---
 Om Sofia tror rätt så är det ett övernaturligt väsen som är fängslat. Demon/drake och ingetdera. Den är frammanad in till Golarion.
 Om en demon tillåts besitta en drake så är de lättare att kontrollera, samt vice versa.

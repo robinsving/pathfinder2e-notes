@@ -1,6 +1,7 @@
 ---
 tags:
   - quest
+  - completed
 aliases:
   - Tetraeder
 ---
@@ -16,8 +17,8 @@ Vi behöver 6 nycklar.
 | ~~[[Cheliax]]~~ [[Hellknight Hills\|Citadel]]  | En ny levererad av [[Widows of the Setting Sun]]. Transport till Cheliax adel - Thrune Manor. 8 månader sedan. 50x50cm | ?                             |
 | ~~Miho~~ [[Sofia]]                             | Magi som kan återuppliva folk                                                                                          | [[Resurrection Stone Vision]] |
 | ~~Sybil~~                                      | 15x15cm                                                                                                                | [[Ocean vision]]?             |
-| Ön i Mwangi                                    | [[Dantes ö]], håller Dracodemondevourer fången                                                                         |                               |
-Nu har vi fått tag på alla utom den i [[Mwangi]].
+| ~~Ön i Mwangi~~                                | [[Dantes ö]], håller Dracodemondevourer fången                                                                         |                               |
+Nu har vi fått tag på alla!
 
 # Övriga visioner
 Visioner kan man även få från andra föremål

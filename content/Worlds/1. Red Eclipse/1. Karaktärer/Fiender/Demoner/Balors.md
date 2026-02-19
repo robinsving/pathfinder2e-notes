@@ -21,5 +21,5 @@ Balorerna är [[balor|Balor]].
 
 # Special abilities
 - Big badaboom när de dör: 11d8 [[Mechanics/Rule References/Fire|Fire]] (ignore half resistances) i massive burst radius
-- At will [[Dimension Door|Translocate]]
+- At will [[Translocate|Translocate]]
 - [[Mechanics/Character Building/equipment/items/vorpal|Vorpal]]-runor på båda vapnen.

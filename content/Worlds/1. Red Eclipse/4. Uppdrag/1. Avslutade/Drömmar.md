@@ -1,6 +1,7 @@
 ---
 tags:
   - quest
+  - completed
 ---
 Alla i [[Breachill]] har drömmar.
 
