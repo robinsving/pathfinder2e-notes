@@ -1,1 +1,1 @@
-En konstruktion i [[12 riken|Första Riket Hades]] som binder [[demon|Demon]]iska själar till sig, och tillåter pånyttfödelse.
+En konstruktion i [[12 riken|Första Riket Hades]] som binder [[demon|Demon]]iska själar till sig, och tillåter pånyttfödelse. Den är byggd där Hades och Void är som tunnast, och den får kraft via en kristall. Förstör kristallen, förstör Soulforgen.

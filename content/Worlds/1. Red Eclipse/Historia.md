@@ -40,7 +40,7 @@ Det skulle finnas ett land där ingen Valheru eller Demon fick gå. Alla som *ku
 Man kunde ta med andra, men då fick man lägga all sin kraft på att koncentrera sig på att hålla dem kvar.
 De lyckades hålla de stora nerfallen borta, tillsammans.
 
-Aroden valde att stanna. (Han är inte död.) Stannade i 9000 år för att hjälpa till att utveckla tekniker till invånarna i Golarion. Plötsligt kom en till del av Primus, tidigare missad, fallande mot jorden. Efter att han höjde Starstone så absorberade han så mycket energi att han var tvungen att lämna.
+Aroden valde att stanna. (Han är inte död.) Stannade i 9000 år för att hjälpa till att utveckla tekniker till invånarna i Golarion. Plötsligt kom en till del av Primus, tidigare missad, fallande mot jorden. Efter att han höjde [[Starstone]] så absorberade han så mycket energi att han var tvungen att lämna.
 
 Uppe i himlen är det stjärnor som slocknar. Teleportering dit visar ingenting där saker borde finnas. Aroden lägger all sin tid på att lösa mysteriet.
 1/3 av de stjärnor som fanns för 10k år sedan är borta.
@@ -67,4 +67,4 @@ En dag hittade jag en krigare i krig, som var hårt besatt ([[Grimm]]) vars sinn
 Det gav Sonya en idé, att om Desna återfötts, så kan hon också. Återfödd som en människa så skulle hon kunna kringgå pakten och återaktivera den gömda portalen som går mot första riket.
 Återfödd i Golarion, fäst vid Grimm. Med den delen och bevarad kropp så kan vi återskapa henne med hjälp av Soul Forge.
 
-I ett valv i Soul Forge så har [[Asmodeus]] en del av varje mäktig demons själ. Krossar man en sådan så dör demonen.
+~~I ett valv i Soul Forge så har [[Asmodeus]] en del av varje mäktig demons själ. Krossar man en sådan så dör demonen.~~

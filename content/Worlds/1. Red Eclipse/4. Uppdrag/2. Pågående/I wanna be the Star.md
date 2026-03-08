@@ -19,7 +19,7 @@ Bestämmer de vilken typ av gud vi blir?
 Bör vara relaterade till hur vi vill påverka världen med våra nya krafter?
 
 ## Möjliga frågor
-- Hur kan vi förinta [[Asmodeus]] så att han aldrig mer är ett hot för någon?
-- Hur kan jag rädda [[Desna]] utan att själv dö?
+- Hur kan vi lättast förinta [[Asmodeus]] så att han aldrig mer är ett hot för någon?
+- Hur kan jag rädda [[Desna]] utan att någon god varelse, inklusive mig, måste dö?
+- Hur kan jag bäst återställa [[Absalom]] för att göra den till en symbol att Motsätta sig Demoniska krafter?
 - ~~Vad hände med min mormor?~~
-- Hur kan jag bäst återställa [[Absalom]] och göra den till en symbol att Motsätta sig Demoniska krafter?

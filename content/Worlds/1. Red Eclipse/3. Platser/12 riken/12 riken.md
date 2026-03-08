@@ -7,7 +7,7 @@ aliases:
 Det finns "Tolv riken av helvetet". I verkligheten är världar som är anslutna till varandra, i lager.
 Alla ser lite förstörda ut, fram till 
 
-# 0. Void
+# 0. Svarta Intet
 Rikena börjar med nollte riket. Bristen på liv.
 # 1. Hades
 Demonernas hemvärld. Asmodeus styr Hades. Där finns även en [[Soulforge]] som kan återuppstå demoner som stupar i krig.
@@ -46,7 +46,7 @@ Troligen är världen ganska förstörd, och ser ut som andra helveten.
 Valherus hemvärld.
 # 11. "Det elfte riket"
 Spår av tidigare civilisation, men ingen aning om vilka.
-# 12. Vitality
+# 12. Ljusa Intet
 Rikena avslutar med tolfte riket. Överflöd på liv.
 
 # Kännedom om rikena

@@ -8,9 +8,18 @@ När Grimm tar över som PC
 
 # Inköpslista
 
-[[Living Mantle]]
-[[Entertainer's Cincture]] / [[accompaniment-cloak-tv|Accompaniment Cloak]]
-[[Devoted Vestments]] of [[Sofia]]
-[[tacticians-helm-tv|Tactician's Helm]] [[Tactician's Helm]]
-[[bracers-of-devotion-tv|Bracers of Devotion]] [[Bracers of Devotion]]
+[[Jyoti's Feather]] - [[Grimm]] (spellheart)
+[[Winged Sandals]] - [[Ktill]]
+[[Bracers of Missile Deflection (Greater)]] - [[Ktill]]
+[[Instinct Crown (Giant)]] - [[Ktill]]
+[[Scholar's Drop]] - [[Ktill]]
+[[Aeon Stone (Preserving)]] - [[Ktill]]
+~~[[Potion of Resistance (Greater)]] - All~~
+~~[[Soothing Powder (Greater)]] - All~~
+[[Tactician's Helm]] - [[Ktill]]
+Fireproof Gloves
 
+[[Ktill]] 3 / 10
+[[Mezisol]] 8 / 10
+[[Miho]] 9 / 10
+[[Glak]] 11 / 12

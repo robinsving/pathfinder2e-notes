@@ -4,7 +4,8 @@ Enligt sägnen är detta vad som är kvar efter [[Asmodeus]] kull av ägg, men d
 
 Nu är [[Tusenfotingen]] delad i små delar, varav den minsta biten är i en [[holy-water|Holy Water]] i [[Marcos|Marcos del Ray]] förvar.
 
-- [ ] Kan [[Marcos|Marcos del Ray]] hitta ett sätt att överkomma odödligheten?
+- [x] Kan [[Marcos|Marcos del Ray]] hitta ett sätt att överkomma odödligheten?
+[[Asmodeus]] kan dö av att utsättas för Ljusa Intet
 
 # Experiment
 
