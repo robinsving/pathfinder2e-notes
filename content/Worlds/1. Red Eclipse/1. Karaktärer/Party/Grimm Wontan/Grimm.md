@@ -24,7 +24,7 @@ Det finns flera effekter av detta
 	- Han lämnade för att förstå vem han är ([[Bloodline_ Angelic]])
 
 - Grimm är en alkoholist
-	- Han blev alkoholist efter kriget, och levde i [[Absalom]] och söp och spelade kort under 4 år
+	- Han blev alkoholist efter kriget, och levde i [[Worlds/1. Red Eclipse/3. Platser/12 riken/Golarion/Kortos/Absalom]] och söp och spelade kort under 4 år
 	- På grund av den förlust han kände efter deserteringen
 
 # Effekter

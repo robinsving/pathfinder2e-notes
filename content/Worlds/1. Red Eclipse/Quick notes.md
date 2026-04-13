@@ -1,7 +1,3 @@
-När Grimm tar över som PC
-- [x]  Fråga Sofia om [[Spearfishing]] - hur kan man stoppa [[Nightspear]]?
-- [x] Hur kan man återuppväcka Mephisto utan hans kropp? Dvs, hur tar man kroppen till första riket?
-- [x] Lämna över ett brev till Miho att leverera till hans syster och till hans föräldrar om han dör
 
 
 ---
@@ -17,7 +13,10 @@ När Grimm tar över som PC
 ~~[[Potion of Resistance (Greater)]] - All~~
 ~~[[Soothing Powder (Greater)]] - All~~
 [[Tactician's Helm]] - [[Ktill]]
+[Medal of Phoenix Fire](https://2e.aonprd.com/Equipment.aspx?ID=3971)
+
 Fireproof Gloves
+Scroll of [[Heroism]]?
 
 [[Ktill]] 3 / 10
 [[Mezisol]] 8 / 10

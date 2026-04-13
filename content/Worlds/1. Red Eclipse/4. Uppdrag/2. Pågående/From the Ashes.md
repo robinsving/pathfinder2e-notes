@@ -1,6 +1,7 @@
 ---
 tags:
   - quest
+  - completed
 aliases:
   - Phoenix-ashes
 ---

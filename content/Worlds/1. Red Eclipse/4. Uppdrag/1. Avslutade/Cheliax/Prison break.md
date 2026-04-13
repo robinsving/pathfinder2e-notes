@@ -49,7 +49,7 @@ Devil's Advocate.
 ## Wrim'tarion
 Purple-Wyrm ([[Wyrmwraith]]) är också fast, och skräckinjagande.
 
-## Koly X32971532819AYZ3217
+## [[Koli]] X32971532819AYZ3217
 Automaton från [[Sons of Marcos]], gruppen som räddade [[Magnus Grindlewald]]. Känner till [[Cheliax]] planer om världsdominans. Rådet planerar oftare för att beskydda än för att förhindra. Information om historia är "förbjuden"
 
 ## Cyal
