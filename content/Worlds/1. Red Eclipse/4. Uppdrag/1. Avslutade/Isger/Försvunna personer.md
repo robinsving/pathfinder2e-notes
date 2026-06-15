@@ -3,58 +3,100 @@ tags:
   - completed
   - quest
 ---
-Where is the other adventuring party? Gone fishing for slavers. Dead now, one traitor.
 
-Where is the sheriff? Dead (head) along with some city guard
+# Försvunna personer (Missing People - Breachill/Isger)
 
-Laiger
+## Huvudfall (Main Case)
 
-Janice, Freds dotter blev räddade av partyt.
+Där går den andra äventyrargruppen? Fiskade på slavjakt. De är döda nu, och en var förrädare.
 
-## "Billy" the dead guy
+Där är sheriffen? Död (huvudet avslaget) tillsammans med några stadsvakter.
 
-Arbetade på lumbermill.
+## Huvudfinnanden (Key Findings)
 
-## Billy Bobskish
+### Brott och Complot
+- Komplott från [[Cheliax]] för att destabilisera [[Isger]] via High Marshal Icentika
+- Plan: orsaka oreda så att [[Isger]] tvingas be [[Cheliax]] om hjälp
+- Involverad: [[Voss]] från Reliant Book Company (alkemisk inblandning)
+- Leveranser via postkontoret första söndagen varje månad (1,5 år leveranser)
+- Voss vän i Senara skickade leveranser till Elidir
 
-## Thomas, Scott, Novak (i Breach Creek Lumber prison)
+### Booth Infuserade Alkemiska Ampuller
+- Skapad av **Bröderna Posadi** (stenhuggare) i ett glasblåseri
+- Innehål: Orc- och människoblod blandat med andra substanser, "boosters"
+- Syfte: Drog avsedd att stärka livskrafter genom blodsammansmältning
+- Blod från människa + orc + goblin
+- Ampuller öppnade 47h37m innan funnet
 
-## Timmy, Carter, Edwin (tog ampull, blev mordiska och flydde)
+### Offren (Victims)
+- **Timmy, Carter, Edwin** - tog ampuller, blev våldsamma och flydde - funna döda senare
+- **Thomas, Scott, Novak** - fångar i Breach Creek Lumber, överlevde
+- **Billy** - arbetade på lumbermill, funnen död
+- **Andra stadsvakter och sheriffen** - mördade
+- Sheriff död med avslaget huvud
 
-Hittades död efter att förmodligen ha druckit en okänd alkemisk ampull
+## Undersökningsresultat (Investigation Results)
 
-Obduktion av [[Mr. Akkula]]
+### Breach Creek Lumber Prison Operation
+- Underjordisk fängelseoperation under Breach Creek Lumber
+- Explosiv brand och kemisk reaktion från giftig gas
+- Lumbermill helt förstört
+- Många fångar dog från okänd orsak
 
-Människa + orc + goblin.
+### Alkemisternas Anteckningar
+- "V" hade en notebook (Grimm) med potionsinformation
+- Många potioner hittades på platsen
+- Notebook + potions väntade hos [[Renata]] för [[Voss]]
+- [[Mr. Akkula]] (coroner/investigator) samlade in små vials med människoblod
+- Någon i Elidir hade tillgång till samma flaskor
 
-Hämtning av virket ca 1 hrs med båten upstream.
+### Hemliga Katakomb
+- Farliga källare med fällor under lumbermill
+- Outvecklade delar som bara ledde till Voss (som inte visste något)
 
-# Ampullen
+## Uppgörelse (Final Battle & Resolution)
 
-Orc- och människoblod blandat med andra substanser, "boosters".
+### Banditernas Läger
+- Jakt och spårning av banditer in i bergen
+- Upptäckt av banditläger med minst två mördare från farmmordet
+- Banditkavorna utforskade
 
-Drog som skapats med blod, ämnad att stärka livskrafter.
+### Infernalisk Rike-Batalla
+- Kamp mot Ether Spider och demoniska enheter
+- Portalaktivering
+- Möte med Basilisk
+- **Major slag i ett infernalisk/planärt rike mot demoner och draker**
+- Party-medlemmarna **Char och Miho** dog men återupplivades
 
-Bröderna Posadi - stenhuggare har gjort ampullen i glasblåseri
+### Byte & Belöningar (Loot & Rewards)
+- **10,000 guld platinum** från Lady Sybill / Pseudopolis Manor
+- Alkemistens notebook med receptspår
+- Flera alkemiska potioner och vials
+- **Mekanisk fågel** som blev Char's följeslagare
+- **Kristalliserad granit** (500 guld/ton)
+- **Vanlig granit** (200 guld/ton)
+- **Bok "Gifts and Antidotes"** med demonisk och alkemisk kunskap
 
-47h37m sedan öppnades den
+## NPCs & Referenser
 
-# V
+- **Janice** - Freds dotter, räddad av partyt från fängelset
+- **[[Voss]]** - Reliant Book Company, alkemisk inblandning, primär misstänkt
+- **[[Mr. Akkula]]** - Coroner/investigator, obducerade offren
+- **[[Renata]]** - Värdinna/informationsväxlare, förvarade notebook och potions
+- **High Marshal Icentika** - [[Cheliax]] militär, complotledare
+- **Bröderna Posadi** - Stenhuggare/alkemister, skapade blod-ampuller
+- **Greytusk** - Budbärare från Breachill, letade efter Voss vän
+- **Lady Sybill/Pseudopolis Manor** - Belöningsgivare
+- **Herman/Hippo** - Trollguard/magisk förvaltare
+- **Greta** - Lokal figur i utredningen
+- **Magnus** - Involverad i slutlig upplösning
 
-"V" har en notebook (Grimm). Den har information om potions.
+## Konsekvenser (Consequences)
 
-Brev från High Marshal Icentika - plan att ställa till oreda i [[Isger]] så att de måste be [[Cheliax]] om hjälp.
-
-Många potions hittades på platsen.
-
-Notebook + potions väntar hos Renata till Voz.
-
-Mr. Akkula tar small vials som innehåller människoblod. Någon i Elidir har tillgång till samma flaskor.
-
-Vs vän i Senara kanske skickar till Elidir. Greytusk letar efter vännen.
-
-Leverans via postkontoret 1a söndagen varje månad.
-
-1,5 år av leveranser
-
-Vi har outforskade delar i källaren, men de ledde bara till Voz, som inte vet någonting.
+- Breach Creek Lumber förstört i explosion
+- Virkehandel störd, kräver återuppbyggnad
+- Bevis på [[Cheliax]] inblandning i [[Isger]] politik återhämtat
+- Party-medlemmar upplevde död/återupplivning
+- Kunskap om infernalmagik och demoniska enheter vunnit
+- Omedelbar hotbildning neutraliserad
+- Komplotten exponerad för lokala myndigheter
